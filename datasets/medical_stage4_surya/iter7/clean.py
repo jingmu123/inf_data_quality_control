@@ -51,9 +51,10 @@ pattern_list = [
     # 介词前面有数字会有问题
     # [r'((\d+[\.,]?){1,5})(\s(and|or|the|:)\s)',r'删除7:<u>\1</u>\3'],
     # 给guidelines补充
-    [r'([^\d][\.,]\s?)([1-9][0-9]{1,4}(\s{0,3}[\-–,\.]\s{0,3}[1-9][0-9]{1,4}){1,20})(\n|\s?[A-Z])',r'\1\4'],
+    # [r'([^\d][\.,]\s?)(\d{1,4}(\s{0,3}[\-–,\.\s]\s{0,3}[1-9][0-9]{1,4}){0,20})(\n|\s?[A-Z])',r'\1\4'],
+    [r'([^\d][\.,]\s?)(\d{1,4}(\s{0,3}[\-–,\.\s]\s{0,3}\d{1,4}){0,20})(\n|\s?[A-Za-z])',r'\1\4'],
     # 结尾句号后面为数字和序号区别开序号后面还有一个.
-    [r'\.(\s?\d+)\n',r''],
+    # [r'([^\d]\.)(\s?\d{1,4}(\s{0,3}[\-–,\.]\s{0,3}[1-9][0-9]{1,4}){0,20})(\n)',r'\1\4'],
     [r'(#{1,3})\n',r'\1']
  ]
 
@@ -171,8 +172,8 @@ class speicalProces:
 
                 elif "#" not in item_sections[section_index] and "*" not in item_sections[section_index] and re.search(
                         r'[^\.?!]$', item_sections[section_index]) and re.match(r'^[a-z]', item_sections[
-                    section_index + 1].lstrip()):
-                    item_sections[section_index] += " 段内删除换行-5 " + item_sections[section_index + 1].lstrip()
+                    section_index + 1].lstrip()):    #段落中无#结尾无标点，下一段小写开头
+                    item_sections[section_index] += " " + item_sections[section_index + 1].lstrip()
                     del item_sections[section_index + 1]
 
                 elif re.search(r'\([^\)]*$|\[[^\]]*$', item_sections[section_index]) and re.match(r'^[^\(\[]*[\)\]]',
@@ -305,12 +306,13 @@ class speicalProces:
         cite_page = 1 if len(re.findall(r'\d+\s?:\d+\s?[–-]\s?\d+',item)) else 0
         cite_J = 1 if len(re.findall(r'\[[Jj]\]', item)) else 0
         cite_doi = 1 if " doi " in item else 0
-        cite_etal = 1 if " et al" in item else 0
+        cite_etal = 1 if (" et al" in item or 'et\u00A0al' in item) else 0
         cite_vol = 1 if " vol. " in item else 0
+
         # cite_page = 1 if len(re.search(r'\.\s?\b\d{4}\b',item)) else 0
         cite_phonenum = 1 if re.search(r" [Pp]hone:|Fax:", item) else 0
         cite_tag = [cite_index, cite_year, cite_J, cite_doi, cite_etal, cite_page, cite_vol, cite_phonenum]
-        if sum(cite_tag) > 1:
+        if sum(cite_tag) > 1 and '|' not in item:
             return "参考删除-0:<u>{}</u>".format(item)
 
         person_block, person_num = self.get_person_idx(item)
@@ -319,7 +321,8 @@ class speicalProces:
         person_lens = sum(person_block_lens)
         if person_lens / len(item) > 0.5 and len(item) > 100:
             return "参考删除-1:<u>{}</u>".format(item)
-        if person_num > 5:
+        # 只有个名字数量
+        elif person_num > 5 and  '|' not in item:
             return "参考删除-2:<u>{}</u>".format(item)
         # elif cite_index and person_num > 0:
         #     return "参考删除-3:<u>{}</u>".format(item)
@@ -483,54 +486,54 @@ def post_process(context):
 
 
 
-fw = open("C:\pycharm\orc识别pdf清洗数据\pdf\clean_json\medical_stage4_surya_preformat_6.jsonl", "w",encoding="utf-8")
-with open("C:\pycharm\orc识别pdf清洗数据\pdf\clean_json\medical_stage4_surya_preformat.jsonl", "r",encoding="utf-8") as fs:
-    for items in tqdm(fs.readlines()):
-        item = json.loads(items.strip())
-        # if item["seq_id"] == "c2f61d69-f1e9-4016-981a-60737def4dbe":
-
-        context = item
-        # lang = item["lang"]
-
-        context = clean_text(context, "en")
-        context = post_process(context)
-        if len(context) < 100:
-            continue
-        item["text"] = context
-        item = json.dumps(item, ensure_ascii=False)
-        # print(item)
-        fw.write(item + "\n")
-#
-
-
-
-# # 文件路径
-# input_file_path = "C:\\pycharm\\orc识别pdf清洗数据\\pdf\\clean_json\\guidelines_liangyong_surya_preformat_en.jsonl"
-# output_file_path = "C:\\pycharm\\orc识别pdf清洗数据\\pdf\\clean_json\\guidelines_liangyong_surya_preformat_en_2_5000.jsonl"
-#
-# # 读取所有记录
-# with open(input_file_path, "r", encoding="utf-8") as fs:
-#     lines = fs.readlines()
-#     # 随机抽取5000条记录
-#     sampled_lines = random.sample(lines, 5000)
-# # 处理并保存抽取的记录
-# with open(output_file_path, "w", encoding="utf-8") as fw:
-#     for items in tqdm(sampled_lines):
+# fw = open("C:\pycharm\orc识别pdf清洗数据\pdf\clean_json\medical_stage4_surya_preformat_7.jsonl", "w",encoding="utf-8")
+# with open("C:\pycharm\orc识别pdf清洗数据\pdf\clean_json\medical_stage4_surya_preformat.jsonl", "r",encoding="utf-8") as fs:
+#     for items in tqdm(fs.readlines()):
 #         item = json.loads(items.strip())
-#         # if item["seq_id"] == "f7afd344-b77a-4e73-92f1-65eb9910689a":
-#         context = item
+#         # if item["seq_id"] == "1d952aa1-0c62-4f17-9ab0-df1e032c5710":
 #
-#         # 清洗和处理文本
+#         context = item
+#         # lang = item["lang"]
+#
 #         context = clean_text(context, "en")
 #         context = post_process(context)
-#
 #         if len(context) < 100:
 #             continue
-#
 #         item["text"] = context
 #         item = json.dumps(item, ensure_ascii=False)
 #         # print(item)
 #         fw.write(item + "\n")
+
+
+
+
+# 文件路径
+input_file_path = "C:\\pycharm\\orc识别pdf清洗数据\\pdf\\clean_json\\guidelines_liangyong_surya_preformat_en.jsonl"
+output_file_path = "C:\\pycharm\\orc识别pdf清洗数据\\pdf\\clean_json\\guidelines_liangyong_surya_preformat_en_3.jsonl"
+
+# 读取所有记录
+with open(input_file_path, "r", encoding="utf-8") as fs:
+    lines = fs.readlines()
+    # # 随机抽取5000条记录
+    # sampled_lines = random.sample(lines, 5000)
+# 处理并保存抽取的记录
+with open(output_file_path, "w", encoding="utf-8") as fw:
+    for items in tqdm(lines):
+        item = json.loads(items.strip())
+        # if item["seq_id"] == "f7afd344-b77a-4e73-92f1-65eb9910689a":
+        context = item
+
+        # 清洗和处理文本
+        context = clean_text(context, "en")
+        context = post_process(context)
+
+        if len(context) < 100:
+            continue
+
+        item["text"] = context
+        item = json.dumps(item, ensure_ascii=False)
+        # print(item)
+        fw.write(item + "\n")
 
 
 
