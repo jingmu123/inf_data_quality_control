@@ -98,27 +98,24 @@ class speicalProces:
     def step1_drop_Pagefooter(self, item):
         # print(json.dumps(item, ensure_ascii=False))
         """
-        1.遍历最小的块判断是否为页边角
+        1.遍历full_blocks判断是否为页边角
         2.在text中找到内容给删掉
         """
         raw_info = item['attr']['raw_info']
         img_box = item['attr']['img_box']
         for raw in raw_info:
-            raw_context = raw['raw_context']
-            for least_block in raw_context:
-                least_bbox = least_block['bbox']
-                if self.is_page_foot(least_bbox,img_box):
-                    least_text = least_block['text']
-                    # print(least_text)
-                    # 对 least_text 进行正则转义
-                    escaped_least_text = re.escape(least_text)
+            full_blocks = raw['full_blocks']
+            if self.is_page_foot(full_blocks, img_box):
+                # 如果大块被删掉整段内容
+                block_text = raw['block_text'].strip()
+                # 对 least_text 进行正则转义
+                escaped_least_text = re.escape(block_text)
 
-                    # 构建正则模式，匹配可能的前后空格、换行符和连字符
-                    pattern = re.compile(escaped_least_text + r'[\s\n-]{0,5}')
+                # 构建正则模式，匹配可能的前后空格、换行符和连字符
+                pattern = re.compile(escaped_least_text + r'[\s\n-]{0,5}')
 
-                    # 使用正则表达式替换匹配的文本
-                    item['text'] = re.sub(pattern, '', item['text'])
-
+                # 使用正则表达式替换匹配的文本
+                item['text'] = re.sub(pattern, '', item['text'])
         # print(item)
 
         return item
