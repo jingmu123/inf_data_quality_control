@@ -64,6 +64,11 @@ pattern_list_en = [
     # [r'^(?!\n)(\d\.(\d{1,2}\.){1,10}\d?)\s?[^\d]',r'\n\1'],
     # [r'^(?!\n)(#{1,4}\s{,4})',r'\n\1'],
 
+    [r'\s?(\d+,)+\d+$', r'删除26_1:<u>\1</u>'],
+    [r'(?<=\.) \d+\.?\–?\,?(\d{0,3}\b|(?= ))', r'删除26_2:<u>\1</u>'],
+    [r'(?<=\.\n)([A-Z])\n', r'删除26_3:<u>\1</u>'],
+
+    [r'[^\。\.\"\?\n\d](\n) ?[A-Za-z\(]', r'删除26_4:<u>\1</u>']
 
  ]
 
@@ -73,7 +78,7 @@ context_pattern = [
 ]
 
 # nlp = spacy.load("en_core_web_trf")
-nlp = spacy.load("en_core_web_sm")
+# nlp = spacy.load("en_core_web_sm")
 
 class speicalProces:
     def __init__(self):
@@ -304,7 +309,7 @@ def clean_text(context, lang):
     # 缺少换行
     context = sp.step3_lack_linefeed(context)
     # 判定参考文献
-    context = sp.step4_removepage(context)
+    # context = sp.step4_removepage(context)
     for item in context:
         item = item.strip(split_token).strip()
 
@@ -338,8 +343,8 @@ def post_process(context):
 
 
 
-fw = open("C:\pycharm\orc识别pdf清洗数据\pdf\clean_json\medical_stage4_surya_preformat_5.jsonl", "w",encoding="utf-8")
-with open("C:\pycharm\orc识别pdf清洗数据\pdf\clean_json\medical_stage4_surya_preformat.jsonl", "r",encoding="utf-8") as fs:
+fw = open(r"C:\file\inf_data_quality_control\datasets\medical_stage4_surya\iter5\sample\medical_stage4_surya_clean.jsonl", "w",encoding="utf-8")
+with open(r"C:\file\inf_data_quality_control\datasets\medical_stage4_surya\iter5\sample\medical_stage4_surya_preformat.jsonl", "r",encoding="utf-8") as fs:
     for items in tqdm(fs.readlines()):
         item = json.loads(items.strip())
         # if item["seq_id"] == "7152ecc4-3754-46ed-a13d-7bc34c34b326":

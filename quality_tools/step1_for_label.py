@@ -84,10 +84,10 @@ def sample_data(file, lang_tag, save_file, append_title=False, need_special_spli
         fw_label.write(item)
 
 
-file_name = "guidelines_liangyong_surya"
-base_dir = f"../../full_data/{file_name}/"
+file_name = "medical_stage4_surya"
+base_dir = f"../datasets/{file_name}/"
 save_dir = f"../datasets/{file_name}/iter3/"
-file = f"{file_name}_clean_zh_sample"
+file = f"{file_name}_clean_en_sample"
 # save_file_en = "reclean4_dingxiangyisheng_en_label.jsonl"
 save_file_zh = f"{file_name}_zh_label.jsonl"
 split_token = "\n\n"
