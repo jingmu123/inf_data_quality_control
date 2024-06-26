@@ -14,7 +14,7 @@ pattern_list_en = [
     # 去除带有网址的句子,关键词   www、com、html、http
     # todo www,http放一起考虑，右边界的准确性需要考虑
     # todo com,html放一起考虑，左边界需要考虑
-    [r'([^\.\n]*(([Ww]{2,3}\.)|(\.[Cc][Oo][Mm])|(http)|(\.html))[^\n]*)',r'删除10:<u>\1</u>'],
+    [r'([^\.\n]*(([Ww]{2,3}\.)|(\.[Cc][Oo][Mm])|(http)|(\.html))[^\n]*)', r'删除10:<u>\1</u>'],
 
     [r'(\n\s*[a-zA-Z\.]\s*\n)', r'删除15:<u>\1</u>'],
     [r'([^\n]*Copyright[^\n]*)', r'删除18:<u>\1</u>'],
@@ -63,6 +63,17 @@ pattern_list_en = [
     # # 增加换行：两种概念情况，一种数字小标题，一种# 标题
     # [r'^(?!\n)(\d\.(\d{1,2}\.){1,10}\d?)\s?[^\d]',r'\n\1'],
     # [r'^(?!\n)(#{1,4}\s{,4})',r'\n\1'],
+
+    # 无关文本-无关数字
+    # [r'(\.\s)(\d+[\s])([A-Z])', r"\1删除20:<u>\2<u>\3"],
+    # [r'(\.\s)(\d+([,，]\d+)?[\s])([A-Z])', r"\1删除无关数字:<u>\2</u>\4"],
+    # [r'([\.,，]\s)(\d+([,，]\d+)?[\s])([A-Za-z\s])', r"\1删除无关数字:<u>\2</u>\4"] # 有误删可能
+    # [r'([\.,，]\s)(\d+(\s?[,，–，–]\s?\d+)?[\s])([A-Za-z\s])', r"\1删除无关数字:<u>\2</u>\4"],
+    # [r'([\.,，)]\s)(\d+(\s?[\.,，–，–]?\s?\d+)?[\s]?)([A-Za-z\s])', r"\1删除无关数字:<u>\2</u>\4"],  # ([\.,，–，–]?\s?\d+)?
+    [r'([\.,，)]\s)(\d+(\s?[\.,–，]?\s?\d+)?[\s]?)([A-Za-z\s]?)',  r"\1删除无关数字:<u>\2</u>\4"],
+
+    # 多余换行
+    [r'([A-Za-z,](\w+)?)(\n+(【\d+】)?)([A-Za-z,.](\w+)?)', r'\1删除多余换行:<u>\3</u>\5']
 
 
  ]
@@ -336,9 +347,9 @@ def post_process(context):
     return context
 
 
-
-fw = open("C:\Program Files\lk\pdf\clean_json\medical_stage4_surya_preformat_5.jsonl", "w", encoding="utf-8")
-
+# 保存路径
+fw = open("C:\Program Files\lk\pdf\clean_json\medical_stage4_surya_preformat_clean_2.jsonl", "w", encoding="utf-8")
+# 读取路径
 with open("C:\Program Files\lk\pdf\clean_json\medical_stage4_surya_preformat.jsonl", "r", encoding="utf-8") as fs:
     for items in tqdm(fs.readlines()):
         item = json.loads(items.strip())
