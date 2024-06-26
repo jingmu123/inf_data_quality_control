@@ -15,7 +15,7 @@ model = kenlm.LanguageModel(r"C:\Users\Administrator\Desktop\4k_gram.klm")
 pattern_list = [
 
 
-
+    #test
     # 去除带有网址的句子,关键词   www、com、html、http
     # todo www,http放一起考虑，右边界的准确性需要考虑
     # todo com,html放一起考虑，左边界需要考虑
