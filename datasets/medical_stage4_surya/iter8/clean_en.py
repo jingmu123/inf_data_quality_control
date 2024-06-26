@@ -125,7 +125,7 @@ class speicalProces:
 
         return item
 
-    def delete_photopage(self, item):
+    def step2_delete_photopage(self, item):
         raw_info = item['attr']['raw_info']
         img_box = item['attr']['img_box']
         img_area = (img_box[2] - img_box[0]) * (img_box[3] - img_box[1])
@@ -193,7 +193,7 @@ class speicalProces:
 
         return False
 
-    def step2_more_linefeed(self, context):
+    def step3_more_linefeed(self, context):
         # print(context)
         index = 0
         while index < len(context):
@@ -314,7 +314,7 @@ class speicalProces:
         # print(context)
         return context
 
-    def step3_lack_linefeed(self,context):
+    def step4_lack_linefeed(self,context):
         new_context = []
         for item in context:
             # 查找 #•，并在其前后加换行符
@@ -354,7 +354,7 @@ class speicalProces:
                 person_num += 1
         return person_block, person_num
 
-    def step4_rm_cite(self, item):
+    def step5_rm_cite(self, item):
         # patterns = [
         #     r'\.\s?\b\d{4}\b',  # 年份，比如 . 2010
         #     r'\b\d{4}\b\s?;',  # 年份，比如 2010;
@@ -398,7 +398,7 @@ class speicalProces:
         else:
             return item
 
-    def step4_removepage(self, context):
+    def step5_removepage(self, context):
         # context 是一个列表，每个 item 是一段内容
         context_lens = len(context)
         # 用于统计有多少个段落中出现了人名
@@ -406,7 +406,7 @@ class speicalProces:
         new_context = []
         for item in context:
             # 返回的item是已经被重写过的item
-            item = self.step4_rm_cite(item)
+            item = self.step5_rm_cite(item)
             # 新的item重新加入一个新的列表
             new_context.append(item)
             # 判断item是否被判定未参考文献
@@ -422,7 +422,7 @@ class speicalProces:
             new_context = [item for item in new_context if not re.search(r'参考删除', item)]
             return new_context
 
-    def ngram_deletenum(self, context):
+    def step6_ngram_deletenum(self, context):
         # print(context)
         """
         循环 context 里面每个 item, 切分 item, 切分后每个最小单位就是一行内容，使用 ngram 判定数字
@@ -479,7 +479,7 @@ class speicalProces:
         return new_context
 
 
-    def step5_is_shortpage(self,context):
+    def step7_is_shortpage(self,context):
         duanluo_num = len(context)
         short_duanluo_num = 0
         if duanluo_num <= 3:
@@ -518,28 +518,28 @@ def clean_text(context):
     """
     目前的顺序
     step1:删除页边角
-    删除图片页
-    step2:解决多于换行
-    step3:解决缺少换行
-    step4:解决参考文献以及参考文献页
+    step2:删除图片页
+    step3:解决多于换行
+    step4:解决缺少换行
+    step5:解决参考文献以及参考文献页
     正则替换
-    ngram删除未替换的数字
-    step5:删除短页
+    step6:ngram删除未替换的数字
+    step7:删除短页
     """
     context = sp.step1_drop_Pagefooter(context)
 
-    context = sp.delete_photopage(context)
+    context = sp.step2_delete_photopage(context)
 
     context = post_process(context["text"])
     # context是一个以两个换行符为切割条件的列表
     context = context.split(split_token)
     # 多余换行
-    context = sp.step2_more_linefeed(context)
+    context = sp.step3_more_linefeed(context)
     # 缺少换行
-    context = sp.step3_lack_linefeed(context)
+    context = sp.step4_lack_linefeed(context)
 
     # 判定参考文献
-    context = sp.step4_removepage(context)
+    context = sp.step5_removepage(context)
     # print(context)
     for item in context:
         item = item.strip(split_token).strip()
@@ -553,12 +553,12 @@ def clean_text(context):
             item = re.sub(pattern_item[0], pattern_item[1], item)
         result.append(item)
     # 使用NLP模型判断参考文献
-
+    context = sp.step6_ngram_deletenum(result)
     # 判断整页短路长短
-    context = sp.step5_is_shortpage(result)
+    context = sp.step7_is_shortpage(context)
 
     # 数字判定
-    context = sp.ngram_deletenum(context)
+
 
     context = split_token.join(context)
     return context
