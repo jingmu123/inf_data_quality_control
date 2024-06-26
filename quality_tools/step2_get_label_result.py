@@ -56,7 +56,7 @@ def get_label_info(result_info):
 # 读取并处理JSON文件
 final_result = {}
 error_list = {}
-base_dir = "../datasets/medical_stage4_surya/iter5/sample"
+base_dir = "SS"
 file_path = "{}/{}.jsonl".format(base_dir,"reclean5_stage4_surya")
 save_dir = "{}/output".format(base_dir)
 with open(file_path, "r", encoding="utf-8") as fs:
