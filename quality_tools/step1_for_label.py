@@ -77,7 +77,7 @@ def sample_data(file, lang_tag, save_file, append_title=False, need_special_spli
 
                 con.append(line)
 
-    sample_con = random.sample(con, min(len(con), 300))
+    sample_con = random.sample(con, min(len(con), 100))
     print(len(sample_con))
     fw_label = open(f"{new_dir}/{save_file}", 'w', encoding='utf-8')
     for item in sample_con:
