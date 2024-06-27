@@ -82,16 +82,16 @@ class speicalProces:
         上下边角，高度差值小block[3]-block[1]<=20，且更靠近盒子上下边界
         """
         # 检测右测边角
-        if img_box[2] - least_bbox[0] <= 80:
+        if img_box[2] - least_bbox[0] <= 100:
             return True
         # 检测下面边角
-        elif img_box[3] - least_bbox[1] <= 80:
+        elif img_box[3] - least_bbox[1] <= 100:
             return True
         # 检测左侧边角
-        elif least_bbox[2] - img_box[0] <= 80:
+        elif least_bbox[2] - img_box[0] <= 100:
             return True
         # 上边角会遇到标题这个问题，要不要解决？
-        elif least_bbox[3] - img_box[1] <= 80:
+        elif least_bbox[3] - img_box[1] <= 100:
             return True
         else:
             return False
