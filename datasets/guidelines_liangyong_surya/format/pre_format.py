@@ -59,6 +59,7 @@ with open(base_file, "r",encoding="utf-8") as fs:
             }
         else:
             print("重复---",items)
+            continue
         data_dict[md5] = new_data
 
     print("saving data....with error:",count)
