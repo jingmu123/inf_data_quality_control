@@ -10,11 +10,9 @@ inflect = inflect.engine()
 import kenlm
 from nltk.tokenize import word_tokenize
 
-model = kenlm.LanguageModel(r"C:\Users\Administrator\Desktop\4k_gram.klm")
+
 
 pattern_list = [
-
-
 
     # 去除带有网址的句子,关键词   www、com、html、http
     # todo www,http放一起考虑，右边界的准确性需要考虑
@@ -67,7 +65,7 @@ context_pattern = [
 
 # nlp = spacy.load("en_core_web_trf")
 nlp = spacy.load("en_core_web_sm")
-
+model = kenlm.LanguageModel(r"/Users/mirli/worker/code/code_work/pythonProject1/ngram/4k_gram.klm")
 class speicalProces:
     def __init__(self):
         pass
