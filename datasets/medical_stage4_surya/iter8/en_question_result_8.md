@@ -1,62 +1,78 @@
-## 无关文本
+#### 无关文本
 
 模型判断数字是否合理
 
-需要确定text处理单位  放在哪里？
+需要不断地补充情况
 
 ```
-def get_score(sentence):
-    tokenize_text = word_tokenize(sentence)
-    final_text = " ".join(tokenize_text)
-    score = model.score(final_text, bos=False, eos=False)
-    length = len(tokenize_text)
-    score = (10 ** (-score / length))
-    return score
+ def step6_ngram_deletenum(self, context):
+        # print(context)
+        """
+        循环 context 里面每个 item, 切分 item, 切分后每个最小单位就是一行内容，使用 ngram 判定数字
+        :param context:
+        :return: new_context
+        """
+        new_context = []
 
-def ngram_deletenum(text):
-    pattern = r'\d+(\s?[\-–\.,]?\s?\d+){0,10}'
-    best_score = get_score(text)
-    print("Initial score:", best_score)
+        for item in context:
+            item_sections = re.split(r'\n', item)
+            new_item_sections = []
+            for section in item_sections:
+                # print(section)
 
-    while True:
-        matches = list(re.finditer(pattern, text))
-        if not matches:
-            break
+                section = section.strip()
+                if len(section) == 0:
+                    new_item_sections.append(section)
+                    continue
+                else:
+                    pattern = r'\d+(\s?[\-–\.,]?(to|and)?\s?\d+){0,10}'
+                    best_score = self.get_score(section)
 
-        # 找到所有匹配的数字及其位置
-        numbers_with_positions = [(match.group(), match.start(), match.end()) for match in matches]
+                    while True:
+                        matches = list(re.finditer(pattern, section))
+                        if not matches:
+                            break
 
-        # 标记是否更新了文本
-        updated = False
+                        # 找到所有匹配的数字及其位置
+                        numbers_with_positions = [(match.group(), match.start(), match.end()) for match in matches]
 
-        for num, start, end in numbers_with_positions:
-            if start > 0 and (text[start - 1] == '$' or text[start - 2] == '$'):
-                continue  # 如果数字位于美元符号之后，则跳过此数字
-            # 使用位置进行替换
-            modified_text = text[:start] + text[end:]
-            modified_score = get_score(modified_text)
+                        # 标记是否更新了文本
+                        updated = False
 
-            if modified_score < best_score:
-                best_score = modified_score  # 更新当前最优分数
-                text = modified_text  # 将分数低的文本重新赋给text
-                updated = True
-                print("Current best score and updated text:")
-                print(best_score)
-                print(text)
-                print("*" * 50)
-                break
+                        for num, start, end in numbers_with_positions:
+                            # print(num,start,end)
+                            # 如果是开头的数字，他可能是序号直接跳过
+                            if start >= 0 and start < 4:
+                                continue
+                            # 特殊符号后面的数字也都是合理了 不用检查直接跳过
+                            elif start > 0 and (section[start - 1] in ['$','>','<','='] or section[start - 2] in ['$','>','<','=']):
+                                continue
+                            # 使用位置进行替换
+                            modified_text = section[:start] + section[end:]
+                            modified_score = self.get_score(modified_text)
 
-        # 如果没有更新文本，跳出循环
-        if not updated:
-            break
+                            if modified_score < best_score:
+                                best_score = modified_score  # 更新当前最优分数
+                                section = modified_text  # 将分数低的文本重新赋给text
+                                updated = True
+                                break
 
-    return text
+                        # 如果没有更新文本，跳出循环
+                        if not updated:
+                            break
+                    new_item_sections.append(section)
+
+            new_context.append('\n'.join(new_item_sections))
+
+        return new_context
 
 ```
 
+补充：
 
 
-## 多余换行(已优化在一些换行出加入了ngram判断合成后的句子分数是不是低了，来确定一些换行)
+
+#### 多余换行(已优化在一些换行出加入了ngram判断合成后的句子分数是不是低了，来确定一些换行)
 
 加入模型（已解决）
 
@@ -81,7 +97,7 @@ def is_merge_ngram(self,text, next_text):
 
 
 
-新情况     3应该和1连接的但是中间穿插一个标题     （已解决）
+#### 多于换行新情况     3应该和1连接的但是中间穿插一个标题     （已解决）
 
 ```
 示例1:
@@ -117,10 +133,34 @@ In Infants, The Leading Causes Of Death Are Congenital
 【3】malformations, complications of prematurity, and SIDS. In children over 1 year of age, injury is the leading cause of death. Survival from traumatic cardiac arrest is rare, emphasizing the importance of injury prevention in reducing deaths.Motor vehicle crashes are the most common cause of fatal childhood injuries; targeted interventions, such as the use of child passenger safety seats, can reduce the risk of death. Resources for the prevention of motor vehicle-related injuries are detailed on the US
 ```
 
-（待完成）小写开头，去上一段判断是否有‘#’，如果有再往上找检查是否有‘#’，如果没有可以使用模型去判断该不该合
+小写开头，去上一段判断是否有‘#’，如果有再往上找检查是否有‘#’，如果没有可以使用模型去判断该不该合（已完成）
 
 ```
 """
 遇到小写开头的段 1.上一段没有#直接连上去 2.上一段有#但是不止一行，切上一段的最后一行和当前的第一行，使用模型判断该不该连 3.上一段有#但是只有一行，去上上段切最后一行和当前的第一行，模型判断该不该连
 """
 ```
+
+#### 参考文献，以及整页参考文献的判断
+
+
+
+#### 目录页(特征.)
+
+如果某一页在多个context中发现多个\.判定为目录页
+
+经观察发现有满足r'[\.\s]{15,}特征的基本就是目录页，在删除参看文献函数下加入这个特征
+
+```
+elif mulu_num > 0:
+    new_context.insert(0, "(本页删除)本页发现目录的特征")
+    return []
+```
+
+是不是可以从page_num字段中判定前几页，有什么其他方法拿到一些方法去判定他是不是目录页？
+
+每个pdf的前n页后n页可以设定一个严格的判定标准
+
+
+
+### guidelines分析

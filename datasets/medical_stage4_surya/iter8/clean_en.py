@@ -10,11 +10,9 @@ inflect = inflect.engine()
 import kenlm
 from nltk.tokenize import word_tokenize
 
-model = kenlm.LanguageModel(r"C:\Users\Administrator\Desktop\4k_gram.klm")
+
 
 pattern_list = [
-
-
 
     # 去除带有网址的句子,关键词   www、com、html、http
     # todo www,http放一起考虑，右边界的准确性需要考虑
@@ -54,7 +52,7 @@ pattern_list = [
     # [r'((\d+[\.,]?){1,5})(\s(and|or|the|:)\s)',r'删除7:<u>\1</u>\3'],
     # 给guidelines补充
     # [r'([^\d][\.,]\s?)(\d{1,4}(\s{0,3}[\-–,\.\s]\s{0,3}[1-9][0-9]{1,4}){0,20})(\n|\s?[A-Z])',r'\1\4'],
-    [r'([^\d][\.,]\s?)(\d{1,4}(\s{0,3}[\-–,\.\s]\s{0,3}\d{1,4}){0,20})(\n|\s?[A-Za-z]|$)',r'\1\4'],
+    [r'([^\d][\.,]\s?)(\d{1,4}(\s{0,3}[\-–,\.\s]\s{0,3}\d{1,4}){0,20})(\n|\s?[A-Z]|$)',r'\1\4'],
     # 结尾句号后面为数字和序号区别开序号后面还有一个.
     # [r'([^\d]\.)(\s?\d{1,4}(\s{0,3}[\-–,\.]\s{0,3}[1-9][0-9]{1,4}){0,20})(\n)',r'\1\4'],
     [r'(#{1,3})\n',r'\1']
@@ -67,7 +65,7 @@ context_pattern = [
 
 # nlp = spacy.load("en_core_web_trf")
 nlp = spacy.load("en_core_web_sm")
-
+model = kenlm.LanguageModel(r"/Users/mirli/worker/code/code_work/pythonProject1/ngram/4k_gram.klm")
 class speicalProces:
     def __init__(self):
         pass
@@ -82,50 +80,46 @@ class speicalProces:
         上下边角，高度差值小block[3]-block[1]<=20，且更靠近盒子上下边界
         """
         # 检测右测边角
-        if img_box[2] - least_bbox[0] <= 80:
+        if img_box[2] - least_bbox[0] <= 100:
             return True
         # 检测下面边角
-        elif img_box[3] - least_bbox[1] <= 80:
+        elif img_box[3] - least_bbox[1] <= 100:
             return True
         # 检测左侧边角
-        elif least_bbox[2] - img_box[0] <= 80:
+        elif least_bbox[2] - img_box[0] <= 100:
             return True
         # 上边角会遇到标题这个问题，要不要解决？
-        elif least_bbox[3] - img_box[1] <= 80:
+        elif least_bbox[3] - img_box[1] <= 100:
             return True
         else:
             return False
 
-
     def step1_drop_Pagefooter(self, item):
         # print(json.dumps(item, ensure_ascii=False))
         """
-        1.遍历最小的块判断是否为页边角
+        1.遍历full_blocks判断是否为页边角
         2.在text中找到内容给删掉
         """
         raw_info = item['attr']['raw_info']
         img_box = item['attr']['img_box']
         for raw in raw_info:
-            raw_context = raw['raw_context']
-            for least_block in raw_context:
-                least_bbox = least_block['bbox']
-                if self.is_page_foot(least_bbox,img_box):
-                    least_text = least_block['text']
-                    # print(least_text)
-                    # 对 least_text 进行正则转义
-                    escaped_least_text = re.escape(least_text)
+            full_blocks = raw['full_blocks']
+            if self.is_page_foot(full_blocks, img_box):
+                # 如果大块被删掉整段内容
+                block_text = raw['block_text'].strip()
+                # 对 least_text 进行正则转义
+                escaped_least_text = re.escape(block_text)
 
-                    # 构建正则模式，匹配可能的前后空格、换行符和连字符
-                    pattern = re.compile(escaped_least_text + r'[\s\n-]{0,5}')
+                # 构建正则模式，匹配可能的前后空格、换行符和连字符
+                pattern = re.compile(escaped_least_text + r'[\s\n-]{0,5}')
 
-                    # 使用正则表达式替换匹配的文本
-                    item['text'] = re.sub(pattern, '', item['text'])
-
+                # 使用正则表达式替换匹配的文本
+                item['text'] = re.sub(pattern, '', item['text'])
         # print(item)
 
         return item
 
-    def delete_photopage(self, item):
+    def step2_delete_photopage(self, item):
         raw_info = item['attr']['raw_info']
         img_box = item['attr']['img_box']
         img_area = (img_box[2] - img_box[0]) * (img_box[3] - img_box[1])
@@ -193,7 +187,7 @@ class speicalProces:
 
         return False
 
-    def step2_more_linefeed(self, context):
+    def step3_more_linefeed(self, context):
         # print(context)
         index = 0
         while index < len(context):
@@ -314,7 +308,7 @@ class speicalProces:
         # print(context)
         return context
 
-    def step3_lack_linefeed(self,context):
+    def step4_lack_linefeed(self,context):
         new_context = []
         for item in context:
             # 查找 #•，并在其前后加换行符
@@ -354,7 +348,7 @@ class speicalProces:
                 person_num += 1
         return person_block, person_num
 
-    def step4_rm_cite(self, item):
+    def step5_rm_cite(self, item):
         # patterns = [
         #     r'\.\s?\b\d{4}\b',  # 年份，比如 . 2010
         #     r'\b\d{4}\b\s?;',  # 年份，比如 2010;
@@ -377,13 +371,13 @@ class speicalProces:
         cite_doi = 1 if " doi " in item else 0
         cite_etal = 1 if (" et al" in item or 'et\u00A0al' in item) else 0
         cite_vol = 1 if " vol. " in item else 0
-
+        cite_pp= 1 if " Pp " or " pp " in item else 0
         # cite_page = 1 if len(re.search(r'\.\s?\b\d{4}\b',item)) else 0
         cite_phonenum = 1 if re.search(r" [Pp]hone:|Fax:", item) else 0
-        cite_tag = [cite_index, cite_year, cite_J, cite_doi, cite_etal, cite_page, cite_vol, cite_phonenum]
+        mulu = 1 if re.search(r'[\.\s]{15,}',item) else 0
+        cite_tag = [cite_index, cite_year, cite_J, cite_doi, cite_etal, cite_page, cite_vol, cite_phonenum,cite_pp]
         if sum(cite_tag) > 1 and '|' not in item:
             return "参考删除-0:<u>{}</u>".format(item)
-
         person_block, person_num = self.get_person_idx(item)
         # 超过5个人名
         person_block_lens = [block_item[1] - block_item[0] for block_item in person_block]
@@ -395,34 +389,43 @@ class speicalProces:
             return "参考删除-2:<u>{}</u>".format(item)
         # elif cite_index and person_num > 0:
         #     return "参考删除-3:<u>{}</u>".format(item)
+        elif mulu:
+            return "目录删除:<u>{}</u>".format(item)
         else:
             return item
 
-    def step4_removepage(self, context):
+    def step5_removepage(self, context):
         # context 是一个列表，每个 item 是一段内容
         context_lens = len(context)
         # 用于统计有多少个段落中出现了人名
         num = 0
+        mulu_num = 0
         new_context = []
         for item in context:
             # 返回的item是已经被重写过的item
-            item = self.step4_rm_cite(item)
+            item = self.step5_rm_cite(item)
             # 新的item重新加入一个新的列表
             new_context.append(item)
             # 判断item是否被判定未参考文献
             if re.search(r'参考删除',item):
                 # 如果当前段落中有人名且符合参考文献的特征
                 num += 1
+            elif re.search(r'目录删除',item):
+                mulu_num += 1
+        # print(new_context)
         # 对整页的一个判断
         if context_lens >= 4 and num >= context_lens * 0.5:
             new_context.insert(0, "(本页删除)本页在超过一半的段落中发现人名且符合参考文献的特征")
+            return []
+        elif mulu_num > 0:
+            new_context.insert(0, "(本页删除)本页发现目录的特征")
             return []
         else:
             # 删除 new_context 中被标记为参考删除的 item
             new_context = [item for item in new_context if not re.search(r'参考删除', item)]
             return new_context
 
-    def ngram_deletenum(self, context):
+    def step6_ngram_deletenum(self, context):
         # print(context)
         """
         循环 context 里面每个 item, 切分 item, 切分后每个最小单位就是一行内容，使用 ngram 判定数字
@@ -442,7 +445,7 @@ class speicalProces:
                     new_item_sections.append(section)
                     continue
                 else:
-                    pattern = r'\d+(\s?[\-–\.,]?\s?\d+){0,10}'
+                    pattern = r'\d+(\s?[\-–\.,]?(to|and)?\s?\d+){0,10}'
                     best_score = self.get_score(section)
 
                     while True:
@@ -457,8 +460,13 @@ class speicalProces:
                         updated = False
 
                         for num, start, end in numbers_with_positions:
-                            if start > 0 and (section[start - 1] == '$' or section[start - 2] == '$'):
-                                continue  # 如果数字位于美元符号之后，则跳过此数字
+                            # print(num,start,end)
+                            # 如果是开头的数字，他可能是序号直接跳过
+                            if start >= 0 and start < 4:
+                                continue
+                            # 特殊符号后面的数字也都是合理了 不用检查直接跳过
+                            elif start > 0 and (section[start - 1] in ['$','>','<','='] or section[start - 2] in ['$','>','<','=']):
+                                continue
                             # 使用位置进行替换
                             modified_text = section[:start] + section[end:]
                             modified_score = self.get_score(modified_text)
@@ -479,7 +487,7 @@ class speicalProces:
         return new_context
 
 
-    def step5_is_shortpage(self,context):
+    def step7_is_shortpage(self,context):
         duanluo_num = len(context)
         short_duanluo_num = 0
         if duanluo_num <= 3:
@@ -518,28 +526,28 @@ def clean_text(context):
     """
     目前的顺序
     step1:删除页边角
-    删除图片页
-    step2:解决多于换行
-    step3:解决缺少换行
-    step4:解决参考文献以及参考文献页
-    正则替换
-    ngram删除未替换的数字
-    step5:删除短页
+    step2:删除图片页
+    step3:解决多于换行
+    step4:解决缺少换行
+    step5:解决参考文献以及参考文献页
+    正则替换  
+    step6:ngram删除未替换的数字
+    step7:删除短页
     """
     context = sp.step1_drop_Pagefooter(context)
 
-    context = sp.delete_photopage(context)
+    context = sp.step2_delete_photopage(context)
 
     context = post_process(context["text"])
     # context是一个以两个换行符为切割条件的列表
     context = context.split(split_token)
     # 多余换行
-    context = sp.step2_more_linefeed(context)
+    context = sp.step3_more_linefeed(context)
     # 缺少换行
-    context = sp.step3_lack_linefeed(context)
+    context = sp.step4_lack_linefeed(context)
 
     # 判定参考文献
-    context = sp.step4_removepage(context)
+    context = sp.step5_removepage(context)
     # print(context)
     for item in context:
         item = item.strip(split_token).strip()
@@ -552,13 +560,16 @@ def clean_text(context):
         for pattern_item in context_pattern:
             item = re.sub(pattern_item[0], pattern_item[1], item)
         result.append(item)
-    # 使用NLP模型判断参考文献
 
+    # print(result)
+    # 使用NLP模型判断参考文献
+    context = sp.step6_ngram_deletenum(result)
+    # print(context)
     # 判断整页短路长短
-    context = sp.step5_is_shortpage(result)
+    context = sp.step7_is_shortpage(context)
 
     # 数字判定
-    context = sp.ngram_deletenum(context)
+
 
     context = split_token.join(context)
     return context
@@ -590,51 +601,51 @@ def process_line(items, sp):
 
 
 
-# fw = open("C:/pycharm/orc识别pdf清洗数据/pdf/clean_json/medical_stage4_surya_preformat_8.jsonl", "w", encoding="utf-8")
-# with open("C:/pycharm/orc识别pdf清洗数据/pdf/clean_json/medical_stage4_surya_preformat.jsonl", "r", encoding="utf-8") as fs:
-#     for items in tqdm(fs.readlines()):
-#         item = json.loads(items.strip())
-#         # if item["seq_id"] == "5352b0b3-6b3b-45b4-887e-251a76b356bd":
-#
-#         context = item
-#         # lang = item["lang"]
-#
-#         context = clean_text(context)
-#         context = post_process(context)
-#         if len(context) < 100:
-#             continue
-#         item["text"] = context
-#         item = json.dumps(item, ensure_ascii=False)
-#         # print(item)
-#         fw.write(item + "\n")
+fw = open("C:/pycharm/orc识别pdf清洗数据/pdf/clean_json/medical_stage4_surya_preformat_8.jsonl", "w", encoding="utf-8")
+with open("C:/pycharm/orc识别pdf清洗数据/pdf/clean_json/medical_stage4_surya_preformat.jsonl", "r", encoding="utf-8") as fs:
+    for items in tqdm(fs.readlines()):
+        item = json.loads(items.strip())
+        # if item["seq_id"] == "bbad3368-6598-45ca-a478-adcae38d6af2":
+
+        context = item
+        # lang = item["lang"]
+
+        context = clean_text(context)
+        context = post_process(context)
+        if len(context) < 100:
+            continue
+        item["text"] = context
+        item = json.dumps(item, ensure_ascii=False)
+        # print(item)
+        fw.write(item + "\n")
 
 
 
 
 # 文件路径
-input_file_path = "C:\\pycharm\\orc识别pdf清洗数据\\pdf\\clean_json\\guidelines_liangyong_surya_preformat_en.jsonl"
-output_file_path = "C:\\pycharm\\orc识别pdf清洗数据\\pdf\\clean_json\\guidelines_liangyong_surya_preformat_en_4.jsonl"
-
-# 读取所有记录
-with open(input_file_path, "r", encoding="utf-8") as fs:
-    lines = fs.readlines()
-    # # 随机抽取5000条记录
-    # sampled_lines = random.sample(lines, 5000)
-# 处理并保存抽取的记录
-with open(output_file_path, "w", encoding="utf-8") as fw:
-    for items in tqdm(lines):
-        item = json.loads(items.strip())
-        # if item["seq_id"] == "f7afd344-b77a-4e73-92f1-65eb9910689a":
-        context = item
-
-        # 清洗和处理文本
-        context = clean_text(context)
-        context = post_process(context)
-
-        if len(context) < 100:
-            continue
-
-        item["text"] = context
-        item = json.dumps(item, ensure_ascii=False)
-        # print(item)
-        fw.write(item + "\n")
+# input_file_path = "C:\\pycharm\\orc识别pdf清洗数据\\pdf\\clean_json\\guidelines_liangyong_surya_preformat_en.jsonl"
+# output_file_path = "C:\\pycharm\\orc识别pdf清洗数据\\pdf\\clean_json\\guidelines_liangyong_surya_preformat_en_4.jsonl"
+#
+# # 读取所有记录
+# with open(input_file_path, "r", encoding="utf-8") as fs:
+#     lines = fs.readlines()
+#     # # 随机抽取5000条记录
+#     # sampled_lines = random.sample(lines, 5000)
+# # 处理并保存抽取的记录
+# with open(output_file_path, "w", encoding="utf-8") as fw:
+#     for items in tqdm(lines):
+#         item = json.loads(items.strip())
+#         # if item["seq_id"] == "f7afd344-b77a-4e73-92f1-65eb9910689a":
+#         context = item
+#
+#         # 清洗和处理文本
+#         context = clean_text(context)
+#         context = post_process(context)
+#
+#         if len(context) < 100:
+#             continue
+#
+#         item["text"] = context
+#         item = json.dumps(item, ensure_ascii=False)
+#         # print(item)
+#         fw.write(item + "\n")

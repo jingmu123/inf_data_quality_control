@@ -3,8 +3,8 @@ import json
 type1={}
 type2={}
 
-file=""
-save_file = f"../../../../full_data/{file}/.jsonl"
+file="guidelines_liangyong_surya"
+save_file = f"../../../../full_data/{file}/{file}.jsonl"
 fw = open(save_file, 'w',encoding="utf-8")
 
 with open(f"../../../../full_data/{file}/all_data_preformat.jsonl", "r",encoding="utf-8") as fs:
