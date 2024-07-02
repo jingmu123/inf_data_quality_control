@@ -58,7 +58,11 @@ final_result = {}
 error_list = {}
 base_dir = "../datasets/medical_stage4_surya/iter8/sample"
 file_path = "{}/{}.jsonl".format(base_dir,"reclean8_stage4_surya")
+base_dir = "../datasets/medicalpdf/iter2/sample"
+file_path = "{}/{}.jsonl".format(base_dir,"reclean2_medicalpdf_en")
 save_dir = "{}/output".format(base_dir)
+if not os.path.exists(save_dir):
+    os.makedirs(save_dir)
 with open(file_path, "r", encoding="utf-8") as fs:
     for line in fs.readlines():
         data = json.loads(line)
