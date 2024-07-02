@@ -56,8 +56,8 @@ def get_label_info(result_info):
 # 读取并处理JSON文件
 final_result = {}
 error_list = {}
-base_dir = "SS"
-file_path = "{}/{}.jsonl".format(base_dir,"reclean5_stage4_surya")
+base_dir = "../datasets/medical_stage4_surya/iter8/sample"
+file_path = "{}/{}.jsonl".format(base_dir,"reclean8_stage4_surya")
 save_dir = "{}/output".format(base_dir)
 with open(file_path, "r", encoding="utf-8") as fs:
     for line in fs.readlines():
@@ -105,6 +105,7 @@ with open(file_path, "r", encoding="utf-8") as fs:
 
         type_all = "#".join(list(set([item.split("#")[1] for item in label_info])))
         file_name = "{}/{}_{}_{}.txt".format(save_dir,text_info["seq_id"],type_all,user_name)
+        os.makedirs(save_dir, exist_ok=True)
         with open(file_name, "w",encoding="utf-8") as fw:
             fw.write(text_info["text"])
             fw.write(user_name+"\n")
@@ -116,7 +117,7 @@ with open(file_path, "r", encoding="utf-8") as fs:
 
 
 os.makedirs(save_dir, exist_ok=True)
-with open(f"{save_dir}/en_0131.json","w") as fw:
+with open(f"{save_dir}/en_0131.json","w",encoding="utf-8") as fw:
     json.dump(final_result,fw,ensure_ascii=False,indent=4)
 
 clean_count = 0
