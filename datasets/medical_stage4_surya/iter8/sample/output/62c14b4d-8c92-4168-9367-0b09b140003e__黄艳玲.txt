@@ -1,0 +1,24 @@
+【0】页码:224
+Internist: A physician specialized in the non-surgical medical care of adults.
+
+【1】Larynx: The voice box. Two vocal cords allow for speech as inhaled air passes between them, and sets up vibrations within the larynx located in the mid-neck.
+
+【2】Leptin: Leptin is a human protein identified in 1994, and named after leptos the Greek word for "thin."
+Leptin seems to play a role in the regulation of fat accumulation. In humans, increasing body fat appears to correlate with increased leptin levels.
+
+【3】Leukotriene:      Leukotrienes are inflammatory molecules. There are two families of leukotrienes. One in particular, called the cysteinyl-leukotriene, is important in asthma and allergy. Cysteinyl-leukotrienes are released in increased number during asthma exacerbations. Drugs, known as "leukotriene modifiers," have been developed based on current knowledge of leukotrienes. The leukotriene modifiers include:  receptor antagonists or blockers, and  synthesis inhibitors. The first class blocks the effects of leukotrienes (blockers), while the second interferes with their formation (synthesis inhibitors).
+Medicines in the first category are very safe and widely used in the maintenance treatment of allergic rhinitis and asthma.
+
+【4】MDI: Stands for metered dose inhaler. MDIs are devices that allow the delivery of a precise and accurate dose of medicine to the lungs by inhalation. MDIs are reliable, portable, and very convenient. Many different types of respiratory medicines come in MDI form, including short-acting "rescue" bronchodilators, inhaled steroids, and antiinflammatory medicines, as well as inhaled anticholinergics. Medicines in MDI form are used in the treatment of asthma and COPD. The newer MDIs use a CFC-free propellant, usually HFA.
+
+【5】Methacholine challenge test: The methacholine challenge test is a type of bronchoprovocation test. It is a specialized PFT used in the evaluation of suspected asthma, when the diagnosis is otherwise uncertain.
+
+【6】Morbidity: A measure of illness in a given population. The yearly morbidity rate from a disease is defined as the proportion of people affected by that disease per year, per given unit of population.
+
+【7】Mortality: A measure of illness; the rate of death from a disease in a given community or population at a precise point in time. The yearly mortality rate from a disease is defined as the ratio of deaths due to that disease, to the total number of persons in that community or population.
+
+【8】Mucus: Mucus is a mixture composed of water, salt, and proteins produced by specialized cells in the nose  , sinuses, and lung passages. Mucus黄艳玲
+
+====================================================================================================
+
+oss://inf-beta/datasets/medical_books_v1130/100 Questions and Answers About Asthma (Claudia S. Plotte) (Z-Library).pdf

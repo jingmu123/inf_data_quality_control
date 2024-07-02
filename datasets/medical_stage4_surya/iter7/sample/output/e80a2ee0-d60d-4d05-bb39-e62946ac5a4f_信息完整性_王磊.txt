@@ -1,0 +1,23 @@
+页码:56
+##删除换行1:<u>| |</u>What Will You Experience?
+
+【1】Wondering what happens in this rehabilitation therapy? Here are a few things that you can expect from a specialized therapist:
+
+【2】1. Initial sessions with the therapist will involve the assessment of symptoms and condition. Patients may be asked about their existing symptoms, and they will also be asked what improves or worsens their condition.
+
+【3】2. Medical history can also be reviewed to help the therapist evaluate the patient's condition. From these assessment results, the specialist will be able to develop an individualized plan for therapy.
+
+【4】3. Typically, facial electromyography (EMG) is an essential part in the diagnosis of patients with Bell's palsy. It helps detect the presence of the condition and evaluates the extent of damage to the facial nerve. This also helps the therapist get an idea of the rate of recovery. There is no need to worry about this test. It is a simple, painless procedure and will not take much time.
+
+【5】4. If the therapist doesn't have access to an EMG machine, he or she can evaluate the condition through careful inspection of facial features including the cheeks, lips, brows, etc. The therapist might ask patients to raise their eyebrows, close their eyes or smile widely. Through these actions, the therapist will be able to observe the symmetry and movement of the face. This will also help evaluate nerve functions.
+
+【6】5. After this, the therapist will be able to judge the extent of weakness of the facial muscles. Subsequently, patients will be guided as to how they can protect their face and eyes. Therapists will perform the role of a coach and educate patients about how they can perform their daily life functions with this condition.
+
+【7】6. If patients have severe problems, such as extremely dry eyes or slurred speech, the therapist may refer them to a specialist. An ophthalmologist (a physician who specializes in the surgical or medical care of the eyes) or language therapist would then be able to manage the specific symptoms.
+
+##删除换行1:<u>| |</u>Guidance And Useful Advice王磊
+
+====================================================================================================
+
+oss://inf-beta/datasets/medical_books_v1130/Bells Palsy Handbook Facial Nerve Palsy or Bells Palsy facial paralysis causes, symptoms, treatment, face exercises ... (Alan Mc Donald  Dr Alexa Smith) (Z-Library).pdf
+信息丰富性#信息完整性#7#7#Guidance And Useful Advice 后面缺少内容

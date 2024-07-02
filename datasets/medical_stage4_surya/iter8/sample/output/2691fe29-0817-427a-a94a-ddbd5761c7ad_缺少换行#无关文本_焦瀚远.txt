@@ -1,0 +1,44 @@
+【0】页码:35
+##Criteria For Not Starting Cpr In Pediatric And Adult Ihca
+
+【1】Few criteria can accurately predict the futility of continued resuscitation. In light of this uncertainty, all pediatric and adult patients who suffer cardiac arrest in the hospital setting should have resuscitative attempts initiated unless the patient has a valid DNAR order or has objective signs of irreversible death (eg, dependent lividity).
+
+【2】##Dnar Orders In Ihca
+
+【3】Unlike other medical interventions, CPR is initiated without a physician's order, based on implied consent for emergency treatment. A licensed physician's order is necessary to withhold CPR in the hospital setting. Physicians should initiate a discussion about the use of CPR with all patients admitted for medical and surgical care or with their surrogates. Terminally ill patients may fear abandonment and pain more than death, so physicians should also reassure the patient and family that control of pain and other symptoms as well as other aspects of support will continue even if resuscitation is withheld.
+The attending physician should write the DNAR order in accordance with local policy in the patient's chart, with a note explaining the rationale for the DNAR order, other specific limitations of care, and documenting discussions with the patient, surrogate, and family. Oral DNAR orders are not acceptable. The limitation-of-treatment order should provide explicit instructions for specific emergency interventions that may arise, including the use of vasopressor agents, mechanical ventilation, blood products, or antibiotics. The scope of a DNAR order should specify which interventions are to be withheld.
+It is important to emphasize that all other care should be administered without delay and as appropriate for all patients. A DNAR order does not automatically preclude interventions such as administration of parenteral fluids, nutrition, oxygen, analgesia, sedation, antiarrhythmics, or vasopressors, unless these are included in the order. Some patients may choose to accept defibrillation and chest compressions but not intubation and mechanical ventilation. DNAR orders carry no implications about other forms of treatment, and other aspects of the treatment plan should be documented separately and communicated to members of the healthcare team. DNAR orders should be reviewed periodically as per local protocol, particularly if the patient's condition changes.DNAR orders should also be reviewed before surgery by the anesthesiologist, attending surgeon, and patient or surrogate to determine their applicability in the operating suite and during the immediate postoperative recovery period.
+
+【4】##Terminating Resuscitative Efforts In Ihca
+
+【5】##Terminating Cardiac Arrest Resuscitative Efforts In Neonatal Ihca
+
+【6】Noninitiation of resuscitation and discontinuation of lifesustaining treatment during or after resuscitation are ethically equivalent, and clinicians should not hesitate to withdraw support when functional survival is highly unlikely.The following guidelines must be interpreted according to current regional outcomes.In a newly bom infant with no detectable heart rate, it is appropriate to consider stopping resuscitation if the heart rate remains undetectable for 10 minutes (Class IIb, LOE C).
+
+【7】The decision to continue resuscitative efforts beyond 10 minutes with no heart rate should take into consideration factors such as presumed etiology of arrest, gestational age, presence or absence of complications, and the parents' previous expressed feelings about the acceptable risk of morbidity.
+In the absence of clinical decision rules to guide the termination of resuscitation in the neonatal patient, the responsible clinician should stop the resuscitative attempt if there is a high degree of certainty that the newborn will not respond to further advanced life support.
+
+【8】##Terminating Cardiac Arrest Resuscitative Efforts In Pediatric Ihca
+
+【9】No predictors of pediatric (infant or child) resuscitative success or failure have been established.  No validated clinical decision rules to guide the termination of resuscitative efforts in pediatric cardiac arrest have been reported, and the decision to stop resuscitation may vary considerably across physicians and institutions. Further research in this area is needed.
+In the absence of clinical decision rules, the responsible clinician should stop the resuscitative attempt if there is a high degree of certainty that the patient will not respond to further pediatric advanced life support. Arrest characteristics to be considered by physicians making decisions may include duration of CPR, witnessed event, number of doses of epinephrine, etiology of arrest, first and subsequent rhythm, and age.-- 
+Prolonged efforts are typically made for infants and children with recurring or refractory VF or VT, those who demonstrate some ROSC, those with drug toxicity, or those experiencing an event causing primary hypothermia. Prolonged efforts are also indicated when a decision to employ extracorporeal CPR (ECPR) has been made .
+
+【10】##Terminating Cardiac Arrest Resuscitative Efforts In
+
+【11】Adult IHCA
+In the hospital the decision to terminate resuscitative efforts rests with the treating physician and is based on consideration of many factors, including witnessed versus unwitnessed arrest, time to CPR, initial arrest rhythm, time to defibrillation, comorbid disease, prearrest state, and whether there is ROSC at some point during the resuscitative efforts. Clinical decision rules for in-hospital termination of resuscitation may be helpful in reducing variability in decision making  ; however, the evidence for their reliability is limited, and rules should be prospectively validated before adoption.
+
+【12】##Providing Emotional Support To The Family
+
+【13】##Providing Emotional Support To The Family
+During Resuscitative Efforts In Cardiac Arrest
+
+【14】In the past, family members have often been excluded from being present during the attempted resuscitation of a child or other relative. Surveys suggest that healthcare providers hold a range of opinions about the presence of family members during resuscitative attempts.  One theoretical concern is the potential for family members to become disruptive, interfere with resuscitative procedures, or develop syncope, and another is the possibility of increased exposure to legal liability; however, these are not reported in the literature.
+Several surveys suggested that most family members wish to be present during a resuscitative attempt.  Family members焦瀚远
+
+====================================================================================================
+
+oss://inf-beta/datasets/medical_books_v1130/2010 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care Science (Mary Fran Hazinski, John M. Field) (Z-Library).pdf
+格式规范性#缺少换行#6#6#In a newly bom infant with no detectable 这里开始应换行
+文本干净度#无关文本#（#9#–

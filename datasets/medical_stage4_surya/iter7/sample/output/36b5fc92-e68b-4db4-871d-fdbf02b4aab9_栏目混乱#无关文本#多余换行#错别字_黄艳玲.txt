@@ -1,0 +1,42 @@
+【0】页码:78
+deliver current in different ways. Peak current amplitude, average current, phasic duration, and phasic current flow need to be examined as determinants of shock efficacy. Transition to currentbased defibrillation is timely and should be encouraged.
+Clinical studies using MDS waveform shocks have tried to identify the range of current necessary to achieve defibrillation and cardioversion. The optimal current for ventricular defibrillation appears to be 30 to 40 A MDS.删除26_2:<u></u> Comparable information on current dose for biphasic waveform shocks is under investigation.
+
+##删除换行1:<u>| |</u>Electrode Placement
+
+【2】Data demonstrate that 4 pad positions (anterolateral, anteroposterior, anterior-left infrascapular, and anterior-rightinfrascapular) 70 are equally effective to treat atrial or ventricular arrhythmias. 删除2:<u>71–75</u>There are no studies directly pertaining to placement of pads/paddles for defibrillation success with the end point of ROSC. All 4 positions are equally effective in shock success. 删除2:<u>71–74,76–82</u>Any of the 4 pad positions is reasonable for defibrillation (Class IIa, LOE B). For ease of placement and education, anterolateral is a reasonable default electrode placement (Class IIa, LOE C). Alternative pad positions may be considered based on individual patient characteristics.
+Lateral pads/paddles should be placed under breast tissue, 83 and hirsute males should be shaved prior to application of pads. 删除2:<u>84,85</u>Ten studies 删除2:<u>65,81,86–93</u>indicated that larger pad/paddle size (8 to 12 cm diameter) lowers transthoracic impedance.
+
+##删除换行1:<u>| |</u>Defibrillation With Implanted删除换行1:<u>| |</u>Cardioverter Defibrillator
+
+If the patient has an implantable cardioverter defibrillator (ICD) that is delivering shocks (ie, the patient's muscles contract in a manner similar to that observed during external defibrillation), allow 30 to 60 seconds for the ICD to complete the treatment cycle before attaching an AED. Occasionally, the analysis and shock cycles of automatic ICDs and AEDs will conflict.删除26_2:<u></u> There is the potential for pacemaker or ICD malfunction after defibrillation when the pads are in close proximity to the device. 删除2:<u>95,96</u>One study with cardioversion 95 demonstrated that positioning the pads at least 8 cm away did not produce changes in pacing thresholds or sensing measurements. Pacemaker spikes with unipolar pacing may confuse AED software and may prevent删除换行1:<u>| |</u>VF detection.删除26_2:<u></u> The anteroposterior and anterolateral locations are acceptable in patients with these devices. In patients with删除换行1:<u>| |</u>ICDs or pacemakers, pad/paddle placement should not delay defibrillation. It might be reasonable to avoid placing the pads or paddles over the device (Class IIb, LOE C).
+Do not place AED electrode pads directly on top of a transdermal medication patch, (eg, patch containing nitroglycerin, nicotine, analgesics, hormone replacements, antihypertensives) because the patch may block delivery of energy from the electrode pad to the heart and may cause small burns to the skin.97 If shock delivery will not be delayed, remove medication patches and wipe the area before attaching the electrode pad (Class IIb, LOE C).
+If an unresponsive victim is lying in water or if the victim's chest is covered with water or the victim is extremely diaphoretic, it may be reasonable to remove the victim from water and briskly wipe the chest before attaching electrode
+
+##删除换行1:<u>| |</u>Electrodes pads and attempting defibrillation (Class IIb, LOE C). AEDs can be used when the victim is lying on snow or ice (Class IIb, LOE C). Attempt to remove excess chest hair by briskly removing an electrode pad (which will remove some hair) or rapidly shaving the chest in that area provided chest compressions are not interrupted and defibrillation is not delayed.
+
+##删除换行1:<u>| |</u>Electrode Size
+
+In 1993 the Association for the Advancement of Medical删除换行1:<u>| |</u>Instrumentation recommended a minimum electrode size of 50 cm 2 for individual electrodes.删除26_2:<u></u> However, advances in electrode design and chemical composition may soon require modification of this recommendation. For adult defibrillation, both handheld paddle electrodes and self-adhesive pad electrodes 8 to 12 cm in diameter perform well, although defibrillation success may be higher with electrodes 12 cm in diameter rather than with those 8 cm in diameter.删除2:<u>86,99</u>Small electrodes (4.3 cm) may be harmful and may cause myocardial necrosis.删除26_2:<u></u> When using handheld paddles and gel or pads, rescuers must ensure that the paddle is in full contact with the skin. Even smaller pads have been found to be effective100 in VF of brief duration. Use of the smallest (pediatric) pads, however, can result in unacceptably high transthoracic impedance in larger children.删除26_2:<u></u> For adults, an electrode size of 8 to 12 cm is reasonable (Class IIa, LOE B).
+
+##删除换行1:<u>| |</u>Transthoracic Impedance
+
+【9】The average adult human impedance is ~70 to 80 0.67.86.101
+When transthoracic impedance is too high, a low-energy shock will not generate sufficient current to achieve defibrillation. 删除2:<u>101–103</u>To reduce transthoracic impedance, the defibrillator operator should use conductive materials. This is accomplished with the use of gel pads or electrode paste with paddles or through the use of self-adhesive pads. No existing data suggest that one of these modalities is better than the others in decreasing impedance.
+
+##删除换行1:<u>| |</u>Automated External Defibrillators删除换行1:<u>| |</u>Aeds Are Sophisticated, Reliable Computerized Devices That Use voice and visual prompts to guide lay rescuers and healthcare providers to safely defibrillate VF and (pulseless) rapid ventricular tachycardia (VT) SCA. 删除2:<u>44,46,104,105</u>In recent clinical trials, 删除2:<u>33,34</u>modified prototype AEDs recorded information about frequency and depth of chest compressions during CPR. These devices are now commercially available and can prompt rescuers to improve删除换行1:<u>| |</u>CPR performance.
+
+##删除换行1:<u>| |</u>Lay Rescuer Aed Programs
+
+【12】Since 1995 the American Heart Association (AHA) has recommended the development of lay rescuer AED programs to improve survival rates from out-of-hospital SCA. 删除2:<u>106–108</u>These programs are also known as public access defibrillation or PAD programs. The goal of these programs is to shorten the time from onset of SCA VF/pulseless VT until CPR and shock delivery by ensuring that AEDs and trained lay rescuers are available in public areas where SCA is likely to occur. To maximize the effectiveness of these programs, the AHA has emphasized the importance of organizing, planning, training, linking with the EMS system, and establishing a process of continuous quality improvement.删除26_1:<u>109,</u>黄艳玲
+
+====================================================================================================
+
+oss://inf-beta/datasets/medical_books_v1130/2010 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care Science (Mary Fran Hazinski, John M. Field) (Z-Library).pdf
+语法规范性#错别字#9#9# ~70 to 80 0    应是     70 to 80 
+格式规范性#多余换行#2#2# pads and attempting defibrillation   和上面连接
+文本干净度#无关文本#2#2# 83
+文本干净度#无关文本#2#2# 97
+文本干净度#无关文本#2#2# 100
+文本干净度#无关文本#9#9# 67.86.101
+语义有效性#栏目混乱#1#2#Electrodes 小标题与内容顺序上下颠倒

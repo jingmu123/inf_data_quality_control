@@ -1,0 +1,54 @@
+页码:220
+| Cardiac Signs |
+|--------|
+| Tachycardia and/or Bradycardia and/or Cardiac Conduction |
+| Hypertension Hypotension Delays (Wide QRS) |
+| Amphetamines Beta blockers Cocaine |
+| Anticholinergic drugs Calcium channel Cyclic antidepressants\nblockers |
+| Antihistamines Clonidine Local anesthetics |
+| Cocaine Digoxin and related Propoxyphene\nglycosides |
+| Theophylline/caffeine Organophosphates Antiarrhythmics (e.g.,\nand carbamates quinidine, flecainide) |
+| Withdrawal states |
+| CNS/Metabolic Signs |
+| CNS and/or Respiratory |
+| Seizures Depression Metabolic Acidosis |
+| Antidepressants |
+| Cyclic antidepressants (several classes) Cyanide |
+| Isoniazid Benzodiazepines Ethylene glycol |
+| Selective and non-selective\nnorepinephrine reuptake\ninhibitors (eg, bupropion) Carbon monoxide Metformin |
+| Withdrawal states Ethanol Methanol |
+| Methanol Salicylates |
+| Opioids |
+| Oral hypoglycemics |
+| *Differential diagnosis lists are partial. |
+
+【1】Common Toxidromes* and respiratory depression caused by opioid overdose. Naloxone has no role in the management of cardiac arrest.
+In the patient with known or suspected opioid overdose with respiratory depression who is not in cardiac arrest, ventilation should be assisted by a bag mask,  followed by administration of naloxone and placement of an advanced airway if there is no response to naloxone (Class I, LOE A).
+Administration of naloxone can produce fulminate opioid withdrawal in opioid-dependent individuals, leading to agitation, hypertension, and violent behavior. For this reason, naloxone administration should begin with a low dose ( mg), with repeat dosing or dose escalation to 2  mg if the initial response is inadequate.Some patients may require much higher doses to reverse intoxication with atypical opioids, such as propoxyphene, or following massive overdose ingestions.  Naloxone can be given IV.  IM  intranasally,and into the trachea.The duration of action of naloxone is approximately 45 to 70 minutes, but respiratory depression caused by ingestion of a long-acting opioid (eg, methadone) may last longer. Thus, the clinical effects of naloxone may not last as long as those of the opioid, and repeat doses of naloxone may be needed.
+Patients with life-threatening central nervous system or respiratory depression reversed by naloxone administration should be observed for resedation. Although a brief period of observation may be appropriate for patients with morphine or heroin overdose,  a longer period of observation may be required to safely discharge a patient with life-threatening overdose of a longacting or sustained-release opioid.
+
+【2】##Benzodiazepines
+
+【3】There are no data to support the use of specific antidotes in the setting of cardiac arrest due to benzodiazepine overdose. Resuscitation from cardiac arrest should follow standard BLS and ACLS algorithms.
+
+【4】Flumazenil is a potent antagonist of the binding of benzodiazepines to their central nervous system receptors. Administration of flumazenil can reverse central nervous system and respiratory depression caused by benzodiazepine overdose.
+Flumazenil has no role in the management of cardiac arrest.
+The administration of flumazenil to patients with undifferentiated coma confers risk and is not recommended (Class III, LOE B). Flumazenil administration can precipitate seizures in benzodiazepine-dependent patients and has been associated with seizures, arrhythmia, and hypotension in patients with coingestion of certain medications, such as tricyclic antidepressants.  However, flumazenil may be used safely to reverse excessive sedation known to be due to the use of benzodiazepines in a patient without known contraindications (eg, procedural sedation).
+
+【5】##Β -Blockers
+
+【6】There are no data to support the use of specific antidotes in the setting of cardiac arrest due to β -blocker overdose. Resuscitation from cardiac arrest should follow standard BLS and ACLS algorithms. β -Blocker medication overdose may cause such severe inhibition of β -adrenergic receptors that high-dose vasopressors cannot effectively restore blood pressure, cardiac output, or perfusion. Therapeutic options in the treatment of refractory hemodynamic instability due to β -blocker overdose include administration of glucagon, high-dose insulin, or IV calcium salts.
+
+【7】##Glucagon
+
+【8】Administration of glucagon may be helpful for severe cardiovascular instability associated with β -blocker toxicity that is refractory to standard measures, including vasopressors. The recommended dose of glucagon is a bolus of 3 to 10 mg, administered slowly over 3 to 5 minutes, followed by an infusion of 3 to 5 mg/h (0.05 to 0.15 mg/kg followed by an infusion of 0.05 to 0.10 mg/kg per hour) (Class IIb, LOE C).  The infusion rate is titrated to achieve an adequate hemodynamic response (appropriate mean arterial pressure and evidence of good perfusion). Because the amount of glucagon required to sustain this therapy may exceed 100 mg in a 24-hour period, plans should be made early to ensure that an adequate supply of glucagon is available. Glucagon commonly causes vomiting. In patients with central nervous system depression, the airway must be protected before glucagon administration. Animal studies have suggested that the concomitant use of dopamine alone or in combination with isoproterenol and milrinone may decrease the effectiveness of glucagon.
+
+【9】##Insulin
+
+【10】Animal studies suggest that high-dose IV insulin, accompanied by IV dextrose supplementation and electrolyte monitoring, may improve hemodynamic stability and survival in β -blocker overdose by improving myocardial energy utilization.  A single human case report  showed improved hemodynamic stability王磊
+
+====================================================================================================
+
+oss://inf-beta/datasets/medical_books_v1130/2010 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care Science (Mary Fran Hazinski, John M. Field) (Z-Library).pdf
+格式规范性#表格格式错误#0#1#表格格式有问题，标题放在了下面
+语义有效性#语义不完整#1#1#dose ( mg),  应该是  dose (0.04 to 0.4 mg),

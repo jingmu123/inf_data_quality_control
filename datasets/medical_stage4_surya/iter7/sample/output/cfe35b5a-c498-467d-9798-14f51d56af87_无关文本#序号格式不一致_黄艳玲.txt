@@ -1,0 +1,41 @@
+页码:103
+##删除换行1:<u>| |</u>Advantages
+
+【1】1. NiTi closed coils close spaces faster in comparison with elastic chain (almost double the rate).
+
+【2】2. There is no need to change the NiTi coils every three or four weeks, as recommended for elastic chain.
+This minimizes the need for individual dental move删除16:<u>¬ </u>ment monitoring so we can focus in more important aspects as anchorage control, overbite and overjet control, skeletal and facial profile management.
+They are easy to place and to take off.
+They maintain a constant force.
+They do not keep foul odors.
+
+##删除换行1:<u>| |</u>Disadvantages
+
+【4】10.11. The high cost of the coil.
+In occasions the coil can entrap food and nip the oral mucosa.
+
+##删除换行1:<u>| |</u>Recommendations
+
+【6】1. We recommend the use of bigger inner diameter coils, because the force is more constant and movement is faster (Bell, 1951).
+They are ideal for large space closure.
+The placement of a heavy gauge arch wire will dimin删除16:<u>¬ </u>ish undesired canine tip.
+Use 150 g to 200g coils.
+Place the eyelet of the coil at the distal wings of the canine and wire ligature or elastomeric tie on the mesial wings. This will diminish undesired canine rotation.
+Because it is a violent movement, we must be careful placing this appliance on a tooth with short roots.
+
+【7】删除图片4:<u>Figs.删除26_2:<u></u> and 65. Elastomeric tie on the mesial wings of the canine.</u>
+
+##删除换行1:<u>| |</u>Space Closure With Open And Closed Coils A)
+
+【9】Another way to close extraction sites or diastemas is with the combination of two forces: a traction and a pushing force; for example, a closed NiTi coil with an open NiTi
+
+【10】删除图片4:<u>Figs.删除26_2:<u></u> and 67. Closed and open coils.</u>黄艳玲
+
+====================================================================================================
+
+oss://inf-beta/datasets/medical_books_v1130/1001 tips for orthodontics and its secrets (Esequiel E. Rodriguez Yanez  Coauthors etc.) (Z-Library).pdf
+格式规范性#序号格式不一致#2#2#句首缺少序号
+格式规范性#序号格式不一致#4#4#句首缺少序号
+格式规范性#序号格式不一致#6#6#句首缺少序号
+格式规范性#序号格式不一致#7#7# A)序号应该在句首
+文本干净度#无关文本#4#4#10.1

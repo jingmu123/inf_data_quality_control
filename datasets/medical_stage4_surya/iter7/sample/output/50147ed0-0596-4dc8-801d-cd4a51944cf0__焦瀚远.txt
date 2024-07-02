@@ -1,0 +1,42 @@
+【0】页码:116
+Use of a wrong sized DKL: the appearance of diastemas in the anterior sector is produced by the use of a wrong sized DKL. If a bigger than needed arch is used, the mesial loop will lean on the cuspid braces. During activation only the distal loop will open, but the mesial loop, although it does not open, will receive the tension of the activation and the distal arm of the mesial loop will exert pressure on the canine braces, which will distalize in an isolated way.
+This will provoke diastemas between the lateral incisors and the canines. 删除1:<u>(11)</u>
+
+【1】删除图片4:<u>Fig.删除26_2:<u></u> Mesial pressure over the canine brace.</u>
+
+##删除换行1:<u>| |</u>When To Use A Two Or Four-Loop Arch?
+
+【3】The simple arch (two loops) and the double key loop arch (DKL) were designed for space closure.
+
+【4】Simple arches are used in cases in which we first want to distalize canines first (with closed coils or with power chain) with a force that does not surpass 350 g and later on retrude the four incisors by opening the loops (no more than 1mm). These are also recommended when we need posterior maximum anchorage.
+
+【5】The DKL arches are used when we want to close extrac删除16:<u>¬ </u>tion sites in one single stride, retruding in-block the six anterior teeth with posterior anchorage loss, or, if we need maximum anterior anchorage and posterior anchorage loss, the loops are activated more than 1 mm. 删除1:<u>(1)</u>
+
+##删除换行1:<u>| |</u>Tma Or Stainless Steel Dkl Arches?
+
+【7】The basic operation of this arch is that upon activation, the loops open and these tend to close again, closing the spaces.
+
+【8】These arches were first made out of stainless steel, but with the rise of new alloys in orthodontics like Nickel-Titanium and TMA, manufacturers had the alternative to use these materials to fabricate these arches.
+
+【9】Steel is an alloy made out of 75% austenitic steel, 18% chrome, 8% nickel and less than 0.20% of carbon. Its prin删除16:<u>¬ </u>ciple characteristics are high stiffness, low elastic memory, less accumulated energy, low friction level, moderate elastic module, it is easy to bend and has low cost. The energy saved in a steel wire is less than the energy in a TMA wire.
+This is why these wires exert high forces that dissipate in short periods of time.
+
+TMA is composed of 77.8% titanium, 11.3% of molibdenium, 6.6% zirconia and 4.3% of tin. It has a lesser elasticity modulus than steel and approximately the double than删除换行1:<u>| |</u>NiTi, greater recoverability, less force production, high friction level; it is difficult to bend and of higher cost.
+
+【11】Dr. Alfredo Bass and cols. made a study in 2005 comparing the mechanical properties of steel and TMA two and four loop arches. The results are as follow:
+
+【12】Steel is harder, therefore, we need to apply more load o to open the loops than in TMA wire.
+
+【13】The simple and DKL steel loops have a saturation o curve and a change in its flexibility modulus, which can lead to intrinsic deformation, altering its load distribution. This can happen around 250 g.
+
+【14】Instead, the simple and DKL TMA arches comply o with the Hooke law (deformation is directly pro删除16:<u>¬ </u>portional to the load) showing greater linearity level between 200 and 500 g (recommended load). Steel conserves linearity until 200 g.
+
+【15】A 1 mm activation of the loop of a TMA arch exerts o 300 g of force and stainless steel 500g of force.
+
+【16】One of the disadvantages of TMA is the difficulty to o manage anterior torque during retraction.
+
+【17】In synthesis, the use of TMA simple and DKL loop arches for space closure is recommended. 删除1:<u>(1)</u>焦瀚远
+
+====================================================================================================
+
+oss://inf-beta/datasets/medical_books_v1130/1001 tips for orthodontics and its secrets (Esequiel E. Rodriguez Yanez  Coauthors etc.) (Z-Library).pdf

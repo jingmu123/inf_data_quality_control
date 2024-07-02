@@ -1,0 +1,34 @@
+【0】页码:186
+##Advantages
+
+【1】4. Fast and easy fabrication.
+We do not depend upon patient cooperation.
+Not only it can be used to uncross anterior cross bites, but also in cases in which we want to slightly increase the overjet.
+
+【2】##Disadvantages
+
+【3】1. The patient can refer momentary pain in the upper incisors while the proclination is taking place.
+Sometimes when the wire is forced in the slots of the braces, the wire can bulge slightly at the premolar level and this can lacerate the mucosa of the cheeks.
+
+【4】This will avoid possible brace debonding of this sector.
+
+【5】3. If there is a lot of separation between the braces and the wire, some braces can debond.
+There is no torque control of the upper incisors.
+
+【6】##Recommendations
+
+【7】1. In order to uncross an anterior cross bite, the activations must be paused and not exceed 2 mm of separation from the braces.
+Use Class III elastics.
+Use anterior box elastics.
+Once the anterior bite has been uncrossed, we can use the arch as minimal anchorage.
+Stripping in the anteroinferior sector. l. With this arch we can procline all the anterosuperior sector, uncrossing the anterior bite.
+Not only the anteosuperior sector is proclined, but also the upper molars are slightly distalized.
+Economic.王磊
+
+====================================================================================================
+
+oss://inf-beta/datasets/medical_books_v1130/1001 tips for orthodontics and its secrets (Esequiel E. Rodriguez Yanez  Coauthors etc.) (Z-Library).pdf
+格式规范性#序号格式不一致#1#1#缺少序号
+格式规范性#序号格式不一致#3#3#缺少序号
+格式规范性#序号格式不一致#5#7#缺少序号
+语义有效性#栏目混乱#0#7#内容互相穿插

@@ -1,0 +1,32 @@
+【0】页码:270
+• Support a patent airway, breathing, and circulation as needed. Administer oxygen, attach an ECG monitor/ defibrillator, and obtain vascular access.
+
+【1】• Reassess the patient to determine if bradycardia persists and is still causing cardiorespiratory symptoms despite adequate oxygenation and ventilation.
+
+【2】• If pulses, perfusion, and respirations are adequate, no emergency treatment is necessary. Monitor and proceed with evaluation.
+
+【3】• If heart rate is < 60 beats per minute with poor perfusion despite effective ventilation with oxygen, start CPR.
+
+【4】• After 2 minutes reevaluate the patient to determine if bradycardia and signs of hemodynamic compromise persist. Verify that the support is adequate (eg, check airway, oxygen source, and effectiveness of ventilation).
+
+【5】• Medications and pacing: − Continue to support airway, ventilation, oxygenation, and chest compressions (Class I, LOE B). If bradycardia persists or responds only transiently, give epinephrine IV (or IO) 0.01 mg/kg (0.1 mL/kg of 1: solution) or if IV/IO access not available, give endotracheally 0.1 mg/kg (0.1 mL/kg of 1: solution) (Class I, LOE B).
+
+【6】##Pediatric Tachycardia
+
+【7】Figure 3. PALS Tachycardia Algorithm.
+
+【8】If bradycardia is due to increased vagal tone or primary AV conduction block (ie, not secondary to factors such as hypoxia), give IV/IO atropine  mg/kg or an endotracheal dose of  mg/kg (Class I, LOE C).
+
+【9】Emergency transcutaneous pacing may be lifesaving if the bradycardia is due to complete heart block or sinus node dysfunction unresponsive to ventilation, oxygenation, chest compressions, and medications, especially if it is associated with congenital or acquired heart disease (Class IIb, LOE C).Pacing is not useful for asystole  or bradycardia due to postarrest hypoxic/ ischemic myocardial insult or respiratory failure.
+
+【10】##Tachycardia
+
+【11】The box numbers in the text below correspond to the numbered boxes in the Tachycardia Algorithm .
+•If there are signs of poor perfusion and pulses are not palpable, proceed with the PALS Pulseless Arrest Algorithm .
+
+【12】• If pulses are palpable and the patient has adequate perfusion王磊
+
+====================================================================================================
+
+oss://inf-beta/datasets/medical_books_v1130/2010 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care Science (Mary Fran Hazinski, John M. Field) (Z-Library).pdf
+信息丰富性#有用性#6#7# 图片内容

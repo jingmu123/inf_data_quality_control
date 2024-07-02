@@ -1,0 +1,24 @@
+【0】页码:132
+##Table 27 Metered-Dose Inhalers: Common Errors In Technique
+
+【1】•Forgetting to shake the MDI canister before use
+•Sitting hunched over when inhaling your medicine
+•Blocking the MDI mouthpiece with your tongue or your teeth
+•Releasing the puff of medicine either before ("too soon") or after
+("too late") you have started to inhale deeply ("poor coordination" pattern)
+•Taking too shallow a breath in
+•Forgetting to hold your breath for at least 10 seconds after inhaling the medicine
+•Neglecting to rinse your mouth after using the inhaled corticosteroid MDI
+•Immersing the canister in water
+•Forgetting to replace the MDI canister before the expiration date marked on the label about the way you are using your MDI. I have found it very useful to watch my patient's MDI technique during an office visit. A well-placed "pointer" can make a world of difference. Remember that mastering good MDI technique involves a learning curve, and with proper instruction and supervision, even young children can use MDI-delivered asthma medication.
+
+【2】##66. Why Does My Doctor Say I Should Rinse My Mouth After Using My Metereddose Inhaler (Mdi)?
+
+【3】Your doctor has likely requested that you rinse your mouth after using your inhaler in order to gently wash away any medicine particles that were not inhaled into the lungs and may have remained behind in the throat.
+In particular, it is important to always rinse your mouth after using any inhaled corticosteroid preparation, whether administered by MDI, DPI, or jet nebulizer. The inhaled corticosteroid medications in particular can, if they "land" in your throat, cause焦瀚远
+
+====================================================================================================
+
+oss://inf-beta/datasets/medical_books_v1130/100 Questions and Answers About Asthma (Claudia S. Plotte) (Z-Library).pdf
+格式规范性#多余换行#1#1#4段5段应连在一起
+格式规范性#缺少换行#1#1#about the way you are using your MDI.  这里开始应换行

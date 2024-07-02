@@ -1,0 +1,59 @@
+【0】页码:290
+Functional fast repair is characterized by a fast cement apposition with well defined Sharpey fibers. This type of repair is found in EARR superficial lesions. The repair pro删除16:<u>¬ </u>cess in the apical area is characterized by hypercementosis that is generated as a secondary effect, the closure of the apical opening, cement exostosis and the displacement of the pulp tissue toward the tension site, preceded by selec删除16:<u>¬ </u>tive secondary dentine deposition sites. 删除1:<u>(21)</u>
+
+【1】Non-functional delayed repair is characterized by the absence of Sharpey fibers and by the slow deposition of repair cement. This repair is sometimes found in moderate lesions and frequently in severe EARR lesions with great root dentine exposition. The response of the dentine does not have tertiary dentine. 删除1:<u>(7,删除2:<u>10,12</u></u>
+
+【2】Many studies coincide that the teeth that are more suscep删除16:<u>¬ </u>tible to EARR are:
+
+【3】19. Upper lateral incisors.
+
+【4】2. Upper central incisors.
+
+【5】1.1.13. Lower incisors.
+
+【6】4. The distal root of the first lower molar.
+
+【7】5. Lower second premolars.
+
+【8】6. Upper second premolars. 删除1:<u>(删除2:<u>20,21</u></u>
+
+【9】Some of the factors that favor root resorption are:
+
+【10】1. Swinging movements. The majority of the stud删除16:<u>¬ </u>ies report that the severity of the root resoption is directly related to the time length of the orthodontic treatment. The average root resoption that we are going to find in an average orthodontic treatment is approximately 1 mm to 1.5 mm. 删除1:<u>(12.14)</u> 2. Long term heavy forces in orthodontic treatment.
+This is why the application of light and constant forces is recommended. Ricketts states that 100 g/cm 2 is an optimal force.
+
+【11】3. Habits. Protractile tongue, nail biting, thumb sucking. 删除1:<u>(14)</u> 4. Excessive closeness of the dental roots to the bone cortical. We must calculate the width of the margins of the cortical bone before we initiate orthodontic treatment, because the dental movement against buccal or lingual bone may initiate root resoption or fenestration. 删除1:<u>(12)</u> 5. Dental trauma. Orthodontic movements can begin 4 or 5 months after a tooth has received a trauma with a force less than 70 g Linge and Linge mention that the loss of root length in traumatized teeth is 1.07 mm compared to 0.64 mm of non traumatized teeth. 删除1:<u>(26)</u>
+
+【12】6. Racial group. Asian patients show less EARR than 6. Anglo-Saxons, and these show less than Hispanic pa删除16:<u>¬ </u>tients.
+1.7. Root anatomy. Long and thin roots or pipett form apexes are more susceptible to EARR.
+8. Increased overjet. Class II division 2 patients have an increased risk of root resorption due to the intrusion of the anterior segment necessary for overbite cor删除16:<u>¬ </u>rection and the torque applied to correct the palatine inclination of the incisors. 删除1:<u>(26)</u>
+9. Brace size. Mini braces produce less EARR because they have more inter-brace distance. The greater the inter删除16:<u>¬ </u>brace distance, the less root resoption will occur. 删除1:<u>(12)</u>
+10. Continuous occlusal trauma. Wrongly applied orthodontic forces can cause occlusal trauma that may implicate root resorption.
+
+【13】11. Cists and tumors.
+
+【14】12. Metabolic or systemic disturbances. Hyperparathy删除16:<u>¬ </u>roidsm, hypophosphatemia, Paget's disease are altera删除16:<u>¬ </u>tions in which EARR can present itself more often.
+13. Periapical inflammation.
+
+【15】14. Dental reimplantation.
+
+【16】15. Intermaxillary elastics. The use of intermaxillary elastics produces intermittent and swinging forces, which are associated with EARR. 删除1:<u>(2)</u> 16. Genetics.
+
+【17】17. Dental intrusion. These are the most aggressive orthodontic movements at root apex level; these forces affect the blood that flows to the dental pulp and nay cause necrosis and calcification. An unmeasured intru删除16:<u>¬ </u>sive force can also derive in a dental anquilosis. 删除1:<u>(26)</u> 18. Mid-palatal suture expansion. This treatment can damage the teeth on which the expander is supported, it can also damage the furca and the apexes of premolars and molars. 删除1:<u>(20)</u>
+
+The administration of thyroxine diminishes EARR in the maxillary incisors, this suggests that thyroid function plays an important clinical role in the ethyology of EARR;删除换行1:<u>| |</u>Loberg and cols. 删除1:<u>(1994)</u> concluded that patients who had thyroid supplement (0.5g.) did not present any collateral clinical effect and the roots had good morphology after the orthodontic treatment.
+Teeth with endodontic treatment are more resistant to EARR due to their increased dentinal density and hardness.
+
+【19】Lesions in soft tissue (gums, mucosa, and skin) during orthodontic treatment are very frequent. Depending upon the type and place of injury, will be the urgency that we are going to face in our office. These lesions are easy to eliminate and generally subside as soon as we remove the aggressing agent. 删除1:<u>(4,15)</u>焦瀚远
+
+====================================================================================================
+
+oss://inf-beta/datasets/medical_books_v1130/1001 tips for orthodontics and its secrets (Esequiel E. Rodriguez Yanez  Coauthors etc.) (Z-Library).pdf
+格式规范性#缺少换行#10#10#2. Long term heavy forces in orthodontic treatment. 应换行
+格式规范性#缺少换行#11#11# 4. Excessive closeness 
+格式规范性#缺少换行#16#16# 16. Genetics. 应换行
+格式规范性#缺少换行#17#17#18. Mid-palatal suture 这里开始应换行
+文本干净度#无关文本#3#3#9
+文本干净度#无关文本#5#5#1.1.1
+文本干净度#无关文本#12#12#1
+语义有效性#错误删除#17#17#(1994) 误删

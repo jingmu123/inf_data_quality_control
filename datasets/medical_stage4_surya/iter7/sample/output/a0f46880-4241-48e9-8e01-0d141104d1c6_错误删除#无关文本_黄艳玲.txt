@@ -1,0 +1,16 @@
+【0】页码:126
+manufacturer. Remember, too, that many pharmacists can advise you on proper DPI usage techniques.
+
+【1】Even though each DPI comes with its own set of instructions, all DPIs share similar conceptual and design features. They are prized for their ease of use, reliability, efficiency, and convenience. All DPIs are breath activated. When you inhale through a DPI, a precisely pre-measured dose of medicine is automatically released. The way you breathe the medicine in allows it to travel into your airways where it is needed.
+The general principle is that you inhale the medicine via the DPI mouthpiece starting with "empty" lungs, and then hold your breath before exhaling and breathing normally. The basic technique consists of: 删除1:<u>(1)</u> an initial exhalation to empty your lungs, 删除1:<u>(2)</u> fairly rapid inhalation from the mouthpiece, followed by 删除1:<u>(3)</u> breath holding.
+
+【2】To use a DPI correctly, you first "prepare" the premeasured dose of medicine, either by rotating and clicking the device, advancing a small lever, or by physically inserting powder-containing capsules into a specially designed groove in the device, depending on which type of DPI you have been prescribed. When the medicine is in place, you take a big breath of room air, and fully, yet gently, exhale it into the room. When you feel that your lungs are completely "empty," quickly place your lips around the DPI's mouthpiece, and take a full, deep breath, inhaling the medicine until you can't breathe in any further. Once you reach the point when your lungs are "full" of medicine, hold your breath. You should try to hold your breath for 10 seconds before exhaling. Count to 10 in your head.
+After you reach a count of 10, remove the DPI mouthpiece from your lips, and let your breath out. Remem-
+
+【3】PIO pue wəN :suoitesib9M smq1sA黄艳玲
+
+====================================================================================================
+
+oss://inf-beta/datasets/medical_books_v1130/100 Questions and Answers About Asthma (Claudia S. Plotte) (Z-Library).pdf
+文本干净度#无关文本#3#3#PIO pue wəN :suoitesib9M smq1sA
+语义有效性#错误删除#1#1#删除1:(1) 删除1:(2) 删除1:(3) 

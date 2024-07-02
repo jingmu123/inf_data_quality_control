@@ -1,0 +1,29 @@
+【0】页码:76
+Types of severe or maximum anchorage:
+
+【1】1. Chromosome arch.删除26_2:<u></u> Transpalanance.
+
+##删除换行1:<u>| |</u>Chromosome Arch A)
+
+This appliance, designed by Dr. Esequiel Eduardo Rodriguez删除换行1:<u>| |</u>Yanez, has the advantage that it is very versatile and pro删除16:<u>¬ </u>vides excellent posterior segment control. It is made with 0.036" round stainless steel wire in an "X" manner and it is cemented to all four superior molars. It has two distal palatine bends (one on each side) to aid during canine and anterior segment retraction, making space closure faster and diminishing unwanted cuspid angulations. Indicated in severe dental overcrowding cases that need a facial change. 删除1:<u>(6)</u>
+
+##删除换行1:<u>| |</u>Chromosome Arch Elaboration
+
+【5】We need 0.036" round stainless steel wire, about 5 cm of it. This wire is bent with hollow chop pliers and adapted to the palatine vault.
+
+【6】删除图片4:<u>Fig.删除26_2:<u></u> Wire bending with the hollow chop plier in the middle of the wire.</u>
+
+【7】删除图片4:<u>Fig.删除26_2:<u></u> After the bend is done, the wire is adapted to the palatine vault.</u>
+
+【8】Then this wire is adapted to fit around the second molars, and the distal bends are done. These bends are made as close as possible to the center of resistance of the molars.
+This is the posterior part of the chromosome arch.
+
+【9】删除图片4:<u>Fig.删除26_2:<u></u> Once adapted to the palatine vault, the center of resistance of the molars is marked and the distal bends are made.</u>
+
+【10】删除图片4:<u>Figs.删除26_2:<u></u> and 109. The distal bends are made and the end of the wire is adapted to the palatine aspect of the second molars.</u>焦瀚远
+
+====================================================================================================
+
+oss://inf-beta/datasets/medical_books_v1130/1001 tips for orthodontics and its secrets (Esequiel E. Rodriguez Yanez  Coauthors etc.) (Z-Library).pdf
+格式规范性#缺少换行#1#1#2: Transpalanance. 应换行
+语义有效性#栏目混乱#1#1#序号A) 位置错误

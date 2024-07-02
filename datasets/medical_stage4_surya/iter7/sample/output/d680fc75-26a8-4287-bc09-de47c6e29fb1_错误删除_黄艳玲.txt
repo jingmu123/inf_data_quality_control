@@ -1,0 +1,27 @@
+【0】页码:37
+(本页删除)本页有超过一半的段落长度小于50字符
+
+##删除换行1:<u>| |</u>Table 6 Causes Of Wheezing
+
+【2】Asthma
+
+【3】Foreign body aspiration
+
+【4】COPD chronic obstructive bronchitis emphysema
+
+【5】Bronchiectasis
+
+【6】Lung infections, infectious bronchitis, bronchiolitis, croup
+
+【7】Allergic reaction (severe, anaphylactoid)
+
+【8】Congestive heart failure
+
+【9】GERD (gastro-esophageal reflux disease)
+
+【10】Drug induced (beta-blockers) tions of the lungs can cause wheezing in completely normal lungs. Some people without lung disease who have a type of heart dysfunction called "congestive heart failure" can wheeze if they take in too much fluid. Still others might wheeze after a severe allergy, such as to a bee sting, for example. Gastric reflux, called "GERD" (gastro-esophageal reflux disease), is a disease of the digestive system and is an example of a nonpulmonary condition that can mimic asthma. Similarly, vocal cord dysfunction syndrome, or "VCD," affects the voice box (larynx) and is often confused with asthma. Finally, and especially in children, a wheeze can be caused by a foreign body trapped in the bronchial tree. Young children, in particular, explore the world by putting objects in their mouth. From there, it's a short trip "down" into the breathing passages. A foreign body should be retrieved, or "fished黄艳玲
+
+====================================================================================================
+
+oss://inf-beta/datasets/medical_books_v1130/100 Questions and Answers About Asthma (Claudia S. Plotte) (Z-Library).pdf
+语义有效性#错误删除#0#10#全篇错误删除

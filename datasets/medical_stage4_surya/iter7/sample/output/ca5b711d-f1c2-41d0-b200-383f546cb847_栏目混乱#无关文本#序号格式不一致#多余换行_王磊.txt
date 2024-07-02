@@ -1,0 +1,35 @@
+【0】页码:200
+the expander must be activated twice a day, once in the morning and once in the night.
+
+【1】2. The Mini-maxillary protractor should be used be删除16:<u>¬ </u>tween 10 and 12 hours a day. 删除1:<u>(15)</u> 3. If the patient tolerates the appliance during the hours of sleep, we should encourage its use because this is the time period in which growth hormone is liberated and the skeletal changes will be more favorable.
+We recommend periodic appointments to inspect the expander and to evaluate any changes in the soft tissue (every 4 to 6 weeks).
+The elastics that are used for upper maxillary protrac删除16:<u>¬ </u>tion are 5/16", which generate heavy forces , using this sequence:
+
+【2】8 ounces at the beginning of treatment (230 g). a.
+
+【3】14 ounces at the end of the treatment (400 g). b.
+
+##删除换行1:<u>| |</u>Camacho Badillo Regulator (Cbr)
+
+【5】This appliance was designed in 2005 by Dr Mauricio Cama删除16:<u>¬ </u>cho Badillo, resident of the orthodontic specialty program of Centro de Estudios de Ortodoncia del Bajio (CEOB), in the city of Irapuato, Guanajuato, Mexico.
+
+【6】This appliance is an alternative for patients that have an删除16:<u>¬ </u>terior and posterior cross bites with a tendency to a hypo删除16:<u>¬ </u>divergent growth pattern (Class III), because it stimulates transversal and anteroposterior maxillary growth, and produces mandibular retropulsion; this is done with inter删除16:<u>¬ </u>maxillary elastics that produce 400 g of force per side.
+
+##删除换行1:<u>| |</u>Fabrication
+
+【8】1. This appliance is constituted by two palatal 0.036"
+TMA rods, which will transmit to the teeth of the lateral sector (premolars and molars) the transversal forces needed for the correction of the posterior cross bite. Two 0.036" stainless steel wire protraction hooks are placed between the first molar and the second premolar 4 mm from the marginal rim, in order to place the point of traction as close to the center of resistance of the maxilla.
+
+【9】2. We place a vestibular arch on the anterior zone which is going to be separated 3 mm from the inserted mucosa in the buccal fold. On the lower model two protraction hooks are going to be located at canine and premolar level.
+
+【10】删除图片4:<u>Fig.删除26_2:<u></u> TMA wire palatal rods.</u>
+
+【11】1.1.13. Most of the metal skeleton is covered with acrylic, including the occlusal aspects of the posterior teeth, only the upper and lower protraction hooks are ex删除16:<u>¬ </u>empt. Two acrylic shields are placed on the vestibular arch, which are going to function as shields to separate the mucosa of the upper lip and stimulate the anterior growth of the maxilla.王磊
+
+====================================================================================================
+
+oss://inf-beta/datasets/medical_books_v1130/1001 tips for orthodontics and its secrets (Esequiel E. Rodriguez Yanez  Coauthors etc.) (Z-Library).pdf
+格式规范性#序号格式不一致#1#1#缺少序号
+格式规范性#多余换行#8#8# TMA rods, which will transmit to ……
+文本干净度#无关文本#11#11# 1.1.1
+语义有效性#栏目混乱#2#3#序号混乱

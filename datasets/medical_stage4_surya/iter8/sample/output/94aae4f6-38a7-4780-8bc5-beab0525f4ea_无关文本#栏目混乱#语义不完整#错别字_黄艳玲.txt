@@ -1,0 +1,22 @@
+【0】页码:69
+#The Fil
+
+【1】#Ury Of
+
+【2】SHOCK WAVES FROM THE SUN CAN TRIGGER SEVERE TURBULENCE IN THE SPACE AROUND THE EARTH, ENDANGERING SATELLITES AND ASTRONAUTS IN ORBIT.
+
+【3】NOW A NEW SPACECRAFT IS SHOWING HOW SPACE STORMS DEVELOP BY JAMES L. BURCH HE TEMPEST BEGAN ON A DATE KNOWN FOR ITS VIOLENT EVENTS:
+Bastille Day, the anniversary of the beginning of the French Revolution.
+On the morning of July  last year, the Space Environment Center in Boulder, Colo., detected a warning sign from the GOES-8 satellite, which monitors x-rays from the sun as well as weather conditions on the earth.
+At 10: Universal Time the center's forecasters saw a sharp jump in the intensity of x-rays emanating from active region , a section of the sun's surface that had been roiling for the past week. The data indicated the onset of a solar flare, a brief but powerful burst of radiation.
+The flare, which reached its maximum intensity at : UT, was also sighted by the Solar and Heliospheric Observatory (SOHO), a spacecraft stationed between the sun and the earth, about 1.5 million VIOLENT ERUPTION in the sun's outer atmosphere on November 8, 2000, spewed billions of tons of charged particles toward the earth. The event was observed by the Solar and Heliospheric Observatory (SOHO); the spacecraft's coronagraph uses a disk ( dark circle ) to block direct light from the sun ( white circle ) so that its atmosphere can be seen.
+
+【4】STO黄艳玲
+
+====================================================================================================
+
+oss://inf-beta/datasets/medical_books_v1130/(2001-04) Whose Blood Is It, Anyway (Scientific American) (Z-Library).pdf
+语法规范性#错别字#3#3#  HE   应是    The
+文本干净度#无关文本#4#4#STO
+语义有效性#栏目混乱#0#1#小标题顺序上下颠倒
+语义有效性#语义不完整#1#1#At 10:  后面不完整

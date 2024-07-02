@@ -1,0 +1,21 @@
+【0】页码:46
+##Simplified Adult Bls
+
+【1】##Quality Improvement In Resuscitation
+Systems, Process, And Outcomes
+
+【2】##A Systems Approach
+
+【3】Cardiac arrest is an important public health issue. Resuscitation involves a broad spectrum of individual stakeholders and groups. Individuals include victims, family mem- bers, rescuers, and healthcare providers. Key stakeholder groups include the public, emergency medical dispatchers, public safety organizations, EMS systems, hospitals, civic groups, and policy makers at the local, state, and federal levels.
+
+【4】Because the links in the Chain of Survival are interdependent, an effective resuscitation strategy requires these individuals and groups to work in an integrated fashion and function as a system of care .Fundamental to a successful resuscitation system of care is the collective appreciation of the challenges and opportunities presented by the Chain of Survival. Thus individuals and groups must work together, sharing ideas and information, to evaluate and improve their resuscitation system. Leadership and accountability are important components of this team approach.
+A conceptual appreciation of the system and its working components is only a starting point. Improving care requires assessment of performance. Only when performance is evaluated can participants in a system effectively sequence of CPR steps. Laypersons can learn these skills online and in courses.
+In contrast, in a highly specialized environment, such as a critical care unit of a hospital, many of the individual components of CPR (compression-ventilation-defibrillation) may be managed simultaneously. This approach requires choreography among many highly-trained rescuers who work as an integrated team.
+In the prehospital setting, the order of the CPR components performed by the healthcare provider may switch between a sequenced and choreographed model depending on the proficiency of the provider and the availability of resources.王磊
+
+====================================================================================================
+
+oss://inf-beta/datasets/medical_books_v1130/2010 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care Science (Mary Fran Hazinski, John M. Field) (Z-Library).pdf
+格式规范性#多余换行#1#1# Systems, Process, And Outcomes
+语义有效性#栏目混乱#1#4# 内容顺序颠倒
+信息丰富性#有用性#0#0#Simplified Adult Bls  图表标题

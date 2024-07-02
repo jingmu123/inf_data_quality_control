@@ -1,0 +1,24 @@
+【0】页码:255
+Of the factors mentioned before, duration is the most critical function in dental movement, a duration of 4 to 6 hours originates important dental movements.  It is important to mention that the majority of intents to eradicate this conduct with strong words, punishments or any other aggressive conduct towards a child that has this habit have been counterproductive because far from eliminating it, it has only reinforced this conduct making it stronger and more frequent.
+
+【1】##Correction
+
+【2】We must be very careful if we want to eliminate the habit.
+From the Freudian point of view an abrupt interference can provoke the appearance of antisocial behavior, much more difficult to live with than the habit itself. For this motive, the general practitioner must have enough psychological training in order to refer the patient with a specialist for adequate treatment.  A simple Hawley plate will impede the introduction of a finger against the palate; this will take the pleasure out of the suction habit, and gradually the child will drop the habit. A grill can be added to the plate just as a reminder, but the child must know the purpose of the appliance.
+
+【3】We must keep in mind that the malocclusion can be corrected at any time, but a serious psychological problem can persist a lifetime, with much more serious sequels than the malocclusion itself.
+
+【4】The decision to interfere with a non-nutritive suction habit in the primary dentition must be based upon the following factors:
+
+【5】1. If the finger habit is tied to a developing Class II malocclusion, the skeletal malocclusion will worsen while the habit continues.
+
+【6】2. It is believed that finger habits are less detrimental or ever benefit dental development if the child is developing a Class III malocclusion or if the child is prognathic.
+
+【7】3. Anterior open bites derived from finger sucking habits usually do not need to be treated because there is a spontaneous correction after the habit is abandoned, especially if it ceases before the patient reaches three years of age.
+4. The attitude of the child: the child must always be part of the decision-making process, this way the child will not consider the intervention as a punishment.焦瀚远
+
+====================================================================================================
+
+oss://inf-beta/datasets/medical_books_v1130/1001 tips for orthodontics and its secrets (Esequiel E. Rodriguez Yanez  Coauthors etc.) (Z-Library).pdf
+格式规范性#缺少换行#2#2#A simple Hawley plate will这里开始应换行
+信息丰富性#信息不完整#0#1#中间缺少一段正文

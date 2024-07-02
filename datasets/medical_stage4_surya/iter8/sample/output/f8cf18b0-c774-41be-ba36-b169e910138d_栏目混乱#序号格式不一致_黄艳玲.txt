@@ -1,0 +1,51 @@
+【0】页码:328
+##Advantages
+
+【1】1. Very cheap.
+2. Hygienic.
+
+【2】3. Excellent space closure appliance.
+
+【3】4. Well done Coregg retainers can maintain teeth well aligned for many years.
+
+【4】5. Teeth tip and torque is maintained.
+In block space closure is obtained.
+These are excellent long term retainers.
+It allows syndesmothomy.
+It is a lasting retainer. i. It takes a long time to make.
+
+【5】##Disadvantages
+
+【6】2. It is not esthetic.
+
+【7】3. Absorbs foul odors.
+
+【8】4. With continuous use the acrylic changes color.
+
+【9】5. The acrylic can fracture under occlusion pressure.
+If it is not well made it can provoke an open bite.
+Unadjusted loops can hurt the oral mucosa.
+
+【10】##Recommendations
+
+【11】1. To take off pull the loops by the distal side.
+The occlusal acrylic must be 0.5 mm to 1 mm thick.
+The premature contact points of the posterior zone must be eliminated in order to avoid an open bite and to obtain a balanced occlusion.
+
+【12】4. All the antagonist teeth must occlude on all the acrylic.
+
+【13】5. The loops must be placed as close as possible to the center of resistance of the teeth.
+The loops must be activated each month with a three prong plier.
+
+【14】7. The retainer must be worn 24 hours a day. Except during meal time.
+As long term retention, we recommend only night use.黄艳玲
+
+====================================================================================================
+
+oss://inf-beta/datasets/medical_books_v1130/1001 tips for orthodontics and its secrets (Esequiel E. Rodriguez Yanez  Coauthors etc.) (Z-Library).pdf
+格式规范性#序号格式不一致#4#4#句首缺少序号
+格式规范性#序号格式不一致#9#9#句首缺少序号
+格式规范性#序号格式不一致#11#11#句首缺少序号
+格式规范性#序号格式不一致#13#13#The loops must be 句首缺少序号
+格式规范性#序号格式不一致#14#14#As long term 句首缺少序号
+语义有效性#栏目混乱#6#9#序号混乱

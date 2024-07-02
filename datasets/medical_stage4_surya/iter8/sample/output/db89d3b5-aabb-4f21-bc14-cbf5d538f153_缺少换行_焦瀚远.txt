@@ -1,0 +1,36 @@
+【0】页码:179
+##Unfractionated Heparin Versus Low-Molecular-Weight
+Heparin With Ppci In Stemi
+
+【1】Two registry studiesand other studies demonstrated similar or improved outcomes when enoxaparin was compared to UFH in patients undergoing PPCI combined with a GP IIb/IIIa antagonist and thienopyridine inhibitor.
+One large clinical trial  demonstrated better outcomes in terms of acute cardiac events and bleeding using fondaparinux and PPCI. Thrombus formation on catheter material in patients on fondaparinux, however, required the addition of UFH during PCI.Two large randomized clinical trials resulted in less bleeding and a short- and long-term reduction in cardiac events and overall mortality with bivalirudin compared to UFH plus a glycoprotein inhibitor in patients with STEMI and PPCI.For patients with STEMI undergoing contemporary PCI (ie, additional broad use of glycoprotein IIb/IIIa inhibitors and a thienopyridine) enoxaparin may be considered a safe and effective alternative to UFH (Class IIb, LOE B). Patients initially treated with enoxaparin should not be switched to UFH and vice versa to avoid increased risk of bleeding.
+Fondaparinux may be considered as an alternative to UFH, however, there is an increased risk of catheter thrombi with fondaparinux alone. Additional UFH (50 to 100 U/kg bolus) may help to avoid this complication (Class IIb, LOE B), but using these two agents is not recommended over UFH alone.
+For fondaparinux and enoxaparin it is necessary to adjust the dose in patients with renal impairment. Bivalirudin may be considered as an alternative to UFH and GP IIb/IIIa inhibitors (Class IIb, LOE A).
+
+【2】##Calcium Channel Blockers
+
+【3】There is little evidence that calcium channel blocking agents can be safely used as an alternative or additional therapy to b -blockers when the later are contraindicated or their maximum dose has been achieved.
+Calcium channel blocking agents have not been shown to reduce mortality after acute MI, and in certain patients with cardiovascular disease there are data to suggest that they are harmful. β -blockers have been used much more broadly, have a much safer profile, and appear to be a more appropriate choice for patients presenting with myocardial infarction compared to calcium channel blockers.
+
+【4】##Ace Inhibitor Therapy
+
+【5】ACE Inhibitors and ARBs in the Hospital ACE inhibitor therapy has improved survival rates in patients with AMI, particularly when started early after the initial hospitalization.Evidence from  large clinical trials,  meta-analyses,  minor trialsdocuments consistent improvement in mortality when oral ACE inhibitors are administered in the hospital setting to patients with AMI with or without early reperfusion therapy. In these studies ACE inhibitors were not administered in the presence of hypotension (SBP < 100 mm Hg or ≥ 30 mm Hg below baseline). The beneficial effects are most pronounced in patients with anterior infarction, pulmonary congestion, or LV ejection fraction <40%.
+
+【6】Administration of an oral ACE inhibitor is recommended within the first 24 hours after onset of symptoms in STEMI patients with pulmonary congestion or LV ejection fraction < 40%, in the absence of hypotension (SBP < 100 mm Hg or ≥ 30 mm Hg below baseline) (Class I, LOE A). Oral ACE inhibitor therapy can also be useful for all other patients with AMI with or without early reperfusion therapy (Class IIa, LOE B). IV administration of ACE inhibitors is contraindicated in the first 24 hours because of risk of hypotension (Class III, LOE C).
+
+【7】ACE Inhibitors in the Prehospital Setting Despite multiple studies that have shown a benefit of ACE inhibitors and ARBs in patients with a myocardial infarction when therapy is started during the first 24 hours of the index hospitalization, no trial specifically evaluates patients in the ED or prehospital settings. An older randomized trial showed a reduction in mortality with an increased risk of hypotension in patients treated soon after presentation in the inpatient setting.Several trials showed a reduction in the rate of heart failure and mortality in patients treated soon after fibrinolysis,  and several others showed no benefit with the early or prehospital use of angiotensin converting enzyme.
+In conclusion, although ACE inhibitors and ARBs have been shown to reduce long-term risk of mortality in patients suffering an AMI, there is insufficient evidence to support the routine initiation of ACE inhibitors and ARBs in the prehospital or ED setting (Class IIb, LOE C).
+
+【8】##Hmg Coenzyme A Reductase Inhibitors (Statins)
+
+【9】A variety of studies documented consistent reduction in indicators of inflammation and complications such as reinfarction, recurrent angina, and arrhythmias when statin treatment is administered within a few days after onset of an ACS.  There is little data to suggest that this therapy should be initiated within the ED; however, early initiation (within 24 hours of presentation) of statin therapy is recommended in patients with an ACS or AMI (Class I, LOE C). If patients are already on statin therapy, continue the therapy (Class IIb, LOE C).
+An increase in short-term mortality and incidence of major adverse cardiac events have been reported with discontinuation of statin treatment in ACS patients at hospital admission.
+Statins should not be discontinued during the index hospitalization unless contraindicated (Class III, LOE C).Pretreatment with statins in patients undergoing elective percutaneous angioplasty for stable angina or hemodynamicaly stable ACS has been shown to significantly reduce biomarkers of myocardial necrosis or inflammation compared to placebo when given between 3 and 7 days prior to the procedure.Furthermore, pretreatment with atorvastatin 80 mg 12 hours before and an additional 40 mg immediately before PCI for NSTEMI or documented ischemia has been shown to significantly decrease the 30 day composite of death, MI, and unplanned revascularization compared to placebo in a prospective randomized trial. There were no deaths in any of the two groups and the primary end point was driven by peripro-焦瀚远
+
+====================================================================================================
+
+oss://inf-beta/datasets/medical_books_v1130/2010 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care Science (Mary Fran Hazinski, John M. Field) (Z-Library).pdf
+格式规范性#缺少换行#1#1#Two large randomized 
+格式规范性#缺少换行#5#5#ACE inhibitor therapy has improved  这里开始应换行
+格式规范性#缺少换行#7#7#Despite multiple studies that  这里开始应换行
+格式规范性#缺少换行#9#9#Pretreatment with statins

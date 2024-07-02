@@ -1,0 +1,35 @@
+【0】页码:62
+##Arch Wire Tie Back C)
+
+【1】The tie back is a type of minimal anchorage made directly on the arch wire. This is done by bending the arch ° gingivally at the end of the molar tube; in order to do this it necessary to let the arch wire  mm in excess from the distal end of the molar tube. This can be used in the initial stage of treatment (during alignment and leveling with NiTi or stainless steel wires) or in the space closure phase for anchorage control. Also helps to "stall" the anterior segment from the distal part of the tube and prevent proclination in the anterior segment.  We have to bear in mind that before we tie back the NiTi arch wire we must flame the ends. This way it will lose its resilience and will be bent with precision.
+
+【2】##Advantages
+
+【3】2. It is done directly on the arch wire.
+
+【4】1.1.13. Cheap and easy to do.
+
+【5】4. Helps prevent the mesial movement of anterior teeth in the aligning, leveling and space closure treatment phases.
+
+【6】##Disadvantages
+
+【7】19. If the bend is not made correctly, lacerations and ulcers can occur in the oral mucosa.
+
+【8】2. We could debond the molar tube if we were not careful enough when making the bend.
+
+【9】3. More than necessary anchorage loss if we do not have a strict appointment control.
+
+【10】##Recommendations
+
+【11】1. The tie back of the lower arch wire is recommended in Class III patients with the use of Class III elastics, in order to prevent proclination of the anteroinferior segment.
+
+【12】2. The tie back of the upper arch wire is recommended in Class II patients with the use of Class II elastics, in order to prevent proclination of the anterosuperior segment.
+
+【13】3. In cases where we want more dental arch length during the leveling and alignment treatment phase, the tie back must be done 1 or 2 mm behind the end of the molar tube.王磊
+
+====================================================================================================
+
+oss://inf-beta/datasets/medical_books_v1130/1001 tips for orthodontics and its secrets (Esequiel E. Rodriguez Yanez  Coauthors etc.) (Z-Library).pdf
+格式规范性#序号格式不一致#0#0# Arch Wire Tie Back C)  序号应该在前面
+文本干净度#无关文本#4#4# 1.1.1
+文本干净度#无关文本#7#7# 9

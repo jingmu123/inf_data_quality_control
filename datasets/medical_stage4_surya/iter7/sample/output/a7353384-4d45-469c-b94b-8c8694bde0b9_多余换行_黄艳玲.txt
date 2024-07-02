@@ -1,0 +1,27 @@
+【0】页码:201
+(本页删除)本页有超过一半的段落长度小于50字符
+
+【1】4. Finally the CBR is placed in the mouth.
+
+【2】删除图片4:<u>Fig.删除26_2:<u></u> All the wire skeleton is going to be covered of acrylic except the protraction hooks.</u>
+
+【3】删除图片4:<u>Fig.删除26_2:<u></u> CBR with acrylic.</u>
+
+##删除换行1:<u>| |</u>Advantages
+
+【5】1. Economic.
+
+【6】2. Easy to make.
+
+【7】3,
+
+【8】Intraoral.
+
+【9】4. It stimulates the transversal growth of the maxilla thanks to the palatal TMA rods.
+
+【10】删除图片4:<u>Fig.删除26_2:<u></u> CBR with protraction elastics (Class III elastics).</u>黄艳玲
+
+====================================================================================================
+
+oss://inf-beta/datasets/medical_books_v1130/1001 tips for orthodontics and its secrets (Esequiel E. Rodriguez Yanez  Coauthors etc.) (Z-Library).pdf
+格式规范性#多余换行#7#8# 3,   和Intraoral.连接

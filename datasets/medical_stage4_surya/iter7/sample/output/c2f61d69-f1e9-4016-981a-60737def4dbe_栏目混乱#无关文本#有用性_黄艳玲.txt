@@ -1,0 +1,55 @@
+页码:16
+Amount of antibiotics given annually to hogs, poultry and cattle in the U.S.:删除换行1:<u>| |</u>In 1985: 18 million pounds删除换行1:<u>| |</u>In late 1990s: 25 million pounds
+
+【1】Percent of all antibiotics given to livestock that is used to treat disease: 7
+
+【2】Amount of antibiotics used by Americans annually: 4.5 million pounds
+
+Amount in topical creams, soaps and disinfectants: 1.5 million pounds删除换行1:<u>| |</u>Percent of liquid soaps that contain antibacterial ingredients: 76
+Percent of people who say they wash their hands after using a public restroom: 95
+Percent observed doing so: 67
+
+Number of Americans infected (after eating chicken) with删除换行1:<u>| |</u>Campylobacter resistant to antibiotic fluoroquinolone:删除换行1:<u>| |</u>In 1998: 8,782
+In 1999:删除26_1:<u>11,</u>
+
+Percent of Streptococcus pneumoniae infections in the U.S. that were penicillin-resistant:删除换行1:<u>| |</u>In 1987: 0.2
+In 1994 : 6.6
+
+SOURCES: Union of Concerned删除换行1:<u>| |</u>Scientists, "Hogging It: Estimates of Antimicrobial Use in Livestock,删除换行1:<u>| |</u>January 2001; Beth Israel删除换行1:<u>| |</u>Deaconess Medical Center ; American删除换行1:<u>| |</u>Society for Microbiology , U.S. FDA
+
+##删除换行1:<u>| |</u>Biology
+
+##删除换行1:<u>| |</u>Disposing Of删除换行1:<u>| |</u>Misfolded Proteins
+
+【9】Abasic task of cells is to make proteins, which must fold properly in order to function. But sometimes cells botch the job, leading to misfolded proteins that are useless or even dangerous. How exactly most cells repair or destroy flawed proteins has remained somewhat elusive—until now. As reported in the January Nature Cell Biology , experiments revealed a component of the repair process that may participate in a cell's decision to fix or destroy a particular protein. Researchers found that a molecule called CHIP first prevented chaperones, which repair proteins, from trying to refold an unsalvageable protein, then subsequently transferred the hopeless case to a proteasome, which destroyed it.
+These findings may help researchers develop new treatments for Alzheimer's disease and other kinds of neurogenerative disorders associated with an accumulation of misfolded proteins in cells.
+
+【10】—Alison McCook
+
+##删除换行1:<u>| |</u>Neuroscience
+
+##删除换行1:<u>| |</u>You Look Awfully Familiar with a celebrity's to determine which hemisphere is involved in self-recognition, an ability shared with some删除换行1:<u>| |</u> apes and considered to be a hallmark of self-awareness.
+
+【13】AMAZON RIVER ( blue ) meets the Rio Negro [ black ]; the colors differ because of the sediment they carry.
+Whether organic sediment from rivers makes it to the ocean had been unclear.
+
+##删除换行1:<u>| |</u>Earth Science
+
+##删除换行1:<u>| |</u>Take Me To The Ocean
+
+【16】Rivers should dump plenty of organic matter into the sea, replacing all the ocean's carbon in 4,000 to 6,000 years. But geochemical studies have suggested that little of the riverine carbon, derived from plants, actually makes it out. In the January 25 Nature , researchers report a possible solution. Using radiocarbon techniques on sediments collected from four rivers, they determined that bacteria may alter riverine carbon, making it indistinguishable from ocean carbon. Although it fills in details about the carbon cycle, the study deals with timescales too long to affect carbon dioxide– influenced global warming by humans. In fact, in February the Intergovernmental Panel on Climate Change raised the estimate of the world's temperature rise between 1990 and 2100 from 1.0 to 3.5 degrees Celsius to 1.4 to 5.8 degrees C.
+
+【17】-Philip Yam
+
+Your sense of self may lie in the right side of your brain. In the January 18 Nature , Julian删除换行1:<u>| |</u>Keenan and his Harvard Medical School colleagues numbed the right or left hemispheres of five epilepsy patients and then showed each a computer image of his or her own face blended with the face of Bill Clinton or Albert删除换行1:<u>| |</u>Einstein (for men) and Marilyn Monroe or Princess Diana (for women). Once the anesthesia wore off  patients had to choose which face they had seen. All five selected their own face when only their right hemispheres were active, but four out of the five said they had seen the famous face when only their left hemispheres were awake. —Alison McCook
+
+【19】DTOGRAPHS BY EARTH SATELLITE CORP. S PL /Photo Researchers, Inc. [top], JULIAM KEENAM Marvard Medical School (bottom); ILLUSTRATION BY EDWIN FOTHERINGH黄艳玲
+
+====================================================================================================
+
+oss://inf-beta/datasets/medical_books_v1130/(2001-04) Whose Blood Is It, Anyway (Scientific American) (Z-Library).pdf
+文本干净度#无关文本#19#19#DTOGRAPHS BY EARTH SATELLITE CORP. S PL /Photo Researchers, Inc. [top], JULIAM KEENAM Marvard Medical School (bottom); ILLUSTRATION BY EDWIN FOTHERINGH
+语义有效性#栏目混乱#10#10#NEUROSCIENCE
+信息丰富性#有用性#0#2#Amount of antibiotics given......for Microbiology , U.S. FDA侧栏拓展内容
+信息丰富性#有用性#10#10#with a celebrity’s to ......hallmark of self-awareness.图片描述
+信息丰富性#有用性#13#13#AMAZON RIVER ( blue ) ......ocean had been unclear.图片描述

@@ -1,0 +1,33 @@
+【0】页码:14
+#S An Environmental Solution
+
+【1】##Ionic Liquids May Replace Hazardous Solvents    By Rebecca Renner
+
+【2】hemistry depends on solutions. Liquids are important because, once substances . are dissolved, their molecules can readily come together to react. But many substances prove to be hard, if not impossible, to dissolve.
+Now a growing number of chemists believe they have discovered the correct solution—ionic liquids, peculiar combinations of salts that are liquid at room temperature. These new solvents can be tailor-made to dissolve a variety of substances, including coal, crude oil, inks, plastics, DNA and even some rocks.
+
+【3】Kenneth R. Seddon, chair of inorganic chemistry at Queen's University Belfast in Northern Ireland, estimates that there are, in theory, more than a trillion different ionic liquids, millions of which are extremely stable (they remain liquid over a range of about 300 degrees Celsius) and nonvolatile (they can be used over and over). They may replace toxic, flammable and polluting volatile organic solvents, such as toluene, hexane and dichloromethane, for which the worldwide annual market is about $6 billion.
+Chemists make ionic liquids by combining large organic positive ions—with unfriendly names such as 1-ethyl-3-methyl imidazolium [emim]+—and smaller inorganic negative ions, like aluminum tetrachloride.
+This combination of large and small ions is very different from most ionic salts, such as table salt (NaCl).
+Table salt is a solid at room temperature because positively charged sodium clings to negatively charged chlorine; thus stuck, the ions stack up to form a regular lattice. But in ionic liquids, the positive charge is less focused: because the positive ions are large, the total charge is smeared out across several atoms. In addition, the big, irregular shapes don't form crystal structures at room temperature. "It's like trying to stack bananas instead of oranges. Bananas just don't stack well," comments chemist James H. Davis, Jr., of the University of South Alabama. Unable to crystallize, the substance remains a liquid.
+Serving as a new kind of solvent, however, may be just the start. "This feels like a revolution in the making," says Robert B. Morland, an organic chemist at BP Amoco Chemicals in Naperville, Ill. He predicts that ionic liquids will revolutionize the use of catalysts in industrial chemistry. This is because, for a particular reaction, chemists can make an ionic liquid with the right positive and negative charge combination to dissolve the catalyst and the chemicals involved in a reaction; the liquid, however, does not affect the product of the reaction. The catalyst stays in the ionic liquid to be reused, and the product may even rise to the surface, where it can be skimmed off, he says. The French Petroleum Institute is getting ready to license for commercial use a dimer manufacturing process that exploits these very properties, according to Davis.
+Despite chemists' enthusiasm  ,  " for industry to adopt ionic liquids there will have to be a unique advantage. It's not enough to be a bit more green," cautions Robin D. Rogers, director of the Center for Green Manufacturing at the University of Alabama. Expense is a major hurdle: right now a pound of ionic liquid costs about $4,000 to $5,000. The amount could drop to about $200 a pound, depending on composition and quantity, Morland says. But it is still pricey compared with organic solvents—per pound, acetone sells for about $0.15 and toluene about $0.10. Of course, because ionic liquids can be recycled, a few tons would replace many tons of organic solvent.
+Toxicity and environmental tests also need to be conducted, Seddon says. Initial animal test results look good, but the generous bounty of possible ionic liquids creates a catch-22 situation, points out Albert Robertson, a senior chemist with specialty chemical maker Cytec Canada. Toxicity tests cost hundreds of thousands of dollars, so manufacturers are playing a waiting game, unwilling to start testing until they are certain they have the right ionic liquid. But proponents say the hurdles will just slow down the inevitable.
+Seddon and Rogers believe that major applications are some seven to 10 years away. A small-scale industrial application could emerge much sooner, in less than three years.
+
+【4】Rebecca Renner is a geologist turned science writer based in Williamsport, Pa.
+
+【5】IONIC CRYSTAL called 1-octadecyl-3-methylimidazolium tetrafluoroborate, as seen through polarizing filters. Textures result from the molecular formation of hydrocarbon- and ion-rich regions.
+
+【6】##Breaking
+Solution Rules
+
+【7】Substances dissolve when their molecules are similar to the molecules of the solvent, a fact embodied in the chemist's rule of thumb that "like dissolves like." In other words, covalent molecules, which have no overall electric charge—substances that include fat, oil and many organic compounds—dissolve in covalent volatile organic solvents.
+But they don't dissolve in water, which is slightly charged. In contrast, ionic solids, which consist of positively and negatively charged ions, dissolve readily in water. Ionic liquids break the solution rules: they manage to dissolve organic covalent molecules. Chemists don't understand why.王磊
+
+====================================================================================================
+
+oss://inf-beta/datasets/medical_books_v1130/(2001-08) Cyber Cells (Scientific American) (Z-Library).pdf
+语法规范性#错别字#2#2# hemistry   应该是  Chemistry 
+文本干净度#无关文本#0#0# S
+信息丰富性#有用性#5#7# 侧面拓展内容

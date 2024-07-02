@@ -1,0 +1,10 @@
+【0】页码:58
+A rigid bronchoscopy is always performed in the operating room by a thoracic (chest) surgeon with the patient unconscious under anesthesia. The rigid bronchoscope is larger and less maneuverable than the flexible scope. It is considered superior to the flexible scope in two specific settings: when dealing with bleeding within the lung, and when retrieving larger aspirated (inhaled) foreign bodies. It also allows for the placement of bronchial stents in specialized circumstances. Most rigid bronchoscopies are indicated for therapeutic purposes.
+
+【1】Bronchoscopy is not routinely performed in the care of someone with asthma. Rare situations involving very severe asthma, when marked accumulation of mucus extensively blocks the bronchial passages, can require bronchoscopy to remove the thick, obstructing mucus plugs.
+
+【2】Having well-controlled asthma is not a contraindication to undergoing bronchoscopy if it is required for evaluation of another (non-asthma) lung condition. It is important that a patient's asthma be quiescent and inactive when the bronchoscopy is performed. In particular, if a person scheduled to undergo bronchoscopy is wheezing, the procedure should be cancelled and the wheezing brought under control before proceeding with the test.焦瀚远
+
+====================================================================================================
+
+oss://inf-beta/datasets/medical_books_v1130/100 Questions and Answers About Asthma (Claudia S. Plotte) (Z-Library).pdf

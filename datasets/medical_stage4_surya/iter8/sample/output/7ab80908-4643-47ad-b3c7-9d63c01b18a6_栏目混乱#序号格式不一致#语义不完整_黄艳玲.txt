@@ -1,0 +1,47 @@
+【0】页码:128
+##Recommendations
+
+【1】1. Bond the bite ramps on the cingulum of the upper incisors.
+
+【2】2. Use heavy rectangular arch wires to avoid posterior sector lingualization.
+
+【3】3. Use  Oz force elastics.
+The elastics must be changed every 24 hours.
+Perform posterior segment stripping to facilitate extrusion.
+Tell the patient to chew gum with the intermaxillary elastics in place. This will accelerate the extrusion of the posterior segment.
+
+【4】##Individual Bypass
+
+【5】This form of intrusion is very simple and fast. We just have to place a brace or a button to the tooth that we want to intrude and pass an elastic wire (NiTi or TMA ) on the incisal portion of the tooth. This will intrude the tooth. l. The bypass provokes an intrusive movement immediately.
+
+【6】##Advantages
+
+【7】2. The intrusive movement is 2 mm per month.
+We do not depend upon patient compliance.
+We can produce individual or in block intrusion.
+
+【8】##Disadvantages
+
+【9】1. There is no tip or torque control of the tooth.
+Teeth with intrusive bypass tend to incline buccally.
+
+【10】3. Because it is a violent movement, it provokes periodontal inflammation and pain.
+
+【11】##Recommendations
+
+【12】1. Make the by-pass with elastic wires like NiTi or TMA.
+
+【13】2. The diameter of the arches can range from " to ".
+
+【14】3. After dental intrusion, we must give tip and torque to the tooth.
+We must lace the teeth adjacent to the bypass.
+After dental intrusion, all arches must have an intrusion bend or we must change the position of the brace in order to place a straight wire and facilitate horizontal movements if necessary.黄艳玲
+
+====================================================================================================
+
+oss://inf-beta/datasets/medical_books_v1130/1001 tips for orthodontics and its secrets (Esequiel E. Rodriguez Yanez  Coauthors etc.) (Z-Library).pdf
+格式规范性#序号格式不一致#3#3#句首缺少序号
+格式规范性#序号格式不一致#7#7#句首缺少序号
+格式规范性#序号格式不一致#9#9#句首缺少序号
+语义有效性#栏目混乱#5#6#Advantages小标题与内容顺序上下颠倒
+语义有效性#语义不完整#13#13#range from " to ".数字缺失内容不完整

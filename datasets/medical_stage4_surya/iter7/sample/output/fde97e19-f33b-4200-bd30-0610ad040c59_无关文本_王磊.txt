@@ -1,0 +1,22 @@
+页码:19
+#The Company’S Company删除换行1:<u>| |</u>Venture Capitalism Becomes A New Mission For The Nation’S Spymasters   By Daniel G. Dupont
+
+In 1998 Ruth A. David, then the Central Intelligence删除换行1:<u>| |</u>Agency's top science and technology official, came away impressed from a trip to the Massachusetts Institute of Technology's Media Lab. On the flight back to Washington, she remarked to her deputy, Joanne删除换行1:<u>| |</u>Isham, that the agency could benefit from a high-powered, in-house technology incubator.
+
+【2】The CIA was having a tough time tapping into the information technology revolution, yet it had a pressing need to implement more advanced software tools for tasks such as Internet security to prevent hacker incursions. The agency could no longer rely solely on its traditional contractor base and government labs for the cutting-edge information technologies that would allow it to keep spying on the world. It had unsuccessfully tried a number of internal efforts to take advantage of new technologies. But it often had trouble reaching out beyond the confines of the agency. Security concerns frequently hindered it from detailing its needs to outside suppliers.
+#Innovations
+
+【3】George J. Tenet, the agency's director, convinced of the importance of adopting new information technology, gave the green light to David and other agency employees who wanted to try a wholly new approach. Using outside consultants and legal experts, the team began putting together an infrastructure for linking the CIA with the network of investment bankers, venture capitalists and information technology entrepreneurs who turn new ideas into useful products. After much refinement, the CIA created In-Q-Tel, a private not-for-profit venture-capital firm whose funding comes from taxpayer dollars.
+
+The CIA has set up companies before, but they have been primarily undisclosed fronts for secret agency operations, such as Air America, the airline the CIA ran for many years in Southeast Asia. In-Q-Tel is different: the agency acknowledges and promotes its relationship with In-Q-Tel. Company officials like to call the publicly funded CIA creation a "venture catalyst" because it does more than seed start-ups and new technologies.
+It does, of course, shell out much needed funding. "No one comes to us not looking for our money," says删除换行1:<u>| |</u>Christopher Tucker, the company's chief strategist. But删除换行1:<u>| |</u>In-Q-Tel also acts as a buffer between the agency and the information technology community. It offers the expertise of a group of people who have spent a great deal of time thinking through the particular problems the agency confronts.
+
+【5】The CIA requires a series of target technologies: software for Internet security—threat detection and eradication of hackers who pry into its databases—as well as information management, network security access, and the searching and indexing of open-source documents, just to name a few. But the agency's insular culture keeps it from acknowledging that existing systems may be deficient. And security is always paramount. Just getting a list of technology-related needs on paper was difficult. Doing so, Tucker says, "was a real watershed event, and then having it articulated at
+
+【6】TOM DRAPER DESIGN王磊
+
+====================================================================================================
+
+oss://inf-beta/datasets/medical_books_v1130/(2001-08) Cyber Cells (Scientific American) (Z-Library).pdf
+文本干净度#无关文本#2#2# Innovations  页眉内容
+文本干净度#无关文本#6#6# TOM DRAPER DESIGN

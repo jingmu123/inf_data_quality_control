@@ -1,0 +1,22 @@
+【0】页码:64
+IN THE WELL-KNOWN STONE SOUP FABLE, a wandering soldier stops at a poor village and says he will make soup by boiling a cauldron of water containing only a shiny stone. The townspeople are skeptical at first but soon bring small offerings: a head of cabbage, a bunch of carrots, a bit of beef. In the end, the cauldron is filled with enough hearty soup to feed everyone. The moral: cooperation can produce significant achievements, even from meager, seemingly insignificant contributions.
+
+【1】Researchers are now using a similar cooperative strategy to build supercomputers, the powerful machines that can perform billions of calculations in a second. Most conventional supercomputers employ parallel processing: they contain arrays of ultrafast microprocessors that work in tandem to solve complex problems such as forecasting the weather or simulating a nuclear explosion. Made by IBM, Cray and other computer vendors, the machines typically cost tens of millions of dollars—far too much for a research team with a modest budget. So over the past few years, scientists at national laboratories and universities have learned how to construct their own supercomputers by linking inexpensive PCs and writing software that allows these ordinary computers to tackle extraordinary problems.
+In 1996 two of us (Hargrove and Hoffman) encountered such a problem in our work at Oak Ridge National Laboratory (ORNL) in Tennessee. We were trying to draw a national map of ecoregions, which are defined by environmental conditions: all areas with the same climate, landforms and soil characteristics fall into the same ecoregion. To create a high-resolution map of the continental U.S., we divided the country into  million square cells, each with an area of one square kilometer. For each cell we had to consider as many as 25 variables, ranging from average monthly precipitation to the nitrogen content of the soil. A single PC or workstation could not accomplish the task. We needed a parallel-processing supercomputer—and one that we could afford!
+Our solution was to construct a com- puting cluster using obsolete PCs that ORNL would have otherwise discarded.
+Dubbed the Stone SouperComputer because it was built essentially at no cost, our cluster of PCs was powerful enough to produce ecoregion maps of unprecedented detail. Other research groups have devised even more capable clusters that rival the performance of the world's best supercomputers at a mere fraction of their cost. This advantageous price-toperformance ratio has already attracted the attention of some corporations, which plan to use the clusters for such complex tasks as deciphering the human genome. In fact, the cluster concept
+
+【2】##A Computing Cluster
+
+【3】The Stone SouperComputer at Oak Ridge National Laboratory consists of more than 130 PCs linked in a computing cluster. One of the machines serves as the front-end node for the cluster; it has two Ethernet cards, one for communicating with users and outside networks, and the other for talking with the rest of the nodes in the cluster. The system solves problems through promises to revolutionize the computing field by offering tremendous processing power to any research group, school or business that wants it.
+
+【4】##Beowulf And Grendel
+
+【5】THE NOTION OF LINKING COMPUT- ers together is not new. In the 1950s and 1960s the U.S. Air Force established a network of vacuum-tube computers called SAGE to guard against a Soviet nuclear attack. In the mid-1980s Digital Equipment Corporation coined the term "cluster" when it integrated its mid-range VAX minicomputers into larger systems.
+Networks of workstations—generally王磊
+
+====================================================================================================
+
+oss://inf-beta/datasets/medical_books_v1130/(2001-08) Cyber Cells (Scientific American) (Z-Library).pdf
+语义有效性#栏目混乱#2#3# 正文内容和下面拓展内容相连接
+信息丰富性#有用性#2#3# A Computing Cluster…… The system solves problems through  下面拓展内容

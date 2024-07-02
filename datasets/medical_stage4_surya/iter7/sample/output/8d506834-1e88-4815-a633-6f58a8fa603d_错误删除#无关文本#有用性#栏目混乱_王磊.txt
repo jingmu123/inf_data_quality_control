@@ -1,0 +1,52 @@
+【0】页码:17
+(本页删除)本页有超过一半的段落长度小于50字符
+
+##删除换行1:<u>| |</u>Evolution
+
+##删除换行1:<u>| |</u>Faster Than A Snail’S Pace
+
+Animals are often driven from their native territories by habitat destruction or severe climate change. Acanthinucella spirata, a ma-删除换行1:<u>| |</u>QUICK, from evolution's point of view. rine snail common along the California coast, was one of many species that survived the last ice age in the relatively warm, southernmost part of their ranges. The snail recolonized northern coastlines about 12,000 years ago as the ice released its grip on North America. But in a relatively short time, the snails' shells evolved into shapes that had never before existed, most likely in response to their new environments.
+The study's authors, writing in the June 1 Science , offer a caution to conservationists who relocate endangered species in efforts to save them: when you move a species around, you may quickly end up with a whole different beast.
+
+【4】-Sarah Simpson
+
+##删除换行1:<u>| |</u>Physics
+
+##删除换行1:<u>| |</u>Crystallizing Sound
+
+【7】Turning a liquid into a solid usually means tossing it into the freezer for a while. Researchers at the École Normale Supérieure in Paris, though, have effected that phase change with acoustic waves. They blasted liquid helium with a burst of one-megahertz ultrasound, producing intense pressure levels (about 200 decibels) in the liquid helium. Acoustic waves consist of alternating regions of high and low pressure—compression followed by rarefaction.
+
+FROZEN HELIUM could be删除换行1:<u>| |</u>The compression cycle started the crystallization, which spread made with sound waves. through the helium at about 100 meters a second—nearly the speed of sound. During rarefaction, the solid melted even more quickly. The work, appearing in the June 11 Physical Review Letters , helps physicists understand the stability of supercooled or overpressurized liquids.
+
+【9】-Philip Yam
+
+【10】STUV ROY (top); SEBASTIEN BALIBARET AL. École Normale Supérieure (middle); ANDY SACKS Stone (bottom)
+
+##删除换行1:<u>| |</u>Toxicology
+
+##删除换行1:<u>| |</u>When Fish Is Not Brain Food pounds of fish from Lake Michigan every year删除换行1:<u>| |</u>The Great Lakes harbor a variety of pollutants  , including the particularly persistent polychlowere less able to recall a story after hearing it rinated biphenyls. Research has long associthan people who ate less than six pounds of ated exposure to PCBs with memory probfish. The researchers also point out that lems in infants and chilworkers at manufacturing dren, and a new study, plants (such as those makheaded by Susan Schantz ing capacitors) may be exof the University of Illiposed to 10 to 100 times nois, suggests that the as many PCBs as the fish compounds can also affect eaters in this study and adults. In the June Envitherefore may be at risk ronmental Health Perfor PCB-related cognitive spectives , Schantz and her impairment. colleagues describe an ex- -Alison McCook periment in which fish MEMORY TROUBLES eaters older than 49 years could develop from eating too and eating at least 24 much fish from Lake Michigan.删除10:<u> www.sciam.com</u>
+
+【13】##
+.删除10:<u>Sciam.Com/News</u>
+
+【14】删除0:<u>■</u> Near an ancient Egyptian coastline, paleontologists have unearthed the remains of the second-largest dinosauryet discovered: Paralititan stromeri, or "tidal giant.删除10:<u>" /060101/1.html</u>
+
+【15】删除0:<u>■</u> A review of past studies concludes that the placebo effect may be no effect at all: patients on placebos fared no better than those who had no treatment.删除10:<u>/052501/1.html</u>
+
+【16】删除0:<u>■</u> Even before they can speak, babies know where words begin and end —an ability that appears as young as eight and a half months.删除10:<u> /060401/3.html</u>
+
+【17】Researchers have transferred the electron's spin between n- and ptype semiconductors, raising hopes that spintronics— electronics based on spin rather than charge—is possible.
+
+【18】删除10:<u>/061401/2.html</u>
+
+【19】23 SCIENTIFIC AMERICAN王磊
+
+====================================================================================================
+
+oss://inf-beta/datasets/medical_books_v1130/(2001-08) Cyber Cells (Scientific American) (Z-Library).pdf
+文本干净度#无关文本#10#10# 侧面内容
+语义有效性#错误删除#0#1#把有用的文章内容误判了
+语义有效性#栏目混乱#7#7# 图片描述和正文内容联接
+语义有效性#栏目混乱#10#10#内容互相穿插，没有顺序
+信息丰富性#有用性#7#7# FROZEN HELIUM could be    made with sound waves  图片描述
+信息丰富性#有用性#14#19#侧面拓展内容

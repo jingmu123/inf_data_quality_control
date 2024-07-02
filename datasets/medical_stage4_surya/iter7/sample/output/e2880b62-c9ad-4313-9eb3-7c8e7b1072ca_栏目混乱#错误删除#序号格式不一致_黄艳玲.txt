@@ -1,0 +1,37 @@
+【0】页码:344
+7. Wash the reinforced Essix" with neutral soap.
+The reinforced Essix删除0:<u>®</u> can be ultrasonically cleaned in the dental office. 删除1:<u>( 删除2:<u>18 , 31 , 35</u>)</u>
+
+##删除换行1:<u>| |</u>Fixed Retainers
+
+【2】This type of retention is used when a prolonged reten删除16:<u>¬ </u>tion is planned or when we fear that teeth alignment is instable. 删除1:<u>(删除2:<u>26,27,28</u></u>
+
+【3】As mentioned before, the anteroinferior sector is the most vulnerable to rebound. Fixed retention is used to avoid or minimize this situation, but this type of retention can be used in the anterosuperior sector or in any other sector of the dental arch. 删除1:<u>(11)</u>
+
+【4】Lower inferior retainers can be left until growth is com删除16:<u>¬ </u>pleted and for two years in adults. After this, an individual decision must be taken for its removal. 删除1:<u>(20)</u>
+
+【5】There are two types of additaments for fixed retention: o
+
+【6】Prefabricated.
+Adapted to the patient (made to fit). o
+
+##删除换行1:<u>| |</u>Prefabricated
+
+【8】There is a great variety of brands and models. Some of these lingual bars have two metal bases soldered to a 0.036"
+
+【9】删除图片4:<u>Fig.删除26_2:<u></u> Different lengths of the prefabricated retainers. wire. These bases are bonded to the lingual aspects of the canines, this is the reason there are different lengths. 删除1:<u>(删除2:<u>11,26,27,28</u></u></u>
+
+【10】删除图片4:<u>Fig.删除26_2:<u></u> Mesh of the base that is bonded to the lingual aspect of the canines.</u>
+
+【11】删除图片4:<u>Figs.删除26_2:<u></u> and 151. Different lenghts of the retainers.</u>
+
+【12】Bonding of the lingual bar:
+
+【13】1. Prophy the lingual aspect of the the anteroinferior sector teeth.黄艳玲
+
+====================================================================================================
+
+oss://inf-beta/datasets/medical_books_v1130/1001 tips for orthodontics and its secrets (Esequiel E. Rodriguez Yanez  Coauthors etc.) (Z-Library).pdf
+格式规范性#序号格式不一致#0#0#句首缺少序号
+语义有效性#栏目混乱#5#6#序号混乱
+语义有效性#错误删除#9#9#wire. These bases are ......are different lengths.正文内容被过滤

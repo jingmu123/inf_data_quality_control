@@ -1,0 +1,41 @@
+【0】页码:2
+Volume   Number 4
+
+【1】##B I O T E C H
+
+【2】##Whose Blood Is It, Anyway?
+
+【3】BY RONALD M. KLINE
+Stem cells collected from umbilical cords and placentas can cure by rebuilding the blood.
+But there are ethical concept rns
+
+【4】##Special Report
+
+【5】##50  Gm Foods: Are They Safe?
+
+【6】A look at how much science really knows about the risks of growing and eating genetically modified crops. With reports by Kathryn Brown and Karen Hopkin, and interviews by Sasha Nemecek.
+
+【7】##Computing   Virtually There
+
+【8】BY JARON LANIER
+Tele-immersion, a new communications medium, allows people who are apart to feel as though they are in the same room.
+
+##Chemistry  | Life'S Rocky Start
+
+【10】BY ROBERT M. HAZEN
+Minerals may have played an unappreciated role in jump-starting the evolution of life.
+
+【11】##A S T R O P H Y S I C S    The Fury Of Space Storms
+
+【12】BY JAMES L. BURCH
+Shock waves from the sun can endanger Earth's satellites and astronauts.
+
+【13】##P S Y C H O L O G Y   Violent Pride
+
+【14】BY ROY F. BAUMEISTER
+Some people may turn violent because their brittle self-esteem is too high, not too low.王磊
+
+====================================================================================================
+
+oss://inf-beta/datasets/medical_books_v1130/(2001-04) Whose Blood Is It, Anyway (Scientific American) (Z-Library).pdf
+信息丰富性#有用性#0#14#图片内容

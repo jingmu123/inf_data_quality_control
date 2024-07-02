@@ -1,0 +1,37 @@
+【0】页码:210
+patients with acute asthma.删除26_2:<u></u> Because the heliox mixture requires at least 70% helium for effect, it cannot be used if the patient requires > 30% oxygen.
+
+##删除换行1:<u>| |</u>Methylxanthines
+
+【2】Although once considered a mainstay in the treatment of acute asthma, methylxanthines are no longer recommended because of their erratic pharmacokinetics, known side effects, and lack of evidence of benefit.删除26_2:<u></u>
+
+Leukotriene Antagonists删除换行1:<u>| |</u>Leukotriene antagonists improve lung function and decrease the need for short-acting β 2 -agonists for long-term asthma therapy, but their effectiveness during acute exacerbations of asthma is unproven.
+
+##删除换行1:<u>| |</u>Inhaled Anesthetics
+
+【5】Case reports in adults 31 and children 32 suggest a benefit of the potent inhalation anesthetics sevoflurane and isoflurane for patients with life-threatening asthma unresponsive to maximal conventional therapy. These agents may have direct bronchodilator effects. In addition, the anesthetic effect of these drugs increases the ease of mechanical ventilation and reduces oxygen demand and carbon dioxide production. This therapy requires expert consultation in an intensive care setting, and its effectiveness has not been evaluated in randomized clinical studies.
+
+##删除换行1:<u>| |</u>Assisted Ventilation
+
+Noninvasive Positive-Pressure Ventilation删除换行1:<u>| |</u>Noninvasive positive-pressure ventilation (NIPPV) may offer short-term support for patients with acute respiratory failure and may delay or eliminate the need for endotracheal intubation. 删除2:<u>33–35</u>This therapy requires that the patient is alert and has adequate spontaneous respiratory effort. Bilevel positive airway pressure (BiPAP), the most common method of delivering NIPPV, allows for separate control of inspiratory and expiratory pressures.
+
+Endotracheal Intubation With Mechanical Ventilation删除换行1:<u>| |</u>Endotracheal intubation is indicated for patients who present with apnea, coma, persistent or increasing hypercapnia, exhaustion, severe distress, and depression of mental status. Clinical judgment is necessary to assess the need for immediate endotracheal intubation for these critically ill patients. Endotracheal intubation does not solve the problem of small airway constriction in patients with severe asthma; thus, therapy directed toward relief of bronchoconstriction should be continued. Mechanical ventilation in the asthmatic patient can be difficult and associated risks require careful management. Intubation and positivepressure ventilation can trigger further bronchoconstriction and complications such as breath stacking that result from incomplete expiration, air trapping, and buildup of positive endexpiratory pressure (ie, intrinsic or auto-PEEP). This breath stacking can cause barotrauma. Decreasing tidal volume may avoid auto-PEEP and high peak airway pressures. Optimal ventilator management requires expert consultation and ongoing careful review of ventilation flow and pressure curves. Although endotracheal intubation introduces risks, it should be performed when necessary based on clinical condition.
+Rapid sequence intubation is the technique of choice and should be performed by an expert in airway management. The provider should use the largest endotracheal tube available (usually 8 or 9 mm) to decrease airway resistance. Immediately after intubation, endotracheal tube placement should be confirmed by clinical examination and waveform capnography. A chest radiograph should then be performed.
+
+##删除换行1:<u>| |</u>Troubleshooting After Intubation
+
+When severe bronchoconstriction is present, breath stacking (so-called auto-PEEP) can develop during positive-pressure ventilation, leading to complications such as hyperinflation, tension pneumothorax, and hypotension. During manual or mechanical ventilation, a slower respiratory rate should be used with smaller tidal volumes (eg, 6 to 8 mL/kg), 36 shorter inspiratory time (eg, adult inspiratory flow rate 80 to 100 mL/min), and longer expiratory time (eg, inspiratory to expiratory ratio 1:4 or 1:5) than generally would be provided to patients without asthma.删除26_2:<u></u> Management of mechanical ventilation will vary based on patient-ventilation characteristics. Expert consultation should be obtained.
+Mild hypoventilation (permissive hypercapnia) reduces the risk of barotrauma. Hypercapnia is typically well tolerated.删除26_2:<u></u> .删除26_2:<u></u>删除换行1:<u>| |</u>Sedation is often required to optimize ventilation, decrease ventilator dyssynchrony (and therefore auto-PEEP), and minimize barotrauma after intubation. Because delivery of inhaled medications may be inadequate before intubation, the provider should continue to administer inhaled albuterol treatments through the endotracheal tube.
+Four common causes of acute deterioration in any intubated patient are recalled by the mnemonic DOPE (tube Displacement, tube Obstruction, Pneumothorax, Equipment failure).
+Auto-PEEP is another common cause of deterioration in patients with asthma. If the asthmatic patient's condition deteriorates or if it is difficult to ventilate the patient, check the ventilator for leaks or malfunction; verify endotracheal tube position; eliminate tube obstruction (eliminate any mucous plugs and kinks); evaluate for auto-PEEP; and rule out a pneumothorax.
+High-end expiratory pressure can be reduced quickly by separating the patient from the ventilator circuit; this will allow删除换行1:<u>| |</u>PEEP to dissipate during passive exhalation. If auto-PEEP results in significant hypotension, assisting with exhalation by pressing on the chest wall after disconnection of the ventilator circuit will allow active exhalation and should lead to immediate resolution of hypotension. To minimize auto-PEEP, decrease the respiratory rate or tidal volume or both. If auto-PEEP persists and the patient displays ventilator dyssynchrony despite adequate sedation, paralytic agents may be considered.
+In exceedingly rare circumstances, aggressive treatment for acute respiratory failure due to severe asthma will not provide adequate gas exchange. There are case reports that describe successful use of extracorporeal membrane oxygenation (ECMO) in adult and pediatric patients 删除2:<u>40 – 43</u>with severe asthma after other aggressive measures have failed to reverse hyoxemia and hypercarbia.
+
+##删除换行1:<u>| |</u>Bls Modifications
+
+【12】BLS treatment of cardiac arrest in asthmatic patients is unchanged.王磊
+
+====================================================================================================
+
+oss://inf-beta/datasets/medical_books_v1130/2010 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care Science (Mary Fran Hazinski, John M. Field) (Z-Library).pdf
+文本干净度#无关文本#5#5#  31  32   36  

@@ -552,26 +552,26 @@ def clean_text(context):
     for item in context:
         item = item.strip(split_token).strip()
 
-        if "## References" in item:
-            continue
-        for pattern_item in pattern_list:
-            item = re.sub(pattern_item[0], pattern_item[1], item)
-            item = item.strip()
-        for pattern_item in context_pattern:
-            item = re.sub(pattern_item[0], pattern_item[1], item)
-        result.append(item)
-
-    # print(result)
-    # 使用NLP模型判断参考文献
-    context = sp.step6_ngram_deletenum(result)
-    # print(context)
-    # 判断整页短路长短
-    context = sp.step7_is_shortpage(context)
-
-    # 数字判定
-
-
-    context = split_token.join(context)
+    #     if "## References" in item:
+    #         continue
+    #     for pattern_item in pattern_list:
+    #         item = re.sub(pattern_item[0], pattern_item[1], item)
+    #         item = item.strip()
+    #     for pattern_item in context_pattern:
+    #         item = re.sub(pattern_item[0], pattern_item[1], item)
+    #     result.append(item)
+    #
+    # # print(result)
+    # # 使用NLP模型判断参考文献
+    # context = sp.step6_ngram_deletenum(result)
+    # # print(context)
+    # # 判断整页短路长短
+    # context = sp.step7_is_shortpage(context)
+    #
+    # # 数字判定
+    #
+    #
+    # context = split_token.join(context)
     return context
 
 

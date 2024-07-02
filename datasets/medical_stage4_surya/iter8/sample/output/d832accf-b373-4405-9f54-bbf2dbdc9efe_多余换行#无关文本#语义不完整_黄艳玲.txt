@@ -1,0 +1,20 @@
+【0】页码:66
+CALCITE: SELECTS FROM MIRROR-IMAGE MOLECULES amino acids, others entirely of D. If protein formation can indeed occur, this result becomes even more exciting, because recent experiments by other investigators indicate that some proteins can self-replicate. In the earth's early history, perhaps a self-replicating protein formed on the face of a calcite crystal.
+Left- and right-handed crystal faces occur in roughly equal numbers, so chiral selection of L amino acids probably did not happen everywhere in the world at suggest that the first successful set of selfreplicating molecules—the precursor to all the varied life-forms on the earth today— arose at a specific time and place. It was purely chance that the successful molecule developed on a crystal face that preferentially selected left-handed amino acids over their right-handed counterparts.
+Minerals undoubtedly could have acted as containers, scaffolds and templates that helped to select and organize the molecular menagerie of the primitive earth. But many of us in origins research suspect that minerals played much more active roles, catalyzing key synthesis steps that boosted the earth's early inventory of complex biological molecules.
+
+【1】##Getting A Jump On The Action
+
+【2】EXPERIMENTS LED  by Carnegie researcher Brandes in  illustrate this idea. Biological reactions require nitrogen in the form of ammonia, but the only common nitrogen compound thought to have been available on the primitive earth is nitrogen gas. Perhaps, Brandes thought, the environment at hydrothermal vents mimics an industrial process in which ammonia is synthesized by passing nitrogen and hydrogen over a hot metallic surface. Sure enough, when we subjected hydrogen, nitrogen and the iron oxide mineral magnetite to the pressures and temperatures characteristic of a seafloor vent, the mineral catalyzed the synthesis of ammonia [ see box on page  ].
+The idea that minerals may have triggered life's first crucial steps has emerged most forcefully from the landmark theory of chemist Günter Wächtershäuser, a German patent lawyer with a deep interest in life's origins. In 1988 Wächtershäuser advanced a sweeping theory of organic evolution in which minerals—mostly iron and nickel sulfides that abound at deepsea hydrothermal vents—could have served as the template, the catalyst and the energy source that drove the formation of biological molecules. Indeed, he has argued that primitive living entities were molecular coatings that adhered to the positively charged surfaces of pyrite  , a mineral composed of iron and sulfur.
+These entities, he further suggests, obtained energy from the chemical reactions that produce pyrite. This hypothesis makes sense in part because some metabolic enzymes—the molecules that help living cells process energy—have at their core a cluster of metal and sulfur atoms.
+For much of the past three years,
+Wächtershäuser's provocative theory has influenced our experiments at Carnegie.
+Our team, including geochemist George Cody and petrologist Hatten S. Yoder, has focused on the possibility that metabolism can proceed without enzymes in the presence of minerals—especially oxides and sulfides. Our simple strategy,黄艳玲
+
+====================================================================================================
+
+oss://inf-beta/datasets/medical_books_v1130/(2001-04) Whose Blood Is It, Anyway (Scientific American) (Z-Library).pdf
+格式规范性#多余换行#2#2# Wächtershäuser’s provocative   和上面连接
+文本干净度#无关文本#2#2#[ see box on page  ].
+语义有效性#语义不完整#0#0#suggest that the first  前面缺少内容

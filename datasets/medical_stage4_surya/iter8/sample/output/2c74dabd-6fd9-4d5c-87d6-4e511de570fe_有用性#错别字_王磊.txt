@@ -1,0 +1,33 @@
+【0】页码:15
+##L, Robonaut
+
+【1】##Nasa’S Space-Walking Automaton Slowly Comes To Life    By Phil Scott
+
+【2】pace walks are dramatic, as the installation of the Destiny module on the International Space Station in February demonstrated. A micrometeorite impact, a snag, a wayward tool or even a misstep can spell doom for an astronaut. As the station takes shape, however, construction and repair will demand more of these extravehicular activities (EVAs). One remedy: let the android do it. At least that's the plan of the National Aeronautics and Space Administration scientists working on Robonaut.
+The idea of maintenance robots originated after a  study concluded that an orbital station would require 75 percent more space-walking time than originally planned.
+Keeping the station operational "would take more time than we had astronauts," explains Chris Culbert, chief of the robotic systems technology branch at the NASA Johnson Space Center. "That sent us on a path of finding robotic ways to do the maintenance."
+The first stop for NASA's roboheads was DART, or Dexterous Anthropomorphic Ro- botic Testbed. "It had two arms and two hands," Culbert says, "but it was built using commercial, off-the-shelf products." The engineers controlled DART through "telepresence": an operator would don virtual-reality helmet and gloves, and the robot would mimic the operator's motions.
+But it was too bulky ever to fly into space.
+
+【3】So three years ago the robotics crew began to build Robonaut, designed to be the size of a suited astronaut and to be just as dexterous.
+
+【4】"The biggest problem is that the operator has no sense of touch," comments Chris Lovchik, a NASA senior engineer working on the hands. "To some degree, it's like operating on Novocain, but at the same time the tools fit into your hand as you would expect them to. Visual feedback helps quite a bit." "It can pick up an object and manipulate something on that object," adds Robert Ambrose, Robonaut project leader at the Johnson center. "It can use a pistol-grip drill designed for a human, and it can articulate the trigger.
+That's very unusual for a robot." Engineers plan to have Robonaut function beyond telepresence, operating on voice command.
+Then, too, some Robonaut technology might come in handy down here on Earth. In Somerset, England, scientists have developed a robot that incorporates the brain of the primitive sea lamprey Petromyzon marinus .
+When fed information through light sensors, the brain sends signals to the robot's motors, telling it how to respond. Such technology could allow prosthetics to be controlled directly from the brain. Developing prosthetics from Robonaut, however, is not in NASA's immediate future. "It is not impossible," Culbert explains.
+
+【5】"But to interface it to the human nervous system—we don't have that capability."
+In fact, only late last year did the NASA team install Robonaut's left hand and torso. The best prediction is that it will be two years before the robot is ready for launch. The slow pace stems in large part from the project's minimal funding. "A lot of the attitude will change as the station becomes more and more of a burden on the astronauts," Lovchik says. "Systems like this will look much, much better."
+
+【6】Phil Scott is a technology writer based in New York City .
+
+【7】##Robonaut"S
+
+【8】Has more than 47 degrees of freedom,  in each hand alone; human hands have  Has half the grip strength of a human, and arm can lift only  pounds—still strong enough for space work Incorporates various sensors, including thermal, positional, tactile, force and torque instrumentation; each arm has more than 150 sensors Relies on software written in C and C++ Why Robonaut resembles bounty hunter Boba Fett from Star Wars: "The face had to meet a couple of characteristics: it had to support the cameras— the eyes—and have room for additional cameras, small ones pointing down through the chin. It just happened to look like a character out of Star Wars." —Chris Culbert, NASA王磊
+
+====================================================================================================
+
+oss://inf-beta/datasets/medical_books_v1130/(2001-04) Whose Blood Is It, Anyway (Scientific American) (Z-Library).pdf
+语法规范性#错别字#0#0# L,   应该是  I, 
+语法规范性#错别字#2#2# pace walks  应该是  Space walks
+信息丰富性#有用性#7#8# 侧面拓展内容

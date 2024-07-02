@@ -1,0 +1,53 @@
+【0】页码:261
+airway obstruction, poor lung compliance, or the rescuer has difficulty in creating a tight mask-to-face seal.删除26_2:<u></u>删除26_2:<u></u> One rescuer uses both hands to maintain an open airway with a jaw thrust and a tight mask-to-face seal while the other compresses the ventilation bag. Both rescuers should observe the victim's chest to ensure chest rise.
+
+##删除换行1:<u>| |</u>Gastric Inflation
+
+【2】Gastric inflation may interfere with effective ventilation 59 and cause regurgitation, aspiration of stomach contents, and further ventilatory compromise. The risk of gastric inflation can be decreased by
+•Avoiding excessive peak inspiratory pressures by ventilating slowly and giving only enough tidal volume to just achieve visible chest rise.删除26_2:<u></u>
+•Applying cricoid pressure in an unresponsive victim to reduce air entry into the stomach (Class IIa, LOE B). 删除2:<u>60–62</u>This may require a third rescuer if cricoid pressure cannot be applied by the rescuer who is securing the bag to the face. Avoid excessive cricoid pressure so as not to obstruct the trachea (Class III, LOE B).删除26_2:<u></u>
+•Passing a nasogastric or orogastric tube to relieve gastric inflation, especially if oxygenation and ventilation are compromised. Pass the tube after intubation because a gastric tube interferes with gastroesophageal sphincter function, allowing regurgitation during intubation. If a gastrostomy tube is present, vent it during bag-mask ventilation to allow gastric decompression.
+
+##删除换行1:<u>| |</u>Ventilation With An Endotracheal Tube
+
+【4】Endotracheal intubation in infants and children requires special training because the pediatric airway anatomy differs from that of the adult. The likelihood of successful endotracheal tube placement with minimal complications is related to the length of training, supervised experience in the operating room and in the field, 64.65 adequate ongoing experience, 66 and use of rapid sequence intubation (RSI).删除26_2:<u>68</u>
+
+##删除换行1:<u>| |</u>Rapid Sequence Intubation (Rsi)
+
+【6】To facilitate emergency intubation and reduce the incidence of complications, skilled, experienced providers may use sedatives, neuromuscular blocking agents, and other medications to rapidly sedate and neuromuscularly block the pediatric patient.删除26_2:<u></u> Use RSI only if you are trained, and have experience using these medications and are proficient in the evaluation and management of the pediatric airway. If you use RSI you must have a secondary plan to manage the airway in the event that you cannot achieve intubation.
+Actual body weight, rather than ideal body weight, should be used for some non-resuscitation medications (eg, succinylcholine).删除26_2:<u>85</u>
+
+##删除换行1:<u>| |</u>Cricoid Pressure During Intubation
+
+【8】There is insufficient evidence to recommend routine cricoid pressure application to prevent aspiration during endotracheal intubation in children. Do not continue cricoid pressure if it interferes with ventilation or the speed or ease of intubation (Class III, LOE C).删除26_1:<u>86,</u>
+
+【9】删除10:<u>Downloaded from http://circ.ahajournals.org/ by guest on September 4, 2011</u>
+
+##删除换行1:<u>| |</u>Cuffed Versus Uncuffed Endotracheal Tubes
+
+【11】Both cuffed and uncuffed endotracheal tubes are acceptable for intubating infants and children (Class IIa, LOE C). In the operating room, cuffed endotracheal tubes are associated with a higher likelihood of correct selection of tube size, thus achieving a lower reintubation rate with no increased risk of perioperative complications. 删除2:<u>88– 90</u>In intensive care settings the risk of complications in infants and in children is no greater with cuffed tubes than with noncuffed tubes. 删除2:<u>91–93</u>Cuffed endotracheal tubes may decrease the risk of aspiration.删除26_2:<u></u> If cuffed endotracheal tubes are used, cuff inflating pressure should be monitored and limited according to manufacturer's instruction (usually less than 20 to 25 cm H 2 O).
+In certain circumstances (eg, poor lung compliance, high airway resistance, or a large glottic air leak) a cuffed endotracheal tube may be preferable to an uncuffed tube, provided that attention is paid to endotracheal tube size, position, and cuff inflation pressure (Class IIa, LOE B).删除2:<u>88,91</u>92
+
+##删除换行1:<u>| |</u>Endotracheal Tube Size
+
+Length-based resuscitation tapes are helpful and more accurate than age-based formula estimates of endotracheal tube size for children up to approximately 35 kg, 77 .删除26_2:<u></u> .删除26_2:<u></u> even for children with short stature.删除26_2:<u></u>删除换行1:<u>| |</u>In preparation for intubation with either a cuffed or an uncuffed endotracheal tube, confirm that tubes with an internal diameter (ID) 0.5  mm smaller and 0.5  mm larger than the estimated size are available. During intubation, if the endotracheal tube meets resistance, place a tube 0.5 mm smaller instead.
+Following intubation, if there is a large glottic air leak that interferes with oxygenation or ventilation, consider replacing the tube with one that is 0.5 mm larger, or place a cuffed tube of the same size if an uncuffed tube was used originally. Note that replacement of a functional endotracheal tube is associated with risk; the procedure should be undertaken in an appropriate setting by experienced personnel.
+If an uncuffed endotracheal tube is used for emergency intubation, it is reasonable to select a 3.5-mm ID tube for infants up to one year of age and a 4.0-mm ID tube for patients between 1 and 2 years of age. After age 2, uncuffed endotracheal tube size can be estimated by the following formula:
+
+##删除换行1:<u>| |</u>Uncuffed Endotracheal Tube Id (Mm)=4+(Age/4)
+
+【15】If a cuffed tube is used for emergency intubation of an infant less than 1 year of age, it is reasonable to select a 3.0 mm ID tube. For children between 1 and 2 years of age, it is reasonable to use a cuffed endotracheal tube with an internal diameter of 3.5 mm (Class IIa, LOE B).删除26_2:<u></u>删除2:<u>98–100</u>After age 2 it is reasonable to estimate tube size with the following formula (Class IIa, LOE B: 删除2:<u>89,98–101</u>):
+
+【16】Cuffed endotracheal tube ID (mm)=3.5+(age/4)
+
+##删除换行1:<u>| |</u>Verification Of Endotracheal Tube Placement
+
+【18】There is a risk of endotracheal tube misplacement (ie, in the esophagus, the pharynx above the vocal cords, or a mainstem bronchus) and an ongoing risk of displacement or obstruction, 45 .删除26_2:<u></u> especially during patient transport.删除26_2:<u></u> Since no single confirmation technique, including clinical signs104 or黄艳玲
+
+====================================================================================================
+
+oss://inf-beta/datasets/medical_books_v1130/2010 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care Science (Mary Fran Hazinski, John M. Field) (Z-Library).pdf
+文本干净度#无关文本#4#4#64.65 和66
+文本干净度#无关文本#11#11#92
+文本干净度#无关文本#11#11#77
+文本干净度#无关文本#18#18#45和104

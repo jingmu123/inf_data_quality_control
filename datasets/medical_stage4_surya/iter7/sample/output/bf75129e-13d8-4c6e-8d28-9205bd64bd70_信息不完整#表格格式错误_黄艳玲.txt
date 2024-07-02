@@ -1,0 +1,31 @@
+页码:15
+| Writing |  |  |  |  |  |  |  |
+|--------|--------|--------|--------|--------|--------|--------|--------|
+| Group |  |  | Other Research |  | Ownership | Consultant/Advisory |  |
+| Member | Employment | Research Grant | Support | Speakers’ Bureau/Honoraria | Interest | Board | Other |
+| Mary Ann | Virginia Commonwealth University-Professor of Internal | None | None | None | None | None | None |
+| Peberdy | Medicine and Emergency Medicine |  |  |  |  |  |  |
+| Jeffrey M.\nPerlman | Weill Cornell Medical College-Professor of Pediatrics | *NIH Grant –Co-PI-Antimicrobial Dosing in\nthe NIH | None | None | None | None | None |
+| Elizabeth | Penn State Hershey Medical Center– Professor of | None | None | None | None | None | None |
+| Sinz | Anesthesiology and Neurosurgery\n*Associate Science Editor for AHA |  |  |  |  |  |  |
+| Andrew H.\nTravers | Emergency Health Services NS-Provincial Medical Director | None | None | None | None | None | None |
+| Marc D.\nBerg | University of Arizona/University Physician’s Healthcare\n(UPH)– Asso. Prof. Clinical Pediatrics Attending Intensivist,\nPediatric Critical Care Medicine | None | None | None | None | None | None |
+| John E. Billi | University of Michigan Medical School -Professor | None | None | None | None | None | None |
+| Brian Eigel | American Heart Association–Director of Science, ECC\nPrograms | None | None | None | None | None | None |
+| Robert W.\nHickey | University of Pittsburgh–MD | 删除0:<u>†</u>NIH sponsored research on the effect of\ncyclopentenone prostaglandins upon\npost-ischemic brain | None | None | None | None | *Occasional expert\nwitness in medical\nmalpractice cases\n(1–2 times/yr) |
+| Monica E.\nKleinman | Children’s Hospital Anesthesia Foundation: Not-for-profit\nfoundation– Senior Associate in Critical Care Medicine | None | None | None | None | None | None |
+| Mark S.\nLink | Tufts Medical Center Academic Medical\nInstitution-Attending Physician | None | None | None | None | None | None |
+| Laurie J.\nMorrison | St. Michael Hospital, clinician | None | None | None | None | None | None |
+| Robert E.\nO’Connor | University of Virginia Health System–Professor and Chair of\nEmergency Medicine | None | None | None | None | None | None |
+| Michael | Self-employed; Emergency Physician | None | None | None | None | None | None |
+| Shuster |  |  |  |  |  |  |  |
+| Clifton W.\nCallaway | University of Pittsburgh School of Medicine; Associate\nProfessor\nUPMC Health System; Physician | 删除0:<u>†</u>NHLBI-Resuscitation Outcomes Consortium | *Loan of cooling\nequipment from\nMedivance, Inc.,\na manufacturer\nof hypothermia\ndevices | None | 删除0:<u>†</u>Coinventor on\npatents related to\ntiming of\ndefibrillation.\nPatents licensed to\nMedtronic ERS, by\nthe University of\nPittsburgh.\n*Own stock in\nApple Computer,\nInc. | None | None |
+| Brett\nCucchiara | University of Pennsylvania Assistant Professor of Neurology | 删除0:<u>†</u>NIH RO1-migraine imaging research | None | *Multiple CME talks at different\ninstitutions | None | None | *Occasionally serves\nas expert witness for\nmedicolegal cases |
+| Jeffrey D.\nFerguson | Brody School of Medicine at East Carolina University–\nAssistant Professor | None | None | None | None | None | *Currently involved as\nexpert witness on two\npending cases. Fees\nto date total less than\n$10,000 over previous\n12 months |
+| Thomas D.\nRea | University of Washington-Associate Professor | 删除0:<u>†</u>Medtronic Foundation to develop\ncommunity approaches to improve\nresuscitation. Monies to the institution.\n删除0:<u>†</u>Laerdal Foundation to evaluate optimal\napproaches for bystander CPR. Monies to\nthe institution.\n*Philips Medical Inc\nPhysioControl Inc | 删除0:<u>†</u>Philips Medical\nand\nPhysioControl\nprovided\nequipment to\nsupport research.\nEquipment went\nto the institution. | None | None | None | None\n(Continued) |黄艳玲
+
+====================================================================================================
+
+oss://inf-beta/datasets/medical_books_v1130/2010 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care Science (Mary Fran Hazinski, John M. Field) (Z-Library).pdf
+格式规范性#表格格式错误#0#0#表格格式错误
+信息丰富性#信息不完整#0#0#表格缺少标题

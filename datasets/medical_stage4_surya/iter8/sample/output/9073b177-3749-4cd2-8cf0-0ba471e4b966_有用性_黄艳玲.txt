@@ -1,0 +1,15 @@
+【0】页码:25
+In these cases we can use the Parallelogram law, which determines the resultant of two forces applied over the same point.
+
+【1】##What Is The Center Of Resistance?
+
+【2】The center of resistance is the point a force has to pass through in order to move an object freely in a linear manner. Said in another way, every free body has a point known as mass center, therefore, every time that the line of action of a force passes through de mass center of a free body will suffer a translation movement.  A tooth in the mouth is not a free body because periodontal support tissue does not let it move freely. The center of resistance is equivalent to the mass center for free bodies.
+Any force that acts through the center of resistance of a tooth makes it translate in a bodily manner.  The center of resistance of a tooth depends on the length and morphology of the root, the number of roots and the level of support of the alveolar bone.  The center of resistance for a single root tooth with a normal level of alveolar bone is situated between the middle and cervical third part of the root, meanwhile in a multiple root tooth the center of resistance is located at one or two millimeters apical from the furcate.  Because braces can only be bonded on the crowns of teeth, there are very few opportunities in which it is possible to apply a force that can act through the center of resistance of the tooth to produce pure dental translation (excepting power arms. Please refer to the Space Closure chapter).  Fig.3. Any force acting through the center of resistance of a tooth will make it translate in a bodily manner.
+
+【3】5. Center of resistance of a molar黄艳玲
+
+====================================================================================================
+
+oss://inf-beta/datasets/medical_books_v1130/1001 tips for orthodontics and its secrets (Esequiel E. Rodriguez Yanez  Coauthors etc.) (Z-Library).pdf
+信息丰富性#有用性#2#2#图片描述Fig.3. Any force acting through the center of resistance of a tooth will make it translate in a bodily manner.
+信息丰富性#有用性#3#3#图片描述5. Center of resistance of a molar

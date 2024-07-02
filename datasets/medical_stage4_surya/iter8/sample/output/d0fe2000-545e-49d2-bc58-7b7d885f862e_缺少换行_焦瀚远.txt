@@ -1,0 +1,19 @@
+【0】页码:121
+inadequate or the patient shows signs of increased work of breathing, provide supplementary oxygen. Attach a monitor to the patient, evaluate blood pressure, and establish IV access. If possible, obtain a 12-lead ECG to better define the rhythm. While initiating treatment, evaluate the patient's clinical status and identify potentially reversible causes.
+The provider must identify signs and symptoms of poor perfusion and determine if those signs are likely to be caused by the bradycardia . If the signs and symptoms are not due to bradycardia, the provider should reassess the underlying cause of the patient's symptoms.
+Remember that signs and symptoms of bradycardia may be mild; asymptomatic or minimally symptomatic patients do not necessarily require treatment  unless there is suspicion that the rhythm is likely to progress to symptoms or become life-threatening (eg, Mobitz type II second-degree AV block in the setting of acute myocardial infarction [AMI]). If the bradycardia is suspected to be the cause of acute altered mental status, ischemic chest discomfort, acute heart failure, hypotension, or other signs of shock, the patient should receive immediate treatment.
+
+【1】Atrioventricular (AV) blocks are classified as first-, second-, and third-degree. Blocks may be caused by medications or electrolyte disturbances, as well as structural problems resulting from AMI or other myocardial diseases. A first-degree AV block is defined by a prolonged PR interval ( > 0.20 second) and is generally benign. Second-degree AV block is divided into Mobitz types I and II. In Mobitz type I block, the block is at the AV node; the block is often transient and asymptomatic. In Mobitz type II block, the block is usually below the AV node within the His-Purkinje system; this block is often symptomatic, with the potential to progress to complete (third-degree) AV block. Third-degree AV block may occur at the AV node, bundle of His, or bundle branches. When third-degree AV block is present, no impulses pass between the atria and ventricles.
+
+【2】Third-degree AV block can be permanent or transient, depending on the underlying cause.
+
+【3】##Therapy
+
+【4】Atropine Atropine remains the first-line drug for acute symptomatic bradycardia (Class IIa, LOE B). Clinical trials in adultsshowed that IV atropine improved heart rate, symptoms, and signs associated with bradycardia. Atropine sulfate reverses cholinergic-mediated decreases in heart rate and should be considered a temporizing measure while awaiting a transcutaneous or transvenous pacemaker for patients with symptomatic sinus bradycardia, conduction block at the level of the AV node, or sinus arrest.The recommended atropine dose for bradycardia is 0.5 mg IV every 3 to 5 minutes to a maximum total dose of 3 mg.
+Doses of atropine sulfate of <0.5 mg may paradoxically result in further slowing of the heart rate.Atropine administration should not delay implementation of external pacing for patients with poor perfusion.
+Use atropine cautiously in the presence of acute coronary ischemia or MI; increased heart rate may worsen ischemia or increase infarction size. Atropine will likely be ineffective in Figure 3. Bradycardia Algorithm.焦瀚远
+
+====================================================================================================
+
+oss://inf-beta/datasets/medical_books_v1130/2010 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care Science (Mary Fran Hazinski, John M. Field) (Z-Library).pdf
+格式规范性#缺少换行#4#4# Atropine remains the first-line  这里开始应换行

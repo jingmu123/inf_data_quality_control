@@ -1,0 +1,45 @@
+【0】页码:221
+and survival to discharge following administration of high-dose insulin in refractory shock due to a massive overdose of metoprolol. Administration of high-dose insulin in patients with shock refractory to other measures may be considered (Class IIb, LOE C).
+Although the ideal human dose has not been determined, a commonly used protocol calls for IV administration of 1 U/kg regular insulin as a bolus, accompanied by 0.5 g/kg dextrose, followed by continuous infusions of 0.5 to 1 U/kg per hour of insulin and 0.5 g/kg per hour of dextrose.删除26_2:<u></u> The insulin infusion is titrated as needed to achieve adequate hemodynamic response, whereas the dextrose infusion is titrated to maintain serum glucose concentrations of 100 to 250 mg/dL (5.5 to 14 mmol/L).
+Very frequent serum glucose monitoring (up to every 15 minutes) may be needed during the initial phase of dextrose titration. Sustained infusions of concentrated dextrose solutions (> 10%) require central venous access. Insulin causes potassium to shift into the cells. Moderate hypokalemia is common during high-dose insulin-euglycemia therapy, and animals treated with aggressive potassium repletion developed asystole.删除26_2:<u></u> To avoid overly aggressive potassium repletion, 1 human protocol targets potassium levels of 2.5 to 2.8 mEq/L.删除26_2:<u></u>
+
+##删除换行1:<u>| |</u>Calcium
+
+【2】One human case report 270 and a large-animal study 271 suggest that calcium may be helpful in β -blocker overdose. Administration of calcium in patients with shock refractory to other measures may be considered (Class IIb, LOE C).
+One approach is to administer 0.3 mEq/kg of calcium (0.6 mL/kg of 10% calcium gluconate solution or 0.2 mL/kg of 10% calcium chloride solution) IV over 5 to 10 minutes, followed by an infusion of 0.3 mEq/kg per hour.删除26_2:<u></u> The infusion rate is titrated to adequate hemodynamic response.
+Serum ionized calcium levels should be monitored, and severe hypercalcemia (ionized calcium levels greater than twice the upper limits of normal) should be avoided. Sustained infusions of IV calcium require central venous access.
+
+##删除换行1:<u>| |</u>Other Therapies
+
+【4】Case reports have suggested that in patients who remain critically hypotensive despite maximal vasopressor therapy, specific interventions using intra-aortic balloon counterpulsation, ventricular assist devices, and extracorporeal membrane oxygenation or other extra corporeal life support (ECLS) devices may be lifesaving.删除26_2:<u></u> -274 While evidence remains weak, at least two human case reports indicate a possible benefit from lipid emulsion infusion for overdose by β -blockers. 删除2:<u>275,276</u>Animal studies are mixed. 删除2:<u>277–280</u>Because this area of therapy is rapidly evolving, 删除2:<u>281– 283</u>prompt consultation with a medical toxicologist or other specialists with up-to-date knowledge is recommended when managing treatment-refractory hypotension from β -blocker overdosage.
+
+##删除换行1:<u>| |</u>Calcium Channel Blockers
+
+【6】There are no data to support the use of specific antidotes in the setting of cardiac arrest due to calcium channel blocker overdose. Resuscitation from cardiac arrest should follow standard BLS and ACLS algorithms.
+Calcium channel blocker overdose also may cause lifethreatening hypotension and bradycardia that are refractory to standard agents. Treatment with high-dose insulin has been described in a number of clinical case reports 删除2:<u>284 – 295</u>and animal studies. 删除2:<u>296–299</u>High-dose insulin, in the doses listed in the β -blocker section above, may be effective for restoring hemodynamic stability and improving survival in the setting of severe cardiovascular toxicity associated with toxicity from a calcium channel blocker overdose (Class IIb, LOE B).
+Limited evidence supports the use of calcium in the treatment of hemodynamically unstable calcium channel overdose refractory other blocker to treatments. 删除2:<u>285,286,289,290,292</u>294,删除2:<u>297,300–303</u>Administration of calcium in patients with shock refractory to other measures may be considered (Class IIb, LOE C).
+There is insufficient and conflicting evidence to recommend the use of glucagon 删除2:<u>289,290,294,296,297</u>300,删除2:<u>303–306</u>in the treatment of hemodynamically unstable calcium channel blocker overdose.
+
+##删除换行1:<u>| |</u>Digoxin And Related Cardiac Glycosides
+
+【8】Digoxin poisoning can cause severe bradycardia and lifethreatening arrhythmias, including ventricular tachycardia, ventricular fibrillation, and high degrees of AV nodal blockade. Other plant- and animal-derived cardiac glycosides may produce similar effects, including those found in oleander, lily-of-the-valley, toad skin, and some herbal medications.
+There are no data to support the use of specific antidotes in the setting of cardiac arrest due to digoxin overdose. Resuscitation from cardiac arrest should follow standard BLS and ACLS algorithms, with specific antidotes used in the postcardiac arrest phase if severe cardiotoxicity is encountered.
+Antidigoxin Fab antibodies should be administered to patients with severe life-threatening cardiac glycoside toxicity (Class I, LOE B). 删除2:<u>307–316</u>One vial of antidigoxin Fab is standardized to neutralize 0.5 mg of digoxin. Although the ideal dose is unknown, a reasonable strategy is as follows:
+
+【9】•If the ingested dose of digoxin is known, administer 2 vials of Fab for every milligram of digoxin ingested.
+In cases of chronic digoxin toxicity or when the ingested dose is not known, calculate the number of vials to administer by using the following formula: serum digoxin concentration (ng/mL) × weight (kg)/100.
+
+【10】•In critical cases in which therapy is required before a serum digoxin level can be obtained or in cases of life-threatening toxicity due to cardiac glycosides, administer empirically 10 to 20 vials.
+
+Hyperkalemia is a marker of severity in acute cardiac glycoside poisoning and is associated with poor prognosis.删除26_2:<u></u>删除换行1:<u>| |</u>Antidigoxin Fab may be administered empirically to patients with acute poisoning from digoxin or related cardiac glycosides whose serum potassium level exceeds 5.0 mEq/L.删除26_2:<u></u>
+
+##删除换行1:<u>| |</u>Cocaine
+
+【13】There are no data to support the use of cocaine-specific interventions in the setting of cardiac arrest due to cocaine overdose. Resuscitation from cardiac arrest should follow standard BLS and ACLS algorithms, with specific antidotes used in the postresuscitation phase if severe cardiotoxicity or neurotoxicity is encountered. A single case series demon-王磊
+
+====================================================================================================
+
+oss://inf-beta/datasets/medical_books_v1130/2010 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care Science (Mary Fran Hazinski, John M. Field) (Z-Library).pdf
+文本干净度#无关文本#2#2# 270   271
+文本干净度#无关文本#4#4# -274
+文本干净度#无关文本#6#6# 300,

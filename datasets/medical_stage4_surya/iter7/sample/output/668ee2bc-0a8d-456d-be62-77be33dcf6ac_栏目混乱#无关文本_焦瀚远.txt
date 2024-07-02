@@ -1,0 +1,36 @@
+【0】页码:80
+adverse effects. Based on adult clinical data 删除2:<u>21 , 39</u>and pediatric animal models, 删除2:<u>145–147</u>biphasic shocks appear to be at least as effective as monophasic shocks and are less harmful than monophasic shocks. As noted above, it is acceptable to use an initial dose of 2 to 4 J/kg (Class IIa, LOE C), but for ease of teaching an initial dose of 2  J/kg may be considered. For refractory VF, it is reasonable to increase the dose to 4 J/kg.
+Subsequent energy levels should be at least 4 J/kg, and higher energy levels may be considered, not to exceed 10 J/kg or the adult maximum dose (Class IIb, LOE C).
+Many AEDs can accurately detect VF in children of all ages删除2:<u>133–135</u>and differentiate shockable from nonshockable rhythms with a high degree of sensitivity and specificity. 删除2:<u>133–135</u>Some AEDs are equipped with pediatric attenuator systems (eg, pad-cable systems or a key) to reduce the delivered energy to a dose suitable for children.
+For children 1 to 8 years of age, it is reasonable to use a pediatric dose-attenuator system if one is available (Class IIa, LOE C). 删除2:<u>61 , 148 , 149</u>If the rescuer provides CPR to a child in cardiac arrest and does not have an AED with a pediatric attenuator system, the rescuer should use a standard AED.
+For infants ( < 1 year of age), a manual defibrillator is preferred. If a manual defibrillator is not available, an AED with pediatric attenuation is desirable. If neither is available, an AED without a dose attenuator may be used. AEDs with relatively high-energy doses have been successfully used in infants with minimal myocardial damage and good neurological outcomes (Class IIb, LOE C). 删除2:<u>150 , 151</u>If an AED program is established in systems or institutions that routinely provide care to children, the program should be equipped with AEDs with a pediatric attenuator system. This statement, however, should not be interpreted as a recommendation for or against AED placement in specific locations where children are present. Ideally, healthcare systems that routinely provide care to children at risk for cardiac arrest should have available manual defibrillators capable of dose adjustment.删除26_2:<u></u>
+
+##删除换行1:<u>| |</u>In-Hospital Use Of Aeds
+
+【2】At the time of the 2010 Consensus Conference, there were no published in-hospital randomized trials of AEDs versus manual defibrillators. Evidence from 1 study with historic controls, 152 1 case series, 153 and 2 retrospective studies 删除2:<u>117,118</u>indicated higher rates of survival to hospital discharge when AEDs were used to treat adult VF or pulseless VT in the hospital. However, 1 before/after study did not show an improvement in survival to discharge or ROSC when in-hospital AEDs were implemented in noncritical areas of a hospital, 154 and 1 observational study with historical controls observed no improvement in survival to discharge when comparing biphasic AEDs to standard monophasic defibrillators.删除26_2:<u></u> The Gombotz and Hanefeld studies observed a decrease in the time interval from collapse to first shock delivery as well as increased ROSC and survival.
+Defibrillation may be delayed when patients develop SCA in unmonitored hospital beds and in outpatient and diagnostic facilities. In such areas, several minutes may elapse before centralized response teams arrive with the defibrillator, attach it, and deliver shocks.删除26_2:<u></u> Despite limited evidence, AEDs may be considered for the hospital setting as a way to facilitate early defibrillation (a goal of 删除0:<u>¶</u>3 minutes from collapse), especially in areas where staff have no rhythm recognition skills or defibrillators are used infrequently (Class IIb, LOE C).
+When hospitals deploy AEDs, first-responding personnel should also receive authorization and training to use an AED, with the goal of providing the first shock for any SCA within 3 minutes of collapse. The objective is to make goals for in-hospital use of AEDs consistent with goals established in the out-of-hospital setting.删除26_2:<u></u> Early defibrillation capability should be available in ambulatory care facilities, as well as throughout hospital inpatient areas. Hospitals should monitor collapse-to–first shock intervals and resuscitation outcomes.
+
+##删除换行1:<u>| |</u>Fibrillation Waveform Analysis To删除换行1:<u>| |</u>Predict Outcome
+
+【4】There is evidence that VF waveforms change over time. 删除2:<u>158,139</u>Several retrospective case series, animal studies, and theoretical models suggest that it is possible to predict, with varying reliability, the success of attempted defibrillation by analyzing the VF waveform. 删除2:<u>18,40,160–177</u>However, there are currently no prospective studies that have identified optimal waveforms and/or timing. The value of VF waveform analysis to guide defibrillation management is uncertain (Class IIb, LOE C).
+
+【5】##
+"Occult" Versus "False" Asystole
+
+In certain cases of cardiac arrest, it is difficult to be certain whether the rhythm is fine VF or asystole. In 1989, Losek 178 published a retrospective review of initial shock delivery for 49 children (infants through 19 years of age) in asystole compared with no shock delivery for 41 children in asystole and found no improvement in rhythm change, ROSC, or survival in the group that received the shocks. In 1993, the Nine City High-Dose删除换行1:<u>| |</u>Epinephrine Study Group published an analysis of 77 asystolic patients who received initial shock compared with 117 who received standard therapy.删除26_2:<u></u> There was a worse outcome of ROSC and survival for those who received shocks. Thus, it is not useful to shock asystole (Class III, LOE B).
+
+【7】Several case reports have described fires ignited by sparks from poorly applied defibrillator paddles in the presence of an oxygen-enriched atmosphere. 删除2:<u>180–185</u>Fires have been reported when ventilator tubing is disconnected from the endotracheal tube and then left adjacent to the patient's head, blowing oxygen across the chest during attempted defibrillation. 删除2:<u>181,183,185</u>It may be reasonable for rescuers to take precautions to minimize sparking during attempted defibrillation; try to avoid defibrillation in an oxygen-enriched atmosphere (Class IIb, LOE C).
+The use of self-adhesive defibrillation pads and ensuring good pad–chest-wall contact will likely minimize the risk of sparks igniting during defibrillation. If manual paddles are used, gel pads are preferable to electrode pastes and gels, because the pastes and gels can spread between the 2 paddles, creating the potential for a spark (Class IIb, LOE C).
+
+##删除换行1:<u>| |</u>Synchronized Cardioversion
+
+【9】Synchronized cardioversion is shock delivery that is timed (synchronized) with the QRS complex. This synchronization avoids shock delivery during the relative refractory portion of the cardiac cycle, when a shock could produce VF.删除26_2:<u></u> For
+
+##删除换行1:<u>| |</u>Fire Hazard焦瀚远
+
+====================================================================================================
+
+oss://inf-beta/datasets/medical_books_v1130/2010 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care Science (Mary Fran Hazinski, John M. Field) (Z-Library).pdf
+文本干净度#无关文本#2#2# 152 153 154
+语义有效性#栏目混乱#7#9# 9的Fire Hazard应在7前面

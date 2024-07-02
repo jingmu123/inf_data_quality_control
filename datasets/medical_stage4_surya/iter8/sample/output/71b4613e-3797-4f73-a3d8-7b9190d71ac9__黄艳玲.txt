@@ -1,0 +1,26 @@
+【0】页码:106
+##Table   Fatal Asthma: Risk Factors
+
+【1】•Prior history of sudden, rapidly progressive severe exacerbations
+•Prior history of intubation for asthma, ever
+•Prior history of admission to an intensive care unit (ICU) for asthma, ever
+•Two or more hospitalizations for asthma in the last 12 months
+•Three or more visits to a hospital emergency room for asthma exacerbation in the last 12 months Either an emergency room visit or a hospitalization for asthma in . the last 30 days
+•Asthma requiring the use of two (or more) canisters of "rescue quick-relief" short-acting β  agonist inhalers in the last 30 days
+•Current requirement for and use of oral (pill form) steroid medication
+•Recent steroid taper
+•Allergy or sensitivity to mold (Alternaria test) Lack of awareness of worsening asthma; difficulty in perceiving . worsening asthma symptoms Other superimposed complicating serious medical illnesses (heart . disease, diabetes, etc.) Serious psychiatric illness .
+
+【2】Severe psychosocial problems .
+
+【3】•Lower socioeconomic status
+
+【4】•Urban residence Illicit "recreational" drug use and/or abuse
+
+【5】##55. What Is “Respiratory Failure”?
+
+【6】Respiratory failure occurs when the lungs and respiratory system become unable to provide the body with sufficient oxygen and fail to "blow off" accumulated carbon dioxide. If the major disturbance is primarily an inability of the respiratory system to meet the body's oxygen requirement, then "hypoxemic" respiratory failure is present. If carbon dioxide and acid levels rise within the body because the lungs are unable to keep up their excretory function, then "hypercarbic"黄艳玲
+
+====================================================================================================
+
+oss://inf-beta/datasets/medical_books_v1130/100 Questions and Answers About Asthma (Claudia S. Plotte) (Z-Library).pdf

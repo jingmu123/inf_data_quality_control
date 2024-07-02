@@ -1,0 +1,46 @@
+【0】页码:134
+2. The bite opens rapidly because the arches exert 300 to 400 g continuously.
+The intrusion of the anterior segment is slow, so the patient experiences no pain
+
+【1】##Disadvantages
+
+【2】1. Distal molar angulation.
+
+【3】Possible TMJ alterations due to molar contact points.
+Positive torque effect in the anterior and posterior segments.
+Posterior anchorage diminishes.
+Incisor proclination.
+
+【4】##Recommendations
+
+【5】1. Use as anchorage an upper transpalatine arch and a lower lingual arch. This will decrease molar positive torque and distal inclination.
+We can place the anterior braces  mm toward the incisal edge; this will accelerate the intrusion of the anterior segment.
+In case the patient does not have a deep Spee curve, lace the posterior segment with "or " stainless steel wire.
+
+【6】##The Intrusion Arch Of Quirós
+
+【7】In deep bite cases due to anterior teeth over-eruption, anterior bite planes are not recommended because they produce mandibular rotation and an increase of the lower third of the face; the intrusion of the upper incisors would be the best option. To achieve this we can use reverse curves, intrusive bends and arches with intrusive loops.
+
+【8】The presence of deep bites is one of the problems that we encounter frequently, to which we apply all our knowledge, but sometimes the resources we posses are inefficient. Not many arches with loops can help us achieve an effective intrusion of the anterior teeth, and the existing ones generally wear off before achieving their objective. The intrusion arch of Dr. Oscar Quiros is an excellent option for anterior segment intrusion.
+
+【9】For its fabrication, preform stainless steel " x " rectangular arches or " x " TMA rectangular arches can be used. We recommend a tweed plier or a plier that does not mark acute bends.  The arch is made with the anterior segment placed more gingivally than the posterior segment of the arch, this will make the intrusion of the anterior teeth possible; the difference in levels will be established by the amount of intrusion needed, 3 mm is an acceptable measure. Due to its design it acts like a very elastic spring that will physiologically intrude the anterior teeth, painlessly and without adverse effects upon teeth and support tissue.  Steps for construction of the Quiros intrusion arch:
+
+【10】1. Mark the wire between the lateral and the cuspid.
+
+【11】2. First make the initial bend and then the helicoidal bend.
+
+【12】3. Then make the intrusion loops.
+
+【13】4. Make the same operation on the other side, try on and then ligate it conventionally.
+
+【14】The anterior segment of the arch is gingivally oriented 3 mm in order to provoke the intrusion of this segment.黄艳玲
+
+====================================================================================================
+
+oss://inf-beta/datasets/medical_books_v1130/1001 tips for orthodontics and its secrets (Esequiel E. Rodriguez Yanez  Coauthors etc.) (Z-Library).pdf
+格式规范性#序号格式不一致#0#0#句首缺少序号
+格式规范性#序号格式不一致#3#3#句首缺少序号
+格式规范性#序号格式不一致#5#5#句首缺少序号
+语义有效性#语义不完整#5#5# braces  mm  数字被删除内容不完整
+语义有效性#语义不完整#9#9#  steel " x " rectangular arches or " x "    数字被删除内容不完整
+信息丰富性#有用性#14#14#The anterior segment of the arch is gingivally oriented 3 mm in order to provoke the intrusion of this segment.图片描述

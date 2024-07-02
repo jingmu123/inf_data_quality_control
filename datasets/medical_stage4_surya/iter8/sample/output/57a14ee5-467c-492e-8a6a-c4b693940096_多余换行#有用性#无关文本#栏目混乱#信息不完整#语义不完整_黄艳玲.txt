@@ -1,0 +1,35 @@
+【0】页码:69
+##Above All, The Beowulf Concept Is An Empowering Force.
+
+【1】##More To Explore
+
+【2】Cluster Computing: Linux Taken to the Extreme. F. M. Hoffman and W. W. Hargrove in Linux Magazine , Vol. 1, No. 1, pages ;
+Spring 1999.
+
+【3】Using Multivariate Clustering to Characterize Ecoregion Borders. W.W. Hargrove and F. M. Hoffman in Computers in Science and Engineering, Vol. 1, No. 4, pages ;
+July/August 1999. How to Build a Beowulf: A Guide to the Implementation and Application of PC Clusters.
+Edited by T. Sterling, J. Salmon, D. J. Becker and D. F. Savarese. MIT Press, 1999. More information about Beowulf computing can be found at the following Web sites: stonesoup.esd.ornl.gov/ extremelinux.esd.ornl
+
+【4】##The Future Of Clusters
+
+【5】THE TRADITIONAL MEASURE OF SU- percomputer performance is benchmark speed: how fast the system runs a standard program. As scientists, however, we prefer to focus on how well the system can handle practical applications. To evaluate the Stone SouperComputer, we fed the same ecoregion mapping problem to ORNL's Intel Paragon supercomputer shortly before it was retired. At one time, this machine was the laboratory's fastest, with a peak performance of  gigaflops.
+On a per-processor basis, the run time on the Paragon was essentially the same as that on the Stone SouperComputer. We have never officially clocked our cluster (we are loath to steal computing cycles from real work), but the system has a theoretical peak performance of about  gigaflops. Ingenuity in parallel algorithm design is more important than raw speed or capacity: in this young science, David and Goliath (or Beowulf and Grendel!) still compete on a level playing field.
+The Beowulf trend has accelerated since we built the Stone SouperComputer.
+New clusters with exotic names—Grendel, Naegling, Megalon, Brahma, Avalon,
+Medusa and theHive, to mention just a few—have steadily raised the performance curve by delivering higher speeds at lower costs. As of last November,  clusters of PCs, workstations or servers were on the list of the world's  fastest computers. The LosLobos cluster at the University of New Mexico has  Intel Pen- tium III processors and is the 80th-fastest system in the world, with a performance of  gigaflops. The Cplant cluster at Sandia National Laboratories has 
+Compaq Alpha processors and is ranked 84th. The National Science Foundation and the U.S. Department of Energy are planning to build even more advanced clusters that could operate in the teraflops range (one trillion floating-point operations per second), rivaling the speed of the fastest supercomputers on the planet.
+Beowulf systems are also muscling their way into the corporate world. Major computer vendors are now selling clusters to businesses with large computational needs. IBM, for instance, is building a cluster of  servers for NuTec Sciences, a biotechnology firm that plans to use the system to identify disease-causing genes. An equally important trend is the development of networks of PCs that contribute their processing power to a collective task. An example is SETI@home, a project launched by researchers at the University of California at Berkeley who are analyzing deep-space radio signals for signs of intelligent life. SETI@home sends chunks of data over the Internet to more than three million PCs, which process the radio-signal data in their idle time. Some experts in the computer industry predict that researchers will eventually be able to tap into a "computational grid" that will work like a power grid: users will be able to obtain processing power just as easily as they now get electricity.
+Above all, the Beowulf concept is an empowering force. It wrests high-level computing away from the privileged few and makes low-cost parallel-processing systems available to those with modest resources. Research groups, high schools, colleges or small businesses can build or buy their own Beowulf clusters, realizing the promise of a supercomputer in every basement
+M positions, fewer iterations are needed to map the ecoregions.
+The result of all our work was a series of maps of the continental U.S. showing each ecoregion in a different color [ see illustrations B and C on page ]. We produced maps showing the country divided into as few as four ecoregions and as many as 5,000. The maps with fewer ecoregions divided the country into recognizable zones—for example, the Rocky Mountain states and the desert Southwest. In contrast, the maps with thousands of ecoregions are far more complex than any previous classification of the country's environments. Because many plants and animals live in only one or two ecoregions, our maps may be useful to ecologists who study endangered species.
+In our first maps the colors of the ecoregions were randomly assigned, but we later produced maps in which the colors of the ecoregions reflect the similarity of their respective environments. We statistically combined nine of the environmental variables into three composite characteristics, which we represented on the map with varying levels of red, green and blue. When the map is drawn this way, it shows gradations of color instead of sharp borders: the lush Southeast is mostly green, the cold Northeast is mainly blue, and the arid West is primarily red .黄艳玲
+
+====================================================================================================
+
+oss://inf-beta/datasets/medical_books_v1130/(2001-08) Cyber Cells (Scientific American) (Z-Library).pdf
+格式规范性#多余换行#5#5# Medusa and theHive,    和上面连接
+文本干净度#无关文本#5#5#M positions
+语义有效性#语义不完整#5#5#  supercomputer in every basement  后面缺少内容
+语义有效性#栏目混乱#4#5#内容顺序上下颠倒
+信息丰富性#有用性#1#3#侧栏拓展内容
+信息丰富性#信息不完整#5#5# West is primarily red  后面缺少内容

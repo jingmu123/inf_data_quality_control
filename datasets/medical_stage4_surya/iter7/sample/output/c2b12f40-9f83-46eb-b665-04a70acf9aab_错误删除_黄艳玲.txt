@@ -1,0 +1,40 @@
+【0】页码:48
+(本页删除)本页有超过一半的段落长度小于50字符
+
+【1】1. Headache
+
+【2】2. Indigestion
+
+【3】3. Dizziness
+
+【4】4. Increased appetite
+
+【5】5. Nausea
+
+【6】6. Oral thrush
+
+【7】7. Loss of sleep
+
+【8】Prednisolone is available in tablet, liquid and concentrated form that can be taken orally. It is recommended that you take Prednisone with food as advised by your doctor.
+
+【9】Often, patients are prescribed to take Prednisone one to four times a day. Your personal dosage will depend on the severity of the symptoms and how well you respond to the treatment.
+
+##删除换行1:<u>| |</u>Precautions To Remember
+
+【11】1. Follow the directions carefully when taking Prednisone and do not change the dosage. Remember, you cannot take more or less steroid medication to speed up recovery. If your doctor prescribes a concentrated solution of Prednisone, it may be taken with liquid.
+
+【12】2. Do inform your doctor if you are taking grapefruit or grapefruit juice because it may cause a negative reaction when consumed with Prednisone.
+Another thing you need to remember is that your dose of Prednisone can be changed during the treatment.
+
+【13】3. Never stop taking steroid medication without informing your doctor.
+Remember, if you stop taking Prednisone suddenly, your body may not have enough natural 'defense' substances to function normally.
+
+【14】4. Abrupt withdrawal of steroid medication might produce symptoms such as fatigue, weight loss, mouth sores, changes in skin color and upset stomach.
+If you experience any of these symptoms, contact your doctor immediately.
+
+【15】5. Steroid medication is known to decrease your ability to fight infections, so黄艳玲
+
+====================================================================================================
+
+oss://inf-beta/datasets/medical_books_v1130/Bells Palsy Handbook Facial Nerve Palsy or Bells Palsy facial paralysis causes, symptoms, treatment, face exercises ... (Alan Mc Donald  Dr Alexa Smith) (Z-Library).pdf
+语义有效性#错误删除#0#15#全篇错误删除

@@ -1,0 +1,20 @@
+【0】页码:225
+plays a defensive role and helps to protect from infection. Mucus can also be produced in increased quantities as a consequence of irritation of the mucus-producing glands, as often occurs transiently in asthma exacerbations, and on a more long-term basis in chronic smokers. Doctors often use the phrase "mucus hypersecretion" when extra mucus develops.
+
+【1】NAEPP: The National Asthma Education and Prevention Program, abbreviated NAEPP, was founded in 1989 under the auspices of the National Institute of Health's National Heart Lung and Blood Institute. The NAEPP aims to improve asthma care in the U.S. by teaching health professionals, asthma patients, and the general public about asthma. The NEAPP's panel of experts has published several "expert panel reports" with guidelines for the diagnosis and management of asthma.
+
+【2】Nebulizer: A nebulizer is a device that transforms a respiratory drug in liquid form into a fine mist of medicine particles that are easily inhaled into the respiratory passages. It is powered by a machine or compressor that runs off electrical current or batteries. Nebulizers are used in babies and very young children with asthma who cannot use an MDI or DPI.
+They are also often used in an emergency setting. Several different classes of asthma medicines are available for nebulization, including β  agonists and inhaled corticosteroid preparations.
+
+【3】Nocturnal: Taking place or occurring during the night. Asthmatic exacerbations, for example, usually include nocturnal symptoms.
+
+【4】NSAIDs:        Non-steroidal      antiinflammatory drugs are often referred to as NSAIDs. The different types of NSAIDs are all potent anti-inflammatory drugs, widely prescribed for the treatment of pain, fever, and conditions such as arthritis. Some NSAIDs are available over the counter; others require a physician's prescription. As a rule, NSAIDs "cross react" with aspirin, and are contraindicated in persons with aspirin-sensitive asthma.
+Obesity: Obesity refers to the condi- tion of being significantly overweight, or obese. A person is obese is they weight more than 30% above their ideal body weight for their given age, height, and gender.
+Another definition of obesity involves computation of the BMI.
+An overweight adult has a BMI of between 25 and 30, while an obese adult has a BMI of 30 or greater.
+
+【5】Obstructive dysfunction: A pattern of abnormality detected by pulmonary function testing. Several different lung conditions lead to obstructive dysfunction on spirometry, one of the PFTs. Asthma is one of the conditions that, on testing, demonstrates obstructive dysfunction. A key element of the obstructive dysfunction uniquely seen in asthma is that, by definition, the obstruction (or abnormality) is completely reversible.王磊
+
+====================================================================================================
+
+oss://inf-beta/datasets/medical_books_v1130/100 Questions and Answers About Asthma (Claudia S. Plotte) (Z-Library).pdf

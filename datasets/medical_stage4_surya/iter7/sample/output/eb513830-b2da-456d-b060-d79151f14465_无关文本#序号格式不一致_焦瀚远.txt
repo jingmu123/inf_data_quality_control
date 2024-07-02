@@ -1,0 +1,28 @@
+【0】页码:72
+goal will be to prescribe the smallest oral corticosteroid dose necessary for adequate control. Additional medicines including cromolyn, leukotriene modifiers, nedocromil, and sustained-release theophylline can also be prescribed.
+
+【1】##
+37. What Is “Cough-Variant Asthma”?
+
+【2】Cough-variant asthma is a type of asthma with cough as the principal, and sometimes only, symptom. A person with cough-variant asthma experiences dry, generally nonproductive cough without wheezing or breathlessness (Table 15). The cough can be considered as a "wheeze equivalent." It may be provoked by triggers such as cold air or viral upper respiratory tract infections. Like "typical" asthma, there may be a significant nocturnal component. Cough-variant asthma has been described in all age groups, from toddlers to
+
+##删除换行1:<u>| |</u>Table 15 Cough-Variant Asthma
+
+【4】Important points about cough-variant asthma include:
+•Cough-variant asthma is a subclass, or variant of asthma.
+•Although individuals with asthma can experience cough as one symptom along with wheezing and breathlessness, individuals with the cough-variant form have only cough as a symptom, usually without wheezing or breathlessness.
+•The chest x-ray is normal.
+•Pulmonary function tests are normal.
+•Methacholine challenge testing is abnormal, or "positive."
+•Corticosteroids, either inhaled or in pill form, are effective treatments and should be part of the treatment regimen.
+
+【5】•The response to oral corticosteroids can be dramatic, with marked improvement in as little as 24 hours.
+
+【6】A person with dry cough for three weeks or more should be evalu- . ated for possible cough-variant asthma, especially if the chest x-ray and pulmonary function tests are normal.
+•Other causes of chronic dry cough of three weeks duration or more with normal chest x-ray and spirometry include: 删除1:<u>(1)</u> gastroesophageal reflux (GERD), 删除1:<u>(2)</u> post-nasal drip or discharge, and 删除1:<u>(3)</u> post-viral cough following a viral respiratory illness. sm101 tusneV bus notreatificeed) : emilisy焦瀚远
+
+====================================================================================================
+
+oss://inf-beta/datasets/medical_books_v1130/100 Questions and Answers About Asthma (Claudia S. Plotte) (Z-Library).pdf
+格式规范性#序号格式不一致#4#6#A person with dry  前面缺•
+文本干净度#无关文本#6#6# sm101 tusneV bus notreatificeed) : emilisy

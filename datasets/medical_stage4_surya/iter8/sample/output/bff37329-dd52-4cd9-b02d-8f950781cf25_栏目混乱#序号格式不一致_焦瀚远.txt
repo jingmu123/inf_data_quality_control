@@ -1,0 +1,39 @@
+【0】页码:149
+##Advantages
+
+【1】1. We do not depend upon patient compliance for the extrusion movement. 2.
+3. The extrusion is fast.
+There is control and stability in anterior teeth extrusion.
+
+【2】4. Making a double helix loop will produce less root resorption, because the arch wire will be more flexible and the force is reduced. (Please refer to Space Closure in Orthodontics chapter).
+
+【3】##Disadvantages
+
+【4】1. It may cause pain to the patient.
+
+【5】2. The extrusive force can range from 800 g to 1000 g.
+3. Due to the excessive extrusion force root resorption may occur.
+May cause gingival inflammation because of the loops.
+
+【6】5. Chair time increase.
+If the bend is too marked and if it exerts too much force, we may debond the anterior braces.
+
+【7】##Recommendations
+
+【8】1. Preferably, they should be placed after we finished the alignment and leveling treatment phase.
+
+【9】2. Place 0.5 mm to 1 mm increments to the extrusive step in order to avoid pain and root resorption.
+After bite closure, leave the arch 2 to 4 months to stabilize and to lessen rebound.
+The most recommended wire is the rectangular wire, because it controls torque better.
+Lace with ligature (in a sectional manner) the anterior and posterior teeth.
+
+【10】##Second Order Or Individual Extrusion Bend
+
+【11】This bend can also be made on round or rectangular arch wire. These bends are designed for individual movements, not for in block movements. It is made with Tweed pliers or with intrusive and extrusive step焦瀚远
+
+====================================================================================================
+
+oss://inf-beta/datasets/medical_books_v1130/1001 tips for orthodontics and its secrets (Esequiel E. Rodriguez Yanez  Coauthors etc.) (Z-Library).pdf
+格式规范性#序号格式不一致#4#6#序号不全
+格式规范性#序号格式不一致#8#9#序号不全
+语义有效性#栏目混乱#1#1# 序号位置混乱

@@ -1,0 +1,44 @@
+【0】页码:320
+##International First Aid Science Advisory Board
+Table.
+Member Organizations
+
+【1】American Academy of Pediatrics American Burn Association American College of Emergency Physicians American College of Occupational and Environmental Medicine American College of Surgeons American Heart Association American Pediatric Surgical Association American Red Cross American Red Cross Advisory Council on First Aid, Aquatics, Safety and Preparedness (ACFASP)
+American Safety & Health Institute (ASHI)
+Austrian Red Cross Canadian Red Cross Divers Alert Network.
+European Reference Center on First Aid Education
+Egyptian Red Crescent French Red Cross Grenada Red Cross Hong Kong Red Cross
+Hungarian Red Cross International Federation of Red Cross and Red Crescent Societies Medic First Aid International National Association of EMS Educators National Association of EMS Physicians National Athletic Trainers' Association National Safety Council Norwegian Red Cross Occupational Safety and Health Administration Red Cross Society of China Resuscitation Council of Asia St. John Ambulance, UK
+
+【2】Previous reports  have noted the paucity of scientific evidence supporting many interventions in prehospital emergency care. In reviewing the medical literature, members of the International First Aid Science Advisory Board once again found a paucity of evidence to guide first aid interventions. Very little research is being conducted in first aid, and many of the following recommendations are extrapolated from the experience of healthcare professionals. It is important to recognize the limitations of the evidence that supports many of these guidelines so that research can be undertaken and future guidelines can be based on a larger body of scientific evidence.
+
+【3】##Definition Of First Aid
+
+【4】We define first aid as the assessments and interventions that can be performed by a bystander (or by the victim) with minimal or no medical equipment. A first aid provider is defined as someone with formal training in first aid, emergency care, or medicine who provides first aid. First aid assessments and interventions should be medically sound and based on scientific evidence or, in the absence of such evidence, on expert consensus. Administration of first aid must not delay activation of the emergency medical services (EMS) system or other medical assistance when required. We strongly believe that education in first aid should be universal: everyone can learn first aid and everyone should.
+The scope of first aid is not purely scientific; it is influenced by both training and regulatory issues. The definition of scope is therefore variable, and should be defined according to circumstances, need, and regulatory requirements.
+
+【5】A first aid provider must be able to recognize when help is needed and how to get it. First aid providers should learn how and when to access the EMS system, how to activate the on-site emergency response plan (ERP), and how to contact the Poison Control Center .
+
+【6】##Positioning The Victim
+
+【7】As a general rule a victim should not be moved, especially if you suspect, from the victim's position or the nature of the injury, that the victim may have a spinal injury . There are times, however, when the victim should be moved:
+•If the area is unsafe for the rescuer or the victim, move the victim to a safe location if it is safe to do so.
+
+【8】•If the victim is face down and is unresponsive, turn the victim face up.
+•If the victim has difficulty breathing because of copious secretions or vomiting, or if you are alone and have to leave an unresponsive victim to get help, place the victim in a modified High Arm IN Endangered Spine (HAINES) recovery position:  Extend one of the victim's arms above the head and roll the body to the side so the victim's head rests on the extended arm. Bend both legs to stabilize the victim (Class IIb, LOE C).
+
+【9】•If a victim shows evidence of shock, have the victim lie supine. If there is no evidence of trauma or injury, raise the feet about 6 to 12 inches (about 30° to 45°) (Class IIb, LOE C). Do not raise the feet if the movement or the position causes the victim any pain.
+
+【10】The evidence for a benefit to raising the feet is extrapolated from leg raising studies on volume expansion; there are no studies on the effect of leg raising as a first aid maneuver for shock. The results of the volume expansion studies are contradictory with some showing an increase in cardiac output,  while others show no change in cardiac output or mean arterial pressurewith leg raising.
+
+【11】There is insufficient evidence to recommend routine use of supplementary oxygen by a first aid provider for victims complaining of chest discomfortor shortness of breath  .
+
+【12】##Calling For Help
+
+【13】##Oxygen王磊
+
+====================================================================================================
+
+oss://inf-beta/datasets/medical_books_v1130/2010 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care Science (Mary Fran Hazinski, John M. Field) (Z-Library).pdf
+格式规范性#多余换行#0#0#Table.……Member Organizations 是一句话
+语义有效性#栏目混乱#5#13# 标题放在了下面

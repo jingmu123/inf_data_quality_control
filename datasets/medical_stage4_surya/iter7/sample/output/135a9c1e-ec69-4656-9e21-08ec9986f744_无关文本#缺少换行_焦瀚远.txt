@@ -1,0 +1,31 @@
+页码:64
+##删除换行1:<u>| |</u>Table 11  Mild Intermittent Asthma
+
+##删除换行1:<u>| |</u>Symptoms
+
+【2】•Daytime symptoms ≤ 2 times a week
+•Nighttime symptoms ≤ 2 times a month
+•Exacerbations may affect activity
+
+##删除换行1:<u>| |</u>Lung Function Tests
+
+【4】•Peak flow (PEF) measurement ≥ 80% of predicted
+•Forced expiratory volume (FEV 1 ) ≥ 80% of predicted
+•Peak flow (PEF) variability < 20%
+
+##删除换行1:<u>| |</u>Treatment ("Step 1")
+
+【6】•All patients with asthma should be prescribed inhaled "quick-relief" bronchodilator therapy to be used on an as-needed basis. A shortacting inhaled β 2 agonist is the recommended "quick-relief" agent.
+
+【7】•No daily medication needed.
+
+【8】Anyone with mild intermittent asthma can experience exacerbations of their asthma. The exacerbations may be mild, moderate, or even severe, but they are usually brief, on the order of hours to days. Treatment of the exacerbation is, of course, mandatory and will require additional medication to ensure a return to baseline symptoms. A course of "rescue" steroids may be needed. Between exacerbations, measurement of peak flow is normal, and the individual classified as having mild intermittent asthma is completely asymptomatic. There can be long periods of normal lung function without any symptoms between exacerbations. the recommended quick-relief agent for older children and adults. Very young children and infants might instead be placed on a short-acting β 2 agonist med删除16:<u>¬ </u>ication taken by mouth (orally) in liquid or syrup form as an alternative, especially if inhalation of medication is unfeasible.
+
+【9】Mild intermittent asthma requires "Step 1" treatment.
+Daily maintenance or "controller" medication is not needed for "Step 1" treatment. A short-acting, inhaled β 2 agonist is usually prescribed for adults and children 5 years of age or older as a quick-relief agent to be sm101 tu6i16V bn6 noi160i1i226I) :em113sA焦瀚远
+
+====================================================================================================
+
+oss://inf-beta/datasets/medical_books_v1130/100 Questions and Answers About Asthma (Claudia S. Plotte) (Z-Library).pdf
+格式规范性#缺少换行#8#8#the recommended quick-relief  这里开始应换行
+文本干净度#无关文本#9#9#sm101 tu6i16V bn6 noi160i1i226I) :em113sA

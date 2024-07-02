@@ -1,0 +1,15 @@
+【0】页码:144
+In order to make the force optimal, we must determine the length and angulation of the external arm, so the line of action of the force passes through the center of resistance of the molar.
+
+【1】##Asymmetrical Cervical Face Bow
+
+【2】This type of force is used for unilateral traction or for asymmetrical force. There are two simple ways to obtain this force:
+
+【3】1. Bend the external arm away from the face of the patient on the side where is needed more force.
+
+【4】2. Another way to obtain an asymmetrical force is cutting a piece of wire of an external arm. This is sectioned at the first molar level. On the side that has been cut we will have less force, so the contra lateral side (the side that has not been cut) will exert almost triple the force compared to the side in which wire of the external arm was cut off.黄艳玲
+
+====================================================================================================
+
+oss://inf-beta/datasets/medical_books_v1130/1001 tips for orthodontics and its secrets (Esequiel E. Rodriguez Yanez  Coauthors etc.) (Z-Library).pdf
+语义有效性#语义不完整#0#0#resistance of the molar.   前面缺少内容

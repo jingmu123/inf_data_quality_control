@@ -1,0 +1,21 @@
+【0】页码:335
+Essix Type "A" presents several gauges and depending on the vacuum machine on which, going to be made , will depend the time of suction. We can find on the market two vacuum machines: the Vacuum and the Biostar.
+
+| Essix "A" | Vacuum | Biostar |
+|--------|--------|--------|
+| 0.020" (0.5 mm) | 20 seconds. | 20 seconds. |
+| 0.030" (0.75  mm) | 25 seconds. | 25  seconds. |
+| 0.040" (1  mm) | 30 seconds. | 30 seconds. |
+| 0.060" (1.5  mm) | 35 seconds. | 40 seconds. |
+| 0.080" (2 mm) | 40 seconds. | 50 seconds. |
+| 0.120" (3 mm) | 55 seconds. | 65  seconds. | Essix "A" are used for the elaboration of canine to canine retainers. They are very esthetic; they reflect light and maintain the natural brilliance of teeth.
+
+【2】We must remember that after thermoforming, the thickness of the plastic plate will reduce to half the original.
+
+【3】0.030" is recommended for canine to canine retainers, which at the end will have a thickness of ", which corresponds to the resilience of the periodontal ligament.黄艳玲
+
+====================================================================================================
+
+oss://inf-beta/datasets/medical_books_v1130/1001 tips for orthodontics and its secrets (Esequiel E. Rodriguez Yanez  Coauthors etc.) (Z-Library).pdf
+语义有效性#语义不完整#3#3#a thickness of ",  数字缺失不完整
+信息丰富性#信息不完整#2#2# We must remember that   前面缺少内容

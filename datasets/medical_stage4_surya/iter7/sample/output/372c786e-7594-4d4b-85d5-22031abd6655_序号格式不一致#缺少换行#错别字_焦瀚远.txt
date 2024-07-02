@@ -1,0 +1,24 @@
+页码:228
+##删除换行1:<u>| |</u>Recommendations
+
+【1】Place orthodontic wax on the locks to avoid ulcer删除16:<u>¬ </u>1: ations.删除26_2:<u></u> Activate the loop of the stops and the super elastic wire each month. The inter-stop distance must be 5 mm or 6 mm larger than the space between the distal wing of the first premolar brace and the mesial end of the molar tube.删除26_2:<u></u> Use How Pliers to activate the stops.
+4. Use Class II elastics and ferulize the anterosuperior teeth to reduce their proclination.删除26_2:<u></u> Place a moderate or a maximum anchorage on the distalized teeth.
+6. Viazis recommends the alternation of a cold beverage with a hot meal once every day. In theory, the cold beverage will make the NiTi wire soft, and the hot meal will stiffen the arch wire rapidly. 删除1:<u>(46)</u>
+
+##删除换行1:<u>| |</u>Ceob-1 Distalizer
+
+This appliance was designed in 2001 by Dr Rogelio Casasa删除换行1:<u>| |</u>Araujo and Dr Esequiel Rodriguez Yanez, director and coordinator of the orthodontic clinic of Centro de Estudios de Ortodoncia del Bajio (CEOB) in Irapuato, Guanajuato,删除换行1:<u>| |</u>Mexico.
+
+【4】The CEOB-1 is an appliance structurally similar to the Jones Jig. Considering the economic status of the patients that come to the clinic, the appliance is made with materials at hand, making an appliance similar to the one designed by Drs Jones and White; but at a fraction of the cost of the original appliance. The CEOB-1 provides 75 g to 150 g of force, 7.5° of mesial tipping of the upper first molar and 4.5° of mesial tipping of the second upper premolar.
+The molar will distalize 2.5 mm per month and the second premolar will mesialize 2 mm. 删除1:<u>(删除2:<u>16, 17,18,21,23</u>28)</u>
+
+##删除换行1:<u>| |</u>Fabrication
+
+【6】1. Round 0.036" and rectangular 0.017" x 0.025" stainless steel wires are utilized, we also need NiTi open coil, 0.012" stainless steel ligature wire and a sliding jig.焦瀚远
+
+====================================================================================================
+
+oss://inf-beta/datasets/medical_books_v1130/1001 tips for orthodontics and its secrets (Esequiel E. Rodriguez Yanez  Coauthors etc.) (Z-Library).pdf
+语法规范性#错别字#1#1#2:  应为2.
+格式规范性#缺少换行#1#1#2: Activate the loop of the 
+格式规范性#序号格式不一致#1#1#开头序号不全

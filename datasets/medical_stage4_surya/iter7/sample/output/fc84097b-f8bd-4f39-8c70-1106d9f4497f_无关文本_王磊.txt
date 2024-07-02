@@ -1,0 +1,59 @@
+【0】页码:273
+unclear at this time whether patients with hemi-Fontan/BDG physiology in cardiac arrest might benefit from ECMO.
+
+##删除换行1:<u>| |</u>Pulmonary Hypertension
+
+【2】Standard PALS, including oxygenation and ventilation, should be provided to patients with pulmonary hypertension and a cardiopulmonary arrest. It may be beneficial to attempt to correct hypercarbia. Administration of a bolus of isotonic fluid may be useful to maintain preload to the systemic ventricle. If intravenous or inhaled therapy to decrease pulmonary hypertension has been interrupted, reinstitute it (Class IIa, LOE C). Consider administering inhaled nitric oxide (iNO) or aerosolized prostacyclin or analogue to reduce pulmonary vascular resistance (Class IIa, LOE C). If iNO is not available, consider giving an intravenous bolus of prostacyclin (Class IIa, LOE C). 删除2:<u>365–367</u>ECMO may be beneficial if instituted early in the resuscitation (Class IIa, LOE C).删除26_2:<u></u>
+
+##删除换行1:<u>| |</u>Children With Special Healthcare Needs删除换行1:<u>| |</u>Children With Special Healthcare Needs 369 May Require Emer- gency care for chronic conditions (eg, obstruction of a tracheostomy), failure of support technology (eg, ventilator failure), progression of their underlying disease, or events unrelated to those special needs.删除26_2:<u></u>删除换行1:<u>| |</u>For additional information about CPR see Part 13: "Pediatric Basic Life Support."
+
+##删除换行1:<u>| |</u>Ventilation With A Tracheostomy Or Stoma
+
+【5】Parents, school nurses, and home healthcare providers should know how to assess patency of the airway, clear the airway, replace the tracheostomy tube, and perform CPR using the artificial airway in a child with a tracheostomy.
+Parents and providers should be able to ventilate via a tracheostomy tube and verify effectiveness by assessing chest expansion. If, after suctioning, the chest does not expand with ventilation, remove the tracheostomy tube and replace it or insert a same-sized endotracheal tube, if available, into the tracheal stoma. If a clean tube is unavailable, perform mouth-to-stoma or mask-to-stoma ventilations. If the upper airway is patent, bag-mask ventilation via the nose and mouth may be effective if the tracheal stoma is manually occluded.
+
+##删除换行1:<u>| |</u>Toxicological Emergencies
+
+【7】Overdose with local anesthetics, cocaine, narcotics, tricyclic antidepressants, calcium channel blockers, and β -adrenergic blockers may require specific treatment modalities in addition to the usual resuscitative measures.
+
+##删除换行1:<u>| |</u>Local Anesthetic
+
+【9】Local anesthetics are used topically, intravenously, subcutaneously, and in epidural or other catheters for delivery of regional analgesia. The toxicity of local anesthetics is well recognized in children; they may cause changes in mental status, seizures, arrhythmias, or even cardiac arrest in settings of overdose or inadvertent vascular administration. Multiple case reports, including some pediatric reports, have described successful treatment of local anesthetic toxicity with intravenous lipid emulsion.删除26_2:<u></u>
+
+##删除换行1:<u>| |</u>Cocaine
+
+【11】Acute coronary syndrome, manifested by chest pain and cardiac rhythm disturbances (including VT and VF), is the most frequent cocaine-related reason for hospitalization in adults. 删除2:<u>372 , 373</u>Cocaine also may prolong the action potential and QRS duration and impairs myocardial contractility.删除26_2:<u></u> , 375
+
+##删除换行1:<u>| |</u>Treatment
+
+【13】•Hyperthermia, which may result from cocaine-induced hypermetabolism, is associated with an increase in toxicity; 376
+ therefore treat elevated temperature aggressively.
+
+【14】•For coronary vasospasm consider nitroglycerin (Class IIa, LOE C), 377 .删除26_2:<u></u> a benzodiazepine, and phentolamine (an α -adrenergic antagonist) (Class IIb, LOE C). 删除2:<u>379 , 380</u>•Do not give β -adrenergic blockers (Class III, LOE C), 376
+•For ventricular arrhythmia, consider sodium bicarbonate (1 to 2 mEq/kg) administration (Class IIb, LOE C) 删除2:<u>381 , 382</u>in addition to standard treatment.
+
+【15】•To prevent arrhythmias secondary to myocardial infarction, consider a lidocaine bolus followed by a lidocaine infusion (Class IIb, LOE C).
+
+##删除换行1:<u>| |</u>Tricyclic Antidepressants And Other Sodium删除换行1:<u>| |</u>Channel Blockers
+
+【17】Toxic doses cause cardiovascular abnormalities, including intraventricular conduction delays, heart block, bradycardia, prolongation of the QT interval, ventricular arrhythmias (including torsades de pointes, VT, and VF), hypotension, seizures, 删除2:<u>375 , 383</u>and a depressed level of consciousness.
+
+##删除换行1:<u>| |</u>Treatment
+
+•Give 1 to 2 mEq/kg intravenous boluses of sodium bicarbonate until arterial pH is > 7.45; then provide an infusion of 150 mEq NaHCO3 per liter of D5W to maintain alkalosis. In cases of severe intoxication increase the pH to 7.50 to 7.55.删除26_2:<u>384</u> Do not administer Class IA (quinidine, procainamide), Class IC (flecainide, propafenone), or Class删除换行1:<u>| |</u>III (amiodarone and sotalol) antiarrhythmics, which may exacerbate cardiac toxicity (Class III, LOE C).删除26_2:<u></u>
+•For hypotension, give boluses (10 mL/kg each) of normal saline. If hypotension persists, epinephrine and norepinephrine are more effective than dopamine in raising blood pressure. 删除2:<u>385,386</u>•Consider ECMO if high-dose vasopressors do not maintain blood pressure.删除26_1:<u>387,</u>
+
+##删除换行1:<u>| |</u>Calcium Channel Blockers
+
+Manifestations of toxicity include hypotension, ECG changes (prolongation of the QT interval, widening of the QRS, and right bundle branch block), arrhythmias (bradycardia, SVT,删除换行1:<u>| |</u>VT, torsades de pointes, and VF), 389 seizures, and altered mental status.
+
+##删除换行1:<u>| |</u>Treatment
+
+【23】•Treat mild hypotension with small boluses (5 to 10 mL/kg) of normal saline because myocardial depression may limit the amount of fluid the patient can tolerate.王磊
+
+====================================================================================================
+
+oss://inf-beta/datasets/medical_books_v1130/2010 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care Science (Mary Fran Hazinski, John M. Field) (Z-Library).pdf
+文本干净度#无关文本#13#13# 376
+文本干净度#无关文本#14#14# 377    376  
+文本干净度#无关文本#17#17# 389

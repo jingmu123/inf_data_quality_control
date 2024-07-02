@@ -1,0 +1,30 @@
+【0】页码:241
+删除图片4:<u>Fig.删除26_2:<u></u> Pendulum after 4 months. ment loop. Depending upon the amount of degrees of activation of the arms, will be the amount of force produced. If they are activated to 90°, the distalizing force will be 350 g, if they are activated 60°, the force will be 250 g; if they are activated 40°, the force will be 125 g. These activations must be done before we cement the Pendulum. 删除1:<u>(删除2:<u>24,26,30,36</u></u> 3. One or two pairs of rests that are cemented or banded on the premolars.</u>
+
+【1】4. An expansion screw to correct transversal problems.
+This appliance is called "Pendex". This expansion screw is added in almost every case to modify the shape of the dental arch or to expand it in case it is necessary. This lessens the need to make horizontal adjustments in the loops of the arms.删除1:<u>(删除2:<u>11,12,30,41</u></u>
+
+【2】删除图片4:<u>Fig.删除26_2:<u></u> Pendex cementation.</u>
+
+【3】删除图片4:<u>Fig.删除26_2:<u></u> Pendex after 2 months.</u>
+
+##删除换行1:<u>| |</u>Advantages
+
+【5】1.删除26_2:<u></u> We do not need patient cooperation.
+It produces rapid distalization (1.5 mm to 2.5 mm per month).删除26_2:<u></u> Esthetic.
+4. It can be modified easily.删除26_2:<u></u> The activation is fast and simple (every 2 or 3 months).
+
+##删除换行1:<u>| |</u>Disadvantages
+
+【7】1.删除26_2:<u></u> Anterosuperior sector proclination.
+3. We must invest laboratory time to fabricate it.
+4. High rebound rate.
+Speech is impaired and hygiene is difficult.王磊
+
+====================================================================================================
+
+oss://inf-beta/datasets/medical_books_v1130/1001 tips for orthodontics and its secrets (Esequiel E. Rodriguez Yanez  Coauthors etc.) (Z-Library).pdf
+格式规范性#序号格式不一致#5#5#缺少序号
+语义有效性#错误删除#0#0# ment loop. Depending upon the amount ……cemented or banded on the premolars.  正文内容被过滤
+语义有效性#错误删除#5#5#删除26_2: Esthetic.  删除26_2: The activation   数字误删
+语义有效性#栏目混乱#7#7# 序号混乱

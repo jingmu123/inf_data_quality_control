@@ -1,0 +1,83 @@
+【0】页码:221
+o
+
+【1】Must not require patient cooperation.
+High degree of biomechanical control.
+Compact design.
+Minimal interference when the patient eats or speaks.
+Absence of pain during the distalizing process.
+
+【2】0. Easy activation.
+Compatibility with other orthodontic techniques.
+Automatic cessation of the distalizing movement.
+Must be easy to clean. (1,5-7,9,删除2:<u>15,17,18,22</u>24,删除2:<u>26,33,35,36,38</u> o o o o o o o
+
+##删除换行1:<u>| |</u>Distalizing Indications o
+
+【4】Unilateral or bilateral dental Class II relation.
+Increased overjet (up to 5 mm).
+Increased overbite (deep bite).
+Midline discrepancy.
+Minimal or non-existing dental overcrowding.
+Patients with early mixed or permanent dentition.
+Patients with upper dentoalveolar protrusion.
+Patients with minimal skeletal problems.
+Normo or hypodivergent patients.
+Patients that do not accept extractions.
+Another indication for upper molar distalization is when we decide to extract a permanent second molar (due to caries or other causes) complicated with anterior overcrowding or an ectopic canine.
+In these cases the third molar will occupy the space of the extracted second molar. (1.5-7.9.15.17.18.22- 删除2:<u>24,26,33,35,36</u>38) o o o o o o o o o o
+
+##删除换行1:<u>| |</u>Distalization Counter Indications .
+
+【6】Patients that grow vertically.
+Dolichocephalic patients.
+Patients with open bite tendency.
+Overjet greater than 5 mm.
+In some cases with tongue protraction.
+In adult patients we must employ another type of treatment. (1,5-7,9,删除2:<u>15,17,18,22</u>24,删除2:<u>26,33,35,36,38</u> . . . . .
+
+##删除换行1:<u>| |</u>Recommendations .
+
+【8】In young patients, the best moment to distalize is before the second molars are totally erupted. The upper second molars erupt normally without im删除16:<u>¬ </u>paction; meanwhile the second premolar follows the first molar distally. .
+
+Distalize in the mixed or permanent dentition.
+In order to obtain a faster distalization, we recom删除16:<u>¬ </u>mend the extraction of the third molars.
+Distalizers can provoke an undesired upper first molar rotation.
+Use Class II elastics in order to reduce anterior pro删除16:<u>¬ </u>clination.
+Lace the anterior teeth with steel ligature or with an acetate in order to minimize anterior proclination.
+After the distalization is completed, place a moder删除16:<u>¬ </u>ate or maximum anchorage to the distalized molars (Chromosome arch, Transpalanance, Viaro Nance,删除换行1:<u>| |</u>Nance button, Transpalatine arch).
+The patient must have excellent oral hygiene because the distalizing appliances retain food particles删除换行1:<u>| |</u>Have a strict appointment control. (1,5-7,9,删除2:<u>15,17,18,22</u>24- .删除2:<u>26,33,35,36,38</u> . . . . . . .
+
+##删除换行1:<u>| |</u>Collateral Effects Of Distalizers: .
+
+They procline the anterior segment.
+In- body distal movement is difficult,删除换行1:<u>| |</u>They produce condyle deflection.
+Premature points in the palatine cusps.
+Due to the hinge effect, these appliances produce a mandibular posterior rotation that will result in an anterior open bite. (1.5,6,7,9,删除2:<u>15,17,18,22,23</u>24,删除2:<u>26,33,35,36,38</u> . . . .
+
+【12】Distalizers are divided in two big groups: .
+
+##删除换行1:<u>| |</u>Intraoral. .
+
+【14】Extraoral.
+
+【15】In this chapter we will analyze the intraoral distalizers, and we will divide them in:
+
+【16】1. Fixed.
+
+【17】2. Removable.
+
+##删除换行1:<u>| |</u>Super Elastic Niti Coil Distalization (Open Coils)
+
+【19】Open coils are the most simple and cheap appliance used successfully in maxillary molar distalization since the begin删除16:<u>¬ </u>ning of the twentieth century.
+
+【20】These coils apply approximately 100 g of force and are placed between the first or second premolar and the upper first molar on a 0.016" x 0.022" arch wire.删除1:<u>(2.15.删除2:<u>16,26,40</u></u>王磊
+
+====================================================================================================
+
+oss://inf-beta/datasets/medical_books_v1130/1001 tips for orthodontics and its secrets (Esequiel E. Rodriguez Yanez  Coauthors etc.) (Z-Library).pdf
+文本干净度#无关文本#0#0# o
+文本干净度#无关文本#2#2# (1,5-7,9,
+文本干净度#无关文本#6#6# (1.5-7.9.15.17.18.22-
+文本干净度#无关文本#8#8#  (1,5-7,9,   (1.5,6,7,9,
+语义有效性#栏目混乱#1#8#序号混乱

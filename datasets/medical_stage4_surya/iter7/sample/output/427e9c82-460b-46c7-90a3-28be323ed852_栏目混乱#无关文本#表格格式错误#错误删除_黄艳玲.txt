@@ -1,0 +1,32 @@
+页码:128
+dial ischemia should be treated with β -blockers and consideration be given to expeditious cardiac catheterization with revascularization. Magnesium is unlikely to be effective in preventing polymorphic VT in patients with a normal QT interval (Class IIb, LOE C), 107 but amiodarone may be effective (Class IIb, LOE C).删除26_2:<u></u>删除换行1:<u>| |</u>Other causes of polymorphic VT apart from ischemia and long QT syndrome are catecholaminergic VT (which may be responsive to β -blockers) and Brugada syndrome (which may be responsive to isoproterenol).
+
+| Writing |  |  |  |  |  |  |
+|--------|--------|--------|--------|--------|--------|--------|
+| Group |  |  | Other Research Speakers’ Bureau/ | Ownership | Consultant/ |  |
+| Member | Employment | Research Grant | Support Honoraria | Interest | Advisory Board | Other |
+| Robert W.\nNeumar | University of\nPennsylvania-Associate\nProfessor of\nEmergency Medicine | None | None None | None | None | None |
+| Charles W.\nOtto | University of Arizona–\nProfessor | None | None None | None | None | None |
+| Mark S.\nLink | Tufts Medical Center–\nPhysician | None | None None | None | None | None |
+| Steven L.\nKronick | University of\nMichigan–Assistant\nProfessor | None | None None | None | None | None |
+| Michael\nShuster | Self-employed–\nemergency physician | None | None None | None | None | None |
+| Clifton W.\nCallaway | University of Pittsburgh\nSchool of\nMedicine–Associate\nProfessor; UPMC\nHealth\nSystem—Physician\n*American Heart\nAssociation-Work Sheet\nEditor for 2010\nGuidelines. My effort\non this project is paid\nto University of\nPittsburgh as a\n(cid:6)contracted services\nagreement,(cid:6) and not\npaid directly to me | 删除0:<u>†</u>Grants to\nUniversity of\nPittsburgh:\nNHLBI-\nResuscitation disposables)\nOutcomes\nConsortium\nHRSA-Development\nand Dissemination\nof Program Tools\nfor Uncontrolled Medivance,\nDonation After\nCardiac Death\n(UDCD) | *Loan of an None\nArctic Sun\ncooling device\n(without\nto\nhuman\nphysiology\nlaboratory for\nexperiments on\nhypothermia by\nInc. | 删除0:<u>†</u>Co-inventor on\npatent about\nventricular\nfibrillation\nwaveform\nanalysis,\nlicensed by\nUniversity of\nPittsburgh to\nMedtronic ERS,\nInc. | None | None |
+| Peter J.\nKudenchuk | University of\nWashington–\nProfessor of Medicine | 删除0:<u>†</u>Resuscitation\nOutcomes\nConsortium\n(NIH/NHLBI) | None Network for Continuing\nMedical Education,\nAcademy for\nHealthcare Education,\nSanofi-Aventis, with\nhonoraria | Sanofi-Aventis,\nNovartis | None | None |
+| Joseph P.删除10:<u>\nOrnato | Richmond Ambulance\nAuthority–Medical\nDirector; Virginia\nCommonwealth\nUniversity-Prof &\nChmn, Emergency\nMedicine | 删除0:<u>†</u>Consultant and\nCardiac Co-Chairman,\nNIH Resuscitation\nOutcomes\nConsortium Principal\nInvestigator, VCU site\nfor NIH Neurological\nEmergency\nTreatment Trials\nNetwork\nDownloaded from  http://circ.ahajournals.org/ | None *Hospital grand rounds\npresentations funded\nby ZOLL Circulation\n*Occasional hospital\ngrand rounds\nsupported by\nunrestricted\neducational grants\nfrom Squibb/Sanofi,\nZOLL | None\nby guest on September 4, 2011 | *ZOLL Circulation\nScience Advisory\nBoard (UNPAID,\nonly receive\ntravel\nreimbursement) | None\n(Continued) |</u>
+
+【2】Guidelines Part 8: ACLS Writing Group Disclosures
+
+##删除换行1:<u>| |</u>Summary
+
+【4】The goal of therapy for bradycardia or tachycardia is to rapidly identify and treat patients who are hemodynamically unstable or symptomatic due to the arrhythmia. Drugs or, when appropriate, pacing may be used to control unstable or symptomatic bradycardia. Cardioversion or drugs or both may be used to control unstable or symptomatic tachycardia.
+ACLS providers should closely monitor stable patients pending expert consultation and should be prepared to aggressively treat those with evidence of decompensation.
+
+##删除换行1:<u>| |</u>Disclosures黄艳玲
+
+====================================================================================================
+
+oss://inf-beta/datasets/medical_books_v1130/2010 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care Science (Mary Fran Hazinski, John M. Field) (Z-Library).pdf
+格式规范性#表格格式错误#0#0#表格格式错误
+文本干净度#无关文本#0#0#107 
+语义有效性#栏目混乱#0#4#Guidelines Part 8: ACLS Writing Group Disclosures和Disclosures小标题与表格顺序上下颠倒
+语义有效性#错误删除#0#0#删除10:\nOrnato

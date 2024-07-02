@@ -1,0 +1,32 @@
+【0】页码:53
+World Wide Web. Another backboneresearch project, called Abilene, began in 1998, and it was to serve a university consortium called Internet2.
+Abilene now reaches more than 170
+American research universities. If the only goal of Internet2 were to offer a high level of bandwidth (that is, a large number of bits per second), then the mere existence of Abilene and related resources would be sufficient. But Internet2 research
+
+##删除换行1:<u>| |</u>Seen Through Polarizing Glasses, Two Walls Of The Cubicle Dissolved Into Windows, Revealing Offices With People Who Were Looking Back At Me. targeted additional goals, among them the development of new protocols for handling applications that demand very high bandwidth and very low, controlled latencies (delays imposed by processing signals en route).
+Internet2 had a peculiar problem: no existing applications required the anticipated level of performance. Computer science has traditionally been driven by an educated guess that there will always be good uses for faster and more capacious digital tools, even if we don't always know in advance what those uses will be.
+In the case of advanced networking research, however, this faith wasn't enough.
+The new ideas would have to be tested on something.
+
+【2】Allan H. Weis, who had played a central role in building the NSFnet, was in charge of a nonprofit research organiza- tion called Advanced Network and Services, which housed and administered the engineering office for Internet2. He used the term "tele-immersion" to conjure an ideal "driver" application and asked me to take the assignment as lead scientist for a National Tele-Immersion Initiative to create it. I was delighted, as this was the logical extension of my previous work in shared virtual worlds.
+Although many components, such as the display system, awaited invention or refinement before we could enjoy a working tele-immersion system, the biggest challenge was creating an appropriate way of visually sensing people and places. It might not be immediately apparent why this problem is different from videoconferencing.
+
+##删除换行1:<u>| |</u>Beyond The Camera As We Know It
+
+【4】THE KEY IS THAT in tele-immersion, each participant must have a personal viewpoint of remote scenes—in fact, two of them, because each eye must see from its own perspective to preserve a sense of depth. Furthermore, participants should be free to move about, so each person's perspective will be in constant motion.
+Tele-immersion demands that each scene be sensed in a manner that is not bi-
+
+【5】THREE USERS in different cities can share a virtual space thanks to this telecubicle. ased toward any particular viewpoint (a camera, in contrast, is locked into portraying a scene from its own position).
+Each place, and the people and things in it, has to be sensed from all directions at once and conveyed as if it were an animated three-dimensional sculpture. Each remote site receives information describing the whole moving sculpture and renders viewpoints as needed locally. The scanning process has to be accomplished fast enough to take place in real time— at most within a small fraction of a second. The sculpture representing a person can then be updated quickly enough to achieve the illusion of continuous motion. This illusion starts to appear at about 12.5 frames per second (fps) but becomes robust at about 25 fps and better still at faster rates.
+Measuring the moving three-dimensional contours of the inhabitants of a room and its other contents can be accomplished in a variety of ways. As ear- ly as 1993, Henry Fuchs of the University of North Carolina at Chapel Hill had proposed one method, known as the "sea of cameras" approach, in which the viewpoints of many cameras are compared. In typical scenes in a human environment, there will tend to be visual features, such as a fold in a sweater, that are visible to more than one camera. By comparing the angle at which these features are seen by different cameras, algorithms can piece together a three-dimensional model of the scene.
+This technique had been explored in non-real-time configurations, notably in Takeo Kanade's work, which later culminated in the "Virtualized Reality" demonstration at Carnegie Mellon University, reported in 1995. That setup consisted of 51 inward-looking cameras mounted on a geodesic dome. Because it
+
+【6】HOTOGRAPH COURTESY OF THE UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL黄艳玲
+
+====================================================================================================
+
+oss://inf-beta/datasets/medical_books_v1130/(2001-04) Whose Blood Is It, Anyway (Scientific American) (Z-Library).pdf
+格式规范性#多余换行#3#4# American research universities   和上面连接
+文本干净度#无关文本#6#6#HOTOGRAPH COURTESY OF THE UNIVERSITY OF NORTH CAROLINA AT CHAPEL HILL
+语义有效性#栏目混乱#0#0#Seen Through Polarizing Glasses, Two Walls Of The Cubicle Dissolved Into Windows, Revealing Offices With People Who Were Looking Back At Me.小标题穿插导致内容分割
+信息丰富性#有用性#5#5#THREE USERS in different cities can share a virtual space thanks to this telecubicle. 图片描述

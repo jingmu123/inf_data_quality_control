@@ -1,0 +1,29 @@
+【0】页码:125
+an anterior open bite of +3mm because of the scissor effect.
+
+【1】4. When the incisor retroclination and the deep bite are corrected, the mandible will move forward, simplifying the orthodontic correction of the distoclusion.
+
+【2】##Anterior Bite Plane With Intermaxillary Elastics
+
+【3】Patients with permanent dentition and deep bite, deep Spee curve and anterior rotation of the mandible, can be treated with a combination of fixed and removable appliances (braces and intermaxillary elastics). With the use of intermaxillary elastics we can force an over eruption of the posterior teeth, this way we can level the Spee curve, increase the height of the inferior third of the face and we can lessen the depth of the anterior bite. It is important to make these procedures with rectangular wires in the braces in order to avoid brace rotation around the wire, which can happen with round wires, because this rotation may lingually incline the premolars.
+
+【4】The results obtained with this technique are generally very stable, the facial height and the depth of the bite are usually well maintained.  posteroinferior segment.
+
+【5】##Advantages
+
+【6】The extrusion of the posterior segment is fast.
+
+【7】2. I.
+The correction of the anterior deep bite is done in little time.
+3. Provokes a mandibular rotation that tends to open the bite.
+
+【8】4. Increases vertical dimension an the lower third of the face.
+5. Deprograms the mandibular muscles.
+
+【9】6. Diminishes the depth of the Spee.王磊
+
+====================================================================================================
+
+oss://inf-beta/datasets/medical_books_v1130/1001 tips for orthodontics and its secrets (Esequiel E. Rodriguez Yanez  Coauthors etc.) (Z-Library).pdf
+格式规范性#序号格式不一致#7#7#  I.   应该是 1.
+语义有效性#栏目混乱#6#7#序号混乱

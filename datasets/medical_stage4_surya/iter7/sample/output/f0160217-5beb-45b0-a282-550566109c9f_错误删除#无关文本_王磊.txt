@@ -1,0 +1,33 @@
+【0】页码:289
+orthodontist must wear polarized protective eye gear or Ray-ban G-40 lenses. 删除1:<u>(33.34)</u>
+
+【1】The skin of the zone where we are going to apply the la删除16:<u>¬ </u>ser must be cleaned thoroughly, without any presence of substances that may reflect the light of the laser and, in particular any metallic or reflective media. If there is no other remedy, the patient and the orthodontist must wear protective eye gear. 删除1:<u>(33.34)</u>
+
+【2】删除图片4:<u>Figs.删除26_2:<u></u> and 29. "Lasertech" diodic laser used to diminish orthodontic pain.</u>
+
+【3】Cosmetics should not be used before or after laser applica删除16:<u>¬ </u>tion, because it has been demonstrated that after the ap删除16:<u>¬ </u>plication, skin is more prone to absorption; this is because the blood vessels are dilated, therefore gels and creams can be more easily absorbed. In patients with sensible skin the point of the laser must move in a circular motion, if this is not done, skin micro burns can occur. 删除1:<u>(33)</u>
+
+##删除换行1:<u>| |</u>Laser Dosage In Orthodontic Treatment .
+
+4 minutes at 2000 Hz are applied in the upper and lower areas depending on the site where the orth删除16:<u>¬ </u>odontic movement is occurring. This is done in a sweeping or circular motion. 删除1:<u>(33)</u>删除换行1:<u>| |</u>Another measure to diminish pain is to apply 2 min删除16:<u>¬ </u>utes at 4000 Hz on the path of the nerve in the dental arch in which orthodontic force is being applied. 删除1:<u>( 33 )</u> In TMJ treatments we must ask the patient to open as wide as possible, this allows maximum laser penetra删除16:<u>¬ </u>tion. 删除1:<u>(30)</u>删除换行1:<u>| |</u>In case the pain persists, we can apply the laser directly in the trigeminal nerve 4 minutes at 4000 Hz These activations are done after the orthodontic force is applied. 删除1:<u>(33)</u>删除换行1:<u>| |</u>The first application of the laser must be placed on the most painful spot, so the patient can appreciate the benefits of the treatment. 删除1:<u>(33)</u>删除换行1:<u>| |</u>The applications must not last more than 30 minutes. 删除1:<u>(33)</u> . . . . .
+
+##删除换行1:<u>| |</u>Lesions And Urgencies During Orthodontic Treatment
+
+##删除换行1:<u>| |</u>External Apical Root Resoption (Earr)
+
+【8】This is a common consequence of orthodontic treatment.
+This phenomenon has been published for more than 100 years as one of the secondary effects of orthodontic treatment (Keim, 2001). 删除1:<u>(10.14)</u>
+
+【9】Ten Cate 删除1:<u>(1980)</u> mentions that the cell responsible for EARR is the odontoclast, that has cytologic and functional characteristics like the osteoclast. EARR begins appearing mainly in the periodontal ligament pressure zone in which we will find ligament fibers dissolved by odontoclasts, which produce shallow resorption sites with the appearance of a honey comb. The pulp reaction, immediate to the external stimuli, is an increase in vascularization, hyperemia and pulp calculus formation. 删除1:<u>(57.16)</u>
+
+【10】Kaley and cols. 删除1:<u>(1991)</u> mention that orthodontic forces allow root cement localized resoption which exposes dentine to osteoclastic activity. Nevertheless, cement is repaired in two ways: .
+
+【11】Functional fast repair.
+Non-functional delayed repair. .王磊
+
+====================================================================================================
+
+oss://inf-beta/datasets/medical_books_v1130/1001 tips for orthodontics and its secrets (Esequiel E. Rodriguez Yanez  Coauthors etc.) (Z-Library).pdf
+文本干净度#无关文本#4#4#  . . . . .
+语义有效性#错误删除#9#9# 删除1:(1980) 数字误删
+语义有效性#错误删除#10#10#删除1:(1991)  数字误删

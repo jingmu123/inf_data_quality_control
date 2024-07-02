@@ -1,0 +1,54 @@
+【0】页码:266
+adult patients with VF refractory to shocks and epinephrine.Neither lidocaine nor amiodarone has been shown to improve survival to hospital discharge.
+
+【1】##Precautions
+
+【2】Lidocaine toxicity includes myocardial and circulatory depression, drowsiness, disorientation, muscle twitching, and seizures, especially in patients with poor cardiac output and hepatic or renal failure.
+
+【3】##Magnesium
+
+【4】Magnesium is indicated for the treatment of documented hypomagnesemia or for torsades de pointes (polymorphic VT associated with long QT interval). There is insufficient evidence to recommend for or against the routine administration of magnesium during cardiac arrest.
+
+【5】##Precautions
+
+【6】Magnesium produces vasodilation and may cause hypotension if administered rapidly.
+
+【7】##Procainamide
+
+【8】Procainamide prolongs the refractory period of the atria and ventricles and depresses conduction velocity.
+
+【9】Precautions There is limited clinical data on using procainamide in infants and children.  Infuse procainamide very slowly (over 30 to 60 minutes) while monitoring the ECG and blood pressure.
+Decrease the infusion rate if there is prolongation of the QT interval, or heart block; stop the infusion if the QRS widens to > 50% of baseline or hypotension develops. Do not administer together with another drug causing QT prolongation, such as amiodarone, without expert consultation. Prior to using procainamide for a hemodynamically stable patient, expert consultation is strongly recommended.
+
+【10】##Sodium Bicarbonate
+
+【11】Routine administration of sodium bicarbonate is not recommended in cardiac arrest (Class III, LOE B).  Sodium bicarbonate may be administered for treatment of some toxidromes  or special resuscitation situations such as hyperkalemic cardiac arrest.
+
+【12】##Precautions
+
+【13】During cardiac arrest or severe shock, arterial blood gas analysis may not accurately reflect tissue and venous acidosis.Excessive sodium bicarbonate may impair tissue oxygen delivery;  cause hypokalemia, hypocalcemia, hypernatremia, and hyperosmolality;decrease the VF threshold;  and impair cardiac function.
+
+【14】##Vasopressin
+
+【15】There is insufficient evidence to make a recommendation for or against the routine use of vasopressin during cardiac arrest.
+Pediatricand adultcase series/reports suggested that vasopressin  or its long-acting analog, terlipressin,may be effective in refractory cardiac arrest when standard therapy fails. A large pediatric NRCPR case series, however, suggested that vasopressin is associated with lower ROSC, and a trend toward lower 24-hour and discharge survival.A preponderance of controlled trials in adults do not demonstrate a benefit.In the text below, box numbers identify the corresponding step in the algorithm .
+
+【16】•(Step 1) As soon as the child is found to be unresponsive with no breathing, call for help, send for a defibrillator (manual or AED), and start CPR (with supplementary oxygen if available). Attach ECG monitor or AED pads as soon as available. Throughout resuscitation, emphasis should be placed on provision of high-quality CPR (providing chest compressions of adequate rate and depth, allowing complete chest recoil after each compression, minimizing interruptions in compressions and avoiding excessive ventilation).
+
+【17】While CPR is being given, determine the child's cardiac rhythm from the ECG or, if you are using an AED, the device will tell you whether the rhythm is "shockable" (eg, VF or rapid VT) or "not shockable" (eg, asystole or PEA).
+It may be necessary to temporarily interrupt chest compressions to determine the child's rhythm. Asystole and bradycardia with a wide QRS are most common in asphyxial arrest.VF and PEA are less common  but VF is more likely to be present in older children with sudden witnessed arrest.
+
+【18】##"Nonshockable Rhythm": Asystole/Pea (Step 9)
+
+【19】PEA is an organized electric activity—most commonly slow, wide QRS complexes—without palpable pulses. Less frequently there is a sudden impairment of cardiac output with an initially normal rhythm but without pulses and with poor perfusion. This subcategory, formerly known as electromechanical dissociation (EMD), may be more reversible than asystole. For asystole and PEA:
+
+【20】•(Step 10) Continue CPR with as few interruptions in chest compressions as possible. A second rescuer obtains vascular access and delivers epinephrine, 0.01 mg/kg (0.1 mL/kg of 1: solution) maximum of 1 mg (10 mL), while CPR is continued. The same epinephrine dose is repeated every 3 to 5 minutes (Class I, LOE B). There is no survival benefit from high-dose epinephrine, and it may be harmful, particularly in asphyxia (Class III, LOE B).Highdose epinephrine may be considered in exceptional circumstances, such as β -blocker overdose (Class IIb, LOE C).
+
+【21】•Once an advanced airway is in place,  rescuer should give continuous chest compressions at a rate of at least 100 per minute without pause for ventilation. The second rescuer delivers ventilations at a rate of 1 breath every 6 to 8 seconds (about 8 to 10 breaths per minute). Rotate the compressor role approximately every 2 minutes to prevent compressor fatigue and deterioration in quality and rate of chest compressions. Check rhythm every 2 minutes with minimal interruptions in chest compressions. If the rhythm is "nonshockable" continue with cycles of CPR and epinephrine administration until there is evidence of ROSC or you decide to terminate the effort. If at any time the rhythm
+
+【22】##Pulseless Arrest黄艳玲
+
+====================================================================================================
+
+oss://inf-beta/datasets/medical_books_v1130/2010 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care Science (Mary Fran Hazinski, John M. Field) (Z-Library).pdf
+语义有效性#栏目混乱#15#22#Pulseless Arrest小标题与内容顺序上下颠倒

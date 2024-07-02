@@ -1,0 +1,33 @@
+【0】页码:42
+accept the pollen from a GM relative. Indeed, scientists say,
+GM crops in many countries could end up growing near their ancestral plants—and sharing more than the sunshine overhead. "Almost every crop has weedy relatives somewhere in the world," says Stephen Duke, a USDA plant physiologist in Oxford, Miss. "How do you keep GM crops out of places where they're not supposed to be?"
+
+【1】##Taking Refuge
+
+【2】finally, one risk follows GM crops wherever they're planted: evolution. Over time, insect pests and weeds can become resistant to killing by routine chemical sprays. The same is bound to happen in the biotech age: eventually, impervious insects will munch away on GM insect-resistant plants, and the weeds surrounding herbicide-tolerant crops will shrug off the herbicide of choice. "Agriculture is an evolutionary arms race between plant protections and pests," comments botanist Jonathan Wendel of Iowa State University. "And GM crops are just one more way that we're trying to outsmart pests—temporarily."
+
+【3】##U.S. Landscape Logistics Make It Unlikely That Herbicide-Tolerant Or Bt Crops Will Spread Their Biotech Genes.
+It May Be Harder To Avoid Creating Superweeds Elsewhere.
+
+【4】To keep weeds vulnerable to herbicides, Monsanto and other companies urge growers to use the sprays responsibly, only when necessary. To slow insect resistance to the Bt toxin, the EPA requires Bt crop growers to set aside some part of their farmland for crops that have not been genetically modified.
+These "refuges" may be a corner of a field outside a Bt crop, for instance, or rows of standard plants that break up a Bt plot.
+Inside the refuges, insects that have acquired some Bt resistance breed with those that have not, diluting the resistance trait.
+
+【5】##More To Explore
+
+【6】Transgenic Plants and World Agriculture. Royal Society of London, U.S. National Academy of Sciences, Brazilian Academy of Sciences, Chinese Academy of Sciences, Indian National Science Academy, Mexican Academy of Sciences,
+Third World Academy of Sciences. National Academy Press, July 2000. The Ecological Risks and Benefits of Genetically Engineered Plants.
+
+【7】Virus-resistant GM crops have escaped widespread public concern, but they, too, pose some of the same risks as other GM crops. Some scientists worry that viruses will pick up resistance traits from virus-fighting GM crops and evolve into hard-tobeat strains that infect a newly expanded repertoire of plants.
+Some critics also question the ecological safety of emerging crops designed to resist drought, tolerate salt or deliver an extra nutritional punch. For example, Margaret Mellon of the Union of Concerned Scientists notes that salt-tolerant rice could potentially behave like a disruptive weed if it found its way into vulnerable wetlands.
+
+【8】"I don't think it's fair to say that every single GM crop is going to be a problem," Rissler remarks. "But we need to devote the research to risks now, rather than deal with repercussions later."
+Still, some farmers are confident that GM technology can revolutionize agriculture for the better. For 30 years, Ryland Utlaut of Grand Pass, Mo., has been sowing and reaping  acres along the Missouri River. Last year, for the first time, he planted only herbicide-tolerant corn and soybeans across his entire, soil-friendly, no-till farm. As a result, he claims, he sprayed the crops half as often as he did before and got bigger yields. "If even the strongest environmentalist could see my farming practices now, I think they'd understand the benefits," Utlaut says. "I'm a fervent believer in this technology." Now he has to wait and see whether science confirms that belief. a Kathryn Brown is a science writer based in Alexandria , Va.黄艳玲
+
+====================================================================================================
+
+oss://inf-beta/datasets/medical_books_v1130/(2001-04) Whose Blood Is It, Anyway (Scientific American) (Z-Library).pdf
+文本干净度#无关文本#8#8#a Kathryn Brown is a science writer based in Alexandria , Va.
+语义有效性#栏目混乱#3#3#小标题穿插导致内容分割
+语义有效性#信息不完整#4#4#diluting the resistance trait.   后面缺少内容
+信息丰富性#有用性#5#6#侧栏拓展内容

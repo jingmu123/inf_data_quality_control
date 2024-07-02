@@ -1,0 +1,35 @@
+【0】页码:194
+5. If there is an anterior open bite present, the traction hook must be placed in a high position to produce an oblique force direction and to favor the closure of the bite.
+
+【1】6. Whenever we want alveolar dental forwarding, the traction hooks must be placed at the canine level.
+In deep bite cases, the traction hook must be placed at the permanent upper molar level to extrude this tooth and to open the bite.
+Suspend the use of the face mask if TMJ problems arise.
+The elastics used for the protraction of the upper maxilla can be 5/16", which will generate heavy forces, following this sequence:
+
+【2】9.1. 8 ounces at the beginning of treatment ( g).
+
+【3】9.2. 14 ounces at the end of treatment ( g).
+
+【4】10. We recommend periodic appointments to inspect the expander and to evaluate the changes in soft tissues (every 4 to 6 weeks).
+We must indicate to the patient that the mask should be used all day except during meals or during the practice of a sport.
+If the patient tolerates the use of the face mask during sleep hours, we must encourage the patient to use the appliance during these hours because the growth hormone is liberated in this time period and the skeletal changes will be most favorable.
+We do not consider appropriate to direct our efforts in inhibiting mandibular growth, because the mandible grows influenced by a genetic hormonal mechanism that cannot be influenced by functional stimuli or appliances.
+
+【5】##Modified Tandem
+
+【6】The modified Tandem is an anterior maxillary traction device, indicated in cases where the patient presents maxillary hypoplasia with an anterior cross bite and when the patient is still growing (Class III patients due to a maxillary skeletal deficiency). This appliance has four components:
+
+【7】##1. Fixed:
+
+【8】Adhesion upper expander with skidding flat a. surfaces with protraction hooks on the bands of the upper molars. b.
+Adhesion lower skidding flat surfaces from molar to molar with double tubes imbedded in the acrylic at molar level; the arch of the anterior protraction appliance will be inserted in these tubes.
+
+【9】2. Removable: a. Anterior protraction arch (modified protraction arch).
+b. Protraction elastics.焦瀚远
+
+====================================================================================================
+
+oss://inf-beta/datasets/medical_books_v1130/1001 tips for orthodontics and its secrets (Esequiel E. Rodriguez Yanez  Coauthors etc.) (Z-Library).pdf
+格式规范性#序号格式不一致#0#4#序号不全
+格式规范性#序号格式不一致#8#8# 缺少序号a
+格式规范性#缺少换行#9#9#a. Anterior protraction arch (modified protraction arch). 应换行

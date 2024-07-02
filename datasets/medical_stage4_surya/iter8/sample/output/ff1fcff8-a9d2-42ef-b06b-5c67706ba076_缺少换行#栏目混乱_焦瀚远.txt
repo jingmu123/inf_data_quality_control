@@ -1,0 +1,24 @@
+【0】页码:215
+7. Once the appliance is removed, place a transpalatal arch on the upper molars and a heavy stainless steel arch wire. 8.
+9. Cement the braces to minimize rebound.
+
+【1】10. Over expand the posterior segments during RME.
+Stop the expansion as soon as the palatal cusps contact the buccal cusps of the lower molars.
+11. We must evaluate which type of patient is a candidate for RME, and hold in account the transversal discrepancy, the facial biotype, molar inclination, age and collaboration degree of each patient, among other factors.
+12. We must notify the parents that after a certain number of activations an interincisor diastema will appear, so they can interpret this as a positive sign.
+13. During the contention period we must block the appliance with ligature passing it through the activation orifices of the screw. We can also block the screw with acrylic.
+
+【2】##Surgical Disjunction
+
+【3】Surgical disjunction is indicated in adults with skeletal type unilateral or bilateral posterior cross bite, in which the medial palatine suture is completely ossified and the discrepancy between the dental arches is greater than 12 mm. This disjunction consists in surgically disarticulating the upper maxilla with a series of osteotomies; after this is preformed a Hyrax expansion screw is placed. The osteotomies are done on the lateral walls of the maxilla, and on the medial palatine suture, then the Hyrax screw with 4 turns is placed.  Once the osteotomy is done, we indicate two activations twice a day to the patient until the posterior cross bite is completely uncrossed.
+
+【4】Surgical assisted expansion produces very stable results in patients that are no longer growing up.
+
+【5】##Advantages焦瀚远
+
+====================================================================================================
+
+oss://inf-beta/datasets/medical_books_v1130/1001 tips for orthodontics and its secrets (Esequiel E. Rodriguez Yanez  Coauthors etc.) (Z-Library).pdf
+格式规范性#缺少换行#3#3# Once the osteotomy  这里开始应换行
+语义有效性#栏目混乱#0#1#序号位置混乱
+语义有效性#栏目混乱#4#5#顺序反了

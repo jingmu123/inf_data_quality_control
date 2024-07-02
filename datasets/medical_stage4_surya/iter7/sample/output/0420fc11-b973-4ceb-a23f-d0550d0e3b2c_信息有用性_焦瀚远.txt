@@ -1,0 +1,23 @@
+页码:55
+##删除换行1:<u>| |</u>How Tele-Immersion Works
+
+【1】In this highly simplified scheme for how a future tele-immersion scheme might work, two partners separated by 1,000 miles collaborate on a new engine design
+
+【2】"SEA OF CAMERAS"
+Hidden cameras provide many points of view that are compared to create a threedimensional model of users and their surroundings. The cameras can be hidden behind tiny perforations in the screen, as shown here, or can be placed on the ceiling, in which case the display screen must also serve as a selectively reflective surface.
+
+SHARED SIMULATION删除换行1:<u>| |</u>OBJECTS删除换行1:<u>| |</u>Simulated objects appear in the space between users.
+These can be manipulated as if they were working models.
+One stream of research in the National Tele-immersion删除换行1:<u>| |</u>Initiative concerns finding better techniques to combine models developed by people on opposite ends of a dialogue using incompatible local software design tools.
+
+【4】Tele-immersion depends on intense data processing at each end of a connection, mediated by a high-performance network.
+
+【5】FROM THE SENDER . . .
+Parallel processors accept visual input from the cameras and reinterpret the scene as a threedimensional computer model.
+
+【6】INTERNET2焦瀚远
+
+====================================================================================================
+
+oss://inf-beta/datasets/medical_books_v1130/(2001-04) Whose Blood Is It, Anyway (Scientific American) (Z-Library).pdf
+信息丰富性#信息有用性#0#6#图片内容

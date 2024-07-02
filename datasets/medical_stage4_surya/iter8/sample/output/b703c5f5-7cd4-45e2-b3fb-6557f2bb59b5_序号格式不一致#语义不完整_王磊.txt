@@ -1,0 +1,28 @@
+【0】页码:21
+#Chapter Two: Causes, Symptoms And Diagnosis
+
+【1】This particular section gives a more detailed description of the anatomy of the th cranial nerve to help you understand the disorder.
+
+【2】##Anatomy Of The Th Cranial Nerve
+
+【3】Facial muscles control the expressions of your face, from making you smile to making you frown. This is why these muscles are so important, since they help us understand each other better and decipher non-verbal cues. These muscles are controlled by the facial nerve, also known as the 7th cranial nerve.
+
+【4】The 7th nerve branches out from the brainstem into an extremely narrow canal in your skull called the Fallopian canal. It then exits the skull at a point right behind your ear. The anatomy, as you can guess is not so simple. The 7th nerve then spreads out from behind the ear and splits into several branches to control the muscles on each side of the face.
+
+【5】##What Are The Known Causes?
+
+【6】Some viruses are thought to cause Bell's palsy but what exactly triggers the response is unknown. Studies suggest that environmental factors, trauma, stress and metabolic disorders might contribute to the reactivation of the already existing 'dormant virus.' The nerve swells and becomes inflamed in response to the viral infection – this is one of the reasons steroids are known to reduce inflammation and swelling, and are useful in treating Bell's palsy.
+
+【7】Other popular treatment methods include:
+
+【8】1. Antiviral medications to treat viral infection . Analgesics or painkillers to relieve pain (if present)
+3. Physical therapy to stimulate the affected facial nerve Alternative treatments used include:
+
+【9】1. Electrical stimulation . Acupuncture王磊
+
+====================================================================================================
+
+oss://inf-beta/datasets/medical_books_v1130/Bells Palsy Handbook Facial Nerve Palsy or Bells Palsy facial paralysis causes, symptoms, treatment, face exercises ... (Alan Mc Donald  Dr Alexa Smith) (Z-Library).pdf
+格式规范性#序号格式不一致#8#9# 缺少标点
+语义有效性#语义不完整#1#1# th cranial nerve to help  应该是  7th cranial nerve to help
+语义有效性#语义不完整#2#2# Th Cranial Nerve应该是  7Th Cranial Nerve

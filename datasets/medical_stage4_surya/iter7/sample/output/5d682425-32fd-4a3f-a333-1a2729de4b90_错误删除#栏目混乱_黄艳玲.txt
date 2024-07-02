@@ -1,0 +1,27 @@
+【0】页码:295
+(本页删除)本页有超过一半的段落长度小于50字符
+
+【1】删除图片4:<u>Figs.删除26_2:<u></u>-52. Brace and power arm invagination due to gingival hyperplasia. space closure is going to take place an accumulation of gingival tissue will be observed as a result of retraction and compression (gingival hyperplasia). Due to the fact that the periodontum moves with the tooth during the orthodontic treatment, we must exercise extra special care while making excessive buccal movements because it can produce gingival recession. 删除1:<u>(4,6,15)</u></u>
+
+【2】Poorly adapted bands. This lesion is produced by 删除0:<u>■</u> poorly adapted bands, or by an excess of cement or a band that is larger than the one required for the molar. The pa删除16:<u>¬ </u>tient may refer gingival inflammation, pain, food impaction and sometimes tongue ulceration due to cutting edges of the molar band. 删除1:<u>(15)</u>
+
+【3】删除图片4:<u>Figs.删除26_2:<u></u> and 54. Band invagination on an upper molar.</u>
+
+【4】Around the bands we can find an increase in: o
+
+【5】Lactobacillus. o
+
+【6】Mobile organisms. o
+
+【7】Anaerobics. o
+
+【8】Intermediate prevotella. o
+
+【9】Facultative anaerobic bacteria diminishment, this results in gingival inflammation and the beginning of enamel decalcification.黄艳玲
+
+====================================================================================================
+
+oss://inf-beta/datasets/medical_books_v1130/1001 tips for orthodontics and its secrets (Esequiel E. Rodriguez Yanez  Coauthors etc.) (Z-Library).pdf
+语义有效性#错误删除#0#9#全篇错误删除
+语义有效性#错误删除#1#1#space closure is going ......produce gingival recession.正文内容被过滤
+语义有效性#栏目混乱#4#9#序号混乱

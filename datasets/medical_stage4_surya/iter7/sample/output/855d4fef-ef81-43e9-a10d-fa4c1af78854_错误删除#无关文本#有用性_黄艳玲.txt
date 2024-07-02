@@ -1,0 +1,28 @@
+【0】页码:34
+circulation (ROSC) after 3 full rounds of CPR and automated external defibrillator (AED) analysis; and 删除1:<u>(3)</u> no AED shocks were delivered.
+
+The BLS termination of resuscitation rule can reduce the rate of hospital transport to 37% of cardiac arrests without compromising the care of potentially viable patients. This was prospectively validated in rural and urban EMS services 23 and externally validated in additional locations in the US, Canada, and Europe. 删除2:<u>24 – 29</u>The rule should be applied before moving to the ambulance for transport.删除26_2:<u></u> This clinical prediction rule consistently generates the highest specificity and positive predictive values when compared to previous guidelines.删除26_2:<u></u> It is recommended that regional or local EMS authorities use the BLS termination rule to develop protocols for the termination of resuscitative efforts by BLS providers for adult victims of cardiac arrest in areas where advanced life support is not available or may be significantly delayed (Class I, LOE A). The reliability and validity of this rule is uncertain if modified (Class IIb, LOE A).
+Implementation of the rule includes real-time contacting of medical control when the rule suggests termination. Before the protocol is implemented, EMS providers require training in sensitive communication with the family about the outcome of the resuscitative attempt.删除26_2:<u></u> This strategy will help to ensure comfort of the provider and appropriate support of the grieving family. Support for the prehospital protocol should be sought from collaborating external agencies (eg, destination hospital emergency departments [EDs], coroner, medical directors, and police) before implementation.
+Terminating Resuscitative Efforts in an ALS删除换行1:<u>| |</u>Out-of-Hospital System删除换行1:<u>| |</u>A different rule may be useful when the additional diagnostic and therapeutic capabilities of an advanced life support EMS response are available to the victim. The National Association of EMS Physicians (NAEMSP) suggested that resuscitative efforts could be terminated in patients who do not respond to at least 20 minutes of ALS care.删除26_2:<u></u> An ALS termination of resuscitation rule was derived from a diverse population of rural and urban EMS settings.删除26_2:<u></u> This rule recommends considering terminating resuscitation when ALL of the following criteria apply before moving to the ambulance for transport 删除图片6:<u>(see Figure 2)</u>: 删除1:<u>(1)</u> arrest was not witnessed; 删除1:<u>(2)</u> no bystander CPR was provided; 删除1:<u>(3)</u> no ROSC after full ALS care in the field; and 删除1:<u>(4)</u> no AED shocks were delivered.
+
+This rule has been retrospectively externally validated for adult patients in several regions in the US, Canada, and Europe, 删除2:<u>25,27–29</u>and it is reasonable to employ this rule in all ALS services (Class IIa, LOE B).
+Terminating Resuscitative Efforts in a Combined BLS and ALS Out-of-Hospital System删除换行1:<u>| |</u>In a tiered ALS- and BLS-provider system, the use of a universal rule can avoid confusion at the scene of a cardiac arrest without compromising diagnostic accuracy. 删除2:<u>25,28,29</u>The BLS rule is reasonable to use in these services (Class IIa, LOE B).
+Termination of Resuscitative Efforts and Transport Implications删除换行1:<u>| |</u>Field termination reduces unnecessary transport to the hospital by 60% with the BLS rule and 40% with the ALS rule, 25 reducing associated road hazards 删除2:<u>34,35</u>that put the provider, patient, and public at risk. In addition field termination reduces inadvertent paramedic exposure to potential biohazards and the higher cost of ED pronouncement. 删除2:<u>36 – 38</u>More importantly the quality of CPR is compromised during transport, and survival is linked to optimizing scene care rather than rushing to hospital.删除26_2:<u></u> – 41
+
+##删除换行1:<u>| |</u>Withholding And Withdrawing Cpr (Termination Of Resuscitative Efforts) Related删除换行1:<u>| |</u>To In-Hospital Cardiac Arrest删除换行1:<u>| |</u>Criteria For Not Starting Cpr In Newly Born Infant Ihca
+
+【4】There are prescribed recommendations to guide the initiation of resuscitative efforts in newly born infants. When gestational age, birth weight, or congenital anomalies are associated with almost certain early death and when unacceptably high morbidity is likely among the rare survivors, resuscitation is not indicated.
+Examples may include extreme prematurity (gestational age < 23 weeks or birth weight < 400 g), anencephaly, and some major chromosomal abnormalities such as trisomy 13 (Class IIb, LOE C).
+In conditions associated with uncertain prognosis where survival is borderline, the morbidity rate is relatively high, and the anticipated burden to the child is high, parental desires concerning initiation of resuscitation should be supported (Class IIb, LOE C).
+There should be a consistent and coordinated approach from the obstetric and neonatal teams in applying these guidelines and in communicating with the parents in developing an agreedupon management plan when possible.
+
+【5】Figure 2. ALS termination-ofresuscitation rule for adult OHCA.删除26_2:<u></u>黄艳玲
+
+====================================================================================================
+
+oss://inf-beta/datasets/medical_books_v1130/2010 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care Science (Mary Fran Hazinski, John M. Field) (Z-Library).pdf
+文本干净度#无关文本#0#0#23
+文本干净度#无关文本#3#3#25 
+文本干净度#无关文本#3#3#– 41
+语义有效性#错误删除#0#0# 删除1:(1) 删除1:(2) 删除1:(3)删除1:(4) 
+信息丰富性#有用性#5#5#Figure 2. ALS termination-ofresuscitation rule for adult OHCA.图片描述

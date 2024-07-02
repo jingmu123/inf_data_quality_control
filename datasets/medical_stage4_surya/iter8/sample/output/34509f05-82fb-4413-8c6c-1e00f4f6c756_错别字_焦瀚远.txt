@@ -1,0 +1,23 @@
+【0】页码:15
+' he book  Tips For Orthodontics and its Secrets has been written in a simple and didactic way for easy reading and understanding, ideal for the dental student, orthodontic resident or specialist. The book has a stock of more than 1,000 clinical photographs in which we explain "different methods to do the same thing" meaning that we point out many ways to close, open or uncross a bite. We include different molar distalizers, how to provide anchorage or how to close spaces; in this manner, multiple treatment options are shown for an identical problem, orthodontic or orthopedic in nature.
+
+【1】Our book consists of ten chapters, which we will describe briefly:
+
+【2】Chapter 1. Action and reaction. In an informative and straightforward approach we: .
+
+【3】Describe how and why teeth move orthodontically, and the effects at bone and dental levels.
+The three laws of Newton and their clinical application during orthodontic treatment.
+A simple and easy description on how to understand the physics laws that we utilize in an orthodontic treatment. The use of forces, resultant forces, coplanar forces, center of resistance, center of rotation, moment, types of dental movements and their physiology, dental equilibrium and first, second and third order bends are clearly explained. . .
+
+【4】Chapter 2. Anchorage. In this chapter we examine the different types of anchorage utilized during orthodontic treatment, such as when to use minimal, moderate, maximum or absolute anchorage, their advantages, disadvantages and recommendations for each one.
+
+【5】Chapter 3. Space closure in orthodontics. We present a whole array of different modalities for dental space closure, from the classical elastic chain to the use of coils, wire bends and retroligatures. We also describe the forces produced by each of these additions, in the case they can be used, the advantages, disadvantages and recommendations of each one.
+
+【6】Chapter 4. Deep bite. Description of the different types of deep bites and their etiology, and the possible treatment plans for correction. We mention here why and how to use a bite plane, the use of bite ramps, bypass, why should braces be bonded near the incisal edge to help correct this problem, when to use an intrusion bend or a Tip back, how to use and how can reverse curves help us to correct a deep bite, the use of in-block intrusion arch wires like the intrusion arch of Dr. Oscar Quiroz, the utility arch wire, the CIA and intrusive arches with loops. All these additions have advantages, disadvantages and recommendations, which are clearly explained.
+
+【7】Chapter 5. Open bite. This is one of the most difficult types of malocclusions to treat because it has a high relapse rate. As in the deep bite chapter, we describe the different causes and the different types of open bite, and their possible treatments. We discuss how we use in block extrusion bends or in an individual manner, the benefits of palatal plates and the advantages of using reverse curves on the maxilla and a curve on the mandible in order to close an anterior open bite; why brace bonding near the gingival margin helps us, cases in which we can use an individual or In block By-pass, the use of an inverted焦瀚远
+
+====================================================================================================
+
+oss://inf-beta/datasets/medical_books_v1130/1001 tips for orthodontics and its secrets (Esequiel E. Rodriguez Yanez  Coauthors etc.) (Z-Library).pdf
+语法规范性#错别字#0#0#’ he应为The

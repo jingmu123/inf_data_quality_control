@@ -1,0 +1,15 @@
+页码:197
+The time-sensitive nature of stroke requires such an approach, even in densely populated metropolitan centers. The idea of a "stroke-prepared" hospital emerged after the United States删除换行1:<u>| |</u>Food and Drug Administration (FDA) approved rtPA for stroke. In 2000 the Brain Attack Coalition provided a description of "primary stroke centers," which would ensure that best practices for stroke care (acute and beyond) would be offered in an organized fashion.删除26_2:<u></u> The logic of having a multitiered system such as that provided for trauma was evident. Therefore, in 2005 the Brain Attack Coalition followed the statement on primary stroke centers with recommendations for comprehensive stroke centers.删除26_2:<u></u> Following the establishment
+
+【1】Figure. Goals for management of patients with suspected stroke.
+
+【2】删除10:<u>Downloaded from http://circ.ahajournals.org/ by guest on September 4, 2011 of primary stroke centers and comprehensive stroke centers, the new concept of a stroke-prepared hospital has recently emerged. This stroke-prepared hospital can access stroke expertise via telemedicine. The comparison with a trauma system with Level 1, 2, and 3 centers is rational and quite intuitive to emergency care providers familiar with such configurations.</u>
+
+【3】Substantial progress has been made toward regionalization of stroke care. Several states have passed legislation requiring prehospital providers to triage patients with suspected stroke to designated stroke centers. This is contingent on the accuracy of dispatch, an area where further improvement is焦瀚远
+
+====================================================================================================
+
+oss://inf-beta/datasets/medical_books_v1130/2010 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care Science (Mary Fran Hazinski, John M. Field) (Z-Library).pdf
+格式规范性#多余换行#0#2#为同段内容
+语义有效性#错误删除#2#2# of primary stroke centers and comprehensive stroke centers, the new concept of a stroke-prepared hospital has recently emerged. This stroke-prepared hospital can access stroke expertise via telemedicine. The comparison with a trauma system with Level 1, 2, and 3 centers is rational and quite intuitive to emergency care providers familiar with such configurations. 误删
+信息丰富性#信息有用性#1#1#图片描述内容

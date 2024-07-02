@@ -1,0 +1,15 @@
+页码:43
+##删除换行1:<u>| |</u>A Farmworker Crouches In The Hot Texas Sun, Harvesting Celery For Market. That Evening, Painful red blisters erupt across his forearms. The celery—a newly developed variety prized for its resistance to disease—unexpectedly produces a chemical able to trigger severe skin reactions.
+Traditional breeding methods generated this noxious vegetable. But opponents of genetically modified foods worry that splicing foreign genes (often from bacteria) into food plants through recombinant-DNA technology could lead to even nastier health surprises. The stakes are high: GM foods are sold in many countries. In the U.S., an estimated 60 percent of processed foods in supermarkets—from breakfast cereals to soft drinks—contain a GM ingredient, especially soy, corn or canola; some fresh vegetables are genetically altered as well.
+Detractors cite several reasons for concern. Perhaps proteins made from the foreign genes will be directly toxic to humans.
+Maybe the genes will alter the functioning of a plant in ways that make its food component less nutritious or more prone to carrying elevated levels of the natural poisons that many plants contain in small amounts. Or perhaps the modified plant will synthesize proteins able to elicit allergic reactions.
+Allergy was the big worry last year when StarLink corn—
+
+【1】By Karen Hopkin genetically modified to produce an insecticidal protein from the bacterium Bacillus thuringiensis (Bt)—turned up in taco shells, corn chips and other foods. Before the corn was ever planted commercially, U.S. regulators saw signs that its particular version of the Bt protein could be allergenic; they therefore approved StarLink for use only in animal feed, not in grocery products. They are examining claims of allergic reactions to foods harboring that corn, but a scientific advisory committee has determined that the amounts in consumer products were quite low and thus unlikely to provoke allergic reactions.
+Proponents offer a number of defenses for genetically engineered foods. Inserting carefully selected genes into a plant is safer than introducing thousands of genes at once, as commonly occurs when plants are crossbred in the standard way.
+GM crops designed to limit the need for toxic pesticides can potentially benefit health indirectly, by reducing human exposure to those chemicals. More directly, foods under study are being designed to be more nutritious than their standard counterparts. Further, GM crops that produced extra nutrients or that grew well in poor conditions could provide critical help黄艳玲
+
+====================================================================================================
+
+oss://inf-beta/datasets/medical_books_v1130/(2001-04) Whose Blood Is It, Anyway (Scientific American) (Z-Library).pdf
+文本干净度#无关文本#1#1#By Karen Hopkin 

@@ -1,0 +1,45 @@
+【0】页码:209
+##Primary Therapy
+
+【1】Oxygen Oxygen should be provided to all patients with severe asthma, even those with normal oxygenation. As noted above, successful treatment with β  -agonists may cause an initial decrease in oxygen saturation because the resultant bronchodilation can initially increase the ventilation-perfusion mismatch.
+
+【2】##Inhaled Β 2 -Agonists
+
+【3】Short-acting β -agonists provide rapid, dose-dependent bronchodilation with minimal side effects. Because the dose delivered depends on the patient's lung volume and inspiratory flow rate, the same dose can be used in most patients regardless of age or size. Studies have shown no difference in the effects of continuous versus intermittent administration of nebulized albuterol  ; however, continuous administration was more effective in a subset of patients with severe exacerbations of asthma.A Cochrane meta-analysis showed no overall difference between the effects of albuterol delivered by metered-dose inhaler spacer or nebulizer.If prior use of a metered-dose inhaler has not been effective, use of a nebulizer is reasonable.
+Although albuterol is sometimes administered intravenously (IV) in severe asthma, a systematic review of  clinical trials found that IV β  -agonists, administered by either bolus or infusion, did not lead to significant improvements in any clinical outcome measure.Levalbuterol is the R-isomer of albuterol. Comparisons with albuterol have produced mixed results, with some studies showing a slightly improved bronchodilator effect in the treatment of acute asthma in the ED.There is no evidence that levalbuterol should be favored over albuterol.
+One of the most common adjuncts used with β -agonist treatment, particularly in the first hours of treatment, include anticholinergic agents . When combined with short-acting β -agonists, anticholinergic agents such as ipratropium can produce a clinically modest improvement in lung function compared with short-acting β -agonists alone.
+
+【4】##Corticosteroids
+
+【5】Systemic corticosteroids are the only treatment for the inflammatory component of asthma proven to be effective for acute asthma exacerbations. Because the antiinflammatory effects after administration may not be apparent for 6 to 12 hours, corticosteroids should be administered early. The early use of systemic steroids hastens the resolution of airflow obstruction and may reduce admission to the hospital.Although there may be no difference in clinical effects between oral and IV formulations of corticosteroids,  the IV route is preferable in patients with severe asthma. In adults a typical initial dose of methylprednisolone is  mg (dose range: 40 mg to 250 mg); a typical dose of dexamethasone is 10 mg.
+
+【6】##Adjunctive Therapies
+
+【7】##Anticholinergics
+
+【8】Ipratropium bromide is an anticholinergic bronchodilator pharmacologically related to atropine. The nebulizer dose is  mcg.  Ipratropium bromide has a slow onset of action (approximately 20 minutes), with peak effectiveness at 60 to 90 minutes and no systemic side effects. The drug is typically given only once because of its prolonged onset of action, but some studies have shown that repeat doses of  mcg or  mcg every 20 minutes may be beneficial.A recent meta-analysis indicated a reduced number of hospital admissions associated with treatment with ipratropium bromide, particularly in patients with severe exacerbations.
+
+【9】##Magnesium Sulfate
+
+【10】When combined with nebulized β -adrenergic agents and corticosteroids, IV magnesium sulfate can moderately improve pulmonary function in patients with asthma.Magnesium causes relaxation of bronchial smooth muscle independent of serum magnesium level, with only minor side effects (flushing, lightheadedness). A Cochrane meta-analysis of  studies concluded that IV magnesium sulfate improves pulmonary function and reduces hospital admissions, particularly for patients with the most severe exacerbations of asthma.The use of nebulized magnesium sulfate as an adjunct to nebulized β -adrenergic agents has been reported in a small case series to improve FEV and Spo 2 , 21 although a prior meta-analysis demonstrated only a trend toward improved pulmonary function with nebulized magnesium.For those with severe refractory asthma, providers may consider IV magnesium at the standard adult dose of 2 g administered over 20 minutes.
+
+【11】##Epinephrine Or Terbutaline
+
+【12】Epinephrine and terbutaline are adrenergic agents that can be given subcutaneously to patients with acute severe asthma. The dose of subcutaneous epinephrine (concentration :) is 0.01 mg/kg, divided into 3 doses of approximately 0.3 mg administered at 20-minute intervals. Although the nonselective adrenergic properties of epinephrine may cause an increase in heart rate, myocardial irritability, and increased oxygen demand, its use is well-tolerated, even in patients > 35 years of age.Terbutaline is given in a subcutaneous dose of 0.25 mg, which can be repeated every 20 minutes for 3 doses. There is no evidence that subcutaneous epinephrine or terbutaline has advantages over inhaled β  -agonists. Epinephrine has been administered IV (initiated at  mcg/min to  mcg/min continuous infusion) in severe asthma; however,  retrospective investigation indicated a 4% incidence of serious side effects. There is no evidence of improved outcomes with IV epinephrine compared with selective inhaled β  -agonists.
+
+【13】##Ketamine
+
+【14】Ketamine is a parenteral, dissociative anesthetic with bronchodilatory properties that also can stimulate copious bronchial secretions. One case series  suggested substantial efficacy, whereas  published randomized trials in childrenfound no benefit of ketamine when compared with standard care. Ketamine has sedative and analgesic properties that may be useful if intubation is planned.
+
+【15】##Heliox
+
+【16】Heliox is a mixture of helium and oxygen (usually a : helium to oxygen ratio mix) that is less viscous than ambient air.
+Heliox has been shown to improve the delivery and deposition of nebulized albuterol  ; however, a recent meta-analysis of clinical trials did not support its use as initial treatment for焦瀚远
+
+====================================================================================================
+
+oss://inf-beta/datasets/medical_books_v1130/2010 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care Science (Mary Fran Hazinski, John M. Field) (Z-Library).pdf
+语法规范性#错别字#12#12# (concentration 😃应为(concentration 1:1000) 
+格式规范性#缺少换行#1#1#Oxygen should be provided  这里开始应换行
+格式规范性#缺少换行#3#3# Levalbuterol is the R-isomer 这里开始应换行
+文本干净度#无关文本#10#10# 21

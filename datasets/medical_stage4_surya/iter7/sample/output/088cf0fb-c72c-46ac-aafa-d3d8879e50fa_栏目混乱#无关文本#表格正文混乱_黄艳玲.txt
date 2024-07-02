@@ -1,0 +1,37 @@
+【0】页码:336
+(本页删除)本页有超过一半的段落长度小于50字符
+
+【1】删除图片4:<u>Figs.删除26_2:<u></u> and 111. Essix删除0:<u>®</u> "A" in mouth.</u>
+
+【2】Essix删除0:<u>®</u> "C'" is only available in one gauge:
+
+【3】Essix "C t "
+
+| Vacuum |
+|--------|
+| 50 seconds. |
+
+【5】0.040" (1 mm)
+
+【6】These are less esthetic than the type "A", because they do not reflect light as well, but are more resistant, they are used for:
+
+【7】Night use molar to molar retention. . .
+To maintain a palatine expansion.
+Useful in patients that grind their teeth. .
+As space maintainers. 删除1:<u>( 删除2:<u>18 , 31 , 32 , 33</u>)</u> . a
+
+【8】Biostar
+
+【9】55 seconds. t
+
+【10】14.4
+
+【11】AC黄艳玲
+
+====================================================================================================
+
+oss://inf-beta/datasets/medical_books_v1130/1001 tips for orthodontics and its secrets (Esequiel E. Rodriguez Yanez  Coauthors etc.) (Z-Library).pdf
+文本干净度#无关文本#0#0#maintainers. . a句末的.a无关
+文本干净度#无关文本#10#11#与正文内容无连接
+语义有效性#表格正文混乱#3#9#表格内容不全，识别到正文里
+语义有效性#栏目混乱#7#7#序号混乱

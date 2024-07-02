@@ -1,0 +1,43 @@
+页码:42
+accept the pollen from a GM relative. Indeed, scientists say,删除换行1:<u>| |</u>GM crops in many countries could end up growing near their ancestral plants—and sharing more than the sunshine overhead. "Almost every crop has weedy relatives somewhere in the world," says Stephen Duke, a USDA plant physiologist in Oxford, Miss. "How do you keep GM crops out of places where they're not supposed to be?"
+
+##删除换行1:<u>| |</u>Taking Refuge finally, one risk follows GM crops wherever they're planted: evolution. Over time, insect pests and weeds can become resistant to killing by routine chemical sprays. The same is bound to happen in the biotech age: eventually, impervious insects will munch away on GM insect-resistant plants, and the weeds surrounding herbicide-tolerant crops will shrug off the herbicide of choice. "Agriculture is an evolutionary arms race between plant protections and pests," comments botanist Jonathan Wendel of Iowa State University. "And GM crops are just one more way that we're trying to outsmart pests—temporarily."
+
+##删除换行1:<u>| |</u>U.S. Landscape Logistics Make It Unlikely That Herbicide-Tolerant Or Bt Crops Will Spread Their Biotech Genes.
+It May Be Harder To Avoid Creating Superweeds Elsewhere.
+
+【3】To keep weeds vulnerable to herbicides, Monsanto and other companies urge growers to use the sprays responsibly, only when necessary. To slow insect resistance to the Bt toxin, the EPA requires Bt crop growers to set aside some part of their farmland for crops that have not been genetically modified.
+These "refuges" may be a corner of a field outside a Bt crop, for instance, or rows of standard plants that break up a Bt plot.
+Inside the refuges, insects that have acquired some Bt resistance breed with those that have not, diluting the resistance trait.
+
+##删除换行1:<u>| |</u>More To Explore
+
+Transgenic Plants and World Agriculture. Royal Society of London, U.S. National删除换行1:<u>| |</u>Academy of Sciences, Brazilian Academy of Sciences, Chinese Academy of Sciences, Indian National Science Academy, Mexican Academy of Sciences,删除换行1:<u>| |</u>Third World Academy of Sciences. National Academy Press, July 2000. The Ecological Risks and Benefits of Genetically Engineered Plants.
+
+L. L. Wolfenbarger and P. R. Phifer in Science , Vol.删除26_2:<u></u> pages 删除2:<u>2088–2093</u>删除换行1:<u>| |</u>December 删除2:<u>15, 2000</u>
+
+Genetically Modified Pest-Protected Plants: Science and Regulation.
+National Research Council. National Academy Press, 2000. Transgenic Crops in Natural Habitats. M. J. Crawley and R. S. Chails et al. in Nature , Vol.删除26_2:<u></u> pages 删除2:<u>682–683</u> February 8, 2001. Royal Society of Canada Expert Panel Report on the Future of Food删除换行1:<u>| |</u>Biotechnology. February 5, 2001.删除10:<u> Available at www.rsc.ca</u>
+
+【8】删除10:<u>Information generally favorable to agricultural biotechnology, and extensive links, can be found at the Agbioworld Web site at www.agbioworld.org/</u>
+删除10:<u>Information generally skeptical of agricultural biotechnology, and extensive links, can be found at the Union of Concerned Scientists Web site at www.ucsusa.org/food/Obiotechnology.html</u>
+
+After five years of commercial Bt crop use, no reports of insect resistance to the crops have emerged, according to Monsanto.
+The company contends that roughly 90 percent of Bt corn and cotton growers comply with refuge requirements.
+But some environmentalists question that rosy scenario and also argue that non-Bt refuges are either too small or too poorly designed to keep insect resistance at bay for long. "At the EPA meeting last fall, scientists seemed to agree that bigger, better refuges were the way to go but that cotton farmers would never agree to big refuges," says Rebecca Goldburg, a senior scientist at Environmental Defense, a nonprofit organization based in New York City. More broadly, Goldburg questions how much删除换行1:<u>| |</u>GM crops really do for the environment. "In however many years," she says, "we'll lose Bt as an effective control against insects, and then we'll be on to another chemical control. Many of us view this current generation of biotech crops as a kind of diversion, rather than a substantive gain for agriculture." She favors sustainable agriculture alternatives, including careful crop rotation and organic farming methods, over pesticides sprayed on or engineered into plants.
+
+【10】Virus-resistant GM crops have escaped widespread public concern, but they, too, pose some of the same risks as other GM crops. Some scientists worry that viruses will pick up resistance traits from virus-fighting GM crops and evolve into hard-tobeat strains that infect a newly expanded repertoire of plants.
+Some critics also question the ecological safety of emerging crops designed to resist drought, tolerate salt or deliver an extra nutritional punch. For example, Margaret Mellon of the Union of Concerned Scientists notes that salt-tolerant rice could potentially behave like a disruptive weed if it found its way into vulnerable wetlands.
+
+"I don't think it's fair to say that every single GM crop is going to be a problem," Rissler remarks. "But we need to devote the research to risks now, rather than deal with repercussions later."
+Still, some farmers are confident that GM technology can revolutionize agriculture for the better. For 30 years, Ryland删除换行1:<u>| |</u>Utlaut of Grand Pass, Mo., has been sowing and reaping 3,500 acres along the Missouri River. Last year, for the first time, he planted only herbicide-tolerant corn and soybeans across his entire, soil-friendly, no-till farm. As a result, he claims, he sprayed the crops half as often as he did before and got bigger yields. "If even the strongest environmentalist could see my farming practices now, I think they'd understand the benefits," Utlaut says. "I'm a fervent believer in this technology." Now he has to wait and see whether science confirms that belief. a
+
+【12】Kathryn Brown is a science writer based in Alexandria , Va.黄艳玲
+
+====================================================================================================
+
+oss://inf-beta/datasets/medical_books_v1130/(2001-04) Whose Blood Is It, Anyway (Scientific American) (Z-Library).pdf
+文本干净度#无关文本#10#10# that belief. a句末的a
+文本干净度#无关文本#12#12#Kathryn Brown is a science writer based in Alexandria , Va.
+语义有效性#栏目混乱#0#0#U.S. Landscape Logistics .......小标题穿插导致内容分割
+信息丰富性#有用性#3#3#More To Explore.....February 5, 2001.拓展内容

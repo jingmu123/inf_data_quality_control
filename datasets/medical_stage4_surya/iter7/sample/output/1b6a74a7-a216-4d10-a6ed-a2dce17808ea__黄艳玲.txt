@@ -1,0 +1,32 @@
+页码:71
+##删除换行1:<u>| |</u>Table 14 Severe Persistent Asthma
+
+##删除换行1:<u>| |</u>Symptoms
+
+【2】•Continual symptoms
+•Frequent nighttime symptoms
+•Limited physical activity
+
+【3】•Frequent exacerbations
+
+##删除换行1:<u>| |</u>Lung Function Tests
+
+【5】•Peak flow (PEF) measurement ≤ 60% of predicted
+•Forced expiratory volume (FEV 1 ) ≤ 60% predicted
+•Peak flow (PEF) variablility > 30%
+
+##删除换行1:<u>| |</u>Treatment ("Step 4")
+
+【7】•All patients with asthma should be prescribed inhaled "quick-relief" bronchodilator therapy to be used on an as-needed basis. A shortacting inhaled β 2 agonist is the recommended "quick-relief" agent.
+
+【8】•Up to three types of daily medication are required. Inhaled highdose corticosteroid preparations are mandatory. They are best combined with inhaled long-acting β 2 agonists. Corticosteroid tablets or syrup in the smallest dose required may also part of the daily maintenance regimen. Additional medications are discussed in the text.
+
+【9】•"Rescue" steroid medication may be prescribed, along with steppedup therapy during exacerbations.
+
+【10】•Adults as well as children with severe persistent asthma should be under the care of a physician who is an asthma specialist. instead be placed on a short-acting β 2 agonist medication taken by mouth (orally) in liquid or syrup form as an alternative, especially if inhalation of medication is unfeasible. It is important to remember that a need for increasing use of such quick-relief medicine reflects increasing asthma activity.
+
+【11】All patients with severe persistent asthma should be under the care of a physician specializing in asthma care. Step 4 treatment includes the several-times-daily use of high-dose, inhaled corticosteroids combined with a long-acting, inhaled β 2 agonist. In addition, oral corticosteroid tablets may be required daily, or黄艳玲
+
+====================================================================================================
+
+oss://inf-beta/datasets/medical_books_v1130/100 Questions and Answers About Asthma (Claudia S. Plotte) (Z-Library).pdf

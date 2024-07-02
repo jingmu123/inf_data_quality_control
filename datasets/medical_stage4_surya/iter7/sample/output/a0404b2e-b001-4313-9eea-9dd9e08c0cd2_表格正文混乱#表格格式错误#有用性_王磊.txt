@@ -1,0 +1,33 @@
+页码:28
+| Writing Group |  |  | Research | Bureau/ | Ownership | Consultant/ |
+|--------|--------|--------|--------|--------|--------|--------|
+| Member | Employment | Research Grant | Support | Honoraria |  | Interest Advisory Board Other |
+| Robert W. Hickey\nIan Jacobs | University of Pittsburgh–MD\nUniv of Western Australia;\nEmergency Med. Teaching and\nResearch-Professor;\nAHA-Evidence Eval. Expert | 删除0:<u>†</u>NIH sponsored research on the effect of\ncyclopentenone prostaglandins upon\npost-ischemic brain\na) National Health and Medical Research\nCouncil\nb) The Department of Health-Western\nAustralia\nc) The National Heart Foundation of\nAustralia\nFunds to the Discipline of Emergency\nMedicine-University of Western Australia\nfrom the Ambulance Service-Western\nAustralia and Laerdal (Australia) to\nmaintain the Cardiac Arrest Registry for\nWestern Australia. Our role is to\nindependently maintain, analyze and\nreport outcomes of cardiac arrest in\nWestern Australia. I oversee the\noperation of the registry and reporting of\noutcomes. These funds are not used to\nprovide any direct or indirect salary or\nother financial support | None\nNone | None\nNone |  | None None None\nNone None None |
+| Vinay M. Nadkarni | University of Pennsylvania,\nChildren’s Hospital of\nPhiladelphia-Attending Physician,\nAnesthesia, Critical Care and\nPediatrics | None | None | None |  | None None None |
+| Peter T. Morley | University of Melbourne-Director\nof Medical Education;\nRoyal Melbourne Hospital;\nHospital Intensivist\nAHA Not for profit Evidence\nEvaluation Expert | None | None | None |  | None None None |
+| Tanya I. Semenko | American Heart\nAssociation—Science\nPublications Manager | None | None | None |  | None None None |
+| Mary Fran Hazinski\nof the entity, or owns $10 000 or more of\npreceding definition. | Vanderbilt University School of\nNursing—Professor; American\nHeart Association–Senior Science\nEditor\n删除0:<u>†</u>Significant AHA compensation\nfor my editing\nresponsibilities-writing and\nediting of the 2010 AHA\nGuidelines for CPR and ECC\nTable represents the relationships of writing group members that may be perceived as actual or\nDisclosure Questionnaire, which all members of the writing group are required to complete and submit. A relationship is considered to be “significant” if (a) the person\nreceives $10 000 or more during any 12-month period, or 5% or more of\nthe fair market value of | None\nthe person’s gross income; or (b) | None\nreasonably perceived conflicts of\nthe entity. A relationship is considered to be “modest” if | None\nthe person owns 5% or more of | \nit | None None None\ninterest as reporte d on the\nthe voting stock or share\nis less than “significant” under the |
+
+【1】Guidelines Part 2: Evidence Evaluation Process and Management of COI: Writing Group Disclosures, Continued
+
+【2】*Modest.
+
+【3】删除0:<u>†</u>Significant.
+
+| References | \nInternational Consensus Conference on Cardiopulmonary Resuscitation |
+|--------|--------|
+| 1. Sackett DL, Rosenberg WM, Gray JA, Haynes RB, Richardson WS. | \nand Emergency Cardiovascular Care Science With Treatment Recom- |
+| Evidence based medicine: what it is and what it isn’t. BMJ.删除26_2:<u></u>;312: | \nmendations. Circulation.删除26_2:<u></u>;112(suppl):III-128 –III-130. |
+| 删除2:<u>71–72</u> | \n4. Morley PT, Atkins DL, Billi JE, Bossaert L, Callaway CW, de Caen AR, |
+| 2. Cummins RO, Chamberlain D, Montgomery WH, Kloeck WGJ, Nadkarni |  |
+| VM. International collaboration in resuscitation medicine. Circulation.删除26_2:<u></u>; | Deakin CD, Eigel B, Hazinski MF, Hickey RW, Jacobs I, Kleinman ME, |
+| 112(suppl):III-126–III-127. | Koster RW, Mancini ME, Montgomery WH, Morrison LJ, Nadkarni VM, |
+
+【5】删除10:<u>Downloaded from http://circ.ahajournals.org/ by guest on September 4, 2011</u>王磊
+
+====================================================================================================
+
+oss://inf-beta/datasets/medical_books_v1130/2010 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care Science (Mary Fran Hazinski, John M. Field) (Z-Library).pdf
+格式规范性#表格格式错误#0#1#表格格式有问题，表格标题放在了下面
+语义有效性#表格正文混乱#0#0#表格描述放在了表格里
+信息丰富性#有用性#3#3#参考文献内容

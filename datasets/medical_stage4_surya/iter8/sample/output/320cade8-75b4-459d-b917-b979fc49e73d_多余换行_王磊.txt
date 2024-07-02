@@ -1,0 +1,22 @@
+【0】页码:25
+Table 4.
+
+【1】AHA Levels of Evidence  "Data available from clinical trials or registries about the usefulness/efficacy in different subpopulations, such as gender, age, history of diabetes, history of prior myocardial infarction, history of heart failure, and prior aspirin use. A recommendation with Level of Evidence B or C does not imply that the recommendation is weak.
+Many important clinical questions addressed in the guidelines do not lend themselves to clinical trials. Even though randomized trials are not available, there may be a very clear clinical consensus that a particular test or therapy is useful or effective.
+
+【2】In 2003, the ACCF/AHA Task Force on Practice Guidelines developed a list of suggested phrases to use when writing recommendations. All guideline recommendations have been written in full sentences that express a complete thought, such that a recommendation, even if separated and presented apart from the rest of the document (including headings above sets of recommendations), would still convey the full intent of the recommendation. It is hoped that this will increase readers' comprehension of the guidelines and will allow queries at the individual recommendation level. agreed on common treatment recommendations, those recommendations were included with the Consensus on Science statements.
+
+【3】##Development Of The Aha Guidelines
+
+【4】##Aha Writing Groups
+
+【5】In 2009 the chairs and writing group members for each chapter of the  AHA Guidelines for CPR and ECC were nominated and required to complete an AHA conflict of interest disclosure that was reviewed by AHA staff and the AHA officers. Writing group chairs and most of the writing group members were required to be free of relevant conflicts of interest.
+After the  Consensus Conference, seventeen AHA writing groups developed the  AHA Guidelines for CPR and ECC based on the ILCOR Consensus on Science state- ments, citations, and treatment recommendations. In essence, the 2010 ILCOR International Consensus on CPR and ECC
+Science With Treatment Recommendations summarizes what is known in each subject area. The ILCOR Treatment Recommendations present the evidence-supported treatment approach for each problem. The  AHA Guidelines for CPR and ECC expand on the details of how and when to provide treatment, and they address the training requirements for treatment providers. Other resuscitation councils around the world performed a similar process to develop their versions of the  guidelines.
+In developing these guidelines, the writing groups used a recommendation system consistent with that used by the American College of Cardiology Foundation/American Heart Association (ACCF/AHA) collaboration on evidence-based guidelines .These classes represent the inte-王磊
+
+====================================================================================================
+
+oss://inf-beta/datasets/medical_books_v1130/2010 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care Science (Mary Fran Hazinski, John M. Field) (Z-Library).pdf
+格式规范性#多余换行#1#1# AHA Levels of Evidence
+格式规范性#多余换行#5#5#Science With Treatment ……

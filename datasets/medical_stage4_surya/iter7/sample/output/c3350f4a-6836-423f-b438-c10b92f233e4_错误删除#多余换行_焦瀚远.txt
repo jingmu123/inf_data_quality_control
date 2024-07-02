@@ -1,0 +1,12 @@
+页码:129
+##删除换行1:<u>| |</u>Incisal Brace Bonding
+
+【1】In cases of deep bite due to anterior segment extrusion, we can "play around" with the bonding of the braces. This consists in bonding the anterior braces 0.5 mm to 1mm toward the incisal edge (central incisor at 3 mm or 3.5 mm
+
+【2】删除图片4:<u>Fig.删除26_2:<u></u> Nine months later. and the lateral incisor at 2.5 mm or 3 mm) and the poste删除16:<u>¬ </u>rior braces gingivally; this will provoke an intrusion of the anterior segment and extrusion of the posterior segment, with the sub sequential opening of the bite.删除26_2:<u></u> 1</u>焦瀚远
+
+====================================================================================================
+
+oss://inf-beta/datasets/medical_books_v1130/1001 tips for orthodontics and its secrets (Esequiel E. Rodriguez Yanez  Coauthors etc.) (Z-Library).pdf
+格式规范性#多余换行#1#2#为同段内容
+语义有效性#错误删除#0#0#and the lateral incisor at 2.5 mm or 3 mm) and the poste删除16:¬ rior braces gingivally; this will provoke an intrusion of the anterior segment and extrusion of the posterior segment, with the sub sequential opening of the bite.  误删

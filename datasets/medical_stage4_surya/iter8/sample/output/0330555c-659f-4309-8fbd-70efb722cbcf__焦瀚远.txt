@@ -1,0 +1,25 @@
+【0】页码:227
+1, for example, you would count all persons on that date who were ever told by a medical professional that they had a diagnosis of asthma.
+
+【1】Puberty: The time at which sexual maturation begins is the start of puberty. Also refers to the time when reproductive organs develop to allow reproduction.
+
+【2】Pulmonary Function Tests (PFTs):
+Include the measurement of lung volumes, spirometry, diffusion, and sometimes ABGs.
+
+【3】Pulmonary embolus: A clot, usually originating in the leg veins that becomes lodged in the lung circulation. The diagnosis of pulmonary embolus can be very difficult. Pulmonary embolus leads to a variety of symptoms which can include breathlessness and wheezing. A large or massive pulmonary embolus can be a cause of sudden death.
+
+【4】Pulmonary symptomatology:  Symptoms experienced by an individual and related to the lungs and to the act of breathing. Wheezing, cough, breathlessness, mucus production are examples of pulmonary symptomatology.
+
+【5】Pulmonologist: A physician specialist with extra training and qualifications in the diagnosis and treatment of the different lung diseases. Some pulmonologists are pediatric specialists, as well; such specialists are known as "pediatric pulmonologists," Pediatric pulmonologists treat babies, children, and adolescents with lung diseases.
+The other "type" of pulmonologist is an internist, who limits their practice to adults with respiratory conditions.
+
+【6】RAST: RAST is a laboratory allergy test that detects and measures the level of IgE antibodies directed against specific antigens in a blood sample. Measuring blood RAST is one way of assessing the possible presence of an allergy. If a person is suspected of being allergic to grass, for example, their doctor might send a blood sample for RAST testing.
+The doctor would request a test that would detect significant levels of IgE directed against grasses. The absence of any detectable IgE to grasses would argue against a grass allergy. RAST is an abbreviation for "RadioAllergoSorbentTest," a trademark of Pharmacia Diagnostics that originated and developed the first RAST test.
+RDA: Refer to the Recommended Dietary Allowance, guidelines established by the United States National Academy of Sciences' National Research Council. The RDAs advise what nutrients males and females should eat at different ages. In 1997,
+The National Academy of Science'
+Institute of Medicine report introduced the concept of Dietary Reference Intakes (DRI) which have supplanted the RDAs.
+Remission: When used in a medical context, a remission refers to the subsiding of disease symptoms. A person with asthma who enters a period in which they experience no asthma symptoms has entered a period of asthma remission. The disease is still焦瀚远
+
+====================================================================================================
+
+oss://inf-beta/datasets/medical_books_v1130/100 Questions and Answers About Asthma (Claudia S. Plotte) (Z-Library).pdf

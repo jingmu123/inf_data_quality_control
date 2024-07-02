@@ -1,0 +1,21 @@
+【0】页码:84
+#Uzzlingadventure
+
+【1】##The Delphi Flip By Dennis E. Shasha
+
+【2】Predicting the future accurately is most useful in betting games—the stock market comes to mind. Unfortunately, perfect oracles are hard to come by (the stock market comes to mind, again). This puzzle considers how to take advantage of the flaky oracles one is likely to find.
+You have $100 to start with and  bets to make. Each bet turns on the result of a coin flip. The oracle will tell you which way the coin will fall but may lie on just one occasion and may do so after seeing your bet for that flip. You can find a counterparty who will give you even odds on any bet you make, so placing an x -dollar bet means he will return  x dollars to you if the oracle tells the truth about that flip and will pocket your bet if the oracle lies. How do you end up with the greatest possible final amount, no matter when the oracle chooses to lie?
+Here is a second problem: suppose you have to decide the amount of all your bets in advance without knowing when the oracle will lie. What should your bets be in that case, and what final amount can you be sure to get no matter when (and if) the oracle chooses to lie?
+Just one more thing: you lose everything if you plan to make a bet on a particular move but end up having too little money at that time.
+Warm-up for the first problem: Suppose there are three flips and at most one lie. You have $100. How much should you bet the first time? Given the outcome, how much should you bet the second and third times? The figure shows some good alternatives.
+E Answer to Last Month's Puzzle For a circle with a radius of 10 centimeters or more, any pattern of red and blue must satisfy the 10-centimeter bicoloration condition
+
+【3】If Q is red, then the line segment B-Q is 10 centimeters long and bicolored. If Q is blue, then the segment R-Q is 10 centimeters long and bicolored.
+Either way the pattern satisfies the 10-centimeter rule.王磊
+
+====================================================================================================
+
+oss://inf-beta/datasets/medical_books_v1130/(2001-08) Cyber Cells (Scientific American) (Z-Library).pdf
+文本干净度#无关文本#0#0# Uzzlingadventure
+信息丰富性#有用性#2#2# E Answer to Last Month’s Puzzle For a circle……10-centimeter bicoloration condition  侧面拓展内容
+信息丰富性#有用性#3#3#侧面拓展内容

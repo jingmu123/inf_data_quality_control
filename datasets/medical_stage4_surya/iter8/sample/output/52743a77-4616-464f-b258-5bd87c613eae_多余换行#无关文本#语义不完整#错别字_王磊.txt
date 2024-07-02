@@ -1,0 +1,29 @@
+【0】页码:15
+The 1980s witnessed the popularity of "war dialing"—the hackerterm for the mass dialing of phone numbers in search of modems to co-opt. Now war dialing may have given way to "war driving," Securify Labs director Mark Seiden's term for driving around scanning for open wireless networks. Some of the tales may be apocryphal, but it's possible: hackers have reported finding dozens of open b access points along several blocks near San Francisco's Moscone Center.
+
+【1】INTERNET
+#Wireless Wonder
+
+【2】##A Dark-Horse Standard Could Win The Broadband Race    By Wendy M. Grossman
+
+【3】ONDON —For the past couple of years, everyone has assumed that the next big technological thing would be wireless data services. WAP, the wireless application protocol put together by a huge group of companies, permits Web surfing over mobile phones. It's going to really come into its own, the firms insist, when third-generation, highspeed mobile telephony rolls out, perhaps as soon as year's end. Simultaneously,
+Bluetooth, a standard developed by a different huge set of companies, is expected to enable all kinds of personal networking—for instance, writing with a pen that can later transmit the data to your PC.
+Yet neither WAP nor Bluetooth has taken over the world; in fact, there's a chance that neither will, considering the rise of a dark-horse challenger: the cryptically named b. The standard, developed by the Institute of Electrical and Electronic Engineers (IEEE), was embraced first by Apple Computer in 1999, in the form of its AirPort base station. The "b" indicates that this second version of , originally ratified in 1997, is faster than the first: b transmits data at up to 11 megabits per second. It is, in other words, wireless broadband, and it operates in a part of the spectrum (roughly, near microwaves) that, unlike thirdgeneration, or G, mobile telephony, requires no license.
+Many compatible products are available.
+Set up one of those flying-saucer-like AirPort devices and a card in your desktop or laptop, and you have a local-area network without all those wires. Stick the saucer in your window, and you can go work in a nearby café. This year's Computers, Freedom and Privacy conference placed an b access point in its Internet room. "What I love about it," says Dan O'Brien, editor of the U.K.'s satirical ezine Need to Know (Now) , "is that it makes the Net into what it should be: something that's all around you all the time, and you can just tap into it."
+Such enthusiasm is making b one of the fastest-growing wireless standards. Local scuttlebutt has it that the entire Massachusetts Institute of Technology campus will be outfitted with b within the next year. The commercial service MobileStar is setting up wireless Internet access nodes in airports and hotel chains. For $2.95 for the first 15 minutes and $0.20 a minute thereafter, you can sit in the American Airlines terminal at JFK and browse the Net at broadband speeds on your laptop. Now. Today. No squinting at mobilephone screens. The securities brokerage company Nomura stated in March that it views b as a serious threat to 3G mobile telephony's hopes to make serious money out of wireless data services.
+The London-based hacker group Consume.net is trying to line up enough publicspirited folks to paint the town wireless. So far it's in just a few spots, but the dream is that if everyone sticks a base station in the window, anyone will be able to access the Net from anywhere in town. Moreover, b enables machines to communicate directly. "It puts control into the hands of the public," observes James Stevens, one of the group's leaders. "It's not just about wireless. It's the broader idea that you can share what you've got."
+If, he says, you're sending local e-mail, why not do it locally? On the Internet, e-mail for your next-door neighbor might go via Auckland and Singapore.
+It's hard to tell how far b and its successors (with different letters and higher speeds, such as g) can go. Critics argue that such systems can't hand off connections the way mobile networks transfer calls. But that feature is pointless to many Web surfers: unlike talking, clicking on links and scrolling are hard to do while you're walking. Bluetooth may be a lot cheaper—manufacturers expect to embed the technology on a chip costing less than $5—but at  kilobits per second, it moves data comparatively slowly.
+What b has is momentum that these other standards can only dream of. Given a ubiquitous broadband wireless connection, anything, from voice calls to large chunks of data, can be transmitted. At the moment, b is still a geek thing, requiring fiddling, configuring and tolerance for imperfections.
+But in 1990, so was the Internet.
+
+【4】Wendy M. Grossman writes about information technology from London.王磊
+
+====================================================================================================
+
+oss://inf-beta/datasets/medical_books_v1130/(2001-08) Cyber Cells (Scientific American) (Z-Library).pdf
+语法规范性#错别字#3#3# ONDON  应该是  LONDON
+格式规范性#多余换行#3#3#Bluetooth, a standard developed……
+文本干净度#无关文本#1#1# INTERNET
+语义有效性#语义不完整#3#3#  b  应该是   802.11b 

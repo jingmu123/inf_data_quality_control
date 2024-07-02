@@ -1,0 +1,32 @@
+页码:264
+| Adenosine | 0.1 mg/kg (maximum 6 mg)\nSecond dose: 0.2 mg/kg (maximum 12 mg) | Monitor ECG\nRapid IV/IO bolus with flush |
+|--------|--------|--------|
+| Amiodarone | 5 mg/kg IV/IO; may repeat twice up to 15 mg/kg\nMaximum single dose 300 mg | Monitor ECG and blood pressure; adjust administration rate to urgency\n(IV push during cardiac arrest, more slowly–over  minutes with\nperfusing rhythm). Expert consultation strongly recommended prior to\nuse when patient has a perfusing rhythm\nUse caution when administering with other drugs that prolong QT\n(obtain expert consultation) |
+| Atropine |  mg/kg IV/IO\n0.04–0.06 mg/kg ET*\nRepeat once if needed\nMinimum dose:  mg\nMaximum single dose:\n mg | Higher doses may be used with organophosphate poisoning |
+| Calcium Chloride\n(10%) | 20 mg/kg IV/IO ( mL/kg)\nMaximum single dose 2 g | Administer slowly |
+| Epinephrine | 0.01 mg/kg (0.1 mL/kg 1:) IV/IO\n0.1 mg/kg (0.1 mL/kg 1:) ET*\nMaximum dose 1 mg IV/IO; 2.5 mg ET | May repeat every 3–5 minutes |
+| Glucose |  g/kg IV/IO | Newborn:  mL/kg D10W\nInfants and Children: 2–4 mL/kg D25W\nAdolescents: 1–2 mL/kg DW |
+| Lidocaine | Bolus: 1 mg/kg IV/IO\nInfusion:  mcg/kg/minute |  |
+| Magnesium Sulfate |  mg/kg IV/IO over 10–20 minutes, faster in\ntorsades de pointes\nMaximum dose 2 g |  |
+| Naloxone | Full Reversal:\n(cid:)5 y or(cid:)20 kg: 0.1 mg/kg IV/IO/ET*\n(cid:)y or (cid:)20 kg: 2 mg IV/IO/ET* | Use lower doses to reverse respiratory depression associated with\ntherapeutic opioid use ( mcg/kg titrate to effect) |
+| Procainamide | 15 mg/kg IV/IO\nAdult Dose: 20 mg/min IV infusion to total maximum\ndose of 17 mg/kg | Monitor ECG and blood pressure;\nGive slowly–over 30–60 minutes. Use caution when administering\nwith other drugs that prolong QT (obtain expert consultation) |
+| Sodium\nbicarbonate | 1 mEq/kg per dose IV/IO slowly | After adequate ventilation |
+| IV indicates intravenous; | IO, intraosseous; and ET, via endotracheal tube. |  |
+| *Flush with 5 mL of normal saline and follow with  ventilations. |  |  |
+
+【1】##Medications For Pediatric Resuscitation
+
+【2】drug delivery, while three studies of adults in cardiac arrestdemonstrated reduced ROSC and survival to hospital discharge with tracheal administration of epinephrine compared to vascular delivery. If CPR is in progress, stop chest compressions briefly, administer the medications, and follow with a flush of at least 5 mL of normal saline and 5 consecutive positive-pressure ventilations.Optimal endotracheal doses of medications are unknown; in general expert consensus recommends doubling or tripling the dose of lidocaine, atropine or naloxone given via the ETT. For epinephrine, a dose ten times the intravenous dose (0.1 mg/kg or 0.1 mL/kg of 1: concentration) is recommended .
+The effectiveness of endotracheal epinephrine during cardiac arrest is controversial. Some studies showed it to be as effective as vascular administrationwhile other studies have not found it to be as effective.Animal studiessuggested that a higher dose of epinephrine is required for endotracheal than for intravascular administration because the lower epinephrine concentrations achieved when the drug is delivered by the endotracheal route may produce predominant transient peripheral β  -adrenergic vasodilating effects. These effects can be detrimental, and cause hypotension, lower coronary artery perfusion pressure and flow, and a reduced potential for ROSC.
+Non-lipid-soluble drugs (eg, sodium bicarbonate and calcium) may injure the airway; they should not be administered via the endotracheal route.
+
+【3】##Emergency Fluids And Medications
+
+【4】##Estimating Weight
+
+【5】In the out-of-hospital setting, a child's weight is often unknown, and even experienced personnel may not be able to estimate it accurately.Tapes with precalculated doses printed at various patient lengths have been clinically validated  and are more accurate than age-based or observer (parent or provider) estimate-based methods in the prediction of body weight.  Body habitus may also be an important consideration.焦瀚远
+
+====================================================================================================
+
+oss://inf-beta/datasets/medical_books_v1130/2010 American Heart Association Guidelines for Cardiopulmonary Resuscitation and Emergency Cardiovascular Care Science (Mary Fran Hazinski, John M. Field) (Z-Library).pdf
+语义有效性#表格正文混乱#0#0#Flush with 5 mL of normal saline and follow with ventilations.
