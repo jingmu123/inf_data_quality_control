@@ -56,8 +56,8 @@ def get_label_info(result_info):
 # 读取并处理JSON文件
 final_result = {}
 error_list = {}
-base_dir = "../datasets/medicalpdf/iter2/sample"
-file_path = "{}/{}.jsonl".format(base_dir,"reclean2_medicalpdf_en")
+base_dir = "../datasets/medicalpdf/iter5/sample"
+file_path = "{}/{}.jsonl".format(base_dir,"reclean5_medicalpdf_en")
 save_dir = "{}/output".format(base_dir)
 if not os.path.exists(save_dir):
     os.makedirs(save_dir)
