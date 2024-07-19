@@ -5,8 +5,8 @@ import numpy as np
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 class SentenceCorrector:
     def __init__(self):
-        self.tokenizer = BertTokenizer.from_pretrained("/Users/mirli/worker/code/code_work/model/macbert/")
-        self.model = BertForMaskedLM.from_pretrained("/Users/mirli/worker/code/code_work/model/macbert/")
+        self.tokenizer = BertTokenizer.from_pretrained("C:/Program Files/lk/macbert/")
+        self.model = BertForMaskedLM.from_pretrained("C:/Program Files/lk/macbert/")
         self.model.to(device)
         self.special_token = ["¶", ",", ".", "-", "|"]
 #(Ⅰ|Ⅱ|Ⅲ

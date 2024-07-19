@@ -66,7 +66,7 @@ def process_file_parallel(input_file, output_file, total_lines, lines_per_proces
 if __name__ == '__main__':
     file = "medicalpdf"
     total_lines = 677
-    cpu_num = 8
+    cpu_num = 5
     lines_per_process = 150
 
     base_dir = "../../../../full_data/{}".format(file)
