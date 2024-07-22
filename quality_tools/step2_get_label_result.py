@@ -57,8 +57,8 @@ def get_label_info(result_info):
 final_result = {}
 error_list = {}
 # <<<<<<< HEAD
-base_dir = "../datasets/medical_stage4_surya/iter8/sample"
-file_path = "{}/{}.jsonl".format(base_dir,"reclean8_stage4_surya")
+base_dir = "../datasets/medicalpdf/iter2/sample"
+file_path = "{}/{}.jsonl".format(base_dir,"reclean2_medicalpdf_zh")
 # =======
 base_dir = "../datasets/medicalpdf/iter2/sample"
 file_path = "{}/{}.jsonl".format(base_dir,"reclean2_medicalpdf_zh")

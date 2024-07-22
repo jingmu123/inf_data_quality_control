@@ -346,6 +346,7 @@ class speicalProces:
 
     def step6_rm_short_context(self, context):
         context_list = context.split("\n\n")
+
         context_lens = [len(item) for item in context_list]
         if context.count("|") >= 3:
             return context
@@ -403,6 +404,7 @@ def clean_text(context, lang, sp):
         item = sp.step5_rm_english_noise(item)
         item = sp.step3_rm_noise_dig_alpha(item)
         item = sp.rm_lid_piece(item)
+
         item = sp.step2_rm_kongge(item)
         # item = sp.step1_correct_error_token(item)
         item = sp.step7_rm_digital(item)

@@ -16,7 +16,7 @@ def sample_data(file, lang_tag, save_file, append_title=False, need_special_spli
         os.makedirs(new_dir)
     # fw = open(f"{new_dir}/{save_file}",'w',encoding='utf-8')
     con = []
-    with open(f"{base_dir}/{file}.jsonl", "r", encoding="utf-8") as fs:
+    with open(file, "r", encoding="utf-8") as fs:
         for line in fs.readlines():
             try:
                 item = json.loads(line)
@@ -77,24 +77,24 @@ def sample_data(file, lang_tag, save_file, append_title=False, need_special_spli
 
                 con.append(line)
 
-    sample_con = random.sample(con, min(len(con), 100))
+    sample_con = random.sample(con, min(len(con), 300))
     print(len(sample_con))
-    fw_label = open(f"{new_dir}/{save_file}", 'w', encoding='utf-8')
+    fw_label = open(save_file, 'w', encoding='utf-8')
     for item in sample_con:
         fw_label.write(item)
 
 
-<<<<<<< HEAD
+# <<<<<<< HEAD
 file_name = "medical_stage4_surya"
 base_dir = f"../datasets/{file_name}/iter5/sample"
 save_dir = f"../datasets/{file_name}/iter6_2/"
 file = f"{file_name}_clean"
-=======
+# =======
 file_name = "medicalpdf"
 base_dir = f"../../full_data/{file_name}/"
 save_dir = f"../datasets/{file_name}/iter2/"
 file = f"{file_name}_clean_zh"
->>>>>>> fd84715d2d176ac72b546c6039b7eca10cebc99c
+# >>>>>>> fd84715d2d176ac72b546c6039b7eca10cebc99c
 # save_file_en = "reclean4_dingxiangyisheng_en_label.jsonl"
 save_file_zh = f"reclean2_{file_name}_zh_label.jsonl"
 split_token = "\n\n"
@@ -104,6 +104,8 @@ split_token = "\n\n"
 #   append_title=rue # 是否添加title
 
 # en/zh, 还是不区分，大家根据需要自取
-sample_data(f"{file}", "all", save_file_zh, append_title=True, need_special_split=False, need_line_num=True)
+input=r'C:\Users\Administrator\PycharmProjects\untitled\venv\medicalpdf\reclean4b.jsonl'
+save_file_zh=r'C:\Users\Administrator\PycharmProjects\untitled\venv\reclean4_medicalpdf_zh_label.jsonl'
+sample_data(input, "zh", save_file_zh, append_title=True, need_special_split=False, need_line_num=True)
 # sample_data(f"{file}","en",save_file_en,append_title=True,need_special_split=False,need_line_num=True)
 # sample_data(f"{file}","all",save_file_en,append_title=True,need_special_split=False,need_line_num=True)
