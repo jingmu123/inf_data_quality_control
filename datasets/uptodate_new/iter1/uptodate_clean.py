@@ -3,6 +3,7 @@ import os
 import re
 import random
 
+import jieba
 from langdetect import detect
 from langdetect import detect_langs
 from tqdm import tqdm
@@ -41,7 +42,7 @@ pattern_list_en = [
                     ['Yes', ''],
                     [' ?View Patient Education', ''],
                     ['\\((picture|figure|table)\\s*.*\\)', ''], #(picture1) (figure 2-1xxx)
-                    ['\\((See|see).*?\\)', ''],#(see table...)
+                    [r'[\s•\\-]{0,5}\((See|see|ESMO|ESC|ASCO)[^\(\)]*(\([^\(\)]*\)[^\(\)]*){0,}\)', ''],#(see table...)    7/25修改
                     ['\\(show table.*\\)', ''], #(show table...)
                     ['(.*)(for|For) additional information(.*)', ''],
                     ['(.*)See individual agents(.*)', ''],
@@ -52,9 +53,14 @@ pattern_list_en = [
                     ['(.*)见(.*)专题(.*)', ''],
                     ['(.*\\(第\\d+版\\))|(.*专家(共识|建议)(\\(\\d+.*版\\))?)|(.*(临时|防控)指南)(专题)?|(学会指南链接：.*)|(Society guideline links:.*)', ''], #...(第1版)、...专家共识、...指南、学会指南链接：...、Society guideline links:...
                     ['(More on this topic)|(Patient education:.*)', ''],
-                    ['●|•|❑', ''],
+                    ['(👍|▶|●|©|®|†|¶|║|§|∧|™|■|❏|□|✓|✔|❍|😃|�|∑|✦|❤️|❤)', ''],
                     ['(^\\s*(–|—))|((-|–|—)\\s*$)', ''], #-patient、doctor-
                     ['\\((\\[?)\\s*#?((\\d+-\\s*\\d+-\\s*\\d+)|(\\d+-\\s*\\d+)|(\\d+(,|，)\\s*\\d+.*)|(\\d+))(\\]?).*?\\)', ''], #1.(23-1-32...) (12,dadada) ([12.医疗数据])
+
+                    [r'\\\[[\d\s\-,—\\]{0,20}\]',''],
+                    [r'\([^\(\)]{1,50}([fF]igure|NCT|Grade|[pP]icture|FIGURE|PICTURE)[^\(\)]{1,50}\)',''],
+                    [r'\(\s+Ref\s+\)',''],
+                    [r'\([^\)\(]{1,50}\d{4};[^\)\(]{1,200}\)','']
                      ]
 
 
@@ -86,16 +92,17 @@ class speicalProces:
 
     def step3_reference(self, context):
         new_context = []
-        references_started = False
+        references_started = False   #定义一个删除reference的开关  只要出现固定格式的表述就对后面的内容进行删除
         introduce = 0
         introduce_index = []
         for index, item in enumerate(context):
-            if re.search(r'^(References|参考文献|见参考文献|致谢)', item.strip()):
+            if re.search(r'^(References|参考文献|见参考文献|致谢|REFERENCES|ACKNOWLEDGMENT)', item.strip()):
                 references_started = True
+            # 要删除从Author到引言 设定了两个条件在循环时同时出现Author和引言，记下index，对相应的index进行删除
             if re.search(r'^Author', item.strip()):
                 introduce += 1
                 introduce_index.append(index)
-            if re.search(r'^引言', item.strip()):
+            if re.search(r'^引言', item.strip()) or re.search(r'^INTRODUCTION', item.strip()):
                 introduce -= 1
                 introduce_index.append(index)
             if references_started:
@@ -108,7 +115,23 @@ class speicalProces:
             new_context = new_context[:start_index] + new_context[end_index:]
 
         return new_context
+    def step4_rm_kongge(self, context):
+        context = context.lstrip().rstrip()
+        content = context.split(" ")
+        first_content = content[0]
+        last_content = " ".join(content[1:])
+        final_content = re.sub(r'([\u4e00-\u9fa5]) {1,3}([\u4e00-\u9fa5])', r'\1\2', last_content)
+        # 多执行一次，弥补正则边界重叠问题；
+        final_content = re.sub(r'([\u4e00-\u9fa5]) {1,3}([\u4e00-\u9fa5])', r'\1\2', final_content)
+        if len(final_content) == 0:
+            return first_content
 
+        merge_piece = first_content + final_content.lstrip()[0]
+
+        split_word = list(jieba.cut(merge_piece, cut_all=False))
+        if len(split_word[-1]) > 1:
+            return first_content + final_content
+        return first_content + " " + final_content
 
 def clean_text(context, lang):
     split_token = "\n\n"
@@ -131,6 +154,7 @@ def clean_text(context, lang):
     context = context.split(split_token)
     # 7/24uptodata_new修改
     context = sp.step3_reference(context)
+    # context = sp.step4_rm_kongge(context)
     for item in context:
         # 1.正则
         for pattern_item in pattern_list:
@@ -164,7 +188,7 @@ def post_process(context):
 
 
 #读jsonl
-fw = open(r"C:\pycharm\orc识别pdf清洗数据\pdf\clean_json\reclean1_uptodate_new_preformat_zh.jsonl", "w", encoding="utf-8")
+fw = open(r"C:\pycharm\orc识别pdf清洗数据\pdf\clean_json\reclean1_uptodate_new_preformat_en.jsonl", "w", encoding="utf-8")
 with open(r"C:\pycharm\orc识别pdf清洗数据\pdf\clean_json\original_data\uptodate_new_preformat.jsonl", "r", encoding="utf-8") as fs:
     lines = fs.readlines()
 
@@ -172,16 +196,16 @@ with open(r"C:\pycharm\orc识别pdf清洗数据\pdf\clean_json\original_data\upt
     sampled_lines = random.sample(lines, 2000)
     for items in tqdm(sampled_lines):
         item = json.loads(items.strip())
-        # if item["seq_id"] == "25f80778-caad-408e-8bb8-6c6b2f7d8de7":
+        # if item["seq_id"] == "2637c4de-0a45-49e7-897f-8bc5325670b9":
         context = item["text"]
         lang = item["lang"]
-        if lang == "zh":
+        if lang == "en":
             context = clean_text(context, lang)
             context = post_process(context)
             # print(context)
             item["text"] = context
             item = json.dumps(item, ensure_ascii=False)
-            # print(item)
+            print(item)
             fw.write(item + "\n")
 
 
