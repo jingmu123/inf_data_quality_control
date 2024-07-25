@@ -1,6 +1,8 @@
 import json
 import os
 import re
+import random
+
 from langdetect import detect
 from langdetect import detect_langs
 from tqdm import tqdm
@@ -30,7 +32,7 @@ pattern_list_zh = [
                     ['(，|。)。','。'],
                     # 7/24uptodata_new修改
                     [r'\\\[[\d\s\-,—\\]{0,20}\]',''],
-                    [r'\([(流程图|figure|NCT|Grade|视频|计算器|波形|表|表格|图|图片|图表)\s\d]{1,10}\)',''],
+                    [r'\([^\(\)]{1,50}(流程图|figure|NCT|Grade|视频|计算器|波形|表|表格|图|图片|图表|影像)[^\(\)]{1,50}\)',''],
                      ]
 pattern_list_en = [
                     ['\\s*●\\(See.*', ''],
@@ -81,17 +83,32 @@ class speicalProces:
         if len(re.findall(url_pattern, content)) >= 1:
             return True
         return False
-    def step3_removepage(self, context):
+
+    def step3_reference(self, context):
         new_context = []
         references_started = False
-        for item in context:
-            if re.search(r'^(References|参考文献|见参考文献|致谢)',item.strip()):
+        introduce = 0
+        introduce_index = []
+        for index, item in enumerate(context):
+            if re.search(r'^(References|参考文献|见参考文献|致谢)', item.strip()):
                 references_started = True
+            if re.search(r'^Author', item.strip()):
+                introduce += 1
+                introduce_index.append(index)
+            if re.search(r'^引言', item.strip()):
+                introduce -= 1
+                introduce_index.append(index)
             if references_started:
                 item = ""
             new_context.append(item)
-            # 判断item是否被判定未参考文献
+
+        if introduce == 0 and len(introduce_index) == 2:
+            start_index = introduce_index[0]
+            end_index = introduce_index[1]
+            new_context = new_context[:start_index] + new_context[end_index:]
+
         return new_context
+
 
 def clean_text(context, lang):
     split_token = "\n\n"
@@ -113,7 +130,7 @@ def clean_text(context, lang):
     context = sp.step1_drop_sentenc(context)
     context = context.split(split_token)
     # 7/24uptodata_new修改
-    context = sp.step3_removepage(context)
+    context = sp.step3_reference(context)
     for item in context:
         # 1.正则
         for pattern_item in pattern_list:
@@ -127,7 +144,8 @@ def clean_text(context, lang):
             continue
 
         result.append(item)
-
+    for item in result:
+        print(item)
     # 整合
     context = split_token.join(result)
 
@@ -148,9 +166,13 @@ def post_process(context):
 #读jsonl
 fw = open(r"C:\pycharm\orc识别pdf清洗数据\pdf\clean_json\reclean1_uptodate_new_preformat_zh.jsonl", "w", encoding="utf-8")
 with open(r"C:\pycharm\orc识别pdf清洗数据\pdf\clean_json\original_data\uptodate_new_preformat.jsonl", "r", encoding="utf-8") as fs:
-    for items in tqdm(fs.readlines()):
+    lines = fs.readlines()
+
+    # 随机抽取5000条记录
+    sampled_lines = random.sample(lines, 2000)
+    for items in tqdm(sampled_lines):
         item = json.loads(items.strip())
-        # if item["seq_id"] == "e27ac083-cf63-4f76-9b32-a8ec446060db":
+        # if item["seq_id"] == "25f80778-caad-408e-8bb8-6c6b2f7d8de7":
         context = item["text"]
         lang = item["lang"]
         if lang == "zh":
