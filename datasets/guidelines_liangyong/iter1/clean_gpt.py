@@ -216,6 +216,7 @@ class speicalProces:
 
             if last_paragraph_score > 4000 and not re.search('\|',last_paragraph) and len(last_paragraph) < 150 and re.search(r'[A-Z][a-z]{1,}\s[A-Z][a-z]{1,}',last_paragraph):
                 duans[-1] = "疑似页脚" + duans[-1]
+
         return duans
 
     def is_merge_ngram(self,text, next_text):
@@ -479,7 +480,7 @@ def clean_text(text,lang):
     # duans = sp.step4_is_shortpage(result)
     text = split_token.join(result)
     text = sp.is_cankaopage(text, lang)
-    # context = sp.step9_complete_sequence_number(context)
+
     return text
 
 
