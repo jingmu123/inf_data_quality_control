@@ -1,0 +1,154 @@
+【0】Epidemiology and pathogenesis of <i>Neisseria gonorrhoeae</i> infection
+Epidemiology and pathogenesis of _Neisseria gonorrhoeae_ infection
+
+【1】INTRODUCTION 
+
+【2】Infection with _Neisseria gonorrhoeae_ is a global problem. In the United States, it is the second most commonly reported communicable disease and the second most prevalent sexually transmitted infection (STI). Symptomatic gonorrhea results in urethritis in males and cervicitis in females. Untreated gonorrhea can lead to epididymitis in males and pelvic inflammatory disease (PID) in females, which can lead to serious sequelae such as infertility, ectopic pregnancy, and chronic pelvic pain. Infrequently, gonococcal infections can become invasive, leading to disseminated gonococcal infections (DGI), which may result in gonococcal arthritis-dermatitis syndrome, suppurative arthritis, endocarditis, and meningitis.
+
+【3】The epidemiology and pathogenesis of gonorrhea will be discussed here. The clinical manifestations, diagnosis, and management of gonococcal infections are discussed in detail elsewhere.
+
+【4】EPIDEMIOLOGY
+
+【5】Global incidence — The precise global burden of _N. gonorrhoeae_ is difficult to establish because of the lack of diagnostic capability and/or reporting systems in many parts of the world. The World Health Organization (WHO) has estimated the global incidence of several sexually transmitted infections (STIs) among individuals aged 15 to 49 years based on data from regions that have good case-based surveillance systems as well as data from population-based studies . In 2020, the estimate for _N. gonorrhoeae_ was 82.4 million cases, a small decrease from 2016 but higher than the goal needed to achieve a 90 percent reduction in the incidence of gonorrhea by 2030 .
+
+【6】The WHO African Region had the highest incidence rate, followed by the South-East Asia region . In one review of infections during pregnancy in sub-Saharan Africa, the prevalence of sexually transmitted and reproductive tract infections was comparable with that of malaria . The prevalence of _N. gonorrhoeae_ during pregnancy ranged from 1.5 percent in West and Central Africa to 4.9 percent in East and Southern Africa.
+
+【7】United States
+
+【8】Incidence — Despite a small decrease in the global incidence of gonorrhea in recent years, the incidence of gonorrhea in the United States has been increasing. In 2021, gonorrhea was the second most common notifiable STI in the United States, with 710,151 reported cases . The actual number of cases is likely much higher due to under-reporting of cases, which was exacerbated by surveillance challenges posed by the COVID-19 pandemic, and asymptomatic infections.
+
+【9】The epidemiology of gonococcal infections in the United States has undergone major changes over time. Overall rates declined after the mid-1970s, reaching an all-time low of 98 cases per 100,000 persons in 2009. Since this nadir, the incidence in reported cases has increased annually. The number of cases reported in 2021 reflected a 65 percent increase among females and a 138 percent increase among males compared with 10 years previously .
+
+【10】The incidence of gonorrhea has increased among all demographic groups; however, there are important disparities with particularly high rates of infection in specific subpopulations. The highest reported rates of gonococcal infection are seen among adolescents and young adults, certain under-represented racial groups, and persons living in the southeastern United States . As examples, in 2021 :
+
+【11】 Reported case rates in the United States were highest among males and females ages 20 through 24 years .
+
+【12】 Males and females identifying as Black/African American had the highest reported cases of any race. The rate of reported cases by Black/African American males was over ninefold higher than the rate reported by White males . The rate for Black/African American females was over sevenfold higher than for White females . Reasons for the racial disparity in gonorrhea rates are not well understood but may include differences in health services access and utilization, geographic clustering of populations, other interrelated social and economic factors, and sexual partner choices along both socioeconomic and racial lines . In addition, differential reporting by public and private health care providers may magnify the racial differences .
+
+【13】 Mississippi , South Dakota , and Louisiana  had the highest reported case rates in the United States. These were substantially higher than the case rate reported for the nation as a whole .
+
+【14】Factors contributing to incidence trends — It is likely that multiple factors contributed to the overall decrease in gonorrhea rates over several decades, leading to the historic low observed in 2009. Screening programs that incorporate on-site antibiotic therapy have been in use since the early 1970s . In addition, a shift in the age distribution of the United States population has meant that a decreasing proportion of people fall into the highest risk age groups .
+
+【15】Changes in sexual behavior in response to the human immunodeficiency virus (HIV) epidemic may also be important. Several reports indicated that men who have sex with men (MSM) reduced risky sexual practices in the mid-1980s and had lower rates of rectal gonorrhea . Although evidence for sexual behavior risk-reduction in response to the HIV epidemic among heterosexuals is limited, increased condom use has been documented .
+
+【16】However, the trend toward safer sexual practices among MSM has been reversing. Gonorrhea in MSM accounts for a rapidly increasing proportion of all gonorrhea cases; in 2020, approximately a third of all cases of gonorrhea occurred among MSM . The increase is consistent with increases in the numbers of MSM engaging in high-risk sexual behaviors .
+
+【17】Risk factors — Risk factors and risk markers for gonorrhea include a recent new sexual partner, multiple sexual partners, being unmarried, young age, of an under-represented ethnic population, low educational and socioeconomic levels, substance abuse, and a history of previous gonorrhea . Geographic clustering of gonorrhea coincides with geographic clustering of many of these risk markers . Combinations of these markers have been used to identify persons for screening for asymptomatic gonococcal infection .
+
+【18】Among MSM with high-risk sexual behavior, the incidence of gonorrhea is quite high. In a study of nearly 3000 MSM in Australia who were initiating pre-exposure prophylaxis for HIV, the incidence of new _N. gonorrhoeae_ infections (urogenital, rectal, and pharyngeal) was 39 cases per 100 person-years .
+
+【19】Rate of infection after exposure — Data on the attack rate after exposure to an infected partner are somewhat mixed. In one study of 26 females with recent exposure to _N. gonorrhoeae_ , the attack rate was 50 percent following one documented exposure to an infected male sexual partner and increased to 93 percent with repeated exposures . In contrast, a subsequent study of 76 females exposed to either chlamydia or gonorrhea found a transmission rate of 73 percent among the 45 females with exposure to gonorrhea only, and the number of encounters did not increase the risk .
+
+【20】Association with HIV — _N. gonorrhoeae_ has an important epidemiologic relationship with HIV. First, the acquisition of gonococcal infection implies risky sexual behavior that is in turn a risk factor for HIV infection. Second, the presence of gonococcal infection appears to facilitate both the transmission and acquisition of HIV , and conversely, the presence of HIV infection is associated with increased acquisition of _N. gonorrhoeae_ .
+
+【21】In a study of males with HIV in Malawi, for example, HIV RNA concentrations in semen were eightfold higher among those with urethritis, particularly due to gonorrhea, compared to those without . Furthermore, treatment of the urethritis lowered HIV ribonucleic acid (RNA) levels by two-thirds. Molecular mechanisms contributing to enhanced HIV transmission may include activation of HIV-infected CD4 cells by _N. gonorrhoeae,_ resulting in increased HIV expression and viral production . Additionally, gonococcal infection during HIV acquisition is associated with an altered HIV specific CD8 cell response .
+
+【22】Additionally, among HIV-uninfected individuals, particularly MSM, diagnosis of gonococcal infection is associated with subsequent HIV acquisition . Thus, this could serve as a marker for identifying potential candidates among MSM for pre-exposure prophylaxis against HIV.
+
+【23】Epidemiological tools for gonorrhea strain differentiation — Infections with _N. gonorrhoeae_ are caused by many different strains. Although not part of the standard clinical diagnostic armamentarium, strain-typing techniques are employed for epidemiologic purposes to investigate outbreaks, antibiotic resistance patterns, and transmission networks, and for medicolegal cases. Both microbiologic (phenotype) and molecular (genetic sequence type) methods to differentiate strains are used.
+
+【24】Phenotypic methods include:
+
+【25】 **Serotyping** – using monoclonal antibodies that can distinguish variations in the major outer membrane porin protein (protein I, or PorB).
+
+【26】 **Auxotyping** – discriminating strains based on nutrient growth requirements.
+
+【27】 **Antimicrobial** – using resistance profile including both plasmid- and genome-based resistance.
+
+【28】Monoclonal antibodies are not widely available, some strains are non-typable, and poor reproducibility of serotyping has been shown . Nonetheless, these phenotypic methods have demonstrated remarkable strain diversity within and among geographic areas, with a small number of auxotype/serotype classes predominating in most communities . The association of particular strains with disseminated disease and observed patterns of importation and endemic transmission of gonococcal strains are based on phenotypic studies. These methods are generally used in public health and reference laboratories.
+
+【29】Molecular characterization methods have allowed for more accurate and finer discrimination of strains. They have been used in outbreak investigations and to identify sexual partner pairs or transmission networks . These typing methods have also been used in studies of antimicrobial resistance . Such molecular methods include:
+
+【30】 Pulsed-field gel electrophoresis, ribotyping, ribosomal-deoxyribonucleic acid (DNA) restriction analysis, arbitrarily primed polymerase chain reaction (PCR) and fluorescent amplified fragment length polymorphism analyses, and opa typing (based on restriction fragment length polymorphism of PCR amplicons of the opa locus). These are genetic typing methods that differentiate strains based on electrophoresis banding patterns. These methods are used with epidemiologic data to study transmission patterns and identify sexual networks, but they are difficult to standardize for inter-laboratory comparisons.
+
+【31】 DNA sequencing of outer membrane protein genes, typically the porB gene alone or in combination with the iron binding protein gene tbpB (NG-MAST) .
+
+【32】 Multi-locus sequence typing (MLST), based on sequence analysis of a panel of housekeeping genes .
+
+【33】 Whole-genome sequencing .
+
+【34】Epidemiology of antimicrobial resistance — Over time, _N. gonorrhoeae_ has developed increasing minimum inhibitory concentrations (ie, decreasing susceptibility) followed by frank resistance to the antimicrobial classes most commonly used for therapy, thus progressively reducing available therapeutic options . Domestic and international gonococcal surveillance efforts have demonstrated increased resistance worldwide to multiple classes of antibiotics, including penicillins, tetracyclines, macrolides, and fluoroquinolones, with documented cross-resistance . An especially alarming trend in _N. gonorrhoeae_ drug resistance has been the progressive decrease in susceptibility to the cephalosporins , and the identification of high-level ceftriaxone-resistance , heralding the potential for untreatable gonorrhea in the near future. Further details of _N. gonorrhoeae_ drug resistance are discussed elsewhere.
+
+【35】Individuals who are repeatedly infected with _N. gonorrhoeae_ (core groups) play an important role in maintaining gonococcal transmission within communities and in the development and spread of antibiotic-resistant gonorrhea . MSM appear to have an increased rate of gonococcal infection due to a higher prevalence of resistant isolates than men who have sex exclusively with women (MSW), likely because MSM sexual networks are more likely to have circulating antibiotic-resistant strains than MSW networks .
+
+【36】PATHOGENESIS 
+
+【37】_N. gonorrhoeae_ is strictly a human pathogen with no known animal or environmental reservoir. Its success as a human pathogen is the combined result of several factors: an impressive array of virulence factors that allow this bacterium to gain a foothold into and adapt to the disparate and embryologically distinct male and female genital tracts, a chameleon-like ability to undergo high-frequency antigenic and phase variation of surface structures leading to clonal variation, and the ability to subvert the immune system. When gonococcal infections are unrecognized or left untreated, they can become chronic, and reinfections are common. _N. gonorrhoeae_ is also adept at quickly developing resistance to antibiotics, which could ultimately lead to untreatable infections.
+
+【38】Gonococcal infection encompasses four specific stages:
+
+【39】 Attachment to the mucosal cell surface
+
+【40】 Local penetration or invasion
+
+【41】 Local proliferation
+
+【42】 Local inflammatory response or systemic dissemination
+
+【43】Adhesins used for attachment — Initial attachment of gonococci to the surface of epithelial cells is mediated by type IV pili, which are long, hair-like appendages radiating from the bacterial surface . Pili can be extended or retracted; retraction allows intimate attachment to host cells. In addition to host-cell attachment, gonococcal pili also play a role in bacterial aggregation, DNA transformation, twitching motility, and protection from neutrophil killing . PilE is the most abundant protein subunit involved in the pilin biogenesis and deletion of the pilE gene results in a non-piliated phenotype .
+
+【44】Human challenge studies suggest that pili are important for infection and that anti-pilin antibodies can block binding . Gonococcal pili however are subject to high frequency antigenic variation as a result of DNA-recombination events between pilE and several silent and antigenically-distinct pilin genes (pilS) . This high frequency antigenic variation was likely the reason a purified gonococcal pilin vaccine tested in humans was unable to provide protection from disease .
+
+【45】Other outer membrane structures involved in gonococci attachment include:
+
+【46】 **PilC proteins** – _N. gonorrhoeae_ possesses two pilC genes: pilC1 and pilC2 _._ PilC1 and pilC2 have thus far been demonstrated to function interchangeably. PilC is typically found at the tip of the type IV pilus, but also resides in the bacterial outer membrane . PilC is considered the main pilus adhesin as pilC mutants fail to bind to epithelial cells , and purified pilC bound to epithelial cells competes with and blocks pilus-mediated gonococcal adherence . The host cell receptor for pilC remains to be elucidated. Some data suggest that the human complement cell receptor (CD46) may be the elusive gonococcal pilus receptor , however conflicting data indicate that host cell attachment is independent of CD46 . PilC also plays a role in DNA uptake and pilus retraction .
+
+【47】 **Opa (opacity-associated proteins or protein II)** – These are a family of 11 or 12 related but antigenically- and phenotypically-distinct proteins that increase colony opacity of _N. gonorrhoeae_ . Opa proteins mediate intimate binding with leukocytes, epithelial, and endothelial cells . Opa expression appears to be critical for in vivo survival as gonococcal isolates obtained from natural infections are predominately Opa-positive, except for isolates obtained during menses . Gonococcal isolates recovered from males experimentally-infected with Opa-negative strains were positive for Opa expression , suggesting a strong selective pressure for Opa expression in vivo. Opa proteins undergo frequent phase variation due to pentameric sequence repeats within the signal sequence coding region that can result in slip-strand mispairing frameshifts during DNA replication . As a result, within a population of gonococci, Opa expression can be highly variable from zero, one, to multiple Opa variants expressed per bacterium . Most Opa proteins have tropism to the carcinoembryonic antigen cell adhesion molecule (CEACAM) family found on a variety of cell types . Cellular expression of different members of the CEACAM family may explain preferential binding of gonococci to particular cells, since Opa variants exhibit different binding specificities for various CEACAM family members . A smaller number of Opa proteins have shown tropism to heparin sulphate proteoglycans (HSPGs), vitronectin, and fibronectin .
+
+【48】 **PorB** – PorB is the most abundant outer membrane protein expressed by _N. gonorrhoeae_ and functions as a pore, allowing movement of ions and nutrients into the bacterial periplasm . _N. gonorrhoeae_ strains possess one of two allelic variants of PorB, either PorB1A or PorB1B, which share about 80 percent nucleotide sequence similarity . PorB1A-expressing strains are often associated with disseminated gonococcal infection (DGI), are more serum-resistant, and invade cells to a greater degree than PorB1B-expressing strains . PorB binds to the human complement receptor 3 (CR3), which is expressed in the female reproductive tract .
+
+【49】 **Gonococcal lipooligosaccharide (LOS)** – LOS binds to human asialoglycoprotein receptor (ASGP-R) expressed on a human hepatoma cell line (HepG2), urethral epithelial cells, and sperm cells . The ability of the gonococcus to bind to sperm cells has been postulated to contribute to transmission of gonorrhea from infected males to uninfected sexual partners .
+
+【50】 **Gonococcal ribosomal protein L12** – This is a membrane-associated surface protein that is a structural homologue to the fetal hormone human chorionic gonadotropin (hCG), an essential pregnancy hormone . Expression of gonococcal L12 allows attachment to and invasion of an endometrial cell line via interaction with the lutropin receptor (LHr), the cognate receptor for hCG . A potential mechanism of invasive disease is that the gonococcal L12 may "hijack" the LHr receptor expressed in the endometrium and fallopian tubes, and ultimately transcytose to the sub-mucosal tissues leading to pelvic inflammatory disease (PID) or disseminated gonococcal infection (DGI) in females. This hypothesis is consistent with the clinical observation that in females, PID and DGI tend to occur during the first week of menses  when LHr expression in the endometrium and fallopian tubes is highest .
+
+【51】 **_N. gonorrhoeae_** **outer membrane protein A (Ng-OmpA)** – Ng-OmpA is a newly identified adhesin and invasin. A gonococcal strain unable to express Ng-OmpA was significantly attenuated in a mouse colonization model, and gonococcal binding and invasion of cervical and endometrial cell lines was diminished with _ng-ompA_ mutants .
+
+【52】 **MetQ** – This is a newly characterized methionine-binding component of an adenosine triphosphate-binding cassette (ABC) transporter shown to contribute to adherence of gonococci to cervical epithelial cells .
+
+【53】Local invasion — In clinical specimens from individuals with gonorrhea, intracellular gonococci are found in both epithelial cells and neutrophils , and the gonococcus is able to multiply and divide intracellularly . Invasion into host cells may protect the gonococcus from the harsh mucosal environment and immune effectors. Local invasion requires intimate host cell contact. Potential molecular mechanisms of gonococcal invasion strategies have been elucidated in vitro using various cell lines:
+
+【54】 Binding and invasion of urethral epithelial cell lines involves both pili and LOS. In this model, initial binding to the host cell occurs through the interaction of pili with the I-domain of B1-integrins, followed by closer association through LOS interactions with host cell ASGP-R . The bound bacteria are internalized following host cell membrane pedestal formation, in an actin- and clathrin-dependent process .
+
+【55】 Invasion of cervical epithelial cell lines involves gonococcal binding to the host cell complement receptor type 3 (CR3). This is a cooperative interaction initiated by the binding of pili to the I-domain of CR3 . Complement component C3b binds to the lipid A core of the gonococcal LOS and is rapidly inactivated to iC3b by PorB- or LOS-bound factor H . Gonococcal-bound iC3b and PorB also bind to the I-domain of CR3 strengthening the CR3 interaction . This coordinated engagement of the CR3 causes extensive rearrangement of the host cell actin, resulting in large protrusions called ruffles . Membrane ruffling subsequently allows for the internalization of gonococci in large vacuoles called macropinosomes where they survive and multiply within the cell .
+
+【56】 Opa expression plays an important role in invasion as well as host cell binding. Opa interaction with host cell CEACAMs mediates internalization . Recombinant _Escherichia coli_ strains expressing gonococcal Opa proteins were bound and internalized by human cervical and endometrial cell lines more efficiently than the wild-type _E. coli_ strains , demonstrating Opa expression by itself can be sufficient for invasion of host cells.
+
+【57】 PorB also plays a role in host cell invasion. As mentioned above, DGI is associated most commonly with _N. gonorrhoeae_ strains expressing the PorBIA allele . Epithelial cell invasion in vitro was demonstrated with strains expressing PorBIA but not PorBIB in a phosphate-dependent manner . The host cell scavenger receptor (SREC-I) has been identified as the PorBIA ligand, and expression of SREC-I is sufficient for gonococcal PorBIA invasion of both epithelial and endothelial cells . In addition, a recombinant _E. coli_ strain expressing gonococcal PorBIA was 500-fold more invasive than wild-type _E. coli_ in a human fallopian organ-culture model demonstrating expression of PorBIA is sufficient for invasion .
+
+【58】Dissemination — Typically, _N. gonorrhoeae_ causes localized urogenital infections; however, in rare cases, disseminated infections can occur . Gonococcal strains are classified as either serum-sensitive or serum-resistant based upon their sensitivity to killing by normal human sera via the activation of complement and the deposition of terminal complement components on the bacterial surface . Dissemination can occur when strains are serum resistant.
+
+【59】PorB1A and some variants of PorB1B bind to both the classical and alternative complement down-regulatory proteins C4bp and factor H, rendering strains with these porin types serum-resistant . Gonococci can also sialylate their LOS using host-derived cytidine monophospho-N-acetylneuraminic acid (CMP-NANA) . Sialylated LOS increases factor H binding substantially, resulting in serum resistance . Gonococcal LOS sialylation has been demonstrated in gonorrhea urethral exudates .
+
+【60】Adaptation to evade host immunity — In order for _N. gonorrhoeae_ to survive the host immune response, it has developed complex strategies to avoid host defense mechanisms. Examples of these strategies include:
+
+【61】 Antigenic and phase variation of Opa, Pil, and LOS . As an example, multiple pilin antigenic variants are produced during an infection, which helps to avoid antibody neutralization to one specific pilin variant .
+
+【62】 Masking of gonococcal antigens (sialylation of LOS), which prevents the binding of bactericidal antibodies to surface targets .
+
+【63】 Molecular mimicry, as demonstrated by the similarity of terminal LOS sugars to host glycolipids which may aid in immune evasion .
+
+【64】 Release of IgA1 proteases that recognizes and cleaves both serum and secretory IgA . The role of IgA protease in gonococcal pathogenesis has yet to be fully determined. A mutant gonococcal strain unable to produce IgA protease was limited in intracellular growth in vitro cell culture compared to the wild-type strain, however, another IgA protease mutant was able to cause urethritis in an experimental male challenge model . IgA protease may play a larger role in female infections that has yet to be elucidated.
+
+【65】 Expression of _Neisseria_ Adhesin Complex Protein (ACP) inhibits human lysozyme activity . Lysozymes are an important component of innate immunity that hydrolyze bacterial cell wall peptidoglycan, resulting in bacteriolysis. Inhibition of lysozyme activity may contribute to host colonization.
+
+【66】 Blocking antibodies elicited to the reduction modifiable protein (Rmp). Rmp is physically associated with PorB on the outer membrane of gonococci and is highly immunogenic eliciting noncomplement-fixing antibodies. Antibodies directed against Rmp bind to the PorB-Rmp complex and block the effective deposition of complement-fixing anti-PorB and anti-LOS antibodies . Compatible with these experimental findings is the clinical observation that females infected with _N. gonorrhoeae_ who produced Rmp antibodies have an increased risk of salpingitis .
+
+【67】 Dampening the host immune response. One of the hallmarks of gonococcal infection is that it does not induce protective immunity. Following infection, females have limited local and systemic cytokine and antibody responses . In vitro studies have shed some light on how the gonococcus is able to subvert both innate and adaptive arms of the immune system. The gonococcus can survive in neutrophils and macrophages by preventing the formation of degradative phagolysosomes. In addition, gonococci can cause cellular death and upregulation of immunoregulatory cytokines . Gonococcal-exposed antigen-presenting cells (dendritic cells and macrophages) fail to elicit antigen-induced CD4 cell proliferation and induce immunosuppressive properties . Gonococci-expressing Opa proteins that bind to CEACAM1 down-regulate activated CD4 cells and inhibit B-cell antibody production .
+
+【68】In a mouse-model of gonorrhea , infection induces immunoregulatory cytokines, transforming growth factor beta (TGF-beta) and interleukin 10 (IL-10), as well as type 1 regulatory T cells (Tr1), which together suppress the adaptive immune response . Mice treated with antibodies that neutralize TGF-beta and/or IL-10 during infection cleared gonococci more rapidly and developed immunity against a secondary challenge . Administration of microencapsulated interleukin 12 (IL-12), a proinflammatory cytokine and strong inducer of cellular immunity, during mouse gonococcal vaginal infection led to faster clearance, protection against reinfection, and the development of anti-gonococcal antibodies . These data raise the possibility of investigating immune modulators, such as IL-12 as novel therapeutic strategies, and may provide new insights into the development of effective vaccines to prevent gonorrhea.
+
+【69】INFORMATION FOR PATIENTS 
+
+【70】Here are the patient education articles that are relevant to this topic. We encourage you to print or e-mail these topics to your patients. (You can also locate patient education articles on a variety of subjects by searching on "patient info" and the keyword(s) of interest.)
+
+【71】 Beyond the Basics topic
+
+【72】 **Incidence** – Infection with _Neisseria gonorrhoeae_ is a global problem, although the precise burden is difficult to establish. In the United States, the highest reported rates of gonococcal infection are seen among adolescents and young adults , ethnic under-represented populations, and persons living in the southeastern states . The actual burden of gonorrhea is likely underestimated due to under-reporting and asymptomatic infections.
+
+【73】 **Risk factors** – Risk factors for gonorrhea include a new sexual partner, multiple sexual partners, being unmarried, young age, of an under-represented ethnic population, low educational and socioeconomic levels, history of substance abuse, and history of a previous episode of gonorrhea.
+
+【74】 **Drug resistance** – Over time, _N. gonorrhoeae_ has developed decreasing susceptibility followed by frank resistance to the antimicrobial classes most commonly used for therapy, thus progressively reducing available therapeutic options. The prevalence of _N. gonorrhoeae_ drug resistance is discussed elsewhere.
+
+【75】 **Pathogenesis of infection** – Infection with _N. gonorrhoeae_ encompasses four specific stages: local attachment, invasion, dissemination, and evasion of host immunity. Various outer membrane structures are involved in each of these stages .焦瀚远
+
+====================================================================================================

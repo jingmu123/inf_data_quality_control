@@ -1,0 +1,1236 @@
+【0】Atazanavir and cobicistat: Drug information
+
+【1】Contributor Disclosures
+
+【2】For abbreviations, symbols, and age group definitions show table
+
+【3】Brand Names: US
+
+【4】*   Evotaz
+
+【5】Pharmacologic Category
+
+【6】*   Antiretroviral, Protease Inhibitor (Anti-HIV);
+*   Cytochrome P-450 Inhibitor
+
+【7】Dosing: Adult
+
+【8】**Note:** Dosage modifications are not possible with atazanavir/cobicistat combination tablet.
+
+【9】HIV-1 infection, treatment
+
+【10】**HIV-1 infection, treatment:** **Oral:** One tablet (atazanavir 300 mg/cobicistat 150 mg) once daily. **Note:** Administer with other antiretroviral agents. Do not use atazanavir/cobicistat plus abacavir and lamivudine in patients with a pre-antiretroviral therapy HIV RNA ≥100,000 copies/mL .
+
+【11】**Dosage adjustment for concomitant therapy:** Significant drug interactions exist, requiring dose/frequency adjustment or avoidance. Consult drug interactions database for more information.
+
+【12】Dosing: Kidney Impairment: Adult
+
+【13】Mild to severe impairment: There are no dosage adjustments provided in the manufacturer's labeling. Coadministration with tenofovir disoproxil fumarate is not recommended in patients with creatinine clearance (CrCl) is <70 mL/minute or if patient is on a concomitant or recent nephrotoxic agent.
+
+【14】End-stage renal disease (ESRD) patients (treatment-experienced) requiring hemodialysis: Use is not recommended.
+
+【15】Dosing: Hepatic Impairment: Adult
+
+【16】Use is not recommended (has not been studied).
+
+【17】Dosing: Older Adult
+
+【18】Refer to adult dosing. Use with caution.
+
+【19】Dosing: Pediatric
+
+【20】HIV-1 infection, treatment
+
+【21】**HIV-1 infection, treatment:**
+
+【22】Children and Adolescents weighing ≥35 kg: Oral: Evotaz (atazanavir 300 mg/cobicistat 150 mg per tablet): One tablet once daily.
+
+【23】**Dosage adjustment for concomitant therapy:** Significant drug interactions exist, requiring dose/frequency adjustment or avoidance. Consult drug interactions database for more information.
+
+【24】Dosing: Kidney Impairment: Pediatric
+
+【25】Children and Adolescents weighing ≥35 kg:
+
+【26】Mild to severe impairment: There are no dosage adjustments provided in the manufacturer's labeling. Coadministration with tenofovir disoproxil fumarate is not recommended in patients with CrCl <70 mL/minute or if patient is on a concomitant or recent nephrotoxic agent.
+
+【27】End-stage renal disease (ESRD) patients (treatment-experienced) requiring hemodialysis: Use of combination product is not recommended.
+
+【28】Dosing: Hepatic Impairment: Pediatric
+
+【29】Children and Adolescents weighing ≥35 kg: Use of combination product not recommended (has not been studied).
+
+【30】Adverse Reactions
+
+【31】The following adverse drug reactions and incidences are derived from product labeling unless otherwise specified. All adverse reactions are from trials using cobicistat coadministered with atazanavir, emtricitabine + tenofovir. Also see individual agents.
+
+【32】\>10%: Hepatic: Increased serum bilirubin (grades 3/4: 73%)
+
+【33】1% to 10%:
+
+【34】Dermatologic: Skin rash 
+
+【35】Endocrine & metabolic: Fanconi syndrome (<2%), glycosuria (grades 3/4: 3%), increased gamma-glutamyl transferase (grades 3/4: 4%), increased serum glucose (grades 3/4: 2%)
+
+【36】Gastrointestinal: Diarrhea , increased serum amylase (grades 3/4: 4%), nausea , upper abdominal pain (<2%), vomiting (<2%)
+
+【37】Genitourinary: Hematuria (grades 3/4: 6%)
+
+【38】Hematologic & oncologic: Decreased neutrophils (grades 3/4: 3%)
+
+【39】Hepatic: Increased serum alanine aminotransferase (grades 3/4: 6%), increased serum aspartate aminotransferase (grades 3/4: 4%), jaundice 
+
+【40】Nervous system: Abnormal dreams (<2%), depression (<2%), fatigue (<2%), headache , insomnia (<2%)
+
+【41】Neuromuscular & skeletal: Increased creatine phosphokinase (grades 3/4: 8%), rhabdomyolysis (<2%)
+
+【42】Ophthalmic: Scleral icterus 
+
+【43】Renal: Nephrolithiasis (<2%), renal disease (<2%)
+
+【44】Frequency not defined:
+
+【45】Endocrine & metabolic: Increased HDL cholesterol, increased LDL cholesterol, increased serum cholesterol, increased serum triglycerides
+
+【46】Renal: Decreased estimated GFR, increased serum creatinine
+
+【47】Contraindications
+
+【48】Hypersensitivity (previously demonstrated and clinically significant \[eg, Stevens-Johnson syndrome, erythema multiforme, or toxic skin eruptions\]) to atazanavir, cobicistat, or any component of the formulation; coadministration with drugs that are highly dependent on CYP3A or UGT1A1 for clearance (and for which elevated plasma concentrations of the interacting drugs are associated with serious and/or life-threatening events) or coadministration with drugs that strongly induce CYP3A and may lead to lower exposure and loss of efficacy of atazanavir or cobicistat; coadministered drugs that are contraindicated include (but are not limited to) alfuzosin, carbamazepine, cisapride, colchicine (in patients with renal and/or hepatic impairment), dronedarone, drospirenone/ethinyl estradiol, elbasvir/grazoprevir, ergot derivatives (dihydroergotamine, ergotamine, methylergonovine), glecaprevir/pibrentasvir, indinavir, irinotecan, lomitapide, lovastatin, lurasidone, midazolam (oral), nevirapine, phenobarbital, phenytoin, pimozide, ranolazine, rifampin, sildenafil (when used for pulmonary artery hypertension), simvastatin, St. John's wort, or triazolam.
+
+【49】Significant drug interactions exist, requiring dose/frequency adjustment or avoidance. Consult drug interactions database for more information.
+
+【50】_Canadian labeling:_ Additional contraindications (not in US labeling): Concurrent use with quinidine, ritonavir or products containing ritonavir, salmeterol
+
+【51】Warnings/Precautions
+
+【52】**_Concerns related to adverse effects:_**
+
+【53】• Cholelithiasis: Cases have been reported postmarketing; some required hospitalization and some had complications. Temporary or permanent discontinuation of therapy should be considered if symptoms develop.
+
+【54】• Elevated bilirubin: Asymptomatic elevations in bilirubin (unconjugated) occur commonly during therapy; reversible upon discontinuation. Safety data does not exist for bilirubin persistently >5 times ULN. Evaluate alternative etiologies if transaminase elevations also occur. Consider alternative therapy if jaundice or scleral icterus cause cosmetic concern.
+
+【55】• Fat redistribution: May cause redistribution of fat (eg, buffalo hump, peripheral wasting with increased abdominal girth, cushingoid appearance).
+
+【56】• Hypersensitivity reactions: Protease inhibitors have been associated with a variety of hypersensitivity events (some severe), including rash, anaphylaxis (rare), angioedema, bronchospasm, erythema multiforme, Stevens-Johnson syndrome (rare), acute generalized exanthematous pustulosis, toxic epidermal necrolysis, and/or drug rash with eosinophilia and systemic symptoms (DRESS) syndrome. Discontinue treatment if severe skin reactions develop. Severe skin reactions may be accompanied by fever, malaise, fatigue, arthralgias, hepatitis, oral lesions, blisters, conjunctivitis, and/or eosinophilia. Mild to moderate rash may occur early in treatment and resolve with continued therapy.
+
+【57】• Immune reconstitution syndrome: Patients may develop immune reconstitution syndrome resulting in the occurrence of an inflammatory response to an indolent or residual opportunistic infection during initial HIV treatment or activation of autoimmune disorders (eg, Graves disease, polymyositis, Guillain-Barré syndrome, autoimmune hepatitis) later in therapy; further evaluation and treatment may be required.
+
+【58】• Nephrolithiasis: Cases have been reported postmarketing; some required hospitalization and some had complications. Temporary or permanent discontinuation of therapy should be considered if symptoms develop.
+
+【59】• Renal toxicity: Concomitant use of cobicistat and tenofovir disoproxil fumarate may cause renal toxicity (acute renal failure and/or Fanconi syndrome); avoid use with concurrent or recent nephrotoxic therapy. Calculate estimated creatinine clearance (CrCl) prior to initiation of therapy. Assess serum phosphorus in patients with or at risk for renal impairment. In patients receiving concomitant tenofovir, assess urine glucose and urine protein prior to and periodically during treatment and monitor renal function (including recalculation of creatinine clearance) during therapy. Do not administer in combination with tenofovir disoproxil fumarate in patients with CrCl <70 mL/minute or in patients with concomitant or recent use of a nephrotoxic agent.
+
+【60】**_Disease-related concerns:_**
+
+【61】• Conduction abnormalities: Atazanavir may prolong PR interval; usually first degree AV block only and asymptomatic; rare cases of second-degree AV block have been reported. ECG monitoring should be considered in patients with preexisting conduction abnormalities or with medications which prolong AV conduction (dosage adjustment required with some agents).
+
+【62】• Diabetes: Changes in glucose tolerance, hyperglycemia, exacerbation of diabetes, DKA, and new-onset diabetes mellitus have been reported in patients receiving protease inhibitors. Initiation or dose adjustments of antidiabetic agents may be required.
+
+【63】• Hemophilia A or B: Use with caution in patients with hemophilia A or B; increased bleeding (eg, spontaneous skin hematomas and hemarthroses) has been reported during protease inhibitor therapy. Some patients receive additional factor VIII. In more than half of the cases, protease inhibitor treatment was continued or reintroduced if treatment was discontinued.
+
+【64】• Hepatic impairment: Not recommended in patients with hepatic impairment. Patients with underlying hepatic disease such as hepatitis B or C or marked transaminase elevations may be at risk for further transaminase elevations or hepatic decompensation. Closely monitor at risk patients at baseline and periodically during treatment.
+
+【65】• Renal impairment: Cases of chronic kidney disease, including granulomatous interstitial nephritis, have been reported in postmarketing surveillance with or without ritonavir; consider alternative therapy in patients at high risk for renal impairment or with preexisting renal disease. Renal function monitoring should be performed at baseline and periodically during treatment. Not recommended for use in treatment-experienced patients with ESRD on hemodialysis. Consider therapy discontinuation in patients with progressive kidney disease.
+
+【66】**_Concurrent drug therapy issues:_**
+
+【67】• Concurrent therapy: Avoid use with other protease inhibitors, elvitegravir, ritonavir, or other atazanavir- or cobicistat-containing products.
+
+【68】**_Special populations:_**
+
+【69】• Pediatric: Atazanavir should not be used in patients <3 months of age due to potential for kernicterus.
+
+【70】**_Other warning/precautions:_**
+
+【71】• False elevations in serum creatinine: Cobicistat may inhibit tubular secretion of creatinine without affecting actual renal glomerular function; use caution when interpreting serum creatinine values in patients with medical conditions or receiving drugs needing to be monitored with estimated CrCl. Patients who experience a confirmed increase in serum creatinine >0.4 mg/dL from baseline should have renal function monitored closely. Assess estimated CrCl prior to initiating therapy; consider alternative medications that do not require dosage adjustments in patients with renal impairment.
+
+【72】Warnings: Additional Pediatric Considerations
+
+【73】Skin rash may occur with atazanavir use, usually mild to moderate; maculopapular; reported incidence lower in pediatric patients (grades 2 to 4: 14%) than adults (all grades: 20%); median onset: 7.3 weeks; treatment may be continued if rash is mild to moderate (rash may resolve; median duration: 1.4 weeks); discontinue therapy in cases of severe rash. May cause cough; reported incidence in pediatric patients: 21%. May cause fever; higher incidence observed in pediatric patients compared to adults .
+
+【74】Dosage Forms: US
+
+【75】Excipient information presented when available (limited, particularly for generics); consult specific product labeling.
+
+【76】Tablet, Oral:
+
+【77】Evotaz: Atazanavir 300 mg and cobicistat 150 mg
+
+【78】Generic Equivalent Available: US
+
+【79】No
+
+【80】Pricing: US
+
+【81】**Tablets** (Evotaz Oral)
+
+【82】300-150 mg (per each): $64.22
+
+【83】**Disclaimer:** A representative AWP (Average Wholesale Price) price or price range is provided as reference price only. A range is provided when more than one manufacturer's AWP price is available and uses the low and high price reported by the manufacturers to determine the range. The pricing data should be used for benchmarking purposes only, and as such should not be used alone to set or adjudicate any prices for reimbursement or purchasing functions or considered to be an exact price for a single product and/or manufacturer. Medi-Span expressly disclaims all warranties of any kind or nature, whether express or implied, and assumes no liability with respect to accuracy of price or price range data published in its solutions. In no event shall Medi-Span be liable for special, indirect, incidental, or consequential damages arising from use of price or price range data. Pricing data is updated monthly.
+
+【84】Administration: Adult
+
+【85】Administer with food.
+
+【86】Administration: Pediatric
+
+【87】Oral: Administer with food.
+
+【88】Use: Labeled Indications
+
+【89】**HIV-1 infection, treatment:** Treatment of HIV-1 infection in adults and pediatric patients weighing ≥35 kg in combination with other antiretroviral agents.
+
+【90】Limitations of use: Use in treatment-experienced patients should be guided by the number of baseline primary protease inhibitor resistance substitutions
+
+【91】Medication Safety Issues
+
+【92】Pediatric patients: High-risk medication:
+
+【93】KIDs List: Atazanavir, when used in neonates, is identified on the Key Potentially Inappropriate Drugs in Pediatrics (KIDs) list and should be used with caution due to risk of kernicterus unless pharmacogenetic testing used (weak recommendation; very low quality of evidence) (PPA \[Meyers 2020\]).
+
+【94】Metabolism/Transport Effects
+
+【95】Refer to individual components.
+
+【96】Drug Interactions  
+
+【97】**Note** : Interacting drugs may **not be individually listed below** if they are part of a group interaction (eg, individual drugs within “CYP3A4 Inducers \[Strong\]” are NOT listed). For a complete list of drug interactions by individual drug name and detailed management recommendations, use the drug interactions program by clicking on the “Launch drug interactions program” link above.
+
+【98】Abemaciclib: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Abemaciclib. Management: In patients taking abemaciclib at a dose of 200 mg or 150 mg twice daily, reduce the dose to 100 mg twice daily when combined with strong CYP3A4 inhibitors. In patients taking abemaciclib 100 mg twice daily, decrease the dose to 50 mg twice daily. _Risk D: Consider therapy modification_
+
+【99】Acalabrutinib: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Acalabrutinib. _Risk X: Avoid combination_
+
+【100】Adagrasib: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Adagrasib. Management: Avoid use of adagrasib and strong CYP3A4 inhibitors until adagrasib concentrations have reached steady state (ie, after approximately 8 days of therapy). _Risk D: Consider therapy modification_
+
+【101】Ado-Trastuzumab Emtansine: CYP3A4 Inhibitors (Strong) may increase serum concentrations of the active metabolite(s) of Ado-Trastuzumab Emtansine. Specifically, strong CYP3A4 inhibitors may increase concentrations of the cytotoxic DM1 component. Management: Avoid concomitant use of ado-trastuzumab emtansine and strong CYP3A4 inhibitors when possible. Consider alternatives that do not inhibit CYP3A4 or consider administering after CYP3A4 inhibitor discontinuation. Monitor for toxicities if combined. _Risk D: Consider therapy modification_
+
+【102】Afatinib: P-glycoprotein/ABCB1 Inhibitors may increase the serum concentration of Afatinib. Management: If combined, administer the P-gp inhibitor simultaneously with, or after, the dose of afatinib. Monitor closely for signs and symptoms of afatinib toxicity and if the combination is not tolerated, reduce the afatinib dose by 10 mg. _Risk D: Consider therapy modification_
+
+【103】ALfentanil: CYP3A4 Inhibitors (Strong) may increase the serum concentration of ALfentanil. Management: If use of alfentanil and strong CYP3A4 inhibitors is necessary, consider dosage reduction of alfentanil until stable drug effects are achieved. Frequently monitor patients for respiratory depression and sedation when these agents are combined. _Risk D: Consider therapy modification_
+
+【104】Alfuzosin: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Alfuzosin. _Risk X: Avoid combination_
+
+【105】Aliskiren: P-glycoprotein/ABCB1 Inhibitors may increase the serum concentration of Aliskiren. _Risk C: Monitor therapy_
+
+【106】Alitretinoin (Systemic): CYP3A4 Inhibitors (Strong) may increase the serum concentration of Alitretinoin (Systemic). Management: Consider reducing the alitretinoin dose to 10 mg when used together with strong CYP3A4 inhibitors. Monitor for increased alitretinoin effects/toxicities if combined with a strong CYP3A4 inhibitor. _Risk D: Consider therapy modification_
+
+【107】Almotriptan: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Almotriptan. Management: Limit initial almotriptan dose to 6.25 mg and maximum dose to 12.5 mg in any 24-period when used with a strong CYP3A4 inhibitor. Avoid concurrent use in patients with impaired hepatic or renal function. _Risk D: Consider therapy modification_
+
+【108】Alosetron: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Alosetron. _Risk C: Monitor therapy_
+
+【109】Alpelisib: BCRP/ABCG2 Inhibitors may increase the serum concentration of Alpelisib. Management: Avoid coadministration of BCRP/ABCG2 inhibitors and alpelisib due to the potential for increased alpelisib concentrations and toxicities. If coadministration cannot be avoided, closely monitor for increased alpelisib adverse reactions. _Risk D: Consider therapy modification_
+
+【110】ALPRAZolam: CYP3A4 Inhibitors (Strong) may increase the serum concentration of ALPRAZolam. _Risk X: Avoid combination_
+
+【111】Amiodarone: Atazanavir may increase the serum concentration of Amiodarone. _Risk X: Avoid combination_
+
+【112】AmLODIPine: CYP3A4 Inhibitors (Strong) may increase the serum concentration of AmLODIPine. _Risk C: Monitor therapy_
+
+【113】Antacids: May decrease the absorption of Atazanavir. Management: Administer antacids 1 to 2 hours before or 2 hours after atazanavir to minimize the risk of a clinically significant interaction. _Risk D: Consider therapy modification_
+
+【114】Antidiabetic Agents: Hyperglycemia-Associated Agents may diminish the therapeutic effect of Antidiabetic Agents. _Risk C: Monitor therapy_
+
+【115】Apalutamide: Atazanavir may increase the serum concentration of Apalutamide. Apalutamide may decrease the serum concentration of Atazanavir. _Risk X: Avoid combination_
+
+【116】Apixaban: Inhibitors of CYP3A4 (Strong) and P-glycoprotein may increase the serum concentration of Apixaban. Management: US labeling recommends a 50% apixaban dose reduction in patients who would otherwise receive 5 or 10 mg twice daily, and avoiding in patients who would otherwise receive 2.5 mg twice daily. Canadian labeling lists any combined use as contraindicated. _Risk D: Consider therapy modification_
+
+【117】Aprepitant: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Aprepitant. _Risk X: Avoid combination_
+
+【118】ARIPiprazole: CYP3A4 Inhibitors (Strong) may increase the serum concentration of ARIPiprazole. Management: Aripiprazole dose reductions are required for indications other than major depressive disorder. Dose reductions vary based on formulation, initial starting dose, CYP2D6 genotype, and use of CYP2D6 inhibitors. See full interaction monograph for details. _Risk D: Consider therapy modification_
+
+【119】ARIPiprazole Lauroxil: CYP3A4 Inhibitors (Strong) may increase serum concentrations of the active metabolite(s) of ARIPiprazole Lauroxil. Management: Decrease aripiprazole lauroxil dose to next lower strength if used with strong CYP3A4 inhibitors for over 14 days. No dose adjustment needed if using the lowest dose . Max dose is 441 mg in CYP2D6 PMs or if also taking strong CYP2D6 inhibitors. _Risk D: Consider therapy modification_
+
+【120】Artemether and Lumefantrine: CYP3A4 Inhibitors (Strong) may increase serum concentrations of the active metabolite(s) of Artemether and Lumefantrine. Specifically, concentrations of dihydroartemisinin (DHA), the active metabolite of artemether may be increased. CYP3A4 Inhibitors (Strong) may increase the serum concentration of Artemether and Lumefantrine. _Risk C: Monitor therapy_
+
+【121】Artemether and Lumefantrine: Protease Inhibitors may increase the serum concentration of Artemether and Lumefantrine. Specifically, the concentrations of lumefantrine may be increased. Protease Inhibitors may decrease the serum concentration of Artemether and Lumefantrine. Specifically, concentrations of artemether and dihydroartemisinin (DHA), the active metabolite of artemether, may be decreased. _Risk C: Monitor therapy_
+
+【122】Asciminib: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Asciminib. _Risk C: Monitor therapy_
+
+【123】Astemizole: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Astemizole. _Risk X: Avoid combination_
+
+【124】Atazanavir: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Atazanavir. _Risk C: Monitor therapy_
+
+【125】Atidarsagene Autotemcel: Antiretroviral Agents may diminish the therapeutic effect of Atidarsagene Autotemcel. _Risk X: Avoid combination_
+
+【126】Atogepant: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Atogepant. Management: For treatment of episodic migraine, the recommended atogepant dose is 10 mg once daily with a concurrent strong CYP3A4 inhibitor. If used for treatment of chronic migraine, concurrent use of atogepant with strong CYP3A4 inhibitors should be avoided. _Risk D: Consider therapy modification_
+
+【127】Atogepant: OATP1B1/1B3 (SLCO1B1/1B3) Inhibitors may increase the serum concentration of Atogepant. Management: For episodic migraine, the recommended atogepant dose is 10 mg or 30 mg once daily if given with OATP1B1/1B3 inhibitors. For chronic migraine, the recommended atogepant dose is 30 mg once daily with OATP1B1/1B3 inhibitors. _Risk D: Consider therapy modification_
+
+【128】Atorvastatin: Cobicistat may increase the serum concentration of Atorvastatin. Management: Avoid the combined use of atorvastatin with atazanavir/cobicistat. Atorvastatin dose should not exceed 20 mg daily when combined with other cobicistat-containing regimens. _Risk D: Consider therapy modification_
+
+【129】Atorvastatin: Atazanavir may increase the serum concentration of Atorvastatin. Management: Use of atorvastatin and atazanavir/cobicistat is not recommended. Use the lowest atorvastatin dose necessary and titrate carefully due to the increased risk of statin toxicities. Alternative statins include fluvastatin, pravastatin, and rosuvastatin. _Risk D: Consider therapy modification_
+
+【130】Avacopan: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Avacopan. Management: Decrease the avacopan dose to 30 mg once daily during coadministration with strong CYP3A4 inhibitors. _Risk D: Consider therapy modification_
+
+【131】Avanafil: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Avanafil. _Risk X: Avoid combination_
+
+【132】Avapritinib: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Avapritinib. _Risk X: Avoid combination_
+
+【133】Axitinib: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Axitinib. Management: Avoid concurrent use of axitinib with any strong CYP3A inhibitor whenever possible. If a strong CYP3A inhibitor must be used with axitinib, a 50% axitinib dose reduction is recommended. _Risk D: Consider therapy modification_
+
+【134】Barnidipine: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Barnidipine. _Risk X: Avoid combination_
+
+【135】Beclomethasone (Systemic): CYP3A4 Inhibitors (Strong) may increase the serum concentration of Beclomethasone (Systemic). _Risk C: Monitor therapy_
+
+【136】Bedaquiline: CYP3A4 Inhibitors (Strong) may increase serum concentrations of the active metabolite(s) of Bedaquiline. CYP3A4 Inhibitors (Strong) may increase the serum concentration of Bedaquiline. Management: Limit duration of concurrent use of bedaquiline with strong CYP3A4 inhibitors to no more than 14 days, unless the benefit of continued use outweighs the possible risks. Monitor for toxic effects of bedaquiline, including QTc interval prolongation. _Risk D: Consider therapy modification_
+
+【137】Belinostat: UGT1A1 Inhibitors may increase the serum concentration of Belinostat. _Risk X: Avoid combination_
+
+【138】Benidipine: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Benidipine. _Risk C: Monitor therapy_
+
+【139】Benperidol: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Benperidol. _Risk C: Monitor therapy_
+
+【140】Benzhydrocodone: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Benzhydrocodone. Specifically, the concentration of hydrocodone may be increased. _Risk C: Monitor therapy_
+
+【141】Betamethasone (Nasal): CYP3A4 Inhibitors (Strong) may increase the serum concentration of Betamethasone (Nasal). _Risk C: Monitor therapy_
+
+【142】Betamethasone (Ophthalmic): CYP3A4 Inhibitors (Strong) may increase the serum concentration of Betamethasone (Ophthalmic). _Risk C: Monitor therapy_
+
+【143】Betamethasone (Systemic): CYP3A4 Inhibitors (Strong) may increase the serum concentration of Betamethasone (Systemic). _Risk C: Monitor therapy_
+
+【144】Betamethasone (Topical): CYP3A4 Inhibitors (Strong) may increase the serum concentration of Betamethasone (Topical). _Risk C: Monitor therapy_
+
+【145】Betibeglogene Autotemcel: Antiretroviral Agents may diminish the therapeutic effect of Betibeglogene Autotemcel. _Risk X: Avoid combination_
+
+【146】Bictegravir: Atazanavir may increase the serum concentration of Bictegravir. _Risk C: Monitor therapy_
+
+【147】Bilastine: P-glycoprotein/ABCB1 Inhibitors may increase the serum concentration of Bilastine. _Risk X: Avoid combination_
+
+【148】Blonanserin: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Blonanserin. _Risk X: Avoid combination_
+
+【149】Bortezomib: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Bortezomib. _Risk C: Monitor therapy_
+
+【150】Bosentan: May decrease the serum concentration of Atazanavir. Atazanavir may increase the serum concentration of Bosentan. Management: Concurrent use of unboosted atazanavir (without ritonavir or cobicistat) and bosentan is not recommended. Bosentan dose adjustments and increased monitoring are recommended when used together with boosted atazanavir. See interaction monograph for details. _Risk D: Consider therapy modification_
+
+【151】Bosentan: Cobicistat may increase the serum concentration of Bosentan. Management: Dose adjustment of bosentan and increased monitoring for bosentan toxicities is necessary when these agents are combined. See full drug interaction monograph for details. _Risk D: Consider therapy modification_
+
+【152】Bosutinib: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Bosutinib. _Risk X: Avoid combination_
+
+【153】Brentuximab Vedotin: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Brentuximab Vedotin. Specifically, concentrations of the active monomethyl auristatin E (MMAE) component may be increased. _Risk C: Monitor therapy_
+
+【154】Brexpiprazole: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Brexpiprazole. Management: Reduce brexpiprazole dose 50% with strong CYP3A4 inhibitors; reduce to 25% of usual if used with both a strong CYP3A4 inhibitor and a CYP2D6 inhibitor in patients not being treated for MDD, or strong CYP3A4 inhibitor used in a CYP2D6 poor metabolizer. _Risk D: Consider therapy modification_
+
+【155】Brigatinib: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Brigatinib. Management: Avoid concurrent use of brigatinib with strong CYP3A4 inhibitors when possible. If combination cannot be avoided, reduce the brigatinib dose by approximately 50%, rounding to the nearest tablet strength (ie, from 180 mg to 90 mg, or from 90 mg to 60 mg). _Risk D: Consider therapy modification_
+
+【156】Brincidofovir: OATP1B1/1B3 (SLCO1B1/1B3) Inhibitors may increase the serum concentration of Brincidofovir. Management: Consider alternatives to OATP1B/1B3 inhibitors in patients treated with brincidofovir. If coadministration is required, administer OATP1B1/1B3 inhibitors at least 3 hours after brincidofovir and increase monitoring for brincidofovir adverse reactions. _Risk D: Consider therapy modification_
+
+【157】Bromocriptine: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Bromocriptine. Management: Consider alternatives to the use of bromocriptine with strong CYP3A4 inhibitors. If combined, monitor closely for increased bromocriptine toxicities and consider bromocriptine dose reductions. _Risk D: Consider therapy modification_
+
+【158】Bromperidol: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Bromperidol. _Risk C: Monitor therapy_
+
+【159】Brotizolam: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Brotizolam. _Risk C: Monitor therapy_
+
+【160】Budesonide (Nasal): CYP3A4 Inhibitors (Strong) may increase the serum concentration of Budesonide (Nasal). _Risk C: Monitor therapy_
+
+【161】Budesonide (Oral Inhalation): CYP3A4 Inhibitors (Strong) may increase the serum concentration of Budesonide (Oral Inhalation). Management: Consider alternatives to this combination when possible. If combined, monitor for increased corticosteroid adverse effects during coadministration of inhaled budesonide and strong CYP3A4 inhibitors. _Risk D: Consider therapy modification_
+
+【162】Budesonide (Systemic): CYP3A4 Inhibitors (Strong) may increase the serum concentration of Budesonide (Systemic). Management: Avoid the concomitant use of CYP3A4 inhibitors and oral budesonide. If patients receive both budesonide and a strong CYP3A4 inhibitor, they should be closely monitored for signs and symptoms of corticosteroid excess. _Risk D: Consider therapy modification_
+
+【163】Budesonide (Topical): CYP3A4 Inhibitors (Strong) may increase the serum concentration of Budesonide (Topical). _Risk X: Avoid combination_
+
+【164】Buprenorphine: May decrease the serum concentration of Atazanavir. Atazanavir may increase the serum concentration of Buprenorphine. Management: Buprenorphine is not recommended in patients taking atazanavir without ritonavir. In patients taking atazanavir with ritonavir or cobicistat, monitor for opioid excess if coadministered with buprenorphine and consider buprenorphine dose reductions. _Risk X: Avoid combination_
+
+【165】BusPIRone: CYP3A4 Inhibitors (Strong) may increase the serum concentration of BusPIRone. Management: Limit the buspirone dose to 2.5 mg daily and monitor patients for increased buspirone effects/toxicities if combined with strong CYP3A4 inhibitors. Dose adjustments of buspirone or a strong CYP3A4 inhibitor should be based on clinical assessment. _Risk D: Consider therapy modification_
+
+【166】Butorphanol: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Butorphanol. _Risk C: Monitor therapy_
+
+【167】Cabazitaxel: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Cabazitaxel. Management: Concurrent use of cabazitaxel with strong inhibitors of CYP3A4 should be avoided when possible. If such a combination must be used, consider a 25% reduction in the cabazitaxel dose. _Risk D: Consider therapy modification_
+
+【168】Cabozantinib: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Cabozantinib. Management: Avoid use of a strong CYP3A4 inhibitor with cabozantinib if possible. If combined, decrease cabozantinib capsules (Cometriq) by 40 mg from previous dose or decrease cabozantinib tablets (Cabometyx) by 20 mg from previous dose. _Risk D: Consider therapy modification_
+
+【169】Calcifediol: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Calcifediol. _Risk C: Monitor therapy_
+
+【170】Calcitriol (Systemic): CYP3A4 Inhibitors (Strong) may increase the serum concentration of Calcitriol (Systemic). _Risk C: Monitor therapy_
+
+【171】Cannabidiol: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Cannabidiol. _Risk C: Monitor therapy_
+
+【172】Cannabis: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Cannabis. More specifically, tetrahydrocannabinol and cannabidiol serum concentrations may be increased. _Risk C: Monitor therapy_
+
+【173】Capivasertib: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Capivasertib. Management: Avoid concomitant use of capivasertib with strong CYP3A4 inhibitors when possible. If combined, reduce the capivasertib dose to 320 mg twice daily for 4 days, followed by 3 days off. Monitor patients closely for adverse reactions. _Risk D: Consider therapy modification_
+
+【174】Capmatinib: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Capmatinib. _Risk C: Monitor therapy_
+
+【175】CarBAMazepine: May decrease the serum concentration of Cobicistat. Cobicistat may increase the serum concentration of CarBAMazepine. _Risk X: Avoid combination_
+
+【176】CarBAMazepine: May decrease the serum concentration of Atazanavir. Atazanavir may increase the serum concentration of CarBAMazepine. _Risk X: Avoid combination_
+
+【177】Cariprazine: CYP3A4 Inhibitors (Strong) may increase serum concentrations of the active metabolite(s) of Cariprazine. Specifically, concentrations of didesmethylcariprazine (DDCAR), the primary active metabolite of cariprazine, may increase. CYP3A4 Inhibitors (Strong) may increase the serum concentration of Cariprazine. Management: Decrease cariprazine dose 50%  if starting a strong CYP3A4 inhibitor. If on a strong CYP3A4 inhibitor, start cariprazine at 1.5 mg day 1, 0 mg day 2, then 1.5 mg daily. May increase to 3 mg daily _Risk D: Consider therapy modification_
+
+【178】Celiprolol: P-glycoprotein/ABCB1 Inhibitors may increase the serum concentration of Celiprolol. _Risk C: Monitor therapy_
+
+【179】Ceritinib: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Ceritinib. Management: Avoid this combination whenever possible. If combined, the ceritinib dose should be reduced by approximately one-third (to the nearest 150 mg). Resume the prior ceritinib dose after cessation of the strong CYP3A4 inhibitor. _Risk D: Consider therapy modification_
+
+【180】ChlordiazePOXIDE: CYP3A4 Inhibitors (Strong) may increase the serum concentration of ChlordiazePOXIDE. _Risk C: Monitor therapy_
+
+【181】Ciclesonide (Oral Inhalation): CYP3A4 Inhibitors (Strong) may increase serum concentrations of the active metabolite(s) of Ciclesonide (Oral Inhalation). _Risk C: Monitor therapy_
+
+【182】Cilnidipine: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Cilnidipine. _Risk C: Monitor therapy_
+
+【183】Cilostazol: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Cilostazol. Management: Decrease the dose of cilostazol to 50 mg twice daily when combined with strong CYP3A4 inhibitors. _Risk D: Consider therapy modification_
+
+【184】Cinacalcet: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Cinacalcet. _Risk C: Monitor therapy_
+
+【185】Cisapride: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Cisapride. _Risk X: Avoid combination_
+
+【186】Cladribine: BCRP/ABCG2 Inhibitors may increase the serum concentration of Cladribine. Management: Avoid concomitant use of BCRP inhibitors during the 4 to 5 day oral cladribine treatment cycles whenever possible. If combined, consider dose reduction of the BCRP inhibitor and separation in the timing of administration. _Risk D: Consider therapy modification_
+
+【187】Clarithromycin: Cobicistat may decrease serum concentrations of the active metabolite(s) of Clarithromycin. Cobicistat may increase the serum concentration of Clarithromycin. Management: Consider alternative antibiotics. Reduce clarithromycin dose by 50% in patients receiving elvitegravir/cobicistat/emtricitabine/tenofovir with estimated creatinine clearance 50 to 60 mL/min. Closely monitor for clarithromycin toxicity. _Risk D: Consider therapy modification_
+
+【188】Clarithromycin: Atazanavir may decrease serum concentrations of the active metabolite(s) of Clarithromycin. Atazanavir may increase the serum concentration of Clarithromycin. Clarithromycin may increase the serum concentration of Atazanavir. Management: Decrease clarithromycin dose 50% and do not exceed 1,000 mg per day. Decrease clarithromycin dose 75% in patients with CrCL less than 30 mL/min. Use alternative antimicrobial therapy if treating infections other than _Mycobacterium avium_ complex. _Risk D: Consider therapy modification_
+
+【189】Clindamycin (Systemic): CYP3A4 Inhibitors (Strong) may increase the serum concentration of Clindamycin (Systemic). _Risk C: Monitor therapy_
+
+【190】Clofazimine: May increase the serum concentration of CYP3A4 Substrates (High risk with Inhibitors). _Risk C: Monitor therapy_
+
+【191】ClonazePAM: CYP3A4 Inhibitors (Strong) may increase the serum concentration of ClonazePAM. _Risk C: Monitor therapy_
+
+【192】Clopidogrel: Cobicistat may decrease serum concentrations of the active metabolite(s) of Clopidogrel. Management: Consider alternatives to this combination when possible, as HIV treatment guidelines recommend that this combination not be coadministered. If coadministered, monitor closely for evidence of diminished antiplatelet response to clopidogrel. _Risk D: Consider therapy modification_
+
+【193】Clopidogrel: Atazanavir may diminish the antiplatelet effect of Clopidogrel. Atazanavir may decrease serum concentrations of the active metabolite(s) of Clopidogrel. Management: Coadministration of clopidogrel and atazanavir is not recommended and alternative should be sought if possible. If combined, monitor closely for evidence of diminished antiplatelet response to clopidogrel. _Risk D: Consider therapy modification_
+
+【194】CloZAPine: CYP3A4 Inhibitors (Strong) may increase the serum concentration of CloZAPine. _Risk C: Monitor therapy_
+
+【195】Cobicistat: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Cobicistat. _Risk C: Monitor therapy_
+
+【196】Cobimetinib: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Cobimetinib. _Risk X: Avoid combination_
+
+【197】Codeine: CYP3A4 Inhibitors (Strong) may increase serum concentrations of the active metabolite(s) of Codeine. _Risk C: Monitor therapy_
+
+【198】Colchicine: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Colchicine. Management: This combination is often contraindicated, but combined use may be permitted with dose adjustment and monitoring. Recommendations vary based on brand, indication, use of P-gp inhibitors, and hepatic/renal function. See interaction monograph for details _Risk D: Consider therapy modification_
+
+【199】Conivaptan: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Conivaptan. _Risk X: Avoid combination_
+
+【200】Copanlisib: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Copanlisib. Management: If concomitant use of copanlisib and strong CYP3A4 inhibitors cannot be avoided, reduce the copanlisib dose to 45 mg. Monitor patients for increased copanlisib effects/toxicities. _Risk D: Consider therapy modification_
+
+【201】Cortisone: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Cortisone. _Risk C: Monitor therapy_
+
+【202】Crizotinib: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Crizotinib. Management: Avoid concomitant use of crizotinib and strong CYP3A4 inhibitors whenever possible. If combined use cannot be avoided, crizotinib dose reductions are required, which vary according to indication. See full interaction monograph for details. _Risk D: Consider therapy modification_
+
+【203】CycloPHOSphamide: Protease Inhibitors may enhance the adverse/toxic effect of CycloPHOSphamide. Specifically, the incidences of neutropenia, infection, and mucositis may be increased. Protease Inhibitors may increase the serum concentration of CycloPHOSphamide. _Risk C: Monitor therapy_
+
+【204】CycloSPORINE (Systemic): CYP3A4 Inhibitors (Strong) may increase the serum concentration of CycloSPORINE (Systemic). Management: Monitor cyclosporine serum concentrations and clinical cyclosporine closely with concurrent use of any strong CYP3A4 inhibitor. Cyclosporine dose reductions and/or prolongation of the dosing interval will likely be required. _Risk D: Consider therapy modification_
+
+【205】CYP3A4 Inducers (Moderate): May decrease the serum concentration of Cobicistat. _Risk C: Monitor therapy_
+
+【206】CYP3A4 Inducers (Moderate): May decrease the serum concentration of Atazanavir. _Risk C: Monitor therapy_
+
+【207】CYP3A4 Inducers (Strong): May decrease the serum concentration of Cobicistat. Management: Consider alternatives to this combination when possible. If combined, monitor for reduced cobicistat efficacy. _Risk D: Consider therapy modification_
+
+【208】CYP3A4 Inhibitors (Moderate): May increase the serum concentration of Atazanavir. _Risk C: Monitor therapy_
+
+【209】CYP3A4 Inhibitors (Strong): May increase the serum concentration of Cobicistat. _Risk C: Monitor therapy_
+
+【210】CYP3A4 Inhibitors (Strong): May increase the serum concentration of Atazanavir. _Risk C: Monitor therapy_
+
+【211】Cyproterone: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Cyproterone. _Risk C: Monitor therapy_
+
+【212】Dabigatran Etexilate: P-glycoprotein/ABCB1 Inhibitors may increase serum concentrations of the active metabolite(s) of Dabigatran Etexilate. _Risk C: Monitor therapy_
+
+【213】Dabrafenib: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Dabrafenib. Management: Consider alternatives to any strong CYP3A4 inhibitor for patients being treated with dabrafenib. If such a combination cannot be avoided, monitor closely for evidence of dabrafenib-related adverse effects. _Risk D: Consider therapy modification_
+
+【214】Daclatasvir: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Daclatasvir. Management: Decrease the daclatasvir dose to 30 mg once daily if combined with a strong CYP3A4 inhibitor. _Risk D: Consider therapy modification_
+
+【215】Dapoxetine: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Dapoxetine. _Risk X: Avoid combination_
+
+【216】Daprodustat: CYP2C8 Inhibitors (Weak) may increase the serum concentration of Daprodustat. _Risk C: Monitor therapy_
+
+【217】Dapsone (Systemic): May enhance the adverse/toxic effect of Atazanavir. Specifically, the risk of hyperbilirubinemia may be increased. _Risk C: Monitor therapy_
+
+【218】Daridorexant: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Daridorexant. _Risk X: Avoid combination_
+
+【219】Darifenacin: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Darifenacin. Management: Limit the darifenacin dose to no more than 7.5 mg daily if combined with strong CYP3A4 inhibitors. Monitor patients for increased darifenacin toxicities (eg, dry mouth, constipation, headache, CNS effects) when these agents are combined. _Risk D: Consider therapy modification_
+
+【220】Darolutamide: Inhibitors of CYP3A4 (Strong) and P-glycoprotein may increase the serum concentration of Darolutamide. _Risk C: Monitor therapy_
+
+【221】Darunavir: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Darunavir. _Risk C: Monitor therapy_
+
+【222】Dasatinib: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Dasatinib. Management: This combination should be avoided if possible. If combined, decrease dasatinib dose from 140 mg to 40 mg, 100 mg to 20 mg, or 70 mg to 20 mg. For patients taking 60 mg or 40 mg daily, stop dasatinib until the CYP3A4 inhibitor is discontinued. _Risk D: Consider therapy modification_
+
+【223】Deflazacort: CYP3A4 Inhibitors (Strong) may increase serum concentrations of the active metabolite(s) of Deflazacort. Management: Administer one third of the recommended deflazacort dose when used together with a strong or moderate CYP3A4 inhibitor. _Risk D: Consider therapy modification_
+
+【224】Delamanid: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Delamanid. Management: Increase ECG monitoring frequency if delamanid is combined with strong CYP3A4 inhibitors due to the risk for QTc interval prolongation. Continue frequent ECG assessments throughout full delamanid treatment period. _Risk D: Consider therapy modification_
+
+【225】DexAMETHasone (Ophthalmic): CYP3A4 Inhibitors (Strong) may increase the serum concentration of DexAMETHasone (Ophthalmic). _Risk C: Monitor therapy_
+
+【226】DexAMETHasone (Systemic): Cobicistat may increase the serum concentration of DexAMETHasone (Systemic). DexAMETHasone (Systemic) may decrease the serum concentration of Cobicistat. Management: Consider an alternative corticosteroid. Monitor patients receiving this combination closely for evidence of diminished response to the antiviral regimen as well as increased dexamethasone effects and toxicities. _Risk D: Consider therapy modification_
+
+【227】DiazePAM: CYP3A4 Inhibitors (Strong) may increase the serum concentration of DiazePAM. _Risk C: Monitor therapy_
+
+【228】Didanosine: May decrease the serum concentration of Atazanavir. Specifically, the buffered formulation of didanosine may decrease atazanavir absorption. Atazanavir may decrease the serum concentration of Didanosine. Reported with enteric coated didanosine capsules. Management: To avoid therapeutic failure of atazanavir, atazanavir should be administered 2 hours before or 1 hour after didanosine. This recommendation applies to both buffered didanosine products and enteric coated didanosine products. _Risk D: Consider therapy modification_
+
+【229】Dienogest: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Dienogest. _Risk C: Monitor therapy_
+
+【230】Digoxin: Cobicistat may increase the serum concentration of Digoxin. _Risk C: Monitor therapy_
+
+【231】DilTIAZem: CYP3A4 Inhibitors (Strong) may increase the serum concentration of DilTIAZem. _Risk C: Monitor therapy_
+
+【232】Disopyramide: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Disopyramide. _Risk C: Monitor therapy_
+
+【233】Disulfiram: Atazanavir may diminish the therapeutic effect of Disulfiram. _Risk C: Monitor therapy_
+
+【234】DOCEtaxel: CYP3A4 Inhibitors (Strong) may increase the serum concentration of DOCEtaxel. Management: Avoid the concomitant use of docetaxel and strong CYP3A4 inhibitors when possible. If combined use is unavoidable, consider a 50% docetaxel dose reduction and monitor for increased docetaxel toxicities. _Risk D: Consider therapy modification_
+
+【235】Dofetilide: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Dofetilide. _Risk C: Monitor therapy_
+
+【236】Domperidone: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Domperidone. _Risk X: Avoid combination_
+
+【237】Doxazosin: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Doxazosin. _Risk C: Monitor therapy_
+
+【238】Doxercalciferol: CYP3A4 Inhibitors (Strong) may decrease serum concentrations of the active metabolite(s) of Doxercalciferol. _Risk C: Monitor therapy_
+
+【239】DOXOrubicin (Conventional): CYP3A4 Inhibitors (Strong) may increase the serum concentration of DOXOrubicin (Conventional). _Risk X: Avoid combination_
+
+【240】DOXOrubicin (Conventional): P-glycoprotein/ABCB1 Inhibitors may increase the serum concentration of DOXOrubicin (Conventional). _Risk X: Avoid combination_
+
+【241】DOXOrubicin (Liposomal): CYP3A4 Inhibitors (Strong) may increase the serum concentration of DOXOrubicin (Liposomal). _Risk C: Monitor therapy_
+
+【242】DOXOrubicin (Liposomal): P-glycoprotein/ABCB1 Inhibitors may increase the serum concentration of DOXOrubicin (Liposomal). _Risk C: Monitor therapy_
+
+【243】DroNABinol: CYP3A4 Inhibitors (Strong) may increase the serum concentration of DroNABinol. _Risk C: Monitor therapy_
+
+【244】Dronedarone: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Dronedarone. _Risk X: Avoid combination_
+
+【245】Dutasteride: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Dutasteride. _Risk C: Monitor therapy_
+
+【246】Duvelisib: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Duvelisib. Management: Reduce the dose of duvelisib to 15 mg twice a day when used together with a strong CYP3A4 inhibitor. Monitor closely for evidence of altered response to treatment. _Risk D: Consider therapy modification_
+
+【247】Dydrogesterone: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Dydrogesterone. _Risk C: Monitor therapy_
+
+【248】Ebastine: CYP3A4 Inhibitors (Strong) may increase serum concentrations of the active metabolite(s) of Ebastine. CYP3A4 Inhibitors (Strong) may increase the serum concentration of Ebastine. _Risk C: Monitor therapy_
+
+【249】Edoxaban: P-glycoprotein/ABCB1 Inhibitors may increase the serum concentration of Edoxaban. _Risk C: Monitor therapy_
+
+【250】Efavirenz: May decrease the serum concentration of Atazanavir. Management: Only use atazanavir/ritonavir  an efavirenz  in treatment-naive patients. Use in treatment-experienced patients, or other combination of atazanavir and efavirenz, are not recommended. _Risk D: Consider therapy modification_
+
+【251】Efonidipine: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Efonidipine. _Risk C: Monitor therapy_
+
+【252】Elacestrant: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Elacestrant. _Risk X: Avoid combination_
+
+【253】Elagolix: OATP1B1/1B3 (SLCO1B1/1B3) Inhibitors may increase the serum concentration of Elagolix. _Risk X: Avoid combination_
+
+【254】Elagolix, Estradiol, and Norethindrone: OATP1B1/1B3 (SLCO1B1/1B3) Inhibitors may increase the serum concentration of Elagolix, Estradiol, and Norethindrone. Specifically, concentrations of elagolix may be increased. _Risk X: Avoid combination_
+
+【255】Elagolix, Estradiol, and Norethindrone: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Elagolix, Estradiol, and Norethindrone. Elagolix, Estradiol, and Norethindrone may decrease the serum concentration of CYP3A4 Inhibitors (Strong). Specifically, concentrations of strong CYP3A4 inhibitors that are also CYP3A4 substrates may be decreased. _Risk X: Avoid combination_
+
+【256】Elbasvir and Grazoprevir: Atazanavir may increase the serum concentration of Elbasvir and Grazoprevir. _Risk X: Avoid combination_
+
+【257】Elbasvir and Grazoprevir: Cobicistat may increase the serum concentration of Elbasvir and Grazoprevir. _Risk X: Avoid combination_
+
+【258】Eletriptan: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Eletriptan. _Risk X: Avoid combination_
+
+【259】Elexacaftor, Tezacaftor, and Ivacaftor: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Elexacaftor, Tezacaftor, and Ivacaftor. Management: Administer elexacaftor/tezacaftor/ivacaftor in the morning, twice a week, 3 to 4 days apart, with no evening doses of ivacaftor alone. Specific dosing varies by age and weight. See full monograph for details. _Risk D: Consider therapy modification_
+
+【260】Eliglustat: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Eliglustat. Management: Reduce eliglustat dose to 84 mg daily in CYP2D6 EMs when used with strong CYP3A4 inhibitors. Use of strong CYP3A4 inhibitors is contraindicated in CYP2D6 IMs, PMs, or in CYP2D6 EMs who are also taking strong or moderate CYP2D6 inhibitors. _Risk D: Consider therapy modification_
+
+【261】Elivaldogene Autotemcel: Antiretroviral Agents may diminish the therapeutic effect of Elivaldogene Autotemcel. Management: Avoid use of antiretroviral medications for at least one month, or for the amount of time required for elimination of the retroviral medication, prior to stem cell mobilization and until the all apheresis cycles are finished _Risk X: Avoid combination_
+
+【262】Eluxadoline: OATP1B1/1B3 (SLCO1B1/1B3) Inhibitors may increase the serum concentration of Eluxadoline. Management: Decrease the eluxadoline dose to 75 mg twice daily if combined with OATP1B1/1B3 inhibitors and monitor patients for increased eluxadoline effects/toxicities. _Risk D: Consider therapy modification_
+
+【263】Elvitegravir: Atazanavir may increase the serum concentration of Elvitegravir. Specifically, atazanavir/ritonavir may increase the concentration of elvitegravir. Management: When elvitegravir is combined with atazanavir/ritonavir, the dose of elvitegravir should be reduced to 85 mg once daily and the dose of atazanavir/ritonavir should be 300 mg/100 mg once daily. Avoid the use of atazanavir/cobicistat and elvitegravir. _Risk D: Consider therapy modification_
+
+【264】Encorafenib: May decrease the serum concentration of Atazanavir. Atazanavir may increase the serum concentration of Encorafenib. _Risk X: Avoid combination_
+
+【265】Enfortumab Vedotin: Inhibitors of CYP3A4 (Strong) and P-glycoprotein may increase the serum concentration of Enfortumab Vedotin. Specifically, concentrations of the active monomethyl auristatin E (MMAE) component may be increased. _Risk C: Monitor therapy_
+
+【266】Entrectinib: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Entrectinib. Management: Avoid strong CYP3A4 inhibitors if possible. If needed, reduce entrectinib dose to 50 mg on alternating days if starting dose 200 mg; to 50 mg/day if starting dose 300 mg or 400 mg; to 100 mg/day if starting dose 600 mg. _Risk D: Consider therapy modification_
+
+【267】Eplerenone: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Eplerenone. _Risk X: Avoid combination_
+
+【268】Erdafitinib: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Erdafitinib. Management: Avoid concomitant use of erdafitinib and strong CYP3A4 inhibitors when possible. If combined, monitor closely for erdafitinib adverse reactions and consider dose modifications accordingly. _Risk D: Consider therapy modification_
+
+【269】Ergot Derivatives (Vasoconstrictive CYP3A4 Substrates): CYP3A4 Inhibitors (Strong) may increase the serum concentration of Ergot Derivatives (Vasoconstrictive CYP3A4 Substrates). _Risk X: Avoid combination_
+
+【270】Erlotinib: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Erlotinib. Management: Avoid use of this combination when possible. When the combination must be used, monitor the patient closely for the development of erlotinib-associated adverse reactions, and if such severe reactions occur, reduce the erlotinib dose (in 50 mg decrements). _Risk D: Consider therapy modification_
+
+【271】Erythromycin (Systemic): Cobicistat may increase the serum concentration of Erythromycin (Systemic). Management: Consider alternatives to this combination when cobicistat is combined with atazanavir or darunavir. If combined, monitor for increased erythromycin and cobicistat effects/toxicities. _Risk D: Consider therapy modification_
+
+【272】Eslicarbazepine: May decrease the serum concentration of Cobicistat. Management: Consider alternatives to eslicarbazepine in patients treated with cobicistat. If coadministration cannot be avoided, monitor for loss of virologic response. _Risk D: Consider therapy modification_
+
+【273】Estrogen Derivatives: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Estrogen Derivatives. _Risk C: Monitor therapy_
+
+【274】Estrogen Derivatives: Protease Inhibitors may decrease the serum concentration of Estrogen Derivatives. Protease Inhibitors may increase the serum concentration of Estrogen Derivatives. _Risk C: Monitor therapy_
+
+【275】Eszopiclone: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Eszopiclone. Management: Limit the eszopiclone dose to 2 mg daily when combined with strong CYP3A4 inhibitors and monitor for increased eszopiclone effects and toxicities (eg, somnolence, drowsiness, CNS depression). _Risk D: Consider therapy modification_
+
+【276】Ethosuximide: Cobicistat may increase the serum concentration of Ethosuximide. _Risk C: Monitor therapy_
+
+【277】Etizolam: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Etizolam. _Risk C: Monitor therapy_
+
+【278】Etoposide: P-glycoprotein/ABCB1 Inhibitors may increase the serum concentration of Etoposide. _Risk C: Monitor therapy_
+
+【279】Etoposide Phosphate: P-glycoprotein/ABCB1 Inhibitors may increase the serum concentration of Etoposide Phosphate. _Risk C: Monitor therapy_
+
+【280】Etravirine: Atazanavir may increase the serum concentration of Etravirine. Etravirine may decrease the serum concentration of Atazanavir. Management: The combination of etravirine and atazanavir should be avoided unless atazanavir is boosted with ritonavir. The use of cobicistat instead of ritonavir has not been evaluated and is not recommended. _Risk D: Consider therapy modification_
+
+【281】Everolimus: Inhibitors of CYP3A4 (Strong) and P-glycoprotein may increase the serum concentration of Everolimus. _Risk X: Avoid combination_
+
+【282】Evogliptin: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Evogliptin. _Risk C: Monitor therapy_
+
+【283】Fedratinib: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Fedratinib. Management: Consider alternatives when possible. If used together, decrease fedratinib dose to 200 mg/day. After the inhibitor is stopped, increase fedratinib to 300 mg/day for the first 2 weeks and then to 400 mg/day as tolerated. _Risk D: Consider therapy modification_
+
+【284】Felodipine: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Felodipine. Management: Consider using lower felodipine doses when combined with strong CYP3A4 inhibitors. Monitor patients for increased felodipine effects and toxicities (eg, hypotension, edema) when combined. _Risk D: Consider therapy modification_
+
+【285】FentaNYL: CYP3A4 Inhibitors (Strong) may increase the serum concentration of FentaNYL. Management: Consider fentanyl dose reductions when combined with a strong CYP3A4 inhibitor. Monitor for respiratory depression and sedation. Upon discontinuation of a CYP3A4 inhibitor, consider a fentanyl dose increase; monitor for signs and symptoms of withdrawal. _Risk D: Consider therapy modification_
+
+【286】Fesoterodine: CYP3A4 Inhibitors (Strong) may increase serum concentrations of the active metabolite(s) of Fesoterodine. Management: Limit fesoterodine doses to 4 mg daily in patients who are also receiving strong CYP3A4 inhibitors. This combination is not recommended in pediatric patients weighing 25 kg up to 35 kg. _Risk D: Consider therapy modification_
+
+【287】Fexinidazole: CYP3A4 Inhibitors (Strong) may decrease serum concentrations of the active metabolite(s) of Fexinidazole. Management: Avoid use of fexinidazole and strong CYP3A4 inhibitors when possible. If combined, monitor for reduced fexinidazole efficacy. _Risk D: Consider therapy modification_
+
+【288】Finerenone: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Finerenone. _Risk X: Avoid combination_
+
+【289】Flibanserin: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Flibanserin. Management: Use of flibanserin with strong CYP3A4 inhibitors is contraindicated. If starting flibanserin, start 2 weeks after the last dose of the CYP3A4 inhibitor. If starting a CYP3A4 inhibitor, start 2 days after the last dose of flibanserin. _Risk X: Avoid combination_
+
+【290】Flunitrazepam: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Flunitrazepam. _Risk C: Monitor therapy_
+
+【291】Fluticasone (Nasal): CYP3A4 Inhibitors (Strong) may increase the serum concentration of Fluticasone (Nasal). _Risk X: Avoid combination_
+
+【292】Fluticasone (Oral Inhalation): CYP3A4 Inhibitors (Strong) may increase the serum concentration of Fluticasone (Oral Inhalation). Management: Consider alternatives to this combination if possible. Coadministration of fluticasone propionate and strong CYP3A4 inhibitors is not recommended. If combined, monitor patients for systemic corticosteroid adverse effects (eg, adrenal suppression). _Risk D: Consider therapy modification_
+
+【293】Fluticasone (Topical): CYP3A4 Inhibitors (Strong) may increase the serum concentration of Fluticasone (Topical). _Risk C: Monitor therapy_
+
+【294】Fluvastatin: Atazanavir may increase the serum concentration of Fluvastatin. Management: When used with atazanavir/cobicistat, initiate fluvastatin at the lowest recommended dose and monitor clinical response (particularly any evidence of toxicity) to dose titration. _Risk D: Consider therapy modification_
+
+【295】Fosamprenavir: Cobicistat may increase the serum concentration of Fosamprenavir. However, the magnitude of this change is unclear, and dosing recommendations for this combination are not available. _Risk X: Avoid combination_
+
+【296】Fosaprepitant: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Fosaprepitant. _Risk X: Avoid combination_
+
+【297】Fosphenytoin-Phenytoin: May decrease the serum concentration of Cobicistat. _Risk X: Avoid combination_
+
+【298】Fosphenytoin-Phenytoin: Atazanavir may decrease the serum concentration of Fosphenytoin-Phenytoin. Fosphenytoin-Phenytoin may decrease the serum concentration of Atazanavir. _Risk X: Avoid combination_
+
+【299】Fostamatinib: CYP3A4 Inhibitors (Strong) may increase serum concentrations of the active metabolite(s) of Fostamatinib. _Risk C: Monitor therapy_
+
+【300】Fusidic Acid (Systemic): May increase the serum concentration of Protease Inhibitors. Protease Inhibitors may increase the serum concentration of Fusidic Acid (Systemic). Management: Avoid this combination if possible, due to the risk of increased concentrations of both agents which increases the risk of hepatotoxicity. If combined, monitor patients closely for adverse effects of both agents. _Risk D: Consider therapy modification_
+
+【301】Futibatinib: Inhibitors of CYP3A4 (Strong) and P-glycoprotein may increase the serum concentration of Futibatinib. _Risk X: Avoid combination_
+
+【302】Galantamine: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Galantamine. _Risk C: Monitor therapy_
+
+【303】Garlic: May decrease the serum concentration of Protease Inhibitors. _Risk X: Avoid combination_
+
+【304】Gefitinib: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Gefitinib. _Risk C: Monitor therapy_
+
+【305】Gepirone: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Gepirone. _Risk X: Avoid combination_
+
+【306】Gilteritinib: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Gilteritinib. Management: Consider alternatives to the use of a strong CYP3A4 inhibitor with gilteritinib. If the combination cannot be avoided, monitor more closely for evidence of gilteritinib toxicities. _Risk D: Consider therapy modification_
+
+【307】Glasdegib: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Glasdegib. Management: Consider alternatives to this combination when possible. If the combination must be used, monitor closely for evidence of QT interval prolongation and other adverse reactions to glasdegib. _Risk D: Consider therapy modification_
+
+【308】Glecaprevir and Pibrentasvir: Atazanavir may increase the serum concentration of Glecaprevir and Pibrentasvir. _Risk X: Avoid combination_
+
+【309】GuanFACINE: CYP3A4 Inhibitors (Strong) may increase the serum concentration of GuanFACINE. Management: Reduce the extended-release guanfacine dose 50% when combined with a strong CYP3A4 inhibitor. Monitor for increased guanfacine toxicities when these agents are combined. _Risk D: Consider therapy modification_
+
+【310】Halofantrine: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Halofantrine. Management: Consider alternatives to this combination whenever possible. If combined, monitor closely for halofantrine toxicities, including QTc interval prolongation. _Risk D: Consider therapy modification_
+
+【311】Haloperidol: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Haloperidol. _Risk C: Monitor therapy_
+
+【312】Histamine H2 Receptor Antagonists: May decrease the serum concentration of Atazanavir. Management: Specific dose limitations and administration guidelines exist; consult full interaction monograph or atazanavir prescribing information. _Risk D: Consider therapy modification_
+
+【313】Hormonal Contraceptives: Atazanavir may decrease the serum concentration of Hormonal Contraceptives. Specifically, atazanavir/ritonavir may decrease concentrations of estrogens. Atazanavir may increase the serum concentration of Hormonal Contraceptives. Specifically, atazanavir alone may increase concentrations of estrogens and atazanavir alone or boosted may increase concentrations of progestins. Management: Dose adjustment of hormonal contraceptives or use of alternative or additional nonhormonal contraceptive may be needed when combined with atazanavir. See full interact monograph for details. Atazanavir/cobicistat with drospirenone is contraindicated. _Risk D: Consider therapy modification_
+
+【314】Hormonal Contraceptives: Cobicistat may decrease the serum concentration of Hormonal Contraceptives. Specifically, cobicistat may decrease serum concentrations of estrogens. Cobicistat may increase the serum concentration of Hormonal Contraceptives. Specifically, cobicistat may increase serum concentrations of progestins. Management: Use alternative or additional nonhormonal forms of contraception when estrogen-containing hormonal contraceptives are combined with cobicistat. Progestin-only contraceptives can be used without back up, but monitor for progestin toxicities. _Risk D: Consider therapy modification_
+
+【315】HYDROcodone: CYP3A4 Inhibitors (Strong) may increase the serum concentration of HYDROcodone. _Risk C: Monitor therapy_
+
+【316】Hydrocortisone (Systemic): CYP3A4 Inhibitors (Strong) may increase the serum concentration of Hydrocortisone (Systemic). _Risk C: Monitor therapy_
+
+【317】Ibrexafungerp: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Ibrexafungerp. Management: Decrease the ibrexafungerp dose to 150 mg every 12 hours for 2 doses in patients receiving strong CYP3A4 inhibitors. _Risk D: Consider therapy modification_
+
+【318】Ibrutinib: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Ibrutinib. Management: Avoid concomitant use of ibrutinib and strong CYP3A4 inhibitors. If a strong CYP3A4 inhibitor must be used short-term (eg, anti-infectives for 7 days or less), interrupt ibrutinib therapy until the strong CYP3A4 inhibitor is discontinued. _Risk X: Avoid combination_
+
+【319】Idelalisib: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Idelalisib. Management: Use alternative therapies that are not strong CYP3A4 inhibitors whenever possible. If unable to use alternative drugs, monitor patients more frequently for idelalisib toxicities. _Risk D: Consider therapy modification_
+
+【320】Ifosfamide: CYP3A4 Inhibitors (Strong) may decrease serum concentrations of the active metabolite(s) of Ifosfamide. _Risk C: Monitor therapy_
+
+【321】Iloperidone: CYP3A4 Inhibitors (Strong) may increase serum concentrations of the active metabolite(s) of Iloperidone. Specifically, concentrations of the metabolites P88 and P95 may be increased. CYP3A4 Inhibitors (Strong) may increase the serum concentration of Iloperidone. Management: Reduce iloperidone dose by half when administered with a strong CYP3A4 inhibitor. _Risk D: Consider therapy modification_
+
+【322】Imatinib: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Imatinib. _Risk C: Monitor therapy_
+
+【323】Imidafenacin: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Imidafenacin. _Risk C: Monitor therapy_
+
+【324】Indinavir: Atazanavir may enhance the adverse/toxic effect of Indinavir. Indinavir may enhance the adverse/toxic effect of Atazanavir. Specifically, the risk for hyperbilirubinemia may be increased when these agents are combined. _Risk X: Avoid combination_
+
+【325】Infigratinib: CYP3A4 Inhibitors (Strong) may decrease serum concentrations of the active metabolite(s) of Infigratinib. CYP3A4 Inhibitors (Strong) may increase serum concentrations of the active metabolite(s) of Infigratinib. CYP3A4 Inhibitors (Strong) may increase the serum concentration of Infigratinib. _Risk X: Avoid combination_
+
+【326】Inhibitors of the Proton Pump (PPIs and PCABs): May decrease the serum concentration of Atazanavir. Management: Avoid use in treatment-experienced patients. In treatment-naive patients, administer boosted atazanavir 12 hours after the PPI and the PPI dose should not exceed the equivalent of 20 mg omeprazole. Monitor for reduced atazanavir efficacy. _Risk D: Consider therapy modification_
+
+【327】Irinotecan Products: Atazanavir may increase serum concentrations of the active metabolite(s) of Irinotecan Products. Specifically, serum concentrations of SN-38 may be increased. _Risk X: Avoid combination_
+
+【328】Isavuconazonium Sulfate: CYP3A4 Inhibitors (Strong) may increase serum concentrations of the active metabolite(s) of Isavuconazonium Sulfate. Specifically, CYP3A4 Inhibitors (Strong) may increase isavuconazole serum concentrations. _Risk X: Avoid combination_
+
+【329】Isradipine: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Isradipine. _Risk C: Monitor therapy_
+
+【330】Istradefylline: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Istradefylline. Management: Limit the maximum istradefylline dose to 20 mg daily when combined with strong CYP3A4 inhibitors and monitor for increased istradefylline effects/toxicities. _Risk D: Consider therapy modification_
+
+【331】Itraconazole: May increase the serum concentration of Cobicistat. Cobicistat may increase the serum concentration of Itraconazole. Management: Limit itraconazole to a maximum adult dose of 200 mg/day in patients treated with the elvitegravir/cobicistat/emtricitabine/tenofovir combination products. Dosing recommendations for other cobicistat-containing products are not available. _Risk D: Consider therapy modification_
+
+【332】Ivabradine: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Ivabradine. _Risk X: Avoid combination_
+
+【333】Ivacaftor: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Ivacaftor. Management: Ivacaftor dose reductions are required; consult full drug interaction monograph content for age- and weight-specific recommendations. _Risk D: Consider therapy modification_
+
+【334】Ivosidenib: Atazanavir may increase the serum concentration of Ivosidenib. Ivosidenib may decrease the serum concentration of Atazanavir. _Risk X: Avoid combination_
+
+【335】Ixabepilone: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Ixabepilone. Management: Avoid use of ixabepilone and strong CYP3A4 inhibitors when possible. If combined, reduce the ixabepilone dose to 20 mg/m 2 . The previous ixabepilone dose can be resumed 1 week after discontinuation of the strong CYP3A4 inhibitor. _Risk D: Consider therapy modification_
+
+【336】Ketamine: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Ketamine. _Risk C: Monitor therapy_
+
+【337】Ketoconazole (Systemic): May increase the serum concentration of Cobicistat. Cobicistat may increase the serum concentration of Ketoconazole (Systemic). Management: Limit ketoconazole to a maximum adult dose of 200 mg/day in patients being treated with the elvitegravir/cobicistat/emtricitabine/tenofovir combination product. Dosing recommendations for other cobicistat-containing products are not available. _Risk D: Consider therapy modification_
+
+【338】Lacidipine: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Lacidipine. _Risk C: Monitor therapy_
+
+【339】LamoTRIgine: Atazanavir may decrease the serum concentration of LamoTRIgine. Specifically, the use of ritonavir-boosted atazanavir may decrease the serum concentration of lamotrigine. _Risk C: Monitor therapy_
+
+【340】Lapatinib: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Lapatinib. Management: Avoid use of lapatinib and strong CYP3A4 inhibitors when possible. If combined, a reduced lapatinib dose of 500 mg daily should be considered. The previous lapatinib dose can be resumed 1 week after discontinuation of the strong CYP3A4 inhibitor. _Risk D: Consider therapy modification_
+
+【341】Larotrectinib: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Larotrectinib. Management: Avoid use of strong CYP3A4 inhibitors with larotrectinib. If this combination cannot be avoided, reduce the larotrectinib dose by 50%. Increase to previous dose after stopping the inhibitor after a period of 3 to 5 times the inhibitor's half-life. _Risk D: Consider therapy modification_
+
+【342】Lefamulin: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Lefamulin. Management: Avoid concomitant use of lefamulin tablets and strong inhibitors of CYP3A4. _Risk X: Avoid combination_
+
+【343】Lemborexant: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Lemborexant. _Risk X: Avoid combination_
+
+【344】Lenacapavir: Atazanavir may increase the serum concentration of Lenacapavir. Management: Concomitant use of atazanavir/cobicistat or atazanavir/ritonavir with lenacapavir is not recommended. Use of atazanavir alone may result in increases in lenacapavir concentrations, but concomitant use is allowed. _Risk X: Avoid combination_
+
+【345】Leniolisib: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Leniolisib. _Risk X: Avoid combination_
+
+【346】Lercanidipine: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Lercanidipine. _Risk X: Avoid combination_
+
+【347】Leuprolide and Norethindrone: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Leuprolide and Norethindrone. Specifically, concentrations of norethindrone may increase. _Risk C: Monitor therapy_
+
+【348】Levamlodipine: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Levamlodipine. _Risk C: Monitor therapy_
+
+【349】Levobupivacaine: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Levobupivacaine. _Risk C: Monitor therapy_
+
+【350】Levoketoconazole: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Levoketoconazole. _Risk X: Avoid combination_
+
+【351】Levomethadone: Cobicistat may increase the serum concentration of Levomethadone. _Risk C: Monitor therapy_
+
+【352】Levomilnacipran: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Levomilnacipran. Management: The dose of levomilnacipran should not exceed 80 mg once daily when used with strong CYP3A4 inhibitors. _Risk D: Consider therapy modification_
+
+【353】Lidocaine (Systemic): CYP3A4 Inhibitors (Strong) may increase the serum concentration of Lidocaine (Systemic). _Risk C: Monitor therapy_
+
+【354】Lomitapide: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Lomitapide. _Risk X: Avoid combination_
+
+【355】Lonafarnib: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Lonafarnib. _Risk X: Avoid combination_
+
+【356】Lorlatinib: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Lorlatinib. Management: Avoid use of lorlatinib with strong CYP3A4 inhibitors. If the combination cannot be avoided, reduce the lorlatinib dose from 100 mg once daily to 75 mg once daily, or from 75 mg once daily to 50 mg once daily. _Risk D: Consider therapy modification_
+
+【357】Lovastatin: CYP3A4 Inhibitors (Strong) may increase serum concentrations of the active metabolite(s) of Lovastatin. CYP3A4 Inhibitors (Strong) may increase the serum concentration of Lovastatin. _Risk X: Avoid combination_
+
+【358】Lovotibeglogene Autotemcel: Antiretroviral Agents may diminish the therapeutic effect of Lovotibeglogene Autotemcel. _Risk X: Avoid combination_
+
+【359】Lumacaftor and Ivacaftor: May decrease the serum concentration of Atazanavir. Atazanavir may increase the serum concentration of Lumacaftor and Ivacaftor. Management: Consider alternatives. If combined, monitor for reduced atazanavir efficacy and possible development of resistance. Additionally, lumacaftor/ivacaftor dose reductions may be needed with this combination. See full interaction monograph for details. _Risk D: Consider therapy modification_
+
+【360】Lumacaftor and Ivacaftor: May decrease the serum concentration of Cobicistat. Cobicistat may increase the serum concentration of Lumacaftor and Ivacaftor. Management: Consider alternatives to this combination when possible. If combined, monitor for reduced cobicistat efficacy. Lumacaftor/ivacaftor dose adjustments may be required; see full interact monograph for details. _Risk D: Consider therapy modification_
+
+【361】Lumateperone: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Lumateperone. Management: Limit the lumateperone dose to 10.5 mg once daily when used with a strong CYP3A4 inhibitor. _Risk D: Consider therapy modification_
+
+【362】Lurasidone: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Lurasidone. _Risk X: Avoid combination_
+
+【363】Lurbinectedin: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Lurbinectedin. Management: Avoid concomitant use of lurbinectedin and strong CYP3A4 inhibitors. If coadministration with a strong CYP3A4 inhibitor cannot be avoided, reduce the lurbinectedin dose by 50%. _Risk D: Consider therapy modification_
+
+【364】Macitentan: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Macitentan. _Risk X: Avoid combination_
+
+【365】Manidipine: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Manidipine. Management: Consider avoiding concomitant use of manidipine and strong CYP3A4 inhibitors. If combined, monitor closely for increased manidipine effects and toxicities. Manidipine dose reductions may be required. _Risk D: Consider therapy modification_
+
+【366】Maraviroc: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Maraviroc. Management: Reduce maraviroc to 150mg twice/day in adult and pediatrics weighing 40kg or more. See full interaction monograph for dose adjustments in pediatrics weighing 10 to less than 40kg. Do not use if CrCl less than 30mL/min or in those weighing less than 10 kg. _Risk D: Consider therapy modification_
+
+【367】Mavacamten: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Mavacamten. _Risk X: Avoid combination_
+
+【368】Mavorixafor: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Mavorixafor. Management: Decrease the mavorixafor dose to 200 mg daily if combined with strong CYP3A4 inhibitors. _Risk D: Consider therapy modification_
+
+【369】Mefloquine: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Mefloquine. _Risk C: Monitor therapy_
+
+【370】Meperidine: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Meperidine. _Risk C: Monitor therapy_
+
+【371】Methadone: Cobicistat may increase the serum concentration of Methadone. _Risk C: Monitor therapy_
+
+【372】Methadone: Atazanavir may decrease the serum concentration of Methadone. Methadone may decrease the serum concentration of Atazanavir. _Risk C: Monitor therapy_
+
+【373】MethylPREDNISolone: CYP3A4 Inhibitors (Strong) may increase the serum concentration of MethylPREDNISolone. _Risk C: Monitor therapy_
+
+【374】Midazolam: Cobicistat may increase the serum concentration of Midazolam. Management: Oral midazolam is contraindicated with cobicistat. Avoid use with nasal midazolam. Consider alternatives to use with other routes of midazolam (IV, IM) when possible. Consider use of lower midazolam doses if combined. _Risk X: Avoid combination_
+
+【375】Midostaurin: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Midostaurin. Management: Seek alternatives to the concomitant use of midostaurin and strong CYP3A4 inhibitors if possible. If concomitant use cannot be avoided, monitor patients for increased risk of adverse reactions. _Risk D: Consider therapy modification_
+
+【376】MiFEPRIStone: CYP3A4 Inhibitors (Strong) may increase the serum concentration of MiFEPRIStone. Management: For treatment of hyperglycemia in Cushing's syndrome, start mifepristone at 300 mg/day, may titrate to a maximum of 900 mg/day. If starting a strong CYP3A4 inhibitor and taking > 300 mg/day mifepristone, decrease the mifepristone dose by 300 mg/day. _Risk D: Consider therapy modification_
+
+【377】Minocycline (Systemic): May decrease the serum concentration of Atazanavir. _Risk C: Monitor therapy_
+
+【378】Minoxidil (Systemic): Atazanavir may increase the serum concentration of Minoxidil (Systemic). _Risk C: Monitor therapy_
+
+【379】Mirodenafil: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Mirodenafil. Management: Consider using a lower dose of mirodenafil when used with strong CYP3A4 inhibitors. Monitor for increased mirodenafil effects/toxicities with the use of this combination. _Risk D: Consider therapy modification_
+
+【380】Mirtazapine: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Mirtazapine. _Risk C: Monitor therapy_
+
+【381】Mirvetuximab Soravtansine: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Mirvetuximab Soravtansine. _Risk C: Monitor therapy_
+
+【382】Mitapivat: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Mitapivat. _Risk X: Avoid combination_
+
+【383】Mobocertinib: CYP3A4 Inhibitors (Strong) may increase serum concentrations of the active metabolite(s) of Mobocertinib. CYP3A4 Inhibitors (Strong) may increase the serum concentration of Mobocertinib. _Risk X: Avoid combination_
+
+【384】Momelotinib: OATP1B1/1B3 (SLCO1B1/1B3) Inhibitors may increase the serum concentration of Momelotinib. _Risk C: Monitor therapy_
+
+【385】Mometasone (Nasal): CYP3A4 Inhibitors (Strong) may increase the serum concentration of Mometasone (Nasal). _Risk C: Monitor therapy_
+
+【386】Mometasone (Oral Inhalation): CYP3A4 Inhibitors (Strong) may increase the serum concentration of Mometasone (Oral Inhalation). _Risk C: Monitor therapy_
+
+【387】Mometasone (Topical): CYP3A4 Inhibitors (Strong) may increase the serum concentration of Mometasone (Topical). _Risk C: Monitor therapy_
+
+【388】Morphine (Systemic): P-glycoprotein/ABCB1 Inhibitors may increase the serum concentration of Morphine (Systemic). _Risk C: Monitor therapy_
+
+【389】Nadolol: P-glycoprotein/ABCB1 Inhibitors may increase the serum concentration of Nadolol. _Risk C: Monitor therapy_
+
+【390】Naldemedine: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Naldemedine. _Risk C: Monitor therapy_
+
+【391】Nalfurafine: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Nalfurafine. _Risk C: Monitor therapy_
+
+【392】Naloxegol: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Naloxegol. _Risk X: Avoid combination_
+
+【393】Neratinib: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Neratinib. _Risk X: Avoid combination_
+
+【394】Nevirapine: Atazanavir may increase the serum concentration of Nevirapine. Nevirapine may decrease the serum concentration of Atazanavir. _Risk X: Avoid combination_
+
+【395】NiCARdipine: CYP3A4 Inhibitors (Strong) may increase the serum concentration of NiCARdipine. _Risk C: Monitor therapy_
+
+【396】NIFEdipine: CYP3A4 Inhibitors (Strong) may increase the serum concentration of NIFEdipine. Management: Consider alternatives to this combination when possible. If combined, initiate nifedipine at the lowest dose available and monitor patients closely for increased nifedipine effects and toxicities (eg, hypotension, edema). _Risk D: Consider therapy modification_
+
+【397】Nilotinib: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Nilotinib. Management: Avoid if possible. If combination needed, decrease nilotinib to 300 mg once/day for patients with resistant or intolerant Ph+ CML or to 200 mg once/day for patients with newly diagnosed Ph+ CML in chronic phase. _Risk D: Consider therapy modification_
+
+【398】Nilvadipine: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Nilvadipine. _Risk C: Monitor therapy_
+
+【399】NiMODipine: CYP3A4 Inhibitors (Strong) may increase the serum concentration of NiMODipine. _Risk X: Avoid combination_
+
+【400】Nintedanib: Inhibitors of CYP3A4 (Strong) and P-glycoprotein may increase the serum concentration of Nintedanib. _Risk C: Monitor therapy_
+
+【401】Nirmatrelvir and Ritonavir: May increase the serum concentration of Cobicistat. _Risk C: Monitor therapy_
+
+【402】Nirogacestat: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Nirogacestat. _Risk X: Avoid combination_
+
+【403】Nisoldipine: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Nisoldipine. _Risk X: Avoid combination_
+
+【404】Nitrendipine: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Nitrendipine. _Risk C: Monitor therapy_
+
+【405】Olaparib: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Olaparib. Management: Avoid use of strong CYP3A4 inhibitors with olaparib, if possible. If such concurrent use cannot be avoided, the dose of olaparib tablets should be reduced to 100 mg twice daily and the dose of olaparib capsules should be reduced to 150 mg twice daily. _Risk D: Consider therapy modification_
+
+【406】Oliceridine: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Oliceridine. _Risk C: Monitor therapy_
+
+【407】Olmutinib: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Olmutinib. _Risk C: Monitor therapy_
+
+【408】Omaveloxolone: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Omaveloxolone. Management: Avoid this combination if possible. If coadministration is required, decrease the omaveloxolone dose to 50 mg daily and monitor closely for adverse reactions. Discontinue coadministration if adverse reactions occur. _Risk D: Consider therapy modification_
+
+【409】Ombitasvir, Paritaprevir, and Ritonavir: Atazanavir may increase the serum concentration of Ombitasvir, Paritaprevir, and Ritonavir. Specifically, the paritaprevir component may increase significantly. _Risk X: Avoid combination_
+
+【410】Ombitasvir, Paritaprevir, Ritonavir, and Dasabuvir: Atazanavir may increase the serum concentration of Ombitasvir, Paritaprevir, Ritonavir, and Dasabuvir. Specifically, the paritaprevir component may increase significantly. Management: These agents can be combined if the atazanavir dose is 300 mg daily, atazanavir is administered in the morning at the same time as the ombitasvir/paritaprevir/ritonavir/dasabuvir combination product, and atazanavir is given without additional ritonavir. _Risk D: Consider therapy modification_
+
+【411】Orelabrutinib: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Orelabrutinib. _Risk X: Avoid combination_
+
+【412】Orlistat: May decrease the serum concentration of Antiretroviral Agents. _Risk C: Monitor therapy_
+
+【413】Osilodrostat: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Osilodrostat. Management: Reduce osilodrostat dose by 50% during coadministration with a strong CYP3A4 inhibitor. _Risk D: Consider therapy modification_
+
+【414】Ospemifene: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Ospemifene. _Risk C: Monitor therapy_
+
+【415】OXcarbazepine: May decrease the serum concentration of Cobicistat. Management: Consider an alternative antiseizure medication when possible. _Risk D: Consider therapy modification_
+
+【416】OxyBUTYnin: CYP3A4 Inhibitors (Strong) may increase the serum concentration of OxyBUTYnin. _Risk C: Monitor therapy_
+
+【417】OxyCODONE: CYP3A4 Inhibitors (Strong) may enhance the adverse/toxic effect of OxyCODONE. CYP3A4 Inhibitors (Strong) may increase the serum concentration of OxyCODONE. Serum concentrations of the active metabolite oxymorphone may also be increased. _Risk C: Monitor therapy_
+
+【418】PACLitaxel (Conventional): Atazanavir may increase the serum concentration of PACLitaxel (Conventional). Management: Use of paclitaxel or other narrow therapeutic index CYP2C8 substrates with atazanavir without concurrent ritonavir is not recommended. If paclitaxel is used with ritonavir-boosted atazanavir, monitor for increased paclitaxel exposure. _Risk X: Avoid combination_
+
+【419】PACLitaxel (Protein Bound): Atazanavir may increase the serum concentration of PACLitaxel (Protein Bound). Management: Use of paclitaxel or other narrow therapeutic index CYP2C8 substrates with atazanavir without concurrent ritonavir is not recommended. If paclitaxel is used with ritonavir-boosted atazanavir, monitor for increased paclitaxel exposure. _Risk X: Avoid combination_
+
+【420】Pacritinib: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Pacritinib. _Risk X: Avoid combination_
+
+【421】Palbociclib: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Palbociclib. Management: Avoid concurrent use of strong CYP3A4 inhibitors with palbociclib when possible. If the use of a strong CYP3A4 inhibitor cannot be avoided, decrease the palbociclib dose to 75 mg/day. _Risk D: Consider therapy modification_
+
+【422】Palovarotene: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Palovarotene. _Risk X: Avoid combination_
+
+【423】Panobinostat: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Panobinostat. Management: Reduce the panobinostat dose to 10 mg when it must be used with a strong CYP3A4 inhibitor. Monitor patient response to therapy closely for evidence of more severe adverse effects related to panobinostat therapy. _Risk D: Consider therapy modification_
+
+【424】Parecoxib: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Parecoxib. Specifically, serum concentrations of the active moiety valdecoxib may be increased. _Risk C: Monitor therapy_
+
+【425】Paricalcitol: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Paricalcitol. _Risk C: Monitor therapy_
+
+【426】PAZOPanib: P-glycoprotein/ABCB1 Inhibitors may increase the serum concentration of PAZOPanib. _Risk X: Avoid combination_
+
+【427】PAZOPanib: BCRP/ABCG2 Inhibitors may increase the serum concentration of PAZOPanib. _Risk X: Avoid combination_
+
+【428】Pemigatinib: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Pemigatinib. Management: If combined use cannot be avoided, reduce the pemigatinib dose from 13.5 mg daily to 9 mg daily, or from 9 mg daily to 4.5 mg daily. Resume prior pemigatinib dose after stopping the strong inhibitor once 3 half-lives of the inhibitor has passed. _Risk D: Consider therapy modification_
+
+【429】Pexidartinib: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Pexidartinib. Management: If combined use cannot be avoided, pexidartinib dose should be reduced as follows: reduce pexidartinib doses of 500 mg or 375 mg daily to 125 mg twice daily; reduce pexidartinib 250 mg daily to 125 mg once daily. _Risk D: Consider therapy modification_
+
+【430】PHENobarbital: May decrease the serum concentration of Cobicistat. _Risk X: Avoid combination_
+
+【431】PHENobarbital: Atazanavir may decrease the serum concentration of PHENobarbital. PHENobarbital may decrease the serum concentration of Atazanavir. _Risk X: Avoid combination_
+
+【432】Pimavanserin: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Pimavanserin. Management: Decrease the pimavanserin dose to 10 mg daily when combined with strong CYP3A4 inhibitors. _Risk D: Consider therapy modification_
+
+【433】Pimecrolimus: CYP3A4 Inhibitors (Strong) may decrease the metabolism of Pimecrolimus. _Risk C: Monitor therapy_
+
+【434】Pimozide: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Pimozide. _Risk X: Avoid combination_
+
+【435】Piperaquine: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Piperaquine. _Risk C: Monitor therapy_
+
+【436】Pirtobrutinib: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Pirtobrutinib. Management: Avoid concomitant use when possible. If combined, reduce the pirtobrutinib dose by 50 mg. If current dose is 50 mg, interrupt pirtobrutinib treatment during strong CYP3A4 inhibitor use. _Risk D: Consider therapy modification_
+
+【437】Pitavastatin: Cobicistat may increase the serum concentration of Pitavastatin. _Risk C: Monitor therapy_
+
+【438】Polatuzumab Vedotin: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Polatuzumab Vedotin. Exposure to unconjugated MMAE, the cytotoxic small molecule component of polatuzumab vedotin, may be increased. _Risk C: Monitor therapy_
+
+【439】PONATinib: CYP3A4 Inhibitors (Strong) may increase the serum concentration of PONATinib. Management: Avoid concomitant use if possible. If combined, reduce ponatinib dose as follows: If taking 45 mg, reduce to 30 mg; if taking 30 mg, reduce to 15 mg; if taking 15 mg, reduce to 10 mg. If taking 10 mg, avoid concomitant use with strong CYP3A4 inhibitors. _Risk D: Consider therapy modification_
+
+【440】Pralsetinib: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Pralsetinib. Management: If this combo cannot be avoided, decrease pralsetinib dose from 400 mg daily to 300 mg daily; from 300 mg daily to 200 mg daily; and from 200 mg daily to 100 mg daily. _Risk D: Consider therapy modification_
+
+【441】Pralsetinib: Inhibitors of CYP3A4 (Strong) and P-glycoprotein may increase the serum concentration of Pralsetinib. Management: Avoid concomitant use if possible. If combined, reduce the pralsetinib dose. If taking 400 mg or 300 mg once daily, reduce to 200 mg once daily. If taking 200 mg once daily, reduce to 100 mg once daily. _Risk D: Consider therapy modification_
+
+【442】Pravastatin: Atazanavir may increase the serum concentration of Pravastatin. _Risk C: Monitor therapy_
+
+【443】Prazepam: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Prazepam. _Risk C: Monitor therapy_
+
+【444】Praziquantel: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Praziquantel. _Risk C: Monitor therapy_
+
+【445】PrednisoLONE (Systemic): CYP3A4 Inhibitors (Strong) may increase the serum concentration of PrednisoLONE (Systemic). _Risk C: Monitor therapy_
+
+【446】PredniSONE: CYP3A4 Inhibitors (Strong) may increase the serum concentration of PredniSONE. _Risk C: Monitor therapy_
+
+【447】Primidone: May decrease the serum concentration of Cobicistat. _Risk X: Avoid combination_
+
+【448】Primidone: May decrease the serum concentration of Atazanavir. Atazanavir may decrease the serum concentration of Primidone. _Risk X: Avoid combination_
+
+【449】Propafenone: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Propafenone. _Risk C: Monitor therapy_
+
+【450】Protease Inhibitors: Atazanavir may increase the serum concentration of Protease Inhibitors. _Risk X: Avoid combination_
+
+【451】QUEtiapine: CYP3A4 Inhibitors (Strong) may increase the serum concentration of QUEtiapine. Management: In quetiapine treated patients, reduce quetiapine to one-sixth of original dose after starting a strong CYP3A4 inhibitor. In those on strong CYP3A4 inhibitors, start quetiapine at lowest dose and up-titrate as needed. _Risk D: Consider therapy modification_
+
+【452】QuiNIDine: Atazanavir may increase the serum concentration of QuiNIDine. _Risk X: Avoid combination_
+
+【453】Quinidine (Non-Therapeutic): CYP3A4 Inhibitors (Strong) may increase the serum concentration of Quinidine (Non-Therapeutic). _Risk C: Monitor therapy_
+
+【454】QuiNINE: CYP3A4 Inhibitors (Strong) may increase the serum concentration of QuiNINE. _Risk C: Monitor therapy_
+
+【455】Quizartinib: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Quizartinib. Management: If combination is necessary, reduce quizartinib dose as follows: from 53 mg daily to 26.5 mg daily; from 35.4 mg daily to 17.7 mg daily; from 26.5 mg daily to 17.7 mg daily. If taking 17.7 mg daily avoid quizartinib while on the strong CYP3A4 inhibitor. _Risk D: Consider therapy modification_
+
+【456】Radotinib: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Radotinib. _Risk X: Avoid combination_
+
+【457】Ramelteon: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Ramelteon. _Risk C: Monitor therapy_
+
+【458】Ranolazine: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Ranolazine. _Risk X: Avoid combination_
+
+【459】Reboxetine: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Reboxetine. _Risk C: Monitor therapy_
+
+【460】Red Yeast Rice: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Red Yeast Rice. Specifically, concentrations of lovastatin and related compounds found in Red Yeast Rice may be increased. _Risk X: Avoid combination_
+
+【461】Regorafenib: CYP3A4 Inhibitors (Strong) may decrease serum concentrations of the active metabolite(s) of Regorafenib. CYP3A4 Inhibitors (Strong) may increase the serum concentration of Regorafenib. _Risk X: Avoid combination_
+
+【462】Relugolix: P-glycoprotein/ABCB1 Inhibitors may increase the serum concentration of Relugolix. Management: Avoid coadministration of relugolix with oral P-gp inhibitors whenever possible. If combined, take relugolix at least 6 hours prior to the P-gp inhibitor and monitor patients more frequently for adverse reactions. _Risk D: Consider therapy modification_
+
+【463】Relugolix, Estradiol, and Norethindrone: P-glycoprotein/ABCB1 Inhibitors may increase the serum concentration of Relugolix, Estradiol, and Norethindrone. Management: Avoid use of relugolix/estradiol/norethindrone with P-glycoprotein (P-gp) inhibitors. If concomitant use is unavoidable, relugolix/estradiol/norethindrone should be administered at least 6 hours before the P-gp inhibitor. _Risk D: Consider therapy modification_
+
+【464】Repaglinide: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Repaglinide. _Risk C: Monitor therapy_
+
+【465】Repotrectinib: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Repotrectinib. _Risk X: Avoid combination_
+
+【466】Repotrectinib: P-glycoprotein/ABCB1 Inhibitors may increase the serum concentration of Repotrectinib. _Risk X: Avoid combination_
+
+【467】Resmetirom: OATP1B1/1B3 (SLCO1B1/1B3) Inhibitors may increase the serum concentration of Resmetirom. _Risk X: Avoid combination_
+
+【468】Retapamulin: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Retapamulin. Management: The use of retapamulin with strong CYP3A4 inhibitors is not recommended in patients less than 2 years old. No action is required in other populations. _Risk C: Monitor therapy_
+
+【469】Revefenacin: OATP1B1/1B3 (SLCO1B1/1B3) Inhibitors may increase serum concentrations of the active metabolite(s) of Revefenacin. _Risk X: Avoid combination_
+
+【470】Ribociclib: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Ribociclib. Management: Avoid use of ribociclib with strong CYP3A4 inhibitors when possible; if combined use cannot be avoided, reduce ribociclib dose to 400 mg once daily. _Risk D: Consider therapy modification_
+
+【471】Rifabutin: Atazanavir may increase serum concentrations of the active metabolite(s) of Rifabutin. Atazanavir may increase the serum concentration of Rifabutin. Management: Reduce rifabutin doses. Clinical guidelines recommend rifabutin 150 mg daily (with or without ritonavir). Atazanavir labeling recommends a decrease of at least 75%, to 150 mg every other day or 150 mg 3 times per week for adults. _Risk D: Consider therapy modification_
+
+【472】Rifabutin: Cobicistat may increase the serum concentration of Rifabutin. Management: Avoid if possible. Clinical practice guidelines do not recommend this combination. Cobicistat labeling recommends rifabutin 150 mg every other day. Monitor for rifabutin toxicities (eg, neutropenia, uveitis) if combined. _Risk D: Consider therapy modification_
+
+【473】RifAMPin: May decrease the serum concentration of Atazanavir. _Risk X: Avoid combination_
+
+【474】RifAMPin: May decrease the serum concentration of Cobicistat. _Risk X: Avoid combination_
+
+【475】Rifapentine: May decrease the serum concentration of Cobicistat. _Risk X: Avoid combination_
+
+【476】RifAXIMin: P-glycoprotein/ABCB1 Inhibitors may increase the serum concentration of RifAXIMin. _Risk C: Monitor therapy_
+
+【477】Rilpivirine: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Rilpivirine. _Risk C: Monitor therapy_
+
+【478】Rimegepant: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Rimegepant. _Risk X: Avoid combination_
+
+【479】Riociguat: Inhibitors of CYP3A4 (Strong) and BCRP may increase the serum concentration of Riociguat. Management: Consider a riociguat starting dose of 0.5 mg 3 times a day when initiating riociguat in patients receiving strong CYP3A4 and BCRP inhibitors. Monitor for hypotension when these agents are combined and reduce the riociguat dose as needed. _Risk D: Consider therapy modification_
+
+【480】Ripretinib: CYP3A4 Inhibitors (Strong) may increase serum concentrations of the active metabolite(s) of Ripretinib. CYP3A4 Inhibitors (Strong) may increase the serum concentration of Ripretinib. _Risk C: Monitor therapy_
+
+【481】RisperiDONE: P-glycoprotein/ABCB1 Inhibitors may increase the serum concentration of RisperiDONE. _Risk C: Monitor therapy_
+
+【482】RisperiDONE: CYP3A4 Inhibitors (Strong) may increase the serum concentration of RisperiDONE. _Risk C: Monitor therapy_
+
+【483】Ritonavir: Cobicistat may enhance the therapeutic effect of Ritonavir. Specifically, cobicistat and ritonavir have overlapping effects on the CYP3A4-mediated metabolism of other drugs. _Risk X: Avoid combination_
+
+【484】Rivaroxaban: Inhibitors of CYP3A4 (Strong) and P-glycoprotein may increase the serum concentration of Rivaroxaban. _Risk X: Avoid combination_
+
+【485】Roflumilast-Containing Products: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Roflumilast-Containing Products. _Risk C: Monitor therapy_
+
+【486】RomiDEPsin: CYP3A4 Inhibitors (Strong) may increase the serum concentration of RomiDEPsin. _Risk C: Monitor therapy_
+
+【487】Rosuvastatin: Cobicistat may increase the serum concentration of Rosuvastatin. Management: If coadministeed with cobicistat/atazanavir or cobicistat/darunavir, initiate rosuvastatin at the lowest dose. Do not exceed rosuvastatin 10 mg/day with concurrent use of atazanavir/cobicistat or 20 mg/day with concurrent use of darunavir/cobicistat. _Risk D: Consider therapy modification_
+
+【488】Rosuvastatin: Atazanavir may increase the serum concentration of Rosuvastatin. Rosuvastatin may increase the serum concentration of Atazanavir. Management: Initiate rosuvastatin at 5 mg daily and do not exceed rosuvastatin 10 mg daily if coadministered with atazanavir/ritonavir. If combined, monitor for signs and symptoms of myopathy and rhabdomyolysis and for increased atazanavir toxicities. _Risk D: Consider therapy modification_
+
+【489】Rupatadine: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Rupatadine. _Risk X: Avoid combination_
+
+【490】Ruxolitinib (Systemic): CYP3A4 Inhibitors (Strong) may increase the serum concentration of Ruxolitinib (Systemic). Management: This combination should be avoided under some circumstances; dose adjustments may be required in some circumstances and depend on the indication for ruxolitinib. See monograph for details. _Risk D: Consider therapy modification_
+
+【491】Ruxolitinib (Topical): CYP3A4 Inhibitors (Strong) may increase the serum concentration of Ruxolitinib (Topical). _Risk X: Avoid combination_
+
+【492】Sacituzumab Govitecan: UGT1A1 Inhibitors may increase serum concentrations of the active metabolite(s) of Sacituzumab Govitecan. Specifically, concentrations of SN-38 may be increased. _Risk X: Avoid combination_
+
+【493】Salmeterol: Cobicistat may increase the serum concentration of Salmeterol. _Risk X: Avoid combination_
+
+【494】Saquinavir: Cobicistat may increase the serum concentration of Saquinavir. However, the magnitude of this change is unclear, and dosing recommendations for this combination are not available. _Risk X: Avoid combination_
+
+【495】Saquinavir: May increase the serum concentration of Atazanavir. Atazanavir may increase the serum concentration of Saquinavir. _Risk X: Avoid combination_
+
+【496】SAXagliptin: CYP3A4 Inhibitors (Strong) may increase the serum concentration of SAXagliptin. Management: Limit the saxagliptin dose to 2.5 mg daily when combined with strong CYP3A4 inhibitors. When using the saxagliptin combination products saxagliptin/dapagliflozin or saxagliptin/dapagliflozin/metformin, avoid use with strong CYP3A4 inhibitors. _Risk D: Consider therapy modification_
+
+【497】Selpercatinib: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Selpercatinib. Management: Avoid combination if possible. If use is necessary, reduce selpercatinib dose as follows: from 120 mg twice/day to 40 mg twice/day, or from 160 mg twice/day to 80 mg twice/day. _Risk D: Consider therapy modification_
+
+【498】Selumetinib: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Selumetinib. Management: Avoid concomitant use when possible. If combined, selumetinib dose reductions are recommended and vary based on body surface area and selumetinib dose. For details, see the full drug interaction monograph or selumetinib prescribing information. _Risk D: Consider therapy modification_
+
+【499】Sertindole: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Sertindole. _Risk X: Avoid combination_
+
+【500】Sibutramine: CYP3A4 Inhibitors (Strong) may increase serum concentrations of the active metabolite(s) of Sibutramine. CYP3A4 Inhibitors (Strong) may increase the serum concentration of Sibutramine. _Risk C: Monitor therapy_
+
+【501】Sildenafil: Cobicistat may increase the serum concentration of Sildenafil. Management: Use of cobicistat and sildenafil for the treatment of PAH is contraindicated. If using sildenafil for the treatment of erectile dysfunction, limit the sildenafil dose to 25 mg and do not use more frequently than every 48 hours. _Risk D: Consider therapy modification_
+
+【502】Silodosin: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Silodosin. _Risk X: Avoid combination_
+
+【503】Simeprevir: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Simeprevir. _Risk X: Avoid combination_
+
+【504】Simvastatin: CYP3A4 Inhibitors (Strong) may increase serum concentrations of the active metabolite(s) of Simvastatin. CYP3A4 Inhibitors (Strong) may increase the serum concentration of Simvastatin. _Risk X: Avoid combination_
+
+【505】Sirolimus (Conventional): CYP3A4 Inhibitors (Strong) may increase the serum concentration of Sirolimus (Conventional). Management: Avoid concurrent use of sirolimus with strong CYP3A4 inhibitors when possible and alternative agents with lesser interaction potential with sirolimus should be considered. Concomitant use of sirolimus and voriconazole or posaconazole is contraindicated. _Risk D: Consider therapy modification_
+
+【506】Sirolimus (Conventional): P-glycoprotein/ABCB1 Inhibitors may increase the serum concentration of Sirolimus (Conventional). Management: Avoid concurrent use of sirolimus with P-glycoprotein (P-gp) inhibitors when possible and alternative agents with lesser interaction potential with sirolimus should be considered. Monitor for increased sirolimus concentrations/toxicity if combined. _Risk D: Consider therapy modification_
+
+【507】Sirolimus (Protein Bound): CYP3A4 Inhibitors (Strong) may increase the serum concentration of Sirolimus (Protein Bound). _Risk X: Avoid combination_
+
+【508】Sirolimus (Topical): CYP3A4 Inhibitors (Strong) may increase the serum concentration of Sirolimus (Topical). _Risk C: Monitor therapy_
+
+【509】Solifenacin: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Solifenacin. Management: Limit adult solifenacin doses to 5 mg daily and limit doses in pediatric patients to the recommended weight-based starting dose (and do not increase the dose) when combined with strong CYP3A4 inhibitors. _Risk D: Consider therapy modification_
+
+【510】Sonidegib: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Sonidegib. _Risk X: Avoid combination_
+
+【511】Sparsentan: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Sparsentan. _Risk X: Avoid combination_
+
+【512】St John's Wort: May decrease the serum concentration of Cobicistat. _Risk X: Avoid combination_
+
+【513】St John's Wort: May decrease the serum concentration of Atazanavir. _Risk X: Avoid combination_
+
+【514】SUFentanil: CYP3A4 Inhibitors (Strong) may increase the serum concentration of SUFentanil. Management: If a strong CYP3A4 inhibitor is initiated in a patient on sufentanil, consider a sufentanil dose reduction and monitor for increased sufentanil effects and toxicities (eg, respiratory depression). _Risk D: Consider therapy modification_
+
+【515】SUNItinib: CYP3A4 Inhibitors (Strong) may increase the serum concentration of SUNItinib. Management: Avoid when possible. If combined, decrease sunitinib dose to a minimum of 37.5 mg daily when treating GIST or RCC. Decrease sunitinib dose to a minimum of 25 mg daily when treating PNET. Monitor patients for both reduced efficacy and increased toxicities. _Risk D: Consider therapy modification_
+
+【516】Suvorexant: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Suvorexant. _Risk X: Avoid combination_
+
+【517】Tacrolimus (Systemic): Protease Inhibitors may enhance the nephrotoxic effect of Tacrolimus (Systemic). Protease Inhibitors may decrease the metabolism of Tacrolimus (Systemic). Management: Consider reducing the tacrolimus dose to 1 mg once or twice per week if coadministered with protease inhibitors that are strong inhibitors of CYP3A4. Monitor response, plasma concentrations (as appropriate), and for signs of toxicity. _Risk D: Consider therapy modification_
+
+【518】Tacrolimus (Systemic): CYP3A4 Inhibitors (Strong) may increase the serum concentration of Tacrolimus (Systemic). Management: Reduce tacrolimus dose to one-third of the original dose if starting posaconazole or voriconazole. Coadministration with nelfinavir is not generally recommended. Tacrolimus dose reductions or prolongation of dosing interval will likely be required. _Risk D: Consider therapy modification_
+
+【519】Tacrolimus (Topical): CYP3A4 Inhibitors (Strong) may increase the serum concentration of Tacrolimus (Topical). _Risk C: Monitor therapy_
+
+【520】Tadalafil: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Tadalafil. Management: Avoid this combination in patients taking tadalafil for pulmonary arterial hypertension. In patients taking tadalafil for ED or BPH, max tadalafil dose is 2.5 mg if taking daily or 10 mg no more frequently than every 72 hours if used as needed. _Risk D: Consider therapy modification_
+
+【521】Talazoparib: P-glycoprotein/ABCB1 Inhibitors may increase the serum concentration of Talazoparib. _Risk C: Monitor therapy_
+
+【522】Talazoparib: BCRP/ABCG2 Inhibitors may increase the serum concentration of Talazoparib. _Risk C: Monitor therapy_
+
+【523】Tamsulosin: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Tamsulosin. _Risk X: Avoid combination_
+
+【524】Tasimelteon: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Tasimelteon. _Risk C: Monitor therapy_
+
+【525】Taurursodiol: OATP1B1/1B3 (SLCO1B1/1B3) Inhibitors may increase the serum concentration of Taurursodiol. _Risk X: Avoid combination_
+
+【526】Tazemetostat: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Tazemetostat. _Risk X: Avoid combination_
+
+【527】Tegaserod (Withdrawn from US Market): P-glycoprotein/ABCB1 Inhibitors may increase the serum concentration of Tegaserod (Withdrawn from US Market). _Risk C: Monitor therapy_
+
+【528】Tegoprazan: May decrease the serum concentration of Atazanavir. _Risk X: Avoid combination_
+
+【529】Temsirolimus: CYP3A4 Inhibitors (Strong) may increase serum concentrations of the active metabolite(s) of Temsirolimus. Specifically, concentrations of sirolimus may be increased. Management: Avoid concomitant use of temsirolimus and strong CYP3A4 inhibitors. If coadministration is unavoidable, decrease temsirolimus dose to 12.5 mg per week. Resume previous temsirolimus dose 1 week after discontinuation of the strong CYP3A4 inhibitor. _Risk D: Consider therapy modification_
+
+【530】Teniposide: P-glycoprotein/ABCB1 Inhibitors may increase the serum concentration of Teniposide. _Risk C: Monitor therapy_
+
+【531】Tenofovir Alafenamide: Cobicistat may increase the serum concentration of Tenofovir Alafenamide. _Risk C: Monitor therapy_
+
+【532】Tenofovir Disoproxil Fumarate: May decrease the serum concentration of Atazanavir. Atazanavir may increase the serum concentration of Tenofovir Disoproxil Fumarate. Management: Use boosted atazanavir in adults; give combo (atazanavir/ritonavir or atazanavir/cobicistat with tenofovir) as a single daily dose with food. Pediatric patients, pregnant patients, and use of H2-blockers require dose changes. See Lexi Interact monograph. _Risk D: Consider therapy modification_
+
+【533】Terfenadine: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Terfenadine. _Risk X: Avoid combination_
+
+【534】Tetrahydrocannabinol: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Tetrahydrocannabinol. _Risk C: Monitor therapy_
+
+【535】Tetrahydrocannabinol and Cannabidiol: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Tetrahydrocannabinol and Cannabidiol. _Risk C: Monitor therapy_
+
+【536】Tezacaftor and Ivacaftor: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Tezacaftor and Ivacaftor. Management: If combined with strong CYP3A4 inhibitors, tezacaftor/ivacaftor should be administered in the morning, twice a week, approximately 3 to 4 days apart. Tezacaftor/ivacaftor dose depends on age and weight; see full Lexi-Interact monograph for details. _Risk D: Consider therapy modification_
+
+【537】Thioridazine: CYP2D6 Inhibitors (Weak) may increase the serum concentration of Thioridazine. Management: Consider avoiding concomitant use of thioridazine and weak CYP2D6 inhibitors. If combined, monitor closely for QTc interval prolongation and arrhythmias. Some weak CYP2D6 inhibitors list use with thioridazine as a contraindication. _Risk D: Consider therapy modification_
+
+【538】Thiotepa: CYP3A4 Inhibitors (Strong) may decrease serum concentrations of the active metabolite(s) of Thiotepa. CYP3A4 Inhibitors (Strong) may increase the serum concentration of Thiotepa. Management: Avoid coadministration of thiotepa and strong CYP3A4 inhibitors. If concomitant use cannot be avoided, monitor for thiotepa adverse effects and decreased efficacy. _Risk D: Consider therapy modification_
+
+【539】Ticagrelor: CYP3A4 Inhibitors (Strong) may decrease serum concentrations of the active metabolite(s) of Ticagrelor. CYP3A4 Inhibitors (Strong) may increase the serum concentration of Ticagrelor. _Risk X: Avoid combination_
+
+【540】Tipranavir: Cobicistat may increase the serum concentration of Tipranavir. However, the magnitude of this change is unclear, and dosing recommendations for this combination are not available. _Risk X: Avoid combination_
+
+【541】Tisotumab Vedotin: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Tisotumab Vedotin. Specifically, concentrations of the active monomethyl auristatin E (MMAE) component may be increased. _Risk C: Monitor therapy_
+
+【542】Tofacitinib: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Tofacitinib. Management: Tofacitinib dose reductions are recommended when combined with strong CYP3A4 inhibitors. Recommended dose adjustments vary by tofacitinib formulation and therapeutic indication. See full Lexi Interact monograph for details. _Risk D: Consider therapy modification_
+
+【543】Tolterodine: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Tolterodine. Management: The maximum recommended dose of tolterodine is 2 mg per day  when used together with a strong CYP3A4 inhibitor. _Risk D: Consider therapy modification_
+
+【544】Tolvaptan: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Tolvaptan. _Risk X: Avoid combination_
+
+【545】Topotecan: BCRP/ABCG2 Inhibitors may increase the serum concentration of Topotecan. _Risk X: Avoid combination_
+
+【546】Topotecan: P-glycoprotein/ABCB1 Inhibitors may increase the serum concentration of Topotecan. _Risk X: Avoid combination_
+
+【547】Toremifene: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Toremifene. Management: Use of toremifene with strong CYP3A4 inhibitors should be avoided if possible. If coadministration is necessary, monitor for increased toremifene toxicities, including QTc interval prolongation. _Risk D: Consider therapy modification_
+
+【548】Trabectedin: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Trabectedin. _Risk X: Avoid combination_
+
+【549】TraMADol: CYP3A4 Inhibitors (Strong) may increase serum concentrations of the active metabolite(s) of TraMADol. CYP3A4 Inhibitors (Strong) may increase the serum concentration of TraMADol. _Risk C: Monitor therapy_
+
+【550】TraZODone: CYP3A4 Inhibitors (Strong) may increase the serum concentration of TraZODone. Management: Consider the use of a lower trazodone dose and monitor for increased trazodone effects (eg, sedation, QTc prolongation) if combined with strong CYP3A4 inhibitors. _Risk D: Consider therapy modification_
+
+【551】Tretinoin (Systemic): CYP3A4 Inhibitors (Strong) may increase the serum concentration of Tretinoin (Systemic). _Risk C: Monitor therapy_
+
+【552】Triamcinolone (Nasal): CYP3A4 Inhibitors (Strong) may increase the serum concentration of Triamcinolone (Nasal). _Risk C: Monitor therapy_
+
+【553】Triamcinolone (Ophthalmic): CYP3A4 Inhibitors (Strong) may increase the serum concentration of Triamcinolone (Ophthalmic). _Risk C: Monitor therapy_
+
+【554】Triamcinolone (Systemic): CYP3A4 Inhibitors (Strong) may increase the serum concentration of Triamcinolone (Systemic). Management: Consider alternatives to this combination when possible. If combined, monitor for increased corticosteroid adverse effects during coadministration of triamcinolone and strong CYP3A4 inhibitors. _Risk D: Consider therapy modification_
+
+【555】Triamcinolone (Topical): CYP3A4 Inhibitors (Strong) may increase the serum concentration of Triamcinolone (Topical). _Risk C: Monitor therapy_
+
+【556】Triazolam: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Triazolam. _Risk X: Avoid combination_
+
+【557】Ubrogepant: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Ubrogepant. _Risk X: Avoid combination_
+
+【558】Udenafil: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Udenafil. _Risk X: Avoid combination_
+
+【559】Ulipristal: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Ulipristal. _Risk C: Monitor therapy_
+
+【560】Upadacitinib: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Upadacitinib. Management: Upadacitinib dose adjustments are often needed when combined with strong CYP3A4 inhibitors. Specific adjustments vary based on upadacitinib indication. See full interact monograph for details. _Risk D: Consider therapy modification_
+
+【561】Valbenazine: CYP3A4 Inhibitors (Strong) may increase serum concentrations of the active metabolite(s) of Valbenazine. CYP3A4 Inhibitors (Strong) may increase the serum concentration of Valbenazine. Management: Reduce the valbenazine dose to 40 mg daily when combined with strong CYP3A4 inhibitors. _Risk D: Consider therapy modification_
+
+【562】Valproate Products: Protease Inhibitors may decrease the serum concentration of Valproate Products. _Risk C: Monitor therapy_
+
+【563】Vamorolone: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Vamorolone. Management: Reduce the vamorolone dose to 4 mg/kg daily, with a maximum dose of 200 mg daily for patients weighing over 50 kg, when combined with strong CYP3A4 inhibitors. _Risk D: Consider therapy modification_
+
+【564】Vardenafil: Cobicistat may increase the serum concentration of Vardenafil. Management: Limit the dose of vardenafil tablets to a single 2.5 mg dose within a 72-hour period if combined with cobicistat. Avoid concomitant use of vardenafil orally disintegrating tablets and cobicistat. Combined use is contraindicated outside of the US. _Risk D: Consider therapy modification_
+
+【565】Vemurafenib: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Vemurafenib. Management: Avoid concurrent use of vemurafenib with strong CYP3A4 inhibitors when possible. If concomitant use is unavoidable, consider a vemurafenib dose reduction if clinically indicated. _Risk D: Consider therapy modification_
+
+【566】Venetoclax: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Venetoclax. Management: Coadministration is contraindicated during venetoclax initiation and ramp-up in CLL/SLL patients. Reduced venetoclax doses are required during ramp-up for patients with AML, and all maintenance therapy. See full Lexi Interact monograph for details. _Risk D: Consider therapy modification_
+
+【567】Verapamil: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Verapamil. _Risk C: Monitor therapy_
+
+【568】Vilanterol: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Vilanterol. _Risk C: Monitor therapy_
+
+【569】Vilazodone: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Vilazodone. Management: Limit the maximum vilazodone dose to 20 mg daily in patients receiving strong CYP3A4 inhibitors. The original vilazodone dose can be resumed following discontinuation of the strong CYP3A4 inhibitor. _Risk D: Consider therapy modification_
+
+【570】VinBLAStine: CYP3A4 Inhibitors (Strong) may increase the serum concentration of VinBLAStine. _Risk C: Monitor therapy_
+
+【571】VinCRIStine: CYP3A4 Inhibitors (Strong) may increase the serum concentration of VinCRIStine. Management: Seek alternatives to this combination when possible. If combined, monitor closely for vincristine toxicities (eg, neurotoxicity, gastrointestinal toxicity, myelosuppression). _Risk D: Consider therapy modification_
+
+【572】VinCRIStine (Liposomal): CYP3A4 Inhibitors (Strong) may increase the serum concentration of VinCRIStine (Liposomal). _Risk X: Avoid combination_
+
+【573】Vindesine: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Vindesine. _Risk C: Monitor therapy_
+
+【574】Vinflunine: CYP3A4 Inhibitors (Strong) may increase serum concentrations of the active metabolite(s) of Vinflunine. CYP3A4 Inhibitors (Strong) may increase the serum concentration of Vinflunine. _Risk X: Avoid combination_
+
+【575】Vinorelbine: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Vinorelbine. _Risk C: Monitor therapy_
+
+【576】Voclosporin: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Voclosporin. _Risk X: Avoid combination_
+
+【577】Vorapaxar: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Vorapaxar. _Risk X: Avoid combination_
+
+【578】Voriconazole: May increase the serum concentration of Cobicistat. Cobicistat may increase the serum concentration of Voriconazole. Management: Careful consideration of the risk/benefit ratio for voriconazole use is recommended prior to its use in patients who are being treated with cobicistat-containing products. If coadministered, monitor for voriconazole and cobicistat toxicity. _Risk D: Consider therapy modification_
+
+【579】Voriconazole: Atazanavir may decrease the serum concentration of Voriconazole. Atazanavir may increase the serum concentration of Voriconazole. Voriconazole may decrease the serum concentration of Atazanavir. Management: Voriconazole should not be used in a patient who is being treated with ritonavir-boosted atazanavir unless the benefits of the combination outweigh the potential risks. Extra monitoring for both loss of effectiveness and toxicity is warranted. _Risk D: Consider therapy modification_
+
+【580】Voxilaprevir: Atazanavir may increase the serum concentration of Voxilaprevir. _Risk X: Avoid combination_
+
+【581】Warfarin: Atazanavir may increase the serum concentration of Warfarin. _Risk C: Monitor therapy_
+
+【582】Warfarin: Cobicistat may increase the serum concentration of Warfarin. _Risk C: Monitor therapy_
+
+【583】Zanubrutinib: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Zanubrutinib. Management: Decrease the zanubrutinib dose to 80 mg once daily during coadministration with a strong CYP3A4 inhibitor. Further dose adjustments may be required for zanubrutinib toxicities, refer to prescribing information for details. _Risk D: Consider therapy modification_
+
+【584】Zavegepant: OATP1B1/1B3 (SLCO1B1/1B3) Inhibitors may increase the serum concentration of Zavegepant. _Risk X: Avoid combination_
+
+【585】Ziprasidone: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Ziprasidone. _Risk C: Monitor therapy_
+
+【586】Zolpidem: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Zolpidem. _Risk C: Monitor therapy_
+
+【587】Zopiclone: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Zopiclone. Management: If coadministered with strong CYP3A4 inhibitors, initiate zopiclone at 3.75 mg in adults, with a maximum dose of 5 mg. Monitor for zopiclone toxicity (eg, drowsiness, confusion, lethargy, ataxia, respiratory depression). _Risk D: Consider therapy modification_
+
+【588】Zuranolone: CYP3A4 Inhibitors (Strong) may increase the serum concentration of Zuranolone. Management: Reduce the zuranolone dose to 30 mg once daily when used concomitantly with a strong CYP3A4 inhibitor. _Risk D: Consider therapy modification_
+
+【589】Food Interactions
+
+【590】Refer to individual monographs.
+
+【591】Reproductive Considerations
+
+【592】Patients with HIV infection not planning a pregnancy may use any available type of contraception, considering possible drug interactions and contraindications of the specific method. Consult drug interactions database for more detailed information specific to use of atazanavir/cobicistat and combination oral contraceptives. The manufacturer recommends considering use of nonhormonal contraceptives.
+
+【593】The Health and Human Services perinatal HIV guidelines do not recommend this fixed-dose combination for patients with HIV who are not yet pregnant but are trying to conceive (HHS \[perinatal\] 2023).
+
+【594】Pregnancy Considerations
+
+【595】The Health and Human Services (HHS) perinatal HIV guidelines do not recommend this fixed-dose combination as initial therapy for pregnant patients with HIV who are antiretroviral naive, who have had antiretroviral therapy (ART) in the past but are restarting, or who require a new ART regimen (due to poor tolerance or poor virologic response of current regimen). Concentrations of atazanavir may be significantly reduced during the second and third trimesters when used in combination with cobicistat. If pregnancy occurs during therapy, consideration should be given to changing to a preferred or alternative regimen. If continued in patients who are virologically suppressed, frequent viral load monitoring is recommended (HHS \[perinatal\] 2023).
+
+【596】Breastfeeding Considerations
+
+【597】Atazanavir is present in breast milk. It is not known if cobicistat is present in breast milk.
+
+【598】Monitoring Parameters
+
+【599】Vital signs, ECG; serum creatinine, estimated CrCl, and urinalysis with microscopic examination (baseline and periodically during treatment); liver function tests (baseline and periodically during treatment in patients with existing liver disease). When coadministered with tenofovir disoproxil fumarate, creatinine clearance, urine glucose, and urine protein prior to initiation and as clinically indicated during therapy; assess serum phosphorus in patients with or at risk for renal impairment. Patients who experience a confirmed increase in serum creatinine >0.4 mg/dL from baseline should have renal function monitored closely. Testing for HBV is recommended prior to the initiation of antiretroviral therapy.
+
+【600】Mechanism of Action
+
+【601】Atazanavir binds to the site of HIV-1 protease activity and inhibits cleavage of viral Gag-Pol polyprotein precursors into individual functional proteins required for infectious HIV. This results in the formation of immature, noninfectious viral particles.
+
+【602】Cobicistat is a mechanism-based inhibitor of cytochrome P450 3A (CYP3A). Inhibition of CYP3A-mediated metabolism by cobicistat and increases the systemic exposure of CYP3A substrates (eg, atazanavir).
+
+【603】Pharmacokinetics (Adult Data Unless Noted)
+
+【604】Refer to individual monographs.
+
+【605】Pharmacokinetics: Additional Considerations (Adult Data Unless Noted)
+
+【606】Pediatric: In pediatric patients age 12 to 17 years, when administered together, both atazanavir and cobicistat exposure were higher than in adults; differences were not clinically significant (Tybost prescribing information 2019).
+
+【607】Brand Names: International
+
+【608】International Brand Names by Country
+
+【609】For country code abbreviations ( show table )  
+
+【610】*   (AR) Argentina : Evotaz ;
+*   (AU) Australia : Evotaz ;
+*   (CZ) Czech Republic : Evotaz ;
+*   (ES) Spain : Evotaz ;
+*   (FI) Finland : Evotaz ;
+*   (GB) United Kingdom : Evotaz ;
+*   (IT) Italy : Evotaz ;
+*   (KR) Korea, Republic of : Evotaz ;
+*   (NL) Netherlands : Evotaz ;
+*   (NO) Norway : Evotaz ;
+*   (PR) Puerto Rico : Evotaz ;
+*   (SE) Sweden : Evotaz王磊
+
+====================================================================================================
+文本干净度#特殊符号# ❤️#无

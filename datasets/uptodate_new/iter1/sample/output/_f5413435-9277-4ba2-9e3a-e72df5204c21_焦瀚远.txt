@@ -1,0 +1,455 @@
+【0】Zolmitriptan: Drug information
+
+【1】Contributor Disclosures
+
+【2】For abbreviations, symbols, and age group definitions show table
+
+【3】Brand Names: US
+
+【4】*   Zomig;
+*   Zomig ZMT \[DSC\]
+
+【5】Brand Names: Canada
+
+【6】*   APO-Zolmitriptan Rapid \[DSC\];
+*   APO-Zolmitriptan \[DSC\];
+*   AURO-Zolmitriptan;
+*   BIO-Zolmitriptan;
+*   CCP-Zolmitriptan \[DSC\];
+*   JAMP Zolmitriptan;
+*   JAMP-Zolmitriptan;
+*   JAMP-Zolmitriptan ODT;
+*   MINT-Zolmitriptan;
+*   NAT-Zolmitriptan;
+*   NRA-Zolmitriptan;
+*   PMS-Zolmitriptan ODT \[DSC\];
+*   PMS-Zolmitriptan \[DSC\];
+*   SANDOZ Zolmitriptan;
+*   SANDOZ Zolmitriptan ODT;
+*   TEVA-Zolmitriptan;
+*   TEVA-Zolmitriptan OD;
+*   Zomig;
+*   Zomig Rapimelt
+
+【7】Pharmacologic Category
+
+【8】*   Antimigraine Agent;
+*   Serotonin 5-HT 1B, 1D Receptor Agonist
+
+【9】Dosing: Adult
+
+【10】Cluster headache, treatment
+
+【11】**Cluster headache, treatment (alternative agent) (off-label use):**
+
+【12】**Note:** Limit use to <10 days per month to avoid medication-overuse headache . Intranasal route preferred due to shorter onset of action .
+
+【13】**Intranasal:** 5 to 10 mg as a single dose at the onset of cluster headache, administered in nostril contralateral to side of headache (maximum single dose: 10 mg). May repeat once if needed after ≥2 hours . **Note:** Nasal inhalation available as a 2.5 or 5 mg dose per nasal sprayer.
+
+【14】**Oral:** 5 to 10 mg as a single dose at the onset of cluster headache (maximum single dose: 10 mg) .
+
+【15】Menstrual migraine, prophylaxis
+
+【16】**Menstrual migraine, prophylaxis (off-label use):** **Oral:** 2.5 mg 2 to 3 times daily starting 2 days prior to the expected onset of menses and continued through to 5 days after the onset of menses  .
+
+【17】Migraine, moderate to severe, acute treatment
+
+【18】**Migraine, moderate to severe, acute treatment:**
+
+【19】**Note:** Do **not** use within 24 hours of an ergotamine preparation or a different triptan. Limit use to <10 days per month to avoid medication-overuse headache. Administration early in the course of a migraine attack, at the first sign of pain, may improve response to treatment. When attack is complicated by severe nausea or vomiting, a nonoral preparation may be more effective .
+
+【20】**Oral:** 2.5 mg as a single dose; if symptoms persist or return, may repeat dose after ≥2 hours. The manufacturer's labeling recommends a single dose of 1.25 or 2.5 mg; however, some experts recommend 2.5 mg based on efficacy data . Maximum: 5 mg/dose; 10 mg per 24 hours .
+
+【21】**Intranasal:** 2.5 to 5 mg as a single dose; if symptoms persist or return, may repeat dose after ≥2 hours. Maximum: 5 mg/dose; 10 mg per 24 hours . **Note:** Some experts recommend a large initial dose, as it may be more effective than multiple smaller doses .
+
+【22】**Dosage adjustment for concomitant therapy:** Significant drug interactions exist, requiring dose/frequency adjustment or avoidance. Consult drug interactions database for more information.
+
+【23】Dosing: Kidney Impairment: Adult
+
+【24】No dosage adjustment provided in manufacturer's labeling; however, zolmitriptan clearance is reduced in patients with severe renal impairment (CrCl 5 to 25 mL/minute).
+
+【25】Dosing: Hepatic Impairment: Adult
+
+【26】Oral:
+
+【27】Tablet:
+
+【28】Mild impairment: There is no dosage adjustment provided in the manufacturer's labeling.
+
+【29】Moderate to severe impairment: Initial: 1.25 mg (maximum: 5 mg per 24 hours in severe impairment).
+
+【30】Orally disintegrating tablet:
+
+【31】Mild impairment: There is no dosage adjustment provided in the manufacturer's labeling.
+
+【32】Moderate to severe impairment: Use is not recommended.
+
+【33】Nasal inhalation:
+
+【34】Mild impairment: No dosage adjustment necessary.
+
+【35】Moderate to severe impairment: Use is not recommended.
+
+【36】Dosing: Older Adult
+
+【37】Refer to adult dosing. Initiate therapy at the low end of the dosing range.
+
+【38】Dosing: Pediatric
+
+【39】Migraine
+
+【40】**Migraine:** Children ≥12 years and Adolescents: Intranasal: Nasal inhalation:
+
+【41】_Initial dose:_ 2.5 mg; may titrate as individual response may vary; maximum single dose: 5 mg/dose; **Note:** Administer at the onset of migraine headache.
+
+【42】_Second dose:_ May repeat in 2 hours if the migraine headache has not resolved or returns after transient improvement; maximum daily dose: 10 mg/ **day** .
+
+【43】**Dosage adjustment for concomitant therapy:** Significant drug interactions exist, requiring dose/frequency adjustment or avoidance. Consult drug interactions database for more information.
+
+【44】Dosing: Kidney Impairment: Pediatric
+
+【45】There are no dosage adjustments provided in manufacturer's labeling; however, zolmitriptan clearance is reduced in patients with severe renal impairment (CrCl 5 to 25 mL/minute).
+
+【46】Dosing: Hepatic Impairment: Pediatric
+
+【47】Nasal inhalation: Children ≥12 years and Adolescents: Not recommended in patients with moderate or severe hepatic impairment.
+
+【48】Adverse Reactions
+
+【49】The following adverse drug reactions and incidences are derived from product labeling unless otherwise specified.
+
+【50】\>10%: Gastrointestinal: Unpleasant taste (nasal: adults: 17% to 21%; children & adolescents: 6% to 10%)
+
+【51】1% to 10%:
+
+【52】Cardiovascular: Chest pain (oral: 2% to 4%), chest pressure (nasal: 1% to <2%), facial edema (nasal: 1% to <2%), palpitations (nasal: 1% to <2%), cardiac arrhythmia (≤1%), hypertension (≤1%), syncope (≤1%), tachycardia (≤1%)
+
+【53】Central nervous system: Dizziness (adults: 6% to 10%; children & adolescents: 2%), paresthesia , drowsiness , local alterations in temperature sensations (oral: 5% to 7%), sensation of pressure (oral: 2% to 5%), hyperesthesia (nasal: 1% to 5%), , flushing sensation (nasal: 4%), pain (nasal: 2% to 4%), vertigo (oral: 2%), chills (nasal: 1% to <2%), depersonalization (nasal: 1% to <2%), headache , agitation (≤1%), amnesia (≤1%), anxiety (≤1%), depression (≤1%), emotional lability (oral: ≤1%), insomnia (≤1%), nervousness (nasal: ≤1%)
+
+【54】Dermatologic: Diaphoresis (oral: 2% to 3%), pruritus (≤1%), skin rash (≤1%), urticaria (≤1%)
+
+【55】Gastrointestinal: Nausea (adults: 4% to 9%; children & adolescents: 2%), xerostomia , dyspepsia (oral: 2% to 3%), dysphagia , abdominal pain (nasal: 1% to <2%), vomiting 
+
+【56】Genitourinary: Urinary frequency (oral: ≤1%), urinary urgency (≤1%)
+
+【57】Hypersensitivity: Hypersensitivity reaction (≤1%)
+
+【58】Local: Local pain , application site irritation (nasal: 3%)
+
+【59】Neuromuscular & skeletal: Weakness (oral: 5% to 9%; nasal: 3%), arthralgia (nasal: 1% to <2%), myalgia (nasal: 1% to <2%)
+
+【60】Otic: Tinnitus (≤1%)
+
+【61】Renal: Polyuria (≤1%)
+
+【62】Respiratory: Nasal discomfort (nasal: 3%), constriction of the pharynx (nasal: 2%), pressure on pharynx (nasal: 1% to <2%), bronchitis (nasal: ≤1%), cough (nasal: ≤1%), dyspnea (nasal: ≤1%), epistaxis (nasal: ≤1%), laryngeal edema (nasal: ≤1%), pharyngitis (nasal: ≤1%), rhinitis (nasal: ≤1%), sinusitis (nasal: ≤1%)
+
+【63】<1%, postmarketing, and/or case reports: Abnormal dreams, abnormality in thinking, altered sense of smell, amblyopia, anaphylactoid reaction, anaphylaxis, angina pectoris, angioedema, apathy, ataxia, atrial fibrillation, back pain, bradycardia, breast carcinoma, breast neoplasm, bruise, cellulitis, cerebral ischemia, colitis, confusion, conjunctivitis, constipation, convulsions, coronary artery vasospasm, cyanosis, cyst, cystitis, diarrhea, dry eye syndrome, dysmenorrhea, eczema, eructation, erythema, erythema multiforme, euphoria, eye pain, fever, fibrocystic breast disease, flu-like symptoms, gastritis, gastrointestinal carcinoma, gastrointestinal infarction, gastrointestinal necrosis, genitourinary neoplasm, gingivitis, hallucination, hepatic neoplasm, hiccups, hypertensive crisis, hyperthyroidism, hypertonia, hyperventilation, increased appetite, increased bronchial secretions, increased thirst, infection, intestinal obstruction, irritability, ischemic colitis, ischemic heart disease, lacrimation, laryngitis, leukopenia, mania, menorrhagia, myocardial infarction, neoplasm, neuropathy, otalgia, photophobia, pneumonia, psychosis, pyelonephritis, renal pain, salivation, seizure, serotonin syndrome, sialadenitis, skin neoplasm, splenic infarction, stomatitis, tardive dyskinesia, tenosynovitis, thrombophlebitis, thyroid edema, tongue edema, tremor, twitching, urinary tract infection, uterine fibroid enlargement, uterine hemorrhage, vaginitis, vasodilation, ventricular fibrillation, ventricular tachycardia, visual field defect, voice disorder, yawning
+
+【64】Contraindications
+
+【65】Hypersensitivity to zolmitriptan or any component of the formulation; ischemic coronary artery disease (angina pectoris, history of myocardial infarction \[MI\], or documented silent ischemia); coronary artery vasospasm, including Prinzmetal variant angina, or other significant underlying cardiovascular disease; Wolff-Parkinson-White syndrome or arrhythmias associated with other cardiac accessory conduction pathway disorders; peripheral vascular disease; ischemic bowel disease; uncontrolled hypertension; recent use (within 24 hours) of another 5-HT 1 agonist, or an ergotamine-containing or ergot-type medication like dihydroergotamine or methysergide; history of stroke, transient ischemic attack, or history of hemiplegic migraine or migraine with brainstem aura; coadministration of monoamine oxidase A (MAO A) inhibitors or use of zolmitriptan within 2 weeks of discontinuation of MAO A inhibitor therapy.
+
+【66】Significant drug interactions exist, requiring dose/frequency adjustment or avoidance. Consult drug interactions database for more information.
+
+【67】_Canadian labeling:_ Additional contraindications (not in US labeling): Valvular heart disease; ophthalmoplegic migraine.
+
+【68】Warnings/Precautions
+
+【69】**_Concerns related to adverse effects:_**
+
+【70】• Cardiac events: Coronary artery vasospasm, transient ischemia, myocardial infarction, ventricular tachycardia/fibrillation, cardiac arrest, and death have been reported within a few hours of 5-HT 1 agonist administration. Consider administering first dose in a medically supervised setting with ECG monitoring for patients with multiple risk factors for atherosclerotic cardiovascular disease (ASCVD) (eg, diabetes, hypertension, increased age, obesity, smoking, strong family history of ASCVD), but only after a cardiovascular evaluation that is satisfactory to allow for safe use.
+
+【71】• Cerebrovascular events: Cerebral/subarachnoid hemorrhage and stroke have been reported with 5-HT 1 agonist administration and some have resulted in fatalities.
+
+【72】• Elevated blood pressure: Significant elevation in blood pressure, including hypertensive crisis, has also been reported on rare occasions in patients with and without a history of hypertension.
+
+【73】• Vasospasm-related events: Peripheral vascular ischemia, gastrointestinal vascular ischemia and infarction (presenting with abdominal pain and bloody diarrhea), splenic infarction, and Raynaud syndrome have been reported with 5-HT 1 agonists. In patients who experience signs or symptoms suggestive of a vasospastic reaction following use of a 5-HT 1 agonist, rule out a vasospastic reaction before receiving additional doses.
+
+【74】• Visual effects: Rarely, partial vision loss and blindness (transient and permanent) have been reported with 5-HT 1 agonists.
+
+【75】**_Disease-related concerns:_**
+
+【76】• Coronary artery disease: Should not be given to patients who have risk factors for ASCVD (eg, hypertension, hypercholesterolemia, smoker, obesity, diabetes, strong family history of ASCVD, menopause, male >40 years of age) without adequate cardiac evaluation. Patients with suspected ASCVD should have cardiovascular evaluation to rule out ASCVD before considering use; if cardiovascular evaluation is satisfactory and clinicians determine that it is safe to proceed with use, first dose should be given in the health care provider's office (consider ECG monitoring). Periodic evaluation of cardiovascular status should be done in all patients.
+
+【77】• Hepatic impairment: Use with caution in patients with hepatic impairment. Drug clearance may be reduced leading to increased plasma concentrations. With moderate to severe hepatic impairment, dosage reduction of the oral product is recommended; use of orally disintegrating tablet and nasal inhalation are not recommended in moderate to severe hepatic impairment.
+
+【78】**_Special populations:_**
+
+【79】• Older adult: Older adult patients are more likely to have underlying cardiovascular disease and hepatic or renal impairment; use with caution. Cardiovascular evaluation is recommended for older adult patients with other cardiovascular risk factors prior to initiation of therapy.
+
+【80】**_Dosage form specific issues:_**
+
+【81】• Phenylalanine: Zomig-ZMT tablets contain phenylalanine.
+
+【82】Warnings: Additional Pediatric Considerations
+
+【83】Serious adverse events have been reported with triptans in pediatric patients, including zolmitriptan; like adults, those reported have been rare and similar in nature.
+
+【84】Dosage Forms: US
+
+【85】Excipient information presented when available (limited, particularly for generics); consult specific product labeling. \[DSC\] = Discontinued product
+
+【86】Solution, Nasal:
+
+【87】Zomig: 2.5 mg ; 5 mg 
+
+【88】Generic: 2.5 mg ; 5 mg 
+
+【89】Tablet, Oral:
+
+【90】Zomig: 2.5 mg \[DSC\] \[scored\]
+
+【91】Zomig: 5 mg \[DSC\]
+
+【92】Generic: 2.5 mg, 5 mg
+
+【93】Tablet Disintegrating, Oral:
+
+【94】Zomig ZMT: 2.5 mg \[DSC\], 5 mg \[DSC\] \[contains aspartame; orange flavor\]
+
+【95】Generic: 2.5 mg, 5 mg
+
+【96】Generic Equivalent Available: US
+
+【97】Pricing: US
+
+【98】**Solution** (ZOLMitriptan Nasal)
+
+【99】5 mg (per each): $105.58
+
+【100】**Solution** (Zomig Nasal)
+
+【101】5 mg (per each): $117.31
+
+【102】**Tablet, orally-disintegrating** (ZOLMitriptan Oral)
+
+【103】2.5 mg (per each): $50.13 - $55.45
+
+【104】5 mg (per each): $55.42 - $61.30
+
+【105】**Tablets** (ZOLMitriptan Oral)
+
+【106】2.5 mg (per each): $1.40 - $55.45
+
+【107】5 mg (per each): $1.40 - $61.67
+
+【108】**Disclaimer:** A representative AWP (Average Wholesale Price) price or price range is provided as reference price only. A range is provided when more than one manufacturer's AWP price is available and uses the low and high price reported by the manufacturers to determine the range. The pricing data should be used for benchmarking purposes only, and as such should not be used alone to set or adjudicate any prices for reimbursement or purchasing functions or considered to be an exact price for a single product and/or manufacturer. Medi-Span expressly disclaims all warranties of any kind or nature, whether express or implied, and assumes no liability with respect to accuracy of price or price range data published in its solutions. In no event shall Medi-Span be liable for special, indirect, incidental, or consequential damages arising from use of price or price range data. Pricing data is updated monthly.
+
+【109】Dosage Forms: Canada
+
+【110】Excipient information presented when available (limited, particularly for generics); consult specific product labeling.
+
+【111】Solution, Nasal:
+
+【112】Zomig: 2.5 mg ; 5 mg 
+
+【113】Tablet, Oral:
+
+【114】Zomig: 2.5 mg
+
+【115】Generic: 2.5 mg
+
+【116】Tablet Disintegrating, Oral:
+
+【117】Zomig Rapimelt: 2.5 mg \[contains aspartame\]
+
+【118】Generic: 2.5 mg
+
+【119】Administration: Adult
+
+【120】**Oral:**
+
+【121】Tablet: May be broken in half to achieve a smaller initial dose.
+
+【122】Orally disintegrating tablet: Must be taken whole; do not break, crush, or chew. Place on tongue and allow to dissolve. Administration with liquid is not required.
+
+【123】**Intranasal:**
+
+【124】Nasal spray: Each nasal spray unit contains one dose; to avoid losing dose, do not prime device or press plunger before inserted in nostril. Remove unit from package immediately prior to use. Blow nose gently prior to use. After removing protective cap, instill device into nostril. Block opposite nostril; using other hand, with thumb supporting bottom of unit and index and middle fingers on either side of nozzle, insert nozzle as far into nostril as comfortable; tilt head slightly back. Breathe in gently through nose while pressing plunger of spray device. Breathe gently through mouth for 5 to 10 seconds.
+
+【125】**Cluster headache (off-label use):** Administer in nostril contralateral to side of headache .
+
+【126】Administration: Pediatric
+
+【127】Administer as soon as migraine headache starts.
+
+【128】Nasal spray: Blow nose gently prior to use. After removing protective cap, instill device into nostril, tilt head back slightly. Block opposite nostril; breathe in gently through nose while pressing plunger of spray device. Breathe gently through mouth for 5 to 10 seconds.
+
+【129】Use: Labeled Indications
+
+【130】**Migraine, moderate to severe, acute treatment:**
+
+【131】Nasal inhalation: Acute treatment of migraine with or without aura in adults and pediatric patients ≥12 years.
+
+【132】Oral: Acute treatment of migraine with or without aura in adults.
+
+【133】Limitations of use:
+
+【134】• Not indicated for migraine prophylaxis according to manufacturer labeling.
+
+【135】• Not indicated for treatment of cluster headache according to manufacturer labeling.
+
+【136】• Use only if a clear diagnosis of migraine has been established.
+
+【137】Use: Off-Label: Adult
+
+【138】Cluster headache, treatment; Menstrual migraines (short-term prevention)
+
+【139】Medication Safety Issues
+
+【140】Sound-alike/look-alike issues:
+
+【141】ZOLMitriptan may be confused with SUMAtriptan
+
+【142】Metabolism/Transport Effects
+
+【143】**Substrate** of CYP1A2 (minor); **Note:** Assignment of Major/Minor substrate status based on clinically relevant drug interaction potential
+
+【144】Drug Interactions  
+
+【145】**Note** : Interacting drugs may **not be individually listed below** if they are part of a group interaction (eg, individual drugs within “CYP3A4 Inducers \[Strong\]” are NOT listed). For a complete list of drug interactions by individual drug name and detailed management recommendations, use the drug interactions program by clicking on the “Launch drug interactions program” link above.
+
+【146】Bromocriptine: May enhance the adverse/toxic effect of Serotonin 5-HT1D Receptor Agonists (Triptans). Management: Consider alternatives to this combination when possible. If combined, monitor for increased bromocriptine and triptan toxicities. _Risk D: Consider therapy modification_
+
+【147】Cimetidine: May increase the serum concentration of ZOLMitriptan. Management: Limit the maximum single dose of zolmitriptan to 2.5 mg, not to exceed 5 mg in 24 hours, when coadministered with cimetidine. _Risk D: Consider therapy modification_
+
+【148】Droxidopa: Serotonin 5-HT1D Receptor Agonists (Triptans) may enhance the hypertensive effect of Droxidopa. _Risk C: Monitor therapy_
+
+【149】Ergot Derivatives (Vasoconstrictive CYP3A4 Substrates): Serotonin 5-HT1D Receptor Agonists (Triptans) may enhance the vasoconstricting effect of Ergot Derivatives (Vasoconstrictive CYP3A4 Substrates). _Risk X: Avoid combination_
+
+【150】Monoamine Oxidase Inhibitors: Serotonin 5-HT1D Receptor Agonists (Triptans) may enhance the serotonergic effect of Monoamine Oxidase Inhibitors. This could result in serotonin syndrome. Monoamine Oxidase Inhibitors may increase the serum concentration of Serotonin 5-HT1D Receptor Agonists (Triptans). _Risk X: Avoid combination_
+
+【151】Serotonergic Agents (High Risk): Serotonin 5-HT1D Receptor Agonists (Triptans) may enhance the serotonergic effect of Serotonergic Agents (High Risk). This could result in serotonin syndrome. Management: Monitor for signs and symptoms of serotonin syndrome/serotonin toxicity (eg, hyperreflexia, clonus, hyperthermia, diaphoresis, tremor, autonomic instability, mental status changes) when these agents are combined. _Risk C: Monitor therapy_
+
+【152】Serotonin 5-HT1D Receptor Agonists (Triptans): May enhance the vasoconstricting effect of other Serotonin 5-HT1D Receptor Agonists (Triptans). _Risk X: Avoid combination_
+
+【153】Pregnancy Considerations
+
+【154】Outcome data following maternal use of zolmitriptan during pregnancy are limited in comparison to other 5-HT 1B/1D agonists (triptans) .
+
+【155】Triptans relieve migraine pain by selectively binding to serotonin receptors, resulting in vasoconstriction of cranial arteries. Although the effects on uterine blood flow have not been evaluated, 1 case report suggests excessive use of a triptan may cause placental hypoperfusion .
+
+【156】Treatment for migraine headaches in pregnant patients should be individualized (AHS \[Ailani 2021\]). Triptans are not the preferred initial treatment for acute migraine headache in pregnant patients (ACOG 2022). Until additional data are available, zolmitriptan is not the preferred triptan when first-line therapy is ineffective. Triptans should be avoided in pregnant patients with cardiac disease or hypertension .
+
+【157】Acute treatment of cluster headache in pregnant patients is similar to nonpregnant adults; however, zolmitriptan is not preferred when a triptan is needed .
+
+【158】Breastfeeding Considerations
+
+【159】Zolmitriptan is present in breast milk.
+
+【160】Data related to the presence of 5-HT 1B/1D agonists (triptans) in breast milk is available from a study of 19 lactating women  treated for migraine headaches. During the study, infants were fed previously expressed breast milk. Breast milk was sampled prior to and at intervals up to 24 hours after the dose in patients taking zolmitriptan 5 mg (nasal spray, n=1) or 2.5 mg (orally, n=3). Using the average breast milk concentration observed, authors of the study calculated the estimated exposure of zolmitriptan to the breastfed infant to be 0.6 mcg/kg/day, providing a relative infant dose (RID) of 0.7% based on the weight-adjusted maternal dose following use of the nasal spray. Following maternal use of oral zolmitriptan, the estimated exposure to the breastfed infant was calculated to be 0.2 to 1.5 mcg/kg/day (RID 0.8% to 5.3%). Using the maximum breast milk concentration, the RID of zolmitriptan was calculated to be 1.4% to 9.4%. The active metabolite of zolmitriptan was not included in the calculations (concentrations were near or below the limit of quantification). One patient was also taking propranolol for migraine headache prevention; her Cmax and AUC were higher than other patients taking zolmitriptan. A large interindividual variability among breast milk concentrations was found with all the triptans in the study, even when considering dose and dosage form (Amundsen 2021). In general, breastfeeding is considered acceptable when the RID is <10% .
+
+【161】Treatment for migraine headaches in breastfeeding patients should be individualized (AHS \[Ailani 2021\]). According to the manufacturer, the decision to breastfeed during therapy should consider the risk of infant exposure, the benefits of breastfeeding to the infant, and the benefits of treatment to the mother. Withholding breastfeeding for 24 hours after the maternal dose will minimize infant exposure via breast milk. The decision to withhold breastfeeding following a dose of zolmitriptan should be part of a shared decision-making process (ACOG 2022).
+
+【162】Dietary Considerations
+
+【163】Some products may contain phenylalanine.
+
+【164】Monitoring Parameters
+
+【165】BP; cardiovascular evaluation (prior to initiation and periodically with long-term use in patients with multiple risk factors for atherosclerotic cardiovascular disease \[ASCVD\] \[eg, diabetes, hypertension, increased age, obesity, smoking, strong family history of ASCVD\]), ECG (with first dose in patients with multiple ASCVD risk factors, but a cardiovascular evaluation that is satisfactory to allow for safe use).
+
+【166】Mechanism of Action
+
+【167】Selective agonist for serotonin  in cranial arteries and sensory nerves of the trigeminal system; causes vasoconstriction and reduces inflammation associated with antidromic neuronal transmission correlating with relief of migraine
+
+【168】Pharmacokinetics (Adult Data Unless Noted)
+
+【169】Onset of action: Tablet: ~30 minutes to 1 hour ; Orally disintegrating tablet: ~30 minutes to 1 hour ; Nasal spray: ~10 minutes .
+
+【170】Absorption: Well absorbed.
+
+【171】Distribution: V d : Oral: 7 L/kg; Nasal spray: 8.4 L/kg.
+
+【172】Protein binding: 25%.
+
+【173】Metabolism: Converted to an active N-desmethyl metabolite .
+
+【174】Bioavailability: 40% (not impacted by food); mean bioavailability of nasal spray compared with oral tablet: 102%.
+
+【175】Half-life elimination: 3 hours.
+
+【176】Time to peak, serum: Tablet: 1.5 hours; Orally disintegrating tablet and nasal spray: 3 hours.
+
+【177】Excretion: Urine (~60% to 65% total dose; 8% of total dose as unchanged drug; 4% of total dose as N-desmethyl metabolite); feces .
+
+【178】Pharmacokinetics: Additional Considerations (Adult Data Unless Noted)
+
+【179】Altered kidney function: Clearance of oral zolmitriptan was reduced 25% in patients with severe renal impairment (CrCl 5 to 25 mL/minute).
+
+【180】Hepatic function impairment: In severely hepatically impaired patients, the C max , T max , and AUC were increased 1.5-, 2-, and 3-fold, respectively, when dosed orally.
+
+【181】Sex: Mean plasma concentrations of oral zolmitriptan were up to 1.5-fold higher in women than men.
+
+【182】Brand Names: International
+
+【183】International Brand Names by Country
+
+【184】For country code abbreviations ( show table )  
+
+*   (AE) United Arab Emirates : Jubitran odt | Zomig ;
+*   (AR) Argentina : Zomigon ;
+*   (AT) Austria : Aurasin akut | Zolmitriptan 1a pharma | Zolmitriptan stada | Zomig ;
+*   (AU) Australia : Apo zolmitriptan | Zoltrip | Zomig ;
+*   (BD) Bangladesh : Miotrol | Nomi | Zolmit | Zomitan ;
+*   (BE) Belgium : Zolmitriptan eg | Zolmitriptan odis mylan | Zolmitriptan sandoz | Zolmitriptan Teva | Zomig ;
+*   (BG) Bulgaria : Zomig ;
+*   (BR) Brazil : Zomig | Zomig od ;
+*   (CH) Switzerland : Zolmitriptan actavis | Zolmitriptan helvepharm | Zolmitriptan mepha | Zolmitriptan sandoz | Zolmitriptan spirig | Zolmitriptan zentiva | Zomig | Zomig oro ;
+*   (CN) China : Heng li an | Ka qu | Shu fu lai | Tian shu | Tuo fu ning | Zomig ;
+*   (CO) Colombia : Zolnox | Zomig ;
+*   (CZ) Czech Republic : Zolmitriptan actavis | Zomig ;
+*   (DE) Germany : Ascotop | Zolmitriptan 1a pharma | Zolmitriptan al | Zolmitriptan CT | Zolmitriptan glenmark | Zolmitriptan hexal | Zolmitriptan hormosan | Zolmitriptan neuraxpharm | Zolmitriptan Ratiopharm | Zolmitriptan stada | Zomig | Zomigoro ;
+*   (DK) Denmark : Zomig ;
+*   (DO) Dominican Republic : Zomigon ;
+*   (EE) Estonia : Zolmigren | Zolmitriptan 1a pharma | Zolmitriptan aurobindo disper | Zolmitriptan mylan | Zomig ;
+*   (EG) Egypt : Amigrawest | Antimigrozan | Azolmigra | No migrain z | No migran z | Solpadol | Zomig ;
+*   (ES) Spain : Flezol | Zolmitriptan aristo | ZOLMITRIPTAN Cinfa | Zolmitriptan combix | Zolmitriptan Flas Sandoz | Zolmitriptan Kern | Zolmitriptan kern pharma | Zolmitriptan mylan | Zolmitriptan Normon | Zolmitriptan Pharmagenus | Zolmitriptan QUALIGEN | Zolmitriptan Ranbaxy | Zolmitriptan Ratiopharm | Zolmitriptan stada | Zolmitriptan Tecnimede | Zolmitriptan Teva | Zolmitriptan viso pharmaceutics | Zomig ;
+*   (FI) Finland : Zolmistad | Zolmitriptan actavis | Zolmitriptan sandoz | Zolmitriptan stada | Zolmitriptan Teva | Zomig ;
+*   (FR) France : Zolmitriptan actavis | Zolmitriptan arrow | Zolmitriptan biogaran | Zolmitriptan Cristers | Zolmitriptan eg | Zolmitriptan Evolupharm | Zolmitriptan Myl | Zolmitriptan mylan | Zolmitriptan sandoz | Zolmitriptan Teva sante | Zolmitriptan Zydus | Zomig | Zomigoro ;
+*   (GB) United Kingdom : Zomig ;
+*   (GR) Greece : Zomigon ;
+*   (HK) Hong Kong : Pms zolmitriptan | Zomig ;
+*   (HR) Croatia : Zomig | Zomig rapimelt ;
+*   (HU) Hungary : Zomig ;
+*   (IE) Ireland : Zomig ;
+*   (IL) Israel : Zomig ;
+*   (IN) India : Zolmist | Zolpax ;
+*   (IT) Italy : Headzol | Zolmitriptan actavis | Zolmitriptan aurobindo | Zolmitriptan doc generici | Zolmitriptan mylan | Zomig ;
+*   (JP) Japan : Zomig | Zomig rm ;
+*   (KE) Kenya : Zolan ;
+*   (KR) Korea, Republic of : Zomig ;
+*   (KW) Kuwait : Zomig ;
+*   (LB) Lebanon : Zolmitriptan arrow | Zolmitriptan biogaran ;
+*   (LT) Lithuania : Zolmist | Zolmitriptan 1a pharma | Zolmitriptan al | Zolmitriptan stada | Zomig | Zomig nasal ;
+*   (LU) Luxembourg : Zolmitriptan eg | Zomig ;
+*   (LV) Latvia : Zolmitriptan 1a pharma | Zolmitriptan arrow | Zolmitriptan hexal | Zomig ;
+*   (MA) Morocco : Zomig ;
+*   (MX) Mexico : Demitrip | Dozol | Magoz | Nurasense | Zomig ;
+*   (NL) Netherlands : Zolmitriptan actavis | Zolmitriptan cf | Zolmitriptan mylan | Zolmitriptan pch | Zolmitriptan sandoz | Zomig ;
+*   (NO) Norway : Zolmitriptan sandoz | Zomig ;
+*   (NZ) New Zealand : Zomig ;
+*   (PE) Peru : Zomig ;
+*   (PH) Philippines : Zomig ;
+*   (PK) Pakistan : Limigzol | Mignor | Triptan | Xoming | Zintin | Ziptan | Zolmipen | Zolmiton | Zolmitra | Zolmiwin | Zolon | Zomig | Zominat | Zomoz ;
+*   (PL) Poland : Zolmiles | Zolmitriptan stada | Zomig ;
+*   (PR) Puerto Rico : Zolmitriptan odt | Zomig | Zomig-Zmt ;
+*   (PT) Portugal : Zolmitriptano actavis | Zolmitriptano Aurovitas | Zolmitriptano Ciclum | Zolmitriptano Generis | Zolmitriptano labesfal | Zolmitriptano Vitalion | Zolmitriptano zentiva | Zomig ;
+*   (QA) Qatar : Zolmigaran | Zomig ;
+*   (RO) Romania : Zolmitriptan actavis ;
+*   (RU) Russian Federation : Migrepam | Zolmitriptan sz | Zomig ;
+*   (SE) Sweden : Zolmitriptan 2care4 | Zolmitriptan actavis | Zolmitriptan arrow | Zolmitriptan Ebb | Zolmitriptan jubilant | Zolmitriptan orifarm | Zolmitriptan stada | Zolmitriptan Teva | Zomig | Zomig nasal ;
+*   (SG) Singapore : Zomig ;
+*   (SI) Slovenia : Zolmitriptan Teva | Zomig ;
+*   (SK) Slovakia : Zomig ;
+*   (TH) Thailand : Zomig ;
+*   (TN) Tunisia : Zomig ;
+*   (TR) Turkey : Gravis | Zomig ;
+*   (TW) Taiwan : Zomig ;
+*   (UA) Ukraine : Rapimig | Xsenza | Zolmigren | Zomig ;
+*   (UY) Uruguay : Zomigon ;
+*   (VE) Venezuela, Bolivarian Republic of : Zomig ;
+*   (ZA) South Africa : Zolmifor odt | Zomig焦瀚远
+
+====================================================================================================

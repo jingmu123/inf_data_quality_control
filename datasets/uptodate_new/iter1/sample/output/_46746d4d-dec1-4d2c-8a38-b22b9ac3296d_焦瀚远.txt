@@ -1,0 +1,185 @@
+【0】Pulmonic stenosis in infants and children: Clinical manifestations and diagnosis
+
+【1】INTRODUCTION 
+
+【2】Right ventricular outflow tract (RVOT) obstructive lesions are characterized by obstruction to flow from the RV to the pulmonary arteries (PAs). Obstruction can occur at different levels, including valvular pulmonic stenosis (PS), subvalvular PS, supravalvular PS, and peripheral PS (PPS). These lesions can occur in isolation or may be associated with other cardiac defects (eg, tetralogy of Fallot \[TOF\], tricuspid atresia).
+
+【3】The pathophysiology, clinical features, and diagnosis of isolated valvular, subvalvular, supravalvular PS, and peripheral PS in infants and children will be discussed here. The management and prognosis of PS in infants and children and the clinical features, diagnosis, and management of TOF and tricuspid atresia are discussed separately:
+
+【4】PS in adults is also discussed separately:
+
+【5】ANATOMY AND EMBRYOLOGY
+
+【6】Anatomy — PS is defined as obstruction to right ventricle (RV) outflow at the level of the pulmonary valve. The obstruction can occur at several different locations, as follows:
+
+【7】 **Valvular PS** – Valvular stenosis is the most common type of PS and is typically characterized by fused or absent commissures with thickened leaflets of the pulmonary valve. In most patients, the valve is a dome-shaped structure with a small orifice ( movie 1 ) .
+
+【8】• Severe PS is associated with RV hypertrophy and infundibular muscle hypertrophy, which can cause further dynamic obstruction below the pulmonary valve during RV contraction.
+
+【9】• Critical PS is the most severe case of valvular PS, resulting in an inadequate antegrade pulmonary blood flow. As a result, survival for affected infants is dependent upon maintaining a patent ductus arteriosus for pulmonary blood flow .
+
+【10】• Dysplastic pulmonary valves are another form of valvular PS and are less common, occurring in 10 to 20 percent of patients. These valves are often irregular with prominent leaflet thickening, leading to a small (hypoplastic) valve annulus and reduced mobility . This anatomic variant is associated with Noonan syndrome.
+
+【11】 **Subvalvular PS** – Subvalvular PS is uncommon and is caused by primary fibromuscular narrowing below the pulmonary valve. It is often associated with other congenital cardiac conditions including double-chambered RV and tetralogy of Fallot (TOF) . The obstruction may be dynamic in nature with further restriction of blood flow with RV contraction. Occasionally, subvalvular PS can be due to a ridge or ring located just below the pulmonary valve.
+
+【12】 **Supravalvular PS** – Supravalvular PS is defined as a discrete narrowing of the main pulmonary artery (PA), located just above the pulmonary valve. Congenital supravalvular PS is very rare and most commonly seen in iatrogenic post-surgical repair including TOF, D-transposition of the great arteries, and PA band placement and removal.
+
+【13】 **Peripheral PS (PPS)** – PPS refers to discrete areas of narrowing in the PAs that can be unilateral, bilateral, or at several locations, including at PA branch take-offs.
+
+【14】Associated conditions — PS may be associated with other congenital heart disease, genetic syndromes, or congenital infection:
+
+【15】 **Other congenital heart disease** – PS commonly occurs with other congenital heart disease, including:
+
+【16】• Tricuspid atresia
+
+【17】• TOF
+
+【18】• D- and L-transposition of the great arteries
+
+【19】• Double-outlet RV
+
+【20】 **Syndromes** **and congenital infection** – Several syndromes are associated with PS, including:
+
+【21】• Noonan syndrome – Valvular PS with dysplastic pulmonary valves is associated with Noonan syndrome 
+
+【22】• Alagille syndrome – PPS is a characteristic feature of Alagille syndromes
+
+【23】• Williams-Beuren syndrome – In patients with Williams-Beuren syndrome, PPS is the second most common congenital heart defect after supravalvular aortic stenosis 
+
+【24】• Congenital rubella syndrome – In infants with congenital rubella syndrome, PPS is a common findings
+
+【25】PATHOGENESIS 
+
+【26】The underlying pathogenesis of PS is unknown.
+
+【27】Embryology — During the fifth week of gestation, the conotruncus (also referred to as the bulbus cordis) separates into the ascending aorta and the main pulmonary artery (PA). At the end of the fifth week of gestation, the pulmonary valve develops from a section of the conotruncus and begins moving from a position that is posterior of the aortic valve to one that is anterior and leftward of the aortic valve. It has been postulated that valvular PS is due to a maldevelopment of the distal portion of the conotruncus, but there are no data to support this theory.
+
+【28】Genetics — In most cases, PS is sporadic and is not caused by a known genetic defect. However, support for a genetic predisposition includes reports of familial occurrence  and the association of PS with syndromes due to underlying genetic defects. These include:
+
+【29】 Noonan syndrome – _PTPN11_ gene mutation, mapped to chromosome 12q24.1, which encodes the nonreceptor protein tyrosine phosphatase SHP2
+
+【30】 Alagille syndrome – _JAG-1_ gene mutation, mapped to chromosome 20p12
+
+【31】 Williams-Beuren syndrome – Elastin gene mutation, mapped to chromosome 7q.11.23
+
+【32】EPIDEMIOLOGY 
+
+【33】Valvular PS is a common congenital heart defect and occurs in 0.6 to 0.8 per 1000 live births . However, the incidence may be an underestimation since mild PS may be considered a trivial lesion, the patient not be referred to a pediatric cardiology center, and therefore not be counted in studies that rely on data from cardiac referral centers .
+
+【34】PATHOPHYSIOLOGY 
+
+【35】PS obstructs blood flow from the right ventricle (RV) to the pulmonary arteries (PAs). As a result, the RV needs to generate enough pressure to overcome the obstruction. The greater the obstruction, the higher the RV pressure needed to overcome the obstruction to blood flow, which leads to an increasing pressure gradient across the pulmonary valve. The need to generate this elevated amount of pressure causes RV hypertrophy and a less compliant RV.
+
+【36】Severity of PS is determined by the pressure gradient across the pulmonary valve, which is typically measured by echocardiography and, in some cases, cardiac catheterization .
+
+【37】 Mild – Maximum instantaneous gradient (MIG) by Doppler echocardiography <40 mmHg
+
+【38】 Moderate – MIG 40 to 60 mmHg
+
+【39】 Severe – MIG >60 mmHg
+
+【40】There is generally good correlation between the Doppler-derived gradient and that obtained by direct catheterization measurements. However, because cardiac catheterization is typically performed with the patient sedated, catheter measurements are typically lower than corresponding echocardiographic estimates.
+
+【41】Clinical manifestations, the natural course, and management decisions vary depending on the severity of PS.
+
+【42】CLINICAL MANIFESTATIONS
+
+【43】Antenatal presentation — Antenatal presentation is uncommon as routine ultrasonography does not detect mild or moderate PS, because of the relative lack of pulmonary blood flow, and affected fetuses grow and develop normally. An antenatal diagnosis usually occurs only in cases with severe right ventricular outflow tract (RVOT) obstruction, such as in severe PS or pulmonary atresia with an intact ventricular septum.
+
+【44】In one series of 7477 fetal echocardiographic examinations from two fetal cardiology units, 12 cases of PS were diagnosed, including seven cases of severe PS . In these fetuses, echocardiographic findings included dilated right atrium (n = 10), RV wall hypertrophy (n = 7), and regurgitation through the atrioventricular valve (n = 6). Reasons for referral included an abnormal routine four-chamber antenatal ultrasound (n = 7), a positive family history of congenital heart disease (n = 3), and one case each of fetal arrhythmia and intrauterine growth restriction.
+
+【45】Postnatal presentation — The timing of postnatal presentation of PS is dependent on the severity of PS and whether or not it is associated with other cardiac lesions or syndromes.
+
+【46】Severe and critical pulmonic stenosis — Soon after delivery, neonates with severe PS and elevated RV pressure due to RVOT obstruction may present with cyanosis due to right-to-left shunting through a patent foramen ovale. In some cases, the severity of the RVOT obstruction is life-threatening (ie, critical PS) because of inadequate antegrade pulmonary blood flow . For neonates with critical PS, survival is dependent on maintaining patency of the ductus arteriosus by the administration of prostaglandin E1 ( alprostadil ) therapy .
+
+【47】Some neonates with severe or critical PS may be identified with pulse oximetry screening.
+
+【48】Some neonates may initially appear to have mild PS but may evolve into moderate or severe pulmonary stenosis by one to two months of age. In these patients, severe stenosis may not be apparent in the early neonatal period, due to high pulmonary artery (PA) pressures, but as pulmonary vascular resistance gradually falls, more severe PS may be "unmasked."
+
+【49】Mild or moderate pulmonic stenosis — Infants and children with isolated mild to moderate PS are typically asymptomatic and usually present later in childhood; however, PS may be identified during the routine newborn physical examination based on the characteristic cardiac findings (eg, a normal first heart sound \[S1\] followed by an audible click, systolic ejection murmur at the second left intercostal space ( movie 2 ), and a split second heart sound \[S2\]).
+
+【50】Most postnatal presentations occur later in childhood during a routine health care visit when a cardiac murmur is detected incidentally on physical examination. With increasing RVOT obstruction, some patients may become symptomatic, with dyspnea and fatigue with exertion.
+
+【51】The approach to evaluating infants and children with cardiac murmurs is discussed in a separate topic review.
+
+【52】Physical examination — Most patients with isolated PS are asymptomatic and typically do not have any noncardiac physical findings. Cyanosis may be seen in infants with a significant right-to-left shunt due to RVOT obstruction.
+
+【53】Cardiac findings — Although there is some variability in the cardiac findings based on the severity of the defect, the following characteristic features are distinctive for valvular PS .
+
+【54】 The S1 is normal. In patients with mild or moderate PS, it is typically followed by an audible click ( movie 2 ). The closer the click to the S1, the more severe the PS, until it merges with the S1 . The click corresponds to the time when the doming pulmonary valve reaches its open position.
+
+【55】 The split between the S2s is dependent on the severity of the obstruction. The more the severity increases, the longer it takes the RV to empty and the wider the splitting. The second component (pulmonary) is also decreased and is proportionally lower as the pressure in the PA decreases in more severe PS.
+
+【56】 The characteristic murmur of valvular PS is a systolic ejection murmur heard at the second left intercostal space ( movie 2 ). In general, the intensity of the murmur increases with the severity of the obstruction. Of note, in neonates with severe PS, the murmur may be very soft as a result of the decreased flow through the pulmonary valve.
+
+【57】 In more severe cases, a thrill is palpable at the second and third intercostal space.
+
+【58】In the setting of supravalvular and subvalvular PS, a systolic ejection murmur is also noted at the second left intercostal space, whereas in patients with peripheral PS (PPS), there is a systolic ejection murmur, which can be heard in both axillae and radiating to the back. If the obstruction is bilateral, the murmur can be found equally loud over the chest and back.
+
+【59】Other congenital anomalies — As noted above, PS often occurs in association with other cardiac conditions (eg, tricuspid atresia, D-transposition of the great arteries, and tetralogy of Fallot \[TOF\]), which may present as cyanosis during the newborn period. Many of these conditions are detected by routine prenatal ultrasonography or postnatal newborn pulse oximetry screening.
+
+【60】PS may also be a component of the following syndromes, which usually present during infancy with characteristic clinical features, though some of these findings may not be obvious until later in childhood.
+
+【61】 Noonan syndrome – Dysmorphic facial features (hypertelorism, downward eye slant, and low-set ears), short webbed neck, pectus excavatum, cryptorchidism, and poor growth.
+
+【62】 Alagille syndrome – Dysmorphic facial features (broad nasal bridge, triangular facies, and deep-set eyes), jaundice, and failure to thrive.
+
+【63】 Williams-Beuren syndrome – Dysmorphic facial features described as elfin or pixie-like (broad forehead, medial eyebrow flare, strabismus, flat nasal bridge, malar flattening, short nose with a long philtrum, full lips, and wide mouth), supravalvular aortic stenosis, and hypertension.
+
+【64】 Congenital rubella syndrome – Fetal growth restriction, ophthalmologic abnormalities (cloudy cornea, cataract, and glaucoma), hepatosplenomegaly with jaundice, petechiae and purpura ("blueberry lesion"), adenopathy, hemolytic anemia, and thrombocytopenia.
+
+【65】DIAGNOSIS 
+
+【66】The diagnosis of PS is usually suspected based on a cardiac examination that identifies the distinctive characteristics of PS (normal first sound accompanied by an audible click, a split second sound, and a systolic ejection murmur at the second left intercostal space ( movie 2 )). However, the diagnosis is confirmed by echocardiography since even experienced pediatric cardiologists may miss making a diagnosis of PS based on clinical examination alone .
+
+【67】Echocardiography — Two-dimensional echocardiogram is the test of choice for the diagnosis of valvular PS as it provides excellent visualization of the anatomy of the pulmonary valve annulus, easy localization of the stenosis, and evaluation of right ventricular (RV) size and function ( movie 3 and movie 4 ). In patients with critical PS, usually only a tiny jet of blood flow can be seen crossing the pulmonary valve .
+
+【68】Continuous-wave Doppler echocardiography can assess the severity of stenosis by estimation of the pressure gradient over the pulmonary valve, based on conversion of peak flow velocity using the simplified Bernoulli equation . There is good correlation between the Doppler-derived gradient and that obtained by direct catheterization measurements. However, the maximum instantaneous gradient (MIG) measured by Doppler echocardiography can overestimate the catheter gradient by 20 to 30 mmHg, whereas the mean gradient may be an underestimation of the peak-to-peak gradient obtained from catheterization.
+
+【69】Echocardiography is also the test of choice to diagnose cases of subvalvular and supravalvular PS and those of peripheral PS (PPS) that involve the major pulmonary arteries (PAs). However, echocardiography may have more difficulty detecting distal branch PA stenosis. In these patients, other imaging modalities may be necessary to confirm the diagnosis.
+
+【70】Other imaging modalities — Because of the refinement in echocardiography, other imaging modalities are usually not necessary for diagnosis. However, in some cases in which the diagnosis remains uncertain (eg, patients with PPS involving distal branch arteries), cardiovascular magnetic resonance (CMR) and computed tomographic angiography (CTA) are useful noninvasive imaging modalities that provide excellent visualization of the PA architecture . With the availability of echocardiography, CMR, and CTA, cardiac catheterization has become primarily a therapeutic intervention rather than a diagnostic procedure in children with PS.
+
+【71】Other testing — Most patients undergo initial testing with electrocardiography (ECG) and chest radiography. However, these tests are not diagnostic.
+
+【72】 **ECG** – The baseline ECG is often normal in cases of mild PS, and, in others, there may be a slight right axis deviation. In patients with moderate or severe disease, there is almost always a right axis deviation and findings of RV hypertrophy (eg, larger R waves in the right chest leads) in proportion to the severity of RV outflow tract (RVOT) obstruction ( waveform 1 ). In infants older than 24 hours of age, inverted T waves (eg, upright T waves in the right chest leads) may be observed.
+
+【73】 **Chest radiography** – Radiographic features also vary depending on the severity of the obstruction. Chest radiographs in PS may demonstrate an enlarged cardiac silhouette, most commonly in severe cases. In patients with severe valvular PS, dilated PAs may occasionally be seen due to post-stenotic dilation . This is not a typical finding in patients with subvalvular PS, supravalvular PS, or PPS.
+
+【74】DIFFERENTIAL DIAGNOSIS 
+
+【75】The differential diagnosis of isolated PS includes other cardiac conditions that present as an incidental finding of a cardiac murmur in asymptomatic children. Although the cardiac examination (eg, characteristics of the murmur, presence of a click after a normal first heart sound \[S1\] ( movie 2 )) may be suggestive, echocardiography conclusively distinguishes PS from other conditions .
+
+【76】In neonates presenting with cyanosis, echocardiography differentiates severe/critical isolated PS from other cyanotic heart diseases, some of which may include right ventricular outflow tract (RVOT) obstruction, such as tetralogy of Fallot (TOF) and pulmonary atresia with an intact ventricular septum.
+
+【77】 **Level of obstruction** – Pulmonic stenosis (PS) is a common congenital heart defect that is characterized by obstruction to flow from the right ventricle (RV) to the pulmonary arteries (PAs). There are several different levels at which obstruction can occur:
+
+【78】• Valvular PS is the most common variant, in which stenosis occurs at the level of the pulmonary valve, which typically is characterized by a dome-shaped valve ( movie 1 ). Dysplastic pulmonary valves are a less common form of valvular PS, often seen in patients with Noonan syndrome.
+
+【79】• Subvalvular PS is uncommon and is usually caused by primary fibromuscular narrowing below the pulmonary valve.
+
+【80】• Supravalvular PS is caused by a discrete narrowing of the main PA, located just above the pulmonary valve.
+
+【81】• Peripheral PS (PPS) is caused by peripheral discrete areas of narrowing in the PAs.
+
+【82】 **Associated conditions** – PS can be isolated or be associated with other cardiac lesions including double-outlet right ventricle (RV), tricuspid atresia, tetralogy of Fallot (TOF), and both D- and L-transposition of the great arteries. In addition, several syndromes are associated with PS including Noonan, Alagille, Williams-Beuren, and congenital rubella syndrome.
+
+【83】 **Pathophysiology** – Because PS results in RV outflow tract (RVOT) obstruction, the RV pressure needed to overcome the obstruction rises as the severity of the obstruction increases, resulting in a higher pressure gradient across the pulmonary valve, which is usually determined by echocardiography. The pressure gradient defines the severity of obstruction and is used to make management decisions .
+
+【84】 **Presentation** – The presentation of PS is dependent on the severity of the PS and whether or not it is associated with other cardiac lesions or syndromes.
+
+【85】• Antenatal presentation of isolated PS is uncommon as routine ultrasonography typically does not detect mild or moderate PS.
+
+【86】• Neonates with severe or critical PS typically present soon after delivery with cyanosis due to right-to-left shunting through a patent foramen ovale.
+
+【87】• Most patients with isolated mild to moderate PS are asymptomatic and typically present in childhood during a routine health care visit when a cardiac murmur is detected incidentally on physical examination.
+
+【88】• PS may also present with other congenital heart diseases or as a component of a defined syndrome (eg, Noonan).
+
+【89】 **Cardiac examination** – The characteristic cardiac findings of valvular PS include a normal first heart sound (S1) followed by an audible click, systolic ejection murmur at the second left intercostal space ( movie 2 ), and a split second heart sound (S2).
+
+【90】 **Diagnosis** – The diagnosis of PS is confirmed by echocardiography, which provides excellent visualization of the pulmonary valve annulus, easy localization of the stenosis, and evaluation of the RV size and function.
+
+【91】 **Differential diagnosis** – The differential diagnosis of isolated PS includes other causes of cardiac murmurs in asymptomatic children. Echocardiography distinguishes PS from other conditions in the differential diagnosis.焦瀚远
+
+====================================================================================================

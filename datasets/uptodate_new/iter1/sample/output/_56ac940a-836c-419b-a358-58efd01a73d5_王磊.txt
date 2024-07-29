@@ -1,0 +1,121 @@
+【0】Sedation-free gastrointestinal endoscopy
+
+【1】INTRODUCTION 
+
+【2】The development of gastrointestinal endoscopy has greatly expanded the diagnostic and therapeutic capabilities of gastroenterologists. Adequate patient tolerance is essential for successful completion of a safe examination and compliance with subsequent follow-up. As a result, endoscopists have developed skills in administering a variety of sedative and analgesic agents to facilitate procedures and enhance patient comfort.
+
+【3】Most of the attention has been placed on selecting the optimal regimen for producing procedural sedation and monitoring patients adequately during the procedures. There has been some attempt to determine which patients and which procedures require deeper sedation to achieve optimal conditions. Finally, there has been an effort to make some of the diagnostic procedures more tolerable to avoid the cost and risk of procedural sedation altogether.
+
+【4】This topic review will focus on sedation-free endoscopy. Standard methods of procedural sedation and their complications, recommendations for procedural sedation, and the management of patients who are difficult to sedate are discussed separately.
+
+【5】RATIONALE 
+
+【6】Unsedated endoscopy may be advantageous for several reasons. First, it significantly decreases the risk of hypoxemia and respiratory depression. Second, it reduces the procedure and recovery room time, and the associated costs. Third, it allows patients to leave the endoscopy unit after the procedure without delay and return to work if they so choose, which may produce economic benefit by reducing the indirect costs of endoscopy. Furthermore, a number of studies have demonstrated satisfactory outcomes when focusing on parameters such as successful completion of examinations, patient satisfaction with their comfort level, and their willingness to undergo future examinations without sedation. As a result, in many countries, upper endoscopy, and to a lesser extent, colonoscopy, are commonly performed without routine procedural sedation . By contrast, sedation-free endoscopy is not widely accepted in the United States .
+
+【7】The use of procedural sedation varies considerably among different countries, reflecting different practice standards and social customs. As an example, in a survey of International Editors for the journal Gastrointestinal Endoscopy, sedation was always or usually administered in 44 percent of procedures in Asia, 56 percent in Europe, and 72 percent in the Americas (Canada, Central and South America) . In the United States, only flexible sigmoidoscopy is typically performed without sedation.
+
+【8】PATIENT MONITORING 
+
+【9】It is our practice to place an intravenous line for patients undergoing sedation-free endoscopy (with the exception of flexible sigmoidoscopy) in case of vagally mediated syncope. We also typically monitor such patients with oximetry, blood pressure, and telemetry monitoring, irrespective of the lack of data supporting this practice.
+
+【10】UPPER ENDOSCOPY 
+
+【11】A number of reports have demonstrated good patient tolerance with unsedated upper endoscopy using standard (>7 mm diameter) instruments . However, other studies have suggested that while patients may tolerate unsedated procedures and be willing to repeat them without sedation, there is still a significant improvement in patient tolerance when they receive some sedation. As an example, in a randomized, placebo-controlled comparison of midazolam plus lidocaine spray, midazolam plus placebo spray, placebo plus lidocaine spray, and two placebos, tolerance was improved by both midazolam and lidocaine . Willingness to repeat the procedure was significantly higher in the two midazolam groups . Since there were no adverse consequences in the low-dose midazolam groups, the authors concluded that low dose sedation was preferable.
+
+【12】Similar results were observed in another randomized trial comparing upper endoscopy with  an 8.5 mm endoscope with no sedation,  an 8.5 mm instrument with diazepam , and  an 11.5 mm endoscope and diazepam . Patient tolerance was highest in the smaller instrument with diazepam group. However, this group had more episodes of desaturation than in the unsedated group.
+
+【13】The above studies illustrate the difficulty in quantifying the clinical significance in improved procedure tolerance and determining whether marginal differences in patient satisfaction outweigh the cost and safety benefits of avoiding sedation in low-risk individuals.
+
+【14】Ultrathin endoscopes — Ultrathin endoscopes can improve the tolerability of unsedated upper endoscopy. These instruments range in diameter from 3.1 to 6 mm, permitting passage via a transnasal or peroral route and have been used by both gastroenterologists and otolaryngologists . They permit diagnostic evaluation of the same regions of the upper digestive tract that are accessible by standard peroral endoscopes and permit the passage of pediatric biopsy forceps to obtain tissue samples. The small caliber of the scopes has advantages in specialized circumstances, such as in patients with tight esophageal strictures.
+
+【15】A number of studies have compared ultrathin upper endoscopy to unsedated or sedated peroral upper endoscopy using standard diameter endoscopes . Most of these studies have demonstrated that the ultrathin scopes were associated with comparable or improved comfort and willingness to have the examination performed again in the same manner. The peroral route may be easier to perform and slightly better tolerated than the transnasal approach, according to the published comparisons .
+
+【16】However, because of their small caliber, the ultrathin endoscopes are somewhat less sensitive than standard endoscopes for detecting lesions (but are equally specific) . Other limitations include difficulty estimating the diameter of a luminal stricture and the possibility of missing a stricture because the lumen is so much larger than the endoscope. In addition, there is often difficulty in maneuvering the endoscope due to its lack of rigidity and limited tip control (ie, some endoscope models can be deflected up and down only, but not to the left or right). Finally, accessories that can be used with the ultrathin endoscope are limited to pediatric biopsy forceps, which provide smaller tissue samples than those obtained with standard or jumbo biopsy forceps.
+
+【17】Improvement in the equipment and increased experience with this approach may help to establish its role.
+
+【18】Our approach — We offer unsedated endoscopy for the following types of patients :
+
+【19】 Patients who need to resume daily activities soon after the procedure
+
+【20】 Patients who are fearful of being sedated
+
+【21】 Patients who are not overly anxious about the procedure
+
+【22】 Patients at high risk for cardiopulmonary complications (eg, increased BMI, obstructive sleep apnea)
+
+【23】For patients with obesity and/or obstructive sleep apnea, endoscopy with topical anesthesia alone is offered as an alternative to general anesthesia requiring endotracheal intubation. In our experience, both groups tolerate the procedure well.
+
+【24】There is variable willingness on the part of endoscopists to offer unsedated upper endoscopy despite data supporting its potential benefits. In addition, largest barrier to widespread use of unsedated procedures in the United States is low patient acceptance . The main reasons for this are preprocedure expectations and fears of discomfort and gagging. In addition, there is no financial incentive that encourages patients to select the less costly option of an unsedated procedure.
+
+【25】COLONOSCOPY 
+
+【26】We offer colonoscopy with on-demand sedation or without sedation for patients who request minimal or no sedation and who have little or no anxiety about the procedure. A growing body of literature has demonstrated good patient tolerance of colonoscopy either without sedation or with sedation only if needed during the procedure . As an example, a study involving 2500 consecutive patients who received analgesia only if needed found that 95 percent required no sedation to complete the colonoscopy . A second series found that 61 percent of 258 individuals having colonoscopy without sedation reported no pain .
+
+【27】Although patient reports on questionnaires of willingness to have repeat procedures without sedation imply adequate levels of comfort, these data do not preclude the possibility that sedation could improve comfort and result in higher compliance with scheduled follow-up examinations. However, a number of observations suggest that pain would not preclude willingness to undergo a follow-up examination in the majority of patients:
+
+【28】 In a randomized trial comparing sedation on demand versus routine sedation in 70 patients, pain scores were higher among unsedated patients compared with the group receiving routine sedation . However, both groups were equally willing to undergo a repeat examination in the same manner.
+
+【29】 A trial involving 180 patients found no difference in patient procedure ratings between patients receiving midazolam and those receiving no intravenous catheter or medication .
+
+【30】Similar findings from studies either within or outside of the United States suggest that patient acceptance of sedation upon demand for colonoscopy is not adequately explained by cultural bias. However, the data may be influenced by bias related to the characteristics of patients who agree to participate in such studies, the expertise of the endoscopists, and the relationship of the endoscopist to the patient. It is notable that in one of the reports discussed above , only 70 of 250 eligible patients  agreed to participate in the study. Males, older patients, and those without pain as a presenting symptom were more willing to be included. It is likely that individuals who are anxious about procedure-related pain may also be particularly unwilling to be enrolled in a trial in which they might not receive sedation. In a study of 964 patients scheduled for outpatient colonoscopy, 536 patients  agreed to have the procedure without routine sedation, but on-demand sedation was permitted. Patients who reported low or no anxiety were more likely to agree to undergo colonoscopy without routine sedation compared with patients with moderate or high anxiety levels (OR of 3.8, 95% CI 2.7- 5.4) .
+
+【31】In addition, not all studies have found favorable results with a sedation on-demand approach. In a controlled trial involving 259 outpatients, for example, moderate to severe pain was observed more often in the on-demand group  . Such patients were also more likely to be unwilling to undergo another colonoscopy .
+
+【32】Thus, more work is needed to identify which patients are best suited to tolerate endoscopy without sedation or sedation upon demand. The available data suggest that favorable patient characteristics may include the following :
+
+【33】 Male sex
+
+【34】 Older age (≥40 years in one study )
+
+【35】 Low or no anxiety
+
+【36】 No history of abdominal pain
+
+【37】 No history of abdominal surgery
+
+【38】 No history of diverticulitis
+
+【39】 No history of prior painful colonoscopy or preprocedure anticipation of pain
+
+【40】These data support the possibility that pre-procedure assessment of patient anxiety level, medical and surgical history, and demographics may help endoscopists select individuals for sedation-free procedures. In addition, the relationship between patient anxiety and the amount of discomfort experienced suggests that patient education may improve comfort during procedures and potentially influence the ability to perform procedures without medications. In support of this hypothesis is the observation that pre-procedure preparation with materials such as a video may be of some benefit .
+
+【41】Strategies to reduce anxiety need not be limited to pre-examination education and reassurance. The extent to which measures to reduce anxiety during the procedure (music, video headsets, reassurance, etc) could influence procedure tolerance and sedation requirements has not been explored fully.
+
+【42】Water immersion — There is increasing interest in using large-volume water immersion as an alternative to sedation for colonoscopy. Many, but not all, studies have shown good patient acceptance and higher cecal intubation rates :
+
+【43】 One trial included 125 patients who were assigned to undergo unsedated colonoscopy with either water immersion  or standard air insufflation  . All of the patients were male. Cecal intubation rates were higher in the water immersion group compared with the air insufflation group . In addition, patients in the water immersion group were more likely to report willingness to repeat the unsedated colonoscopy .
+
+【44】 A second trial with 100 patients  also found increased willingness to repeat an unsedated procedure in the water immersion group compared with the air insufflation group  . Cecal intubation rates were 100 percent in both groups.
+
+【45】 In a trial including 624 patients undergoing colonoscopy with on demand sedation, water-based insertion techniques (water immersion or exchange) resulted in lower pain scores compared with air insufflation or carbon dioxide insufflation .
+
+【46】 A trial with 230 patients  found that patients who underwent colonoscopy with water immersion were just as likely to request sedation during the procedure as patients examined with air insufflation  . In addition, there was no significant difference in cecal intubation rates . However, median pain scores were lower for the water immersion group . Adenoma detection rates were lower for the water immersion group .
+
+【47】Carbon dioxide insufflation — Carbon dioxide insufflation, rather than air insufflation, has also been studied as a method to improve patient tolerance of unsedated colonoscopy. Since carbon dioxide is readily absorbed through the intestinal mucosa, excessive colonic distension is avoided . The absorbed carbon dioxide is subsequently eliminated through respiration. In a randomized trial that in part compared carbon dioxide insufflation with air insufflation, patients who underwent the procedure with carbon dioxide insufflation were less likely than those who had air insufflation to request sedation during the procedure  and reported lower median pain scores  .
+
+【48】COST IMPLICATIONS 
+
+【49】Increased adoption of sedation-free endoscopy could have substantial impact on the cost and efficiency of endoscopy units. The pharmacy costs are only a portion of the total costs associated with using sedation (which include labor and overhead costs for recovery, intravenous fluid, missed work for patients, and the cost of any sedation-associated complications). As an example, in a study of 209 patients undergoing upper endoscopy to screen for Barrett's esophagus, unsedated transnasal endoscopy in a nonhospital setting was associated with lower costs compared with sedated upper endoscopy or unsedated transnasal endoscopy in a hospital setting .
+
+【50】The future cost-effectiveness of colonoscopy screening for colorectal cancer, in particular as it compares to other offered diagnostic strategies, would certainly be favorably affected by a decrease in procedure cost accompanied by the practice of sedation upon demand. However, while sedation-free endoscopy may improve efficiency and make endoscopic screening more feasible, the effects on patient compliance with screening and follow-up procedures are unknown. In addition, while sedation-free endoscopy may improve efficiency with regard to time spent administering sedation and patient recovery time, it is not guaranteed that it will improve efficiency overall. Performing a colonoscopy on an unsedated patient in theory could increase the procedure time since additional maneuvers may be required to prevent discomfort that may not bother a sedated patient and to give patients "breaks" during the procedure if it happens to be particularly uncomfortable.
+
+【51】Links to society and government-sponsored guidelines from selected countries and regions around the world are provided separately.
+
+【52】 **Advantages of unsedated endoscopic procedures** – Unsedated endoscopy may be advantageous for several reasons:
+
+【53】• It decreases the risk of hypoxemia and respiratory depression.
+
+【54】• It reduces the procedure and recovery room time and the associated costs.
+
+【55】• It allows patients to leave the endoscopy unit after the procedure without delay and return to work if they so choose, which may produce economic benefit by reducing the indirect costs of endoscopy.
+
+【56】 **Upper endoscopy** – A number of reports have demonstrated good patient tolerance with unsedated upper endoscopy using standard (>7 mm diameter) instruments. However, other studies have suggested that while patients may tolerate unsedated procedures and be willing to repeat them without sedation, there is still a significant improvement in patient tolerance when they receive some sedation.
+
+【57】It is our practice to offer unsedated endoscopy to patients scheduled for elective diagnostic upper endoscopy who are not overly anxious about the procedure. We find that acceptance of unsedated endoscopy is limited to patients who need to resume daily activities quickly or who are fearful of being sedated. We also offer unsedated endoscopy as an option for patients with severe sleep apnea and/or BMI >40 kg/m 2 .
+
+【58】 **Colonoscopy** – A growing body of literature has demonstrated good patient tolerance of colonoscopy either without sedation or with sedation only if needed during the procedure.
+
+【59】There is increasing interest in using water immersion as an alternative to sedation for colonoscopy. Many, but not all studies have shown good patient acceptance and higher cecal intubation rates.王磊
+
+====================================================================================================

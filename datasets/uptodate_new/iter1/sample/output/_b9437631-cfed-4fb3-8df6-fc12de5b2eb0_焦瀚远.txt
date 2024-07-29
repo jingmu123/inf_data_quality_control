@@ -1,0 +1,71 @@
+【0】Bronchocentric granulomatosis
+
+【1】INTRODUCTION 
+
+【2】Bronchocentric granulomatosis is a destructive, granulomatous lesion of the bronchi and bronchioles that is generally believed to represent a nonspecific response to a variety of types of airway injury . Approximately half of all cases are associated with asthma and allergic bronchopulmonary aspergillosis (ABPA), and among these patients, bronchocentric granulomatosis may represent a histopathologic manifestation of fungal hypersensitivity .
+
+【3】The remaining cases of bronchocentric granulomatosis are usually idiopathic, although associations have been reported with a number of other diseases  . Because of the lack of a clear clinical syndrome associated with bronchocentric granulomatosis, the presence of this lesion should generally be considered a **nonspecific manifestation of lung injury** , not an etiologic diagnosis.
+
+【4】An overview of bronchocentric granulomatosis will be presented here. Pulmonary lymphomatoid granulomatosis, a different clinicopathological entity usually related to Epstein-Barr virus-associated lymphoma, and an approach to an adult with suspected interstitial lung disease, are discussed separately.
+
+【5】EPIDEMIOLOGY 
+
+【6】Bronchocentric granulomatosis is rare, although the exact incidence and prevalence are unknown.
+
+【7】ASSOCIATED DISEASES 
+
+【8】A number of diseases have been reported in association with bronchocentric granulomatosis, although the relationship of the association is unclear. The largest association is with allergic bronchopulmonary aspergillosis (ABPA). Case reports have described coexistent mycobacterial and fungal infection, rheumatoid arthritis, ankylosing spondylitis, granulomatosis with polyangiitis (GPA), chronic granulomatous disease, glomerulonephritis, scleritis, diabetes insipidus, red cell aplasia, pulmonary echinococcosis, bronchogenic carcinoma, and influenza A virus  . Case reports have described the development of bronchocentric granulomatosis in patients with various inflammatory conditions treated with anti-tumor necrosis factor alpha (TNF)-alpha therapy .
+
+【9】CLINICAL MANIFESTATIONS 
+
+【10】The clinical manifestations of bronchocentric granulomatosis are nonspecific; chest symptoms (eg, productive or nonproductive cough) are rare. Fatigue and malaise are more common and may be accompanied by fever. Bronchocentric granulomatosis is often divided clinically into two groups of patients based upon the presence or absence of asthma . Patients with asthma tend to be younger (ages 20 to 40) and generally present with pulmonary symptoms such as cough, dyspnea or pleuritic chest pain. Additional features consistent with allergic bronchopulmonary aspergillosis (ABPA) may be seen, ie, fever, malaise, expectoration of brownish mucus plugs  . The nonasthmatic group is made up primarily of older patients, ranging in age from 30 to 70.
+
+【11】Extrapulmonary manifestations may include arthritis, diabetes insipidus, glomerulonephritis, red cell aplasia, and scleritis, depending on the presence of an associated disease .
+
+【12】EVALUATION 
+
+【13】Bronchocentric granulomatosis, although uncommon, should be suspected in patients with single or multiple lung nodules, mucoid impaction, or an area of consolidation that fails to respond to antibiotic therapy.
+
+【14】Laboratory studies — Laboratory testing for suspected bronchocentric granulomatosis generally includes a complete and differential blood count, total serum immunoglobulin E (IgE) level, immunoassay for aspergillus-specific IgE and IgG, and sputum for mycobacterial and fungal culture. Serologic testing for systemic rheumatic disease is guided by clinical findings, but often includes a rheumatoid factor, anti-citrullinated peptide antibodies (ACPA), and antineutrophil cytoplasmic antibody (ANCA) to evaluate for rheumatoid nodules and polyangiitis with granulomatosis .
+
+【15】Typical findings in bronchocentric granulomatosis include elevated peripheral blood eosinophil count, elevated total serum IgE, and circulating IgE antibodies to Aspergillus species, consistent with allergic bronchopulmonary aspergillosis (ABPA) . Sputum gram stain and culture occasionally reveal Aspergillus or Candida species .
+
+【16】Evidence of fungal hypersensitivity is uncommon in nonasthmatic patients, although fungal elements can occasionally be isolated . Most patients have a mild to moderately elevated erythrocyte sedimentation rate. Serologic evaluation for autoimmune disorders and vasculitides are generally unremarkable in the absence of systemic inflammatory disease .
+
+【17】Imaging — The radiographic presentation of bronchocentric granulomatosis is varied, with single or multiple pulmonary nodules and areas of consolidation being reported . The upper lobes are more commonly involved . Many patients will present with solitary pulmonary nodules suggestive of bronchogenic carcinoma; multiple nodules are less common . However, one case series described the computed tomography (CT) findings of bronchocentric granulomatosis as primarily upper lobe spiculated mass lesions and/or lobar consolidation . Patients with consolidation may have mucoid impaction in the bronchi .
+
+【18】In a case report of a patient with a nodular consolidation in the right middle lobe due to mucoid impaction, 18-fluoro-2-deoxyglucose-positron emission tomography (FDG-PET) scanning revealed intermediate activity with a small central focus of avid FDG uptake .
+
+【19】DIAGNOSIS 
+
+【20】Bronchocentric granulomatosis is a nonspecific histopathological diagnosis made on the basis of surgical lung biopsy. It may be suspected on the basis of mucoid impaction identified on imaging, but more often is identified at the time of lung biopsy. It has been proposed that the diagnosis be reserved for isolated idiopathic cases and those cases in which it appears as a manifestation of allergic bronchopulmonary aspergillosis (ABPA) .
+
+【21】Pathology — Bronchocentric granulomatosis is characterized by peribronchial and peribronchiolar necrotizing granulomatous inflammation  . Bronchioles are more uniformly involved than the larger conducting airways . Destruction of airway walls and adjacent parenchyma leads to granulomatous replacement of mucosa and submucosa by palisading, epithelioid, and multinucleated histiocytes .
+
+【22】Lumens of affected airways may contain necrotic debris and closely mimic the appearance of necrotizing granulomas. In the setting of ABPA, bronchocentric granulomatosis is usually accompanied by mucoid impaction of bronchi and eosinophilic pneumonia in various combinations .
+
+【23】Bronchocentric granulomatosis does **not** typically involve the pulmonary arteries; in contrast, other conditions, such as granulomatosis with polyangiitis (GPA), necrotizing sarcoid granulomata, and pulmonary lymphomatoid granulomatosis, often include an angiocentric component .
+
+【24】Post-diagnosis evaluation — In all cases, a careful search for an underlying cause (eg, ABPA, mycobacterial or fungal infection, rheumatoid arthritis, granulomatosis with polyangiitis \[GPA\], bronchogenic carcinoma) should be undertaken .
+
+【25】DIFFERENTIAL DIAGNOSIS 
+
+【26】The differential diagnosis of bronchocentric granulomatosis includes other causes of solitary  and multiple pulmonary nodules and consolidation. While the list of possibilities is long, histopathologic examination with special stains for mycobacteria and fungi generally differentiates among the possibilities. When reviewing the pathology, we look carefully for features of allergic bronchopulmonary aspergillosis (ABPA; eosinophilic infiltration), immunoglobulin G4-related disease (plasma cell infiltration with positive immunostaining for IgG4), organizing pneumonia, follicular bronchiolitis (nodular peribronchiolar accumulations of lymphocytes), lymphomatoid granulomatosis (transmural infiltration of arteries and veins by lymphoid cells without well-formed granulomas), and vasculitis (angiocentric inflammation).
+
+【27】TREATMENT AND PROGNOSIS 
+
+【28】For patients with bronchocentric granulomatosis, treatment is focused on the underlying or associated condition, such as allergic bronchopulmonary aspergillosis.
+
+【29】Many patients with unexplained or idiopathic bronchocentric granulomatosis improve without medical therapy . Some patients require a course of glucocorticoids to effect resolution, and a small number have recurrent or persistent disease requiring longer-term treatment . Rarely, bronchocentric granulomatosis is refractory to glucocorticoids. In a case report, abatacept , which inhibits T cell activation, was reported to lead to improvement in lung function and disease course in a patient with bronchocentric granulomatosis complicating rheumatoid arthritis .
+
+【30】Although patients who present with bronchocentric granulomatosis often undergo lobectomy at the time of diagnosis because of fear of bronchogenic carcinoma, there is no clear benefit to surgical excision, as glucocorticoid use and prognosis appear to be unaffected by this intervention . There seems to be little difference in clinical course between asthmatic and nonasthmatic patients, although the former may require glucocorticoid treatment more frequently .
+
+【31】 Bronchocentric granulomatosis is a destructive, granulomatous lesion of the bronchi and bronchioles that is considered a **nonspecific manifestation of lung injury** , not an etiologic diagnosis.
+
+【32】 Bronchocentric granulomatosis is often divided clinically into two groups: patients with or without asthma. In all cases, a careful search for an underlying cause should be undertaken .
+
+【33】 The chest radiographic presentation of bronchocentric granulomatosis is varied and includes solitary nodules, multiple nodules, and areas of consolidation. The upper lobes are more commonly involved than the lower lobes.
+
+【34】 Many patients with unexplained or idiopathic bronchocentric granulomatosis improve without medical therapy. A course of systemic glucocorticoids has resulted in improvement in a few case reports; a small number of patients have recurrent or persistent disease requiring longer-term glucocorticoid treatment.焦瀚远
+
+====================================================================================================

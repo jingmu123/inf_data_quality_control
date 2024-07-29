@@ -1,0 +1,385 @@
+【0】Gilteritinib: Drug information
+
+【1】Contributor Disclosures
+
+【2】For abbreviations, symbols, and age group definitions show table
+
+【3】ALERT: US Boxed Warning
+
+【4】Differentiation syndrome
+
+【5】Patients treated with gilteritinib have experienced symptoms of differentiation syndrome, which can be fatal or life-threatening if not treated. Symptoms may include fever, dyspnea, hypoxia, pulmonary infiltrates, pleural or pericardial effusions, rapid weight gain or peripheral edema, hypotension, or renal dysfunction. If differentiation syndrome is suspected, initiate corticosteroid therapy and hemodynamic monitoring until symptom resolution.
+
+【6】Brand Names: US
+
+【7】*   Xospata
+
+【8】Brand Names: Canada
+
+【9】*   Xospata
+
+【10】Pharmacologic Category
+
+【11】*   Antineoplastic Agent, FLT3 Inhibitor;
+*   Antineoplastic Agent, Tyrosine Kinase Inhibitor
+
+【12】Dosing: Adult
+
+【13】Acute myeloid leukemia, relapsed/refractory, _FLT3_ positive
+
+【14】**Acute myeloid leukemia, relapsed/refractory, _FLT3_ positive: Oral:** 120 mg once daily for a minimum of 6 months (to allow time for a clinical response) or until disease progression or unacceptable toxicity.
+
+【15】_Missed doses:_ If a dose is missed, administer the missed dose as soon as possible on the same day (and at least 12 hours prior to the next scheduled dose). Return to the normal dosing schedule the following day; do not administer 2 doses within 12 hours.
+
+【16】**Dosage adjustment for concomitant therapy:** Significant drug interactions exist, requiring dose/frequency adjustment or avoidance. Consult drug interactions database for more information.
+
+【17】Dosing: Kidney Impairment: Adult
+
+【18】CrCl ≥30 mL/minute: There are no dosage adjustments provided in the manufacturer's labeling; however, mild or moderate renal impairment had no clinically meaningful effects on gilteritinib pharmacokinetics.
+
+【19】CrCl <30 mL/minute: There are no dosage adjustments provided in the manufacturer's labeling (has not been studied).
+
+【20】Dosing: Hepatic Impairment: Adult
+
+【21】Mild or moderate impairment (Child-Pugh class A or B): There are no dosage adjustments provided in the manufacturer's labeling; however, mild or moderate hepatic impairment had no clinically meaningful effects on gilteritinib pharmacokinetics.
+
+【22】Severe impairment (Child-Pugh class C): There are no dosage adjustments provided in the manufacturer's labeling (has not been studied).
+
+【23】Dosing: Adjustment for Toxicity: Adult
+
+【24】_Differentiation syndrome:_ If differentiation syndrome is suspected, administer systemic corticosteroids (dexamethasone 10 mg IV every 12 hours \[or equivalent oral/IV corticosteroid\]) for a minimum of 3 days and initiate hemodynamic monitoring until symptom resolution, and then taper corticosteroid. Interrupt gilteritinib therapy if severe signs/symptoms of differentiation syndrome continue for more than 48 hours after corticosteroid initiation. Resume gilteritinib when signs/symptoms improve to ≤ grade 2 (mild to moderate symptoms).
+
+【25】_Pancreatitis:_ Interrupt gilteritinib; when pancreatitis is resolved, resume therapy at a reduced dose of 80 mg once daily.
+
+【26】_Posterior reversible encephalopathy syndrome:_ Discontinue gilteritinib.
+
+【27】_QTc interval prolongation:_
+
+【28】QTc interval >500 msec: Interrupt gilteritinib; when QTc interval returns to within 30 msec of baseline or ≤480 msec, resume therapy at a reduced dose of 80 mg once daily.
+
+【29】QTc interval increased by >30 msec on ECG on day 8 of cycle 1: Confirm with a repeat ECG on day 9. If confirmed, consider dose reduction to 80 mg once daily.
+
+【30】_Other toxicity: ≥_ Grade 3 toxicity (considered related to treatment): Interrupt gilteritinib; when toxicity resolves or improves to grade 1, resume therapy at a reduced dose of 80 mg once daily.
+
+【31】Dosing: Older Adult
+
+【32】Refer to adult dosing.
+
+【33】Adverse Reactions
+
+【34】The following adverse drug reactions and incidences are derived from product labeling unless otherwise specified. Adverse reactions reported in adults.
+
+【35】\>10%:
+
+【36】Cardiovascular: Edema , hypotension 
+
+【37】Dermatologic: Skin rash 
+
+【38】Endocrine & metabolic: Decreased serum phosphate (grades 3/4: 14%), decreased serum sodium (grades 3/4: 12%)
+
+【39】Gastrointestinal: Abdominal pain , constipation , diarrhea , dysgeusia , nausea , stomatitis , vomiting 
+
+【40】Hematologic & oncologic: Febrile neutropenia 
+
+【41】Hepatic: Increased serum alanine aminotransferase (grades 3/4: 13%), increased serum transaminases 
+
+【42】Nervous system: Dizziness , fatigue (≤44%), headache , insomnia , malaise (≤44%), neuropathy 
+
+【43】Neuromuscular & skeletal: Arthralgia (≤50%), myalgia (≤50%)
+
+【44】Ophthalmic: Eye disease 
+
+【45】Renal: Renal insufficiency 
+
+【46】Respiratory: Cough , dyspnea 
+
+【47】Miscellaneous: Fever 
+
+【48】1% to 10%:
+
+【49】Cardiovascular: Heart failure , increased serum creatine kinase (grades 3/4: 6%), myocarditis (≤2%), pericardial effusion , pericarditis (≤2%), prolonged QT interval on ECG 
+
+【50】Dermatologic: Dermatologic disorder (acute febrile neutrophilic dermatosis: 3%)
+
+【51】Endocrine & metabolic: Decreased serum calcium (grades 3/4: 6%), increased serum triglycerides (grades 3/4: 6%)
+
+【52】Gastrointestinal: Gastrointestinal perforation , pancreatitis 
+
+【53】Hematologic & oncologic: Differentiation syndrome 
+
+【54】Hepatic: Increased serum alkaline phosphatase (grades 3/4: 2%), increased serum aspartate aminotransferase (grades 3/4: 10%)
+
+【55】Hypersensitivity: Hypersensitivity reaction 
+
+【56】Nervous system: Reversible posterior leukoencephalopathy syndrome 
+
+【57】Renal: Increased serum creatinine (grades 3/4: 3%)
+
+【58】Contraindications
+
+【59】Hypersensitivity to gilteritinib or any component of the formulation.
+
+【60】Warnings/Precautions
+
+【61】_**Concerns related to adverse effects:**_
+
+【62】• Differentiation syndrome: Patients treated with gilteritinib have experienced symptoms of differentiation syndrome (rapid proliferation and differentiation of myeloid cells), which can be fatal or life-threatening if not treated. Concomitant acute febrile neutrophilic dermatosis has been observed in some cases. The onset of differentiation syndrome (with or without concomitant leukocytosis) ranged from 1 to 82 days after gilteritinib initiation; the majority of patients who experienced this syndrome recovered after treatment or therapy interruption. If differentiation syndrome is suspected, administer dexamethasone 10 mg IV every 12 hours (or equivalent oral/IV corticosteroid) and monitor hemodynamics until improvement. Administer corticosteroids for a minimum of 3 days; once symptoms resolve, taper corticosteroid. Differentiation syndrome symptoms may recur if corticosteroids are discontinued early. If severe signs/symptoms of differentiation syndrome continue for more than 48 hours after corticosteroid initiation, interrupt gilteritinib therapy until symptoms are no longer severe.
+
+【63】• Hypersensitivity: Hypersensitivity reactions, including anaphylactic reactions, have been observed.
+
+【64】• Pancreatitis: Pancreatitis has been reported. Evaluate for signs/symptoms of pancreatitis. May require therapy interruption and dosage reduction.
+
+【65】• Posterior reversible encephalopathy syndrome: Posterior reversible encephalopathy syndrome (PRES) has been reported rarely. Symptoms included seizure and altered mental status, and have resolved after gilteritinib discontinuation. Magnetic resonance imaging (MRI) is the preferred diagnostic brain imaging; discontinue gilteritinib in patients who develop confirmed PRES.
+
+【66】• QTc interval prolongation: Prolonged cardiac ventricular repolarization (QT interval) has been reported with gilteritinib. A small percentage of patients in a clinical trial were found to have a QTc interval >500 msec; some patients had an increase from baseline >60 msec. Obtain an ECG prior to therapy initiation, on days 8 and 15 of cycle 1, and prior to the start of the next 2 subsequent treatment cycles. Hypokalemia and/or hypomagnesemia may increase the risk for QTc interval prolongation; correct electrolyte abnormalities prior to (and during) gilteritinib therapy. QTc interval prolongation may require therapy interruption and dosage reduction.
+
+【67】_**Other warnings/precautions:**_
+
+【68】Dosage Forms: US
+
+【69】Excipient information presented when available (limited, particularly for generics); consult specific product labeling.
+
+【70】Tablet, Oral, as fumarate:
+
+【71】Xospata: 40 mg
+
+【72】Generic Equivalent Available: US
+
+【73】No
+
+【74】Pricing: US
+
+【75】**Tablets** (Xospata Oral)
+
+【76】40 mg (per each): $375.13
+
+【77】**Disclaimer:** A representative AWP (Average Wholesale Price) price or price range is provided as reference price only. A range is provided when more than one manufacturer's AWP price is available and uses the low and high price reported by the manufacturers to determine the range. The pricing data should be used for benchmarking purposes only, and as such should not be used alone to set or adjudicate any prices for reimbursement or purchasing functions or considered to be an exact price for a single product and/or manufacturer. Medi-Span expressly disclaims all warranties of any kind or nature, whether express or implied, and assumes no liability with respect to accuracy of price or price range data published in its solutions. In no event shall Medi-Span be liable for special, indirect, incidental, or consequential damages arising from use of price or price range data. Pricing data is updated monthly.
+
+【78】Dosage Forms: Canada
+
+【79】Excipient information presented when available (limited, particularly for generics); consult specific product labeling.
+
+【80】Tablet, Oral:
+
+【81】Xospata: 40 mg
+
+【82】Administration: Adult
+
+【83】Oral: Administer with or without food at approximately the same time each day. Do not break or crush the tablets.
+
+【84】Hazardous Drugs Handling Considerations
+
+【85】This medication is not on the NIOSH  list; however, it may meet the criteria for a hazardous drug. Gilteritinib may cause teratogenicity, reproductive toxicity, and has a structural and/or toxicity profile similar to existing hazardous agents.
+
+【86】Use appropriate precautions for receiving, handling, storage, preparation, dispensing, transporting, administration, and disposal. Follow NIOSH and USP 800 recommendations **and** institution-specific policies/procedures for appropriate containment strategy .
+
+【87】**Note:** Facilities may perform risk assessment of some hazardous drugs to determine if appropriate for alternative handling and containment strategies (USP-NF 2020). Refer to institution-specific handling policies/procedures.
+
+【88】Medication Guide and/or Vaccine Information Statement (VIS)
+
+【89】An FDA-approved patient medication guide, which is available with the product information and as follows, must be dispensed with this medication:
+
+【90】Use: Labeled Indications
+
+【91】**Acute myeloid leukemia, relapsed or refractory:** Treatment of relapsed or refractory acute myeloid leukemia (AML) in adult patients with an FMS-like tyrosine kinase 3 (FLT3) mutation as detected by an approved test.
+
+【92】Medication Safety Issues
+
+【93】Sound-alike/look-alike issues:
+
+【94】Gilteritinib may be confused with fedratinib, gefitinib, Gilotrif, glasdegib.
+
+【95】High alert medication:
+
+【96】The Institute for Safe Medication Practices (ISMP) includes this medication among its list of drug classes (chemotherapeutic agent, parenteral and oral) which have a heightened risk of causing significant patient harm when used in error (High-Alert Medications in Acute Care, Community/Ambulatory Care, and Long-Term Care Settings).
+
+【97】Metabolism/Transport Effects
+
+【98】**Substrate** of CYP3A4 (major), P-glycoprotein/ABCB1 (minor); **Note:** Assignment of Major/Minor substrate status based on clinically relevant drug interaction potential
+
+【99】Drug Interactions  
+
+【100】**Note** : Interacting drugs may **not be individually listed below** if they are part of a group interaction (eg, individual drugs within “CYP3A4 Inducers \[Strong\]” are NOT listed). For a complete list of drug interactions by individual drug name and detailed management recommendations, use the drug interactions program by clicking on the “Launch drug interactions program” link above.
+
+【101】Amisulpride (Oral): May enhance the QTc-prolonging effect of QT-prolonging Agents (Moderate Risk). _Risk C: Monitor therapy_
+
+【102】Azithromycin (Systemic): QT-prolonging Kinase Inhibitors (Moderate Risk) may enhance the QTc-prolonging effect of Azithromycin (Systemic). Management: Monitor for QTc interval prolongation and ventricular arrhythmias when these agents are combined. Patients with additional risk factors for QTc prolongation may be at even higher risk. _Risk C: Monitor therapy_
+
+【103】BCRP/ABCG2 Substrates (Clinically Relevant with Inhibitors): Gilteritinib may increase the serum concentration of BCRP/ABCG2 Substrates (Clinically Relevant with Inhibitors). _Risk C: Monitor therapy_
+
+【104】Citalopram: May enhance the QTc-prolonging effect of Gilteritinib. Gilteritinib may diminish the therapeutic effect of Citalopram. Management: Avoid use of this combination if possible. If use is necessary, monitor for reduced response to citalopram and for QTc prolongation and arrhythmias. Patients with other risk factors may be at greater risk for these serious toxicities. _Risk D: Consider therapy modification_
+
+【105】Clofazimine: May increase the serum concentration of CYP3A4 Substrates (High risk with Inhibitors). _Risk C: Monitor therapy_
+
+【106】CloZAPine: May enhance the QTc-prolonging effect of QT-prolonging Kinase Inhibitors (Moderate Risk). Management: Monitor for QTc interval prolongation and ventricular arrhythmias when these agents are combined. Patients with additional risk factors for QTc prolongation may be at even higher risk. _Risk C: Monitor therapy_
+
+【107】CYP3A4 Inducers (Strong): May decrease the serum concentration of Gilteritinib. _Risk C: Monitor therapy_
+
+【108】CYP3A4 Inhibitors (Moderate): May increase the serum concentration of Gilteritinib. _Risk C: Monitor therapy_
+
+【109】CYP3A4 Inhibitors (Strong): May increase the serum concentration of Gilteritinib. Management: Consider alternatives to the use of a strong CYP3A4 inhibitor with gilteritinib. If the combination cannot be avoided, monitor more closely for evidence of gilteritinib toxicities. _Risk D: Consider therapy modification_
+
+【110】Dabrafenib: QT-prolonging Kinase Inhibitors (Moderate Risk) may enhance the QTc-prolonging effect of Dabrafenib. Management: Monitor for QTc interval prolongation and ventricular arrhythmias when these agents are combined. Patients with additional risk factors for QTc prolongation may be at even higher risk. _Risk C: Monitor therapy_
+
+【111】Domperidone: QT-prolonging Agents (Moderate Risk) may enhance the QTc-prolonging effect of Domperidone. _Risk X: Avoid combination_
+
+【112】Encorafenib: May enhance the QTc-prolonging effect of Gilteritinib. Encorafenib may decrease the serum concentration of Gilteritinib. Management: Monitor for reduced gilteritinib efficacy as well as for QTc interval prolongation and arrhythmias (including torsades de pointes). Avoid use of gilteritinib and encorafenib if also combined with a P-gp inducer. _Risk C: Monitor therapy_
+
+【113】Escitalopram: May enhance the QTc-prolonging effect of Gilteritinib. Gilteritinib may diminish the therapeutic effect of Escitalopram. Management: Avoid use of this combination if possible. If use is necessary, monitor for reduced response to escitalopram and for QTc prolongation and arrhythmias. Patients with other risk factors may be at greater risk for these serious toxicities. _Risk D: Consider therapy modification_
+
+【114】Fexinidazole: QT-prolonging Kinase Inhibitors (Moderate Risk) may enhance the QTc-prolonging effect of Fexinidazole. Management: Monitor for QTc interval prolongation and ventricular arrhythmias when these agents are combined. Patients with additional risk factors for QTc prolongation may be at even higher risk. _Risk C: Monitor therapy_
+
+【115】Fluorouracil Products: May enhance the QTc-prolonging effect of QT-prolonging Kinase Inhibitors (Moderate Risk). Management: Monitor for QTc interval prolongation and ventricular arrhythmias when these agents are combined. Patients with additional risk factors for QTc prolongation may be at even higher risk. _Risk C: Monitor therapy_
+
+【116】Fusidic Acid (Systemic): May increase the serum concentration of CYP3A4 Substrates (High risk with Inhibitors). Management: Consider avoiding this combination if possible. If required, monitor patients closely for increased adverse effects of the CYP3A4 substrate. _Risk D: Consider therapy modification_
+
+【117】Haloperidol: QT-prolonging Kinase Inhibitors (Moderate Risk) may enhance the QTc-prolonging effect of Haloperidol. Management: Monitor for QTc interval prolongation and ventricular arrhythmias when these agents are combined. Patients with additional risk factors for QTc prolongation may be at even higher risk. _Risk C: Monitor therapy_
+
+【118】Inducers of CYP3A4 (Moderate) and P-glycoprotein: May decrease the serum concentration of Gilteritinib. _Risk C: Monitor therapy_
+
+【119】Inducers of CYP3A4 (Strong) and P-glycoprotein: May decrease the serum concentration of Gilteritinib. _Risk X: Avoid combination_
+
+【120】Lefamulin: May enhance the QTc-prolonging effect of QT-prolonging CYP3A4 Substrates. Management: Do not use lefamulin tablets with QT-prolonging CYP3A4 substrates. Lefamulin prescribing information lists this combination as contraindicated. _Risk X: Avoid combination_
+
+【121】Levoketoconazole: QT-prolonging CYP3A4 Substrates may enhance the QTc-prolonging effect of Levoketoconazole. Levoketoconazole may increase the serum concentration of QT-prolonging CYP3A4 Substrates. _Risk X: Avoid combination_
+
+【122】Midostaurin: May enhance the QTc-prolonging effect of QT-prolonging Kinase Inhibitors (Moderate Risk). Management: Monitor for QTc interval prolongation and ventricular arrhythmias when these agents are combined. Patients with additional risk factors for QTc prolongation may be at even higher risk. _Risk C: Monitor therapy_
+
+【123】OCT1 Substrates (Clinically Relevant with Inhibitors): Gilteritinib may increase the serum concentration of OCT1 Substrates (Clinically Relevant with Inhibitors). _Risk C: Monitor therapy_
+
+【124】OLANZapine: May enhance the QTc-prolonging effect of QT-prolonging Kinase Inhibitors (Moderate Risk). Management: Monitor for QTc interval prolongation and ventricular arrhythmias when these agents are combined. Patients with additional risk factors for QTc prolongation may be at even higher risk. _Risk C: Monitor therapy_
+
+【125】Ondansetron: May enhance the QTc-prolonging effect of QT-prolonging Kinase Inhibitors (Moderate Risk). Management: Monitor for QTc interval prolongation and ventricular arrhythmias when these agents are combined. Patients with additional risk factors for QTc prolongation may be at even higher risk. _Risk C: Monitor therapy_
+
+【126】PAZOPanib: QT-prolonging Kinase Inhibitors (Moderate Risk) may enhance the QTc-prolonging effect of PAZOPanib. Management: Monitor for QTc interval prolongation and ventricular arrhythmias when these agents are combined. Patients with additional risk factors for QTc prolongation may be at even higher risk. _Risk C: Monitor therapy_
+
+【127】Pentamidine (Systemic): May enhance the QTc-prolonging effect of QT-prolonging Kinase Inhibitors (Moderate Risk). Management: Monitor for QTc interval prolongation and ventricular arrhythmias when these agents are combined. Patients with additional risk factors for QTc prolongation may be at even higher risk. _Risk C: Monitor therapy_
+
+【128】P-glycoprotein/ABCB1 Substrates (Narrow Therapeutic Index/Sensitive with Inhibitors): Gilteritinib may increase the serum concentration of P-glycoprotein/ABCB1 Substrates (Narrow Therapeutic Index/Sensitive with Inhibitors). _Risk C: Monitor therapy_
+
+【129】Pimozide: May enhance the QTc-prolonging effect of QT-prolonging Agents (Moderate Risk). _Risk X: Avoid combination_
+
+【130】Piperaquine: QT-prolonging Agents (Moderate Risk) may enhance the QTc-prolonging effect of Piperaquine. _Risk X: Avoid combination_
+
+【131】Posaconazole: May increase the serum concentration of QT-prolonging CYP3A4 Substrates. Such increases may lead to a greater risk for proarrhythmic effects and other similar toxicities. _Risk X: Avoid combination_
+
+【132】QT-prolonging Agents (Highest Risk): Gilteritinib may enhance the QTc-prolonging effect of QT-prolonging Agents (Highest Risk). Management: Consider alternatives to this combination. If use is necessary, monitor for QTc interval prolongation and arrhythmias. _Risk D: Consider therapy modification_
+
+【133】QT-prolonging Antidepressants (Moderate Risk): May enhance the QTc-prolonging effect of Gilteritinib. Management: Monitor for QTc interval prolongation and ventricular arrhythmias when these agents are combined. Patients with additional risk factors for QTc prolongation may be at even higher risk. _Risk C: Monitor therapy_
+
+【134】QT-prolonging Antipsychotics (Moderate Risk): May enhance the QTc-prolonging effect of QT-prolonging Kinase Inhibitors (Moderate Risk). Management: Monitor for QTc interval prolongation and ventricular arrhythmias when these agents are combined. Patients with additional risk factors for QTc prolongation may be at even higher risk. _Risk C: Monitor therapy_
+
+【135】QT-prolonging Class IC Antiarrhythmics (Moderate Risk): May enhance the QTc-prolonging effect of QT-prolonging Kinase Inhibitors (Moderate Risk). Management: Monitor for QTc interval prolongation and ventricular arrhythmias when these agents are combined. Patients with additional risk factors for QTc prolongation may be at even higher risk. _Risk C: Monitor therapy_
+
+【136】QT-Prolonging Inhalational Anesthetics (Moderate Risk): QT-prolonging Kinase Inhibitors (Moderate Risk) may enhance the QTc-prolonging effect of QT-Prolonging Inhalational Anesthetics (Moderate Risk). Management: Monitor for QTc interval prolongation and ventricular arrhythmias when these agents are combined. Patients with additional risk factors for QTc prolongation may be at even higher risk. _Risk C: Monitor therapy_
+
+【137】QT-prolonging Kinase Inhibitors (Moderate Risk): May enhance the QTc-prolonging effect of other QT-prolonging Kinase Inhibitors (Moderate Risk). Management: Monitor for QTc interval prolongation and ventricular arrhythmias when these agents are combined. Patients with additional risk factors for QTc prolongation may be at even higher risk. _Risk C: Monitor therapy_
+
+【138】QT-prolonging Miscellaneous Agents (Moderate Risk): QT-prolonging Kinase Inhibitors (Moderate Risk) may enhance the QTc-prolonging effect of QT-prolonging Miscellaneous Agents (Moderate Risk). Management: Monitor for QTc interval prolongation and ventricular arrhythmias when these agents are combined. Patients with additional risk factors for QTc prolongation may be at even higher risk. _Risk C: Monitor therapy_
+
+【139】QT-prolonging Moderate CYP3A4 Inhibitors (Moderate Risk): May enhance the QTc-prolonging effect of QT-prolonging Kinase Inhibitors (Moderate Risk). QT-prolonging Moderate CYP3A4 Inhibitors (Moderate Risk) may increase the serum concentration of QT-prolonging Kinase Inhibitors (Moderate Risk). _Risk C: Monitor therapy_
+
+【140】QT-prolonging Quinolone Antibiotics (Moderate Risk): May enhance the QTc-prolonging effect of QT-prolonging Kinase Inhibitors (Moderate Risk). Management: Monitor for QTc interval prolongation and ventricular arrhythmias when these agents are combined. Patients with additional risk factors for QTc prolongation may be at even higher risk. _Risk C: Monitor therapy_
+
+【141】QT-prolonging Strong CYP3A4 Inhibitors (Highest Risk): May enhance the QTc-prolonging effect of Gilteritinib. QT-prolonging Strong CYP3A4 Inhibitors (Highest Risk) may increase the serum concentration of Gilteritinib. Management: Consider alternatives to the use of gilteritinib with strong CYP3A4 inhibitors that prolong the QTc interval whenever possible. If use is necessary, monitor for gilteritinib toxicities, including QTc interval prolongation and arrhythmias. _Risk D: Consider therapy modification_
+
+【142】QT-prolonging Strong CYP3A4 Inhibitors (Moderate Risk): May enhance the QTc-prolonging effect of Gilteritinib. QT-prolonging Strong CYP3A4 Inhibitors (Moderate Risk) may increase the serum concentration of Gilteritinib. Management: Consider alternatives to the use of gilteritinib with strong CYP3A4 inhibitors that prolong the QTc interval whenever possible. _Risk D: Consider therapy modification_
+
+【143】RisperiDONE: QT-prolonging Kinase Inhibitors (Moderate Risk) may enhance the QTc-prolonging effect of RisperiDONE. Management: Monitor for QTc interval prolongation and ventricular arrhythmias when these agents are combined. Patients with additional risk factors for QTc prolongation may be at even higher risk. _Risk C: Monitor therapy_
+
+【144】Selective Serotonin Reuptake Inhibitors: Gilteritinib may diminish the therapeutic effect of Selective Serotonin Reuptake Inhibitors. Management: Avoid use of this combination if possible. If the combination cannot be avoided, monitor closely for evidence of reduced response to the selective serotonin reuptake inhibitor. _Risk D: Consider therapy modification_
+
+【145】Sertindole: May enhance the QTc-prolonging effect of QT-prolonging Agents (Moderate Risk). _Risk X: Avoid combination_
+
+【146】Thioridazine: QT-prolonging Agents (Moderate Risk) may enhance the QTc-prolonging effect of Thioridazine. _Risk X: Avoid combination_
+
+【147】Reproductive Considerations
+
+【148】Pregnancy status should be evaluated within 7 days prior to starting therapy in females of reproductive potential. Females of reproductive potential should use effective contraception during treatment and for at least 6 months after the last gilteritinib dose. Males with female partners of reproductive potential should use effective contraception during treatment and for at least 4 months after the last gilteritinib dose.
+
+【149】Pregnancy Considerations
+
+【150】Based on the mechanism of action and information from animal reproductions studies, gilteritinib may cause fetal harm following maternal use during pregnancy.
+
+【151】Breastfeeding Considerations
+
+【152】It is not known if gilteritinib is present in breast milk.
+
+【153】Due to the potential for serious adverse reactions in a breastfed infant, breastfeeding is not recommended by the manufacturer during therapy and for at least 2 months after the last gilteritinib dose.
+
+【154】Monitoring Parameters
+
+【155】Blood counts and serum chemistries (including creatine phosphokinase) prior to therapy initiation, at least once weekly for the first month, once every other week for the second month, and once monthly thereafter; ECG prior to therapy initiation, on days 8 and 15 of cycle 1, and prior to the start of the next 2 subsequent cycles. Pregnancy test (within 7 days prior to starting gilteritinib treatment in females of reproductive potential). Monitor for signs/symptoms of differentiation syndrome, pancreatitis, and posterior reversible encephalopathy syndrome. Monitor adherence.
+
+【156】The American Society of Clinical Oncology hepatitis B virus (HBV) screening and management provisional clinical opinion recommends HBV screening with hepatitis B surface antigen, hepatitis B core antibody, total Ig or IgG, and antibody to hepatitis B surface antigen prior to beginning (or at the beginning of) systemic anticancer therapy; do not delay treatment for screening/results. Detection of chronic or past HBV infection requires a risk assessment to determine antiviral prophylaxis requirements, monitoring, and follow-up.
+
+【157】Mechanism of Action
+
+【158】Gilteritinib is a tyrosine kinase inhibitor which inhibits multiple tyrosine kinases, such as FMS-like tyrosine kinase 3 (FLT3). Gilteritinib inhibits FLT3 receptor signaling and proliferation in cells expressing FLT3 (including FLT3-ITD), tyrosine kinase domain mutations (TKD) FLT3-D835Y and FLT3-ITD-D835Y; it induces apoptosis in FLT3-ITD-expressing leukemia cells.
+
+【159】Pharmacokinetics (Adult Data Unless Noted)
+
+【160】Onset: Inhibition of FLT3 phosphorylation: Rapid (within 24 hours after the initial dose)
+
+【161】Distribution: Central: 1,092 L; Peripheral: 1,100 L
+
+【162】Protein binding: ~94% to human plasma proteins
+
+【163】Metabolism: Primarily hepatic via CYP3A4; primary human metabolites include M17 (formed via N-dealkylation and oxidation), M16 and M10 (both formed via N-dealkylation), none of which exceed 10% of overall parent exposure
+
+【164】Half-life elimination: 113 hours
+
+【165】Time to peak: ~4 to 6 hours
+
+【166】Excretion: Feces: 64.5%; Urine: 16.4% as unchanged drug and metabolites
+
+【167】Brand Names: International
+
+【168】International Brand Names by Country
+
+【169】For country code abbreviations ( show table )  
+
+【170】*   (AE) United Arab Emirates : Xospata ;
+*   (AR) Argentina : Xospata ;
+*   (AT) Austria : Xospata ;
+*   (AU) Australia : Xospata ;
+*   (BE) Belgium : Xospata ;
+*   (BG) Bulgaria : Xospata ;
+*   (BR) Brazil : Xospata ;
+*   (CH) Switzerland : Xospata ;
+*   (CZ) Czech Republic : Xospata ;
+*   (DE) Germany : Xospata ;
+*   (ES) Spain : Xospata ;
+*   (FI) Finland : Xospata ;
+*   (FR) France : Xospata ;
+*   (GB) United Kingdom : Xospata ;
+*   (HU) Hungary : Xospata ;
+*   (IE) Ireland : Xospata ;
+*   (IT) Italy : Xospata ;
+*   (JP) Japan : Xospata ;
+*   (KR) Korea, Republic of : Xospata ;
+*   (KW) Kuwait : Xospata ;
+*   (LT) Lithuania : Xospata ;
+*   (LU) Luxembourg : Xospata ;
+*   (MX) Mexico : Xospata ;
+*   (NL) Netherlands : Xospata ;
+*   (NO) Norway : Xospata ;
+*   (NZ) New Zealand : Xospata ;
+*   (PL) Poland : Xospata ;
+*   (PR) Puerto Rico : Xospata ;
+*   (PT) Portugal : Xospata ;
+*   (RO) Romania : Xospata ;
+*   (SE) Sweden : Xospata ;
+*   (SG) Singapore : Xospata ;
+*   (SI) Slovenia : Xospata ;
+*   (SK) Slovakia : Xospata ;
+*   (TR) Turkey : Xospata ;
+*   (TW) Taiwan : Xospata焦瀚远
+
+====================================================================================================
+文本干净度#无关文本#Disclaimer: A representative AWP (Average Wholesale Price) price or price range is provided as reference price only. A range is provided when more than one manufacturer’s AWP price is available and uses the low and high price reported by the manufacturers to determine the range. The pricing data should be used for benchmarking purposes only, and as such should not be used alone to set or adjudicate any prices for reimbursement or purchasing functions or considered to be an exact price for a single product and/or manufacturer. Medi-Span expressly disclaims all warranties of any kind or nature, whether express or implied, and assumes no liability with respect to accuracy of price or price range data published in its solutions. In no event shall Medi-Span be liable for special, indirect, incidental, or consequential damages arising from use of price or price range data. Pricing data is updated monthly.#无
+文本干净度#无关文本#【168】International Brand Names by Country
+
+【169】For country code abbreviations ( show table )
+
+【170】*   (AE) United Arab Emirates : Xospata ;#168至170的所有内容为无关文本

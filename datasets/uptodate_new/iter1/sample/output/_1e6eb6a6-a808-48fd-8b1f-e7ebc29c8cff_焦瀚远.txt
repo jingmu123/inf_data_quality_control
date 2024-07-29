@@ -1,0 +1,190 @@
+【0】Acyclovir and hydrocortisone: Pediatric drug information
+
+【1】Contributor Disclosures
+
+【2】For abbreviations, symbols, and age group definitions show table
+
+【3】Brand Names: US
+
+【4】*   Xerese
+
+【5】Brand Names: Canada
+
+【6】*   Xerese
+
+【7】Therapeutic Category
+
+【8】*   Antiviral Agent, Topical ;
+*   Corticosteroid, Topical
+
+【9】Dosing: Pediatric
+
+【10】Herpes labialis
+
+【11】**Herpes labialis (cold sores):** Children ≥6 years and Adolescents: Topical: Apply 5 times daily for 5 days; initiate therapy at first sign of infection (ie, during the prodrome or when lesions appear).
+
+【12】Dosing: Kidney Impairment: Pediatric
+
+【13】There are no dosage adjustments provided in the manufacturer's labeling.
+
+【14】Dosing: Hepatic Impairment: Pediatric
+
+【15】There are no dosage adjustments provided in the manufacturer's labeling.
+
+【16】Dosing: Adult
+
+【17】Herpes labialis
+
+【18】**Herpes labialis (cold sores):** **Topical:** Apply 5 times/day for 5 days.
+
+【19】Dosing: Kidney Impairment: Adult
+
+【20】There are no dosage adjustments provided in the manufacturer’s labeling.
+
+【21】Dosing: Hepatic Impairment: Adult
+
+【22】There are no dosage adjustments provided in the manufacturer’s labeling.
+
+【23】Adverse Reactions
+
+【24】The following adverse drug reactions and incidences are derived from product labeling unless otherwise specified.
+
+【25】<1%, postmarketing, and/or case reports: Allergic contact sensitivity, application site reaction, burning sensation of skin, contact dermatitis (when applied under occlusion), dyschromia, erythema, exfoliation of skin, tingling of skin, xeroderma
+
+【26】Contraindications
+
+【27】There are no contraindications listed in the manufacturer's US labeling.
+
+【28】_Canadian labeling:_ Additional contraindications not in US labeling: Known or suspected history of hypersensitivity to acyclovir, valacyclovir, hydrocortisone, or any component of the formulation; untreated infections of bacterial, viral, tuberculous, or fungal origin.
+
+【29】Warnings/Precautions
+
+【30】**_Concerns related to adverse effects:_**
+
+【31】• Sensitization: Use has been associated with local sensitization (irritation).
+
+【32】**_Disease-related concerns:_**
+
+【33】• Herpes labialis: Appropriate use: Treatment should begin with the first signs or symptoms. For external use only to the lips and around the mouth; do not apply to eye, inside the mouth or nose, or on the genitals. Contact healthcare provider if cold sore does not heal in 2 weeks.
+
+【34】**_Special populations:_**
+
+【35】• Immunocompromised patients: Use with caution in immunocompromised patients.
+
+【36】Warnings: Additional Pediatric Considerations
+
+【37】Some dosage forms may contain propylene glycol; in neonates large amounts of propylene glycol delivered orally, intravenously (eg, >3,000 mg/day), or topically have been associated with potentially fatal toxicities which can include metabolic acidosis, seizures, renal failure, and CNS depression; toxicities have also been reported in children and adults including hyperosmolality, lactic acidosis, seizures, and respiratory depression; use caution .
+
+【38】Dosage Forms: US
+
+【39】Excipient information presented when available (limited, particularly for generics); consult specific product labeling.
+
+【40】Cream, External:
+
+【41】Xerese: Acyclovir 5% and hydrocortisone 1%  \[contains cetostearyl alcohol, propylene glycol\]
+
+【42】Generic Equivalent Available: US
+
+【43】No
+
+【44】Pricing: US
+
+【45】**Cream** (Xerese External)
+
+【46】5-1% (per gram): $294.91
+
+【47】**Disclaimer:** A representative AWP (Average Wholesale Price) price or price range is provided as reference price only. A range is provided when more than one manufacturer's AWP price is available and uses the low and high price reported by the manufacturers to determine the range. The pricing data should be used for benchmarking purposes only, and as such should not be used alone to set or adjudicate any prices for reimbursement or purchasing functions or considered to be an exact price for a single product and/or manufacturer. Medi-Span expressly disclaims all warranties of any kind or nature, whether express or implied, and assumes no liability with respect to accuracy of price or price range data published in its solutions. In no event shall Medi-Span be liable for special, indirect, incidental, or consequential damages arising from use of price or price range data. Pricing data is updated monthly.
+
+【48】Dosage Forms: Canada
+
+【49】Excipient information presented when available (limited, particularly for generics); consult specific product labeling.
+
+【50】Cream, External:
+
+【51】Xerese: Acyclovir 5% and hydrocortisone 1%  \[contains cetostearyl alcohol, propylene glycol\]
+
+【52】Administration: Pediatric
+
+【53】Topical: For external use only. Wash hands before and after use. Use sufficient amount to cover the affected area(s), including the outer margin of cold sore; do not rub affected area nor cover area with a bandage. Do not bathe or shower for 30 minutes following application. Not for use in the eye, inside the mouth or nose, or on the genitals.
+
+【54】Administration: Adult
+
+【55】For external use only; not for use in the eye, inside the mouth or nose, or on the genitals. Wash hands before and after application. Use sufficient amount to cover the affected area(s), including the outer margin of cold sore; do not rub affected area. Initiate therapy early (ie, during the prodrome or when lesions appear).
+
+【56】Storage/Stability
+
+【57】Store at 20°C to 25°C ; excursions permitted to 15°C to 30°C ; do not freeze.
+
+【58】Use
+
+【59】Early treatment of recurrent herpes labialis (cold sores) to shorten healing time and to reduce likelihood of ulceration (FDA approved in ages ≥6 years and adults)
+
+【60】Medication Safety Issues
+
+【61】Pediatric patients: High-risk medication:
+
+【62】KIDs List: Medium, high, and very high potency topical corticosteroids, when used in neonates and infants <1 year of age for diaper dermatitis, are identified on the Key Potentially Inappropriate Drugs in Pediatrics (KIDs) list; use should be avoided due to risk of adrenal suppression; systemic absorption is higher in pediatric patients than adults (strong recommendation; low quality of evidence) (PPA \[Meyers 2020\]).
+
+【63】Metabolism/Transport Effects
+
+【64】Refer to individual components.
+
+【65】Drug Interactions  
+
+【66】**Note** : Interacting drugs may **not be individually listed below** if they are part of a group interaction (eg, individual drugs within “CYP3A4 Inducers \[Strong\]” are NOT listed). For a complete list of drug interactions by individual drug name and detailed management recommendations, use the drug interactions program by clicking on the “Launch drug interactions program” link above.
+
+【67】**Note:** Interacting drugs may **not be individually listed below** if they are part of a group interaction (eg, individual drugs within “CYP3A4 Inducers \[Strong\]” are NOT listed). For a complete list of drug interactions by individual drug name and detailed management recommendations, use the drug interactions program
+
+【68】Calcipotriene: Hydrocortisone (Topical) may diminish the therapeutic effect of Calcipotriene. Management: Monitor for reduced calcipotriene efficacy if combined with hydrocortisone valerate. Consider separating the administration of these agents by 10 to 12 hours to minimize the risk of this potential interaction. _Risk C: Monitor therapy_
+
+【69】Talimogene Laherparepvec: Antiherpetic Antivirals may diminish the therapeutic effect of Talimogene Laherparepvec. _Risk C: Monitor therapy_
+
+【70】Pregnancy Considerations
+
+【71】Systemic exposure of acyclovir and hydrocortisone after topical administration is minimal.
+
+【72】Mechanism of Action
+
+【73】Acyclovir: Acyclovir is converted to acyclovir monophosphate by virus-specific thymidine kinase then further converted to acyclovir triphosphate by other cellular enzymes. Acyclovir triphosphate inhibits DNA synthesis and viral replication by competing with deoxyguanosine triphosphate for viral DNA polymerase and being incorporated into viral DNA.
+
+【74】Hydrocortisone: Topical corticosteroids have anti-inflammatory, antipruritic, and vasoconstrictive properties.
+
+【75】Pharmacokinetics (Adult Data Unless Noted)
+
+【76】Brand Names: International
+
+【77】International Brand Names by Country
+
+【78】For country code abbreviations ( show table )  
+
+*   (AR) Argentina : Lisovyr cort ;
+*   (AT) Austria : Activir duo ;
+*   (AU) Australia : Zovirax duo ;
+*   (BD) Bangladesh : Avirax hc | Novirax hc | Virux hc ;
+*   (BE) Belgium : Zovirax duo ;
+*   (BG) Bulgaria : Zovirax duo ;
+*   (CZ) Czech Republic : Zovirax duo ;
+*   (DE) Germany : Zovirax duo ;
+*   (EE) Estonia : Zovirax duo ;
+*   (ES) Spain : Zoviduo ;
+*   (FI) Finland : Xerclear | Zoviduo ;
+*   (GR) Greece : Zoviduo ;
+*   (HU) Hungary : Zovirax duo ;
+*   (KR) Korea, Republic of : A clo | Aclo | Anticlo | Duoclo | Herintoc | Herpezin | Hi lovir | Hyripclover | Mastouch | Pojinen | Virax clear ;
+*   (LT) Lithuania : Zoviduo ;
+*   (LU) Luxembourg : Zovirax duo ;
+*   (LV) Latvia : Zovirax duo ;
+*   (NL) Netherlands : Zovirax duo ;
+*   (NO) Norway : Zoviduo ;
+*   (NZ) New Zealand : Zovirax duo ;
+*   (PL) Poland : Zovirax duo ;
+*   (PR) Puerto Rico : Xerese ;
+*   (PT) Portugal : Xerclear ;
+*   (RO) Romania : Zovirax duo ;
+*   (RU) Russian Federation : Zovirax duo active ;
+*   (SE) Sweden : Xerclear | Zoviduo ;
+*   (SK) Slovakia : Zovirax duo ;
+*   (TR) Turkey : Herpazon ;
+*   (UA) Ukraine : Zovirax duo焦瀚远
+
+====================================================================================================

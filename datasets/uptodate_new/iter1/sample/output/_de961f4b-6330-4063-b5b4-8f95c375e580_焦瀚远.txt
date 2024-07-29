@@ -1,0 +1,307 @@
+【0】Basic principles of ultrasound-guided venous access
+
+【1】INTRODUCTION 
+
+【2】Establishing venous access is critically important and can be technically challenging at times. The use of ultrasound to guide catheter placement reduces the number of access attempts and may reduce other complications as well . Ultrasound guidance can be used for placing central venous catheters as well as for placing peripheral venous catheters. Clinicians who place central venous access devices (occasionally or frequently) are strongly encouraged to learn ultrasound-guided techniques .
+
+【3】The principles of ultrasound-guided venous access in adults, with considerations for pediatric populations, are reviewed. A general overview, including central vein anatomy, types of venous devices and their selection, and techniques for central venous access at specific sites, is presented separately.
+
+【4】ACCESS SITES
+
+【5】 **Central venous access** – A central venous access device is defined as a catheter that has its tip located in the superior vena cava, right atrium, or inferior vena cava.
+
+【6】Central venous catheters include:
+
+【7】• Those that are placed into the thoracic central veins via an access site in the proximal upper extremity or neck (eg, subclavian vein, axillary vein, internal jugular vein, external jugular vein, proximal cephalic vein).
+
+【8】• Those that are placed into the abdominal central veins via an access site in the groin (eg, common femoral vein, femoral vein, great saphenous vein).
+
+【9】• Those that are placed into the central veins through a peripheral venous access site, typically in the upper extremity (eg, basilic vein, brachial vein, distal cephalic vein).
+
+【10】Real-time dynamic ultrasound-guided venipuncture can be used at any of these sites. The only central venous access devices for which ultrasound guidance cannot be used are epicutaneo-caval catheters in neonates, for which the catheter is inserted in a superficial vein, and umbilical venous catheters, for which the catheter is inserted directly into an open vein. Percutaneous placement of other central venous access in a neonate is typically performed with ultrasound guidance.
+
+【11】 **Peripheral intravenous devices** – Ultrasound guidance is also useful for peripheral intravenous access when difficulty is expected or when the blind technique has failed . This can be achieved either by ultrasound-guided placement of a standard midline catheter in a vein of the upper arm or by ultrasound-guided placement of a short or long peripheral cannula in a vein of the forearm or of the antecubital fossa.
+
+【12】 **Intraosseous access** – Ultrasound has also been used to confirm intraosseous (IO) needle placement in adults. The efficacy of this approach was illustrated in a human cadaver study . Detection of Doppler flow within the marrow cavity when the ultrasound transducer was placed cephalad to the IO access site correctly predicted appropriate IO access placement in all instances and was superior to assessing drops from the intravenous fluid bag into the intravenous tubing reservoir.
+
+【13】GLOBAL USE OF ULTRASOUND 
+
+【14】A concept termed "the global use of ultrasound" acknowledges the role of ultrasound for many different aspects of venous access, from planning access to guiding insertion, and for identifying early and late complications . This practice shift is not surprising, given the wide application of ultrasound in other areas, particularly in the management of critically ill patients .
+
+【15】Ultrasound guidance is beneficial during venipuncture, but ultrasound can also be used to choose the most appropriate vein , determine the presence of anatomic variations, rule out any venous thrombosis, check the progression of the guidewire and/or the catheter into the venous system (ie, "tip navigation") , rule out early puncture-related complications (eg, pneumothorax, local hematoma) , assess the central location of the tip (ie, "tip location," by echocardiography) , and rule out late complications (tip migration, catheter-related venous thrombosis, fibroblastic sleeve formation) .
+
+【16】Ultrasound use can reduce complications by reducing the number of unsuccessful access attempts. Multiple needle passes are associated with a higher risk of pneumothorax, arterial puncture, and nerve injury. In addition, multiple needle passes increase the risk of perivascular hematoma or vasospasm, either of which can result in greater technical difficulty cannulating the vessel and may increase the risk of catheter-associated thrombus due to diminished blood flow around the catheter. Improvements in first-attempt success rates will also reduce patient stress and pain and increase patient satisfaction. Ultrasound measurement of the size of the vein to be accessed can help with selection of an appropriate catheter size, which can reduce the risk of thrombotic and infective complications .
+
+【17】Based upon randomized trials and multidisciplinary consensus guidelines \[ 4,5,22,25,27-29,31-34 \], we recommend the following:
+
+【18】 Ultrasound equipment and properly trained operators should be available.
+
+【19】 Ultrasound guidance should be used during venous cannulation regardless of access site, whenever available, and is particularly useful in difficult venous access and in high-risk patients, such as those with coagulopathy.
+
+【20】 Ultrasound-guided venipuncture should be preceded by a determination of the most appropriate vein for access, based upon systematic ultrasound evaluation of possible access sites.
+
+【21】 The venipuncture should be performed using dynamic "real-time" ultrasound guidance, **not** "static" ultrasound localization of the vein with subsequent "blind" venipuncture .
+
+【22】 After venous cannulation, ultrasound should be used to detect possible complications, including arterial injury, pneumothorax, or catheter malposition.
+
+【23】Dynamic real-time ultrasound guidance during needle placement is recommended by numerous safety advocacy organizations and professional societies \[ 1,3,4,7,8,30,31,35-46 \]. It is the preferred technique for all central venous access procedures . Randomized trials and observational studies in pediatric and adult patient populations have demonstrated that dynamic ultrasound imaging during needle placement reduces time to venous cannulation and reduces the risk of insertion-related complications thereby increasing safety and quality of central venous access . The level of benefit varies depending upon operator skill, anatomic site, quality of the materials used (eg, ultrasound device, needle), and comorbid clinical conditions. Thus, proper equipment should be available whenever a central line is required, and operators should be properly trained in the use of ultrasound equipment.
+
+【24】These recommendations are supported by guidelines issued by safety advocacy organizations including the Agency for Healthcare Quality and Research, the National Institute for Health and Care Excellence (NICE), and multiple professional societies, including the American Institute of Ultrasound in Medicine, European Federation of Societies for Ultrasound in Medicine and Biology, American Society of Anesthesiologists Task Force on Venous Access, American Society of Echocardiography, Society of Cardiovascular Anesthesiologists, WoCoVA Foundation, Society of Hospital Medicine, British Society of Anesthesia, Italian Group of Venous Access Devices (GAVeCeLT), French group of venous access (GIFAV), UK-based group called EPIC, Scandinavian Society of Anesthesiology, and many other national associations from different countries \[ 1,3,7,8,30,36-46,51 \].
+
+【25】Contraindications and precautions — Other options for rapid vascular access (eg, interosseous access) may be appropriate in life-threatening situations.
+
+【26】If emergency central venous access is needed and ultrasound guidance is not immediately available, landmark-based placement of a femorally inserted central catheter is preferred, but the catheter should be removed and replaced with an ultrasound-guided centrally inserted central catheter or peripherally inserted central catheter within 48 hours.
+
+【27】Limitations and shortcomings related to the use of ultrasound include the following:
+
+【28】 Ultrasound resolution decreases with depth. In patients with severe obesity, vascular structures may be difficult to visualize and access.
+
+【29】 Subcutaneous emphysema (ie, air in the tissues) in the region of the access site may block ultrasound transmission.
+
+【30】 Volume depletion may increase the difficulty of central venous access by reducing the vein caliber. Rapid Central Vein Assessment (RaCeVA) may help to select the best approach for ultrasound-guided cannulation in hypovolemic patients .
+
+【31】Other contraindications or precautions are the same as for other vascular access procedures .
+
+【32】ULTRASOUND EQUIPMENT 
+
+【33】The level of sophistication of ultrasound equipment varies widely, but even the most basic models are usually sufficient for the purposes of ultrasound-guided venous access, although higher quality units will likely achieve better results.
+
+【34】Modes — Requirements for vessel identification and localization for cannulation include B-mode and Doppler mode. B-mode (brightness mode) refers to the standard two-dimensional grayscale image of the tissue, while Doppler mode relies on the flow of blood either toward or away from the transducer to provide velocity information.
+
+【35】Duplex ultrasound refers to the simultaneous display of a color Doppler image and the spectral waveform. Flow velocities can be presented graphically on a timeline (spectral or pulsed Doppler). Color Doppler provides velocity information presented as colors superimposed on a grayscale image. The clinician should keep in mind that both color and spectral Doppler are least sensitive when the vessel is oriented 90 degrees to the transducer since the flow toward the transducer and away from the transducer are equal. If the operator encounters difficulty in identifying flow with color or spectral Doppler, tilting the transducer so that the vessel is not horizontally oriented in the image may help achieve a better Doppler angle (ie, <60 degrees).
+
+【36】Most ultrasound-guided venipunctures will benefit from a standard two-dimensional imaging. Temporal resolution is best in the 2-D mode (without Doppler). Visualization of vein flow with color Doppler or pulsed Doppler has a limited role in ultrasound-guided venipuncture, although it is useful for detecting late complications of central venous access such as venous thrombosis.
+
+【37】Transducers — Proper transducer selection is important. For vascular access, a high-frequency  linear transducer is usually best .
+
+【38】 The high-frequency linear transducer  is most commonly used for ultrasound-guided centrally inserted central catheters . The high frequency permits greater resolution of tissues close to the skin surface. A lower frequency transducer is used for deeper structures. A linear (flat) shape is ideal for imaging veins because it allows the operator to evenly apply compression to distinguish arteries from veins .
+
+【39】 The "hockey-stick" 10 to 15 MHz transducer is a very high-resolution linear transducer, which allows the greatest degree of needle and vein visibility. Its small footprint also allows for greater versatility and ease of use in a wide variety of access scenarios. This transducer is appropriate for ultrasound-guided centrally inserted catheters in neonates, infants, and in children, but also for ultrasound-guided peripherally inserted central catheters at any age . In the pediatric population, this is the ideal probe for venous access at any site and will be sufficient for most pediatric venous access needs. It is limited by its shallow penetration (generally less than 3 cm), which might make it unsuitable for large or obese adults.
+
+【40】ULTRASOUND EVALUATION OF VESSELS 
+
+【41】A systematic evaluation of veins in the areas of interest is recommended.
+
+【42】When seen with ultrasound, the lumen of a normal vessel is anechoic (black), while the surrounding tissues will be some level of gray. Veins are generally easily distinguished from arteries on ultrasound . Veins are oval shaped with thin walls and are more easily compressed with light pressure, while arteries are generally circular with thicker walls and less easily compressed . Veins also lack arterial pulsations and may have visible valves . In addition, veins usually distend with maneuvers that impede or augment venous return, such as application of limb tourniquets, the Valsalva maneuver, or putting the patient in the Trendelenburg position.
+
+【43】Arterial diameter will remain the same during the above mentioned maneuvers. If the grayscale appearance of a vessel is not convincingly a vein based upon the above criteria, Doppler ultrasound can be used. Arterial flow is generally distinctly pulsatile with a sharp "whoosh" sound corresponding to systole. Conversely, venous flow produces a steadier "hum" that often becomes more pulsatile the closer the vein is to the heart. With color Doppler, be aware that the red and blue colors are arbitrary, indicating only the direction of flow relative to the transducer location, not the type of vessel. By convention, red is defined as flow toward the transducer and blue represents flow away from the transducer, but this orientation can be switched using the control panel on the ultrasound machine or reversing the orientation of the transducer. These issues are associated with a significant incidence of errors of interpretation, such that routine use of color Doppler for this purpose is not recommended.
+
+【44】When in question, though, Doppler waveform (spectral analysis) can be helpful in distinguishing an artery from a vein . Arteries produce a waveform with a sharp upstroke ( waveform 1 ). Veins produce an undulating waveform that shows variation with the respiratory and cardiac cycles ( waveform 2 ). The degree of variation will depend upon the depth of breathing as well as the proximity of the vein to the right atrium.
+
+【45】Spectral analysis can also be helpful for detecting central venous stenosis or occlusion. Such obstacles may preclude the ability to successfully navigate a catheter into the central circulation and should prompt consideration of alternative access sites. As mentioned, normal venous waveforms have a polyphasic morphology, particularly as the vein approaches the heart. A central stenosis or occlusion dampens the amplitude of transmitted atrial pulsations, resulting in a more monophasic waveform, similar to that seen when a tourniquet is applied ( waveform 2 ).
+
+【46】Transducer orientation — It is important that the operator orient the transducer properly. Transducers usually have markings (denoted by a light or a notch on the side of the transducer) to assist with proper orientation. By convention, structures beneath the left marker are always displayed on the left side of the imaging screen. If the markings are obscured, movement of the transducer left or right while observing the image helps confirm the proper orientation .
+
+【47】If the operator notices that the configuration is opposite of what is expected (that is, structures under the left side are seen on the right side of the display screen), then rotating the transducer 180 degrees will correct the orientation. An exception is when using the "hockey-stick" transducer, which is ergonomically designed to be held in the hand a specific way. In this case, the display screen should be flipped ("left/right" adjustment) to create the proper orientation. The key point is for the operator to ensure that the transducer or the screen display is oriented such that when the needle tip is directed toward the operator's left, the needle tip moves toward the left on the screen display. This will create the most intuitive arrangement; any other orientation will unnecessarily increase the technical difficulty of the procedure.
+
+【48】The position of the operator at the head of the bed is needed for two special approaches to the internal jugular vein (ie, "out-of-plane short axis", "in-plane long axis"). In these cases, the marker should be oriented toward the operator's left (also the patient's left) for both right and left internal jugular vein access. However, because of the high risk of puncture-related complications and less desirable location of the catheter exit site, these two approaches to the internal jugular vein are less appropriate compared with others and are discouraged.
+
+【49】Ultrasound views — Transverse (short axis) and longitudinal (long axis) views are used to localize and visualize the selected vein . Each has its advantages and disadvantages. The view used may depend upon the vein selected for access and the patient's surface anatomy. A combination of views may be needed; imaging the vein from two directions may give more information about the local anatomy and thus reduce the potential for damage to surrounding structures .
+
+【50】Transverse (short-axis) view — The transverse (short-axis) view is technically easy to use and may be best for vein localization since it provides better imaging of the anatomic structure surrounding the vein. It is useful for identifying vessels near the skin surface (eg, internal jugular vein) or the deep veins of the upper extremity. However, the transverse view provides a limited view of the access needle during cannulation.
+
+【51】The transverse view is obtained with the transducer at a 90-degree angle to the course of the vein. The vessels appear in cross section in this view ("short axis").
+
+【52】Using the transverse view coupled with the out-of-plane technique, the needle position is adjusted to ensure vessel entry at the 12 o'clock position. This technique minimizes the risk of accessing the lateral aspect of the vessel, which may be associated with perivascular hematoma, failure to cannulate, or more difficult hemostasis after catheter removal. Vein cannulation with the "out-of-plane short axis" technique has several advantages:
+
+【53】 Distinguishing the vein from an adjacent artery with compression technique is best performed with transverse view. With a long axis approach, the operator can slide off axis from the vessel during compression, rather than truly compressing the vessel.
+
+【54】 For beginners learning bimanual technique, it is easier to quickly find and localize the needle in the "out-of-plane" technique. However, maintaining visualization of the true tip of the needle can be more difficult "out-of-plane."
+
+【55】The short axis approach allows the operator to easily correct the left-right trajectory of the needle and maintain target on the 12 o'clock position of the vein during insertion.
+
+【56】The time to successful cannulation may be less with the short axis view . However, for inexperienced operators, the needle tip is less easily seen compared with the longitudinal approach, so that there is some risk of injury to adjacent structures (eg, nerve or artery) or perforation of the posterior wall of the vein .
+
+【57】Longitudinal (long-axis) view — The longitudinal (long-axis) view provides more information about the actual diameter of the vein, the presence of vein valves, and vein morphology. It also provides imaging of the entire needle during cannulation. However, it is technically more challenging, and the view of surrounding structures is limited.
+
+【58】The longitudinal view is ideal for the placement of centrally inserted central catheters in the brachiocephalic, subclavian, external jugular, and axillary veins . The longitudinal view is also very helpful for placement of femoral venous catheters and peripherally inserted central catheters.
+
+【59】The longitudinal view is always associated with the "in-plane" technique. When accessing a vein with this technique, the clinician should first identify the location of the vein using the transverse view; the transducer should then be rotated 90 degrees so that its long axis is parallel to the course of the vein ( waveform 2 ). This view typically permits direct observation of needle penetration into the vein and passage of the guidewire .
+
+【60】In a simulated model of ultrasound-guided vascular access, the needle tip was seen in 24 of 39 cannulations using the longitudinal view . With proper training and proper choice of the material (good-quality ultrasound device, echogenic needles), it can be seen in 100 percent of cases.
+
+【61】A potentially important limitation is that the longitudinal view may be technically more difficult to perform and to maintain the center of the vessel in view during vascular access procedures .
+
+【62】Oblique axis (oblique) view — An oblique view for ultrasound-guided visualization, puncture, and cannulation has been proposed for the internal jugular vein and for the axillary vein . According to some authors, such an approach may have some advantages in terms of safety, though it requires more training. It is always performed as "in-plane" puncture.
+
+【63】"In-plane" versus "out-of-plane" venipuncture — The actual technique of puncture will be either "in-plane" (needle parallel to the probe) or "out-of-plane" (needle perpendicular to the probe), which are terms that define the spatial relationship between the needle and the probe. Note that the term "transverse" or "short axis" describes only the spatial relationship between the probe and the vein. The table provides a comparison of transverse "out-of-plane" and longitudinal "in-plane" venipuncture techniques .
+
+【64】 An ultrasound-guided venipuncture with identification of the vein in a transverse (short axis) view can be performed either as an "in-plane short axis" or as an "out-of-plane short axis" maneuver. The former is used exclusively for the internal jugular vein . The latter is commonly used for any peripherally inserted central catheter (PICC) or femoral vein inserted central catheters insertion, but it is also a possible approach for a centrally inserted venous catheters in the infraclavicular area (axillary vein or cephalic vein).
+
+【65】 Ultrasound-guided venipuncture with visualization of the vein in a longitudinal (long axis) view is performed exclusively as "in-plane long axis." It is typically used for the supraclavicular approach to the brachiocephalic, subclavian vein, external jugular vein, or axillary vein. It can also be successfully used for PICC placement in the brachial, basilic, cephalic, or saphenous veins, in addition to femorally inserted central catheters.
+
+【66】One trial compared the occurrence of posterior wall puncture using a "short-axis out-of-plane" , "long-axis in-plane" , or combined short-axis-and-long-axis  approach . Successful guidewire insertion without posterior wall puncture was performed in 100 percent of patients in the combined short-axis-and-long-axis approach group, 70 percent in the "short-axis out-of-plane" approach group, and 95 percent in the "long-axis in-plane" approach group.
+
+【67】Planning the exit site plays a major role in the choice of the internal jugular vein approach . Most evidence suggests that some techniques of approach to the internal jugular vein (eg, the "in-plane short axis" approach) may be safer than others. The "out-of-plane short axis" approach is associated with an unfavorable exit site at mid-neck that is discouraged by most guidelines since the catheter may be more prone to infection and to dislodgement . The "out-of-plane short axis" approach may also be associated with complications due to the accidental perforation of the posterior wall of the vein, with subsequent injury to the subclavian artery.
+
+【68】The brachiocephalic, subclavian, and external jugular veins are all punctured and cannulated necessarily by an "in-plane long axis" approach.
+
+【69】PREPARATION 
+
+【70】For ultrasound-guided venous access, preparatory steps (including use of sterile technique) are the same as with any vascular access procedure, with the added step of ultrasound equipment preparation . These are reviewed briefly below and discussed in more detail separately.
+
+【71】Preparation specific to individual access sites is discussed in detail elsewhere.
+
+【72】Preprocedural vein imaging — Prior to the placement of any central catheter, ultrasound imaging should be used to evaluate all possible veins potentially useful for cannulation. Rapid Central Vein Assessment (RaCeVA) of all veins in the supraclavicular and infraclavicular area has been described . RaCeVa includes insonation at the mid-neck, then base of the neck looking first toward the mediastinum, then laterally in the supraclavicular region, and finally in the infraclavicular region. Ultrasound evaluation of the axillary vein is equally important, since findings of a "difficult" axillary vein, such as small caliber, too deep, or collapsing at each inspiration, will suggest a benefit for using a supraclavicular vein.
+
+【73】The safest approach (which often corresponds to the easiest) is chosen only after the preprocedural scan . Two-dimensional ultrasound is used, with imaging encompassing the entire area of possible venous cannulation and verifying the caliber, patency, and position of the most relevant veins. Duplex exams are not usually necessary. Using ultrasound-friendly micropuncture needles will add more safety to the proposed technique.
+
+【74】To avoid a high risk of causing catheter-associated thrombosis or chronic venous stenosis/occlusion, particular attention must be paid to the caliber of the vein. The inner diameter of the vein should be at least three times the external diameter of the catheter to reduce the risk of thrombosis. Multiple studies have shown that the risk of deep vein thrombosis (DVT) is correlated with increasing catheter diameter.
+
+【75】 One prospective cohort study of 136 adult patients undergoing peripherally inserted central catheter (PICC) placement found an optimal catheter-to-vein diameter cutoff ratio of 45 percent. Patients in the study with a catheter diameter that exceeded 45 percent of the vein diameter were 13 times more likely to have venous thromboembolism compared with patients with a catheter-to-vein ratio less than or equal to 45 percent .
+
+【76】 In an observational study of 265 PICC placements in children, one of the most significant risk factors for PICC-related superficial and deep venous thrombosis was a catheter-to-vein ratio of greater than 33 percent .
+
+【77】Infection control — Reduction of central line-associated bloodstream infections is one of the National Patient Safety Goals for hospitals currently promoted by the Joint Commission . Recognizing the importance of this patient safety goal, many hospitals have made this issue an organizational priority and have established protocols for patient preparation, dressings, and maintenance of central venous catheters.
+
+【78】All operators must be familiar with their institutional-specific guidelines prior to placing central lines. Refer to the Centers for Disease Control and Prevention (CDC; United States) website for their checklist, which can serve as an example of the key elements that should be included in a central venous catheter placement policy . The cornerstones of infection prevention during central venous access, according to the CDC, Evidence-based Prevention and Infection Control (EPIC; United Kingdom), and Society of Healthcare Epidemiologists of America (SHEA; United States) guidelines, include the following :
+
+【79】 Hand hygiene before starting the procedure.
+
+【80】 Maximal barrier precautions, which include nonsterile cap, nonsterile mask, sterile gloves, sterile gowns, wide sterile field over the patient (body drape covering at least 85 percent of the patient), and long sterile cover over the transducer.
+
+【81】 Skin antisepsis with 2% chlorhexidine in 70% isopropyl alcohol.
+
+【82】 Strict maintenance of the asepsis while handling needles, guidewires, and catheters.
+
+【83】 Sutureless securement of the catheter to the skin.
+
+【84】Ultrasound machine — Clinicians should gain familiarity with the specific functions of the ultrasound machines in use at their institutions. The following are the typical steps involved:
+
+【85】 Turn on the ultrasound machine.
+
+【86】 Enter patient data.
+
+【87】 Choose the appropriate machine program examination, which is critical. The preset optimizes parameters such as velocity scale, which can impact image quality. The "peripheral vascular, venous" or "superficial vascular, venous" setting is usually the preferred option.
+
+【88】 Choose an appropriate transducer .
+
+【89】 Apply ultrasound gel to the transducer.
+
+【90】 Localize the vessel to be cannulated in the transverse and/or longitudinal plane and ensure proper orientation of the transducer position marker depending upon the view and vascular access site.
+
+【91】 Once the selected vein is in view, the operator can fine-tune the image. Modify the position of the patient or route of access depending upon the ultrasound findings. Adjust the image parameters, as needed, including:
+
+【92】• Gain, which refers to the brightness of the grayscale image, analogous to volume on a radio .
+
+【93】• Depth, which refers to the depth of tissue included in the field of view. An appropriate depth includes the vein to be cannulated and a small amount of deeper tissue .
+
+【94】• Time gain compensation, which refers to adjustment of brightness (gain) of reflected signals based on the amount of time that has passed since the signal was emitted from the transducer. Typically, the ultrasound image gets darker with increasing depth due to gradual attenuation of reflected sound waves. This setting allows for targeted adjustments of the gain in the near-field, middle, and far-field sections of the screen to create a more uniform grayscale image .
+
+【95】• Focal zone, which refers to the depth level at which the sound waves will be most tightly focused and will produce the best image resolution. Position the focal zone at the level of the vein.
+
+【96】• Color and/or spectral Doppler, if needed. Color Doppler ultrasound can be turned on with a single button, and its parameters can be adjusted. If an appropriate preset is chosen, probably only the color gain will need to be adjusted. Spectral Doppler is also activated with a single button. The operator needs to steer the gate (the small cross-hatched area used to obtain the waveform) over the vessel by moving the trackball slowly back and forth, analogous to moving the cursor on a computer screen.
+
+【97】Ultrasound transducer — When using ultrasound for real-time monitoring during catheter placement (in contrast to localization and measurement prior to catheter placement), take steps to ensure the sterility of the ultrasound transducer. Commercially available sterile long plastic sleeves are available for this purpose. Never use a sterile glove or a sterile plastic drape around the transducer since these do not ensure asepsis . Operators should also be aware of the need to properly disinfect the ultrasound transducer between patients and to always use sterile gel. For further details, see guidelines from the American Institute of Ultrasound in Medicine .
+
+【98】To prepare the transducer for sterile use:
+
+【99】 Apply ultrasound gel to the head of the transducer.
+
+【100】 Place the transducer into the sterile sleeve.
+
+【101】 Force any air out. Air bubbles trapped in the transducer cover leads to poor image quality.
+
+【102】 Secure the sterile cover with a sterile rubber band. A snug fit of the cover over the transducer is needed.
+
+【103】 Squeeze excess gel up the sleeve, above the rubber band.
+
+【104】 Apply additional sterile conductive medium (eg, sterile lubricant gel, saline ) between the wrapped transducer and the surface of the skin.
+
+【105】DYNAMIC ULTRASOUND TECHNIQUES 
+
+【106】Dynamic ultrasound is always preferred to guide placement of central venous catheters or peripheral intravenous catheters. Dynamic ultrasound guidance also allows for real-time needle visualization during puncture of the vessel, as well as guidewire passage and catheter advancement, which ultimately increases successful placement and minimizes complications. Identifying an appropriate vein, marking its position, and then attempting a "blind" landmark approach is inaccurate, unsafe, and not cost effective.
+
+【107】General considerations — To perform venous cannulation using dynamic ultrasound, the operator must learn the bimanual technique of holding the transducer in one hand (typically nondominant) to identify the target vein, advancing the needle with the other hand, and simultaneously keeping eyes on the ultrasound monitor at all times. Bimanual technique can be quite challenging to learn and is often frustrating for beginners. Mastery requires adequate training and plenty of supervised practice. Use of phantoms or simulators is helpful for increasing operator skill and confidence prior to transitioning to actual patients.
+
+【108】An assistant is extremely helpful for adjusting ultrasound parameters, holding the patient's arm steady (such as with children), or passing supplies to the operator. However, a two-person technique with one person holding the transducer and the other person holding the needle leads to confusion and should be discouraged.
+
+【109】Maintaining continuous visualization of the needle tip can be difficult, but critical for success. Techniques that are helpful for needle tip visualization include optimizing ultrasound settings and using an echogenic needle . "Sweeping" or "rocking" the ultrasound transducer over the needle tip so that the needle tip "flashes" in and out on the screen is helpful for distinguishing the needle tip from the shaft. As the needle is advanced toward the target vein, the transducer will also need to be advanced in sync with the needle to maintain continuous visualization of the tip. Temporarily angling or tilting the needle so that it has a more horizontal orientation increases sound wave reflection (echoes) and improves visualization of the needle .
+
+【110】Needle guidance systems have been proposed to help facilitate both the "in-plane" and the "out-of-plane" approach. These systems typically use a sterile plastic guide for the needle that snaps onto the transducer . The apparatus snaps apart after the target is reached, freeing the needle. One study of anesthesia residents showed that the use of a needle guidance system significantly increased needle tip visibility compared with the longitudinal free-hand technique or transverse technique . However, the number of needle sticks and needle redirections did not differ. In expert hands, needle guides are more of an obstacle than a benefit, reducing the flexibility of the maneuver. They might be useful exclusively as a teaching tool, specifically while learning "out-of-plane short axis" maneuvers.
+
+【111】Steps — Once the vein site has been prepared and draped, the following steps should be performed in sequence for dynamic ultrasound-guided venous access.
+
+【112】 Center the target vein on the ultrasound screen (transverse view) , or obtain a longitudinal view using care to distinguish veins from arteries .
+
+【113】 Anesthetize the puncture site (eg, 1% lidocaine , 0.75% ropivacaine ) using ultrasound, which is always recommended. Ultrasound-guided local anesthesia administration helps prevent inadvertent puncture of the artery or vein, or excessive administration that might distort the anatomy.
+
+【114】 For central line placement (centrally inserted or peripherally inserted), use of a 21-gauge needle (rather than an 18-gauge needle) with an 0.018 inch guidewire is always recommended. The smaller needle allows for easier and safer puncture of the target vessel, especially small or low-pressure veins. This may require the use of a micropuncture set to upsize to a larger guidewire .
+
+【115】 After the puncture site is anesthetized, insert the needle and advance slowly either in plane or out of plane. If identification of the needle tip is difficult, do not continue to advance the needle; rather, move the probe to find the needle and redirect it properly.
+
+【116】It is important to focus on the tip of the needle rather than the needle shaft, which can be facilitated by "rocking" the transducer back and forth so the tip "flashes" in and out on the screen. When using the "out-of-plane" technique, failure to adequately identify the tip of the needle may allow it to advance to a deeper level than is desired, which can lead to inadvertent injury. The needle should not be advanced deeper into tissue unless the needle tip is definitively visualized.
+
+【117】 The needle must be slowly advanced toward the vein, under ultrasound control. This might be easier with the "in-plane" technique rather than "out-of-plane". The needle should be aimed for the "12 o'clock" position of the vein (as seen in the short-axis). Whether using the "in-plane" or "out-of-plane" technique, look for indentation or flattening of the top wall of the vein as confirmation for an optimal puncture site .
+
+【118】Blood return may be noted at the hub when the needle punctures the venous endothelium, especially if there is a tourniquet applied or elevated central venous pressure. However, blood return may not always be seen in low pressure veins, in which case gentle aspiration with a syringe can be performed for confirmation. Alternatively, ultrasound can be relied upon to confirm that the needle tip is intravascular. If using the "in-plane" technique, slow passage of the guidewire into the vein without resistance can be visualized and confirms satisfactory intravascular position. If the guidewire does not easily pass, needle repositioning or advancement will be needed. Extreme care should be taken if the guidewire is retracted back into a needle as the tip of the guidewire can be easily sheared off and retained in the patient. If the slightest resistance to retraction of the guidewire is detected, the wire and needle should be removed together.
+
+【119】 Once the vein has been accessed, set the transducer down on the sterile field in case it will be needed again, and place the catheter using standard techniques.
+
+【120】Post-cannulation ultrasound — Depending on the type of device and on the venous approach, ultrasound may be useful after the procedure for different maneuvers to:
+
+【121】 Assess the presence of tissue hematomas and/or intramural hematomas, particularly after a difficult puncture with repeat needle passes.
+
+【122】 Control the direction and progression of the catheter or of the guidewire using supraclavicular ultrasound (particularly during peripherally inserted central catheter insertion) or after an infraclavicular approach .
+
+【123】 Verify the presence of the pleural "sliding sign" in the intercostal space to rule out pneumothorax (particularly after axillary or subclavian venipuncture). Ultrasound can be more sensitive than a chest radiograph for detection of pleural injury and pneumothorax .
+
+【124】 Locate the tip by echocardiography, which is particularly easy and accurate in neonates and in infants but feasible also in adult patients .
+
+【125】PITFALLS AND COMPLICATIONS 
+
+【126】No complications unique to ultrasound-guided vascular access have been reported. The risk of complications inherent in vascular access such as hematoma, inadvertent puncture of nearby vessels or nerves, or unsuccessful cannulation is significantly reduced with the use of ultrasound guidance . In addition, ultrasound guidance shortens the time to successful cannulation and reduces the costs of the procedure.
+
+【127】Incorrect use of the ultrasound machine can make it difficult to identify vascular structures. A common pitfall is applying too much pressure with the transducer, thus collapsing the vein and rendering it invisible. Another problem is using incorrect settings on the ultrasound machine.
+
+【128】The main cause of adverse events during ultrasound-guided venipuncture is poor training of the operator. The pivotal role of training cannot be overemphasized . Self-training and inappropriate/insufficient training are both associated with gross errors in the puncture technique and puncture-related complications. It is highly recommended that the clinicians who insert central venous access device be properly trained according to the recommendations of the World Conference on Vascular Access (WoCoVA) consensus, an evidence-based document that has analyzed the most appropriate training strategy for teaching ultrasound-guided venous access .
+
+【129】ADDITIONAL RESOURCES 
+
+【130】High-quality instructional videos of ultrasound-guided internal jugular and peripheral vein access are available elsewhere .
+
+【131】Links to society and government-sponsored guidelines from selected countries and regions around the world are provided separately.
+
+【132】 **Global use of ultrasound** – Ultrasound assists placement of various intravenous devices, including central (eg, tunneled catheters, venous sheaths, totally implantable ports) and peripheral intravenous devices, as well as intraosseous catheters. The "global use of ultrasound" refers to the application of ultrasound at every phase of venous access management. This includes:
+
+【133】• **Planning access** – Ultrasound is used to select a suitable target vein, identify potential obstacles such as thrombus or downstream stenosis, and ensure the vein will be of adequate size for the caliber of catheter being inserted.
+
+【134】• **Guiding venous cannulation and device placement** – During venous cannulation, dynamic (real-time) ultrasound allows the operator to see the needle entering the vein, thereby reducing number of access attempts and complications. Dynamic ultrasound guidance is the technique of choice during venipuncture. Using "static" ultrasound localization of the vein with a subsequent "blind" venipuncture technique is discouraged. Real time visualization of the needle tip allows for precise puncture of the target vein and avoids injury of nearby arteries or nerves. Dynamic ultrasound can also be used to troubleshoot and potentially correct errant passage of the guidewire or catheter.
+
+【135】• **Identifying complications** – Ultrasound can identify problems and early complications related to venous access device insertion. Vasospasm, thrombus, perivascular hematoma, arterial injury, and pneumothorax can all be detected with ultrasound. Ultrasound can also identify late complications (eg, venous thrombosis, device migration).
+
+【136】 **Limitations** – Limitations and shortcomings related to the use of ultrasound include the following:
+
+【137】• Appropriate ultrasound equipment may not be available or feasible in a particular situation (eg, emergency access).
+
+【138】• Ultrasound resolution decreases with depth. For patients with obesity, vascular structures may be difficult to visualize and access.
+
+【139】• Ultrasound transmission will be blocked by any subcutaneous emphysema (ie, air in the tissues) in the region of the access site.
+
+【140】 **Ultrasound equipment** – Basic ultrasound equipment is usually sufficient for ultrasound-guided venous access; however, higher quality units likely produce better results.
+
+【141】• A high-frequency  transducer (eg, linear or "hockey-stick" configuration) is generally used.
+
+【142】• Standard two-dimensional (B-mode) grayscale imaging is generally all that is needed for venous cannulation. Doppler ultrasound might be helpful for vein selection (eg, identifying thrombosis, differentiating vein from an artery) .
+
+【143】• To prevent infection, in addition to using barrier precautions, aseptic technique includes ensuring the sterility of the ultrasound transducer. Sterile long plastic sleeves to maintain ultrasound transducer sterility are commercially available. Operators should also be aware to always use sterile ultrasound gel for venous access and to disinfect the ultrasound transducer between patients.
+
+【144】 **Ultrasound techniques** – For venous access at any site, we recommend dynamic (real-time) ultrasound guidance, whenever available, rather than using only static ultrasound to identify and mark the intended venous access site . Dynamic ultrasound guidance allows for real-time needle visualization, guidewire passage and catheter advancement, ultimately increasing successful placement and minimizing complications. In adult and pediatric populations, ultrasound equipment and expertise using it should be available whenever venous access is needed.
+
+【145】• **Ultrasound views** – The spatial relationship between the ultrasound transducer and the vein can be transverse (short-axis; transducer perpendicular to the vein) or longitudinal (transducer parallel to the vein). Each view has advantages and disadvantages. A combination of views may be needed.
+
+【146】\- **Transverse view** – The transverse (short-axis) view is technically easy to use and might be best for vein localization since it provides better imaging of the anatomic structure surrounding the vein. However, the transverse view provides a limited view of the access needle during cannulation.
+
+【147】\- **Longitudinal view** – The longitudinal (long-axis) view provides more information about the vein (eg, diameter, the presence of vein valves, vein morphology). It also provides imaging of the entire needle during cannulation. However, it is technically more challenging, and the view of surrounding structures is limited.
+
+【148】• **Needle orientation** – The spatial relationship between the needle and the transducer can be described as "in-plane" (needle parallel to the transducer) or "out-of-plane" (needle perpendicular to the transducer). The brachiocephalic, subclavian, and external jugular veins are all punctured and cannulated necessarily using an "in-plane long axis" approach.
+
+【149】• **Approach**
+
+【150】\- A transverse axis view "in-plane" approach is used exclusively for the internal jugular vein.
+
+【151】\- A transverse axis "out-of-plane" approach is commonly used for peripherally inserted central catheters or femoral venous catheters, but it is also a possible for access in the infraclavicular area (eg, axillary vein, cephalic vein).
+
+【152】\- A longitudinal axis view exclusively uses an "in-plane" technique and is typically used for the external jugular vein, and a supraclavicular approach to the subclavian or brachiocephalic veins. It has also been adopted as one of the possible infraclavicular approaches to the axillary vein. The longitudinal view can also be very helpful for placement of femoral venous catheters and peripherally inserted central catheters.焦瀚远
+
+====================================================================================================

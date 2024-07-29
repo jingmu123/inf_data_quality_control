@@ -1,0 +1,365 @@
+【0】Bowel preparation before colonoscopy in adults
+
+【1】INTRODUCTION 
+
+【2】A successful colonoscopy requires an adequate preparation of the large bowel that facilitates clear visualization of the mucosal surface. The effectiveness of the bowel preparation is a critical factor related to the safety, diagnostic accuracy, quality, difficulty, and speed of the examination.
+
+【3】This topic will discuss the methods for bowel preparation for outpatient colonoscopy and will provide recommendations for addressing commonly encountered problems. An overview of colonoscopy in adults is discussed separately.
+
+【4】The approach to bowel preparation for colonoscopy in the setting of acute gastrointestinal bleeding is discussed separately.
+
+【5】Society recommendations for bowel preparation include a guideline from the United States Multi-Society Task Force on Colorectal Cancer and a guideline from the American Society of Gastrointestinal Endoscopy .
+
+【6】IMPORTANCE OF ADEQUATE BOWEL PREPARATION 
+
+【7】The adequacy of the bowel preparation has a significant impact on the quality of the colonoscopy, but the prep is inadequate in up to 25 percent of examinations . Inadequate bowel preparation may :
+
+【8】 Increase the risk of adverse events related to the procedure
+
+【9】 Lengthen the insertion time and overall procedure time
+
+【10】 Necessitate reducing the interval between procedures
+
+【11】 Lower cecal intubation rates
+
+【12】 Lower adenoma detection rates
+
+【13】Risk factors for inadequate preparation — It is important to identify risk factors for inadequate bowel preparation because a preparation regimen can be selected that will increase the chances of success.
+
+【14】Patient-related risk factors for an inadequate bowel preparation include :
+
+【15】 Prior inadequate preparation
+
+【16】 History of constipation
+
+【17】 Use of medications associated with constipation (ie, tricyclic antidepressants and opioids)
+
+【18】 Dementia or Parkinson disease
+
+【19】 Male sex
+
+【20】 Low health literacy (ie, cognitive skills)
+
+【21】 Low patient engagement
+
+【22】 Obesity
+
+【23】 Diabetes mellitus
+
+【24】 Cirrhosis
+
+【25】Procedure-related risk factors for inadequate bowel preparations include :
+
+【26】 Administration of the entire preparation the night before the colonoscopy (rather than split-dosing) and
+
+【27】 Later colonoscopy starting time
+
+【28】CONTRAINDICATIONS TO BOWEL PREPARATION 
+
+【29】While most patients are able to undergo an oral lavage (ie, oral consumption of a large volume of liquid for colon cleansing), there are some situations in which it is contraindicated. Oral preparations should not be used in patients with any of the following conditions:
+
+【30】 An ileus
+
+【31】 Significant gastric retention
+
+【32】 Suspected or established mechanical bowel obstruction
+
+【33】 Severe inflammatory or infectious colitis
+
+【34】 Neurologic or cognitive impairment that prevents safe swallowing
+
+【35】In addition, some patients have contraindications to the use of specific colonoscopy preparations.
+
+【36】PATIENT PREPARATION
+
+【37】Instructions — Patients should be provided with both verbal and written instructions that are simple, easy to follow, and in a language that the patient understands . Patients should also be told to read the instructions at least a week prior to the colonoscopy since medication and dietary changes are often required several days prior to the examination.
+
+【38】Digital tools have been used to augment bowel preparation instructions and have resulted in improved bowel cleansing and polyp detection . In a trial of 500 patients who underwent screening colonoscopy, use of a smartphone application in addition to standard oral and written instructions resulted in lower rates of inadequate bowel preparation compared with standard instructions alone  . In addition, adenoma detection rates were higher for patients who used the smartphone application . For patients who have access to mobile devices, smartphone applications are increasingly being used to reinforce bowel preparation instructions.
+
+【39】Medications — Most medications may be continued immediately prior to colonoscopy, although some patients, including those with diabetes or those on anticoagulant medication, may require modification to their medication regimen. Medication adjustments prior to colonoscopy are discussed elsewhere.
+
+【40】Antibiotic prophylaxis is not recommended for colonoscopy because the risk of infection related to routine diagnostic or therapeutic colonoscopy is low.
+
+【41】Hydration and diet — Adequate oral hydration during the bowel preparation process results in a better preparation and fewer adverse events (ie, nausea) related to the prep . The type and volume of fluid depends on the preparation selected.
+
+【42】Dietary modification prior to colonoscopy is discussed separately.
+
+【43】TIMING OF PREPARATION 
+
+【44】The timing and dosing schedule affect the efficacy, patient acceptance, and patient tolerance of the preparation . Our recommendations, which are consistent with guidelines from the US Multi-Society Task Force on Colorectal Cancer for preparation dosing, are described below and depend on whether the colonoscopy is scheduled for the morning or the afternoon .
+
+【45】Morning colonoscopy — For patients undergoing colonoscopy before 12 o’clock noon, we prefer a split-dose preparation rather than a single-dose preparation on the day prior to the procedure, as the split dose is more effective and better tolerated.
+
+【46】Split-dose — Split-dose preparation refers to administration of half of the colon cleansing agent the evening prior to the colonoscopy and the second half the morning of the colonoscopy.
+
+【47】We recommend that patients consume their morning dose five hours prior to the procedure. For patients with early morning procedures, this may require that the patient take the morning dose as early as 2 AM. Despite the inconvenience, patients generally accept this and are satisfied with the split-dose prep . This is consistent with American Society for Anesthesiology guidelines that state prior to a sedated procedure, patients should fast for a minimum of two hours following clear liquid ingestion or six hours for a light meal .
+
+【48】Advantages — Advantages to split-dose preparation include improved efficacy, patient tolerance, and polyp detection . The magnitude of these benefits is illustrated by the following studies:
+
+【49】 In meta-analyses of randomized trials of split-dose versus single dose evening before dosing, patients who received a split-dose preparation were more likely to have an adequate prep   and be willing to repeat the same preparation (OR 1.76, 95% CI 1.06-2.91) . They were also less likely to discontinue the preparation (OR 0.53, 95% CI 0.28-0.98) and reported less nausea (OR 0.55, 95% CI 0.38-0.79) .
+
+【50】 In meta-analyses of four randomized trials including 1258 patients and comparing split-dose versus single dose day-before administration, patients given split-dose preparations were more likely to have detection of an adenoma , an advanced adenoma (RR 1.53, 95% CI 1.22-1.92) or a sessile serrated polyp (RR 2.48, 95% CI 1.24-5.09) .
+
+【51】Single dose, evening before — Single dosing of the full preparation on the evening before the colonoscopy is an alternative to split-dosing; however, as discussed above, evidence favors the efficacy and tolerability of split dosing .
+
+【52】Despite this, some patients prefer to take the entire dose the evening before for convenience.
+
+【53】Afternoon colonoscopy — For patients undergoing colonoscopy after 12 o’clock noon, either single dose or split dose are acceptable options . One author of this topic prefers split-dosing and the other author prefers single dose of the full preparation on the morning of the procedure. Oral intake should cease at a minimum of two hours prior to the procedure start time.
+
+【54】Single dose, same-day — For patients undergoing afternoon procedures, single-dose, same-day preparations appear to be more effective compared with split-dose preparations . In an endoscopist-blinded trial, 227 patients were assigned to receive sodium picosulfate either the morning of the colonoscopy (at 7 AM and 10 AM), or starting the day prior to the colonoscopy (at noon, 5 PM, and 8 AM the morning of the colonoscopy) . Patients who received the same-day preparation had better overall bowel cleansing compared with those who received split-dosing. In the same-day preparation group, bowel cleansing was graded as excellent, average, or poor in 47, 52, and 1.5 percent of patients, respectively. In the patients who received the split-dose preparation, the rates were 50, 40, and 11 percent, respectively. Adverse events such as sleep interruption, fecal incontinence, and vomiting occurred less often in the same-day preparation group.
+
+【55】CHOOSING A PREPARATION 
+
+【56】The ideal bowel preparation must be safe, efficacious, well tolerated, and reasonably priced. All of the available preparations can produce adequate cleansing results with acceptable tolerance, though results for individual patients are variable. As a result, none of the regimens has been universally adopted.
+
+【57】The choice of preparation for an individual patient will depend on the presence of risk factors for prep-related complications, the patient's preferences regarding the volume of the preparation, prior experience and results with a given preparation, and cost.
+
+【58】Our approach — One author of this topic (YAR) prefers the PEG-ELS based preparations. Many centers also prefer balanced electrolyte solutions containing polyethylene glycol (PEG-ELS) or PEG-3350 based preparations for all of their patients. This approach allows the center to simplify its instructions (since most patients are receiving the same preparation) and avoids the inadvertent administration of a hyperosmotic preparation to a patient who should not receive one. Administering the preparation as a split-dose is suggested.
+
+【59】Alternatives — For patients under the age of 65 and without history of inadequate preparation or relevant comorbidity (eg, heart failure, renal insufficiency, end stage liver disease, or risk for electrolyte imbalance), one author of this topic (MF) uses split-dose sodium sulfate-based preparation (SuPrep \[ sodium sulfate-potassium sulfate-magnesium sulfate \] or Clenpiq \[sodium picosulfate\] bowel preparation kit).
+
+【60】The American Society for Gastrointestinal Endoscopy (ASGE) recommends that magnesium citrate preparations are not used in older patients, patients with renal disease, or patients who are taking medications that alter renal blood flow or electrolyte excretion . The ASGE also does not recommend magnesium citrate as a routinely-used preparation.
+
+【61】Sodium phosphate-based preparations are avoided because of the potential for serious electrolyte abnormalities and renal complications, even in patients without risk factors.
+
+【62】Cost — The cost of the preparations vary widely and may be an issue for patients who lack insurance coverage for the preparation . Full-volume  PEG solutions cost approximately $20 to $35, whereas low-volume PEG solutions, sodium sulfate, and sodium picosulfate cost approximately $75 to $95 .
+
+【63】IMPROVING TOLERABILITY 
+
+【64】Many patients find that the bowel preparation is unpalatable and difficult to drink. For some patients, the volume of the preparation requiring consumption is a major concern. In these cases, lower-volume preparations and split-dose preparations are better tolerated. Lower-volume preparations include PEG combined with an additional agent to promote bowel cleansing (eg, bisacodyl or ascorbic acid), sodium sulfate preparations, and sodium picosulfate preparations. High-volume  preparations are PEG-ELS-based.
+
+【65】We recommend that patients use either the flavor packets (if provided with the preparations) or use a sugar-free powdered flavor enhancer. While sports drinks, sugar-free powdered flavor enhancers, and carbohydrate-electrolyte solutions may improve the taste of PEG solutions, improved flavor does not necessarily mean improved tolerance . Furthermore, some additives can alter the osmolarity of the preparation, be metabolized into explosive gases, or alter the amount of water and salts absorbed.
+
+【66】Additional measures that may make preparations easier to consume include :
+
+【67】 Chilling the solution
+
+【68】 Drinking the solution through a straw
+
+【69】 Sucking on lemon slices
+
+【70】 Sucking on sugar-free menthol candy drops
+
+【71】Some of these measures can also be used for patients who develop nausea, vomiting, or excessive bloating after starting the preparation.
+
+【72】Patients who are having difficulty with the preparation can be instructed to temporarily interrupt the regimen (for one to two hours) or slow the rate of consumption.
+
+【73】For patients who have a history of nausea and vomiting with the bowel preparation despite using lower volume preparation, a single dose of ondansetron 4 or 8 mg by mouth can be given prior to initiating the preparation. The safety and efficacy of ondansetron is discussed separately.
+
+【74】SPECIAL PATIENT POPULATIONS 
+
+【75】Specific patient characteristics affect the choice of bowel preparation. Our preference is to use a PEG-ELS preparation in the following special populations ( algorithm 1 ).
+
+【76】Older adults — We use a PEG-ELS in older adults (>65 years of age) since they may be at increased risk of fluid and electrolyte abnormalities.
+
+【77】Patients with heart failure, renal insufficiency, end-stage liver disease, or electrolyte imbalances — We use PEG-ELS preparations in patients with heart failure, renal insufficiency (glomerular filtration rate <60 mL/minute/1.73 m 2 ), end-stage liver disease, or electrolyte imbalances (including patients who take diuretics because hyperosmotic preparations should be avoided in such patients). Hyperosmotic laxative regimens may lead to volume and electrolyte shifts, and many of these preparations are renally excreted.
+
+【78】Patients who are pregnant — For pregnant women, we prefer tap water enemas or PEG-ELS preparations (if an oral prep is necessary). PEG-ELS is used for the treatment of constipation in pregnancy and has been recommended for colonoscopy preparation in consensus guidelines . Although studies of colonoscopy preparations are lacking in pregnant patients, tap water enemas and PEG-ELS are considered low risk preparations . Because hyperosmotic solutions can cause fluid and electrolyte abnormalities, they should be avoided in women who are pregnant .
+
+【79】Patients with inflammatory bowel disease or unexplained chronic diarrhea — We prefer PEG-ELS preparations in patients with inflammatory bowel disease because they do not damage the colonic mucosa. Hyperosmotic preparations may cause mucosal damage that resembles inflammatory bowel disease, leading to diagnostic confusion .
+
+【80】PATIENTS WITH RISK FACTORS FOR OR A HISTORY OF INADEQUATE PREPARATION 
+
+【81】The presence of one or more risk factors for an inadequate preparation will affect the choice and regimen of the preparation. Patients with an inadequate preparation usually require a repeat colonoscopy after a more thorough attempt at bowel cleansing.
+
+【82】Patients who have an inadequate prep because they misunderstood the instructions can be counseled and then directed to repeat the same bowel regimen. For those patients who did not tolerate or respond adequately to the original preparation, an alternative preparation should be tried. In addition, split-dosing of the preparation should be employed (with or without additional measures outlined below), as it is associated with better preparation quality.
+
+【83】Some patients continue to have an inadequate preparation despite compliance with the regimen, switching regimens, and using a split-dose lavage. In such patients, we will typically give two days of clear liquids and schedule a morning procedure. If the patient's preparation was extremely poor (eg, there was retained solid stool), options also include adding a second laxative if there is no contraindication, (eg, using 4L PEG-ELS solution followed by a bottle of magnesium citrate ) or repeating the administration of the preparation over a two day period (with the exception of sodium phosphate ).
+
+【84】FDA-APPROVED PREPARATIONS
+
+【85】Isosmotic agents
+
+【86】Polyethylene glycol-electrolyte lavage solutions — PEG is a high-molecular weight, nonabsorbable polymer, formulated as solution that passes through the colon without net absorption or secretion. PEG-ELS are isosmotic, minimizing fluid exchange across the colonic membrane .
+
+【87】Safety — Overall, PEG-ELS preparations are safe. They typically do not cause fluid and electrolyte shifts. However, there have been reports of asymptomatic increases in plasma volume and exacerbations of heart failure . Other rarely reported adverse events include aspiration, Mallory-Weiss tear, esophageal perforation, pancreatitis, cardiac dysrhythmia, and exacerbation of syndrome of inappropriate antidiuretic hormone secretion .
+
+【88】Bisacodyl , which is used as an adjunct to some PEG-based preparations, has been rarely associated with ischemic colitis .
+
+【89】PEG-ELS preparations without adjuncts do not damage the colonic mucosa.
+
+【90】The PEG-ELS preparation that contains ascorbic acid (ie, MoviPrep, Plenvu) should be avoided in patients with glucose-6-phosphate dehydrogenase deficiency.
+
+【91】The PEG-ELS preparation that contains magnesium sulfate (Suflave) should be avoided in patients with kidney impairment .
+
+【92】Efficacy and tolerability — PEG-ELS preparations are associated with good cleansing efficacy and reasonable patient tolerance . A meta-analysis that included eight randomized trials comparing PEG solutions with sodium phosphate-containing preparations found that PEG preparations resulted in "adequate" preparation quality in 33 to 91 percent of patients (median 69 percent) and an "excellent" preparation quality in 6 to 49 percent of patients (median 36 percent). However, approximately 19 percent of patients were unable to complete the preparation.
+
+【93】The low-volume PEG preparation that contains ascorbic acid (ie, MoviPrep) was comparable to preparation with a 4 L PEG-ELS or a sodium phosphate-based preparation in randomized trials, though there were no substantial improvements in tolerability .
+
+【94】Some of the commercially available PEG solutions come with flavoring to increase palatability . Likewise, sulfate-free solutions have been developed that are less salty and more palatable compared with the standard solutions .
+
+【95】Administration of high volume PEG-ELS — High volume (ie, 4L) PEG-ELS preparations include GoLYTELY and CoLyte. Four L sulfate free PEG–ELS preparations are NuLytely and TriLyte.
+
+【96】Four L PEG-ELS solutions are generally taken as follows:
+
+【97】Starting at approximately 6 PM the evening prior to the colonoscopy, the patient takes 240 mL  every ten minutes.
+
+【98】 If split-dosing is being used, half of the solution is consumed the evening before the colonoscopy and the other half is consumed the morning of the colonoscopy, five hours prior to the examination.
+
+【99】 If split-dosing is not being used, the entire preparation is taken the evening prior to or the day of the examination.
+
+【100】Some patients may achieve adequate bowel preparation without consuming 4L PEG-ELS . We generally recommend that patients discontinue drinking the solution once their efflux becomes watery and clear, provided they are able to clearly understand the instructions.
+
+【101】Administration of low volume PEG-ELS — Low-volume PEG-ELS preparations include:
+
+【102】 PEG-ELS-ascorbic acid (MoviPrep, total volume 3L/96 oz)
+
+【103】 PEG-ELS-bisacodyl (total volume 2L/64 oz)
+
+【104】 PEG-ELS-ascorbic acid preparation (Plenvu, total volume 2L/64 oz) 
+
+【105】 PEG-ELS-sodium sulfate, potassium chloride , magnesium sulfate , and sodium chloride (Suflave, total volume 2 L/64 oz) 
+
+【106】For most lower volume PEG-ELS-based preparations, the patient consumes one liter of the solution over one hour  in the evening prior to the colonoscopy. Approximately 1.5 hours later, the second liter is consumed over one hour. Patients should also take in an additional liter  of clear liquids the evening before the colonoscopy.
+
+【107】For split-dosing, the patient consumes the second liter of solution five hours prior to the colonoscopy. Patients receiving split-dosing should consume an additional half liter  of clear liquids both the evening prior to and the morning of the procedure.
+
+【108】Hyperosmotic agents
+
+【109】Sodium sulfate-based preparation — Sodium sulfate is a poorly absorbed anion (SuPrep \[ sodium sulfate-potassium sulfate-magnesium sulfate bowel preparation kit\], total volume 3 L/96 oz; Sutab \[ sodium sulfate-magnesium sulfate-potassium chloride tablets\], total water volume 3 L/96 oz; total of 24 tablets, administered as a split-dose) .
+
+【110】Safety — Sulfate does not produce significant fluid and electrolyte shifts, but it has only been tested in patients without comorbidities and therefore the safety of this preparation has not been established in patients at risk for electrolyte abnormalities .
+
+【111】Efficacy — Randomized trials have shown that sodium sulfate preparations are at least as effective as PEG preparations . One trial also showed that there were no differences with regard to patient tolerance or changes in laboratory parameters .
+
+【112】In a randomized trial that compared split-dosing of a sodium sulfate-based preparation with split-dosing of sodium picosulfate plus magnesium citrate , patients who received a sodium sulfate-based preparation were more likely to have a preparation graded as excellent or good  .
+
+【113】Administration — The sodium sulfate preparation begins the evening prior to the colonoscopy when the patient consumes one 180 mL  bottle of sodium sulfate that has been diluted with 300 mL  of water. The patient should drink an additional liter  of fluid over the following hour. A second dose is taken the same way on the morning of the colonoscopy, five hours prior to the examination.
+
+【114】Sodium phosphate preparations
+
+【115】Patients who should not receive sodium phosphate — Because of adverse events associated with sodium phosphate preparations, patients with any of the following disorders should **not** receive sodium phosphate preparations:
+
+【116】 Patients with heart failure (New York Heart Association class III or IV or ejection fraction <50 percent), renal insufficiency (creatinine clearance <60 mL/min/1.73 m 2 , end-stage liver disease, or preexisting electrolyte abnormalities .
+
+【117】 Patients at increased risk for electrolyte abnormalities, including patients on diuretics that may affect electrolyte levels or cause dehydration and older adults (>65 years of age) .
+
+【118】 Patients taking angiotensin-converting enzyme inhibitors, angiotensin receptor blockers, nonsteroidal antiinflammatory drugs, or other drugs that affect renal perfusion or function, since these patients may be at increased risk of acute phosphate nephropathy .
+
+【119】 Patients with suspected inflammatory bowel disease or diarrhea of unknown etiology, as sodium phosphate may cause mucosal damage, leading to diagnostic confusion .
+
+【120】Safety — The use of sodium phosphate preparations is limited because of the potential for renal damage, including acute phosphate nephropathy, even in patients with normal renal function.
+
+【121】The FDA has required manufacturers of oral sodium phosphate products to include a black box warning regarding potential complications as well as institute programs to reduce the risk .
+
+【122】Adverse effects of sodium phosphate preparations include:
+
+【123】 Acute phosphate nephropathy ‒ Acute phosphate nephropathy is more likely to occur in patients with underlying renal insufficiency, but it has been described in patients with normal renal function. It can result in chronic and end-stage kidney disease .
+
+【124】 Fluid shifts ‒ Fluid shifts may precipitate intravascular volume depletion.
+
+【125】 Hyperphosphatemia ‒ Although serum phosphate concentrations increase in patients taking sodium phosphate preparations, the rise is clinically insignificant in most patients who adhere to the recommended regimen . Exceptions are patients with renal insufficiency (a glomerular filtration rate of <50 percent of normal) who can develop severe hyperphosphatemia . A review of the literature found that all of the patients in whom severe hyperphosphatemia developed following use of a phosphate-containing laxative had some degree of renal insufficiency at the time of laxative administration . Impaired bowel motility may also be a risk factor .
+
+【126】 Electrolyte abnormalities ‒ Electrolyte abnormalities, including a fall in the serum calcium and potassium and a rise in the serum sodium, have been seen, are typically clinically insignificant, and reverse within hours .
+
+【127】 Tonic-clonic seizures ‒ Seizures have been reported in patients who had no history of a seizure disorder or preexisting electrolyte abnormalities who received sodium phosphate tablets. A report of four such patients demonstrated that all had developed marked electrolyte abnormalities . Three of the four patients had followed the label instructions.
+
+【128】 Mucosal damage ‒ Sodium-phosphate can cause colonic mucosal abnormalities that mimic other conditions, such as injury from nonsteroidal antiinflammatory drugs, drug-induced injury, or inflammatory bowel disease.
+
+【129】In a prospective study of 730 patients receiving a sodium phosphate preparation, mucosal lesions were seen in 24  including erosions, aphthoid lesions, and ulcers . Histologic findings included focal active inflammation, erosions, edema of the lamina propria, mucosal hyperemia, focal hemorrhage, and ulceration. Whether these findings were due to the sodium phosphate is unclear since the study did not include a control group. Nevertheless, similar findings have been described by others .
+
+【130】Efficacy — Sodium phosphate preparations are as effective as PEG-based and magnesium citrate-based preparations .
+
+【131】Administration — On the day before colonoscopy, four tablets are ingested with 240 mL  of clear liquids every 15 minutes for a total of 20 tablets. On the day of the procedure, three to five hours before the colonoscopy, four tablets are given with 240 mL  of clear liquids every 15 minutes for a total of 12 tablets.
+
+【132】Combination agents
+
+【133】Sodium picosulfate-magnesium oxide-citric acid — Sodium picosulfate acts as a stimulant laxative, whereas magnesium oxide and citric acid act as osmotic laxatives (Pico-Salix \[available in Canada\], total volume 2 L/64 oz, and Clenpiq \[available in the United States\], total volume approximately 74 oz).
+
+【134】Safety — Sodium picosulfate-based preparations should not be used in patients with heart failure, renal insufficiency, end-stage liver disease, or electrolyte abnormalities because of the potential for electrolyte shifts. In a large population-based retrospective cohort study in Canada, patients over the age of 65 years had an increased rate of hospitalization for hyponatremia in patients who received sodium picosulfate compared with those who received polyethylene glycol, though the absolute risk was small  .
+
+【135】Syncope has been reported with sodium picosulfate-magnesium oxide-citric acid preparation, and some cases included electrolyte abnormalities (eg, hyponatremia, hypokalemia) .
+
+【136】Efficacy and tolerability — Sodium picosulfate-based preparations have similar efficacy compared with PEG-3350 preparations. A trial that compared day-before dosing of a sodium picosulfate-based preparation with a PEG-3350 preparation found the two preparations were similar with regard to bowel cleansing, but the sodium picosulfate-based preparation was better tolerated by patients . In a related trial that compared split-dosing of the sodium picosulfate-based preparation with day-before dosing of a PEG-3350 plus bisacodyl preparation, patients receiving the sodium picosulfate-based preparation had better colon cleansing and reported better tolerance of the preparation .
+
+【137】Administration — The formulation available in the United States (Clenpiq) is given as follows:
+
+【138】The first dose  is consumed at approximately 6 PM, followed by five 240 mL  drinks of a clear liquid consumed over five hours. The second dose is taken five to six hours prior to colonoscopy, followed by at least three 240 mL  drinks of a clear liquid. We advise patients to consume a variety of clear liquids (eg, balanced electrolyte solution) rather than only water .
+
+【139】Alternatively, both doses may be given the day prior to the colonoscopy (the first between 4 PM and 6 PM, with the second dose being given approximately six hours later). However, the split-dose method is preferred because it has been shown to result in superior colon cleansing .
+
+【140】NON-FDA APPROVED PREPARATIONS 
+
+【141】Some over-the-counter laxative preparations are also used as bowel preparations. These regimens are used off-label, as they have not been approved by the FDA for this indication.
+
+【142】Magnesium citrate — Magnesium citrate is a hyperosmotic preparation that works by drawing water into the intestine, which results in bowel distention and stimulation of evacuation.
+
+【143】Safety — Hyperosmotic preparations have the potential to cause fluid and electrolyte shifts . Magnesium citrate should be used only in patients with normal renal function and should be avoided in patients with renal insufficiency, heart failure, decompensated cirrhosis, or baseline electrolyte abnormalities. Hypermagnesemia (in some cases fatal) has been reported in patients with suspected or known renal insufficiency and in older adults .
+
+【144】Efficacy and tolerability — The volume of magnesium citrate is relatively low and it is generally well tolerated .
+
+【145】Administration — There is no standardized method for giving magnesium citrate . Our protocol is as follows:
+
+【146】 Split-dose ‒ The day before the colonoscopy, patients start a clear liquid diet. The first dose of magnesium citrate is 1.5 bottles  and is taken in the early evening (ie, between 6 and 8 PM), followed by at least three 240 mL  glasses of clear liquids over two hours. A second 1.5 bottle dose of magnesium citrate is taken six hours prior to the colonoscopy, followed by three 240 mL  glasses of clear liquids over one hour.
+
+【147】 Single-dose, same-day (for afternoon procedures) – The first dose of magnesium citrate is 1.5 bottles  and is taken eight hours prior to the procedure, followed by at least three 240 mL  glasses of clear liquids over two hours. A second 1.5 bottle dose of magnesium citrate is taken four hours prior to the procedure, followed by three 240 mL  glasses of clear liquids over one hour.
+
+【148】Hyposmotic agents
+
+【149】Low volume PEG 3350 with bisacodyl — Polyethylene glycol 3350 (MiraLax/GlycoLax, total volume 2 L/64 oz) combined with bisacodyl is available without a prescription. It is inexpensive and easy to prepare .
+
+【150】Safety — There are conflicting data on whether PEG 3350 preparations cause electrolyte changes, and authorities have raised concerns due to its lack of a built-in electrolyte replacement solution . In two randomized trials comparing 2 L PEG 3350 and sports drink preparation (PEG-SD) with 4 L PEG-ELS , there were no clinically significant change in serum electrolytes after either preparation . In another trial of 364 patients that compared 2 L PEG-SD with 4L PEG-ELS resulted in a higher incidence of hyponatremia  .
+
+【151】We avoid preparations that use bisacodyl because it has rarely been associated with ischemic colitis .
+
+【152】There are theoretical concerns regarding the use of carbohydrate containing sports drinks due to the potential for the production of explosive hydrogen gas by bacterial fermentation of the nonabsorbed carbohydrates in the colon. Although no such events have been reported with the use of PEG 3350 mixed with a sports drink, bowel explosion has been reported during snare polypectomy in a patient who received mannitol preparation . Preparations containing nonabsorbable carbohydrates such as mannitol, sorbitol , and lactulose should not be used for the purpose of bowel cleansing prior to colonoscopy.
+
+【153】Efficacy and tolerability — Although some data suggest that PEG 3350 is not as effective as high-volume PEG-ELS preparation, it was better tolerated based on taste and overall experience compared with PEG-ELS in randomized trials .
+
+【154】A meta-analysis of five randomized trials comparing 2L PEG-SD with 4 L PEG-ELS showed fewer satisfactory bowel preparations (OR 0.65, 95%CI 0.43-0.98) but patients in the PEG-SD group were more willing to repeat the preparation (OR 7.32; 95%CI 4.88-10.98) . The adenoma detection rate was lower in one study comparing PEG-SD/ bisacodyl with PEG-ELS preparation  .
+
+【155】Administration — PEG 3350 is mixed in 2 liters  of a clear liquid (often a sports drink or sugar-free powdered drink). Patients are instructed to take bisacodyl 10 mg (two 5 mg tablets) at noon. Once the patient has a bowel movement, or after a maximum of six hours, the patient takes 240 mL  the PEG 3350 solution every 10 to 15 minutes until 2 liters  are consumed. If split dosing is being used, one liter is taken in the evening before the colonoscopy and one liter is taken six hours prior to the procedure.
+
+【156】ADJUNCTS TO BOWEL PREPARATION 
+
+【157】Simethicone is often used during colonoscopy to reduce the burden of gas bubbles that may interfere with endoscopic visualization. However, the intraprocedural use of simethicone may result in endoscopic contamination despite high level disinfection and reprocessing methods, and this is discussed separately .
+
+【158】Adding simethicone to the bowel preparation reduces the need to flush simethicone through the colonoscope during the procedure. In a trial of 268 patients who underwent screening colonoscopy, patients given a bowel preparation containing simethicone were less likely to need through-the-scope simethicone to improve visualization compared with patients given bowel preparation alone  . Simethicone added to the bowel preparation regimen shows promise, while we await additional studies on the utility of this approach.
+
+【159】FLEXIBLE SIGMOIDOSCOPY PREPARATION
+
+【160】Enemas — Commonly used preparations for flexible sigmoidoscopy include two sodium phosphate enemas or two tap water enemas given at least one hour before the procedure . Sodium phosphate enemas should be avoided in older adults or patients at risk for electrolyte disturbances because they have been associated with complications . In one retrospective series (mean age 80 years, range 61 to 89 years), complications included hypotension and volume depletion, hyperphosphatemia, hypo- or hyperkalemia, metabolic acidosis, severe hypocalcemia, renal failure, and electrocardiogram changes (prolonged QT interval) .
+
+【161】Oral preparation — Oral preparations prior to sigmoidoscopy have also been used with equal or superior efficacy . If an oral preparation is required prior to sigmoidoscopy, we give magnesium citrate , 1.5 bottles  six hours prior to the procedure, provided that there are no contraindications. If magnesium citrate is contraindicated, a PEG-ELS preparation (preferably a lower volume formulation) can be used.
+
+【162】In a meta-analysis of eight trials including over 2400 patients undergoing flexible sigmoidoscopy, the risk of inadequate preparation, adverse reaction, and patient noncompliance was not significantly different in patients given an oral preparation compared with those given an enema preparation .
+
+【163】A full dose oral preparation should be used for patients undergoing flexible sigmoidoscopy with argon plasma coagulation. In such patients, there is a small risk of a gas explosion if the entire colon is not adequately cleansed.
+
+【164】DOCUMENTING PREPARATION QUALITY 
+
+【165】To standardize descriptions of bowel preparation at the time of colonoscopy, systems for reporting bowel preparation quality have been developed, including the Boston bowel preparation scale, and this is discussed separately.
+
+【166】For patients with an inadequate bowel preparation, the American Society for Gastrointestinal Endoscopy (ASGE) recommends that a repeat colonoscopy is performed within one year .
+
+【167】Links to society and government-sponsored guidelines from selected countries and regions around the world are provided separately.
+
+【168】INFORMATION FOR PATIENTS 
+
+【169】Here are the patient education articles that are relevant to this topic. We encourage you to print or e-mail these topics to your patients. (You can also locate patient education articles on a variety of subjects by searching on "patient info" and the keyword(s) of interest.)
+
+【170】 Basics topics
+
+【171】 Beyond the Basics topics
+
+【172】 **Background –** The ideal bowel preparation must be safe, efficacious, well tolerated and reasonably priced. All of the available preparations can produce adequate cleansing results with acceptable tolerance, though results for individual patients are variable. As a result, none of the regimens has been universally adopted.
+
+【173】 **Timing of preparation –** For patients undergoing a morning colonoscopy, we suggest that bowel preparation is administered in a split-dose rather than being given entirely the evening prior to the colonoscopy . Split-dosing results in greater efficacy, patient tolerance, and polyp detection compared with single dose, evening-before preparation.
+
+【174】For patients undergoing an afternoon colonoscopy, either split-dose or single dose, same-day bowel preparation is an acceptable option.
+
+【175】 **Choosing a preparation –** Many centers prefer balanced electrolyte solutions containing polyethylene glycol ( PEG-ELS ) or PEG-3350 based preparations for all of their patients. Administering the preparation as a split-dose is suggested.
+
+【176】Hyperosmotic laxative regimens may lead to volume and electrolyte shifts or may cause mucosal damage. For patients with a history of heart failure, renal insufficiency, end-stage liver disease, or electrolyte abnormalities, or for patients who are being evaluated for inflammatory bowel disease or unexplained chronic diarrhea, we suggest using PEG-ELS preparation .
+
+【177】We suggest not using preparations that use bisacodyl . Bisacodyl has been associated with a small risk of ischemic colitis.
+
+【178】For older adults (>65 years of age), we suggest using a PEG-ELS based preparation . Older adults may be at increased risk for fluid and electrolyte shifts induced by hyperosmotic preparations.
+
+【179】We avoid sodium phosphate-based oral preparations because of the risk of adverse events including kidney toxicity.
+
+【180】 **Improving tolerability –** Many patients find that the bowel preparation is unpalatable and difficult to drink. In addition to the split dose preparation, measures that can make the prep more tolerable include using a straw to drink the prep and chilling the prep.
+
+【181】 **Bowel preparation for flexible sigmoidoscopy –** For flexible sigmoidoscopy preparation, we suggest that patients under the age of 65 years receive two sodium phosphate enemas if there is no contraindication . We suggest that patients undergoing flexible sigmoidoscopy who are ≥65 years old receive two tap water enemas or an oral preparation with PEG-ELS . Significant complications have been associated with sodium phosphate enema use in older adults.王磊
+
+====================================================================================================

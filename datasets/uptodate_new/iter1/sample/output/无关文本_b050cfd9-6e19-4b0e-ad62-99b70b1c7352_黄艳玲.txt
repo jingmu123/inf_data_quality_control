@@ -1,0 +1,151 @@
+【0】Gentian violet: Pediatric drug information
+
+【1】Contributor Disclosures
+
+【2】For abbreviations, symbols, and age group definitions show table
+
+【3】Therapeutic Category
+
+【4】*   Antibacterial, Topical ;
+*   Antifungal Agent, Topical
+
+【5】Dosing: Pediatric
+
+【6】Oral candidiasis
+
+【7】**Oral candidiasis:** Limited data available: **Note:** Not the preferred treatment; ulceration and/or burns of the oral mucosa have been reported in neonates and young infants in as little as 4 days ; use with caution and limit use.
+
+【8】Infants: Topical: Topical solution : Apply sparingly to affected area (under tongue or on oral lesion) once or twice daily for ≤3 days .
+
+【9】Children and Adolescents: Topical: Topical solution : Apply to affected area twice daily .
+
+【10】Topical dermal infection
+
+【11】**Topical dermal infection:** Infants, Children, and Adolescents: Topical: Topical Solution : Apply to affected area 1 to 3 times daily.
+
+【12】Dosing: Kidney Impairment: Pediatric
+
+【13】There are no dosage adjustments provided in the manufacturer's labeling.
+
+【14】Dosing: Hepatic Impairment: Pediatric
+
+【15】There are no dosage adjustments provided in the manufacturer's labeling.
+
+【16】Dosing: Adult
+
+【17】Candidiasis
+
+【18】**Candidiasis:**
+
+【19】**Oropharyngeal, mild disease (alternative agent) (off-label use): Topical solution :** Apply to affected area twice daily; swish in the mouth and retain for as long as possible (several minutes) before expectorating. Duration is for 7 to 14 days .
+
+【20】Topical infection
+
+【21】**Topical infection:** **Topical:** Apply to affected area 1 to 3 times daily.
+
+【22】Dosing: Kidney Impairment: Adult
+
+【23】There are no dosage adjustments provided in the manufacturer's labeling.
+
+【24】Dosing: Hepatic Impairment: Adult
+
+【25】There are no dosage adjustments provided in the manufacturer's labeling.
+
+【26】Adverse Reactions
+
+【27】Postmarketing:
+
+【28】Dermatologic: Allergic contact dermatitis (Docampo 1990), skin necrosis (Docampo 1990)
+
+【29】Gastrointestinal: Mucous membrane abnormality (Docampo 1990)
+
+【30】Local: Local discomfort (Health Canada 2019), local pain (Health Canada 2019), local skin discoloration (Health Canada 2019)
+
+【31】Contraindications
+
+【32】OTC labeling: When used for self-medication, do not use in the eyes or on ulcerative lesions.
+
+【33】Warnings/Precautions
+
+【34】**_Concerns related to adverse effects:_**
+
+【35】• Staining: Use will result in staining of skin and clothing. Application to ulcerative lesions may result in tattooing.
+
+【36】**_Disease-related concerns:_**
+
+【37】• Cancer: Animal studies have concluded that there is a potential link to cancer following oral exposure of gentian violet; cases of cancer in humans have not been reported (Health Canada 2019).
+
+【38】**_Other warnings/precautions:_**
+
+【39】• Appropriate use: When used for self-medication (OTC use), patients should notify healthcare provider if redness, irritation, swelling, or pain persists or increases, or if infection occurs. For external use only; avoid contact with eyes.
+
+【40】Warnings: Additional Pediatric Considerations
+
+【41】Gentian Violet can cause ulceration of mucous membranes in neonates and young infants. Case reports in infants using 1% or 2% gentian violet suggest that application for as little as 4 days may lead to ulceration, which can be masked by the purple staining. Mechanism for ulceration is unclear; it may be related to alcohol content or direct irritating effect of gentian violet. Close monitoring is recommended; some experts suggest limiting the use of gentian violet to once or twice daily and only using for a short period of time . Some products may contain alcohol (up to 10%); use caution when using on infants and children.
+
+【42】Dosage Forms: US
+
+【43】Excipient information presented when available (limited, particularly for generics); consult specific product labeling.
+
+【44】Solution, External:
+
+【45】Generic: 1% ; 2% 
+
+【46】Generic Equivalent Available: US
+
+【47】Pricing: US
+
+【48】**Solution** (Gentian Violet External)
+
+【49】1% (per mL): $0.14
+
+【50】2% (per mL): $0.27
+
+【51】**Disclaimer:** A representative AWP (Average Wholesale Price) price or price range is provided as reference price only. A range is provided when more than one manufacturer's AWP price is available and uses the low and high price reported by the manufacturers to determine the range. The pricing data should be used for benchmarking purposes only, and as such should not be used alone to set or adjudicate any prices for reimbursement or purchasing functions or considered to be an exact price for a single product and/or manufacturer. Medi-Span expressly disclaims all warranties of any kind or nature, whether express or implied, and assumes no liability with respect to accuracy of price or price range data published in its solutions. In no event shall Medi-Span be liable for special, indirect, incidental, or consequential damages arising from use of price or price range data. Pricing data is updated monthly.
+
+【52】Administration: Pediatric
+
+【53】Topical:
+
+【54】Dermal/skin: Clean the affected area prior to application. Apply directly to the wound or with cotton; do not apply to ulcerative lesions. Do not cover with bandage; keep affected area dry and exposed to air.
+
+【55】Oral candidiasis mouth lesions: Apply topically to affected areas in the mouth. For infants, apply sparingly after feedings.
+
+【56】Administration: Adult
+
+【57】**Topical:** Clean the affected area prior to application. Apply directly to the wound or with a cotton applicator. Do not cover with bandage. Avoid contact with eyes.
+
+【58】Use
+
+【59】Treatment of abrasions, minor cuts, surface injuries, and superficial infections of the skin (OTC product: FDA approved in pediatric patients \[age not specified\] and adults); has also been used to treat oral candidiasis.
+
+【60】Medication Safety Issues
+
+【61】Sound-alike/look-alike issues:
+
+【62】Gentian violet may be confused with gentamicin
+
+【63】Metabolism/Transport Effects
+
+【64】None known.
+
+【65】Drug Interactions  
+
+【66】**Note:** Interacting drugs may **not be individually listed below** if they are part of a group interaction (eg, individual drugs within “CYP3A4 Inducers \[Strong\]” are NOT listed). For a complete list of drug interactions by individual drug name and detailed management recommendations, use the drug interactions program
+
+【67】There are no known significant interactions.
+
+【68】Mechanism of Action
+
+【69】Topical antiseptic/germicide effective against some vegetative gram-positive bacteria, particularly _Staphylococcus_ sp, and some yeast; it is much less effective against gram-negative bacteria and is ineffective against acid-fast bacteria
+
+【70】Brand Names: International
+
+【71】International Brand Names by Country
+
+【72】For country code abbreviations ( show table )  
+
+【73】*   (CN) China : Methylrosanilinum chloride黄艳玲
+
+====================================================================================================
+文本干净度#无关文本#【51】Disclaimer: A representative AWP (Average Wholesale Price) price or price range is provided as reference price only. A range is provided when more than one manufacturer’s AWP price is available and uses the low and high price reported by the manufacturers to determine the range. The pricing data should be used for benchmarking purposes only, and as such should not be used alone to set or adjudicate any prices for reimbursement or purchasing functions or considered to be an exact price for a single product and/or manufacturer. Medi-Span expressly disclaims all warranties of any kind or nature, whether express or implied, and assumes no liability with respect to accuracy of price or price range data published in its solutions. In no event shall Medi-Span be liable for special, indirect, incidental, or consequential damages arising from use of price or price range data. Pricing data is updated monthly.#无

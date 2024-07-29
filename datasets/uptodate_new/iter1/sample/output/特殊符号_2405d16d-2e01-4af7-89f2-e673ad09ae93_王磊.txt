@@ -1,0 +1,433 @@
+【0】Fexinidazole (United States: Not commercially available; refer to 'Product Availability' field): Drug information
+
+【1】Contributor Disclosures
+
+【2】For abbreviations, symbols, and age group definitions show table
+
+【3】Pharmacologic Category
+
+【4】*   Antiprotozoal, Nitroimidazole;
+*   Antitrypanosomal
+
+【5】Dosing: Adult
+
+【6】Human African trypanosomiasis
+
+【7】**Human African trypanosomiasis: Oral:**
+
+【8】20 to <35 kg: 1.2 g once daily for 4 days; followed by 600 mg once daily for 6 days.
+
+【9】≥35 kg: 1.8 g once daily for 4 days; followed by 1.2 g once daily for 6 days.
+
+【10】_Missed dose:_ If a dose is missed (ie, not taken on the assigned day), normal dosing should resume the following day until the full course  is complete . If a dose is missed during days 1 to 4 and >1 day has passed, restart treatment course. If a dose is missed during days 5 to 10, ensure that ≥3 doses (out of the 6 doses of the maintenance phase) are correctly taken; while not ideal, a minimum of 7 doses taken correctly (complete loading dose phase \[days 1 to 4\] plus ≥3 doses during the maintenance phase \[days 5 to 10\]) can be considered acceptable. If a second dose is missed, consider alternative treatment .
+
+【11】**Dosage adjustment for concomitant therapy:** Significant drug interactions exist, requiring dose/frequency adjustment or avoidance. Consult drug interactions database for more information.
+
+【12】Dosing: Kidney Impairment: Adult
+
+【13】eGFR ≥30 mL/minute/1.73 m 2 : No dosage adjustment necessary.
+
+【14】eGFR <30 mL/minute/1.73 m 2 : Avoid use (has not been studied).
+
+【15】Dosing: Hepatic Impairment: Adult
+
+【16】Use is contraindicated.
+
+【17】Dosing: Older Adult
+
+【18】Refer to adult dosing.
+
+【19】Dosing: Pediatric
+
+【20】African trypanosomiasis, first-stage or second-stage disease, caused by _Trypanosoma brucei gambiense_
+
+【21】**African trypanosomiasis (sleeping sickness), first-stage (hemolymphatic) or second-stage (with CNS involvement) disease, caused by _Trypanosoma brucei gambiense_ :**
+
+【22】**Note:** Patients with severe second-stage infection (cerebrospinal fluid WBC >100 cells/mm 3 ) should not be treated with fexinidazole if other treatment options (eg, nifurtimox-eflornithine combination therapy) are available.
+
+【23】Children ≥6 years and Adolescents, weighing ≥20 kg:
+
+【24】20 to <35 kg: Oral: Initial: 1,200 mg once daily for 4 days, followed by a maintenance dose of 600 mg once daily for 6 days to complete a 10-day course.
+
+【25】≥35 kg: Oral: Initial: 1,800 mg once daily for 4 days, followed by a maintenance dose of 1,200 mg once daily for 6 days to complete a 10-day course.
+
+【26】**Dosage adjustment for concomitant therapy:** Significant drug interactions exist, requiring dose/frequency adjustment or avoidance. Consult drug interactions database for more information.
+
+【27】Dosing: Kidney Impairment: Pediatric
+
+【28】Children ≥6 years and Adolescents, weighing ≥20 kg:
+
+【29】eGFR ≥30 mL/minute/1.73 m 2 : No dosage adjustment necessary.
+
+【30】eGFR <30 mL/minute/1.73 m 2 : Avoid use (has not been studied).
+
+【31】Dosing: Hepatic Impairment: Pediatric
+
+【32】Children ≥6 years and Adolescents, weighing ≥20 kg: Mild to severe impairment: Use is contraindicated.
+
+【33】Adverse Reactions (Significant): Considerations
+
+【34】Neuropsychiatric effects
+
+【35】Neuropsychiatric effects, including **agitation** , **anxiety** , **abnormal behavior** , **depression** , **suicidal ideation** , **nightmares** , **hallucinations** , **personality changes** , **headache** , **insomnia** , and **tremor** have been observed during fexinidazole therapy.
+
+【36】_Risk factor_ s:
+
+【37】• History of psychiatric disorders
+
+【38】_•_ Psychotic reactions: Concomitant use with disulfiram or disulfiram use within the past 2 weeks
+
+【39】QT interval prolongation
+
+【40】Fexinidazole **prolonged QT interval on ECG** in a concentration-dependent manner (average increase of 19 msec in the QTcF interval).
+
+【41】_Risk factors:_
+
+【42】Drug-induced QTc prolongation/torsades de pointes (TdP) (in general):
+
+【43】• Females 
+
+【44】• Age >65 years 
+
+【45】• Structural heart disease (eg, history of myocardial infarction or heart failure with reduced ejection fraction) 
+
+【46】• Genetic defects of cardiac ion channels 
+
+【47】• History of drug-induced TdP 
+
+【48】• Congenital long QT syndrome 
+
+【49】• Baseline QTc interval prolongation (eg, >500 msec) or lengthening of the QTc by ≥60 msec 
+
+【50】• Electrolyte disturbances (eg, hypocalcemia, hypokalemia, hypomagnesemia) 
+
+【51】• Bradycardia 
+
+【52】• Hepatic impairment 
+
+【53】• Kidney impairment 
+
+【54】• Loop diuretic use 
+
+【55】• Sepsis 
+
+【56】• Concurrent administration of multiple medications (≥2) that prolong the QT interval or medications with drug interactions that increase serum concentrations of QT-prolonging medications .
+
+【57】Adverse Reactions
+
+【58】The following adverse drug reactions and incidences are derived from product labeling unless otherwise specified. Adverse reactions reported in adolescents and adults unless otherwise indicated.
+
+【59】\>10%:
+
+【60】Endocrine & metabolic: Hypocalcemia 
+
+【61】Gastrointestinal: Decreased appetite , dyspepsia , nausea , vomiting 
+
+【62】Nervous system: Dizziness , headache   Headache , insomnia   Insomnia
+
+【63】**Fexinidazole: Adverse Reaction: Headache**
+
+| **Drug (Fexinidazole)**  | **Comparator (Nifurtimox-Eflornithine Combination Therapy)**  | **Population**  | **Indication**  | **Number of Patients (Fexinidazole)**  | **Number of Patients (Nifurtimox-Eflornithine Combination Therapy)**  |
+| --- | --- | --- | --- | --- | --- |
+| 35%  | 25%  | Adolescents and adults  | Second stage, meningoencephalitic human African trypanosomiasis  | 264  | 130  |
+
+【65】**Fexinidazole: Adverse Reaction: Insomnia**
+
+| **Drug (Fexinidazole)**  | **Comparator (Nifurtimox-Eflornithine Combination Therapy)**  | **Population**  | **Indication**  | **Number of Patients (Fexinidazole)**  | **Number of Patients (Nifurtimox-Eflornithine Combination Therapy)**  |
+| --- | --- | --- | --- | --- | --- |
+| 28%  | 12%  | Adolescents and adults  | Second stage, meningoencephalitic human African trypanosomiasis  | 264  | 130  |
+
+【67】Neuromuscular & skeletal: Asthenia , back pain , tremor   Tremor
+
+【68】**Fexinidazole: Adverse Reaction: Tremor**
+
+| **Drug (Fexinidazole)**  | **Comparator (Nifurtimox-Eflornithine Combination Therapy)**  | **Population**  | **Indication**  | **Number of Patients (Fexinidazole)**  | **Number of Patients (Nifurtimox-Eflornithine Combination Therapy)**  |
+| --- | --- | --- | --- | --- | --- |
+| 22%  | 12%  | Adolescents and adults  | Second stage, meningoencephalitic human African trypanosomiasis  | 264  | 130  |
+
+【70】1% to 10%:
+
+【71】Cardiovascular: Chest pain , hypertension , palpitations 
+
+【72】Dermatologic: Hyperhidrosis , pruritus 
+
+【73】Endocrine & metabolic: Hot flash , hypoalbuminemia 
+
+【74】Gastrointestinal: Abdominal distention , constipation , gastritis , sialorrhea , upper abdominal pain 
+
+【75】Hematologic & oncologic: Neutropenia 
+
+【76】Hepatic: Increased serum transaminases (<2%)
+
+【77】Nervous system: Abnormal behavior   Abnormal Behavior , abnormal gait , agitation   Agitation , anxiety   Anxiety , depression (<2%), extrapyramidal reaction , feeling hot , hallucination (<2%), paresthesia , personality changes (<2%), psychotic symptoms (<2%), suicidal ideation (<2%)
+
+【78】**Fexinidazole: Adverse Reaction: Abnormal Behavior**
+
+| **Drug (Fexinidazole)**  | **Comparator (Nifurtimox-Eflornithine Combination Therapy)**  | **Population**  | **Indication**  | **Number of Patients (Fexinidazole)**  | **Number of Patients (Nifurtimox-Eflornithine Combination Therapy)**  |
+| --- | --- | --- | --- | --- | --- |
+| 3%  | 0.8%  | Adolescents and adults  | Second stage, meningoencephalitic human African trypanosomiasis  | 264  | 130  |
+
+【80】**Fexinidazole: Adverse Reaction: Agitation**
+
+| **Drug (Fexinidazole)**  | **Comparator (Nifurtimox-Eflornithine Combination Therapy)**  | **Population**  | **Indication**  | **Number of Patients (Fexinidazole)**  | **Number of Patients (Nifurtimox-Eflornithine Combination Therapy)**  |
+| --- | --- | --- | --- | --- | --- |
+| 4%  | 0.8%  | Adolescents and adults  | Second stage, meningoencephalitic human African trypanosomiasis  | 264  | 130  |
+
+【82】**Fexinidazole: Adverse Reaction: Anxiety**
+
+| **Drug (Fexinidazole)**  | **Comparator (Nifurtimox-Eflornithine Combination Therapy)**  | **Population**  | **Indication**  | **Number of Patients (Fexinidazole)**  | **Number of Patients (Nifurtimox-Eflornithine Combination Therapy)**  |
+| --- | --- | --- | --- | --- | --- |
+| 4%  | 0%  | Adolescents and adults  | Second stage, meningoencephalitic human African trypanosomiasis  | 264  | 130  |
+
+【84】Neuromuscular & skeletal: Muscle spasm , neck pain 
+
+【85】Ophthalmic: Photophobia 
+
+【86】Respiratory: Cough , dyspnea 
+
+【87】Frequency not defined:
+
+【88】Cardiovascular: Prolonged QT interval on ECG
+
+【89】Nervous system: Nightmares
+
+【90】Contraindications
+
+【91】Hypersensitivity to fexinidazole, other nitroimidazole derivatives (eg, metronidazole, tinidazole), or any component of the formulation; hepatic impairment.
+
+【92】Warnings/Precautions
+
+【93】**_Concerns related to adverse effects:_**
+
+【94】• Neutropenia: Neutropenia has been reported in patients receiving fexinidazole, particularly in patients with a baseline ANC <5,000/mm 3 . Avoid concomitant use of medications that may cause neutropenia and monitor leukocyte count periodically.
+
+【95】**_Disease-related concerns:_**
+
+【96】• Hepatic impairment: Use is contraindicated.
+
+【97】• Renal impairment: Avoid use in patients with severe impairment (eGFR <30 mL/minute/1.73 m 2 ).
+
+【98】Product Availability
+
+【99】Prescribing and Access Restrictions
+
+【100】Administration: Adult
+
+【101】**Oral:** Administer during or immediately after the main meal of the day, within 30 minutes of that meal. A meal should consist of at least 250 mL of **solid** food; liquid food is not enough for adequate absorption . Swallow tablet whole (do not break or crush). If a first event of vomiting occurs <2 hours after the administration of fexinidazole, do **not** administer an additional dose; continue with the next scheduled dose the following day (consider use of an antiemetic), and extend treatment 1 day longer. If vomiting occurs >2 hours after fexinidazole administration, the dose is assumed to be sufficiently absorbed. If a second event of vomiting occurs after administration of any other dose, consider an alternative regimen .
+
+【102】Administration: Pediatric
+
+【103】Oral: Swallow tablets whole; do **not** break or crush. Administer during or immediately after the main meal of the day (within 30 minutes of the meal). A meal should consist of ≥250 mL of solid food; liquid food is not enough for adequate absorption . If a first event of vomiting occurs <2 hours after the administration of fexinidazole, do not administer an additional dose; continue with the next scheduled dose the following day (consider use of an antiemetic), and extend treatment 1 day longer. If vomiting occurs >2 hours after fexinidazole administration, the dose is assumed to be sufficiently absorbed. If a second event of vomiting occurs after administration of any other dose, consider an alternative regimen .
+
+【104】**Missed doses:** If a dose is missed (ie, not taken on the assigned day), normal dosing should resume the following day until the full course  is complete . If a dose is missed during days 1 to 4 and >1 day has passed, restart treatment course. If a dose is missed during days 5 to 10, ensure that ≥3 doses (out of the 6 doses of the maintenance phase) are correctly taken; while not ideal, a minimum of 7 doses taken correctly (complete loading dose phase \[days 1 to 4\] plus ≥3 doses during the maintenance phase \[days 5 to 10\]) can be considered acceptable. If a second dose is missed, consider alternative treatment .
+
+【105】Use: Labeled Indications
+
+【106】**Human African trypanosomiasis:** Treatment of first-stage (hemolymphatic) and second-stage (meningoencephalitic) human African trypanosomiasis (HAT) due to _Trypanosoma brucei gambiense_ in patients ≥6 years of age and weighing ≥20 kg.
+
+【107】Limitations of use: Due to the decreased efficacy observed in patients with severe second-stage HAT (cerebrospinal fluid white blood cell count >100 cells/mm 3 ) due to _T. brucei gambiense_ disease, fexinidazole should only be used in these patients if there are no other available treatment options.
+
+【108】Metabolism/Transport Effects
+
+【109】**Substrate** of CYP1A2 (minor), CYP2B6 (minor), CYP2C19 (minor), CYP3A4 (minor); **Note:** Assignment of Major/Minor substrate status based on clinically relevant drug interaction potential; **Inhibits** CYP1A2 (moderate), CYP2C19 (moderate)
+
+【110】Drug Interactions  
+
+【111】**Note** : Interacting drugs may **not be individually listed below** if they are part of a group interaction (eg, individual drugs within “CYP3A4 Inducers \[Strong\]” are NOT listed). For a complete list of drug interactions by individual drug name and detailed management recommendations, use the drug interactions program by clicking on the “Launch drug interactions program” link above.
+
+【112】Abrocitinib: CYP2C19 Inhibitors (Moderate) may increase the serum concentration of Abrocitinib. _Risk C: Monitor therapy_
+
+【113】Agomelatine: CYP1A2 Inhibitors (Moderate) may increase the serum concentration of Agomelatine. _Risk C: Monitor therapy_
+
+【114】Alcohol (Ethyl): May enhance the adverse/toxic effect of Fexinidazole. A disulfiram-like reaction may occur. _Risk X: Avoid combination_
+
+【115】Amisulpride (Oral): May enhance the QTc-prolonging effect of QT-prolonging Agents (Moderate Risk). _Risk C: Monitor therapy_
+
+【116】Anagrelide: CYP1A2 Inhibitors (Moderate) may increase serum concentrations of the active metabolite(s) of Anagrelide. CYP1A2 Inhibitors (Moderate) may increase the serum concentration of Anagrelide. _Risk C: Monitor therapy_
+
+【117】Belzutifan: CYP2C19 Inhibitors (Moderate) may increase the serum concentration of Belzutifan. _Risk C: Monitor therapy_
+
+【118】Bradycardia-Causing Agents: May enhance the arrhythmogenic effect of Fexinidazole. _Risk X: Avoid combination_
+
+【119】Brivaracetam: CYP2C19 Inhibitors (Moderate) may increase the serum concentration of Brivaracetam. _Risk C: Monitor therapy_
+
+【120】Caffeine and Caffeine Containing Products: CYP1A2 Inhibitors (Moderate) may increase the serum concentration of Caffeine and Caffeine Containing Products. _Risk C: Monitor therapy_
+
+【121】Carisoprodol: CYP2C19 Inhibitors (Moderate) may decrease serum concentrations of the active metabolite(s) of Carisoprodol. CYP2C19 Inhibitors (Moderate) may increase the serum concentration of Carisoprodol. _Risk C: Monitor therapy_
+
+【122】Chloroquine: QT-prolonging Miscellaneous Agents (Moderate Risk) may enhance the QTc-prolonging effect of Chloroquine. Management: Monitor for QTc interval prolongation and ventricular arrhythmias when these agents are combined. Patients with additional risk factors for QTc prolongation may be at even higher risk. _Risk C: Monitor therapy_
+
+【123】Citalopram: Fexinidazole may enhance the QTc-prolonging effect of Citalopram. Fexinidazole may increase the serum concentration of Citalopram. Management: Limit citalopram dose to a maximum of 20 mg/day if used with fexinidazole, which is a moderate CYP2C19 inhibitor. Monitor for citalopram toxicity (eg, serotonin syndrome), QTc prolongation, and arrhythmias (including torsades de pointes). _Risk D: Consider therapy modification_
+
+【124】CloBAZam: CYP2C19 Inhibitors (Moderate) may increase serum concentrations of the active metabolite(s) of CloBAZam. CYP2C19 Inhibitors (Moderate) may increase the serum concentration of CloBAZam. _Risk C: Monitor therapy_
+
+【125】Clofazimine: QT-prolonging Miscellaneous Agents (Moderate Risk) may enhance the QTc-prolonging effect of Clofazimine. Management: Monitor for QTc interval prolongation and ventricular arrhythmias when these agents are combined. Patients with additional risk factors for QTc prolongation may be at even higher risk. _Risk C: Monitor therapy_
+
+【126】ClomiPRAMINE: CYP1A2 Inhibitors (Moderate) may increase the serum concentration of ClomiPRAMINE. _Risk C: Monitor therapy_
+
+【127】Clopidogrel: CYP2C19 Inhibitors (Moderate) may decrease serum concentrations of the active metabolite(s) of Clopidogrel. _Risk C: Monitor therapy_
+
+【128】CloZAPine: Fexinidazole may enhance the QTc-prolonging effect of CloZAPine. Fexinidazole may increase the serum concentration of CloZAPine. Management: Monitor for increased clozapine toxicities, including QTc interval prolongation and ventricular arrhythmias when these agents are combined. Patients with additional risk factors for QTc prolongation may be at even higher risk. _Risk C: Monitor therapy_
+
+【129】CYP2B6 Substrates (High risk with Inducers): Fexinidazole may decrease the serum concentration of CYP2B6 Substrates (High risk with Inducers). Management: Avoid concomitant use of fexinidazole and CYP2B6 substrates when possible. If combined, monitor for reduced efficacy of the CYP2B6 substrate. _Risk D: Consider therapy modification_
+
+【130】CYP3A4 Inducers (Moderate): May increase serum concentrations of the active metabolite(s) of Fexinidazole. _Risk X: Avoid combination_
+
+【131】CYP3A4 Inducers (Strong): May increase serum concentrations of the active metabolite(s) of Fexinidazole. _Risk X: Avoid combination_
+
+【132】CYP3A4 Inhibitors (Moderate): May decrease serum concentrations of the active metabolite(s) of Fexinidazole. Management: Avoid use of fexinidazole and moderate CYP3A4 inhibitors when possible. If combined, monitor for reduced fexinidazole efficacy. _Risk D: Consider therapy modification_
+
+【133】CYP3A4 Inhibitors (Strong): May decrease serum concentrations of the active metabolite(s) of Fexinidazole. Management: Avoid use of fexinidazole and strong CYP3A4 inhibitors when possible. If combined, monitor for reduced fexinidazole efficacy. _Risk D: Consider therapy modification_
+
+【134】CYP3A4 Substrates (High risk with Inhibitors): Fexinidazole may increase the serum concentration of CYP3A4 Substrates (High risk with Inhibitors). _Risk X: Avoid combination_
+
+【135】Dabrafenib: Fexinidazole may enhance the QTc-prolonging effect of Dabrafenib. Dabrafenib may decrease the serum concentration of Fexinidazole. _Risk X: Avoid combination_
+
+【136】Dexlansoprazole: CYP2C19 Inhibitors (Moderate) may increase the serum concentration of Dexlansoprazole. _Risk C: Monitor therapy_
+
+【137】Disulfiram: Fexinidazole may enhance the adverse/toxic effect of Disulfiram. _Risk X: Avoid combination_
+
+【138】Domperidone: QT-prolonging Agents (Moderate Risk) may enhance the QTc-prolonging effect of Domperidone. _Risk X: Avoid combination_
+
+【139】DULoxetine: CYP1A2 Inhibitors (Moderate) may increase the serum concentration of DULoxetine. _Risk C: Monitor therapy_
+
+【140】Encorafenib: Fexinidazole may enhance the QTc-prolonging effect of Encorafenib. Encorafenib may increase serum concentrations of the active metabolite(s) of Fexinidazole. _Risk X: Avoid combination_
+
+【141】Escitalopram: Fexinidazole may enhance the QTc-prolonging effect of Escitalopram. Fexinidazole may increase the serum concentration of Escitalopram. Management: Monitor for increased escitalopram toxicities (including increased QTc prolongation and serotonin syndrome) if combined with fexinidazole. Consider limiting the escitalopram dose to 10 mg daily when these agents are combined. _Risk C: Monitor therapy_
+
+【142】Fezolinetant: CYP1A2 Inhibitors (Moderate) may increase the serum concentration of Fezolinetant. _Risk X: Avoid combination_
+
+【143】Fluorouracil Products: May enhance the myelosuppressive effect of Fexinidazole. Fexinidazole may enhance the QTc-prolonging effect of Fluorouracil Products. _Risk X: Avoid combination_
+
+【144】Gadobenate Dimeglumine: QT-prolonging Miscellaneous Agents (Moderate Risk) may enhance the QTc-prolonging effect of Gadobenate Dimeglumine. Management: Monitor for QTc interval prolongation and ventricular arrhythmias when these agents are combined. Patients with additional risk factors for QTc prolongation may be at even higher risk. _Risk C: Monitor therapy_
+
+【145】Grapefruit Juice: May decrease serum concentrations of the active metabolite(s) of Fexinidazole. Management: Advise patients taking fexinidazole to avoid consumption of grapefruit juice. If combined, monitor for reduced fexinidazole efficacy. _Risk D: Consider therapy modification_
+
+【146】Haloperidol: QT-prolonging Miscellaneous Agents (Moderate Risk) may enhance the QTc-prolonging effect of Haloperidol. Management: Monitor for QTc interval prolongation and ventricular arrhythmias when these agents are combined. Patients with additional risk factors for QTc prolongation may be at even higher risk. _Risk C: Monitor therapy_
+
+【147】Lansoprazole: CYP2C19 Inhibitors (Moderate) may increase the serum concentration of Lansoprazole. _Risk C: Monitor therapy_
+
+【148】Levoketoconazole: QT-prolonging Agents (Moderate Risk) may enhance the QTc-prolonging effect of Levoketoconazole. _Risk X: Avoid combination_
+
+【149】Lofexidine: QT-prolonging Miscellaneous Agents (Moderate Risk) may enhance the QTc-prolonging effect of Lofexidine. Management: Monitor for QTc interval prolongation and ventricular arrhythmias when these agents are combined. Patients with additional risk factors for QTc prolongation may be at even higher risk. _Risk C: Monitor therapy_
+
+【150】MATE1/2-K Substrates (Clinically Relevant with Inhibitors): Fexinidazole may increase the serum concentration of MATE1/2-K Substrates (Clinically Relevant with Inhibitors). Management: Avoid use of fexinidazole with MATE1/2-K substrates when possible. If combined, monitor for increased MATE1/2-K substrate toxicities. _Risk D: Consider therapy modification_
+
+【151】Mavacamten: CYP2C19 Inhibitors (Moderate) may increase the serum concentration of Mavacamten. _Risk X: Avoid combination_
+
+【152】Melatonin: CYP1A2 Inhibitors (Moderate) may increase the serum concentration of Melatonin. _Risk C: Monitor therapy_
+
+【153】Moclobemide: CYP2C19 Inhibitors (Moderate) may increase the serum concentration of Moclobemide. _Risk C: Monitor therapy_
+
+【154】Myelosuppressive Agents: May enhance the myelosuppressive effect of Fexinidazole. _Risk X: Avoid combination_
+
+【155】OAT1/3 Substrates (Clinically Relevant): Fexinidazole may increase the serum concentration of OAT1/3 Substrates (Clinically Relevant). Management: Avoid use of fexinidazole with OAT1/3 substrates when possible. If combined, monitor for increased OAT1/3 substrate toxicities. _Risk D: Consider therapy modification_
+
+【156】OCT2 Substrates (Clinically Relevant with Inhibitors): Fexinidazole may increase the serum concentration of OCT2 Substrates (Clinically Relevant with Inhibitors). Management: Avoid use of fexinidazole with OCT2 substrates when possible. If combined, monitor for increased OCT2 substrate toxicities. _Risk D: Consider therapy modification_
+
+【157】OLANZapine: Fexinidazole may enhance the QTc-prolonging effect of OLANZapine. Fexinidazole may increase the serum concentration of OLANZapine. Management: Monitor for increased olanzapine toxicities, including QTc interval prolongation and ventricular arrhythmias when these agents are combined. Patients with additional risk factors for QTc prolongation may be at even higher risk. _Risk C: Monitor therapy_
+
+【158】Omeprazole: CYP2C19 Inhibitors (Moderate) may increase the serum concentration of Omeprazole. _Risk C: Monitor therapy_
+
+【159】Ondansetron: QT-prolonging Miscellaneous Agents (Moderate Risk) may enhance the QTc-prolonging effect of Ondansetron. Management: Monitor for QTc interval prolongation and ventricular arrhythmias when these agents are combined. Patients with additional risk factors for QTc prolongation may be at even higher risk. _Risk C: Monitor therapy_
+
+【160】Pentamidine (Systemic): QT-prolonging Miscellaneous Agents (Moderate Risk) may enhance the QTc-prolonging effect of Pentamidine (Systemic). Management: Monitor for QTc interval prolongation and ventricular arrhythmias when these agents are combined. Patients with additional risk factors for QTc prolongation may be at even higher risk. _Risk C: Monitor therapy_
+
+【161】Pentoxifylline: CYP1A2 Inhibitors (Moderate) may increase the serum concentration of Pentoxifylline. _Risk C: Monitor therapy_
+
+【162】Pimozide: May enhance the QTc-prolonging effect of QT-prolonging Agents (Moderate Risk). _Risk X: Avoid combination_
+
+【163】Piperaquine: QT-prolonging Agents (Moderate Risk) may enhance the QTc-prolonging effect of Piperaquine. _Risk X: Avoid combination_
+
+【164】Pirfenidone: CYP1A2 Inhibitors (Moderate) may increase the serum concentration of Pirfenidone. Management: Avoid concomitant use of pirfenidone and moderate CYP1A2 inhibitors whenever possible. If combined, decrease the pirfenidone dose to 1,602 mg per day  and monitor for increased pirfenidone toxicities. _Risk D: Consider therapy modification_
+
+【165】Probucol: QT-prolonging Miscellaneous Agents (Moderate Risk) may enhance the QTc-prolonging effect of Probucol. Management: Monitor for QTc interval prolongation and ventricular arrhythmias when these agents are combined. Patients with additional risk factors for QTc prolongation may be at even higher risk. _Risk C: Monitor therapy_
+
+【166】Proguanil: CYP2C19 Inhibitors (Moderate) may decrease serum concentrations of the active metabolite(s) of Proguanil. CYP2C19 Inhibitors (Moderate) may increase the serum concentration of Proguanil. _Risk C: Monitor therapy_
+
+【167】Propofol: May enhance the arrhythmogenic effect of Fexinidazole. Propofol may enhance the QTc-prolonging effect of Fexinidazole. _Risk X: Avoid combination_
+
+【168】QT-prolonging Agents (Highest Risk): Fexinidazole may enhance the QTc-prolonging effect of QT-prolonging Agents (Highest Risk). _Risk X: Avoid combination_
+
+【169】QT-prolonging Antidepressants (Moderate Risk): May enhance the QTc-prolonging effect of Fexinidazole. Management: Monitor for QTc interval prolongation and ventricular arrhythmias when these agents are combined. Patients with additional risk factors for QTc prolongation may be at even higher risk. _Risk C: Monitor therapy_
+
+【170】QT-prolonging Antipsychotics (Moderate Risk): May enhance the QTc-prolonging effect of Fexinidazole. Management: Monitor for QTc interval prolongation and ventricular arrhythmias when these agents are combined. Patients with additional risk factors for QTc prolongation may be at even higher risk. _Risk C: Monitor therapy_
+
+【171】QT-prolonging Class IC Antiarrhythmics (Moderate Risk): QT-prolonging Miscellaneous Agents (Moderate Risk) may enhance the QTc-prolonging effect of QT-prolonging Class IC Antiarrhythmics (Moderate Risk). Management: Monitor for QTc interval prolongation and ventricular arrhythmias when these agents are combined. Patients with additional risk factors for QTc prolongation may be at even higher risk. _Risk C: Monitor therapy_
+
+【172】QT-Prolonging Inhalational Anesthetics (Moderate Risk): QT-prolonging Miscellaneous Agents (Moderate Risk) may enhance the QTc-prolonging effect of QT-Prolonging Inhalational Anesthetics (Moderate Risk). Management: Monitor for QTc interval prolongation and ventricular arrhythmias when these agents are combined. Patients with additional risk factors for QTc prolongation may be at even higher risk. _Risk C: Monitor therapy_
+
+【173】QT-prolonging Kinase Inhibitors (Moderate Risk): May enhance the QTc-prolonging effect of Fexinidazole. Management: Monitor for QTc interval prolongation and ventricular arrhythmias when these agents are combined. Patients with additional risk factors for QTc prolongation may be at even higher risk. _Risk C: Monitor therapy_
+
+【174】QT-prolonging Miscellaneous Agents (Moderate Risk): Fexinidazole may enhance the QTc-prolonging effect of QT-prolonging Miscellaneous Agents (Moderate Risk). Management: Monitor for QTc interval prolongation and ventricular arrhythmias when these agents are combined. Patients with additional risk factors for QTc prolongation may be at even higher risk. _Risk C: Monitor therapy_
+
+【175】QT-prolonging Moderate CYP3A4 Inhibitors (Moderate Risk): May enhance the QTc-prolonging effect of Fexinidazole. QT-prolonging Moderate CYP3A4 Inhibitors (Moderate Risk) may decrease serum concentrations of the active metabolite(s) of Fexinidazole. Management: Consider alternatives to this combination. If combined, monitor for QT interval prolongation and ventricular arrhythmias. Patients with additional risk factors for QT prolongation may be at even higher risk. Also monitor for reduced fexinidazole efficacy. _Risk D: Consider therapy modification_
+
+【176】QT-prolonging Quinolone Antibiotics (Moderate Risk): QT-prolonging Miscellaneous Agents (Moderate Risk) may enhance the QTc-prolonging effect of QT-prolonging Quinolone Antibiotics (Moderate Risk). Management: Monitor for QTc interval prolongation and ventricular arrhythmias when these agents are combined. Patients with additional risk factors for QTc prolongation may be at even higher risk. _Risk C: Monitor therapy_
+
+【177】QT-prolonging Strong CYP3A4 Inhibitors (Highest Risk): Fexinidazole may enhance the QTc-prolonging effect of QT-prolonging Strong CYP3A4 Inhibitors (Highest Risk). QT-prolonging Strong CYP3A4 Inhibitors (Highest Risk) may increase the serum concentration of Fexinidazole. _Risk X: Avoid combination_
+
+【178】QT-prolonging Strong CYP3A4 Inhibitors (Moderate Risk): May enhance the QTc-prolonging effect of Fexinidazole. QT-prolonging Strong CYP3A4 Inhibitors (Moderate Risk) may decrease serum concentrations of the active metabolite(s) of Fexinidazole. Management: Consider alternatives to this combination. If combined, monitor for QT interval prolongation and ventricular arrhythmias. Patients with additional risk factors for QT prolongation may be at even higher risk. Also monitor for reduced fexinidazole efficacy. _Risk D: Consider therapy modification_
+
+【179】Ramosetron: CYP1A2 Inhibitors (Moderate) may increase the serum concentration of Ramosetron. _Risk C: Monitor therapy_
+
+【180】Rasagiline: CYP1A2 Inhibitors (Moderate) may increase the serum concentration of Rasagiline. Management: Limit rasagiline dose to 0.5 mg once daily in patients taking moderate CYP1A2 inhibitors. _Risk D: Consider therapy modification_
+
+【181】ROPINIRole: CYP1A2 Inhibitors (Moderate) may increase the serum concentration of ROPINIRole. _Risk C: Monitor therapy_
+
+【182】ROPivacaine: CYP1A2 Inhibitors (Moderate) may increase the serum concentration of ROPivacaine. _Risk C: Monitor therapy_
+
+【183】Sertindole: May enhance the QTc-prolonging effect of QT-prolonging Agents (Moderate Risk). _Risk X: Avoid combination_
+
+【184】Tasimelteon: CYP1A2 Inhibitors (Moderate) may increase the serum concentration of Tasimelteon. _Risk C: Monitor therapy_
+
+【185】Theophylline Derivatives: CYP1A2 Inhibitors (Moderate) may increase the serum concentration of Theophylline Derivatives. Management: Consider avoidance of this combination. If coadministration is necessary, monitor for increased theophylline serum concentrations and toxicities when combined. Theophylline dose reductions will likely be required. _Risk D: Consider therapy modification_
+
+【186】Thioridazine: QT-prolonging Agents (Moderate Risk) may enhance the QTc-prolonging effect of Thioridazine. _Risk X: Avoid combination_
+
+【187】Food Interactions
+
+【188】Following administration with food, the AUC of fexinidazole and its active metabolites was approximately 4- to 5-fold higher compared to the fasted state. Management: Administer during or immediately after the main meal of the day.
+
+【189】Pregnancy Considerations
+
+【190】Adverse events were observed in animal reproduction studies with doses that were also maternally toxic.
+
+【191】Treatment of human African trypanosomiasis during pregnancy is recommended. Fexinidazole can be given after the first trimester to reduce the risk of fetal transmission of the disease, and to prevent maternal death in patients with moderate or severe disease (WHO 2019).
+
+【192】Breastfeeding Considerations
+
+【193】It is not known if fexinidazole is present in breast milk.
+
+【194】According to the manufacturer, the decision to breastfeed during therapy should consider the risk of infant exposure, the benefits of breastfeeding to the infant, and the benefits of treatment to the mother. However, breastfeeding may continue when fexinidazole is used for the treatment of human African trypanosomiasis in lactating patients (WHO 2019).
+
+【195】Dietary Considerations
+
+【196】Food: Take during or immediately after the main meal of the day.
+
+【197】Ethanol: Avoid use of ethanol during treatment and for at least 48 hours after therapy discontinuation.
+
+【198】Monitoring Parameters
+
+【199】Electrolytes, leukocyte count, and LFTs at baseline and during therapy clinically as indicated; mood changes and development or worsening of psychiatric symptoms (consider increased monitoring, including hospitalization during treatment period, when using in patients with a history of psychiatric disorders); signs or symptoms of infection in patients with neutropenia.
+
+【200】Mechanism of Action
+
+【201】Fexinidazole is a nitroimidazole derivative that is thought to be trypanocidal via bioactivation by parasite nitroreductase enzymes to generate reactive amines and damage DNA and proteins.
+
+【202】Pharmacokinetics (Adult Data Unless Noted)
+
+【203】Absorption: Rapid; administration with food increases AUC 4- to 5-fold relative to administration in fasted state.
+
+【204】Distribution: V d : 3,222 ± 1,199 L.
+
+【205】Protein binding: Fexinidazole: 98%; fexinidazole sulfoxide: 41%; fexinidazole sulfone: 57%.
+
+【206】Metabolism: Hepatic via CYP-450; fexinidazole is extensively metabolized to active metabolites fexinidazole sulfoxide and fexinidazole sulfone.
+
+【207】Half-life elimination: Fexinidazole: 15 ± 6 hours; fexinidazole sulfoxide: 16 ± 6 hours; fexinidazole sulfone: 23 ± 4 hours.
+
+【208】Excretion: Urine (<3.2%; as metabolites).王磊
+
+====================================================================================================
+文本干净度#特殊符号#❤️#无

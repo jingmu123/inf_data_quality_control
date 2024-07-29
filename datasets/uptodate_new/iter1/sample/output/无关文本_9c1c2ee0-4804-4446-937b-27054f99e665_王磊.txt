@@ -1,0 +1,252 @@
+【0】Initial evaluation and management of chest wall trauma in adults
+
+【1】INTRODUCTION 
+
+【2】The chest wall, which includes the bony and muscular structures covering the entire thoracic cavity, protects the lungs and mediastinal structures. Patients with chest wall damage warrant careful evaluation since concurrent injury to these internal organs and structures occur commonly. Isolated chest wall injuries are not usually life threatening but can be extremely painful and cause significant morbidity if not recognized and treated appropriately.
+
+【3】This topic will focus on evaluation and management of adults without respiratory distress or hemodynamic instability who have sustained blunt trauma to the chest wall. A general approach to the initial evaluation and management of trauma in adults, and detailed discussions of patients with rib fractures, clavicle fractures, and blunt and penetrating thoracic injuries (including vascular and esophageal injuries), are available separately:
+
+【4】 General adult trauma
+
+【5】 Rib and clavicle fractures
+
+【6】 Internal thoracic trauma
+
+【7】EPIDEMIOLOGY 
+
+【8】Epidemiology of specific injuries is presented below. In general, the trauma literature is biased towards more seriously injured patients because studies of chest trauma are often based upon registries that catalog admitted trauma patients. Patients with minor injuries or isolated rib fractures may not present for care or are discharged and thus do not appear in these registries. As a result, the epidemiology of minor chest wall injuries (eg, muscle contusion and strains) is largely unknown.
+
+【9】 **Rib fractures** – Several studies of chest trauma from motor vehicle collisions (MVCs) found that rib fractures are identified in nearly two-thirds of admitted patients .
+
+【10】 **Sternal fracture** – These occur in up to 8 percent of blunt chest trauma patients and in 18 percent of trauma patients with other concurrent thoracic injuries . Three-fourths of patients with sternal fractures have other associated injuries . Sternal fractures are usually due to a direct, high-energy blow to the sternum and/or rapid deceleration. MVCs are the most common mechanism , with falls, pedestrians struck by motor vehicles, and motorcycle and bicycle accidents accounting for the remainder . Sternal fractures occur more often among passengers in older cars with seatbelts but without airbags (airbags were required in all new cars/light trucks in the United States by 1998).
+
+【11】 **Scapula fracture** – These account for only 1 percent of fractures in patients admitted for blunt trauma and less than 5 percent of fractures to the shoulder complex . Scapula fractures generally involve high-energy forces with over 90 percent associated with other significant injuries, including rib fracture, pneumothorax, and pulmonary contusion . However, as computed tomography (CT) utilization has increased, the diagnosis of scapula fractures (many of which are only seen on CT) has also increased . Typical mechanisms include MVCs, pedestrians struck by motor vehicles, falls in older patients, and occasionally contact sports .
+
+【12】ANATOMY AND INJURY PATTERNS 
+
+【13】The chest wall assists in the mechanics of respiration and protects the vital intrathoracic organs. Chest wall structures are commonly injured while protecting against more devastating internal injuries. The anatomy of the chest wall structures, and the mechanism of injury helps predict when an internal injury may be present.
+
+【14】Anatomy — The chest wall consists primarily of skin, bones (including the thoracic spine , scapulae, clavicles, sternum , and ribs ), costal cartilage, and muscles of the chest and back (including the pectoralis major and minor, intercostals, trapezius, latissimus, rhomboids, and paraspinals ).
+
+【15】The rib cage, intercostal muscles, and costal cartilage form the basic structure of the chest wall . Neurovascular bundles composed of an intercostal nerve, artery, and vein run along the inferior aspect of each rib.
+
+【16】The anterior chest wall contains the sternum  and pectoralis major and minor muscles , as well as the clavicle at its superior border. Posteriorly, the scapula provides added protection to the superior thorax .
+
+【17】The inner lining of the chest wall is the parietal pleura. Visceral pleura covers the major thoracic organs. Between the two is a potential space normally containing a small amount of lubricating fluid, but blood or air can accumulate there following injury.
+
+【18】Injury mechanism and patterns — Blunt chest trauma can occur through a variety of mechanisms; common examples include motor vehicle collisions (MVCs), assaults, and falls. Particularly in older patients, seemingly minor trauma can cause serious injury.
+
+【19】The sternum of a healthy adult requires significant force to fracture, which can occur when a driver's chest strikes the steering wheel or steering column or with sudden, forceful restraint from an across-the-chest seatbelt . The majority of sternal fractures are associated with significant overall injury severity; the most common associated injuries are rib fractures, pulmonary contusions, pneumothoraces, and thoracolumbar vertebral fractures . Similarly, the scapula is a dense bone encased in muscle, and significant force is necessary to fracture it.
+
+【20】Concerning chest wall injuries — Chest wall injuries that are associated with increased risk of significant intrathoracic or intra-abdominal injury include:
+
+【21】 Flail chest 
+
+【22】 Multiple rib fractures (≥3) and displaced rib fractures
+
+【23】 Sternal fracture
+
+【24】 Posterior sternoclavicular dislocation
+
+【25】 Scapula fracture
+
+【26】PREHOSPITAL MANAGEMENT 
+
+【27】Alert patients with signs of chest wall injury but no evidence of respiratory or circulatory compromise or significant internal injury are generally taken directly to the emergency department for evaluation with minimal prehospital intervention. Prehospital management of the trauma patient with more significant blunt thoracic trauma is discussed separately.
+
+【28】INITIAL EVALUATION
+
+【29】Initial assessment — Initial evaluation of the adult with chest wall trauma is based upon the patient's vital signs, clinical presentation, and mechanism of injury. In general, abnormal vital signs are more predictive of severe injury than the mechanism of injury . Hemodynamically unstable patients are resuscitated in accordance with the basic principles of Advanced Trauma Life Support (ATLS), with the emphasis on assessment and stabilization of the airway, breathing, and circulation. The extended focused assessment with sonography in trauma (E-FAST) exam is performed during the circulation assessment, but point-of-care ultrasound can also be performed during diagnostic imaging to identify specific injuries such as rib fractures. The initial evaluation and management of the trauma patient, including those with severe blunt or penetrating chest trauma, is discussed separately.
+
+【30】The following discussion addresses patients without respiratory distress or hemodynamic instability who have sustained blunt trauma to the chest wall. A critical goal is excluding serious injury to internal structures.
+
+【31】History and physical examination — The history and examination should focus on determining whether the patient is at low or high risk of internal injury. Vital signs, general appearance, mental status, and external signs of injury aid in making this determination.
+
+【32】While high-energy trauma correlates with increased risk of internal injury, the significance of the mechanism is unclear. Certain mechanisms warrant more extensive evaluation, such as significant falls (>3 meters \[10 feet\]) or high-impact collisions.
+
+【33】The trauma patient should be completely undressed (keep the examination room warm to prevent hypothermia) so the entire chest and back can be examined, focusing on the following signs suggestive of intrathoracic or intra-abdominal injury. Patients with any of these findings need further diagnostic imaging.
+
+【34】 Assess for rapid respiratory rate, increased effort, accessory muscle use, and hypoxia.
+
+【35】 Evaluate for any asymmetric chest wall motion. Paradoxical movement of a chest segment during respiration suggests flail chest .
+
+【36】 Look for chest wall ecchymosis, imprints, hematomas, or seatbelt sign . An imprint from a steering wheel or an ecchymotic anterior chest should raise concern for underlying pulmonary or aortic injury .
+
+【37】 Palpate the entire chest wall for areas of tenderness, deformity, or depression. Patients with pain and tenderness along the lower ribs, especially when associated with abdominal pain, are at higher risk for intra-abdominal injuries . Tenderness over multiple rib segments suggests multiple rib fractures.
+
+【38】 Palpate the abdomen for tenderness, guarding, or distension.
+
+【39】The hemodynamically stable patient with no concerning examination findings may be observed and discharged, if there is no concern for other injury, or sent to radiology for further evaluation if concerns persist.
+
+【40】Diagnostic imaging
+
+【41】 **Plain radiograph** – Plain chest radiograph (CXR) should be obtained in all patients who present with chest wall trauma, with the following exceptions:
+
+【42】• A patient with a trivial mechanism and injuries clearly limited to the superficial soft tissues
+
+【43】• A hemodynamically stable patient for whom chest computed tomography (CT) scan is planned regardless of CXR findings
+
+【44】The CXR provides useful information while exposing the patient to minimal radiation. In younger patients with isolated chest wall trauma, a CXR is generally sufficient to detect any clinically significant injury . Dedicated rib radiographs (ie, rib series) are rarely indicated.
+
+【45】 **CT** – Patients with chest wall trauma at significant risk for intrathoracic or intra-abdominal injury based upon their mechanism of injury, initial clinical assessment, or fractures identified on CXR warrant advanced diagnostic imaging, generally with a contract-enhanced chest CT scan. CT is more sensitive than CXR for all injuries in patients with chest trauma.
+
+【46】In a younger patient who is alert, hemodynamically stable, and does not have hypoxia or distracting injuries, a chest CT is not routinely necessary as detection of minor injuries on CT may not change management. However, a patient with major blunt chest trauma, or who is older or frail, should have a contrast-enhanced CT as an occult injury may be poorly tolerated . The appropriate use and interpretation of imaging studies is discussed separately.
+
+【47】Patients who have sustained posterior chest wall trauma in the vicinity of the costovertebral angle are at risk for kidney injury, and appropriate investigations should be performed; contrast-enhanced CT scan is the modality of choice for identifying kidney trauma in the hemodynamically stable patient.
+
+【48】 **Ultrasound** – The E-FAST exam is performed as part of the primary trauma survey to identify life-threatening injuries such as pericardial tamponade, hemoperitoneum, and pneumothorax. Point-of-care ultrasound can identify rib and sternal fractures, but such investigations are not part of the standard ultrasound examination in chest wall trauma and depend on operator experience. The role and performance of the ultrasound examination in adult chest wall trauma is discussed in detail separately.
+
+【49】Electrocardiogram — An electrocardiogram (ECG) should be performed on all patients with significant blunt chest trauma. Patients with minor trauma remote from the central or left side of the chest may not need an ECG. ECG findings related to blunt cardiac injury are discussed separately.
+
+【50】MANAGEMENT OF SPECIFIC INJURIES
+
+【51】Bone/muscle contusions and cartilage injuries — Bone and muscle contusions are minor chest wall injuries usually identified by tenderness or ecchymosis on physical examination. Costal cartilage fractures are much less common but also heal with conservative measures after two to three months .
+
+【52】Patients may be discharged if they have isolated chest wall contusions and no evidence of other significant injury following an appropriate workup. Discharged patients should be instructed to return immediately to the emergency department for any concerning symptoms, such as shortness of breath, sudden increase in pain, or fever. The risk of developing pneumonia appears to be extremely low in patients with minor chest wall injuries without rib fracture or underlying pulmonary disease . Patients should be counseled that pain may persist for an extended period following trauma. In an observational study, up to 18 percent of patients with minor chest wall injuries experienced pain for three months after the trauma .
+
+【53】Clavicle fractures — Patients with clavicle fractures often complain of pain exacerbated by shoulder movement and have a deformity of the clavicle. However, fractures of the proximal or distal third of the bone are more challenging to diagnose because they don't always present with a deformity. The diagnosis and management of clavicle fractures are discussed separately.
+
+【54】Rib fractures — Patients with rib fractures have pain that is exacerbated by taking a deep breath. Examination findings include point tenderness on a specific rib, focal tenderness caused by compression of the ribcage distant from the site of pain, bony crepitus, palpable step-off, or diminished breath sounds.
+
+【55】Rib fractures can be diagnosed by ultrasound, plain radiographs, or computed tomography (CT) scan. However, the main goal of obtaining chest radiographs is to look for a pneumothorax, hemothorax, and other signs of intrathoracic injury since nondisplaced rib fractures are often not visualized and management is similar to rib contusions.
+
+【56】Patients, particularly older adults, with multiple rib fractures or displaced rib fractures may need admission due to the increased risk of potentially dangerous complications and concomitant injuries (eg, pulmonary contusion, pneumonia, delayed hemothorax). The disposition of an adult patient with rib fractures is summarized in the algorithm ( algorithm 1 ) and discussed in greater detail separately.
+
+【57】Flail chest — An unstable section of chest wall occurs when three or more adjacent ribs are each fractured in two places, creating one floating segment composed of several rib sections and the soft tissues between them . This section of chest wall exhibits paradoxical motion (ie, it moves in the opposite direction of the uninjured, normal-functioning chest wall) with breathing, but this abnormal movement can be difficult to detect, thus making the diagnosis difficult. Patients with flail chest generally experience significant pain and some respiratory difficulty.
+
+【58】Initial management of flail chest consists of oxygen and close monitoring for early signs of respiratory compromise, ideally using both pulse oximetry and capnography in addition to clinical observation. Stabilization of the segment with manual or object pressure restricts chest wall expansion, thereby interfering with proper respiratory mechanics, and is no longer used.
+
+【59】Patients with severe injuries, respiratory distress, or progressively worsening respiratory function require tracheal intubation and mechanical ventilatory support. However, use of noninvasive positive airway pressure by mask may obviate the need for tracheal intubation in alert patients.
+
+【60】Patients with flail chest should be admitted to the hospital since it is associated with significant morbidity from pulmonary contusion. Flail chest and its management are discussed in greater detail elsewhere.
+
+【61】Sternal fractures — These typically result from a high-energy, direct blow to the anterior chest wall, such as when the driver's chest strikes the steering column or rapid deceleration causes an occupant's chest to slam against their cross-shoulder seatbelt . Sternal fractures range in their severity; they can be isolated or associated with significant injuries, they can be stable or unstable, and they can be nondisplaced or have significant displacement. In general, isolated, nondisplaced sternal fractures are usually relatively benign and have low morbidity and mortality, while sternal fractures occurring with multiple associated injuries have much higher morbidity and mortality .
+
+【62】 **Clinical features** – Patients with sternal fractures usually present with moderate to severe pain (which may be pleuritic) localized to the sternum. Palpation reveals tenderness and occasionally bony crepitus, a depression, or deformity. Anterior chest wall ecchymosis is also common.
+
+【63】 **Diagnostic imaging** – We obtain a contrast-enhanced chest CT if a sternal fracture is diagnosed on radiograph or ultrasound or if there is high clinical suspicion. CT remains the preferred method for diagnosing sternal fracture, and a contrast-enhanced CT also identifies injuries of internal structures. There are no clear guidelines to determine which patients with a sternal fracture warrant imaging with CT, but it is reasonable to obtain CT with the possible exception of patients with nondisplaced, isolated sternal fracture without associated polytrauma (ie, significant injury of at least two body parts). In a large retrospective study of patients with thoracic trauma, 94 percent of sternal fractures  were visible only on chest CT .
+
+【64】Sternal fracture may be diagnosed by plain chest radiograph (CXR), but sensitivity is limited. In several studies, CXR missed the diagnosis in 25 to 50 percent of cases . Lateral views improve sensitivity by an unclear degree.
+
+【65】Ultrasound may be more sensitive and specific than plain radiograph for diagnosing sternal fractures but is operator dependent. Point-of-care ultrasound is discussed further separately.
+
+【66】 **Associated injuries** – Sternal fractures are associated with an increased risk of internal injury and increased mortality when present in a patient with multisystem trauma . Conversely, as the use of CT has increased, diagnosis of isolated sternal fractures has also increased; these are often managed in the outpatient setting with just symptomatic care . The extent of sternal fracture displacement correlates with the risk for associated intrathoracic injury , although even nondisplaced fractures carry a substantial risk, and significant extrathoracic injuries can also occur . Common associated injuries include cranial injury (including intracranial hemorrhage), rib fracture, pulmonary contusion, spinal fracture, retrosternal hematoma, pneumothorax, hemothorax, and extremity injury . Other important, albeit less common, associated injuries include hemopericardium, cardiac contusion, and great vessel or aortic injury. The association with blunt cardiac injury is discussed separately.
+
+【67】If a thoracic spine fracture occurs concomitantly, it may be an unstable burst fracture and should be investigated further . Approximately 19 percent of thoracic spinal fractures are associated with sternal fractures .
+
+【68】 **Electrocardiogram (ECG)** – We obtain an ECG in patients with sternal fracture to assess for myocardial injury. The risk of myocardial injury also increases in the presence of a manubrium fracture or a retrosternal hematoma . Evaluation and management, including use of cardiac biomarkers, are discussed in detail elsewhere.
+
+【69】 **Management** – Isolated sternal fractures tend to be benign injuries that heal without procedural intervention or permanent sequalae . Pain control is the primary goal in managing isolated sternal fractures. In a patient with inadequate pain control from oral or intravenous analgesia, regional anesthesia (eg, periosteal infiltration, sternal block) may be helpful .
+
+【70】Patients should be admitted or observed overnight if they are older or frail, have comorbidities (particularly underlying cardiopulmonary disease or poor pulmonary reserve), have associated intrathoracic injuries, have uncontrolled pain, or are at risk for inadequate follow-up. Consultation with a trauma or general surgeon is recommended for all polytrauma patients or those with an isolated sternal fracture with any degree of displacement.
+
+【71】A hemodynamically stable patient with an isolated, nondisplaced sternal fracture, no other significant injuries, no ECG abnormalities, and adequately controlled pain can be discharged after a brief period of cardiac monitoring in the emergency department. Consultation with a trauma or general surgeon is reasonable, but admission or overnight observation for monitoring is not required . A retrospective study of patients hospitalized with a sternal fracture found that none of the 492 patients with an isolated sternal fracture required tracheal intubation, chest tube insertion, or thoracotomy; nor did they have a complication attributed to the fracture . In the patients with non-isolated sternal fractures, the associated injuries could likely be identified based on symptoms, signs, and contrast-enhanced chest CT.
+
+【72】In the reliable patient, outpatient management with close follow-up with a trauma or general surgeon is a safe and reasonable option . The importance of follow-up should be reinforced since pain that can limit activities often persists for two to three months and there is a risk of developing a delayed hemothorax, although drainage is rarely necessary .
+
+【73】Patients with thoracic wall instability, fracture with severe displacement or subluxation, uncontrolled pain, respiratory insufficiency, or symptomatic malunion or nonunion should be evaluated by an orthopedic or trauma surgeon to determine if operative sternal fixation is warranted . Evidence is mostly from registry studies, small retrospective studies, and case series. Sternal fixation has been associated with improved pain, decreased opioid requirement, and faster recovery with minimal morbidity .
+
+【74】Sternoclavicular dislocation — These result from a direct, high-velocity blow to the medial clavicle or medial compression of the shoulder girdle, as might be sustained from a motor vehicle collision (MVC) or a tackle during a contact sporting event. Posterior dislocations can be dangerous, potentially causing damage to the trachea, lung, or subclavian vessels.
+
+【75】 **Anatomy** – The sternoclavicular (SC) joint is a diarthrodial, saddle-type synovial joint that can sublux or dislocate anteriorly or posteriorly. Anterior dislocations result if the shoulder and arm are posterior to the plane of the body during compression; posterior dislocations result if the shoulder and arm are anterior.
+
+【76】 **Clinical features** – Patients with a posterior SC dislocation commonly present with anterior chest and shoulder pain exacerbated by arm movement but may also complain of dyspnea, dysphagia, or upper extremity paresthesias depending upon if any internal injury was sustained. Examination may reveal a prominence at the SC joint with anterior dislocation, but a corresponding depression may be difficult to detect with a posterior dislocation. It is important to check pulses in the affected extremity.
+
+【77】 **Diagnostic imaging** – In a patient with suspicion for posterior dislocation or internal injury, a contrast-enhanced CT of the chest should be obtained to evaluate both bony and vascular injury . Plain radiographs are not sensitive for detecting SC dislocation, even though special views can be obtained to improve sensitivity (eg, "serendipity view" with beam angled approximately 45 degrees cephalad ).
+
+【78】 **Associated injuries** – Although uncommon, posterior SC joint dislocations can cause significant internal injury such as tracheal compression, subclavian or brachiocephalic vessel laceration or occlusion, damage to the lung parenchyma, pneumothorax, or laryngeal nerve injury (which may present as hoarseness) .
+
+【79】 **Management** – Initial treatment of SC dislocation depends upon the type of dislocation (classified based on displacement of medial end of clavicle) and the severity of associated symptoms:
+
+【80】• Anterior SC subluxations require no immediate treatment. However, a true anterior dislocation should be reduced within 12 to 24 hours since closed reduction is more difficult after 48 hours. Closed reduction can be performed in the emergency department or the following day by an orthopedic surgeon if rapid outpatient follow-up can be ensured .
+
+【81】• Posterior SC dislocations require urgent reduction because they become increasingly difficult to reduce after 24 hours. Many can be reduced under procedural sedation in the emergency department, preferably by an orthopedic surgeon, but ideally should be performed in the operating room. However, in a patient with airway compromise, the emergency clinician may have to perform immediate reduction.
+
+【82】Consultation with cardiovascular surgery is necessary, especially when underlying hematoma is seen on CT, as bleeding from a vascular injury may occur following reduction. Unless immediate reduction must be performed due to airway compromise, the cardiovascular surgeon should evaluate the patient and make needed preparations before the reduction is performed.
+
+【83】Several reduction techniques have been proposed. Most are variations of a traction-abduction method, where traction is applied to the affected arm, which is held in 10 to 15 degrees of extension and 90 degrees of abduction, while pressure is applied to the posterior aspect of the clavicle . Another option is to grasp the proximal clavicle using a sterile towel clip (using sterile technique) and pull it anteriorly while traction is maintained on the arm.
+
+【84】Scapula fracture — Scapula fractures typically involve high-energy forces and should raise suspicion for internal injury. In most patients with scapula fractures, other injuries will take priority in management over the scapula fracture itself. Scapula fractures are increasingly being detected in older patients, especially those with osteoporosis, after low-energy mechanisms such as ground-level falls . Scapula fractures can also occur from forcible impact against contracted muscles during contact sports. Overall functional outcomes for scapular fractures, whether operative or nonoperative, are excellent .
+
+【85】 **Clinical features** – Patients with scapula fractures often complain of posterior chest wall pain, which may be exacerbated by shoulder movement; thus, they keep their arm adducted against their body. Palpation may reveal tenderness. The "floating shoulder" can occur from disruption of the superior shoulder suspensory complex, which is the functional link between the arm and the axial skeleton .
+
+【86】 **Diagnostic imaging** – Scapula fractures may be identified on the initial CXR, but more than one-half are overlooked or not visualized . Dedicated scapula radiographs include anteroposterior, anteroposterior oblique, scapula lateral "Y," and true axillary views. However, chest CT scan is the modality of choice for suspected scapula fracture in all ages, and for any suspected thoracic injury in older adults. CT will identify a scapula fracture, while a dedicated thin-slice CT may be helpful in determining need for surgery and planning operative treatment .
+
+【87】 **Associated injuries** – Scapula fractures from high-energy trauma are associated with intrathoracic injuries, spine and clavicle fractures, and spleen and liver lacerations. Thus, a thorough trauma evaluation and a contrast-enhanced chest CT is warranted if a scapula fracture is identified. In older patients with a low-energy mechanism, specifically impaction of the humeral head into the glenoid fossa, a scapula fracture is often associated with a proximal humerus fracture . Scapula fractures occurring during contact sports are typically not associated with other injuries .
+
+【88】 **Management** – In a patient with a scapula fracture and associated injuries, a consultation with a trauma or orthopedic surgeon is warranted, and most patients will require admission. The patient should have their arm immobilized (ie, sling and swath). Most scapula fractures, especially those that occur from contact sports, are minimally displaced, heal without complication with early immobilization, and rarely require surgery .
+
+【89】A patient can be discharged (ideally after discussion with an orthopedic surgeon to arrange follow-up) if they have no associated injuries identified on CT scan, adequately controlled pain, and only minimal comorbidities and they are ambulatory, independent, and not at risk for inadequate follow-up.
+
+【90】Patients with intra-articular depressed fractures of the glenohumeral joint, medial displacement of the lateral border >25 mm, angular deformity >45 degrees, and displaced double disruptions of the superior shoulder suspensory complex (ie, floating shoulder) should be evaluated by an orthopedic surgeon to determine if surgical scapula fixation is warranted . These indications are based mostly on expert opinion. Fractures with >10 mm of displacement are associated with malunion and worse long-term outcomes, such as chronic pain and abnormal function of the shoulder girdle .
+
+【91】Thoracic spine fracture — Thoracic spine fractures most commonly occur after an MVC, a fall from a height, or penetrating trauma, including gunshot wounds. Clinical features include back pain, midline back tenderness or step-off, and lower extremity neurologic dysfunction. Evaluation and management of these fractures is discussed in detail elsewhere.
+
+【92】Lacerations and puncture wounds — Principles of wound management and closure are discussed elsewhere.
+
+【93】DISPOSITION 
+
+【94】In the absence of injuries to deeper structures or indications for admission presented above, injuries such as chest wall contusions heal with conservative management. Nonsteroidal antiinflammatory drugs (NSAIDs) and acetaminophen are first-line therapy for pain control . Ice may be helpful during the first 48 hours. Opioids should be avoided or minimized; when needed, only a few days' supply is indicated for breakthrough pain when the above measures are insufficient. Patients should be informed that pain can last several weeks but should improve significantly within a few days, and that they may have an occult fracture if the pain is lasting longer than expected .
+
+【95】For patients with isolated scapula or nondisplaced sternal fractures, discharge with close follow-up may be appropriate for healthy, lower-risk patients whose pain is well controlled with oral medications.
+
+【96】For patients, particularly older adults, at risk for pulmonary complications from a significant chest wall contusion or with inspiratory effort limited by pain, incentive spirometry should be provided. Patients should be told to follow up with their primary care clinician as needed but to return to the emergency department immediately for any acute increase in pain, difficulty breathing, or other concerning symptoms.
+
+【97】Links to society and government-sponsored guidelines from selected countries and regions around the world are provided separately.
+
+【98】 **Concerning chest wall injuries** – Chest wall structures are commonly injured while protecting against more devastating intrathoracic, intra-abdominal, or other life-threatening injuries. Chest wall injuries that are associated with significant internal injury include:
+
+【99】• Multiple (≥3) or displaced rib fractures
+
+【100】• Scapula fractures
+
+【101】• Flail chest 
+
+【102】• Sternal fractures
+
+【103】• Posterior sternoclavicular dislocations
+
+【104】 **Clinical features** – Examine the entire chest and back for external signs of injury (eg, ecchymosis, imprints, hematomas, lacerations), focusing on the following signs suggestive of intrathoracic or intra-abdominal injury:
+
+【105】• Hypoxia or signs of respiratory difficulty (eg, accessory muscle use)
+
+【106】• Paradoxical movement of a chest segment during respiration (suggesting flail chest) 
+
+【107】• Steering wheel imprint or seatbelt sign across the chest or abdominal wall 
+
+【108】• Tenderness over multiple rib segments (suggesting multiple rib fractures)
+
+【109】• Palpable deformity of sternum or multiple rib segments
+
+【110】• Abdominal tenderness or guarding
+
+【111】 **Diagnostic imaging** – We obtain a screening chest radiograph (CXR) for any patient with concerning chest wall trauma, but it is not necessary for a minor injury clearly limited to the superficial soft tissues. Patients with chest wall trauma at significant risk for intrathoracic or intra-abdominal injury based upon their mechanism of injury, initial clinical assessment, or CXR findings warrant a contrast-enhanced chest computed tomography (CT) scan.
+
+【112】 **Common injuries**
+
+【113】• Muscle strain, contusion, and cartilage injury
+
+【114】• Clavicle fracture
+
+【115】• Rib fracture
+
+【116】• Thoracic spine fracture
+
+【117】 **Potentially serious or uncommon injuries**
+
+【118】• **Flail chest** – An unstable section of chest wall can occur when three or more adjacent ribs are each fractured in two places . Initial management consists of providing oxygen and close monitoring for signs of respiratory compromise; tracheal intubation and mechanical ventilatory support are needed for respiratory distress or progressively worsening respiratory function.
+
+【119】A patient with a flail chest should be admitted; inpatient management is discussed in greater detail elsewhere.
+
+【120】• **Sternal fracture** – A high-energy direct blow to the anterior chest wall can fracture the sternum, which can be isolated or associated with significant internal injuries. Isolated sternal fractures tend to be benign injuries that heal without procedural intervention and are managed with pain control. However, patients with thoracic wall instability, fracture with severe displacement or subluxation, uncontrolled pain, respiratory insufficiency, or symptomatic malunion or nonunion should be evaluated by an orthopedic or trauma surgeon to determine if operative sternal fixation is warranted.
+
+【121】• **Scapula fracture** – High-energy forces, forcible impact against contracted muscles during contact sports, and ground-level falls in older patients can cause a scapula fracture. Associated internal injuries (eg, intrathoracic injuries, spine fractures, spleen and liver lacerations) can occur; thus, chest CT scan is the imaging modality of choice to evaluate the scapula and exclude internal injuries. Most scapula fractures are minimally displaced, heal with early immobilization, and rarely require surgery. However, patients with intra-articular depressed fractures of the glenohumeral joint, medial displacement of the lateral border >25 mm, angular deformity >45 degrees, and displaced double disruptions of the superior shoulder suspensory complex (ie, floating shoulder) should be evaluated by an orthopedic surgeon to determine if surgical scapula fixation is warranted.
+
+【122】• **Sternoclavicular (SC) dislocation** – A posterior SC dislocation can potentially damage the trachea, lungs, or subclavian vessels and requires urgent reduction, ideally by an orthopedic surgeon in the operating room. Consultation with a cardiovascular surgeon is necessary, especially when underlying hematoma is seen on CT. In a patient with airway compromise, the emergency clinician may have to perform immediate reduction.
+
+【123】An anterior SC subluxation does not require immediate treatment. A true anterior dislocation should be reduced in the emergency department or the following day by an orthopedic surgeon if rapid outpatient follow-up can be ensured.
+
+【124】 **Disposition** – A patient who does not have injuries to deeper structures or a fracture that requires immediate intervention may be appropriate for outpatient treatment with analgesics and specialty follow-up. Incentive spirometry should be provided to patients with inspiratory effort limited by pain. Patients with three or more rib fractures, especially older adults, are at increased risk for significant complications and may need admission for pain control.王磊
+
+====================================================================================================
+文本干净度#无关文本#( algorithm 1 )#无

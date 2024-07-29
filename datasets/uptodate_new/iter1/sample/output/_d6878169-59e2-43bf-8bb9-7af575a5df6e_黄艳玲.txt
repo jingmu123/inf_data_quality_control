@@ -1,0 +1,227 @@
+【0】Differential diagnosis of the orthopedic manifestations of child abuse
+
+【1】INTRODUCTION 
+
+【2】The differential diagnosis of the orthopedic manifestations of child abuse will be discussed here. An overview of the orthopedic manifestations of child abuse and the differential diagnosis of other clinical manifestations of child abuse are presented separately.
+
+【3】DIAGNOSTIC CONSIDERATIONS 
+
+【4】The major considerations in the differential diagnosis of a child with potentially inflicted orthopedic trauma include the following :
+
+【5】 Accidental injury
+
+【6】 Normal variants
+
+【7】 Birth trauma
+
+【8】 Metabolic bone disease
+
+【9】 Skeletal dysplasia (including osteogenesis imperfecta \[OI\])
+
+【10】 Osteomyelitis
+
+【11】 Drug toxicity
+
+【12】 Congenital insensitivity to pain
+
+【13】A careful history and physical examination, in conjunction with additional laboratory tests or radiographic studies, if indicated, usually can lead to the proper diagnosis . Radiographic review with a pediatric radiologist is often a key step in differentiating normal bony variants or bone disease from inflicted injury.
+
+【14】NONINFLICTED TRAUMA 
+
+【15】Unintentional injury is a major consideration in all children who present with orthopedic trauma. This is particularly true in children who present with isolated linear parietal skull fractures or diaphyseal long-bone fractures, because these fractures are common in both intentional and unintentional injury .
+
+【16】Even injuries that are highly suggestive of child abuse, such as femoral fractures in infants, may be caused in unusual accidents . Stairway injuries and falls from the arms of caretakers are important sources of accidental skull and long-bone fractures . The child's injuries must be viewed in the context of the child's age and the purported mechanism of injury .
+
+【17】NORMAL VARIANTS 
+
+【18】The radiographic appearance of some normal variants can mimic the metaphyseal or diaphyseal findings of child abuse.
+
+【19】Metaphyseal variants — Normal metaphyseal variants that have radiographic appearance similar to classic metaphyseal lesions (CMLs) or metaphyseal corner fractures . They may be unilateral or bilateral. These normal variants are contour changes but are in close continuity with normal bone and with the cortex. In contrast, in CMLs, a discrete fracture fragment is separated by radiolucency from the remainder of the metaphysis.
+
+【20】The normal variants include:
+
+【21】 A step-off is an acute angulation (almost 90 degrees) in the extreme portion of the metaphysis adjacent to the physis that is seen in the distal femur, radius, and ulna, and the proximal tibia and fibula .
+
+【22】 A beak is a medial projection that may be seen on the proximal humerus and tibia .
+
+【23】 Proximal tibial cortical irregularity consists of an area of focal cortical irregularity in the medial aspect of the proximal tibial metaphysis, suggesting focal periosteal new bone formation .
+
+【24】 A spur is a discrete longitudinal projection of bone that is continuous with the cortex and extends beyond the metaphyseal margin. It may be seen on the lateral aspect of the distal femur and distal radius, the medial aspect of the distal ulna, and the metacarpals and metatarsals .
+
+【25】Diaphyseal variants — Symmetric, uniform, diaphyseal periosteal elevation involving the humerus, femur, or tibia may be seen as a manifestation of physiologic new bone formation in infants between two and eight months of age .
+
+【26】BIRTH TRAUMA 
+
+【27】The clavicle or humerus can be fractured during the birth process. In one study, in which 9106 newborns were prospectively screened for clavicle fractures, the prevalence was 1 in 213 live births  . All fractures occurred during vaginal deliveries, and none of the infants were in breech presentation. Risk factors for newborn clavicle fractures included large birth weight (average birth weight 3.8 versus 3.4 kg among infants with and without clavicle fractures, respectively), shoulder dystocia, mechanically assisted delivery, and prolonged gestation. In these infants, fracture callus usually is visible or palpable within the first two weeks of life .
+
+【28】Rib fractures also can occur in the setting of a difficult delivery, although this is a rare occurrence. A 2008 case series and review of the literature identified a total of 13 cases . Common features included macrosomia and difficult delivery. Shoulder dystocia occurred in seven cases and ipsilateral clavicle fracture in six.
+
+【29】METABOLIC BONE DISEASE 
+
+【30】Metabolic bone disease is one of the major considerations in the differential diagnosis of child abuse. However, it is very uncommon among children evaluated for abuse. As an example, in a prospective observational study of 2890 children undergoing evaluation for physical abuse, 19 children had metabolic bone disease including vitamin D deficiency (rickets), osteoporosis, hyperparathyroidism, and Menkes disease  .
+
+【31】Similarly to victims of child abuse, children with metabolic bone disease may have periosteal new bone formation or sustain pathologic fractures after seemingly trivial trauma. In contrast to the degree of trauma in children with inflicted injuries, trauma in children with metabolic bone disease actually is trivial. Metabolic bone disease can usually be distinguished from inflicted injury after a complete examination and appropriate laboratory and radiographic studies . Assessment of vitamin D or copper status is **not** routinely indicated, unless clinical evaluation or radiographs reveal signs of metabolic bone disease such as a frail, premature infant, osteopenia, or extreme dietary practices .
+
+【32】Of note, the presence of metabolic bone disease does not exclude the possibility of concurrent child abuse .
+
+【33】Rickets — Metaphyseal lucencies and periosteal new bone formation may be seen in rickets, but the characteristic radiographic and laboratory findings of rickets can usually distinguish this disease from physical abuse as follows:
+
+【34】 **Radiographic findings** – The characteristic radiographic findings of rickets include osteopenia, metaphyseal cupping , physeal widening, enlargement of the costochondral junction ("rachitic rosary" ), and Looser zones (pseudofractures ). Well-developed, radiologically evident rickets is associated with fractures in a significant minority of patients .
+
+【35】By contrast, in a series of 46 infant fatalities due to child abuse with metaphyseal corner fractures, none had radiologic or pathologic findings of rickets, indicating that rickets is not associated with corner fractures .
+
+【36】 **Laboratory findings** – The characteristic laboratory abnormality in rickets is a markedly elevated alkaline phosphatase for age. Other biochemical findings vary depending upon the type of rickets, and may include decreased calcium or phosphate concentrations. These findings usually are not present in children who have been physically abused (unless there is concomitant nutritional neglect) . Metabolic bone disease has become a contentious issue, with some court witnesses claiming that children with low 25-OH vitamin D levels, or even children with normal vitamin D but whose mothers had low vitamin D in pregnancy, suffered fractures with little or no trauma, leading to a false diagnosis of child abuse. Data suggest that simple measures of low 25-OH vitamin D are not associated with an increased risk of fractures .
+
+【37】Limited evidence suggests that children with vitamin D insufficiency or deficiency who lack rachitic changes on plain radiographs are not at higher risk for fracture . Similarly, premature infants who may have risk factors for rickets but do not have documented metabolic bone disease appear to have no increased risk of fractures when compared to former term infants .
+
+【38】Vitamin C deficiency — Vitamin C deficiency (ascorbic acid deficiency, scurvy) may present with bone pain and periosteal reaction. Radiographic findings include large periosteal calcium deposits secondary to subperiosteal hemorrhage and central epiphyseal lucency. Infants and children with ascorbic acid deficiency typically present with irritability, pseudoparalysis (secondary to pain), failure to thrive, and gingival hemorrhage. The prominence of hair follicles on the thighs and buttocks  and the eruption of coiled, fragmented hair with a characteristic corkscrew appearance are specific features of vitamin C deficiency.
+
+【39】Copper deficiency — Copper deficiency may be caused by dietary deficiency or a recessive X-linked disorder of copper metabolism (Menkes disease, kinky hair disease). It is associated with metabolic bone disease that may result in pathologic fractures. However, similar to rickets, copper deficiency has characteristic clinical, laboratory, and radiographic features that can distinguish it from physical abuse.
+
+【40】Predisposing factors for nutritional copper deficiency include low birth weight (<2500 g), prolonged parenteral nutrition, malnutrition, and peritoneal dialysis . Nutritional copper deficiency has not been reported among full-term breast-fed infants or among full-term infants ingesting a formula containing at least 40 mcg/dL of copper. Clinical features of nutritional copper deficiency include :
+
+【41】 Failure to thrive
+
+【42】 Psychomotor retardation
+
+【43】 Hypotonia
+
+【44】 Hypopigmentation
+
+【45】 Prominent scalp veins in palpable periosteal depressions
+
+【46】 Hepatomegaly
+
+【47】 Sideroblastic anemia
+
+【48】 Neutropenia (usually less than 1000/microL)
+
+【49】 Radiologic changes of osteoporosis (blurring and cupping of metaphyses, sickle-shaped metaphyseal spur formation, fractures)
+
+【50】 Plasma copper concentration usually <40 mcg/dL
+
+【51】 Plasma ceruloplasmin concentration <13 mg/dL
+
+【52】Features that distinguish copper deficiency from physical abuse include the characteristic metaphyseal changes (cupping, fraying, and sickle-shaped metaphyseal spurs) . In addition, children with copper deficiency usually have delayed bone age , and symmetric skeletal findings involving the entire skeleton. The skeletal changes are particularly evident in the most rapidly growing bone ends (eg, the wrists, knees, proximal femora and humeri, and costochondral junctions).
+
+【53】If the copper deficiency is severe enough to cause fractures, the other clinical manifestations (as described above) should be present . Nutritional copper deficiency is neither associated with skull fracture or cerebral hemorrhage, nor with rib fractures in full-term infants. Furthermore, nutritional copper deficiency is unlikely if the child lacks a predisposing factor and has normal-appearing bones on skeletal survey . Serum copper and ceruloplasmin concentrations can be measured, if indicated by the clinical constellation, to confirm or refute the diagnosis.
+
+【54】Menkes disease — Menkes disease is a rare X-linked recessive disorder of copper metabolism. The clinical features of Menkes disease are similar to those of nutritional copper deficiency, except that patients with Menkes disease have neither sideroblastic anemia nor neutropenia, and have increased, rather than decreased, muscle tone. Patients with Menkes disease have the following additional clinical features :
+
+【55】 Intrauterine growth retardation
+
+【56】 Microcephaly
+
+【57】 Intracranial hemorrhage associated with cerebral atrophy
+
+【58】 Seizures
+
+【59】 Focal cerebral and cerebellar degeneration
+
+【60】 Steely, kinky, sparse hair (twisted with partial breaks on magnification or "pili torti," which is virtually diagnostic)
+
+【61】 Wormian bones (small, irregular bones along the cranial sutures)
+
+【62】Children with Menkes disease have presented with subdural collections, acute neurologic deterioration, retinal hemorrhage, metaphyseal end plate changes resembling the classic metaphyseal fracture and other fractures, causing potential confusion with abusive head trauma . Cerebral atrophy or excess wormian bones may be a clue, and identification of pili torti under the microscope is virtually diagnostic. Laboratory diagnosis is made by identifying decreased serum copper and ceruloplasmin and confirmed by identifying mutations of the ATP7A gene.
+
+【63】Other conditions — Pathologic fractures also occur in cholestatic liver disease  and several inherited syndromes. Some of these are associated with renal disease (eg, primary hyperoxaluria, autosomal dominant distal renal tubular acidosis, Lowe oculocerebrorenal syndrome). Others are associated with skeletal abnormalities (eg, McCune-Albright syndrome, mucolipidosis II \[I-cell disease\], Gaucher disease, hyperimmunoglobulin E syndrome \[Job syndrome\]) . The additional clinical manifestations of these disorders can usually distinguish them from physical abuse.
+
+【64】CHILDREN WITH SPECIAL NEEDS 
+
+【65】The risk of fracture can be increased in some children with cerebral palsy or other neuromuscular disorders and chronic illnesses, particularly if the child is nonambulatory or has limited mobility. Because these fractures may occur with unrecognized or minor trauma, and because the children are seen as particularly vulnerable to abuse, concerns for abuse sometimes develops. Ambulatory children with milder forms of such disorders are not at increased risk of abuse, and may be safely evaluated consistent with practice in healthy children. Nonambulatory children are at elevated risk due to immobilization and subsequent osteopenia. These children frequently have feeding difficulties limiting calcium intake and absorption that may also contribute to their reduced bone density .
+
+【66】SKELETAL DYSPLASIA
+
+【67】Osteogenesis imperfecta — Osteogenesis imperfecta (OI) is a genetic disorder of collagen formation that results in "brittle" bones that are prone to repeated fracture, often with minimal trauma. OI is classified into several subtypes based upon genetic, radiographic, and clinical characteristics. Because OI is described as causing vulnerability to bruises, subdural hemorrhage and retinal hemorrhage as well, it is the prototype for diseases that may be confused with child abuse . The clinical features, diagnosis, and management of OI are discussed in detail separately.
+
+【68】Similar to children with inflicted trauma, children with severe forms of OI often have multiple fractures in various stages of healing. They also may have metaphyseal, rib, and skull fractures. Although OI is a well-recognized cause of fractures that occur with minimal or no witnessed trauma, OI is a rare disorder and consequently is seldom the underlying cause in such cases. This was illustrated in a study of 39 infants (up to 12 months of age) who had rib fractures . Final diagnoses were child abuse , accidental injuries , birth trauma (one case), and, finally, bone fragility . In addition, in a prospective study of 2890 children undergoing evaluation for abuse, only four were subsequently found to have OI  .
+
+【69】The differentiation between OI and child abuse can be difficult, and relies heavily on careful clinical evaluation . Clinical features highly suggestive of inflicted trauma are discussed separately .
+
+【70】The diagnosis of OI is usually clear when associated characteristic manifestations are present . These include a positive family history, scoliosis, long-bone deformity, growth retardation, hearing loss, and/or dentinogenesis  . Osteopenia (perhaps mild) and wormian bones are almost always present, even in patients with mild disease who may lack other characteristic features. Furthermore, most children with severe OI manifesting as multiple fractures are identified before or shortly after birth and either have blue scleras or a family history .
+
+【71】However, the characteristic features of OI are not universally present, and when this is so, the differentiation from child abuse may be difficult. To further complicate the issue, children with OI are not immune to inflicted trauma .
+
+【72】Severe OI can present as multiple fractures in the perinatal or neonatal period.
+
+【73】Retinal hemorrhages and subdural hematoma, which are red flags for child abuse also can occur in children with OI .
+
+【74】There is no definitive lab test for OI. As in child abuse, the diagnosis of OI is largely clinical, and is based mainly on a careful history and physical examination. No single test can definitively exclude the disease . Analysis of type I collagen genes (which requires skin biopsy for fibroblast culture) and DNA testing of white blood cells for mutations in COL1A1 and COL1A2 can be helpful. Abnormalities either in quantity or quality of type I collagen are present in about 90 percent of OI cases. DNA sequencing to test for mutations of the COL1A1 and COL1A2 genes will detect mutations in patients with OI approximately 95 percent of the time, but false negative results do occur. Many different mutations of the COL1A1 and COL1A2 genes have been documented, some of which are variations of unknown significance. In cases with high clinical concern for OI, skin biopsy and fibroblast culture for collagen analysis can provide complementary information, though the false negative rate for fibroblast culture is 15 percent.
+
+【75】Genetic consultation and/or testing for OI should be considered in children who present with fractures suggestive of abuse if:
+
+【76】 There are no other signs of abuse (eg, bruises or head injury).
+
+【77】 The fracture site is consistent with the history but the mechanism of injury seems too minor to have caused fracture.
+
+【78】 The child has sustained fractures in different environments.
+
+【79】The safety of the child should be ensured until the results of the evaluation are complete.
+
+【80】DEXA scanning or CT evaluation for bone mineral density may have a role as an adjunct in diagnosis of OI since virtually all adults, and most children , with OI have osteoporosis. Moreover, in a healthy growing child, bone density increases with age, whereas in a child with OI, bone density will decrease or remain the same as the child gets older. Thus, two DEXA scans, four to six months apart, are typically required to evaluate a child for possible OI. This requirement for a repeat DEXA scan poses an important limitation for the use of bone mineral density studies to differentiate child abuse from mild OI in the acute setting at the time the child presents .
+
+【81】Infantile cortical hyperostosis (Caffey disease) — Infantile cortical hyperostosis (Caffey disease, Caffey-Silverman disease) is characterized by fever (sometimes as high as 40°C \[104ºF\]), irritability, subperiosteal bone hyperplasia, and swelling of overlying soft tissues . The bone changes typically begin before six months of age and resolve by two years . Leukocytosis, elevated ESR, and elevated alkaline phosphatase are common laboratory findings . These clinical features in conjunction with radiologic demonstration of periosteal involvement establish the diagnosis.
+
+【82】Radiographic manifestations include cortical diaphyseal periosteal new bone formation, typically of the mandible, long bones, clavicles, scapulae, and ribs, although any bone may be involved. The mandible is involved in 95 percent of cases, and mandibular involvement is useful in differentiating Caffey disease from child abuse. Periosteal reaction of a single bone (except the mandible) is suggestive of trauma (inflicted or otherwise) .
+
+【83】Infantile cortical hyperostosis is transmitted as an autosomal dominant trait with incomplete penetrance . It has been linked to a mutation in the gene encoding the alpha 1 chain of type I collagen (COL1A1) on chromosome 17q21 .
+
+【84】INFECTION
+
+【85】Congenital syphilis — The skeletal changes of congenital syphilis usually involve the metaphysis and diaphysis of the long bones . Metaphyseal lesions appear as irregular bands of decreased mineralization or focal circumscribed areas of metaphyseal and cortical bone destruction . The lesions are usually, but not always, symmetric . Wimberger sign (destruction of the medial aspect of the proximal tibial metaphysis) is characteristic, but not pathognomonic . The lesions can manifest as pseudoparalysis (refusal to move an affected limb) and may result in pathologic fractures.
+
+【86】Clinical manifestations of congenital syphilis in children younger than two years of age can help to differentiate it from physical abuse. These include cutaneous lesions, hepatosplenomegaly, jaundice, anemia, and snuffles. Laboratory abnormalities may include leukocytosis, monocytosis, and a Coombs-negative hemolytic anemia . Serum Venereal Disease Research Laboratory (VDRL) test or rapid plasma reagin (RPR) titers four times higher than maternal titers confirm the diagnosis. Congenital syphilis is discussed in detail separately.
+
+【87】Osteomyelitis — Children with acute osteomyelitis may present with a warm, swollen, tender extremity. Similar findings may be present in a child with repeated or severe injury and extensive subperiosteal bleeding . In contrast to the abused child whose radiograph may demonstrate extensive periosteal reaction, bone changes are not usually present in early acute osteomyelitis. However, bone changes often are present in late acute, subacute, and chronic osteomyelitis. In addition, children with osteomyelitis usually have increased acute-phase reactants (erythrocyte sedimentation rate \[ESR\] and C-reactive protein \[CRP\]) and may have an increase or left shift in the white blood cell count.
+
+【88】TOXICITY
+
+【89】Vitamin A — Chronic over ingestion of vitamin A may cause thick periosteal reaction of the tubular bones, widening of the cranial sutures, premature physeal closure, muscle tenderness, bone tenderness and hypercalcemia, and pathologic fracture . Elevation of serum vitamin A concentration is diagnostic .
+
+【90】Methotrexate — Skeletal manifestations of methotrexate osteopathy include osteopenia, particularly of the lower extremities, dense provisional zones of calcification, growth arrest lines, and pathologic fractures .
+
+【91】Prostaglandin — Reversible, symmetrical periostitis of the long bones, associated with limb pain and swelling, has been observed in children treated with prostaglandins for cyanotic congenital heart disease .
+
+【92】Interleukin-11 — Reversible periostitis of the clavicle, humerus, forearm, and lower-extremity long bone also has been reported among children treated with interleukin-11 for thrombocytopenia .
+
+【93】INSENSITIVITY TO PAIN 
+
+【94】Insensitivity to pain can predispose patients to recurrent injury that can mimic inflicted trauma . Insensitivity to pain may be a manifestation of hereditary sensory autonomic neuropathy or other disorders with sensory deficits (eg, myelodysplasia, cerebral palsy).
+
+【95】Congenital — Congenital insensitivity to pain, also known as hereditary sensory autonomic neuropathy (HSAN) type 4, is a rare, autosomal recessive disorder. Because these children do not feel pain, they are prone to repetitive injury that may be difficult to differentiate from abuse. Careful clinical history and neurosensory examination can make the diagnosis. Patients with HSAN are unable to sense pain and often temperature, but all other sensation (light touch, deep touch, proprioception) remains intact . Congenital insensitivity to pain is discussed in detail separately.
+
+【96】OTHER 
+
+【97】Other conditions that may be associated with extremity pain, periosteal reaction, pathologic fractures, or cortical deficits include childhood cancers (eg, leukemia, primary bone tumors, metastatic neuroblastoma) and placement of intraosseous vascular catheters . These conditions can be distinguished from physical abuse by history and associated clinical features.
+
+【98】Multiple other genetic disorders that create susceptibility to fracture have been described in the context of child abuse . Most have unique clinical features that make them more easily distinguished from abuse fractures in healthy children. As with any other child with chronic disease, these patients can also be abused and the timing of presentation of the fracture, and the pattern should be carefully compared to the history.
+
+【99】CHILD PROTECTION 
+
+【100】Suspected child abuse should prompt involvement of an experienced child protection team (eg, social worker, nurse, child abuse subspecialist), if available. In many parts of the world (including the United States, United Kingdom, and Australia), a mandatory report to appropriate governmental authorities is also required for cases of suspected abuse.
+
+【101】Links to society and government-sponsored guidelines from selected countries and regions around the world are provided separately.
+
+【102】 **Diagnostic considerations** – The major considerations in the differential diagnosis of a child with potentially inflicted orthopedic trauma include the following:
+
+【103】• Noninflicted injury
+
+【104】• Normal bony variants
+
+【105】• Birth trauma
+
+【106】• Metabolic bone disease
+
+【107】• Skeletal dysplasia (including osteogenesis imperfecta)
+
+【108】• Bone infection
+
+【109】• Drug toxicity
+
+【110】• Congenital insensitivity to pain
+
+【111】A careful history and physical examination, in conjunction with additional laboratory tests or radiographic studies, if indicated, usually indicates the proper diagnosis. Radiographic review with a pediatric radiologist is often a key step in differentiating normal bony variants or bone disease from inflicted injury.
+
+【112】 **Child protection** – Suspected abuse should prompt involvement of a child abuse team, if available and reporting to appropriate government authorities as required by law.黄艳玲
+
+====================================================================================================

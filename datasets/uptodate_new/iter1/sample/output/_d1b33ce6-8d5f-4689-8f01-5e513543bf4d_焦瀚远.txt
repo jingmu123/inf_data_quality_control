@@ -1,0 +1,116 @@
+【0】<i>Clostridioides difficile</i> infection in children: Microbiology, pathogenesis, and epidemiology
+_Clostridioides difficile_ infection in children: Microbiology, pathogenesis, and epidemiology
+
+【1】INTRODUCTION 
+
+【2】_Clostridioides_ _difficile_ is an important cause of antibiotic-associated diarrhea and one of the most common health care-associated pathogens . Its clinical manifestations range from asymptomatic colonization or mild diarrhea to fulminant disease characterized by ileus, toxic megacolon, hypotension, or shock. _C. difficile_ infection is less common in children than adults, but the incidence of _C. difficile_ infection in children is increasing .
+
+【3】The microbiology, pathogenesis, and epidemiology of _C. difficile_ infection in children will be discussed below. The clinical features, diagnosis, treatment, and prevention of _C. difficile_ infection in children are discussed separately.
+
+【4】_C. difficile_ infection in adults also is discussed separately.
+
+【5】MICROBIOLOGY
+
+【6】Organism — _C. difficile_ is an anaerobic, gram-positive, spore-forming, toxin-producing bacillus. It exists in spore form in the environment. The spores are metabolically dormant and resistant to heat, acid, antibiotics, and most disinfectants. After _C. difficile_ spores reach the intestine, they germinate into the vegetative form, which is capable of producing toxins and is susceptible to killing by antimicrobial agents.
+
+【7】_C. difficile_ is widely distributed in nature. It has been found in water, soil, food products, domestic and farm animals, and households . Within health care facilities, _C. difficile_ has been cultured from the hands of patients and health care personnel, hospital surfaces, medical equipment, and hospital pet therapy dogs . _C. difficile_ can persist on hospital surfaces for months .
+
+【8】Toxins — Toxins A and B are the major virulence factors of _C. difficile_ . They are encoded by genes ( _tcdA_ and _tcdB_ ) located on a pathogenicity locus that also contains three regulatory genes. Nontoxigenic strains lack the _tcdA_ and _tcdB_ genes and are nonpathogenic. Toxins A and B mediate disease by disrupting the cytoskeletal structure of intestinal epithelial cells, resulting in inflammation and cell death . Toxin A ("enterotoxin") causes inflammation leading to mucosal injury and intestinal fluid secretion . Toxin B ("cytotoxin") is essential for the virulence of _C. difficile_ and is more potent than toxin A in mediating colonic mucosal damage . Thus, strains lacking toxin A can be as virulent as strains with both toxins . Fecal toxin levels may correlate with disease severity .
+
+【9】The NAP1/BI/027 strain has unique characteristics: It possesses a deletion in the _tcdC_ gene (a negative regulator of toxin production), produces a third toxin (binary toxin), and is resistant to fluoroquinolones .
+
+【10】PATHOGENESIS 
+
+【11】The pathogenesis of _C. difficile_ disease is incompletely understood. However, disease expression is known to involve :
+
+【12】 Alteration of the colonic microbiota (usually, but not always, following antibiotic therapy)
+
+【13】 Ingestion, colonization, and overgrowth of _C. difficile_
+
+【14】 Production of _C. difficile_ toxin(s) (necessary but not sufficient to cause clinical disease)
+
+【15】 Injury to and inflammation of intestinal epithelium
+
+【16】Other factors may include:
+
+【17】 Production of antitoxin antibodies – Adults colonized with _C. difficile_ who have low or undetectable levels of antibody against toxin A are more likely to develop diarrhea than those with detectable antibody . Production of antitoxin antibodies following a primary _C. difficile_ infection is associated with protection against recurrent disease . In addition, in randomized trials in adults with _C. difficile_ infection, bezlotoxumab , a monoclonal antibody against toxin B, lowered the risk of recurrent disease .
+
+【18】 Colonization with nontoxigenic strains, which may afford protection against disease from toxigenic _C. difficile_ .
+
+【19】 Variable expression of intestinal toxin receptors – As an example, newborn rabbits lack intestinal receptors for toxin A and are resistant to disease, whereas newborn pigs have receptors and are susceptible to _C. difficile_ infection .
+
+【20】EPIDEMIOLOGY
+
+【21】Incidence — In 2019, active population-based surveillance in the United States estimated that the incidence of _C. difficile_ infection in children <18 years was 34.8 cases per 100,000 population; approximately three-quarters of cases were community associated (stool sample collected on an outpatient basis or within three days after hospital admission in a person with no documented overnight stay in a health care facility in the preceding 12 weeks) .
+
+【22】In the early 2000s, an increase in the frequency and severity of _C. difficile_ infection in adults was observed in several hospitals in North America . These hospital outbreaks were largely attributed to the NAP1/BI/027 strain . Since then, the incidence of _C. difficile_ infection has increased considerably. In the United States, the incidence of _C. difficile_ \-related hospitalizations more than doubled between 2000 and 2009 .
+
+【23】Increased frequency of _C. difficile_ infection has also been documented for children . The highest incidence of _C. difficile_ infection occurs in children one to five years old .
+
+【24】The majority of _C. difficile_ infections in children are community associated. Population-based studies suggest that 70 to 75 percent of pediatric _C. difficile_ infections are community associated . Children with community-associated infection tend to be healthier and have lower rates of exposure to antibiotics and acid suppressants than children with health care-associated disease .
+
+【25】Severe disease — Children can experience severe disease and complications from _C. difficile_ infection, although with significantly lower frequency than adults. Data on the frequency of severe disease in children are limited by the absence of a validated definition. Estimation of disease severity in children is inaccurate when adult criteria for severe _C. difficile_ disease are applied to children .
+
+【26】Studies report that 3 to 7 percent of children with _C. difficile_ develop a fulminant disease – hypotension or shock, ileus, or toxic megacolon . No temporal change in the incidence of colectomy or death has been noted in hospitalized children with _C. difficile_ despite the increased incidence of _C. difficile_ infection .
+
+【27】Colonization — Asymptomatic intestinal colonization with toxigenic _C. difficile_ is common in the neonatal period and infancy . This phenomenon has two important implications:
+
+【28】 _C. difficile_ may be an incidental finding in neonates and infants with diarrhea.
+
+【29】 Neonates and infants may be a reservoir of _C. difficile_ .
+
+【30】Neonates and infants — Colonization with toxigenic or nontoxigenic _C. difficile_ is common during the first year of life. Early acquisition during the neonatal period and acquisition later in infancy has been described . Colonization generally persists for a few months, though it can persist for up to 12 months or longer . Shifts between toxigenic and nontoxigenic strains over time have been observed .
+
+【31】The rate of colonization reported in the literature varies widely due to differences in the testing method employed and the population studied. In a meta-analysis of observational studies, the estimated proportion of colonization with toxigenic or nontoxigenic _C. difficile_ increased from 15 percent  in infants <7 days of age to 41 percent  in those 6 to 12 months of age, the peak age for asymptomatic colonization . The estimated proportion of colonization with toxigenic _C. difficile_ increased from ≤6 percent in infants <3 months of age to 14 percent  in infants 6 to 12 months of age.
+
+【32】The most common source of _C. difficile_ acquisition among hospitalized neonates and infants is the hospital environment, and the risk of colonization increases with the duration of the hospital stay . Maternal-infant transmission is only rarely described . Various host factors influence _C. difficile_ colonization rates during infancy. Higher rates of colonization are reported in infants who are formula fed (versus breast fed), preterm (versus term), hospitalized, and recently exposed to antibiotics . Studies evaluating mode of delivery and colonization status have inconsistent findings .
+
+【33】Although neonates and infants frequently are colonized with toxigenic _C. difficile_ , they rarely develop symptomatic disease . High levels of _C. difficile_ organisms and toxins (levels similar to those in adults with pseudomembranous colitis) can be found in the stools of healthy, asymptomatic neonates and infants . The reasons for this paradox have not been fully elucidated. An absence of intestinal receptors for _C. difficile_ toxins has been proposed. Additionally, in a prospective cohort study, colonization with toxigenic _C. difficile_ during infancy was associated with antibody response against toxins A and B; whether these antibodies protect against _C. difficile_ infection and how long they persist requires additional investigation .
+
+【34】Neonates and infants may be a reservoir of _C. difficile_ for vulnerable individuals. Toxigenic strains known to circulate in adults have been detected from asymptomatic infants . Additionally, in a case-control study among adults with community-associated diarrhea, individuals with _C. difficile_ infection were more likely to report contact with children ≤2 years old .
+
+【35】Children — Beyond infancy, children have lower rates of colonization. By approximately two to three years of age, toxigenic strain colonization rates decrease to 6 to 8 percent, similar to rates in nonhospitalized adults . Elevated colonization rates  have been described among hospitalized children and children with malignancy, cystic fibrosis, or inflammatory bowel disease .
+
+【36】Transmission — In health care settings, _C. difficile_ can be spread through human hands, contaminated with _C. difficile_ spores, and through contamination of the health care environment . Factors associated with health care acquisition of _C. difficile_ include ward-level antibiotic use and assignment to a room in which a previous patient had _C. difficile_ . Although molecular studies suggest that symptomatic patients and asymptomatic carriers transmit _C. difficile_ in the hospital setting , in studies from pediatric facilities, transmission from symptomatic patients appears to be uncommon . Asymptomatic carriers may be an important source of _C. difficile_ transmission without health care exposure .
+
+【37】_C. difficile_ is increasingly acquired in the community by patients without prior health care exposure, antimicrobial treatment, or other established risk factors . Asymptomatically colonized neonates and infants may be a source of _C. difficile_ transmission to adults .
+
+【38】Hypervirulent strains — Data regarding the prevalence of infection with hypervirulent strains (NAP1/BI/027) in children are limited. No data have suggested outbreaks in children or increased severity associated with the NAP1/BI/027 strain. The proportion of pediatric _C. difficile_ stool samples that are the NAP1/BI/027 strain has ranged from <1 to 23 percent .
+
+【39】RISK FACTORS
+
+【40】Antibiotic exposure — Exposure to antibiotics is the single-most important risk factor for both health care-associated and community-associated _C. difficile_ infection . Any antibiotic may predispose to _C. difficile_ infection, though the risk varies across antibiotic classes . Amoxicillin-clavulanate , cephalosporins, clindamycin , and fluoroquinolones are most frequently implicated . Sulfonamides, tetracyclines , vancomycin , metronidazole , and aminoglycosides are infrequently implicated in children. In pediatric studies, exposure to multiple classes of antibiotics in the preceding 30 days has been associated with severe and recurrent _C. difficile_ infection .
+
+【41】_C. difficile_ infection, including severe disease, can occur in children without prior antibiotics . In large observational studies, antimicrobial exposure was absent in >40 percent of cases of _C. difficile_ in children .
+
+【42】Other risk factors — Proton pump inhibitors, and to a lesser extent histamine-2 receptor antagonists, have been associated with an increased risk of _C. difficile_ infection in children and adults . Gastrointestinal feeding devices (ie, gastrostomy or jejunostomy tubes) have also been associated with _C. difficile_ infection in children .
+
+【43】Predisposing conditions — A number of medical conditions are associated with _C. difficile_ infection in children.
+
+【44】 **Malignancy** – Malignancy is the most common chronic condition among hospitalized children with _C. difficile_ infection, accounting for 20 to 25 percent of hospital-based cases . Children with malignancy and _C. difficile_ infection have longer lengths of stay and higher rates of in-hospital mortality compared with children with malignancy without _C. difficile_ infection . They also have increased rates of recurrence .
+
+【45】Several factors may predispose pediatric oncology patients to _C. difficile_ infection: repeated exposures to broad-spectrum antibiotics, receipt of chemotherapy, and frequent visits to health care facilities. Variation in the risk of _C. difficile_ infection has been reported across antibiotic classes for pediatric oncology patients . As an example, in a multicenter cohort, among antipseudomonal antibiotics, cefepime and ceftazidime were independently associated with _C. difficile_ infection, while antipseudomonal penicillins and carbapenems were not .
+
+【46】 **Transplantation** – Pediatric hematopoietic and solid organ transplant recipients have an increased risk of _C. difficile_ infection . _C. difficile_ infection is common following hematopoietic transplantation. In a single-center study, 17 percent of pediatric hematopoietic transplant recipients were diagnosed with _C. difficile_ infection during the 100 days posttransplant . Among solid organ transplant recipients, the incidence of _C. difficile_ infection varies with the transplanted organ. It is highest with pancreatic and intestinal transplantation and lowest with renal transplantation . Calcineurin inhibitors and antibiotic exposure have been associated with _C. difficile_ infection in pediatric solid organ transplant recipients .
+
+【47】 **Inflammatory bowel disease** _–_ Children with inflammatory bowel disease (IBD) have a higher rate of symptomatic _C. difficile_ infection and higher rate of recurrence than the general pediatric population . Hospitalizations related to _C. difficile_ infection are increasing among children with IBD . Among children hospitalized with IBD, _C. difficile_ infection is associated with longer stays, increased need for parenteral nutrition, and increased blood transfusions . _C. difficile_ infection also has been associated with exacerbations of IBD in children .
+
+【48】 **Cystic fibrosis** – Children with cystic fibrosis may be predisposed to _C. difficile_ infection because of their increased exposure to antibiotics and health care settings. Asymptomatic carriage of toxigenic _C. difficile_ appears to be common in children with cystic fibrosis and occurs more frequently than _C. difficile_ infection . However, severe _C. difficile_ infection with typical findings of pseudomembranous colitis has been documented .
+
+【49】 **Hirschsprung disease** – Children with Hirschsprung disease, and other disorders of gut motility, may be susceptible to _C. difficile_ infection due to colonic stasis, changes in mucosal defense, and altered colonic flora. While it is not known definitively whether _C. difficile_ contributes to Hirschsprung enterocolitis, the reports of pseudomembranous colitis occurring in infants with Hirschsprung disease suggest the relationship could be causal in some cases .
+
+【50】 **Structural or postoperative intestinal disorders** – Severe _C. difficile_ disease may occur in children with structural intestinal disorders and after intestinal operations, including placement of an ileostomy. Severe enteritis should prompt consideration of _C. difficile_ disease in such children, in the immediate postoperative period and any time thereafter .
+
+【51】 **Microbiology** – _Clostridioides_ _difficile_ is an anaerobic, gram-positive, spore-forming, toxin-producing bacillus. The spore form of _C. difficile_ is resistant to heat, acid, antibiotics, and most disinfectants, and can persist in the hospital environment for several months.
+
+【52】 **Pathogenesis** – The pathogenesis of _C. difficile_ disease involves altered colonic microflora; _C. difficile_ ingestion, colonization, and overgrowth; toxin production; and toxin injury of intestinal epithelial cells, resulting in inflammation and diarrhea.
+
+【53】 **Colonization** – Asymptomatic _C. difficile_ colonization is common among neonates and infants, peaking between 6 and 12 months of age. Given the high frequency of asymptomatic colonization, _C. difficile_ may be an incidental finding in neonates and infants with diarrhea.
+
+【54】 **Risk factors** – Antibiotic use is the most important risk factor for _C. difficile_ infection in children. The antibiotics most frequently implicated include clindamycin , cephalosporins, and fluoroquinolones. A minority of cases occur without prior antimicrobial exposure.
+
+【55】Additional risk factors for _C. difficile_ infection in children include gastric acid suppressants and gastrointestinal feeding devices.
+
+【56】 **Predisposing conditions** – Certain medical conditions may predispose to _C. difficile_ infection, may increase the risk of severe _C. difficile_ infection, or may be exacerbated by _C. difficile_ infection. These include malignancy, hematopoietic cell or solid organ transplantation, inflammatory bowel disease, cystic fibrosis, and Hirschsprung disease.焦瀚远
+
+====================================================================================================

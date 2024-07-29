@@ -1,0 +1,83 @@
+【0】Glomerulopathy with fibronectin deposits
+
+【1】INTRODUCTION 
+
+【2】Several glomerular disorders result from the deposition or accumulation of proteins within glomeruli that disrupt glomerular structure and function. One of these disorders is glomerulopathy with fibronectin deposits (GFND), also known as fibronectin glomerulopathy, which is a rare, familial glomerular disease caused by the deposition of fibronectin and other matrix-type proteins in glomeruli. Ultrastructurally, the deposits are electron-dense and usually homogenous to finely granular, occasionally showing fibrillar substructure.
+
+【3】GFND will be reviewed here. Other glomerular disorders resulting from the deposition or accumulation of proteins within glomeruli, including amyloidosis, fibrillary glomerulonephritis, immunotactoid glomerulonephritis, and lipoprotein glomerulopathy, are presented in detail elsewhere:
+
+【4】EPIDEMIOLOGY 
+
+【5】Glomerulopathy with fibronectin deposits (GFND) is rare. The disorder has a slight male predominance and has been described mainly in White and Asian individuals . Cases in Black or Hispanic patients have yet to be reported. Although most reported cases have been familial, sporadic cases may occur. As an example, one Chinese patient was described with a typical Y973C mutation of the fibronectin gene , but neither parent had this mutation. Another young Indian woman presented with nephrotic-range proteinuria, a low serum complement C3 level, and what appeared to be a rapidly progressive disease course that was diagnosed as GFND by kidney biopsy . No one in her family had kidney disease, and no mutations were found by exon sequencing of her fibronectin gene. This was, however, a very atypical presentation for GFND.
+
+【6】PATHOGENESIS
+
+【7】Biology of fibronectin — Fibronectin is a large, dimeric glycoprotein consisting of two similar subunits (approximately 250 kDa in weight). It functions as an adhesive glycoprotein, aiding in branching morphogenesis, cellular proliferation, wound healing, phagocytosis, platelet-platelet cohesion that is mediated in part by binding to the glycoprotein IIb/IIIa receptor, and thrombus formation .
+
+【8】Fibronectin normally exists in a soluble or plasma form (which circulates in blood) and an insoluble or cellular form (which is seen in basement membranes and extracellular matrices).
+
+【9】Fibronectin deposition — Although fibronectin is found in the normal glomerular mesangial matrix, enhanced fibronectin accumulation is variably observed in several different glomerulopathies, including diabetic nephropathy and lupus nephritis . The increase in fibronectin expression in these diseases is secondary to locally stimulated mesangial and epithelial cell production of the insoluble or cellular form.
+
+【10】By comparison, glomerulopathy with fibronectin deposits (GFND) is associated with accumulation of fibronectin that is mainly derived from the soluble plasma isoform. This was shown in a study in which the relative amounts of the two different isoforms of fibronectin were quantified by two antibodies, one of which detected both cellular and plasma fibronectins, and the other detected only the cellular form . Investigators examined six unrelated families with GFND and kidney biopsy specimens from a total of 15 patients, as well as nine patients from four other previously reported families. Affected patients had predominant fibronectin deposits, with strong staining using the antibody against both the plasma and cellular forms but weak staining using the antibody against the cellular form.
+
+【11】Recurrent disease in kidney allografts of patients who were transplanted for end-stage kidney disease (ESKD) due to GFND supports the hypothesis that kidney accumulation of fibronectin is most likely due to an underlying abnormality in circulating plasma fibronectin:
+
+【12】 GFND recurred within four months in a 52-year-old woman who presented with proteinuria and reduced kidney function . The patient had a biopsy suggestive of recurrent GFND 19 days after transplantation, although specialized staining to confirm recurrence was not performed at that time.
+
+【13】 Recurrence was observed in a patient in whom a kidney allograft biopsy performed 23 months after transplantation revealed the typical histologic features of GFND .
+
+【14】 Another patient had approximately 14 years of adequate kidney function from a cadaveric kidney prior to biopsy-confirmed recurrent disease in the allograft .
+
+【15】It is unclear why fibronectin is deposited in these cases. Theoretically, fibronectin may be complexed with other proteins. Immunoglobulins do not appear to be involved, as they are generally not seen by immunohistochemical analysis. Proteomic analysis of glomeruli removed from kidney biopsies of patients with GFND by laser capture microscopy showed that, in addition to various isoforms of fibronectin, the deposits contained large amounts of the matrix proteins fibulin-1 and fibulin-5 . This finding was unique to the deposits of GFND. Fibulins were not expressed to a significant extent in normal glomeruli, Kimmelstiel-Wilson nodules of diabetic nephropathy, or in wire-loop lesions of lupus nephritis .
+
+【16】Fibulins bind to fibronectin and regulate several functions of fibronectin, including those related to cell shape, motility, and adhesion . It is possible that fibulin-fibronectin complexes disrupt normal, fibronectin-dependent mesangial and/or podocyte motility, adhesion, and spreading, resulting in the characteristic clinical features.
+
+【17】GENETICS 
+
+【18】Analysis of family clusters indicates autosomal dominant transmission of the genetic defect in glomerulopathy with fibronectin deposits (GFND), with age-related penetrance . Linkage to the fibronectin gene _FN1_ was noted in several Italian and Japanese pedigrees . In one family with eight affected subjects, for example, missense mutations in _FN1_ were detected and then identified in 6 of 15 unrelated pedigrees  with GFND . Although mutations in _FN1_ may be necessary for GFND to develop, they are not sufficient, since not all family members with the mutation develop clinical kidney disease .
+
+【19】Functional studies of mutant fibronectin fragments have revealed decreased binding to glomerular endothelial cells and podocytes and reduced ability to induce endothelial cell spreading and cytoskeletal reorganization compared with wild-type fragments . However, these results depend upon how the mutants were constructed . In studies using full-length fibronectin constructs, several _FN1_ gene mutations found in patients with GFND have had only minimal effects on protein conformation and matrix formation . Analysis of an _FN1_ mutation causing the deletion of an isoleucine residue and GFND in a father and son suggested that this mutation probably disrupts the beta sheet conformation of fibronectin in the vicinity of the lost amino acid, affecting proper folding and impairing functional activity . Prior studies in animal models suggested a possible role for the gene for uteroglobin, a protein that binds with high affinity to fibronectin . However, the uteroglobin gene was eventually excluded as causative for human disease . Thus, it remains unclear how changes in _FN1_ result in glomerular fibronectin deposition.
+
+【20】CLINICAL MANIFESTATIONS 
+
+【21】Glomerulopathy with fibronectin deposits (GFND) is characterized clinically by varying degrees of proteinuria, which is typically first seen between the ages of 20 and 40 years . This is followed, over the next 15 to 20 years, by hypertension, microscopic hematuria, and in most patients, slow progression to end-stage kidney disease (ESKD). Complement levels are normal. GFND is rarely rapidly progressive .
+
+【22】In one of the largest studies, the clinical features of 23 affected patients were reported . Eight of 16 in whom a 24-hour urine specimen was obtained at the time of diagnostic biopsy had more than 3 g of proteinuria. Microscopic hematuria and hypertension were observed in 12 and 10 patients, respectively. The mean plasma creatinine measured at the time of biopsy in 16 patients was 1.1 mg/dL . Among the patients in whom follow-up was available, four patients had normal kidney function, six had slowly progressive kidney function impairment, five were undergoing dialysis (range from time of biopsy was 2 to 13 years), and four had received a kidney allograft.
+
+【23】There also may be an association with hyperkalemic distal renal tubular acidosis .
+
+【24】HISTOPATHOLOGIC FINDINGS AND DIAGNOSIS 
+
+【25】The first histologic examinations of glomerulopathy with fibronectin deposits (GFND) described enlarged glomeruli with minimal hypercellularity and the presence of large deposits in the glomerular capillaries . In a patient with an appropriate clinical presentation, a family history of kidney disease, and histologic features as described in the ensuing sections, immunohistochemistry showing staining for fibronectin in the mesangium and along the capillary walls confirms the diagnosis. Glomeruli may also be microdissected from a kidney biopsy and submitted for proteomic analysis (mass spectrometry) to confirm a diagnosis of GFND .
+
+【26】Light microscopy — Light microscopy shows glomerular enlargement and usually some evidence of minimal cellular proliferation, producing a lobular or clover-like appearance that may be confused with membranoproliferative glomerulonephritis (MPGN). The glomerular capillary walls may be thickened and the mesangium greatly expanded by acellular periodic acid-Schiff (PAS)-positive homogeneous material that can result in severely narrowed capillary lumina. Staining with Congo red or methenamine silver is consistently negative .
+
+【27】There is no consistent specific tubulointerstitial compartment abnormality. However, interstitial fibrosis and tubular atrophy become more prominent over time, a common finding in progressive kidney disease. In one case report, a patient diagnosed with GFND as a child had a repeat kidney biopsy 10 years later when kidney function deteriorated and was found to have plasma fibronectin (by immunochemistry) in extraglomerular arterioles . The blood vessels had severely narrowed lumina, and the patient presented with severe hypertension and hemolytic anemia.
+
+【28】Electron microscopy — Electron microscopy typically reveals large to massive nondescript, electron-dense subendothelial and mesangial deposits. The deposits have been described as finely granular or fibrillar in some cases. If fibrillar, the fibrils are approximately 12 nm in width and 125 nm in length and are typically arranged in an irregular fashion. These fibrils are slightly wider than those seen in amyloid . However, they are thinner than the fibrils in fibrillary glomerulonephritis  and the microtubules of immunotactoid glomerulopathy (greater than 30 nm)  .
+
+【29】A case of GFND without the typical large mesangial and subendothelial fibronectin deposits has been described . Instead, this patient had thin glomerular basement membranes and increased fibronectin staining of the glomerular capillaries associated with a novel gain-of-function mutation in _FN1_ (c.3415G>A). This variant fibronectin induced beta1 integrin overexpression in glomeruli and bound poorly to collagen IV A3 and A4.
+
+【30】Immunofluorescence — Immunoglobulin and complement component staining is absent or weak in GFND. Immunohistochemistry examination showing staining for fibronectin in the mesangium and along the capillary walls confirms the diagnosis . It is the plasma isoform of fibronectin that stains most intensely .
+
+【31】TREATMENT
+
+【32】Approach — The optimal treatment for glomerulopathy with fibronectin deposits (GFND) is uncertain. There are no high-quality data regarding the use of immunomodulating agents, plasmapheresis, or any other specific therapy aimed at the underlying disease. One case report demonstrated a reduction of proteinuria in a patient with GFND after a six-month course of prednisone . Glucocorticoids cannot be generally recommended for all patients with GFND but may be considered on an individual basis.
+
+【33】The most appropriate option is probably the use of nonspecific treatment methods intended to prolong adequate kidney function. This includes strict control of the blood pressure and proteinuria, usually with the administration of angiotensin-converting enzyme (ACE) inhibitors or angiotensin II receptor blockers (ARBs).
+
+【34】End-stage kidney disease — In general, the management of patients who develop end-stage kidney disease (ESKD) due to GFND is similar to that in other types of kidney disease. These patients are good candidates for all forms of kidney replacement therapy. Hemodialysis, peritoneal dialysis, and kidney transplantation have all been used with good success. As previously mentioned, there have been case reports of disease recurrence in transplanted patients, sometimes within the first year after transplantation . However, the true risk for recurrent disease in kidney allograft is not known.
+
+【35】Links to society and government-sponsored guidelines from selected countries and regions around the world are provided separately.
+
+【36】 **General principles** – Glomerulopathy with fibronectin deposits (GFND), also known as fibronectin glomerulopathy, is a rare, autosomal dominant, inherited glomerular disease associated with the massive deposition of the glycoprotein fibronectin. It is most likely caused by an underlying abnormality in circulating plasma fibronectin.
+
+【37】 **Clinical manifestations** – Clinical characteristics include the onset of proteinuria between the ages of 20 and 40 years. This is followed by hypertension, microscopic hematuria, and slow progression to end-stage kidney disease (ESKD) over the next 15 to 20 years. Complement levels are normal. There may be an association with hyperkalemic distal renal tubular acidosis.
+
+【38】 **Diagnosis** – Diagnosis is made only by kidney biopsy. No clinical or laboratory findings are characteristic. The diagnosis is suggested by the presence of large, finely granular, electron-dense deposits. The diagnosis is confirmed by the demonstration of fibronectin staining by immunohistochemistry or glomerular proteomics.
+
+【39】 **Treatment** – The optimal treatment is uncertain. There are no high-quality data regarding the use of immunomodulating agents, plasmapheresis, or any other specific therapy. Nonspecific therapies that may prolong kidney function include strict control of the blood pressure and the administration of angiotensin-converting enzyme (ACE) inhibitors or angiotensin II receptor blockers (ARBs).
+
+【40】 **End-stage kidney disease** – The management of patients who develop ESKD is similar to that in other types of kidney disease. These patients are candidates for all forms of kidney replacement therapy, including transplantation. There have been case reports of disease recurrence in transplanted patients. However, the true risk for recurrent disease in kidney allograft is not well understood.王磊
+
+====================================================================================================

@@ -1,0 +1,119 @@
+【0】Hemoperfusion
+
+【1】INTRODUCTION 
+
+【2】Hemoperfusion is an extracorporeal blood purification modality that consists of the passage of anticoagulated whole blood through a device, usually a column, that contains adsorbent particles . Sometimes referred to as hemadsorption, hemoperfusion is used for the removal of toxins in poisonings and cytokines from septic and inflamed patients . An increasing range of pathogens and molecules can also be removed with novel devices.
+
+【3】However, although hemoperfusion is effective for removing toxins, it is rarely used in the treatment of poisoning  and is among the least available extracorporeal modalities for detoxification .
+
+【4】An overview of hemoperfusion, including the clinical settings in which this technology may be used, is reviewed here. A general introduction to the treatment of poisoning as well as a discussion of the use of other technologies for poisoning, such as hemodialysis and peritoneal dialysis, are presented separately.
+
+【5】MECHANISM 
+
+【6】In hemoperfusion, whole blood is passed through a column that contains fixed adsorbent particles . Engineering of the porous structure of these particles produces columns with varied adsorption properties. Toxins with molecular weights ranging from 100 to 40,000 daltons bind to the particles and are removed as blood exits the column. Binding is through physical adsorption, governed by molecular size and lipophilicity, through hydrophobic interactions, van der Waals interactions, hydrogen bonding, or ionic attraction. Higher-molecular-weight solutes are adsorbed less efficiently .
+
+【7】There are two major types of adsorbent particles, including activated charcoal and resins (such as the hydrocarbon polymer, polystyrene). Charcoal has greater affinity for water-soluble molecules, while resins have greater affinity for lipid-soluble molecules. Although available in Europe, resin columns for hemoperfusion are not available in the United States, except for emergency or compassionate use.
+
+【8】The adsorbent may be modified to provide selective removal of other molecules such as endotoxin, cytokines, or antibodies.
+
+【9】Of note, AN69 hemofilters have a hydrophilic membrane structure (composed of acrylonitrile and sodium methallyl sulfonate copolymer) and adsorb proteins like a hemoperfusion column .
+
+【10】INDICATIONS 
+
+【11】The major accepted indication for hemoperfusion is the removal of lipid-soluble, highly protein-bound toxins (ie, poisoning) that are not easily removed with standard hemodialysis. Hemoperfusion has also been used in some centers for the removal of cytokines in septic patients, the removal of endotoxin or pathogens, the removal of antibodies and antibody-antigen complexes in autoimmune and other disorders, and the removal of hepatic toxins in liver failure.
+
+【12】Poisoning — Hemoperfusion is preferred to hemodialysis alone for paraquat poisoning. Hemoperfusion provides better early clearance of paraquat compared with high-flux hemodialysis . Several retrospective studies have shown that hemoperfusion is associated with increased survival when performed within four to five hours of paraquat ingestion . Hemodialysis or continuous venovenous hemofiltration (CVVH) may also be required in patients with reduced kidney function and indications for dialysis .
+
+【13】Other indications for hemoperfusion in poisoning are less clear. Hemoperfusion used to be preferred to hemodialysis for the removal of large and lipophilic or protein-bound toxins, including barbiturates , theophylline , valproic acid , carbamazepine , amanita mushrooms , and aluminum after chelation with deferoxamine . This initial preference was based upon comparison of hemoperfusion and standard dialysis hemofilters with cuprophane membranes before they were supplanted by modern high-flux \[large-pore\] dialyzers . A poisoning workgroup has published treatment guidelines favoring hemodialysis over hemoperfusion for poisoning due to barbiturates , theophylline , valproic acid , and carbamazepine , and thallium .
+
+【14】Even if high-flux hemodialysis and hemoperfusion are comparable with respect to toxin removal, the increased availability, decreased cost, familiarity, and lower complication rate favors the use of hemodialysis  .
+
+【15】Another advantage of hemodialysis over hemoperfusion is that it corrects concurrent metabolic or acid-base disturbances that may be present and can increase or lower body temperature in the severely hypothermic or hyperthermic patient .
+
+【16】In addition to paraquat, hemoperfusion may yet have an indication in poisonings. Several hours of hemoperfusion may provide additional cytokine reduction and benefit in poisoning due to wasp envenomation . Methotrexate toxicity can be treated with hemoperfusion if antidote ( glucarpidase or carboxypeptidase G2 enzyme) is unavailable .
+
+【17】Sepsis — Hemoperfusion devices containing either the antibiotic polymyxin B or a polystyrene divinylbenzene copolymer have been specifically developed for removing cytokines from patients with sepsis or endotoxemia. Such devices, which we consider investigational, are not available for clinical use in the United States.
+
+【18】 Polymyxin B – An adsorbent column containing resin bound to the antibiotic polymyxin B removes endotoxins that activate the inflammatory cascade . Endotoxin levels decrease within minutes after starting hemoperfusion . Some studies have shown improvements in hemodynamic measures (mean arterial pressure, catecholamine dose), respiratory function, and the sepsis-related organ failure scores . However, large randomized, controlled trials and a meta-analysis have not shown a mortality benefit with this therapy .
+
+【19】 **Polystyrene divinylbenzene copolymer** – Polystyrene divinylbenzene copolymer columns have been developed for use with intermittent hemodialysis, continuous kidney replacement therapy (CKRT) machine, cardiopulmonary bypass, or extracorporeal membrane oxygenation (ECMO) blood circuits . Although data from small observational studies reported improvements in hemodynamic status/vasopressor dose, organ dysfunction, and cytokine levels (particularly interleukin \[IL\]-6 and IL-8) in patients with septic shock  and acute respiratory distress syndrome (ARDS) , a larger randomized trial of patients with sepsis did not confirm these benefits . In a small study of patients with sepsis, compared with CVVH, combining hemoperfusion and high-volume hemofiltration led to cytokine reduction and reduction in mortality, although the relative contribution of hemoperfusion and high-volume hemofiltration to the outcomes is uncertain . Thus, the use of these hemoperfusion columns in sepsis remains experimental.
+
+【20】 **Polystyrene divinylbenzene copolymer with immobilized lipopolysaccharide (LPS)-selective ligand** – A novel column combining resin for cytokine removal and a selective ligand for endotoxin removal has been evaluated for the treatment of intrabdominal sepsis and septic shock in a small pilot study . Patients receiving hemoperfusion were noted to have improved hemodynamics, oxygenation, vasopressor and ventilation requirements, as well as decreased levels of LPS, cytokines, and inflammatory markers. Sufficiently powered clinical trials have not been conducted, and the use of this adsorption column is experimental.
+
+【21】 **Polyethylene** – A column containing polyethylene particles designed to filter pathogens and cytokines from the blood is being evaluated in clinical trials as a potential treatment for septic shock. In a small case series of patients with septic shock, use of this device was associated with improved hemodynamics and oxygenation .
+
+【22】 **AN69 hemofilter** – An interesting device that is a high-flux dialyzer and also an adsorptive surface is the AN69 hemofilter. AN69 hemofilters with heparin surface grafts and additional polyethyleneimine are being evaluated as a potential treatment for sepsis.
+
+【23】Other — Hemoperfusion has been proposed as a therapy for a wide variety of other conditions. Additional settings in which hemoperfusion has been used, albeit without demonstrated clinical benefit, include the following:
+
+【24】 Resin hemoperfusion for cytokine adsorption has been tried as an experimental treatment for cytokine release syndrome or "storm" in patients receiving chimeric antigen receptor modified T cell therapy, patients with hemophagocytic lymphohistiocytosis, patients with dermatomyositis with rapidly progressive interstitial lung disease, and patients with severe coronavirus disease 2019 (COVID-19) infection . A significant concern may be the indiscriminate reduction of cytokines, both pro- and antiinflammatory, based on size rather than function. The possibility of clinical benefit from reduction of cytokine peak concentration in these conditions requires additional study.
+
+【25】 Hemoperfusion with polystyrene divinylbenzene copolymer columns weekly or biweekly in patients with end-stage kidney disease on hemodialysis may improve sleep disturbance and melatonin . Additionally, hemoperfusion added to hemodialysis may augment middle molecule uremic toxin removal (as represented by beta-2-microglobulin and parathyroid hormone) and improve pruritus , with ongoing study regarding overall survival .
+
+【26】 Polystyrene divinylbenzene copolymer column hemoperfusion has been used during cardiopulmonary bypass, in patients with infective endocarditis undergoing cardiac surgery, in patients who survived out-of-hospital cardiac arrest, and in patients on ECMO after cardiopulmonary resuscitation . Some of these studies showed a reduction in cytokine levels, but none reported clinical benefit.
+
+【27】 The removal of pathogenic antibodies and antibody-antigen complexes has been used in multiple conditions including systemic lupus erythematosus, vasculitis, antiglomerular basement membrane disease, pemphigus, atopic dermatitis, Guillain-Barré syndrome, chronic inflammatory demyelinating polyneuropathy, myasthenia gravis, multiple sclerosis , and as a preconditioning protocol to allow for ABO-incompatible kidney transplantation .
+
+【28】Although the standard of care for antibody-mediated conditions is plasmapheresis/therapeutic plasma exchange, a possible advantage of hemoperfusion/immunoadsorption is more specific immune modulation without the requirement of plasma product infusions. However, immunoadsorption is considered experimental for such conditions and has not supplanted apheresis alone for removal of pathogenetic antibodies .
+
+【29】 The removal of hepatic toxins by some extracorporeal liver assist devices also involves adsorption. This issue is discussed elsewhere.
+
+【30】 A novel adsorption device that removes low-density lipoprotein cholesterol and fibrinogen has been approved in Japan for the treatment of atherosclerosis obliterans with lower limb ulcers .
+
+【31】PRESCRIPTION 
+
+【32】Hemoperfusion is conducted using dialysis blood lines and a dialysis machine apparatus containing a blood pump and pressure gauges. The column generally contains between 100 and 300 g of activated charcoal or 300 to 650 g of resin. A list of some of the clinically available hemoperfusion devices and the contained sorbents is shown in the table .
+
+【33】Vascular access — We use a tunneled or nontunneled central venous hemodialysis catheter for most patients. If an arteriovenous fistula or graft is available when the patient also has end-stage kidney disease, it is appropriate to cannulate this access for hemoperfusion.
+
+【34】Selection of cartridge — The choice of cartridge depends upon body size and drug involved. A small cartridge should be utilized for a child or a patient with a tiny habitus. The cartridge will contain polymer-coated charcoal or resin, typically polystyrene divinylbenzene copolymer (Amberlite XAD-4).
+
+【35】Anticoagulation — Anticoagulation is typically required for hemoperfusion, either with systemic heparin or regional citrate. Heparin requirements are likely to exceed that necessary for hemodialysis due to heparin adsorption. The activated clotting time (ACT) should be maintained at approximately 2 to 2.5 times normal or an activated plasma thromboplastin time (APTT) of approximately 60 to 70 seconds. Regional citrate anticoagulation is used in some centers. Priming and flushing of the devices are achieved with normal saline .
+
+【36】Blood flow — The minimum blood flow for efficient drug removal is approximately 300 mL/min. Blood flow should be increased as possible to approximately 450 mL/min.
+
+【37】Pressure gauges detect interior rises in pressure, which indicate clot formation occurring inside the device; this is rare if heparinization is controlled via adequate monitoring of the ACT.
+
+【38】Duration — Intermittent hemoperfusion is usually performed for approximately four hours. Longer treatment times for charcoal hemoperfusion are unlikely to provide additional clearance due to device saturation. Treatment duration of only two hours has been standard in trials for endotoxin removal with a polymyxin B column and some other devices. Reuse of devices is not performed.
+
+【39】Repeat treatments may be necessary once the drug or molecule redistributes from tissues into the plasma following its removal from the plasma compartment (ie, "rebound"). This is associated with increased signs of drug toxicity such as neurologic dysfunction or coma.
+
+【40】We do not use continuous hemoperfusion. Intermittent hemoperfusion is more efficient in addressing the rebound effect and reduces the hematologic side effects of prolonged hemoperfusion. Intermittent therapies also allow the replacement of saturated devices with fresh devices, which restores maximal extraction ratio.
+
+【41】MONITORING 
+
+【42】Drug levels should be monitored, if available. However, reporting of drug levels often takes too long to be clinically useful. In such cases, the patient is started on hemoperfusion based on the history of known or suspected poisoning, and the clinical response is used to guide therapy. Platelet levels should be regularly monitored, such as after each treatment, as decreases in platelet count are not uncommon.
+
+【43】COMPLICATIONS 
+
+【44】The most common side effect of hemoperfusion is thrombocytopenia . The platelet count usually returns to normal within 24 to 48 hours following hemoperfusion . In addition to thrombocytopenia, bleeding risk may also increase due to impaired platelet aggregation and increased fibrinolysis noted during charcoal hemoperfusion . Thrombocytopenia may be worse with resin than with charcoal.
+
+【45】Other side effects include hypocalcemia, hypoglycemia, and neutropenia . These complications are usually minor and correct spontaneously or can be corrected. There is also a mild reduction of one to two degrees in body temperature.
+
+【46】Hypotension is infrequent but well described . If needed, vasopressor agents should be administered distal to the sorbent devices to minimize their adsorption.
+
+【47】The frequency of side effects with charcoal columns has been reduced by coating with a polymer solution that reduces platelet adhesion and complement activation.
+
+【48】COMBINED HEMODIALYSIS/EXTRACORPOREAL TREATMENT AND HEMOPERFUSION 
+
+【49】Hemoperfusion does not remove fluid or correct electrolyte imbalances such as hyperkalemia. Among patients with acute kidney injury, hemodialysis may be also be required.
+
+【50】Hemodialysis may be performed first, followed immediately by hemoperfusion, using the same bloodlines and apparatus.
+
+【51】Alternatively, hemoperfusion may be combined with other extracorporeal treatments such as continuous kidney replacement therapy (CKRT), usually continuous venovenous hemofiltration (CVVH) with the hemoperfusion column placed in the blood circuit upstream from the hemofilter . Alternatively, hemoperfusion alone for several hours may be followed by CVVH for the majority or remainder of a day. Finally, hemoperfusion can be combined with extracorporeal membrane oxygenation (ECMO) or cardiopulmonary bypass.
+
+【52】The indications for dialysis are discussed elsewhere.
+
+【53】Links to society and government-sponsored guidelines from selected countries and regions around the world are provided separately.
+
+【54】 **General principles** – Hemoperfusion consists of the passage of anticoagulated blood through a device containing adsorbent particles. The most commonly available adsorbent particles are activated charcoal and resin.
+
+【55】 **Indications**
+
+【56】• The major accepted indication for hemoperfusion is the removal of lipid-soluble, highly protein-bound toxins (ie, poisoning) that are not easily removed with standard hemodialysis. Hemoperfusion may be superior to high-flux hemodialysis for paraquat removal. For other lipid-soluble or highly protein-bound drugs, high-flux hemodialysis appears to work as well as hemoperfusion and is generally preferred.
+
+【57】• Hemoperfusion has also been used in some centers for the removal of cytokines in septic patients, the removal of endotoxin or pathogens, the removal of antibodies and antibody-antigen complexes in autoimmune and other disorders, and the removal of hepatic toxins in liver failure.
+
+【58】 **Complications** – Platelet depletion is the most important side effect of hemoperfusion. Other side effects include hypocalcemia, hypoglycemia, a transient fall in white blood cell count, and a mild reduction in body temperature. Hypotension is infrequent.焦瀚远
+
+====================================================================================================

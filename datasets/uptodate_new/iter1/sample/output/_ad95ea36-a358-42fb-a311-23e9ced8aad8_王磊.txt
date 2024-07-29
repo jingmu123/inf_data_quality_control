@@ -1,0 +1,151 @@
+【0】Phenylephrine and related decongestants: Pediatric poisoning
+
+【1】INTRODUCTION 
+
+【2】Phenylephrine and alpha 1 adrenergic agonists are common ingredients in over-the-counter (OTC) cough and cold preparations. Phenylephrine is also available as nasal drops. Following overdose in children, these agents have the potential to cause serious toxicity including agitation, hypertension, and cardiac arrhythmias.
+
+【3】This topic will discuss the clinical features, diagnosis, and management of poisoning caused by phenylephrine and related decongestants. Poisoning caused by OTC cough and cold preparations and the use of cough and cold medications in children are discussed separately.
+
+【4】EPIDEMIOLOGY 
+
+【5】Pediatric exposures to phenylephrine and related decongestants primarily occur in one of two ways:
+
+【6】 Exploratory ingestion of over-the-counter (OTC) cough and cold medications by a young child
+
+【7】 Intentional ingestion of dextromethorphan-containing preparations for recreational use
+
+【8】PHARMACOLOGY AND TOXICITY 
+
+【9】Alpha 1 adrenergic decongestants are oral or topical sympathomimetics. They are substituted phenethylamines and structurally similar to amphetamine and methamphetamine. Common compounds include phenylephrine and pseudoephedrine . Phenylpropanolamine is also present in preparations outside of the United States. These agents are included in cough and cold preparations to reduce nasal congestion. However, they are not recommended for infants and young children.
+
+【10】Mechanism of action — Sympathomimetic decongestants activate alpha-1 adrenergic receptors, which produce vasoconstriction and reduce nasal blood flow, decreasing nasal congestion. Pseudoephedrine is also a beta adrenergic receptor agonist. Phenylpropanolamine and phenylephrine have relatively little beta activity. In addition, these agents will cause release of neurotransmitters at the presynaptic junction .
+
+【11】Formulations — Phenylephrine and pseudoephedrine are the most commonly used decongestants. Phenylephrine has largely replaced pseudoephedrine in many product formulations in the United States because pseudoephedrine can be used in home manufacturer of methamphetamine. Accordingly, federally mandated consumer purchase limits and regulated storage of pseudoephedrine exist in the United States .
+
+【12】Phenylpropanolamine is no longer available in the United States without a prescription primarily because it was shown to be a risk factor for hemorrhagic stroke in women . It may still be found outside of the United States without a prescription.
+
+【13】Over-the-counter (OTC) formulations include topical and oral forms. Pseudoephedrine comes in liquid, standard tab, 12 hour, and 24 hour extended release forms. The liquid and standard tabs are typically taken every four to six hours. Phenylephrine is supplied as a nasal solution, ophthalmic solution, oral solution, oral tab, topical ointment, rectal suppository, and intravenous preparation. The oral form is typically taken every four hours .
+
+【14】Pharmacokinetics — Phenylephrine serum concentration peaks in one to two hours. Phenylephrine has a volume of distribution of greater than 40 L. Half-life of elimination is two to three hours .
+
+【15】Standard release pseudoephedrine plasma concentration peaks in 1.5 to 2.5 hours with a volume of distribution of 2.1 to 3.3 L/Kg . The half-life varies extensively based upon urine pH, varying between 2 to 20 hours with an alkaline urine causing an increased half-life .
+
+【16】Standard release phenylpropanolamine serum concentration peaks in 1.5 to 3 hours . The volume of distribution is 2.5 to 4.8 L/Kg. The half-life is 3.3 to 7.3 hours and varies depending upon urine pH .
+
+【17】Toxic dose — The toxic dose of oral phenylephrine is not well-established. In adults, the minimum dose required to cause an increase in blood pressure was 50 mg (five times normal dose) . There have also been case reports of significant hypertension reported after topical use . Similar to ingestion of oral preparations, ingestion of topical phenylephrine intended for intranasal use has the potential to cause agitation, hypertension, and cardiac toxicity.
+
+【18】Limited evidence indicates that children can tolerate doses up to 11 mg/kg or 180 mg of pseudoephedrine without significant toxic effects .
+
+【19】The minimum toxic dose of phenylpropanolamine is considered to be 8 to 10 mg/kg . In adults, a twofold dose increase was sufficient to cause clinically significant transient hypertension .
+
+【20】CLINICAL FEATURES AND DIAGNOSIS 
+
+【21】Symptomatic overdose of alpha 1 adrenergic decongestants typically produces sympathomimetic findings as follows :
+
+【22】 Hypertension, which may be severe and associated with seizures, altered mental status, heart failure, or kidney damage
+
+【23】 Tachycardia or reflex bradycardia
+
+【24】 Mydriasis
+
+【25】 Diaphoresis
+
+【26】 Altered mental status (eg, agitation, confusion, disorientation)
+
+【27】Reflex bradycardia is more likely to occur following exposure to selective alpha 1 adrenergic agonists (eg, phenylephrine or phenylpropanolamine).
+
+【28】Serious complications can occur after decongestant overdose including seizures, rhabdomyolysis, cardiac dysrhythmias, cardiomyopathy, myocardial infarction, cerebral vascular accident, bowel infarction, and death . The risk of complications is largely determined by the severity of hypertension.
+
+【29】Alpha 1 adrenergic decongestant toxicity is a clinical diagnosis. Specific drug levels of the decongestant are not indicated in these exposures since they will not be readily available at most health care facilities and will not aid in diagnosis.
+
+【30】Additional studies are determined by the degree of toxicity and specific findings as follows:
+
+【31】 Patients with hypertensive emergencies should undergo the studies listed in the table .
+
+【32】 Creatine kinase (CK) and urine for myoglobin are indicated in patients with significant psychomotor agitation or seizures who are at risk for rhabdomyolysis.
+
+【33】 A serum acetaminophen level should be obtained if the product contains acetaminophen and the ingested dose is unknown or >200 mg/kg or the product is unidentified. Serum acetaminophen level should also be obtained in patients who ingested cough and cold medication with suicidal intent.
+
+【34】 Patients with prolonged altered mental status or focal neurologic findings warrant neuroimaging.
+
+【35】DIFFERENTIAL DIAGNOSIS 
+
+【36】The differential diagnosis of alpha 1 adrenergic decongestant poisoning includes any ingestion that could produce a sympathomimetic toxidrome, including the following:
+
+【37】 Cocaine
+
+【38】 Amphetamines (including methamphetamine and other synthetic amphetamine analogs, such as bath salts)
+
+【39】 Phencyclidine
+
+【40】 Beta adrenergic agonists (eg, albuterol or clenbuterol)
+
+【41】 Methylxanthines (eg, caffeine or theophylline )
+
+【42】Phenylephrine , the most commonly used decongestant in the United States, is much more likely to produce reflex bradycardia compared with these sympathomimetic agents, where a pure tachycardia is expected. Beta-adrenergic agonists can produce hypotension in severe overdoses, as well as hypokalemia. Rapid urine drug screens can identify some of the other agents (eg, cocaine, methamphetamines) but not all. Thus, it may be difficult to otherwise distinguish alpha 1 adrenergic decongestant poisoning from overdose with other sympathomimetics. However, management principles are similar for all of these agents and consist of anticipatory supportive care.
+
+【43】Important medical causes of severe hypertension in children and adolescents vary by age and include renal vascular disease, renal parenchymal disease, coarctation of the aorta, increased intracranial pressure, and preeclampsia/eclampsia . A history of ingestion of a cough or cold preparation or findings consistent with such an overdose (eg, sympathomimetic toxidrome, anticholinergic toxidrome, serotonin syndrome, or evidence of acetaminophen coingestion) helps to differentiate decongestant poisoning from other medical causes of pediatric hypertension.
+
+【44】The evaluation of pediatric hypertensive emergencies and urgencies is discussed separately.
+
+【45】MANAGEMENT 
+
+【46】Overdose of phenylephrine and similar decongestants often occurs from ingestion of over-the-counter (OTC) cough and cold preparations and may be accompanied by serious toxicity related to other ingredients. The clinician should make every effort to identify the exact formulation and the amount ingested, preferably by obtaining the container with the listed ingredients. Consultation with a regional poison control center is encouraged for all symptomatic overdoses.
+
+【47】Recommendations for the care of children with ingestion of phenylephrine and similar decongestants are derived from case reports . Treatment of alpha 1 adrenergic decongestant overdose is primarily supportive.
+
+【48】Gastrointestinal decontamination — We recommend that children and adolescents who have ingested a potentially toxic dose of alpha 1 adrenergic decongestants (eg, more than five times the daily dose of phenylephrine or more than 10 mg/kg of pseudoephedrine or phenylpropanolamine) receive activated charcoal (AC) if it can be given within one hour of ingestion. The greatest benefit occurs if AC is given within one hour. In symptomatic patients, great care must be taken to ensure that the airway is not compromised and that the risk of pulmonary aspiration is minimized.
+
+【49】Administration of AC more than one hour after ingestion in asymptomatic children may also be appropriate if the decongestant is a sustained release preparation or a toxic dose of acetaminophen has also been taken.
+
+【50】The recommendation of AC administration following overdose of alpha 1 adrenergic decongestants derives from indirect evidence of benefit in volunteers, animal studies, and evidence of benefit following ingestions of other medications. Because of adverse effects, such as vomiting and dehydration, the combination of a cathartic (eg, sorbitol ) and AC should be used sparingly, if at all, and only a single dose of a cathartic should be given to any patient.
+
+【51】Asymptomatic — Asymptomatic patients who have ingested a toxic dose of alpha 1 adrenergic decongestants warrant observation with regular monitoring of blood pressure and heart rate for six hours.
+
+【52】Agitation and hypertension — Similar to amphetamine overdose, agitation and hypertension caused by alpha 1 adrenergic decongestants typically can be controlled by benzodiazepine administration (eg, intravenous lorazepam ). However, if agitation and hypertension persist despite multiple doses of benzodiazepines then treatment as noted below for hypertensive emergencies may be necessary.
+
+【53】Hypertensive emergency — Patients with elevated blood pressure  complicated by seizures, pulmonary edema, myocardial ischemia, or vision changes warrant emergent treatment with intravenous phentolamine  . Alternatively, a direct acting antihypertensive agent such as sodium nitroprusside may be used.
+
+【54】Beta adrenergic antagonists (eg, labetalol ) are **contraindicated** because they can cause unopposed alpha adrenergic effects with exacerbation of hypertension and myocardial ischemia.
+
+【55】Cardiac arrhythmias — Sinus tachycardia is most commonly seen and usually responds to treatment of hypertension with benzodiazepines or antihypertensive agents.
+
+【56】Reflex bradycardia resolves with effective treatment of the blood pressure.
+
+【57】Supraventricular tachycardia and ventricular tachycardia have both been described after alpha 1 adrenergic decongestant overdose  and should be treated according to the principles of Pediatric Advanced Life Support as shown in the algorithm ( algorithm 1 ).
+
+【58】ADDITIONAL RESOURCES
+
+【59】Regional poison control centers — Regional poison control centers in the United States are available at all times for consultation on patients with known or suspected poisoning, and who may be critically ill, require admission, or have clinical pictures that are unclear . In addition, some hospitals have medical toxicologists available for bedside consultation. Whenever available, these are invaluable resources to help in the diagnosis and management of ingestions or overdoses. Contact information for poison centers around the world is provided separately.
+
+【60】 **Pharmacology** – Alpha 1 adrenergic decongestants are oral or topical sympathomimetics. They are substituted phenethylamines and structurally similar to amphetamine and methamphetamine. Common compounds include phenylephrine and pseudoephedrine . Phenylpropanolamine is also present in preparations outside of the United States.
+
+【61】 **Formulations** – Over-the-counter (OTC) alpha 1 adrenergic decongestants are common ingredients in cough and cold medications and are available in tablets, oral solutions, nasal sprays, eye drops, ointments, and rectal suppositories. Extended release formulations are also provided.
+
+【62】 **Clinical features and diagnosis** – Alpha 1 adrenergic decongestant toxicity is a clinical diagnosis. Symptomatic overdose of alpha 1 adrenergic decongestants typically produces sympathomimetic findings as follows:
+
+【63】• Hypertension, which may be severe and associated with seizures, altered mental status, heart failure, or kidney damage
+
+【64】• Tachycardia or reflex bradycardia
+
+【65】• Mydriasis
+
+【66】• Diaphoresis
+
+【67】• Altered mental status (eg, agitation, confusion, disorientation)
+
+【68】 **Differential diagnosis** – The differential diagnosis of alpha 1 adrenergic decongestant poisoning includes any ingestion that could produce a sympathomimetic toxidrome (eg, cocaine, amphetamines, phencyclidine, or caffeine) and medical causes of severe hypertension.
+
+【69】 **Management** – Overdose of phenylephrine and similar decongestants often occurs from ingestion of OTC cough and cold preparations and may be accompanied by serious toxicity related to other ingredients. The clinician should make every effort to identify the exact formulation and the amount ingested, preferably by obtaining the container with the listed ingredients. Consultation with a regional poison control center may be helpful in encouraged for all symptomatic overdoses.
+
+【70】• **Gastrointestinal decontamination** – In a child or adolescent who has ingested a potentially toxic dose of an alpha 1 adrenergic decongestant (eg, more than five times the daily dose of phenylephrine or more than 10 mg/kg of pseudoephedrine or phenylpropanolamine), we recommend administering activated charcoal (AC) if it can be given within one hour of ingestion . In a symptomatic patient, great care must be taken to ensure that the airway is not compromised and that the risk of pulmonary aspiration is minimized.
+
+【71】• **Hypertensive emergency** – A patient with elevated blood pressure  complicated by seizures, pulmonary edema, myocardial ischemia, or vision changes warrant emergent treatment with intravenous phentolamine . Alternatively, a direct acting antihypertensive agent such as sodium nitroprusside may be used. Beta adrenergic antagonists (eg, labetalol ) are **contraindicated** because they can cause unopposed alpha adrenergic effects with exacerbation of hypertension and myocardial ischemia.
+
+【72】• **Agitation and hypertension** – Similar to amphetamine overdose, agitation and hypertension caused by alpha 1 adrenergic decongestants typically can be controlled by benzodiazepine administration (eg, intravenous lorazepam ). However, if agitation and hypertension persist despite multiple doses of benzodiazepines then treatment as noted above for hypertensive emergencies may be necessary.
+
+【73】• **Cardiac arrhythmias** – Sinus tachycardia or reflex bradycardia usually responds to appropriate treatment of agitation and hypertension. Other tachyarrhythmias should be treated according to the principles of Pediatric Advanced Life Support ( algorithm 1 ).
+
+【74】• **Asymptomatic patient** – A patient who has ingested a toxic dose of an alpha 1 adrenergic decongestant and has not developed symptoms warrants observation with regular monitoring of blood pressure and heart rate for six hours.王磊
+
+====================================================================================================

@@ -1,0 +1,239 @@
+【0】Lentigo maligna: Clinical manifestations, diagnosis, and management
+
+【1】INTRODUCTION 
+
+【2】Lentigo maligna (LM) is a type of melanoma in situ that typically occurs in sun-damaged skin of the face and neck of older individuals  . LM evolves slowly over many years and may progress to invasive lentigo maligna melanoma (LMM). "Hutchinson melanotic freckle" and "melanosis circumscripta precancerosa of Dubreuilh" are synonyms of LM .
+
+【3】This topic will discuss the clinical features, diagnosis, and treatment of LM. LMM is discussed separately.
+
+【4】EPIDEMIOLOGY AND NATURAL HISTORY 
+
+【5】Lentigo maligna (LM) usually occurs in older individuals, with a peak incidence between 65 and 80 years . The incidence of LM appears to be increasing in younger age groups. One study reported a 52 percent increase in the incidence rate of LM among males and females aged 45 to 64 years between 1990 and 2000 in the United States . An analysis of Surveillance, Epidemiology, and End Results (SEER) data reported an increase of LM incidence between 2000 and 2019 from 4.16 to 5.61 per 100,000 person years . The risk of LM and lentigo maligna melanoma (LMM) is higher in individuals with lightly pigmented skin, markers of actinic skin damage (solar lentigines and actinic keratoses), and a history of nonmelanoma skin cancer .
+
+【6】LM is a slowly evolving lesion and is often diagnosed years or decades after its initial onset. In some lesions, partial central regression may occur while the peripheral margin continues to extend . The time to progression of LM to invasive LMM ranges from less than 10 to more than 50 years .
+
+【7】The lifetime risk of progression of LM to LMM was estimated to be approximately 5 percent . However, these data are old, and, in some series, up to 20 percent of patients undergoing excision for LM were found to have invasive disease .
+
+【8】CLINICAL FEATURES 
+
+【9】Lentigo maligna (LM) usually presents as an atypical, pigmented, macular lesion localized on severely sun-damaged skin of the head or neck. Clinical features of LM include :
+
+【10】 Irregular shape
+
+【11】 Variable color, from light brown or tan to dark brown, black, pink, red, or white
+
+【12】 Variable size, from less than one to several centimeters
+
+【13】 Nonscaly, smooth surface
+
+【14】Pink or white areas indicate inflammation or regression. The nose, cheeks, and ears are preferentially involved. Infrequently, LM occurs in nonhead and neck locations, such as the upper back, forearms, dorsum of the hands, and legs . The surrounding skin typically shows evidence of chronic solar damage (solar elastosis, solar lentigines, or actinic keratoses). The borders may be ill defined. Amelanotic LM is rare .
+
+【15】The development of darker pigmentation, sharper borders, or elevated or nodular areas are clinical signs of progression to lentigo maligna melanoma (LMM) . Rarely, a desmoplastic melanoma may develop within an LM, presenting as a plaque, nodule, or palpable subcutaneous firmness that may have a scar-like feel .
+
+【16】DERMOSCOPIC FEATURES 
+
+【17】In nonfacial and nonvolar skin lesions, the presence of a pigment network, which correlates with the rete ridge pattern of the skin, is commonly associated with melanocytic neoplasms. The quality and distribution of this network can help in differentiating nevi from melanoma .
+
+【18】Because of the unique features of facial skin (absence or flattening of rete ridges and increased number and prominence of hair follicles and sweat gland ostia), pigmented lesions occurring on the face do not show a pigment network when examined with a dermatoscope. In contrast, the distribution of the pigmentation around the prominent hair follicles forms a pseudonetwork that is seen in both melanocytic and nonmelanocytic lesions (eg, seborrheic keratoses) .
+
+【19】Since the pseudonetwork does not discriminate melanocytic from nonmelanocytic lesions, other dermoscopic criteria are used for the diagnosis of facial lesions. Horn pseudocysts, yellow opaque areas, fingerprint-like structures, moth-eaten pattern, and jelly sign suggest solar lentigo or flat seborrheic keratosis, whereas the features most frequently seen in lentigo maligna (LM) and lentigo maligna melanoma (LMM) include  :
+
+【20】 Asymmetric, pigmented follicular openings (atypical pseudonetwork) .
+
+【21】 Angulated lines (usually gray in color) that can coalesce to form polygons, with the most common form being rhomboidal structures .
+
+【22】 Annular-granular pattern consisting of asymmetric, pigmented follicular openings and/or gray dots/granules/globules surrounding ostial openings .
+
+【23】 Occasionally, circle within a circle can also be seen in LM .
+
+【24】 Gray pseudonetwork.
+
+【25】 Gray areas.
+
+【26】 Gray dots and globules.
+
+【27】 Dark blotches in-between ostial openings or completely obliterating the ostial openings.
+
+【28】Many of the features seen in LM can also be seen in pigmented actinic keratosis, which is believed to be a collision between a solar lentigo and an actinic keratosis . While subtle dermoscopic features can assist in differentiating an actinic keratosis from LM, palpation of the lesion can also help. Pigmented actinic keratosis will have a rough texture while LM typically has a smooth texture.
+
+【29】One study found that four dermoscopic features have high sensitivity and specificity  for the diagnosis of LM or LMM  :
+
+【30】 Asymmetrical, pigmented follicular openings (atypical pseudonetwork)
+
+【31】 Rhomboidal structures
+
+【32】 Gray globules
+
+【33】 Gray dots
+
+【34】Another study found that, irrespective of the specific dermoscopic pattern seen in a lesion, the presence of gray color, seen in approximately 90 percent of cases, was the single most important criterion in the diagnosis of LM . However, despite having a high sensitivity, gray color lacks specificity, since it can also be seen in lichen planus-like keratosis  and pigmented actinic keratosis .
+
+【35】Although dermoscopy is helpful in the clinical diagnosis of benign facial lesions, such as solar lentigines and seborrheic keratoses, biopsy and histopathology evaluation remain the gold standard for the diagnosis of LM or pigmented actinic keratosis. Lesions showing dermoscopic features suspicious of LM should be biopsied for histopathologic confirmation. For large LM lesions requiring incisional biopsy for the initial diagnosis, dermoscopy may be useful in targeting areas with the most atypical findings for biopsy. Alternatively, multiple punch biopsies (scouting biopsies) can also be used.
+
+【36】HISTOPATHOLOGIC FEATURES 
+
+【37】Histologically, lentigo maligna (LM) is a melanoma in situ characterized by an increased number of atypical melanocytes, often spindle shaped, arranged in single cells or in small nests along the dermoepidermal junction, often extending into the infundibular portion of hair follicles  . Melanocytic atypia ranges from near normal to multinucleated melanocytes or melanocytes with dendritic processes . Cytoplasm retraction artifacts may be seen.
+
+【38】Of note, LM may be quite subtle histologically and is often difficult to distinguish from actinic melanocytic hyperplasia. The presence of melanocytic nesting, confluence of >3 melanocytes along the dermoepidermal junction, and pagetoid spread are helpful diagnostic clues.
+
+【39】Changes of chronic solar damage usually coexist, including elastosis, atrophy of the epidermis, effacement of rete ridges, and inflammatory dermal infiltrate . Determining the histologically clear margin of LM is particularly difficult because the transition between LM and melanocytic hyperplasia of sun-damaged skin is often subtle. A biopsy specimen of normal-appearing but sun-damaged skin, taken as a control, may aid in this distinction since it provides a reference for the background level of melanocytic hyperplasia in a given individual .
+
+【40】Immunostaining with a nuclear antibody, such as Sox10 or microphthalmia transcription factor (MITF), is recommended to accurately assess cellularity and nuclear morphology; stains that target cytoplasmic antigens, such as HMB-45 and Melan-A, may overestimate the cellularity of the lesion .
+
+【41】DIAGNOSIS
+
+【42】Clinical and dermoscopic examination — The diagnosis of lentigo maligna (LM) is based upon clinical, dermoscopic, and histologic examination .
+
+【43】The clinical diagnosis of LM at an early stage may be difficult even for the experienced dermatologist. On clinical examination, the recognition of LM is often complicated by the presence of multiple lesions that are similar in appearance, including solar lentigines, flat seborrheic keratoses, and pigmented actinic keratoses.
+
+【44】Dermoscopy may be helpful in differentiating early LM from benign, pigmented lesions occurring on sun-damaged skin, such as seborrheic keratoses and solar lentigines. However, differentiating a pigmented actinic keratosis from LM by dermoscopy is difficult and not always possible. Pigmented actinic keratoses are a rare variant of actinic keratosis that share clinical and dermoscopic features with LM.
+
+【45】Reflectance confocal microscopy — Reflectance confocal microscopy (RCM), also called confocal scanning laser microscopy, is a noninvasive, complex technique for the imaging of human skin, with cellular resolution from the stratum corneum to approximately the level of the papillary dermis. RCM has been evaluated in a small number of patients for the differentiation of LM from other pigmented lesions of the face . In one study comparing the diagnostic accuracy of RCM and dermoscopy in the evaluation of 223 facial lesions, RCM was more sensitive than dermoscopy for the diagnosis of LM and lentigo maligna melanoma (LMM; 80 versus 61 percent) but less specific  . Moreover, RCM showed a higher sensitivity than dermoscopy for the diagnosis of hypomelanotic and recurrent LM/LMM .
+
+【46】In preliminary studies, RCM has also been used for preoperative margin mapping of LMs with promising results . However, RCM is available only at specialized dermatologic institutions, requires specialized training, and data on its diagnostic accuracy are limited .
+
+【47】Biopsy and histologic examination — Biopsy is necessary to establish the diagnosis of LM. Excisional biopsy with narrow margins is ideal, although a saucerization (deep shave) may be adequate in some cases. Since abnormal melanocytic cells may extend down the adventitia of the hair follicles, a more superficial shave is not adequate for accurate diagnosis, since it may not include this area for evaluation and, therefore, lack information as to whether there is deep follicular extension or invasion. According to the National Comprehensive Cancer Network (NCCN) guidelines, a broad shave biopsy may help to optimize accurate diagnosis .
+
+【48】For LMs that are broad and located on cosmetically sensitive sites, partial biopsy (punch or incisional biopsy) may be performed. However, considerable sampling errors can occur with partial biopsies because the histopathologic findings may vary within the lesion. Evidence of dermal invasion has been reported in up to 20 percent of specimens with a preoperative diagnosis of LM on initial biopsy . Multiple scouting biopsies may be needed for large lesions.
+
+【49】The choice of the site(s) for incisional biopsy is based upon clinical examination, dermoscopy, and, where available, RCM . The most irregular or heavily pigmented areas identified by clinical and/or dermoscopic examination and any palpable or thickened areas are the preferred biopsy sites. It is good practice to indicate on the pathology requisition that a partial biopsy of a larger lesion was performed.
+
+【50】Histologically, the replacement of basal keratinocytes by atypical melanocytes with background changes of chronic sun damage (epidermal atrophy, effacement of rete ridges, and inflammatory dermal infiltrate) is diagnostic of LM. Microscopic features of benign solar lentigo, actinic keratosis, LM, and LMM may coexist in the same lesion.
+
+【51】DIFFERENTIAL DIAGNOSIS 
+
+【52】Lentigo maligna (LM) should be differentiated from other melanocytic and nonmelanocytic lesions, including:
+
+【53】 **Solar lentigo** – Solar lentigines are macular lesions with irregular margins and uniform, brown pigmentation. Solar lentigines are commonly seen on chronically sun-exposed sites (face, dorsum of hands) of older individuals with fair skin and a history of excessive sun exposure . In contrast with solar lentigines, the macular lesions of LM tend to be darker and irregularly pigmented. On dermoscopy, solar lentigines show faint, pigmented, fingerprint structures  or a structureless pattern, whereas LM exhibit a range of dermoscopic features related to follicular and interfollicular structures  and shades of gray color. Histologically, solar lentigo is characterized by acanthosis with regular elongation of the rete ridges and hyperpigmentation, and either no or mild increase in basally located, cytologically benign melanocytes without nesting or confluence.
+
+【54】 **Pigmented actinic keratosis** – Pigmented actinic keratoses present as scaly, hyperpigmented macules or patches occurring on sun-exposed skin of adult individuals with fair complexion. Pigmented actinic keratoses are difficult to differentiate from LM by the naked eye or dermoscopic examination . Histologically, there is a proliferation of atypical keratinocytes extending from the basal layer upward, with increased melanin in the lower epidermis and dermal melanophages.
+
+【55】 **Seborrheic keratosis** – Seborrheic keratoses are common, benign, keratinocytic tumors presenting as macular or elevated lesions, with variable brown pigmentation and a verrucous surface . Dermoscopic examination is helpful in differentiating seborrheic keratosis from LM. Characteristic dermoscopic patterns seen in seborrheic keratoses include moth-eaten borders , milia-like cysts , comedo-like openings , and fissures and ridges . Histologically, seborrheic keratoses show a proliferation of normal keratinocytes, and some variants (eg, melanoacanthoma) can show an increased number of melanocytes.
+
+【56】 **Lentigo maligna melanoma** – Lentigo maligna melanoma (LMM) results from the progression of LM to the invasive phase. Clinically, it presents as a hyperpigmented patch, with darker, asymmetric foci or nodules . On dermoscopy, the presence of pigmented, rhomboidal structures  and structureless, gray-black blotches corresponding to obliterate hair follicles  are clues to the diagnosis of LMM. Histologically, neoplastic melanocytes are arrayed along the dermal-epidermal junction in a lentiginous pattern and form nests along the dermal-epidermal junction and nodules or fascicles in the dermis .
+
+【57】MANAGEMENT
+
+【58】Overview — Although there is some variation in the treatment approach for lentigo maligna (LM) among clinicians, surgical excision is the preferred option for most lesions . However, the optimal excision margins for LM have not been evaluated in randomized trials . National and international guidelines recommend standard excision with 5 to 10 mm margins as first-line therapy for all types of melanoma in situ, including LM .
+
+【59】 The 2018 Australian melanoma guidelines state that melanoma in situ should be excised with 5 to 10 mm margins, with the aim of achieving complete histologic clearance and that minimum clearances from all margins should be assessed and stated .
+
+【60】 2018 guidelines from the American Academy of Dermatology, as well as the National Comprehensive Cancer Network (NCCN) guidelines, state that LM may require excision margins of 5 to 10 mm to achieve histologically negative margins .
+
+【61】 A minimum excision margin of 5 mm is also recommended by the 2016 European consensus-based interdisciplinary guidelines .
+
+【62】Additional surgical techniques that are frequently used in clinical practice include staged excisions and Mohs micrographic surgery (MMS). These allow a complete margin assessment while sparing normal tissue.
+
+【63】Alternative nonsurgical treatments for LM include radiation therapy (RT) and topical immunomodulator therapy with imiquimod . Nonsurgical therapies may be appropriate in older, frail patients with large lesions of the face that cannot be resected with adequate margins, when problematic reconstruction is anticipated, and in those who decline surgery. None of these treatment modalities has been compared with surgery in randomized trials.
+
+【64】Surgery — For most patients with LM, we suggest surgical excision rather than nonsurgical therapies as first-line treatment. Surgical techniques that can be used for LM include wide local excision with margins of at least 5 to 10 mm and staged excision with rush permanent sections ("slow Mohs"), which allows a complete histopathologic evaluation of surgical margins. Mohs surgery may also be an option for LM. However, margin assessment of LM with frozen sections can be problematic . The choice of the surgical technique is based on the size and location of the lesion, consideration of cosmetic and functional outcomes, and clinical experience.
+
+【65】Delineating the lesion margins — Prior to surgical excision, it is important to assess the extent of LM and delineate the lesion margins as accurately as possible. Methods used for preliminary mapping of the margins include examination under a Wood's lamp, performing multiple scouting biopsies, and, where available, using confocal microscopy .
+
+【66】Wide local excision — We typically perform standard excision deep to the subcutaneous fat for small LM lesions (<1 cm) with well-demarcated borders located on the forehead or cheeks, with margins of at least 5 mm and up to 10 mm if feasible, depending on the specific lesion location and consideration of function preservation and disfigurement. For lesions of any size on neck or upper chest, we perform standard excision with 10 mm margins.
+
+【67】The optimal excision margins for LM have not been evaluated in randomized trials . Multiple studies using surgical techniques that allow a complete margin examination (eg, staged excision or Mohs surgery) indicate that margins of 5 or 6 mm provide clearance rates ranging from 24 to 84 percent, whereas margins of 7 to 15 mm may be required to achieve clearance rates of 94 to 99 percent . A prospective study of 1506 LM cases and 829 melanomas in situ treated by Mohs surgery found that both LM and melanoma in situ located on the head and neck required a 12 mm margin to obtain complete clearance in 97 percent of the tumors, whereas a 9 mm margin was sufficient to clear lesions on the trunk and extremities . Only 79 percent of LM and 83 percent of melanoma in situ were completely excised with a 6 mm margin.
+
+【68】A few retrospective studies have reported recurrence rates for standard excision of 6 to 9 percent after a mean follow-up time of 5 to 10 years .
+
+【69】Staged excision — We prefer staged excision with rush permanent sections ("slow Mohs") to wide local excision for large LM (>1 cm) or clinically ill-defined lesions located on forehead and cheeks and lesions of any size located on the H area (also called "mask area") of the face, which includes central face, eyelids, eyebrows, periorbital, nose, lips, chin, mandible, preauricular, postauricular, temple, and ear . Large (>2 cm) lesions on the trunk or extremities with ill-defined margins, occurring in areas of marked sun damage with mottled pigmentation, may also benefit from staged excision. While reconstruction can often be done by the dermatologist in an outpatient setting, some wounds or patients may require reconstructive surgery performed under general anesthesia in the operating room.
+
+【70】Staged excision is considered by some experts to be the optimal surgical technique for LM, as it permits the evaluation of the surgical margins in a comprehensive manner similar to Mohs surgery but relies on permanent sections rather than frozen sections. Permanent sections require a longer processing time than frozen sections; however, rush readings can usually be obtained in less than 24 hours.
+
+【71】After delineating the LM clinical margins, a surgical margin of 5 mm is drawn around the lesion . The gross clinical lesion ("tumor debulk") is excised down to the deep dermis, oriented, and sent to the laboratory as a fresh specimen or placed in a formalin bottle. The margins are then excised to the deep dermis, divided, marked to preserve orientation, and placed in individually labeled formalin bottles. The tumor debulk tissue is serially sectioned in various ways (multiple vertical "bread loaf" sections or radial sections) and examined for invasive melanoma . The peripheral margins are inked with the same color consistently applied to the outer surface (true outer surgical margin). Each segment of the peripheral margin is sectioned vertically "en face" to allow the examination of the entire true margin. The permanent sections are evaluated by a dermatopathologist experienced in pigmented lesions. Some consulting pathologists prefer to receive an inked intact specimen, which they evaluate by the radial technique. It is important to have excellent communication between the surgeon and the pathologist on these cases. After the pathologist has examined the specimen histologically, the margin status and location of residual melanoma in situ is then communicated to the surgeon. The patient returns 24 to 48 hours later for reexcision of involved margins, and the process is repeated until negative peripheral margins are achieved. Reconstruction of the defect is then performed.
+
+【72】The wound is managed during the intervening time period by standard dressings. Electrocautery is performed to stop bleeding, and then the wound is cleaned with sterile saline or soap and water. Petrolatum is applied to the wound, then it is covered with nonadherent dressing and secured by tape. We usually surmount this simple dressing with a pressure bandage constructed with rolled gauze, secured by tape. Large wounds do well with application of a sterile gauze impregnated with bismuth and petrolatum. The patient does not need to change the bandage since they will be returning for either further excision or repair of the defect. Deferring reconstruction is not harmful to the end result and has in fact been shown to be associated with fewer postoperative complications when repair is done with a full-thickness skin graft .
+
+【73】There are several variations of the staged excision, including the "square procedure," perimeter, contoured, spaghetti, and serial disk techniques . In some of these techniques, the margin specimens are cut en face in vertical sections that contain 100 percent of the peripheral margins. These techniques generally deal with the margins first, leaving the center part of the lesion in situ until the margins are clear. While the patient may be somewhat more comfortable in the intervening period without a large wound, there is a 10 to 20 percent risk of identifying invasive lentigo maligna melanoma (LMM) requiring deeper excision only at the end of the process .
+
+【74】Recurrence rates of 0 to 6 percent have been reported after staged excision at a mean follow-up time of 23 to 138 months .
+
+【75】Mohs micrographic surgery — Mohs micrographic surgery (MMS) is a technique that involves a beveled excision of the tumor with a margin of normal-appearing tissue using a scalpel angled at 45 degrees to the skin surface. MMS uses frozen horizontal sections that allow for examination of the entire peripheral and deep margins of the tumor with maximal preservation of uninvolved tissue and is especially useful for the treatment of nonmelanoma skin cancers in cosmetically sensitive areas.
+
+【76】We do not perform Mohs surgery with frozen section for the treatment of LM. Differentiating atypical melanocytic hyperplasia from benign melanocytic hyperplasia or actinic keratinocytic damage is difficult on frozen section and requires considerable experience in MMS and high-quality frozen sections . Rapid immunostaining with MART-1 or Mel-5 may help in identifying the melanocytes on frozen sections and appears to provide information similar to that obtained from permanent sections . Some Mohs surgeons, after a final negative frozen layer, excise an additional margin of 1 to 3 mm and send it for permanent sections. Some also send the central debulking specimen for permanent vertical sections for a more accurate staging of the tumor.
+
+【77】In one study including 116 patients with LM, 5 percent of margins that were negative on frozen sections were positive on permanent sections . In a review of 173 cases with an initial diagnosis of LM or melanoma in situ and treated with MMS, the examination of permanent sections of the central debulking specimens led to an upstaging of the tumor in 14  of cases . In another review of LM and LMM cases treated with a staged excision technique with rush paraffin-embedded sections, 15 of 91 cases  that were initially diagnosed as LM were found to be invasive melanomas .
+
+【78】Recurrence rates of 0 to 2 percent have been reported for LM excised by MMS after a follow-up time of 29 to 44 months .
+
+【79】Nonsurgical therapies
+
+【80】Overview — Nonsurgical therapy for LM should only be considered under selected clinical circumstances: in older, frail patients in whom surgical excision is not feasible; when problematic reconstruction is anticipated; and in patients who decline surgery . Alternatives to surgery include radiotherapy, topical imiquimod , cryosurgery, and laser therapy.
+
+【81】Nonsurgical techniques have not been evaluated in randomized trials.
+
+【82】 One study reviewed 1086 cases of melanoma in situ treated with surgery or nonsurgical interventions. Overall, 721 cases involved the head or neck. The five-year recurrence rate was 6.8 percent for surgical excision and 31 percent for radiotherapy, laser therapy, and cryosurgery combined as a single category .
+
+【83】 An international, randomized trial comparing RT with imiquimod is being conducted by the Melanoma and Skin Cancer Trials group in patients with LM in whom surgery is not suitable. The primary endpoint of the trial is the proportion of patients experiencing LM recurrence (as determined by dermoscopy and/or reflectance confocal microscopy \[RCM\] and confirmed by biopsy) at 24 months following completion of treatment.
+
+【84】Drawbacks of nonsurgical therapies include:
+
+【85】 Lack of histologic examination of the entire tumor for foci of dermal invasion not evident at the initial biopsy. In a series of 117 LM and LMM treated with staged excision, unsuspected invasive melanoma was found in 16 percent of specimens initially diagnosed as LM .
+
+【86】 Lack of histologic margin control.
+
+【87】 Post-treatment monitoring based upon clinical examination or random biopsies that may not show tumor persistence or recurrence.
+
+【88】Radiation therapy — Radiation therapy (RT) is not commonly used as a primary therapy for LM. However, RT may be a treatment option for older patients who have large LM lesions and for whom surgical removal would not be feasible or desirable due to the impact on functional and cosmetic outcome . RT can also be used as adjuvant treatment in patients with positive margins following surgical excision when further surgical resection is not feasible . The gross tumor volume is the lesion delineated by methods listed above, and the clinical target volume is 5 to 10 mm in addition to the gross tumor volume. An appropriate radiation energy and technique are dependent on the size, contour, and location of the lesion.
+
+【89】The NCCN guidelines suggest the following potential regimens :
+
+【90】 64 to 70 Gy in 32 to 35 fractions over six to seven weeks
+
+【91】 50 to 57 Gy in 20 to 23 fractions in four to five weeks
+
+【92】 35 Gy in five fractions over one week for fields <3 cm 2
+
+【93】 32 Gy in four fractions per week
+
+【94】A typical dose is 50 to 56 Gy in 2 Gy fractions with superficial energy radiation treating to a depth of 5 mm.
+
+【95】In Europe, low energy Grenz rays  or soft x-rays  delivered at a depth of approximately 1 mm have been used for the treatment of LM and LMM. Due to the low tissue penetration depth, Grenz rays can be safely given with total doses of at least 100 Gy. In one study, low energy  Grenz rays (total dose 100 to 120 Gy in 10 to 12 fractions given at three- to four-day intervals) delivered at a depth of approximately 1 mm were used in 93 patients with LM with a recurrence rate of 5.4 percent after a mean time of 46 months .
+
+【96】Data on the use of RT in LM are mainly derived from retrospective series using various definitions of local control with variable follow-up periods .
+
+【97】 In an Australian review of eight retrospective, single-institution studies including 349 patients with LM treated primarily with RT, the overall recurrence rate was 5 percent after a median follow-up of three years . Progression to LMM occurred in 1.4 percent of patients.
+
+【98】 In another series of 593 patients with LMs and early LMM treated with Grenz rays as primary therapy, partial surgical removal followed by RT alone, and wide excision followed by postoperative RT, the clearance rates were 83, 90, and 97 percent, respectively, after a median follow-up time of approximately five years .
+
+【99】 A systemic review of 14 retrospective studies published between 1970 and 2019 showed recurrence rates of 0 to 31 percent . A total of 1243 lesions  were treated with a range of RT fractionations  using a variety of techniques, including Grenz rays, superficial therapy, and orthovoltage therapy.
+
+【100】In general, these studies reported good to excellent cosmetic results for most patients, but late skin changes were reported in up to 20 percent.
+
+【101】Topical imiquimod — Imiquimod 5% cream is approved by the US Food and Drug Administration for the treatment of actinic keratoses, superficial basal cell carcinomas, and warts. It has been used off label as primary treatment for LM in patients in whom surgery is not feasible or as adjuvant therapy after narrow-margin surgical resection or incomplete histologic resection . The mechanism of action proposed is that imiquimod induces a local inflammatory response of T helper lymphocytes mixed with cytotoxic cells, monocytes, and macrophages, leading to a cytotoxic T cell-mediated immune response against the tumor .
+
+【102】Several systematic reviews of retrospective case series and a few randomized and nonrandomized studies support the use of imiquimod in patients with LM who are poor surgical candidates based on reported clinical and histopathologic response rates of over 70 percent . However, the optimal frequency of application and duration of treatment with imiquimod have not been determined .
+
+【103】A 2017 systematic review of 40 observational studies and one randomized trial including 509 patients with LM treated with topical imiquimod one to seven times per week for 4 to 36 weeks found a complete clinical clearance rate of 78.3 percent . Post-treatment histopathologic examination performed in 370 patients demonstrated histopathologic clearance in 77 percent. The recurrence rate was 2.2 percent after a mean follow-up period of 18.6 months. In nine patients , LM progressed to LMM an average of 3.9 months (range 0 to 11 months) after completion of treatment.
+
+【104】However, a subsequent small, single-arm trial found a much lower pathologic clearance rate . In this study, 28 patients older than 45 years with primary untreated and histologically confirmed LM were treated with imiquimod five times per week for 12 weeks and then underwent complete surgical excision of the lesion. Following imiquimod treatment, only 10 patients  achieved the primary outcome (complete histologic clearance); partial regression and definite residual LM were observed in nine and seven patients, respectively .
+
+【105】PROGNOSIS 
+
+【106】Lentigo maligna (LM) has a tendency for subclinical spread. Atypical melanocytes often extend for a considerable distance from the clinical margin of LM, sometimes involving "skip" areas. This phenomenon is described as the "field effect" and is responsible for recurrence of LM at the edge after an initial, apparently successful treatment. However, in the absence of progression to lentigo maligna melanoma (LMM), LM does not shorten life expectancy. In a review of 270 patients with LM (n = 124) or LMM who underwent one or multiple surgeries until complete excision was achieved, there were no disease-related deaths among patients with LMM .
+
+【107】Recurrence may occur after a prolonged disease-free interval, making assessment of the efficacy of therapy difficult in studies with follow-up time ≤5 years. A few retrospective studies have reported recurrence rates for conventional wide surgical excision of 6 to 9 percent after a mean follow-up time of 5 to 10 years . In a single institution review of 649 cases of LM and thin LMM treated surgically, a local recurrence was reported in 41 cases  . Among 29 cases with histologically documented recurrence, the median time to recurrence was 49 months (range 7 to 194).
+
+【108】Recurrence rates of 0 to 2 percent have been reported for LM excised by Mohs micrographic surgery (MMS) after a follow-up time of 29 to 38 months .
+
+【109】FOLLOW-UP 
+
+【110】There is no evidence base to determine the optimal follow-up for patients with lentigo maligna (LM). We typically see patients twice yearly lifelong, as recurrence of LM can occur after many years, and these patients have an increased risk of melanoma and nonmelanoma skin cancers.
+
+【111】We perform a full-body skin examination at each follow-up visit. Examination for recurrent lesions or new primary lesions is enhanced by the use of a Wood's light in a darkened room, dermoscopy, or, where available, reflectance confocal microscopy (RCM) .
+
+【112】Links to society and government-sponsored guidelines from selected countries and regions around the world are provided separately.
+
+【113】 **Definition and natural history** – Lentigo maligna (LM) is a slowly evolving type of melanoma in situ that typically occurs in the sun-damaged skin of the face and neck of older individuals . The risk of progression to invasive lentigo maligna melanoma (LMM) ranges from 5 to 20 percent. The development of darker pigmentation, sharper borders, or elevated or nodular areas are clinical signs of progression.
+
+【114】 **Clinical presentation** – Clinically, LM presents as an atypical macular lesion characterized by irregular shape, variegated color, and variable size . Dermoscopic features of LM include asymmetrical, pigmented follicular openings (atypical pseudonetwork); angulated lines/rhomboidal structures; and gray dots and globules . The surrounding skin typically shows evidence of chronic solar damage (solar elastosis, solar lentigines, or actinic keratoses).
+
+【115】 **Diagnosis** – The diagnosis of LM is made by histologic examination. Excisional biopsy with narrow margins is ideal for diagnosis. For large lesions or lesions located in cosmetically sensitive areas, it is acceptable to perform one or more incisional biopsies of the most irregular or heavily pigmented areas. Dermoscopy may be helpful in the selection of the biopsy site. Histologically, LM is characterized by an increased number of atypical melanocytes, often spindle shaped, arranged in single cells or in small nests along the dermoepidermal junction.
+
+【116】 **Management**
+
+【117】• **Surgical excision** – We suggest surgical excision, rather than radiation therapy (RT) or topical imiquimod , as first-line treatment for LM . Surgical margins of 0.5 to 1 cm are an accepted standard for wide local excision. If available, surgical techniques that allow complete margin control, such as staged excision with permanent sections ("slow Mohs"), are a preferred option for LMs located in facial areas, where sparing normal tissue is essential to preserve cosmetic appearance and function .
+
+【118】• **Nonsurgical therapies** – Nonsurgical therapies, such as RT and topical imiquimod , are treatment options for older patients who are not surgical candidates and for patients in whom surgical excision is not feasible or reconstruction is anticipated as difficult. Main drawbacks of nonsurgical approaches are the lack of histologic examination of the entire tumor for foci of invasive melanoma not evident at the initial biopsy and lack of histologic margin control. RT or imiquimod may also be used as adjuvant treatment in patients with positive margins following surgical excision, when further surgical resection is not feasible.黄艳玲
+
+====================================================================================================

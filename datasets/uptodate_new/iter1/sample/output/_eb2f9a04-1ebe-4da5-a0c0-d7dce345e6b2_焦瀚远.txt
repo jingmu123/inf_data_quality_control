@@ -1,0 +1,233 @@
+【0】Acute respiratory distress syndrome: Fluid management, pharmacotherapy, and supportive care in adults
+
+【1】INTRODUCTION 
+
+【2】Patients with acute respiratory distress syndrome (ARDS) require fluid management to optimize oxygenation and provide hemodynamic support. Several pharmacotherapies may also be needed for those who remain hypoxemic despite standard therapies targeted at ARDS (eg, glucocorticoids, neuromuscular blockers, inhaled pulmonary vasodilators). In addition, patients with ARDS require supportive therapies during their illness to reduce the rate of complications associated with ARDS and mechanical ventilation.
+
+【3】Fluid management, pharmacotherapy, and supportive care of the ARDS patients are discussed here. Etiologies, pathophysiology, clinical manifestations, diagnosis mechanical ventilation strategies, and novel therapies are discussed in detail elsewhere.
+
+【4】CONSERVATIVE FLUID MANAGEMENT
+
+【5】Our approach — Even in patients with ARDS who are not intravascularly volume overloaded, we suggest a strategy of conservative rather than liberal fluid management, provided hypotension and organ hypoperfusion can be avoided . The rationale for a conservative strategy in patients with ARDS is based upon an increased risk of pulmonary edema and data that suggest improved oxygenation with a conservative approach, despite a lack of clear mortality benefit.
+
+【6】Patients with ARDS are at increased risk of pulmonary edema. This risk is largely due to increased vascular permeability. The quantity of edema formed depends directly upon hydrostatic pressure since oncotic forces are less capable of retaining fluid within the pulmonary capillaries  .
+
+【7】Goal and fluid choice — The overall goal is to minimize or eliminate a positive fluid balance. It is reasonable to target a central venous pressure (CVP) of <4 mmHg or, if a pulmonary artery catheter is in place, a pulmonary artery occlusion pressure (PAOP) <8 mmHg. Diuretics, in addition to fluid restriction, may need to be administered to achieve this goal. However, in practice, these goals may be difficult to achieve.
+
+【8】While fluid choice is dependent upon the type of support needed, we generally favor a crystalloid solution, such as a balanced salt solution. This choice is based upon indirect data from critically ill patients with hypovolemic or septic shock. These data are described in detail separately.
+
+【9】Point-of-care ultrasonography is being increasingly used to manage fluids in ARDS, the details of which are discussed separately.
+
+【10】Efficacy — Benefit from a conservative fluid strategy was best illustrated by a trial in which 1000 patients with ARDS were randomly assigned to seven days of either a conservative strategy (CVP <4 mmHg or PAOP <8 mmHg) or a liberal strategy (CVP of 10 to 14 mmHg or PAOP of 14 to 18 mmHg) . Furosemide or intravenous fluids were given to meet intravascular pressure targets, as long as patients were hemodynamically stable; hemodynamic stability was defined by a mean arterial blood pressure >60 mmHg without the use of vasopressors, a urine output of at least 0.5 mL per kilogram of body weight per hour, and evidence of adequate circulation based on physical examination or a cardiac index of at least 2.5 L per minute per square meter of body-surface area. The conservative strategy improved the oxygenation index and lung injury score and increased the number of ventilator-free days  and ICU-free days . The 60-day mortality rate was no different between the groups. Despite a mean cumulative fluid balance of -136 mL in the conservative strategy group compared with +6992 mL in the liberal strategy group, the mean CVP and PAOP remained well above the target goals in the conservative management group, suggesting that conservative targets are difficult to achieve.
+
+【11】Retrospective data suggest a possible improvement in mortality with conservative fluid management. A post-hoc analysis of the trial above  suggested a mortality benefit only among those with an initial CVP ≤8 mmHg . In another large retrospective study of critically ill patients, a positive fluid balance on day 3 was associated with increased 30-day mortality (odds ratio 1.26) whereas a negative fluid balance was associated with lower mortality .
+
+【12】Other long-term outcomes are poorly studied. A post-hoc analysis of the trial above  suggested a possible association between conservative fluid management and cognitive impairment in ARDS survivors .
+
+【13】Preliminary work suggests that specific subsets of ARDS patients with higher levels of systemic inflammation may be more likely to benefit from conservative fluid management . However, further studies are warranted to explore the relationship between fluid management strategies and long-term outcomes in specific ARDS subpopulations. Fluid management strategies in patients with hypovolemia and sepsis are discussed separately.
+
+【14】PARALYSIS (NEUROMUSCULAR BLOCKADE)
+
+【15】Our approach — We suggest **not routinely** administering neuromuscular blockers (NMBs) to patients with ARDS. This approach is based upon a lack of robust evidence to support meaningful benefit in patients with ARDS and the potential for harm. While data are limited, we agree with others that their use be reserved for a limited number of patients with ARDS who have severe hypoxemia refractory to standard therapies (eg, partial arterial pressure of oxygen \[PaO 2 \]/fraction of inspired oxygen \[FiO 2 \] ratio <100 mmHg)  and patients with ventilator dyssynchrony that is refractory to ventilator adjustment and sedation, particularly if it leads to double triggering or alveolar derecruitment . If NMBs are required, their use early in the course of ARDS is preferred (eg, first 48 hours). Indications and administration of NMBs are discussed in detail separately.
+
+【16】Efficacy — Data that support this approach include the following:
+
+【17】 While one meta-analysis of five trials reported no significant mortality reduction when patients treated with NMBs were compared with patients not treated with NMBs (relative risk \[RR\] 0.8, 95% CI 0.57-1.04) , a subsequent meta-analysis of seven trials reported reduced mortality and an increase in ventilator-free days in patients treated with NMBs (RR 0.74, 97% CI 0.56-0.98) . However, included trials were at high risk of bias and inconsistent. Both meta-analyses included the two major randomized trials discussed in the bullets below (ACURASYS  and ROSE ).
+
+【18】 In the first multicenter trial (ACURASYS; 2010), 340 patients with moderate or severe ARDS (PaO 2 /FiO 2 ratio of <150 mmHg) on low tidal volume mechanical ventilation were randomly assigned to receive cisatracurium besylate or placebo by continuous infusion for 48 hours . Both groups were deeply sedated to a Ramsay sedation score of 6 (no response to glabellar tap). Cisatracurium did not lower the crude 90-day, 28-day, hospital, or ICU mortality rates compared with placebo but did decrease the adjusted 90-day mortality in patients with severe ARDS (ie, PaO 2 /FiO 2 ratio <120 mmHg; hazard ratio 0.68, 95% CI 0.48-0.98). Patients treated with cisatracurium besylate also had significantly more ventilator-free days during the first 28 and 90 days and were significantly less likely to experience barotrauma. There was no difference in the frequency of intensive care unit (ICU) acquired neuromuscular weakness.
+
+【19】Despite this encouraging study, NMBs were not adopted widely by many ICU physicians, perhaps due to poor confidence in the validity of the results and persistent concerns regarding adverse effects of NMBs.
+
+【20】 The second major randomized trial was published in 2019 (ROSE). Patients had moderate to severe ARDS, defined by a PaO 2 /FiO 2 ratio of <150 mmHg with a positive end-expiratory pressure (PEEP) of ≥8 cm H 2 O, and were similar to those in ACURASYS except a slightly higher PEEP was used at baseline . Patients were randomly assigned to receive a cisatracurium infusion for 48 hours but unlike ACURASYS, the control group received light sedation (Richmond Agitation-Sedation Scale of 0 or -1, or a similar score if another scale was used). Despite lower mean PEEP and FiO 2 requirements, cisatracurium did not lower hospital mortality , ventilator-free days, or rates of barotrauma compared with patients receiving light sedation but did result in more adverse cardiovascular events . The lack of survival benefit persisted at 6 and 12 months. Although patients receiving cisatracurium were less physically active during their hospital stay, rates of ICU-acquired weakness were no different when compared with patients on light sedation.
+
+【21】Limitations of this analysis include the lack of blinding of healthcare professionals administering the agent and early cessation of the trial for reasons of futility.
+
+【22】Reasons for the disparity between the results of the ACURASYS and ROSE trials are unclear but may relate to the differences in the degree of sedation in the control group as well as differences in PEEP strategies, use of prone positioning, and timing of NMB administration after enrollment.
+
+【23】INHALED PULMONARY VASODILATORS 
+
+【24】In patients with severe ARDS who have hypoxemia that is refractory to standard therapies, several case series suggest that inhaled pulmonary vasodilators (eg, nitric oxide \[NO\], prostacyclin) may be used to improve oxygenation . They may be especially helpful in patients with ARDS who also have decompensated or acute pulmonary arterial hypertension and right heart dysfunction. However, they have not been shown to reduce morbidity or mortality, a response is not guaranteed, and adverse effects may occur.
+
+【25】The rationale for the use of inhaled pulmonary vasodilators is that they selectively dilate the vessels that perfuse well-ventilated lung zones, resulting in improved oxygenation due to better ventilation/perfusion (V/Q) matching . Inhaled pulmonary vasodilators may also ameliorate the contribution of pulmonary hypertension to hypoxemia .
+
+【26】Choosing an agent — Choosing among the options is usually physician- and institution-dependent. As examples:
+
+【27】 Some clinicians choose prostacyclin since their institution may only provide prostacyclin due to its lower cost and ease of administration compared with NO while others use NO when NO is bought in bulk by their institution (often for use in the pediatric population).
+
+【28】 Other centers use an initial trial of NO (eg, 20 parts per million for one hour) to determine responsiveness; responders are continued on NO or transitioned to inhaled epoprostenol .
+
+【29】 For patients with airborne micro-organisms that need aggressive infection control, NO may also be preferred since it is associated with a less frequent need to change filters, thereby reducing infectious exposures.
+
+【30】Consistent with variable use in practice, one retrospective study reported large variation across several US institutions in the use of initial inhaled pulmonary vasodilator for respiratory failure without any difference in outcomes based on inhaled vasodilator type . Regardless, it is prudent that the clinicians familiarize themselves with the advantages and disadvantages of each agent and ensure that staff are adequately trained in their use.
+
+【31】Assessing the response — If patients respond to inhaled pulmonary vasodilators, they generally do so within the first 24 hours, so trials should be discontinued if no response is seen.
+
+【32】What is considered a response is unknown, but we consider an improvement in the partial arterial pressure of oxygen (PaO 2 )/fraction of inspired oxygen (FiO 2 ) ratio by 10 to 20 percent or more as a significant response.
+
+【33】For responders, the optimal duration is unknown, but we generally try to avoid prolonged exposure (eg, more than several days), particularly when NO is administered.
+
+【34】Efficacy and safety — Data thus far suggest that no agent is superior to the other . In a retrospective study of 239 patients with ARDS, inhaled NO and epoprostenol , a prostacyclin analogue, were associated with a similar improvement in oxygenation at four hours . In addition, the proportion of patents that responded was also similar (approximately two-thirds) and there was no difference in other outcomes including mortality, duration of mechanical ventilation, or hospital length of stay.
+
+【35】Inhaled nitric oxide — Several meta-analyses (each with over 1200 patients) have reported that inhaled NO induced a modest, transient improvement in oxygenation, without any improvement in mortality, duration of mechanical ventilation, or ventilator-free days when compared with either placebo or conventional management .
+
+【36】However, oxygenation does not improve in all patients who receive inhaled NO . The factors that determine responsiveness are uncertain. Retrospective cohort studies have suggested that patients without sepsis , patients with high baseline pulmonary vascular resistance, and patients who are PEEP-responsive may have an increased likelihood of responding to inhaled NO .
+
+【37】Adverse effects from NO include hypotension, methemoglobinemia, and kidney failure. These and other potential adverse effects are discussed in detail separately.
+
+【38】Administration of NO is discussed in detail separately.
+
+【39】Inhaled prostaglandins — Limited data support the use of inhaled prostaglandins in patients with ARDS.
+
+【40】 One meta-analysis of 25 mostly nonrandomized studies reported that inhaled prostaglandins were associated with improvement in oxygenation (PaO 2 /FiO 2 ratio 39 percent higher, 95% CI 26.7-51.3 percent; PaO 2 21.4 percent higher, 95% CI 12.2-30.6 percent), and a decrease in pulmonary artery pressure (-4.8 mmHg, 95% CI -6.8 to -2.8 mmHg) . Systemic hypotension occurred in 17 percent and mortality could not be assessed.
+
+【41】 Several case series have shown similar results in response to inhaled prostacyclin (ie, epoprostenol ) without an impact on mortality .
+
+【42】 Preliminary data in patients with ARDS and concomitant pulmonary hypertension reported that inhaled iloprost , a prostacyclin analog, improved oxygenation without adverse effects on lung mechanics or systemic hemodynamics .
+
+【43】Clinical experience with inhaled prostacyclin for patients with ARDS suggests that adverse effects are infrequent, but side effects such as systemic hypotension, chest pain, bleeding, flushing, headache, nausea, and vomiting have been described .
+
+【44】GLUCOCORTICOIDS 
+
+【45】Our approach to the use of systemic glucocorticoid therapy in patients with ARDS is discussed in the sections below.
+
+【46】Indications — Glucocorticoids can be administered in the following patients:
+
+【47】 **Patients with ARDS who also have additional conditions that benefit from systemic glucocorticoid therapy** – This includes the following:
+
+【48】• ARDS that has been precipitated by a steroid-responsive process (eg, acute eosinophilic pneumonia, organizing pneumonia).
+
+【49】• ARDS associated with refractory septic shock.
+
+【50】• ARDS associated with coronavirus disease 2019 (COVID-19).
+
+【51】• ARDS associated with community-acquired pneumonia.
+
+【52】 Patients with moderate to severe non-COVID-19-related ARDS who are relatively early in the disease course and fail standard therapies – We recommend glucocorticoid therapy for most patients who are relatively early in the disease course (within 14 days of onset) who have persistent or refractory moderate to severe ARDS (eg, partial arterial pressure of oxygen \[PaO 2 \]/fraction of inspired oxygen \[FiO 2 \] ratio <200) despite initial management with low tidal volume ventilation and appropriate positive end-expiratory pressure . The optimal timing of administration within the first 14 days is also uncertain and depends upon the patient's clinical status, which should be assessed daily (eg, rate of improvement or worsening, comorbidities, response to lung protective ventilation).
+
+【53】Based on these data, the Society of Critical Care Medicine/European Society of Intensive Care Medicine (SCCM/ESICM) issued a conditional recommendation in 2017 favoring glucocorticoids in patients with early moderate to severe ARDS . In guidelines published in 2024, the American Thoracic Society (ATS) also offered a conditional recommendation in favor of corticosteroids in patients with ARDS, regardless of severity; however, included in their analysis were additional data from patients with COVID-19-related ARDS, in whom the benefits of corticosteroids are well established . Our recommendation is based upon data in non-COVID-19-related ARDS.
+
+【54】Data that support these recommendations are provided below.
+
+【55】Regimens — When glucocorticoids are used for other steroid-responsive conditions that are associated with ARDS, we follow the protocol typically used for that etiology.
+
+【56】When glucocorticoid therapy is used for ARDS itself, commonly used regimens include:
+
+【57】 Dexamethasone 20 mg IV once daily for five days, then 10 mg once daily for five days .
+
+【58】 Methylprednisolone 1 mg/kg/day in divided doses for 14 days, followed by a taper for a total of 21 to 28 days (using ideal body weight dosing) .
+
+【59】Many experts prefer shorter courses based upon indirect data from patients with community-acquired pneumonia  and COVID-19-related ARDS . These protocols are discussed in detail separately. Earlier tapering after cessation of mechanical ventilation is also reasonable.
+
+【60】The agents used (eg, methylprednisolone , hydrocortisone , dexamethasone ) and dosing regimens varied somewhat in the available clinical trials. However, the efficacy of the different regimens appears to be generally similar .
+
+【61】Efficacy — The available evidence regarding the efficacy and adverse effects of glucocorticoid therapy in patients with non-COVID-19-related ARDS is summarized in the figure  . The major adverse effects of systemic glucocorticoids and their role in COVID-19-related ARDS are described in greater detail separately.
+
+【62】An important limitation of the data on glucocorticoid therapy in ARDS is that low tidal volume ventilation (for example, as implemented by the ARDS Network) was not consistently performed or not documented in the majority of clinical trials. In the three trials that documented use of low tidal volume strategies, two trials reported similar mortality rates among patients receiving glucocorticoids compared with placebo , while the third trial reported lower mortality with glucocorticoids . However, when taken together, the data suggest a probable mortality benefit, as shown in panel D of the figure .
+
+【63】Ongoing trials may shed light on issues including dosing, timing, agent selection, and which patients are most likely to benefit.
+
+【64】Avoidance of glucocorticoids — Glucocorticoids are generally **not** administered in the following patients:
+
+【65】 **Patients late in the disease course** – We generally avoid glucocorticoid use in patients who have persistent ARDS beyond 14 days based upon limited data suggesting glucocorticoids may be harmful in this setting. In the available clinical trials, the mortality benefit of glucocorticoid therapy was seen only among patients randomized before day 14 after ARDS onset. Among patients randomized on or after day 14, glucocorticoid therapy appeared to increase mortality, as shown in panel C of the figure . However, in patients with persistent/refractory ARDS beyond 14 days, it may be reasonable to pursue additional diagnostic evaluation (eg, bronchoscopy, lung biopsy) for other possible etiologies, for which glucocorticoid therapy may be appropriate (eg, organizing pneumonia).
+
+【66】 **Patients with influenza infection** – We generally avoid glucocorticoids in patients with ARDS secondary to influenza because glucocorticoid use may be associated with worse outcomes in such patients .
+
+【67】SUPPORTIVE CARE 
+
+【68】A minority of patients with ARDS die from respiratory failure alone . More commonly, such patients succumb to the primary illness underlying ARDS or to secondary complications. Supportive care is targeted at reducing these complications while therapy targeted at ARDS and the underlying etiology is ongoing. These issues are largely discussed in the linked sections below.
+
+【69】Sedation — In patients with ARDS, we avoid excessive sedation and use validated scales to achieve light sedation. The use of sedative-analgesic medications in critically ill patients, including patients with ARDS, is discussed in detail separately.
+
+【70】Hemodynamic monitoring — Patients with ARDS are monitored using vital signs and telemetry. Often patients additionally require invasive monitoring with an arterial line and central venous catheter (CVC). Indications for invasive monitoring are discussed separately.
+
+【71】Routine use of pulmonary artery catheters has fallen out of favor since data do not support this practice .
+
+【72】Point-of-care ultrasonography to monitor hemodynamics are being increasingly used to guide fluid management in patients with shock and are discussed separately.
+
+【73】Nutritional support — Patients with ARDS are intensely catabolic and nutritional support may help to offset catabolic losses and modulate the metabolic response to stress, mitigate oxidative cellular injury, and promote beneficial immune responses . Further details regarding nutrition in critically ill patients are provided separately.
+
+【74】Glucose control — The approach to glucose control in patients with ARDS is extrapolated from trials that enrolled patients with critical illness, including ARDS. Glucose management and target ranges for acceptable blood sugar control are discussed in detail elsewhere.
+
+【75】Nosocomial pneumonia prevention and management — Nosocomial pneumonia is common among patients with ARDS , with the first episode occurring within a median of 10 days . The impact of nosocomial pneumonia on morbidity and mortality is unclear . We follow standard guidelines recommended for the general population of mechanically ventilated patients to help prevent, diagnose, and treat ventilator-associated pneumonia , the details of which are discussed separately
+
+【76】Venous thromboembolism prophylaxis — The frequency of deep venous thrombosis and pulmonary embolism in patients with ARDS is unknown, but the risk is high, despite prophylaxis. These patients often have multiple risk factors for venous thrombosis, including prolonged immobility, trauma, and predisposing illnesses, such as sepsis, obesity, and malignancy. Thus, all patients with ARDS require some form of thromboprophylaxis, the details of which are discussed separately.
+
+【77】Stress ulcer prophylaxis — Patients with ARDS requiring prolonged mechanical ventilation are at high risk for gastrointestinal bleeding and require stress ulcer prophylaxis. Prophylaxis and management of stress ulcers are discussed in detail elsewhere.
+
+【78】Venous access — While peripheral venous access is the fastest form of access for the initial management of critically ill patients with ARDS, CVCs have additional advantages. As examples, CVCs can be used to administer vasopressors, measure central venous pressure and draw blood for laboratory testing. The indications for central line placement, technique, and complications of peripheral and central access are discussed in detail elsewhere.
+
+【79】Mucolytics — Evidence suggests that there is no role for the routine administration of mucolytics in patients with ARDS .
+
+【80】Fever control — Critically ill patients with ARDS frequently develop fever. Management of fever in patients with ARDS is similar to that in other critically ill patients who are admitted to the intensive care unit (ICU). Further details are provided separately.
+
+【81】Blood product transfusion — Blood products are commonly administered to patients with ARDS. Data, including target hemoglobin levels used in patients with ARDS, are extrapolated from critically ill patients in the ICU. Further details are provided separately.
+
+【82】Links to society and government-sponsored guidelines from selected countries and regions around the world are provided separately.
+
+【83】INFORMATION FOR PATIENTS 
+
+【84】Here are the patient education articles that are relevant to this topic. We encourage you to print or e-mail these topics to your patients. (You can also locate patient education articles on a variety of subjects by searching on "patient info" and the keyword(s) of interest.)
+
+【85】 Basics topics
+
+【86】 **Fluid management** – In patients with acute respiratory distress syndrome (ARDS), we suggest a conservative rather than liberal fluid management strategy .
+
+【87】• The goal is to minimize or eliminate a positive fluid balance. It is reasonable to target a central venous pressure of <4 mmHg. Diuretics may need to be administered to achieve this goal.
+
+【88】• The rationale for this strategy is based upon the increased risk of pulmonary edema in patients with ARDS and data that suggest improved oxygenation with a conservative approach, although no clear mortality benefit has been shown.
+
+【89】 **Paralysis** – In patients with ARDS, we do **not routinely** administer neuromuscular blockers (NMBs). This approach is based upon a lack of robust evidence to support clinically meaningful benefit from NMBs in this population and their potential for harm. We reserve their use for patients with ARDS who have severe hypoxemia refractory to standard therapies and patients with severe ventilator dyssynchrony that is refractory to ventilator adjustment and sedation .
+
+【90】 **Inhaled pulmonary vasodilators** – In patients with ARDS, we do **not routinely** administer inhaled pulmonary vasodilators. We reserve their use for patients with ARDS who have severe hypoxemia refractory to standard therapies or patients with ARDS who also have concomitant decompensated acute pulmonary arterial hypertension and right heart dysfunction.
+
+【91】 **Glucocorticoid administration** – Our approach to the use of systemic glucocorticoid therapy in ARDS is as follows:
+
+【92】Patients in whom we administer systemic glucocorticoids include the following:
+
+【93】• **Patients with ARDS who also have additional conditions that benefit from systemic glucocorticoid therapy** – This includes:
+
+【94】\- Refractory septic shock.
+
+【95】\- COVID-19.
+
+【96】\- Community-acquired pneumonia.
+
+【97】\- Another identified steroid-responsive process (eg, acute eosinophilic pneumonia, organizing pneumonia).
+
+【98】\- Another identified steroid-responsive process (eg, acute eosinophilic pneumonia, organizing pneumonia).
+
+【99】• **Early moderate to severe ARDS despite lung-protective ventilation** – In addition, for most patients who are relatively early in the disease course (within 14 days of onset) who have persistent or refractory moderate to severe ARDS (partial arterial pressure of oxygen/fraction of inspired oxygen ratio <200) despite initial management with low tidal volume ventilation and appropriate positive end-expiratory pressure , we recommend glucocorticoid therapy . The benefit of glucocorticoids is less certain in patients who have mild ARDS or patients who are responding to standard therapy. Such patients should be assessed on a case-by-case basis.
+
+【100】Several randomized trials and meta-analyses support the efficacy and safety of glucocorticoids in this setting . Future studies may shed light on which patients are likely to benefit from glucocorticoid treatment and which are likely to be harmed.
+
+【101】The optimal use of glucocorticoids (agent, initiation, dose, and duration) is uncertain. Regimens used in trials include dexamethasone 20 mg IV once daily for five days followed by 10 mg once daily for five days or methylprednisolone 1 mg/kg/day in divided doses for 14 days followed by a taper for a total of 21 to 28 days.
+
+【102】Patients in whom we do **not** administer systemic glucocorticoids include the following:
+
+【103】• **Late ARDS** – We do **not** routinely use glucocorticoids in patients who have persistent ARDS beyond 14 days based upon limited data suggesting glucocorticoids may be harmful in this setting .
+
+【104】• **Influenza-related ARDS** – We do **not** administer glucocorticoid therapy in influenza-related ARDS.
+
+【105】 **Supportive care** – Key components of supportive care for patients with ARDS include the following:
+
+【106】• Appropriate use of sedatives.
+
+【107】• Careful hemodynamic management.
+
+【108】• Nutritional support.
+
+【109】• Control of blood glucose.
+
+【110】• Prevention and treatment of nosocomial pneumonia.
+
+【111】• Prophylaxis against venous thromboembolism.
+
+【112】• Prophylaxis against gastrointestinal bleeding.
+
+【113】• Venous access.
+
+【114】• Fever control.
+
+【115】• Blood transfusion.焦瀚远
+
+====================================================================================================

@@ -1,0 +1,239 @@
+【0】Autism spectrum disorder in children and adolescents: Surveillance and screening in primary care
+
+【1】INTRODUCTION 
+
+【2】Autism spectrum disorder (ASD) is a biologically based neurodevelopmental disorder characterized by deficits in social communication and social interaction and restricted, repetitive patterns of behavior, interests, and activities.
+
+【3】The rationale for ASD surveillance and screening in primary care will be reviewed here. General developmental screening, ASD-specific screening tools, and clinical features, diagnosis, and management of ASD are discussed separately.
+
+【4】TERMINOLOGY
+
+【5】 **Autism spectrum disorder** – The term "Autism Spectrum Disorder" (ASD) describes a heterogeneous group of neurodevelopmental disorders that have diverse etiologies but are characterized by impairments in reciprocal social interaction, social communication, and behavior (specifically, restricted, repetitive patterns of behavior, interests, and activities) .
+
+【6】The terminology and diagnostic criteria for ASD vary geographically.
+
+【7】• The Diagnostic and Statistical Manual of Mental Disorders (DSM) is used predominantly in the United States and was updated in 2022 (DSM-5 Text Revision \[DSM-5-TR\]) .
+
+【8】• The World Health Organization International Classification of Diseases, 11th revision (ICD-11) is used in other countries throughout the world . The 11 th edition was implemented in 2022. With the 2022 implementation, ICD-11 changed the terminology for ASD to be consistent with that in DSM-5 and DSM-5-TR . In ICD-10, ASD was classified as a "pervasive developmental disorder" with several subtypes (eg, childhood autism, atypical autism, and Asperger syndrome).
+
+【9】The diagnostic criteria for ASD in DSM-5-TR and ICD-11 are similar but not identical, . They are discussed separately.
+
+【10】The slight inconsistencies between the DSM-5-TR and ICD-11 terminology do not affect the rationale or process for surveillance and screening for ASD.
+
+【11】 **Surveillance** – Surveillance is a process through which potential risk factors for developmental and behavioral disorders can be identified. It is defined as a flexible, continuous process in which knowledgeable professionals collect information from multiple sources (eg, observation of children during child health care visits, asking specific questions to elicit caregiver concerns) to identify and address developmental concerns . It is described in greater detail separately.
+
+【12】 **Screening** – Screening is defined as a brief, formal, standardized evaluation, the purpose of which is the early identification of patients with unsuspected deviations from the norm. A screening instrument enables detection of conditions/concerns that may not be readily apparent without screening. Screening does not provide a diagnosis; it helps determine whether additional investigation (eg, a diagnostic evaluation) by clinicians with special expertise in ASD is necessary . Effective screening requires that results from standardized screening tests be considered in conjunction with clinical judgment.
+
+【13】BACKGROUND
+
+【14】Delayed diagnosis — Surveys of families of children with ASD indicate that delays between the onset of caregiver concerns and comprehensive evaluation and between comprehensive evaluation and diagnosis of ASD are common . In a multicenter surveillance study of children with ASD, 85 percent of the caregivers expressed concern about general developmental delay at ≤36 months of age, yet only 61 percent of the children had undergone a comprehensive evaluation at ≤48 months of age, and the median age of diagnosis was 52 months . The surveillance methodology for this study does not capture delay in diagnosis for patients whose caregivers did not express concerns. The median age of diagnosis ranged from 46 to 67 months, depending upon the severity of symptoms.
+
+【15】Screening for ASD is challenging for a number of reasons, including the time constraints of a typical office visit, the vague nature of social developmental milestones, and the variability of the signs and symptoms of ASD in individual children.
+
+【16】Some of the clinical features that contribute to earlier evaluation and diagnosis include language delay and atypical behaviors, such as hand flapping and toe walking . Factors that may delay diagnosis include less severe symptoms, female sex, coexisting problems (eg, anxiety, hyperactivity, mood disorder), lack of continuity of care, hearing impairment, oversensitivity to pain, attribution of regression of skills to "stressors" (eg, birth of a sibling), language barriers, being in an underrepresented ethnic group, living in a rural area, and lower socioeconomic status . In addition, ASD may be "masked" or exacerbated by coexisting problems (eg, anxiety, hyperactivity, mood disorder), affecting the timing or accuracy of diagnosis.
+
+【17】Early indicators — Early signs of ASD often are present before 18 months of age and frequently are of concern to caregivers . Caregivers may initially report concerns of speech and language delay or frequent tantrums . Caregivers' concerns, as assessed using a standardized measure, correlate with developmental and behavioral problems in young children .
+
+【18】Prospective studies of children at risk for ASD and retrospective studies using home movies to examine the early development of children with ASD have identified a number of early symptoms and signs that begin to emerge after approximately six months of age . According to age, these included:
+
+【19】 <6 months – Decreased visual fixation (as measured by eye-tracking technology) ; this difference is not apparent to the naked eye, so caregivers of young infants should not be concerned if the infant does not always meet their eyes .
+
+【20】 6 to 12 months – Reduced response to name, gaze to faces, shared smiles, and vocalizations to others and a tendency to fixate on particular objects in the environment .
+
+【21】 12 to 24 months – Reduced frequency of sharing experiences, interests, or attention with others; repetitive behaviors; delayed expressive and receptive language; and problems with eye contact, orienting to name, pretend play, imitation, and nonverbal (eg, gestural) and verbal communication .
+
+【22】Early red flags — Important early symptoms and signs of ASD include  :
+
+【23】 Caregiver concerns about deficits in social skills
+
+【24】 Caregiver concerns about deficits in language skills or behavior
+
+【25】 Caregiver concerns about frequent tantrums or intolerance to change
+
+【26】 Delayed language and social/communication skills :
+
+【27】• Lack of orientation to name by age 12 months
+
+【28】• Lack of pointing to or gesturing to indicate interest (eg, by pointing to an airplane flying over) by age 14 months
+
+【29】• Lack of pretend play (eg, "feeding" a doll) by age 18 months
+
+【30】 Avoiding eye contact or wanting to be alone
+
+【31】 Having trouble understanding other people's feelings or talking about their own feelings
+
+【32】 Repeating words or phrases over and over (echolalia)
+
+【33】 Giving unrelated answers to questions
+
+【34】 Getting upset by minor changes
+
+【35】 Having obsessive interests
+
+【36】 Flapping their hands, rocking their body, or spinning in circles
+
+【37】 Having unusual reactions to the way things sound, smell, or taste
+
+【38】Benefits of surveillance/screening — Early identification is an important step in optimizing outcome; early identification facilitates :
+
+【39】 Earlier education planning.
+
+【40】 Family/caregiver support.
+
+【41】 Delivery of appropriate medical care and treatment of associated conditions.
+
+【42】 Genetic counseling (particularly if the child has a condition associated with ASD, such as tuberous sclerosis complex).
+
+【43】 Early intensive intervention that is individualized according to the specific strengths, weaknesses, and needs of the child and family. Early and appropriate interventions are critical for optimizing outcomes in individuals with ASD.
+
+【44】APPROACH TO ASD SURVEILLANCE AND SCREENING
+
+【45】ASD surveillance — ASD surveillance is encompassed in routine developmental-behavioral surveillance and screening, which consists of eliciting caregiver concerns, maintaining a developmental history, observing caregiver-child interactions, identifying risk and protective factors, and periodic developmental screening. Routine developmental surveillance is recommended at every well-child visit. Regular administration of developmental screening tests is recommended at the 9-, 18-, and 24- or 30-month visits, **and** when developmental concerns are raised .
+
+【46】The most important thing the primary care clinician can do is to listen to the caregivers and take their concerns seriously. Observation of the child during the office visit is not sufficient because children with ASD often are able to manage the social demands of a routine pediatric office visit successfully, especially if they have normal intelligence and/or have been instructed about how to behave in the clinician's office. Asking targeted questions may help to elicit concerns about ASD  . Some expert groups suggest that ASD-specific screening tools (eg, the Modified Checklist for Autism in Toddlers) are helpful in eliciting caregiver concerns .
+
+【47】If caregivers express concerns suggestive of ASD, the primary care provider can engage the child in an open-ended conversation to evaluate atypical communication and social behaviors. This can include asking the child about friendships, what they like to do during play dates or play time, etc. Both the content and style of the child's responses may reveal atypical communication and social behaviors.
+
+【48】ASD screening
+
+【49】Target groups
+
+【50】 **Symptomatic children with clinical features associated with ASD** – Symptomatic children with clinical features associated with ASD should undergo ASD-specific screening as part of their evaluation. Symptomatic children include:
+
+【51】• Children with delayed language/communication milestones identified by screening tests or caregiver report
+
+【52】• Children with regression in social or language skills
+
+【53】• Children with a sibling diagnosed with ASD
+
+【54】• Children (regardless of age) whose parents, care provider, or clinician raise concerns regarding ASD (eg, those with atypical behaviors, difficulty socializing, rigidity of behavior that interferes with function) 
+
+【55】This approach to evaluation of children with symptoms of ASD is generally consistent with recommendations from expert groups .
+
+【56】 **Children without clinical features associated with ASD** – For children without findings associated with ASD, we suggest ASD-specific screening at 18 and 24 months of age. Early identification enables earlier intensive intervention, which is associated with improved outcomes.
+
+【57】This suggestion for population-based screening for ASD in asymptomatic children is endorsed by some , but not all expert groups . Even when universal screening for ASD is not recommended, there continue to be recommendations for routine surveillance for ASD and developmental screening.
+
+【58】In our estimation and that of other experts, the potential benefits of early detection outweigh the potential harms of screening in asymptomatic children (eg, time, effort, anxiety associated with further testing; time and cost of behavioral treatments); children with "false positive" screens for ASD frequently have other developmental disorders that are correctly diagnosed during the evaluation for ASD and also benefit from early intervention .
+
+【59】Additional factors that contribute to our rational in recommending screening asymptomatic children include :
+
+【60】• ASD is common, with a prevalence of 1 in 40 to 1 in 500 children.
+
+【61】• Diagnosis is often delayed – The median age of diagnosis in the United States is >4 years , although the diagnosis can be reliably made in children as young as 18 months of age . Early identification is complicated by the heterogeneity of presentation and the difficulty of differentiating symptoms of ASD from those of other developmental disorders.
+
+【62】• The atypical behaviors characteristic of ASD are variably present, particularly in young children, and may be missed by clinicians and caregivers unless routine screening is performed. Brief observation of children's behaviors alone is not sufficiently sensitive, even when performed by individuals with expertise in ASD observing structured evaluation for ASD, because young children with ASD may demonstrate typical behavior more often than atypical behavior .
+
+【63】• Available screening tools have appropriate sensitivity and specificity to identify children with ASD from unselected populations before three years of age. In large studies in community primary care settings, approximately 50 percent of young children who failed an ASD screen were diagnosed with ASD and 98 percent had a developmental concern that warranted early intervention . In the United States, children who fail ASD screening can be referred for infant-toddler assessment through Part C of the Individuals with Disabilities Education Act.
+
+【64】• When made at ≥24 months, the diagnosis of ASD is stable (ie, confirmed at reassessment); in a systematic review of screening studies, the stability of a diagnosis of ASD ranged from 68 to 100 percent . The diagnosis of ASD appears to be stable as early as age 14 months. In a prospective cohort study of 1269 children who were first evaluated for ASD at age 12 to 36 months (median age 17.6 months) and had at ≥1 subsequent evaluation, the overall stability of a diagnosis of ASD was 84 percent; diagnostic stability increased with increasing age (from 50 percent in children age 12 to 13 months, to 79 percent at age 14 months) .
+
+【65】• In the United States, there is a mandate to provide publicly funded special education and related services through the Education of All Handicapped Children Act (PL 94-142 and PL 99-457) .
+
+【66】• The benefits of early intervention on improving outcomes for ASD are well described.
+
+【67】ASD-specific screening tools — We use ASD-specific screening tools for children in whom ASD screening is indicated . ASD-specific screening tools systematically incorporate items that address the core symptoms of ASD and assess different domains of development than general developmental screening tools; the two tools are complementary . However, early developmental screening tools that focus on communication skills may be helpful in early identification of ASD .
+
+【68】ASD-specific screening tools are discussed in detail separately
+
+【69】MANAGEMENT OF CHILDREN WHO SCREEN POSITIVE
+
+【70】Caregiver education — If the primary care clinician is reasonably confident that the child has ASD, it is helpful to provide the caregivers with educational materials to review before the comprehensive evaluation. Even if the primary care clinician is not certain of the diagnosis, it is helpful to provide the caregivers with education about the implications of a positive screen and interventions that may be helpful in addressing the symptom(s) identified by the screening test, whether or not the child ultimately is diagnosed with ASD .
+
+【71】Referrals and medical evaluation — Children who screen positive for ASD should receive the referrals and initial medical evaluation described below . Further medical evaluation, including genetic testing, is indicated once the diagnosis of ASD is confirmed .
+
+【72】 **Developmental services** – Referral to developmental services should be made without delay, even before confirmation of the diagnosis . Clinical experience demonstrates that the earlier a child with ASD receives appropriate intervention, the better the long-term outcome.
+
+【73】In the United States, intervention services are provided by Early Intervention if the child is younger than three years of age and by the public school system if the child is older than three years.
+
+【74】Core features of successful ASD educational programs are discussed separately.
+
+【75】 **Comprehensive diagnostic evaluation** – Comprehensive diagnostic evaluation is preferably performed by a provider or team that has expertise in the diagnosis and management of ASD. The diagnostic evaluation should include a thorough history, physical examination, neurologic examination, and direct assessment of the child's social, language, and cognitive development along with information about adaptive functioning.
+
+【76】 **Speech and language evaluation** – Children who screen positive for ASD should be referred for speech and language evaluation if they have language delay.
+
+【77】 **Audiology and blood lead level** – Children who screen positive for ASD should undergo a hearing screen and blood lead level (if not recently performed) . Hearing impairment and lead poisoning are potentially treatable causes of developmental/behavioral problems 
+
+【78】Monitoring and support — Once a diagnosis of ASD is made, the child and their caregivers will need ongoing support and medical management . In addition to information regarding therapies and other treatments, caregivers should be provided with information about appropriate schools or therapy centers, government agencies for individuals with disabilities, caregiver groups, and other community-based support systems. Families will also need ongoing guidance regarding unconventional and/or unproven alternative therapies and the importance of immunizations .
+
+【79】Continuing medical management includes monitoring for the development of seizures, sleep problems, nutritional and gastrointestinal problems related to diet selectivity , and treatment of behavioral and emotional difficulties.
+
+【80】Siblings of children with ASD should be monitored for symptoms of ASD , language delay, learning difficulties, social problems, and symptoms of anxiety or depression, and underimmunization .
+
+【81】MANAGEMENT OF CHILDREN WHO SCREEN NEGATIVE 
+
+【82】Children who screen negative for ASD at 18 or 24 months of age should continue to undergo routine developmental and behavioral surveillance and screening . Those who have atypical development or social/communication skills or whose caregivers have concerns should undergo a comprehensive evaluation regardless of the results of the ASD screen.
+
+【83】Children ultimately diagnosed with ASD may have an initial negative screen at age 18 or 24 months . In a prospective cohort of 68,197 children who screened negative on the Modified Checklist for Autism in Toddlers (M-CHAT) at age 18 months, 228  were subsequently diagnosed with ASD (ie, "false negatives") . Although these children screened negative on the M-CHAT, they demonstrated atypical features and delays in social, communication, and motor skills on other developmental and behavioral screening tests (selected items from the Ages and Stages Questionnaire and the Emotionality Activity Sociability Temperament Survey). The M-CHAT screen used in this study was subsequently revised to the M-CHAT, Revised with Follow-Up (M-CHAT-R/F). Whether the M-CHAT-R/F has a lower false-negative rate than the M-CHAT is uncertain. Nevertheless, the findings of this study suggest that clinicians should interpret results of ASD-specific screening tools in conjunction with clinical judgment and developmental and behavioral surveillance and screening and refer children with atypical development for a comprehensive evaluation.
+
+【84】RESOURCES 
+
+【85】Families of children with ASD benefit from referral to community resources such as caregiver groups, advocacy programs, and respite and recreational services. In the United States, many states provide additional services to families of children with ASD through the Department of Developmental Services (formerly Department of Mental Retardation) regardless of the child's cognitive functioning. Families may also qualify for Supplemental Security Income benefits, depending on income level.
+
+【86】Online resources for caregivers and providers include:
+
+【87】 The Center for Disease Control and Prevention's (CDC) " Learn the Signs. Act Early " website
+
+【88】 The CDC's "Learn the Signs. Act Early" Autism Case Training
+
+【89】 The CDC's Autism Information Center
+
+【90】 Autism Society of America
+
+【91】 Autism Speaks
+
+【92】 The Autism Spectrum Disorders Video Glossary , an online resource for caregivers and providers with video clips showing early red flags for autism (free access with registration)
+
+【93】 The United Kingdom's National Autistic Society
+
+【94】 Federation for Children with Special Needs
+
+【95】 Asperger/Autism Network
+
+【96】 Supplemental Security Income
+
+【97】Links to society and government-sponsored guidelines from selected countries and regions around the world are provided separately.
+
+【98】INFORMATION FOR PATIENTS 
+
+【99】Here are the patient education articles that are relevant to this topic. We encourage you to print or email these topics to your patients. (You can also locate patient education articles on a variety of subjects by searching on "patient education" and the keyword\[s\] of interest.)
+
+【100】 Beyond the Basics topic
+
+【101】 The estimated prevalence of autism spectrum disorder (ASD) is 1 in 40 to 1 in 500 children.
+
+【102】 There is often a substantial delay between initial expression of symptoms and of caregiver concerns and comprehensive evaluation for ASD.
+
+【103】 Symptoms of ASD usually are present by 18 to 24 months of age and remain stable through preschool and school age . Important early indicators of ASD include caregiver concerns about social skills, language, or behavior and delayed language and social skills .
+
+【104】 Early identification facilitates earlier education planning, family/caregiver support, delivery of appropriate medical care and treatment of associated conditions, genetic counseling, and early intensive intervention, which is critical for an optimal outcome.
+
+【105】 ASD surveillance consists of eliciting caregiver concerns, maintaining a developmental history, observing caregiver-child interactions, identifying risk and protective factors, and periodic general developmental screening. The most important thing the primary care clinician can do is to listen to the caregivers and take their concerns seriously.
+
+【106】 Symptomatic children with clinical features associated with ASD should undergo ASD-specific screening as part of their evaluation. Symptomatic children include:
+
+【107】• Children with delayed language/communication milestones identified by screening tests or caregiver report
+
+【108】• Children with regression in social or language skills
+
+【109】• Children with a sibling diagnosed with ASD
+
+【110】• Children (regardless of age) whose parents, care provider, or clinician raise concerns regarding ASD (eg, those with atypical behaviors, difficulty socializing, rigidity of behavior that interferes with function) 
+
+【111】 For children without findings associated with ASD, we suggest ASD-specific screening during early childhood . We perform ASD screening at age 18 and 24 months. ASD-specific screening tools  are discussed in detail separately.
+
+【112】 Children who screen positive for ASD should:
+
+【113】• Be referred for developmental services, which should start as soon as possible
+
+【114】• Undergo a comprehensive diagnostic evaluation, preferably by a provider or team that has expertise in the diagnosis and management of ASD
+
+【115】• Be referred for speech and language evaluation if they have language delay
+
+【116】• Undergo audiologic evaluation and measurement of blood lead level
+
+【117】 Caregivers of children who have been diagnosed with ASD should be provided with information regarding appropriate interventions, schools/therapy centers, local government agencies for individuals with disabilities, caregiver groups, and other community-based support systems.
+
+【118】 Children who screen negative for ASD at 18 or 24 months of age should continue to undergo routine developmental and behavioral surveillance and screening. Those who have atypical development or social/communication skills should undergo a comprehensive evaluation regardless of the results of the ASD screen.黄艳玲
+
+====================================================================================================

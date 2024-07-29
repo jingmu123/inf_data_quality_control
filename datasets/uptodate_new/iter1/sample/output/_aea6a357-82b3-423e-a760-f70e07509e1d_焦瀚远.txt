@@ -1,0 +1,315 @@
+【0】Wolff-Parkinson-White syndrome: Anatomy, epidemiology, clinical manifestations, and diagnosis
+
+【1】INTRODUCTION 
+
+【2】In 1930, Louis Wolff, Sir John Parkinson, and Paul Dudley White published a seminal article describing 11 patients who suffered from attacks of tachycardia associated with a sinus rhythm electrocardiographic (ECG) pattern of bundle branch block with a short PR interval . This was subsequently termed Wolff-Parkinson-White (WPW) syndrome, although earlier isolated case reports describing similar patients had been published. In 1943, the ECG features of preexcitation were correlated with anatomic evidence for the existence of anomalous bundles of conducting tissue that bypassed all or part of the normal atrioventricular (AV) conduction system.
+
+【3】This topic will discuss the definitions, anatomy, epidemiology, clinical manifestations, and diagnosis of WPW syndrome as well as the approach to risk stratification of asymptomatic patients. The treatment options for patients with tachyarrhythmias and WPW syndrome are discussed separately.
+
+【4】DEFINITIONS
+
+【5】Normal AV conduction versus accessory AV pathway conduction — In the normal heart, the atria and the ventricles are electrically isolated, with conduction of electrical impulses from the atria to the ventricles normally occurring via the AV node and the His-Purkinje system. Patients with a preexcitation syndrome have an additional pathway, known as an accessory pathway (also called bundle of Kent), which directly connects the atria and ventricles, thereby allowing electrical activity to bypass the AV node, leading to "preexcitation" or earlier than usual activation of the His-Purkinje system . Tissue in the accessory pathways, which are congenital in origin and result from failure of resorption of the myocardial syncytium at the annulus fibrosis of the AV valves during fetal development, typically conducts electrical impulses more quickly than the AV node, resulting in the shorter PR interval seen on the surface ECG.
+
+【6】It has been estimated that most accessory pathways  are capable of bidirectional conduction (antegrade and retrograde) between the atrium and ventricle. However, some accessory pathways  are only capable of conduction in a retrograde fashion from ventricle to atrium . When accessory pathways conduct exclusively in the retrograde direction (so-called "concealed" accessory pathways), they do not generate a delta wave (ie, slurred upstroke of the QRS complex) and the WPW pattern on the surface ECG but are still capable of supporting reentrant tachycardia. Retrograde conduction can occur following ventricular pacing or premature beats, and it can form the retrograde arm of an orthodromic AV reentrant tachycardia (AVRT) circuit. The vast majority of concealed accessory pathways are left-sided .
+
+【7】Less commonly , an accessory pathway is only capable of conduction in the antegrade direction; in such cases, the ECG does show a delta wave and the WPW pattern on the surface ECG, and the pathway can form the antegrade arm of an antidromic AVRT circuit. The mechanism responsible for unidirectional conduction along an accessory pathway (antegrade only or retrograde only) remains undetermined.
+
+【8】Accessory pathways that appear to be concealed may be capable of antegrade conduction in some situations:
+
+【9】 If AV nodal conduction is enhanced and/or the accessory pathway is left lateral (ie, far from the sinus node), conduction may proceed over the normal AV node-His Purkinje system more quickly than over the accessory pathway. In these cases, antegrade accessory pathway conduction occurs, but is not manifest on the surface ECG. Transient blockade of AV nodal conduction with adenosine may expose the "concealed" pathway.
+
+【10】 In some patients with left free wall accessory pathways, pacing the left atrium via the coronary sinus, in an area closer to the accessory pathway, may be necessary to bring out antegrade accessory pathway conduction and overt preexcitation.
+
+【11】 Some accessory pathways (in any location) may have limited antegrade conduction potential due to a long refractory period and only become manifest at slower heart rates.
+
+【12】WPW pattern versus WPW syndrome — Two terms, distinguished by the presence or absence of arrhythmias, have been used to describe patients with AV accessory pathways:
+
+【13】 The WPW pattern is applied to the patient with preexcitation manifest on an ECG in the absence of symptomatic arrhythmias.
+
+【14】 WPW syndrome is applied to the patient with both preexcitation manifest on an ECG and symptomatic arrhythmias involving the accessory pathway.
+
+【15】Persons with either the WPW pattern or WPW syndrome can have identical findings on the surface ECG. In either situation, antegrade conduction through the accessory pathway results in earlier activation, or preexcitation, of part of the ventricles. The classic WPW ECG pattern ( waveform 1 and waveform 2 ) has two major features: a shortened PR interval and a widened QRS complex due to a delta wave. The ECG findings are discussed in greater detail elsewhere.
+
+【16】ANATOMY
+
+【17】Accessory pathway location — Electrophysiologic studies and mapping have shown that accessory AV pathways may be located anywhere along the AV ring (groove) or in the septum. The most frequent locations are left lateral , posteroseptal , right anteroseptal , and right lateral .
+
+【18】Many studies have attempted to correlate the site of the accessory pathway with the ECG pattern . However, the ECG appearance of activation depends upon the extent of preexcitation and, as a result, the same pathway may not always produce the same ECG pattern. Furthermore, up to 13 percent of individuals with preexcitation have more than one accessory pathway . The probability is increased in subjects with a family history of preexcitation, as well in as patients with Ebstein malformation of the tricuspid valve and certain forms of cardiomyopathy .
+
+【19】Associated cardiac abnormalities — Most patients with AV accessory pathways do not have coexisting structural cardiac abnormalities . Associated congenital heart disease, when present, is more likely to be right-sided than left-sided in location . Ebstein anomaly is the congenital lesion most strongly associated with WPW syndrome. As many as 10 to 20 percent of such patients have one or more accessory pathways; the majority of these are located in the right free wall and right posteroseptal spaces .
+
+【20】An association between mitral valve prolapse and left-sided accessory pathways has also been reported. However, this association may simply reflect the random coexistence of two relatively common conditions .
+
+【21】In addition, a familial form of WPW syndrome is associated with hypertrophic cardiomyopathy (HCM).
+
+【22】EPIDEMIOLOGY 
+
+【23】When discussing the prevalence of WPW, it is important to distinguish between the WPW pattern (ie, ECG abnormalities in asymptomatic patients) and WPW syndrome. Both are fairly infrequent, occurring in less than 1 percent of the general population, with the WPW pattern between 10 and 100 times more common than WPW syndrome.
+
+【24】Prevalence of WPW pattern — The prevalence of a WPW pattern on the surface ECG is estimated at 0.13 to 0.25 percent in the general population . The prevalence appears higher (up to 0.55 percent) among first-degree relatives of persons with the WPW pattern, suggesting a familial component.
+
+【25】The WPW pattern on the ECG may be intermittent and may even disappear permanently over time . In several large cohorts, the frequency of intermittent preexcitation appears to range between 10 and 40 percent .
+
+【26】 In one cohort study, 22 percent of individuals who eventually manifested the WPW pattern on an ECG initially had a normal tracing, and in 40 percent of these patients, the WPW pattern disappeared on subsequent ECGs .
+
+【27】 In a cohort of 328 patients with preexcitation (mean age 13 years), 41 patients  were noted to have intermittent preexcitation .
+
+【28】 In a single-center cohort of 295 patients with preexcitation (mean age 12 years at presentation), 39 patients  had intermittent preexcitation, and another 30  had loss of preexcitation on ambulatory monitoring or exercise testing .
+
+【29】Intermittent and/or persistent loss of preexcitation may indicate that the accessory pathway has a relatively longer baseline refractory period, which makes it more susceptible to age-related degenerative changes and variations in autonomic tone . Compared with patients with a persistent WPW pattern, those in whom antegrade conduction via the accessory pathway disappeared were older  and had a longer refractory period of the accessory pathway at initial electrophysiologic study (\[EPS\]; 414 versus 295 milliseconds) .
+
+【30】Prevalence of WPW syndrome — The prevalence of WPW syndrome is substantially lower than that of the WPW pattern alone. The exact value has varied in different studies, depending in part upon the duration of follow-up:
+
+【31】 In a review of 22,500 healthy aviation personnel, the WPW pattern on an ECG was seen in 0.25 percent, and only 1.8 percent of these patients had documented arrhythmia .
+
+【32】 In a report of 228 subjects with the WPW pattern by ECG who were followed for 22 years, the overall incidence of arrhythmia resulting in WPW syndrome was 1 percent per year .
+
+【33】 In a study of 432,166 children, ages 6 to 20 years, the prevalence of WPW syndrome was 0.07 percent .
+
+【34】Different types of supraventricular arrhythmias occur in WPW syndrome.
+
+【35】 AV reentrant tachycardia (AVRT): up to 80 percent
+
+【36】 Atrial fibrillation (AF): 15 to 30 percent
+
+【37】 Atrial flutter: 5 percent or less
+
+【38】The incidence of sudden cardiac death (SCD) in asymptomatic persons is quite low, with a meta-analysis of 20 studies , estimating the risk at 0.13 percent per year .
+
+【39】The occurrence of arrhythmia is related to the age at the time preexcitation was discovered . In one cohort study of 113 persons with the WPW pattern, one-third of asymptomatic individuals less than 40 years of age at the time the WPW pattern was identified eventually had symptomatic arrhythmias, compared with none of those who were 40 years of age or older at diagnosis .
+
+【40】As noted above, the WPW pattern may disappear in asymptomatic patients; a similar course can occur in patients with WPW syndrome . In one cohort of 113 patients with WPW syndrome or AV nodal reentrant tachycardia who were followed for nine years, 23 percent lost antegrade conduction and ventricular preexcitation, 8 percent lost retrograde conduction in the accessory pathway, and 10 percent had disappearance of their arrhythmias .
+
+【41】Prevalence of concealed accessory pathways — The true prevalence of concealed accessory pathways is unknown. Since the presence of a concealed accessory pathway is only identified during an arrhythmia (eg, AVRT), such a pathway cannot be identified during sinus rhythm using an ECG alone. Thus, only patients with symptomatic arrhythmias who undergo diagnostic EPS ever have concealed accessory pathways diagnosed. Among patients with symptomatic supraventricular tachycardias (SVTs) presenting for catheter ablation, the prevalence of concealed accessory pathways is approximately 15 percent .
+
+【42】Familial WPW — Among patients with WPW syndrome, 3.4 percent have first-degree relatives with a preexcitation syndrome . A familial form of WPW syndrome has infrequently been reported and is usually inherited as an autosomal dominant trait . Two studies of three families with affected subjects who had an early onset of conduction disease and frequent episodes of AF mapped the gene responsible for WPW syndrome to chromosome 7q34-q36 . Missense mutations were identified in the PRKAG2 gene, which encodes the gamma-2 regulatory subunit of AMP-activated protein kinase .
+
+【43】An inherited form of WPW syndrome associated with familial HCM has been described and may be due to either mutations in the PRKAG2 gene, as with isolated familial WPW syndrome, or in the LAMP2 gene, which is responsible for glycogen storage disease IIb (Danon disease).
+
+【44】CLINICAL MANIFESTATIONS 
+
+【45】As noted above, the majority of patients with the WPW pattern on their ECG remains asymptomatic. However, a small percentage of patients with the WPW pattern develop arrhythmias (eg, AV reentrant \[or reciprocating\] tachycardia \[AVRT\], atrial fibrillation \[AF\] with rapid ventricular response, etc) as a part of WPW syndrome. Most patients who develop an arrhythmia will present with one or more of the following symptoms:
+
+【46】 Palpitations
+
+【47】 Lightheadedness and/or dizziness
+
+【48】 Syncope or presyncope
+
+【49】 Chest pain
+
+【50】 Sudden cardiac arrest
+
+【51】Arrhythmias associated with WPW — Tachycardias associated with WPW syndrome can be classified into those in which the accessory pathway is necessary for initiation and maintenance of the tachycardia, and those in which the bypass tract acts as a "bystander," providing a route of conduction from the anatomic site of tachycardia origin to other regions of the heart .
+
+【52】Tachycardias requiring an accessory pathway for initiation and maintenance — AVRT is a reentrant tachycardia with an anatomically defined circuit that consists of two distinct pathways, the normal AV conduction system and an AV accessory pathway, linked by common proximal (the atria) and distal (the ventricles) tissues. If sufficient differences in conduction time and refractoriness exist between the normal conduction system and the bypass tract, a properly timed premature impulse can initiate reentry.
+
+【53】The two major forms of this type of arrhythmia in WPW syndrome are orthodromic AVRT (ie, antegrade conduction via the AV node and retrograde conduction via the accessory pathway) and antidromic AVRT (ie, antegrade conduction via the accessory pathway and retrograde conduction via the AV node). The width of the QRS complex can usually distinguish between these paroxysmal arrhythmias. A full discussion of AVRT is presented separately.
+
+【54】Tachycardias not requiring an accessory pathway for initiation and maintenance — Atrial tachyarrhythmias, junctional tachycardias including AV nodal reentrant tachycardia (AVNRT), ventricular tachycardia (VT), and ventricular fibrillation (VF) can all occur in patients with an accessory pathway ( waveform 3 ). In these settings, the accessory pathway may serve as a route for ventricular or atrial activation, but is generally not involved in the initiation of the arrhythmia and is not required for perpetuation of the arrhythmia.
+
+【55】Atrioventricular nodal reentrant tachycardia — AVNRT can use the bystander accessory pathway to transmit impulses between the atrium and the ventricle ( waveform 3 ). When AVNRT occurs in WPW syndrome, the arrhythmia cannot be distinguished from either antidromic or orthodromic AVRT without electrophysiologic studies (EPS).
+
+【56】Atrial fibrillation — AF occurs in 10 to 30 percent of persons with WPW syndrome ( waveform 4 ) . AF generally originates within the atria or pulmonary veins, independent of the accessory pathway, but the accessory pathway functions as another route for the conduction of atrial impulses to the ventricles. However, the 10 to 30 percent frequency with which intermittent AF occurs in patients with WPW syndrome is striking because of the low prevalence of coexisting structural heart disease, which is a major predisposing factor for AF in subjects without an accessory pathway. This observation suggests that the AV accessory pathway itself may be related to the genesis of AF, perhaps due to retrograde conduction to the atrium at a time when it is vulnerable to the development of AF.
+
+【57】Characteristic findings on the ECG in patients with AF and an accessory pathway include an irregularly irregular rhythm with QRS morphology changes from beat to beat, which may be associated with rapid AV transmission ( waveform 4 ). A sustained ventricular rate greater than 180 to 200 beats per minute can create "pseudo-regularized" RR intervals when the ECG is recorded at standard speed . When atrial impulses are transmitted along the accessory pathway in AF, ventricular rates may exceed 300 beats per minute and can degenerate into VF.
+
+【58】The QRS morphology and rate of impulse conduction during AF along the accessory pathway is dependent upon several factors, including:
+
+【59】 The shorter the refractory period of the accessory pathway, the more rapid is the antegrade impulse conduction and, because of more preexcitation, the QRS complexes are wider. Patients with very short refractory periods and rapid AF represent the group at greatest risk for degeneration to VF.
+
+【60】 The degree to which the AV node/His-Purkinje system competes with the accessory pathway for ventricular activation.
+
+【61】 The presence of multiple accessory pathways.
+
+【62】 Retrograde activation of the accessory pathway.
+
+【63】AF is often preceded by AVRT in individuals with WPW syndrome, with one report suggesting that as many as 35 percent of episodes of AF were preceded by AVRT . However, the mechanisms by which AVRT precipitates AF are not well understood, but increased stretching due to increased atrial pressure and conduction disturbances in atrial myocardium due to reduced refractoriness could play a role.
+
+【64】Atrial flutter — Atrial flutter is due to a reentrant circuit (usually within the right atrium) which is not AV node dependent and therefore exists independently of the accessory pathway. Atrial flutter can, like AF, conduct antegrade via an accessory pathway causing a preexcited tachycardia ( waveform 5 ). Depending upon the various refractory periods of the normal and pathologic AV accessory pathways, atrial flutter potentially could conduct 1:1 to the ventricles during a preexcited tachycardia, making the arrhythmia difficult to distinguish from VT. When atrial flutter is transmitted antegrade along the accessory pathway, ventricular rates may exceed 300 beats per minute and can degenerate into VF.
+
+【65】Ventricular tachycardia — Coexisting VT is uncommon because patients with WPW syndrome infrequently have structural heart disease .
+
+【66】Ventricular fibrillation and sudden death — In most cases, VF occurring in patients with WPW syndrome results from the rapid ventricular response during AF that has persisted and ultimately deteriorated into VF. Although the frequency with which AF with rapid AV conduction via an accessory pathway degenerates into VF is unknown, VF as the initial manifestation of WPW syndrome appears to be quite rare, occurring in only 8 of 690 patients with WPW syndrome in one single-center cohort . Additionally, it is reassuring to note that the incidence of sudden death in patients with WPW syndrome is quite low.
+
+【67】Patients with the WPW pattern who appear to be at increased risk for VF include those with :
+
+【68】 A history of AVRT and/or AF
+
+【69】 A very short antegrade refractory period (<250 milliseconds) of the accessory pathway noted during EPS
+
+【70】 Short RR intervals (<250 milliseconds) during an induced or spontaneous episode of AF
+
+【71】In contrast, intermittent preexcitation, characterized by the intermittent loss of the delta wave, suggests that the bypass tract has a long refractory period, making the development of VF unlikely . However, preexcitation and arrhythmias have been previously undiagnosed in up to 25 percent of individuals with VF or sudden death .
+
+【72】Some medications, primarily AV nodal blockers (eg, verapamil , adenosine , digoxin ), have been associated with an increased risk of VF in patients with preexcitation and AF due to preferential conduction via the accessory pathway. This is discussed in greater detail elsewhere.
+
+【73】DIAGNOSIS 
+
+【74】The diagnosis of the **WPW pattern** , which usually requires only a surface ECG, is typically prompted by an incidental finding on an ECG obtained for another clinical indication. Identification of a short PR interval and a delta wave is usually adequate to confirm the diagnosis of the WPW pattern. In some rare circumstances, invasive electrophysiology testing can be helpful in confirming the diagnosis of an accessory pathway or detecting patients with short effective refractory periods (<250 milliseconds), for example in competitive athletes.
+
+【75】The diagnosis of **WPW syndrome** is typically made in a patient with a preexisting WPW pattern on an ECG who develops an arrhythmia that involves the accessory pathway, although some patients initially present with an arrhythmia and no known history of the WPW pattern. This diagnosis should be suspected in persons with an arrhythmia and a very rapid ventricular heart rate, particularly when a delta wave can be identified and particularly in children or young adults presenting with a paroxysmal arrhythmia.
+
+【76】EVALUATION
+
+【77】Electrocardiographic findings — The hallmark of AV accessory pathway function during sinus rhythm is **preexcitation** in which depolarization of all or part of the ventricles occurs via an accessory pathway (ie, by direct myocardial activation) that is separate from the normal AV conduction system and that occurs earlier than expected after atrial depolarization. This results in shortening of the PR interval, a delta wave, and widening of the QRS complex.
+
+【78】WPW pattern on ECG — The classic ECG pattern of preexcitation in sinus rhythm is characterized by a fusion between conduction via the accessory pathway and the normal AV node/His-Purkinje system. The classic ECG pattern of preexcitation in sinus rhythm in persons with either the WPW pattern or WPW syndrome ( waveform 1 and waveform 2 ) has two major features:
+
+【79】 The PR interval is short (less than 0.12 seconds) due to rapid AV conduction through the accessory pathway and bypass of the AV node.
+
+【80】 The QRS complex consists of fusion between early and direct ventricular myocardial activation caused by preexcitation and the later ventricular activation resulting from transmission through the AV node and the infranodal conduction system to the ventricles. While beginning earlier than expected, the initial part of ventricular activation is slowed, and the upstroke of the QRS complex is slurred because of slow muscle-fiber-to-muscle-fiber conduction. This is termed a **delta wave** . The more rapid the conduction along the accessory pathway, the greater the amount of myocardium depolarized via the accessory pathway, resulting in a more prominent or wider delta wave, and increasing prolongation of the QRS complex.
+
+【81】Some accessory pathways do not conduct antegrade to the ventricles, but instead are able to conduct retrograde from the ventricle to the atrium. Because there is no antegrade conduction over the accessory pathway, the characteristic ECG findings of the WPW pattern are absent. The diagnosis in patients with a concealed accessory pathway can only be made following ventricular ectopy or ventricular pacing or during electrophysiologic testing.
+
+【82】Preexcitation and delta waves may not be apparent in sinus rhythm in patients with WPW syndrome who have a left-lateral bypass tract as the antegrade route for conduction. In this setting, the time for the atrial impulse to reach the atrial insertion of the accessory pathway is longer than the time to reach the AV node ( waveform 6 ), thereby minimizing preexcitation.
+
+【83】Delta waves can occasionally be seen in patients with some atypical conduction pathways that do not connect in the usual AV fashion. One such pathway, sometimes referred to as a "Mahaim fiber," is now better understood to be an atriofascicular pathway. These pathways are found along the right lateral AV groove and run as a long conduction fiber along the right ventricular free-wall to approximately (or possibly connect to) the distal portion of the right bundle branch. Atriofascicular pathways only conduct in the antegrade direction but can participate in antidromic tachycardia using the normal conduction tissues as the retrograde limb of a circuit. Clinical features of atypical conduction pathways are discussed separately.
+
+【84】Exercise uncommonly causes an abrupt loss of preexcitation as the sinus rate increases ( waveform 7 ). This is a reassuring but not absolute indicator that the accessory pathway is unlikely to conduct atrial fibrillation (AF) with a rapid ventricular response. More often, preexcitation becomes inapparent because increasing sympathetic and decreasing vagal tone enhances AV nodal conduction.
+
+【85】WPW pattern and ECG interpretation for other disorders — The abnormal sequence of activation that occurs with electrical conduction via the accessory pathway gives rise to an abnormal sequence of repolarization, resulting in ST-T wave abnormalities. The vectors or direction of the secondary ST-T wave changes are usually directed opposite to the vectors of the delta wave and the QRS complex. As a result of the abnormal activation sequence, abnormalities affecting the ventricles, such as ischemia, infarction, hypertrophy, and pericarditis, may not always be reliably diagnosed in the presence of a WPW pattern.
+
+【86】Electrophysiology studies (EPS) — Invasive EPS is used in asymptomatic patients with the WPW pattern as a risk-stratification tool, with ablation added if that risk is deemed to be high . Before proceeding with EPS for this purpose, it may be possible to estimate risk in some cases by less-invasive means.
+
+【87】The indications for EPS in patients with known or suspected WPW syndrome are still evolving. In most instances, EPS is **not** required to make the diagnosis of the WPW pattern or syndrome, but EPS is sometimes combined with mapping and transcatheter ablation of the accessory pathway for both diagnostic and therapeutic purposes during the same session. We proceed with EPS in the following situations:
+
+【88】 When the diagnosis is uncertain based on the surface ECG and other noninvasive testing.
+
+【89】 For risk stratification purposes when a higher risk would alter the approach to therapy.
+
+【90】 As part of a therapeutic catheter ablation procedure.
+
+【91】 In certain asymptomatic patients with a WPW pattern when there is a coexistent cardiac comorbidity (eg, cardiomyopathy, coronary artery disease, significant valvular disease, congenital heart defects, etc) and catheter ablation is being considered.
+
+【92】The more difficult decision involves otherwise healthy patients with preexcitation on their ECG but no symptoms (ie, the WPW pattern) and no cardiac comorbidities. In such cases, the principle reasons for EPS are:
+
+【93】 To confirm the diagnosis if doubt exists.
+
+【94】 To determine if the accessory pathway is capable of supporting reentrant tachycardia.
+
+【95】 To measure the conduction characteristics of the accessory pathway in an effort to estimate the patient's risk for rapid conduction if an episode of AF were to develop in the future.
+
+【96】DIFFERENTIAL DIAGNOSIS
+
+【97】Differential diagnosis of ECG findings — The ECG findings in persons with the WPW pattern can be similar to ECG findings seen in other cardiac conditions :
+
+【98】 Myocardial infarction (MI) – A negative delta wave (presenting as a Q wave) may mimic an MI pattern. Conversely, a positive delta wave may mask the presence of a previous MI.
+
+【99】 Ventricular premature beats (VPBs) or idioventricular rhythm – Intermittent WPW may be mistaken for frequent VPBs. The WPW pattern is occasionally seen on alternate beats and may suggest ventricular bigeminy. If the WPW pattern persists for several beats, the rhythm may be misdiagnosed as an accelerated idioventricular rhythm.
+
+【100】 Bundle branch block – The QRS duration is equal to or greater than 0.12 seconds because of preexcitation (ie, the delta wave). Preexcited beats are sometimes confused with left or right bundle branch block as a result. However, the terminal portion of the QRS is usually normal, due to normal conduction through the AV node and ventricular activation via the Purkinje system. This is in contrast to intraventricular conduction defects such as right or left bundle branch block in which the conduction delay occurs in either the terminal portion of or throughout the QRS complex.
+
+【101】 Some patients with cardiomyopathy and certain congenital heart defects (eg, single ventricle) may have atrial enlargement combined with abnormal ventricular activation that can result in a pattern of "pseudo-preexcitation." Some cases of HCM may mimic a WPW pattern as the PR is often short and the QRS widened because of hypertrophy .
+
+【102】Differential diagnosis of supraventricular tachycardia — The differential diagnosis for SVT is fairly extensive and is discussed in detail separately.
+
+【103】RISK STRATIFICATION OF ASYMPTOMATIC PATIENTS WITH WPW PATTERN 
+
+【104】Patients who initially present with the WPW pattern on a surface ECG but without a symptomatic arrhythmia represent a significant clinical challenge with regard to risk stratification and management. While the majority of such asymptomatic WPW patients (who are often young and otherwise healthy) will remain asymptomatic , reported rates of symptomatic arrhythmia development have been as high as 20 percent over three years . One approach to asymptomatic patients with WPW pattern is risk stratification using noninvasive tests and/or an electrophysiologic study (EPS) to identify those patients at greatest risk .
+
+【105】Mechanism of and risk factors for SCD in WPW — The mechanism of SCD in patients with WPW syndrome is ventricular fibrillation (VF), which generally occurs during an episode of atrial fibrillation (AF) in which there is rapid conduction to the ventricle, leading to an excessively rapid ventricular response that degenerates into VF. Identifying asymptomatic patients at the greatest risk for VF would provide a rationale for more aggressive therapy (eg, catheter ablation).
+
+【106】There is conflicting evidence as to which findings predict the development of symptoms and/or SCD. Some of the findings that have been suggested to predict a higher likelihood of symptoms include :
+
+【107】 Short refractory period of the accessory pathway
+
+【108】 Short preexcited RR interval during AF
+
+【109】 Younger age
+
+【110】 Male gender
+
+【111】 Inducible AV reentrant (or reciprocating) tachycardia (AVRT) or AF during EPS
+
+【112】 Multiple accessory pathways
+
+【113】 Short preexcited RR interval during rapid atrial pacing
+
+【114】 Ebstein malformation
+
+【115】The refractory period refers to the amount of time required after one conducted impulse for the accessory pathway (or any cardiac tissue) to "reset" and be able to conduct a subsequent impulse. This characteristic often defines how frequently an accessory pathway can conduct to the ventricle. The refractory period is usually similar to the shortest preexcited RR interval during AF, though the correlation is far from perfect.
+
+【116】Approach to risk stratification — In general, patients with asymptomatic ventricular preexcitation are at low risk of a cardiac arrest. Those patients who have had a cardiac arrest almost always experience symptoms of tachycardia first. Therefore, most patients who truly have no symptoms can simply be reassured and advised to notify their clinician immediately if they experience any rapid palpitation or syncope.
+
+【117】At times however, patients seek further reassurance and can be evaluated further with additional risk stratification. Risk stratification of asymptomatic patients with the WPW pattern ( algorithm 1 ) can be performed noninvasively or via invasive EPS, though it must be emphasized that all risk-stratification schemes are imperfect and can be associated with false positives as well as false negatives, especially in young patients . Our approach to risk stratification is as follows:
+
+【118】 Begin with noninvasive evaluation – Although the refractory period of an accessory pathway is usually measured during an EPS, patients with an accessory pathway that has a long refractory period can often be identified noninvasively. Intermittent loss of preexcitation (as detected by loss of delta wave on an ECG) suggests that the accessory pathway has a long refractory period and will not be able to conduct frequently enough during AF to produce VF. Intermittent preexcitation or loss of preexcitation may be seen in the following settings:
+
+【119】• Resting ECG
+
+【120】• At increased heart rates during exercise
+
+【121】• Ambulatory ECG monitoring for 24 to 48 hours
+
+【122】• Following intravenous administration of a sodium channel blocker, such as procainamide
+
+【123】We proceed with risk stratification as follows ( algorithm 1 ):
+
+【124】• We perform a resting 12-lead ECG in everyone.
+
+【125】• Unless there is intermittent preexcitation at rest, an exercise ECG test should be performed in all patients who are able to exercise on a treadmill.
+
+【126】• We perform ambulatory ECG monitoring only in patients who are unable to perform treadmill exercise (eg, young children).
+
+【127】• Only rarely do we perform sodium channel blocker challenge.
+
+【128】The observation of an abrupt and unambiguous loss of preexcitation at faster sinus rates on an ECG, exercise testing, ambulatory ECG monitoring, or sodium channel blocker challenge is generally considered a sufficient sign that the accessory pathway has limited antegrade conduction potential and is unlikely to result in life-threatening ventricular rates during AF. Expert consensus is that these "low-risk" patients can usually be followed without invasive testing as long as they remain asymptomatic.
+
+【129】If preexcitation persists at maximum heart rates during exercise testing, or is persistent during the entire period of ambulatory monitoring or sodium channel blocker challenge, it does not necessarily mean that the patient is "high-risk," but rather that the risk cannot be determined by noninvasive means. A decision to proceed to EPS in these indeterminate cases for better resolution of accessory pathway profile must be made on a case-by-case basis with careful discussion between clinician and patient.
+
+【130】 Follow-up if needed with invasive EPS – In patients whose noninvasive testing reveals persistent preexcitation, or for patients in whom noninvasive testing is not feasible or nondiagnostic, we proceed with invasive EPS. An alternative approach to risk stratification is to proceed directly to EPS as an initial means of risk stratification in all patients with an asymptomatic WPW ECG pattern . Options for invasive EPS include the standard transvenous intracardiac EPS or, less commonly, a transesophageal atrial EPS.
+
+【131】Among a cohort of 224 asymptomatic patients with ventricular preexcitation, 76 patients aged 35 years or less were found to have inducible AVRT or AF during EPS and were randomly assigned to catheter ablation  of the accessory pathway or no therapy  . In the ablation group, only two patients  had arrhythmic events, both due to a mechanism that was unrelated to the ablated accessory pathway (AV nodal reentrant tachycardia), while in the control group, 21 patients  had arrhythmic events (VF in one patient, SVT in 15 patients, and AF in five patients). The five-year estimated incidence of arrhythmic events was significantly lower for patients treated with ablation than for controls .
+
+【132】A 2015 systematic review of asymptomatic patients with the WPW pattern, which included patients from six studies (one randomized trial of ablation versus no ablation in 76 patients, and five prospective cohorts that included 883 patients who did not undergo ablation), reported the likelihood of arrhythmic events over a range of follow-up as long as eight years . Among the 76 patients randomized to ablation or no ablation, the five-year Kaplan-Meier estimate of arrhythmic events was 7 percent in the ablation group compared with 77 percent in the group who did not undergo ablation. Among the 883 patients in the cohort studies who did not undergo ablation, most patients had an uneventful course, but up to 9 percent developed malignant AF (RR interval ≤250 milliseconds), and up to 2 percent experienced VF.
+
+【133】In summary, initial risk-stratification with EPS successfully identified those with a higher likelihood of developing symptoms, and treatment of these high-risk patients with ablation reduced arrhythmic events . However, life-threatening arrhythmias were rare in the absence of ablation and serious complications developed in 2 percent of patients undergoing risk stratification. Thus, it remains unknown whether initial risk stratification with EPS produces a net reduction in morbidity or mortality. A full discussion of the approach to accessory pathway ablation in asymptomatic patients is presented separately.
+
+【134】Links to society and government-sponsored guidelines from selected countries and regions around the world are provided separately.
+
+【135】INFORMATION FOR PATIENTS 
+
+【136】Here are the patient education articles that are relevant to this topic. We encourage you to print or e-mail these topics to your patients. (You can also locate patient education articles on a variety of subjects by searching on "patient info" and the keyword(s) of interest.)
+
+【137】 Basics topic
+
+【138】 Beyond the Basics topic
+
+【139】 **Definition** – Wolff-Parkinson-White (WPW) syndrome is a condition resulting from conduction via one or more accessory pathways that directly connects the atria and ventricles and bypasses the atrioventricular (AV) node. Individuals with this condition have a short PR interval and a widened QRS complex on their ECG and paroxysmal tachycardia.
+
+【140】 **Manifest versus concealed pathways** – Most accessory pathways are capable of antegrade conduction (exhibiting either antegrade conduction alone or bidirectional conduction) from atrium to ventricle and thus manifest as WPW pattern. However, some accessory pathways conduct only in a retrograde fashion from ventricle to atrium. When there is no antegrade conduction through the accessory pathway (ie, no preexcitation), the characteristic WPW ECG pattern is absent, and the pathway is described as "concealed."
+
+【141】 **Anatomy** – The accessory pathway may be located anywhere along the AV ring (groove) or in the septum. The most frequent locations are left lateral , posteroseptal , right anteroseptal , and right lateral . Up to 13 percent of individuals with preexcitation have more than one accessory pathway.
+
+【142】 **Prevalence** – The prevalence of a WPW pattern on the surface ECG is estimated at 0.13 to 0.25 percent in the general population. The WPW pattern on the ECG may be intermittent and may even disappear permanently over time, depending on the conduction properties of the accessory pathway. The prevalence of WPW syndrome (the WPW pattern plus tachyarrhythmia) is substantially lower than that of the WPW pattern alone, perhaps as low as 2 percent of patients with the WPW pattern on the surface ECG.
+
+【143】 **ECG features** – The classic ECG pattern of preexcitation in sinus rhythm is characterized by a fusion between conduction via the accessory pathway and the normal AV node/His-Purkinje system, resulting in the following ECG characteristics:
+
+【144】• The PR interval is short (less than 0.12 seconds) due to rapid AV conduction through the accessory pathway and bypass of the AV node.
+
+【145】• The initial part of ventricular activation is slowed, and the upstroke of the QRS complex is slurred because of slow muscle-fiber-to-muscle-fiber conduction; this is termed a **delta wave.**
+
+【146】• The QRS complex is widened and consists of fusion between early ventricular activation caused by preexcitation with the later ventricular activation resulting from transmission through the AV node and the infranodal conduction system to the ventricles.
+
+【147】 **WPW pattern versus syndrome** – The majority of patients with the WPW pattern on their ECG remain asymptomatic, although a small percentage of patients with the WPW pattern develop arrhythmias as a part of WPW syndrome. Most patients who develop an arrhythmia will present with palpitations, with syncope or SCD occurring much less frequently.
+
+【148】 **Tachycardias** – Tachycardias associated with WPW syndrome can be classified into those in which the accessory pathway is necessary for initiation and maintenance of the tachycardia, and those in which the bypass tract acts as a "bystander," providing a route of conduction from the anatomic site of tachycardia origin to other regions of the heart:
+
+【149】• **AV reentrant (or reciprocating) tachycardia (AVRT)** – This is a reentrant tachycardia with an anatomically defined circuit that consists of two distinct pathways, the normal AV conduction system, and an AV accessory pathway, linked by common proximal (the atria) and distal (the ventricles) tissues. The two major forms of AVRT are orthodromic and antidromic AVRT, defined by the direction of conduction through the AV node and the accessory pathway.
+
+【150】• **Atrial fibrillation (AF)** – This arrhythmia occurs in 10 to 30 percent of persons with WPW syndrome, somewhat higher than might be expected given the low prevalence of coexisting structural heart disease. When atrial impulses are transmitted along the accessory pathway in AF, ventricular rates may exceed 300 beats per minute and can degenerate into ventricular fibrillation (VF).
+
+【151】• **Ventricular fibrillation** – In most cases, VF occurring in patients with WPW syndrome results from the rapid ventricular response during AF that has persisted and ultimately deteriorated into VF. Although the frequency with which AF with rapid AV conduction via an accessory pathway degenerates into VF is unknown, the incidence of sudden death in patients with WPW syndrome is quite low.
+
+【152】 **Diagnosis** – The diagnosis of the WPW pattern can nearly always be made by reviewing the surface ECG. In addition, in some rare circumstances invasive electrophysiology testing can be helpful in confirming the diagnosis of an accessory pathway. WPW syndrome is diagnosed following the development of an arrhythmia in a patient with a preexisting WPW pattern on an ECG.
+
+【153】 **Differential diagnosis** – The ECG findings in persons with the WPW pattern can be similar to ECG findings seen in other cardiac conditions, including prior myocardial infarction, ventricular premature beats, idioventricular rhythm, and bundle branch block.
+
+【154】 **Risk stratification for asymptomatic patients** – Our approach to risk stratification of asymptomatic patients with the WPW pattern is as follows ( algorithm 1 ):
+
+【155】• Initial noninvasive evaluation, including a resting 12-lead ECG in everyone and, unless there is intermittent preexcitation at rest, an exercise ECG test in all patients who are able to exercise on a treadmill. If patients are unable to exercise, ambulatory ECG monitoring and/or sodium channel blocker challenge are additional noninvasive risk stratification options. The observation of an abrupt and unambiguous loss of preexcitation at faster heart rates is generally considered a sufficient sign that the accessory pathway has limited antegrade conduction potential and the patient is considered "low-risk" for life-threatening ventricular rates.
+
+【156】• If preexcitation persists at maximum heart rates during exercise testing, or is persistent during the entire period of ambulatory monitoring or sodium channel blocker challenge, it does not necessarily mean that the patient is "high-risk," but rather that the risk cannot be determined by noninvasive means. A decision to proceed to electrophysiology study in these indeterminate cases for better resolution of accessory pathway profile must be made on a case-by-case basis with careful discussion between clinician and patient.焦瀚远
+
+====================================================================================================

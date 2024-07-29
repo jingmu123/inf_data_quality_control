@@ -1,0 +1,198 @@
+【0】Sodium phenylbutyrate and taurursodiol (ursodoxicoltaurine) (United States and Canada: Withdrawn from market): Drug information
+
+【1】Contributor Disclosures
+
+【2】For abbreviations, symbols, and age group definitions show table
+
+【3】Special Alerts
+
+【4】Sodium Phenylbutyrate and Taurursodiol Market Withdrawal April 2024
+
+【5】Amylyx Pharmaceuticals is working with the FDA and Health Canada to voluntarily discontinue the marketing authorization for sodium phenylbutyrate/taurursodiol (Relyvrio \[United States\]; Albrioza \[Canada\]) and remove the product from the market based on results from the phase 3 PHOENIX trial. Sodium phenylbutyrate/taurursodiol is no longer available for new patients. Patients currently receiving therapy who wish to continue treatment can be transitioned to a free drug program in consultation with their health care provider.
+
+【6】Brand Names: US
+
+【7】*   Relyvrio
+
+【8】Brand Names: Canada
+
+【9】*   Albrioza
+
+【10】Pharmacologic Category
+
+【11】*   Histone Deacetylase (HDAC) Inhibitor;
+*   Hydrophilic Bile Acid
+
+【12】Dosing: Adult
+
+【13】Amyotrophic lateral sclerosis
+
+【14】**Amyotrophic lateral sclerosis:** Initial: **Oral:** One packet (sodium phenylbutyrate 3 g/taurursodiol 1 g) once daily for 3 weeks, then increase dose to 1 packet twice daily, if tolerated .
+
+【15】**Dosage adjustment for concomitant therapy:** Significant drug interactions exist, requiring dose/frequency adjustment or avoidance. Consult drug interactions database for more information.
+
+【16】Dosing: Kidney Impairment: Adult
+
+【17】Mild impairment: No dosage adjustment necessary.
+
+【18】Moderate to severe impairment: Avoid use (has not been studied).
+
+【19】Dosing: Hepatic Impairment: Adult
+
+【20】Mild impairment: No dosage adjustment necessary.
+
+【21】Moderate to severe impairment: Avoid use (has not been studied).
+
+【22】Dosing: Older Adult
+
+【23】Refer to adult dosing.
+
+【24】Adverse Reactions
+
+【25】The following adverse drug reactions and incidences are derived from product labeling unless otherwise specified. Reported adverse reactions are for adults.
+
+【26】\>10%:
+
+【27】Gastrointestinal: Abdominal pain , diarrhea , nausea , sialorrhea 
+
+【28】Nervous system: Fatigue 
+
+【29】Respiratory: Upper respiratory tract infection 
+
+【30】1% to 10%: Nervous system: Dizziness 
+
+【31】Contraindications
+
+【32】There are no contraindications listed in the manufacturer's US labeling.
+
+【33】_Canadian labeling:_ Hypersensitivity to sodium phenylbutyrate, taurursodiol, bile salts, or any component of the formulation; pregnancy; breastfeeding.
+
+【34】Warnings/Precautions
+
+【35】_**Disease-related concerns:**_
+
+【36】• Biliary disorders: Enterohepatic circulation disorders (eg, biliary infection, active cholecystitis) may increase risk for worsening diarrhea.
+
+【37】• Pancreatic or intestinal disease: Pancreatic insufficiency (eg, pancreatitis), intestinal malabsorption, or intestinal disorders (eg, ileal resection, regional ileitis) may alter the concentration of bile acids and lead to decreased absorption of sodium phenylbutyrate and taurursodiol.
+
+【38】• Renal impairment: Use with caution in patients with renal impairment due to risk of sodium retention and edema.
+
+【39】_**Dosage form specific issues:**_
+
+【40】• Sodium: Use caution in patients sensitive to salt intake (eg, congestive heart failure, hypertension, renal impairment); product contains 928 mg of sodium/2 packets.
+
+【41】Dosage Forms: US
+
+【42】Excipient information presented when available (limited, particularly for generics); consult specific product labeling.
+
+【43】Packet, Oral:
+
+【44】Relyvrio: Sodium phenylbutyrate 3 g and taurursodiol 1 g 
+
+【45】Generic Equivalent Available: US
+
+【46】No
+
+【47】Pricing: US
+
+【48】**Pack** (Relyvrio Oral)
+
+【49】3-1 g (per each): $276.53
+
+【50】**Disclaimer:** A representative AWP (Average Wholesale Price) price or price range is provided as reference price only. A range is provided when more than one manufacturer's AWP price is available and uses the low and high price reported by the manufacturers to determine the range. The pricing data should be used for benchmarking purposes only, and as such should not be used alone to set or adjudicate any prices for reimbursement or purchasing functions or considered to be an exact price for a single product and/or manufacturer. Medi-Span expressly disclaims all warranties of any kind or nature, whether express or implied, and assumes no liability with respect to accuracy of price or price range data published in its solutions. In no event shall Medi-Span be liable for special, indirect, incidental, or consequential damages arising from use of price or price range data. Pricing data is updated monthly.
+
+【51】Dosage Forms: Canada
+
+【52】Excipient information presented when available (limited, particularly for generics); consult specific product labeling.
+
+【53】Packet, Oral:
+
+【54】Albrioza: Sodium phenylbutyrate 3 g and taurursodiol 1 g 
+
+【55】Administration: Adult
+
+【56】**Oral:** Vigorously stir the contents of 1 packet in a cup  of room temperature water. Take before a snack or meal. Administer orally or via feeding tube within 1 hour of preparation; discard unused reconstituted suspension after 1 hour.
+
+【57】Use: Labeled Indications
+
+【58】**Amyotrophic lateral sclerosis:** Treatment of adults with amyotrophic lateral sclerosis.
+
+【59】Metabolism/Transport Effects
+
+【60】Refer to individual components.
+
+【61】Drug Interactions  
+
+【62】**Note** : Interacting drugs may **not be individually listed below** if they are part of a group interaction (eg, individual drugs within “CYP3A4 Inducers \[Strong\]” are NOT listed). For a complete list of drug interactions by individual drug name and detailed management recommendations, use the drug interactions program by clicking on the “Launch drug interactions program” link above.
+
+【63】Almagate: May decrease the absorption of Taurursodiol. _Risk X: Avoid combination_
+
+【64】Aluminum Hydroxide: May decrease the absorption of Taurursodiol. _Risk X: Avoid combination_
+
+【65】BCRP/ABCG2 Substrates (Clinically Relevant with Inhibitors): Taurursodiol may increase the serum concentration of BCRP/ABCG2 Substrates (Clinically Relevant with Inhibitors). _Risk X: Avoid combination_
+
+【66】Benperidol: May diminish the therapeutic effect of Urea Cycle Disorder Agents. _Risk C: Monitor therapy_
+
+【67】Bile Acid Sequestrants: May decrease the absorption of Taurursodiol. _Risk X: Avoid combination_
+
+【68】BSEP/ABCB11 Inhibitors: May enhance the adverse/toxic effect of Taurursodiol. Specifically, the risk for liver dysfunction may be increased. Management: Avoid coadministration of sodium phenylbutyrate and taurursodiol with BSEP inhibitors when possible. If concomitant use is necessary, monitoring of serum transaminases and bilirubin is recommended. _Risk D: Consider therapy modification_
+
+【69】Corticosteroids (Systemic): May diminish the therapeutic effect of Urea Cycle Disorder Agents. More specifically, Corticosteroids (Systemic) may increase protein catabolism and plasma ammonia concentrations, thereby increasing the doses of Urea Cycle Disorder Agents needed to maintain these concentrations in the target range. _Risk C: Monitor therapy_
+
+【70】CYP1A2 Substrates (Narrow Therapeutic Index/Sensitive with Inducers): Taurursodiol may decrease the serum concentration of CYP1A2 Substrates (Narrow Therapeutic Index/Sensitive with Inducers). _Risk X: Avoid combination_
+
+【71】CYP2B6 Substrates (Narrow Therapeutic Index/Sensitive with Inhibitors): Taurursodiol may increase the serum concentration of CYP2B6 Substrates (Narrow Therapeutic Index/Sensitive with Inhibitors). _Risk X: Avoid combination_
+
+【72】CYP2C8 Substrates (Narrow Therapeutic Index/Sensitive with Inhibitors): Taurursodiol may increase the serum concentration of CYP2C8 Substrates (Narrow Therapeutic Index/Sensitive with Inhibitors). _Risk X: Avoid combination_
+
+【73】CYP3A4 Inducers (Strong): May decrease the serum concentration of Taurursodiol. Specifically, the concentrations of phenylbutyrate may be decreased. _Risk C: Monitor therapy_
+
+【74】CYP3A4 Substrates (Narrow Therapeutic Index/Sensitive with Inducers): Taurursodiol may decrease the serum concentration of CYP3A4 Substrates (Narrow Therapeutic Index/Sensitive with Inducers). _Risk X: Avoid combination_
+
+【75】Haloperidol: May diminish the therapeutic effect of Urea Cycle Disorder Agents. More specifically, Haloperidol may increase plasma ammonia concentrations and thereby increase the doses of Urea Cycle Disorder Agents needed to maintain concentrations in the target range. _Risk C: Monitor therapy_
+
+【76】Histone Deacetylase Inhibitors: May enhance the adverse/toxic effect of Taurursodiol. _Risk X: Avoid combination_
+
+【77】OAT1/3 Substrates (Clinically Relevant): Taurursodiol may increase the serum concentration of OAT1/3 Substrates (Clinically Relevant). _Risk X: Avoid combination_
+
+【78】OATP1B1/1B3 (SLCO1B1/1B3) Inhibitors: May increase the serum concentration of Taurursodiol. _Risk X: Avoid combination_
+
+【79】P-glycoprotein/ABCB1 Substrates (Narrow Therapeutic Index/Sensitive with Inhibitors): Taurursodiol may increase the serum concentration of P-glycoprotein/ABCB1 Substrates (Narrow Therapeutic Index/Sensitive with Inhibitors). _Risk X: Avoid combination_
+
+【80】Probenecid: May increase serum concentrations of the active metabolite(s) of Urea Cycle Disorder Agents. Specifically, concentrations of phenylacetate and phenylacetylglutamine may be increased. _Risk C: Monitor therapy_
+
+【81】Taurursodiol: Histone Deacetylase Inhibitors may enhance the adverse/toxic effect of Taurursodiol. _Risk X: Avoid combination_
+
+【82】Pregnancy Considerations
+
+【83】Adverse events were observed in some animal reproduction studies.
+
+【84】Breastfeeding Considerations
+
+【85】It is not known if sodium phenylbutyrate, taurursodiol, or their metabolites are present in breast milk.
+
+【86】According to the manufacturer, the decision to breastfeed during therapy should consider the risk of infant exposure, the benefits of breastfeeding to the infant, and the benefits of treatment to the mother.
+
+【87】Dietary Considerations
+
+【88】Administer before a snack or meal. Product contains dextrates, sodium, sorbitol, and sucralose.
+
+【89】Mechanism of Action
+
+【90】The mechanism by which the decline of physical function is decreased in patients with amyotrophic lateral sclerosis is unknown. The combination of sodium phenylbutyrate and taurursodiol reduces neuronal cell death in vitro.
+
+【91】Pharmacokinetics (Adult Data Unless Noted)
+
+【92】Absorption: Sodium phenylbutyrate: Rapid; administration with a high-fat meal results in C max decreased by 76% and AUC decreased by 54%.
+
+【93】Protein binding: Sodium phenylbutyrate: 82%; taurursodiol: 98%.
+
+【94】Metabolism: Hepatic (saturable); sodium phenylbutyrate is metabolized by β-oxidation in the liver and kidney to phenylacetate, which is rapidly conjugated with glutamine via acetylation to form phenylacetylglutamine; taurursodiol undergoes enterohepatic recirculation and is deconjugated to ursodeoxycholic acid (UDCA) by intestinal microflora, which is reconjugated in the liver with glycine or taurine (glycoursodeoxycholic acid \[GUDCA\] and taurursodiol, respectively).
+
+【95】Half-life elimination: Phenylbutyrate: 0.46 hours; phenylacetate: 0.81 hours; taurursodiol: 4.34 hours.
+
+【96】Time to peak: Median: Phenylbutyrate: 0.5 hours; taurursodiol: 4.5 hours.
+
+【97】Excretion: Urine (~80% to 100% as phenylacetylglutamine \[metabolite of sodium phenylbutyrate\]).焦瀚远
+
+====================================================================================================

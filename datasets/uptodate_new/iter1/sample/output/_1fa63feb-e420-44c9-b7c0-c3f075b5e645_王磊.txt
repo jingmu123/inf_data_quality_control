@@ -1,0 +1,381 @@
+【0】Dexrazoxane: Pediatric drug information
+
+【1】Contributor Disclosures
+
+【2】For abbreviations, symbols, and age group definitions show table
+
+【3】Brand Names: US
+
+【4】*   Totect \[DSC\]
+
+【5】Brand Names: Canada
+
+【6】*   Zinecard
+
+【7】Therapeutic Category
+
+【8】*   Antidote ;
+*   Cardioprotective Agent ;
+*   Chelating Agent ;
+*   Chemoprotectant Agent
+
+【9】Dosing: Pediatric
+
+【10】Anthracycline-induced cardiomyopathy; prevention
+
+【11】**Anthracycline-induced cardiomyopathy; prevention:** Limited data available:
+
+【12】**Note:** The International Late Effects of Childhood Cancer Guideline Harmonization Group (IGHG) has determined that it is reasonable for pediatric patients who will receive a cumulative doxorubicin dose of ≥250 mg/m 2 or equivalent anthracycline dose to receive dexrazoxane with each anthracycline dose. In patients receiving higher doses of anthracyclines the benefits of dexrazoxane treatment probably outweigh the risks of developing secondary malignancies . Refer to individual protocols for when dexrazoxane is indicated and for dosing.
+
+【13】Infants, Children, and Adolescents: IV: Dose is dependent on anthracycline dose: 10:1 dose ratio of dexrazoxane:doxorubicin (eg, 300 mg/m 2 dexrazoxane:30 mg/m 2 doxorubicin) . Based on experience in adults and using isotoxic doxorubicin equivalent doses, the following dexrazoxane dosing ratios (dexrazoxane:anthracycline) for additional anthracyclines has been suggested: for daunorubicin 5 to 10:1 dose ratio, mitoxantrone 40:1 dose ratio, and idarubicin 50:1 dose ratio . **Note:** Cardiac monitoring should continue during dexrazoxane therapy; anthracycline/dexrazoxane should be discontinued in patients who develop a decline in left ventricular ejection fraction or clinical congestive heart failure.
+
+【14】**Dosage adjustment for concomitant therapy:** Significant drug interactions exist, requiring dose/frequency adjustment or avoidance. Consult drug interactions database for more information.
+
+【15】Dosing: Kidney Impairment: Pediatric
+
+【16】**Altered kidney function:**
+
+【17】Infants, Children, and Adolescents: IV: **Note:** There are no pediatric-specific dosage adjustments in the manufacturer's labeling; however, based on adult information and some pediatric centers, the following has been recommended :
+
+【18】CrCl ≥40 mL/minute: No dosage adjustment necessary.
+
+【19】CrCl <40 mL/minute: Reduce dose to 50% of the usual dose, using a 5:1 dexrazoxane:doxorubicin ratio (eg, dexrazoxane 150 mg/m 2 :doxorubicin 30 mg/m 2 ).
+
+【20】Dosing: Hepatic Impairment: Pediatric
+
+【21】Data in pediatric patients is insufficient to provide recommendations; refer to protocol if available. Experience in adult patients suggests when doxorubicin dosage is reduced due to hyperbilirubinemia, a proportional reduction in dexrazoxane dosage is recommended (to maintain a 10:1 ratio of dexrazoxane:doxorubicin).
+
+【22】Dosing: Adult
+
+【23】Prevention of doxorubicin cardiomyopathy
+
+【24】**Prevention of doxorubicin cardiomyopathy:** **IV:** A 10:1 ratio of dexrazoxane:doxorubicin (dexrazoxane 500 mg/m 2 :doxorubicin 50 mg/m 2 ). Do not administer doxorubicin before dexrazoxane. Doxorubicin must be administered within 30 minutes of the completion of the dexrazoxane infusion.
+
+【25】Treatment of anthracycline extravasation
+
+【26】**Treatment of anthracycline extravasation:** **IV:** 1,000 mg/m 2 on days 1 and 2 (maximum dose: 2,000 mg/day), followed by 500 mg/m 2 on day 3 (maximum dose: 1,000 mg/day); begin treatment as soon as possible, within 6 hours of extravasation.
+
+【27】**Dosage adjustment for concomitant therapy:** Significant drug interactions exist, requiring dose/frequency adjustment or avoidance. Consult drug interactions database for more information.
+
+【28】Dosing: Kidney Impairment: Adult
+
+【29】CrCl ≥40 mL/minute: No dosage adjustment necessary.
+
+【30】CrCl <40 mL/minute:
+
+【31】Prevention of cardiomyopathy: Reduce dose to 50% of the usual dose, using a 5:1 dexrazoxane:doxorubicin ratio (eg, dexrazoxane 250 mg/m 2 :doxorubicin 50 mg/m 2 )
+
+【32】Anthracycline extravasation: Reduce dose to 50% of the usual dose; monitor for signs of hematologic toxicity.
+
+【33】Dosing: Hepatic Impairment: Adult
+
+【34】**Prevention of cardiomyopathy:** Since doxorubicin dosage is reduced in hyperbilirubinemia, a proportional reduction in dexrazoxane dosage is recommended (to maintain a 10:1 ratio of dexrazoxane:doxorubicin)
+
+【35】**Anthracycline extravasation:** Use in patients with hepatic impairment is not recommended; monitor liver function tests prior to each dose in patients with known hepatic function disorders; hepatic dysfunction (transaminase and bilirubin elevations) may occur, particularly with doses above 1,000 mg/m 2 .
+
+【36】Adverse Reactions
+
+【37】The following adverse drug reactions and incidences are derived from product labeling unless otherwise specified.
+
+【38】Prevention of doxorubicin cardiomyopathy (reactions listed are those which were greater in the dexrazoxane arm in a comparison of chemotherapy plus dexrazoxane vs chemotherapy alone):
+
+【39】\>10%:
+
+【40】Infection: Infection , sepsis 
+
+【41】Local: Pain at injection site 
+
+【42】Nervous system: Fatigue (≤61%), malaise (≤61%), neurotoxicity 
+
+【43】Miscellaneous: Fever 
+
+【44】1% to 10%:
+
+【45】Cardiovascular: Phlebitis 
+
+【46】Dermatologic: Erythema of skin (≤5%), localized erythematous streaking (≤5%)
+
+【47】**Anthracycline extravasation:**
+
+【48】\>10%:
+
+【49】Cardiovascular: Vascular disease 
+
+【50】Dermatologic: Alopecia 
+
+【51】Gastrointestinal: Diarrhea , nausea , vomiting 
+
+【52】Hematologic & oncologic: Decreased neutrophils , decreased platelet count , decreased white blood cell count 
+
+【53】Hepatic: Increased serum alanine aminotransferase , increased serum aspartate aminotransferase , increased serum bilirubin 
+
+【54】Infection: Infection , postoperative infection 
+
+【55】Local: Discomfort at injection site (≤16%), pain at injection site (≤16%)
+
+【56】Nervous system: Dizziness , fatigue 
+
+【57】Neuromuscular & skeletal: Musculoskeletal signs and symptoms 
+
+【58】Renal: Increased serum creatinine 
+
+【59】Miscellaneous: Fever 
+
+【60】1% to 10%:
+
+【61】Cardiovascular: Cardiac disorder , peripheral edema 
+
+【62】Endocrine & metabolic: Decreased serum sodium , increased lactate dehydrogenase , increased serum calcium 
+
+【63】Gastrointestinal: Abdominal pain , anorexia , constipation 
+
+【64】Hematologic & oncologic: Anemia , febrile neutropenia 
+
+【65】Hepatic: Increased serum alkaline phosphatase 
+
+【66】Local: Injection site phlebitis 
+
+【67】Nervous system: Depression , headache , insomnia 
+
+【68】Respiratory: Cough , dyspnea , pneumonia 
+
+【69】Frequency not defined (all indications):
+
+【70】Hematologic & oncologic: Granulocytopenia, leukopenia, thrombocytopenia
+
+【71】Hypersensitivity: Anaphylaxis, angioedema, hypersensitivity reaction
+
+【72】Postmarketing (all indications): Hematologic & oncologic: Second primary malignant neoplasm (including myelodysplastic syndrome, secondary acute myelocytic leukemia)
+
+【73】Contraindications
+
+【74】Totect: There are no contraindications listed in the manufacturer's labeling.
+
+【75】Zinecard, generic products: Use with chemotherapy regimens that do not contain an anthracycline.
+
+【76】_Canadian labeling:_ Additional contraindications (not in the US labeling): Known hypersensitivity to dexrazoxane or any component of the formulation; use as a chemotherapeutic agent.
+
+【77】Warnings/Precautions
+
+【78】**_Concerns related to adverse effects:_**
+
+【79】• Bone marrow suppression: Dexrazoxane may cause mild myelosuppression (leukopenia, neutropenia, and thrombocytopenia); myelosuppression may be additive with concurrently administered chemotherapeutic agents. Neutropenic fever has been reported.
+
+【80】• Cardioprotection: Dexrazoxane does not completely eliminate the risk of anthracycline-induced cardiac toxicity; carefully monitor cardiac function (left ventricular ejection fraction \[LVEF\]) prior to and periodically during treatment, and assess the benefits of continued therapy versus risks of potentially irreversible cardiac damage. The American Society of Clinical Oncology guidelines for prevention and monitoring of cardiac dysfunction in survivors of adult cancers indicate that dexrazoxane may be considered to prevent cardiotoxicity in patients planning to receive high-dose anthracyclines (eg, doxorubicin ≥250 mg/m 2 or epirubicin ≥600 mg/m 2 ).
+
+【81】• Hypersensitivity: Hypersensitivity reactions, including anaphylactic reaction, angioedema, skin reactions, bronchospasm, respiratory distress, hypotension, and loss of consciousness have been reported. Use with caution. Carefully consider prior to use in patients with a previous allergy to dexrazoxane products.
+
+【82】• Secondary malignancies: Acute myeloid leukemia (AML) and myelodysplastic syndrome (MDS) have been reported in pediatric patients and some adult patients receiving dexrazoxane in combination with chemotherapy. The International Late Effects of Childhood Cancer Guideline Harmonization Group (IGHG) has determined that it is reasonable for pediatric patients who will receive a cumulative doxorubicin dose of ≥250 mg/m 2 or equivalent anthracycline dose to receive dexrazoxane with each anthracycline dose. In patients receiving higher doses of anthracyclines, the benefits of dexrazoxane treatment probably outweigh the risks of developing secondary malignancies (IGHG \[de Baat 2022\]).
+
+【83】• Tumor response: When used for cardiomyopathy prevention in the treatment of metastatic breast cancer, dexrazoxane should only be used in patients who have received a cumulative doxorubicin dose of ≥300 mg/m 2 and are continuing treatment with doxorubicin. Dexrazoxane may interfere with the antitumor effect of chemotherapy when given concurrently at chemotherapy initiation. In a study of patients with metastatic breast cancer who received fluorouracil, doxorubicin, and cyclophosphamide (FAC) with or without dexrazoxane beginning at cycle 1, patients who received dexrazoxane experienced a lower response rate and shorter time to progression (compared to patients who did not receive dexrazoxane beginning at cycle 1).
+
+【84】**_Other warnings/precautions:_**
+
+【85】• Administration (extravasation): Do not use DMSO in patients receiving dexrazoxane for anthracycline extravasation; may diminish dexrazoxane efficacy. Dexrazoxane is not effective against the effects of vesicants other than anthracyclines; if other vesicants (eg, vinca alkaloids, mitomycin) were also infused through the same extravasated IV access, consider extravasation management for those agents as well.
+
+【86】Warnings: Additional Pediatric Considerations
+
+【87】Secondary malignant neoplasms (SMN) have been reported with dexrazoxane and razoxane (racemic mixture of which dexrazoxane is the S\[+\] enantiomer) use; a multicenter review of pediatric trials reported the incidence of SMN to be very rare; a single case was reported out of 533 pediatric patients evaluated throughout 5-year follow-up (Vrooman 2011). A long-term follow-up study followed survivors from 6 different doxorubicin-containing pediatric protocols, 5 of which randomized patients to doxorubicin treatment with or without dexrazoxane; the study included 1,308 patients, of which 784 received dexrazoxane for a median follow-up of 18.6 years. Results showed that dexrazoxane treatment did not adversely affect long-term mortality, event-free survival, or secondary malignancy when compared to patients that did not receive dexrazoxane (Chow 2022).
+
+【88】Dosage Forms: US
+
+【89】Excipient information presented when available (limited, particularly for generics); consult specific product labeling. \[DSC\] = Discontinued product
+
+【90】Solution Reconstituted, Intravenous:
+
+【91】Totect: 500 mg  \[pyrogen free\]
+
+【92】Generic: 250 mg ; 500 mg 
+
+【93】Solution Reconstituted, Intravenous \[preservative free\]:
+
+【94】Generic: 250 mg ; 500 mg 
+
+【95】Generic Equivalent Available: US
+
+【96】Pricing: US
+
+【97】**Solution (reconstituted)** (Dexrazoxane HCl Intravenous)
+
+【98】250 mg (per each): $276.35 - $329.11
+
+【99】500 mg (per each): $174.00 - $658.21
+
+【100】**Disclaimer:** A representative AWP (Average Wholesale Price) price or price range is provided as reference price only. A range is provided when more than one manufacturer's AWP price is available and uses the low and high price reported by the manufacturers to determine the range. The pricing data should be used for benchmarking purposes only, and as such should not be used alone to set or adjudicate any prices for reimbursement or purchasing functions or considered to be an exact price for a single product and/or manufacturer. Medi-Span expressly disclaims all warranties of any kind or nature, whether express or implied, and assumes no liability with respect to accuracy of price or price range data published in its solutions. In no event shall Medi-Span be liable for special, indirect, incidental, or consequential damages arising from use of price or price range data. Pricing data is updated monthly.
+
+【101】Dosage Forms: Canada
+
+【102】Excipient information presented when available (limited, particularly for generics); consult specific product labeling.
+
+【103】Solution Reconstituted, Intravenous:
+
+【104】Zinecard: 250 mg 
+
+【105】Administration: Pediatric
+
+【106】Parenteral: IV:
+
+【107】**Anthracycline-induced cardiomyopathy; prevention:** Administer dexrazoxane prior to anthracycline administration. Refer to individual protocols for timing of anthracycline administration.
+
+【108】Totect, Zinecard, dexrazoxane generic: Administer over 15 minutes; do **not** administer by IV push. Administer anthracycline within 30 minutes after completion of dexrazoxane infusion (do not administer anthracycline before dexrazoxane).
+
+【109】Dexrazoxane generic formulation with diluent (sodium lactate) provided: Administer by slow IV push or rapid IV drip infusion. Administer anthracycline within 30 minutes after initiation of dexrazoxane infusion (do not administer anthracycline before dexrazoxane).
+
+【110】Administration: Adult
+
+【111】**IV:** Infusion rate depends on indication.
+
+【112】Prevention of doxorubicin cardiomyopathy: Administer doxorubicin within 30 minutes after completion of the dexrazoxane infusion (do not administer doxorubicin before dexrazoxane).
+
+【113】Totect, Zinecard: Infuse over 15 minutes; do **not** administer by IV push.
+
+【114】Dexrazoxane generic formulation (Eugia): Administer by slow IV push or rapid drip infusion
+
+【115】Treatment of anthracycline extravasation: Remove cooling (dry cold compresses) for at least 15 minutes before dexrazoxane infusion to allow sufficient blood flow to extravasation site. Administer dexrazoxane IV over 1 to 2 hours into a large vein in an extremity/area other than the extravasation site; administer solution at room temperature. Begin infusion as soon as possible, within 6 hours of extravasation and continue withholding cooling during infusion . Day 2 and 3 dexrazoxane doses should be administered at approximately the same time (±3 hours) as the dose on day 1. Dexrazoxane is for IV administration only; not for local infiltration into extravasation. Do not use DMSO in combination with dexrazoxane; may lessen efficacy.
+
+【116】General extravasation management : Stop vesicant infusion immediately and disconnect IV line (leave needle/cannula in place); gently aspirate extravasated solution from the IV line (do **NOT** flush the line); remove needle/cannula; elevate extremity. Apply dry cold compresses for 20 minutes 4 times daily for 1 to 2 days (withhold cooling for at least 15 minutes before and during dexrazoxane infusion).
+
+【117】Hazardous Drugs Handling Considerations
+
+【118】Hazardous agent (NIOSH 2016 \[group 2\]).
+
+【119】Use appropriate precautions for receiving, handling, storage, preparation, dispensing, transporting, administration, and disposal. Follow NIOSH and USP 800 recommendations **and** institution-specific policies/procedures for appropriate containment strategy .
+
+【120】**Note:** Facilities may perform risk assessment of some hazardous drugs to determine if appropriate for alternative handling and containment strategies (USP-NF 2020). Refer to institution-specific handling policies/procedures.
+
+【121】Storage/Stability
+
+【122】**Note:** Preparation and storage are product, diluent, and/or indication specific; refer to individual product labeling for further details. Discard unused solutions.
+
+【123】Totect: Store intact vials at 20°C to 25°C ; excursions permitted to 15°C to 30°C . Protect from light. Reconstituted solution  is stable for 30 minutes (must be further diluted within 30 minutes). Solutions diluted for infusion (if not used immediately) are stable for 4 hours at room temperature or up to 12 hours refrigerated . **Note:** The stability of the reconstituted solution  was changed from 2 hours to 30 minutes in the November 2018 Totect prescribing information.
+
+【124】Zinecard: Store intact vials at 25°C ; excursions permitted to 15°C to 30°C . When reconstituted with SWFI, the reconstituted solution is stable for 30 minutes at room temperature or 3 hours refrigerated at 2°C to 8°C . Solutions diluted for infusion in LR are stable for 1 hour when stored at room temperature or 4 hours refrigerated.
+
+【125】Dexrazoxane generic formulation (Eugia; to be reconstituted with 0.167 Molar sodium lactate): Store intact vials at 20°C to 25°C . Reconstituted solutions and solutions diluted for infusion in NS or D5W are stable for 6 hours when stored at room temperature or refrigerated at 2°C to 8°C .
+
+【126】Additional stability information: When studied as a 24-hour continuous infusion for the prevention of cardiomyopathy, solutions prepared with sodium lactate diluent and diluted to a final concentration of 0.1 or 0.5 mg/mL in D5W were found to retain ≥90% of their initial concentration when stored at room temperature (ambient light conditions) for ≤24 hours (Tetef 2001).
+
+【127】Use
+
+【128】Reduction of the incidence and severity of anthracycline-induced (ie, doxorubicin-induced) cardiotoxicity in women with metastatic breast cancer who have received a cumulative doxorubicin dose of 300 mg/m 2 and will benefit from continuing doxorubicin therapy to maintain tumor control; not recommended for use with initial doxorubicin therapy (Totect; Zinecard: FDA approved in adults); treatment of extravasation resulting from intravenous anthracycline chemotherapy (Totect: FDA approved in adults); has also been used for prevention of anthracycline-induced cardiomyopathy associated with treatment of other malignancies when higher doses of anthracyclines are indicated.
+
+【129】Medication Safety Issues
+
+【130】Sound-alike/look-alike issues:
+
+【131】Zinecard may be confused with Gemzar
+
+【132】Metabolism/Transport Effects
+
+【133】None known.
+
+【134】Drug Interactions  
+
+【135】**Note** : Interacting drugs may **not be individually listed below** if they are part of a group interaction (eg, individual drugs within “CYP3A4 Inducers \[Strong\]” are NOT listed). For a complete list of drug interactions by individual drug name and detailed management recommendations, use the drug interactions program by clicking on the “Launch drug interactions program” link above.
+
+【136】**Note:** Interacting drugs may **not be individually listed below** if they are part of a group interaction (eg, individual drugs within “CYP3A4 Inducers \[Strong\]” are NOT listed). For a complete list of drug interactions by individual drug name and detailed management recommendations, use the drug interactions program
+
+【137】5-Aminosalicylic Acid Derivatives: May enhance the myelosuppressive effect of Myelosuppressive Agents. _Risk C: Monitor therapy_
+
+【138】Antithyroid Agents: Myelosuppressive Agents may enhance the neutropenic effect of Antithyroid Agents. _Risk C: Monitor therapy_
+
+【139】BCG (Intravesical): Myelosuppressive Agents may enhance the adverse/toxic effect of BCG (Intravesical). Myelosuppressive Agents may diminish the therapeutic effect of BCG (Intravesical). _Risk X: Avoid combination_
+
+【140】Chloramphenicol (Ophthalmic): May enhance the adverse/toxic effect of Myelosuppressive Agents. _Risk C: Monitor therapy_
+
+【141】Chloramphenicol (Systemic): Myelosuppressive Agents may enhance the myelosuppressive effect of Chloramphenicol (Systemic). _Risk X: Avoid combination_
+
+【142】Cladribine: May enhance the myelosuppressive effect of Myelosuppressive Agents. _Risk X: Avoid combination_
+
+【143】CloZAPine: Myelosuppressive Agents may enhance the adverse/toxic effect of CloZAPine. Specifically, the risk for neutropenia may be increased. _Risk C: Monitor therapy_
+
+【144】Deferiprone: Myelosuppressive Agents may enhance the neutropenic effect of Deferiprone. Management: Avoid the concomitant use of deferiprone and myelosuppressive agents whenever possible. If this combination cannot be avoided, monitor the absolute neutrophil count more closely. _Risk D: Consider therapy modification_
+
+【145】Dimethyl Sulfoxide: May diminish the therapeutic effect of Dexrazoxane. _Risk X: Avoid combination_
+
+【146】DOXOrubicin (Conventional): Dexrazoxane may diminish the therapeutic effect of DOXOrubicin (Conventional). Management: Do not administer dexrazoxane for cardioprotection at the time of doxorubicin initiation. This recommendation does not apply to the use of dexrazoxane for other indications (eg, extravasation), or to the use of dexrazoxane later in treatment. _Risk D: Consider therapy modification_
+
+【147】Fexinidazole: Myelosuppressive Agents may enhance the myelosuppressive effect of Fexinidazole. _Risk X: Avoid combination_
+
+【148】Linezolid: May enhance the myelosuppressive effect of Myelosuppressive Agents. _Risk C: Monitor therapy_
+
+【149】Olaparib: Myelosuppressive Agents may enhance the myelosuppressive effect of Olaparib. _Risk C: Monitor therapy_
+
+【150】Promazine: May enhance the myelosuppressive effect of Myelosuppressive Agents. _Risk C: Monitor therapy_
+
+【151】Ropeginterferon Alfa-2b: Myelosuppressive Agents may enhance the myelosuppressive effect of Ropeginterferon Alfa-2b. Management: Avoid coadministration of ropeginterferon alfa-2b and other myelosuppressive agents. If this combination cannot be avoided, monitor patients for excessive myelosuppressive effects. _Risk D: Consider therapy modification_
+
+【152】Reproductive Considerations
+
+【153】Evaluate pregnancy status prior to use in patients who could become pregnant. Patients who could become pregnant should use highly effective contraception to prevent pregnancy during treatment and for 6 months after the last dexrazoxane dose. Patients with partners who could become pregnant should use effective contraception during therapy and for 3 months after the last dexrazoxane dose.
+
+【154】Pregnancy Considerations
+
+【155】Based on the mechanism of action and findings in animal reproduction studies, dexrazoxane may cause fetal harm if administered during pregnancy.
+
+【156】Monitoring Parameters
+
+【157】CBC with differential (frequent); liver function; serum creatinine; cardiac function (for adults: repeat monitoring at 400 mg/m 2 , 500 mg/m 2 , and with every 50 mg/m 2 of doxorubicin thereafter; refer to individual protocol for pediatric cardiac assessment recommendations); monitor site of extravasation.
+
+【158】Mechanism of Action
+
+【159】Dexrazoxane is a derivative of ethylenediaminetetraacetic acid (EDTA); a potent intracellular chelating agent. As a cardioprotectant, dexrazoxane appears to be converted intracellularly to a ring-opened chelating agent that interferes with iron-mediated oxygen free radical generation thought to be responsible, in part, for anthracycline-induced cardiomyopathy. In the management of anthracycline extravasation, dexrazoxane may act by reversibly inhibiting topoisomerase II, protecting tissue from anthracycline cytotoxicity, thereby decreasing tissue damage.
+
+【160】Pharmacokinetics (Adult Data Unless Noted)
+
+【161】Distribution: Distributes to heart, liver, and kidneys; V d : Children: 0.96 L/kg; Adults: 22 to 25 L/m 2
+
+【162】Protein binding: None
+
+【163】Metabolism: Hydrolyzed by dihydropyrimidine aminohydrolase and dihydroorotase
+
+【164】Half-life elimination: 2.1 to 2.5 hours
+
+【165】Excretion: Urine 
+
+【166】Pharmacokinetics: Additional Considerations (Adult Data Unless Noted)
+
+【167】Altered kidney function: Clearance is reduced in patients with renal function impairment. The mean AUC was 2-fold higher in patients with moderate (CrCl 30 to 50 mL/minute) to severe (CrCl <30 mL/minute) renal impairment.
+
+【168】Brand Names: International
+
+【169】International Brand Names by Country
+
+【170】For country code abbreviations ( show table )  
+
+*   (AR) Argentina : Dexrazoxane chiron ;
+*   (AT) Austria : Cardioxane | Cyrdanax | Savene ;
+*   (BE) Belgium : Cardioxane | Savene ;
+*   (BR) Brazil : Cardioxane ;
+*   (CL) Chile : Cardioxane ;
+*   (CN) China : Ao nuo xian ;
+*   (CO) Colombia : Cardioxane | Razoxane ;
+*   (CZ) Czech Republic : Cardioxane | Cyrdanax ;
+*   (DE) Germany : Cardioxane | Cyrdanax | Savene ;
+*   (EC) Ecuador : Cardioxane | Razox ;
+*   (EG) Egypt : Cardioxane ;
+*   (ES) Spain : Cardioxane | Savene ;
+*   (FR) France : Cardioxane | Cyrdanax | Savene ;
+*   (GB) United Kingdom : Cardioxane | Savene ;
+*   (GR) Greece : Cardioxane | Savene ;
+*   (HU) Hungary : Cardioxane | Savene ;
+*   (IE) Ireland : Savene ;
+*   (IT) Italy : Cardioxane | Savene ;
+*   (JP) Japan : Savene ;
+*   (KR) Korea, Republic of : Cardioxane ;
+*   (LT) Lithuania : Cardioxane ;
+*   (MX) Mexico : Cardioxane | Dexpexel | Isoflur | Zucordex ;
+*   (NL) Netherlands : Cardioxane ;
+*   (NZ) New Zealand : Cardioxane ;
+*   (PE) Peru : Razox ;
+*   (PL) Poland : Cardioxane | Cyrdanax ;
+*   (PR) Puerto Rico : Dexrazoxane | Zinecard ;
+*   (PT) Portugal : Cardioxane ;
+*   (RU) Russian Federation : Cardioxan | Cardioxane ;
+*   (SE) Sweden : Savene ;
+*   (SI) Slovenia : Savene ;
+*   (SK) Slovakia : Cardioxane | Cyrdanax ;
+*   (UY) Uruguay : Cardioxane ;
+*   (VE) Venezuela, Bolivarian Republic of : Cardioxane王磊
+
+====================================================================================================

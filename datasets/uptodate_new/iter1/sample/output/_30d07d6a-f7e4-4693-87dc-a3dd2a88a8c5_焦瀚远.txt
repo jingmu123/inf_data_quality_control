@@ -1,0 +1,347 @@
+【0】Infections involving cardiac implantable electronic devices: Epidemiology, microbiology, clinical manifestations, and diagnosis
+
+【1】INTRODUCTION 
+
+【2】Traditionally, cardiac implantable electronic devices (CIEDs), including pacemakers (PPMs), implantable cardioverter-defibrillators (ICDs), and cardiac resynchronization therapy (CRT) devices with or without defibrillation capacity (CRT-D or CRT-P, respectively), have included pulse generators to provide the electrical stimulus and either transvenous or epicardial leads to deliver the stimulus to the heart.
+
+【3】Additional novel devices have been developed which operate effectively without the requirement for a transvenous or epicardial lead system; leadless pacemakers are percutaneously placed directly inside the heart, while subcutaneous ICDs and implantable loop recorders function effectively in an extrathoracic pocket without direct attachment to the heart.
+
+【4】The clinical presentation and management of CIED infections vary according to the location and extent of infection and the clinical characteristics of the patient . This topic focuses on the epidemiology, microbiology, clinical manifestations, and diagnosis of CIED infections involving PPMs, ICDs, and CRT devices.
+
+【5】CIED infections are generally considered in two categories: pocket infection and systemic infection. These categories are not mutually exclusive, and the two forms may coexist. An alternative approach to classification of CIED infection is by mode of infection (eg, primary or secondary). Primary infection occurs when the device and/or pocket itself is the source of infection; this is the most common form of CIED infection and occurs as a result of contamination at the time of CIED implantation. Secondary infection occurs when the leads (and sometimes the device and the pocket) are seeded due to bacteremia from a remote source.
+
+【6】Issues related to treatment and prevention of CIED infections, as well as noninfectious complications of PPMs and ICDs, are discussed separately.
+
+【7】EPIDEMIOLOGY
+
+【8】Incidence — The true incidence of CIED infection is difficult to determine due to the lack of a comprehensive registry or mandatory reporting. A range of values has been reported in a number of observational series . In one review including 21 studies of CIED recipients with variable follow-up, the rate of infections ranged from 0.8 to 5.7 percent . Data also suggest that increasing use of CIEDs has been associated with an increased incidence of device infection .
+
+【9】The following observations illustrate the range of findings:
+
+【10】 The incidence of infection was studied among 97,750 patients who underwent a total of 128,045 implantation or replacement procedures  in Denmark between 1982 and 2018. After 566,275 device-years of surveillance, the following infection risks were identified :
+
+【11】• PPM – 1.2 percent lifetime risk
+
+【12】• ICD – 1.9 percent lifetime risk
+
+【13】• CRT-P – 2.2 percent lifetime risk
+
+【14】• CRT-D – 3.4 percent lifetime risk
+
+【15】Infection rates were lowest during the initial implantation, with infection rates 1.5 to 3-fold higher during revision or replacement procedures.
+
+【16】 Data from the United States National Inpatient Sample from 1993 to 2008 indicate an overall infection incidence of 1.6 percent; rates were stable until 2004, whereupon the incidence was noted to increase significantly . Between 2000 and 2012, the average annual incidence of CIED infection in this database was 2.06 percent per patient-year . Between 2003 and 2017, the annual proportion with CIED-related infectious endocarditis (CIED-IE) increased from 1.7 to 4.8 percent .
+
+【17】 In a cohort of more than 200,000 patients enrolled in a CIED registry, 1.7 percent  developed an infection within six months post-implantation; the incidence was higher among patients who underwent pulse-generator replacement than among those who underwent initial implantation .
+
+【18】Patients admitted for CIED infection experience significant mortality:
+
+【19】 Among the 27,257 with CIED-IE in the 2003-2017 United States National Inpatient Sample, the overall in-hospital mortality was 9.2 percent; mortality for those with native valve or prosthetic valve endocarditis was 12 percent each. The longitudinal analysis revealed a significant reduction in CIED-IE mortality from 15 to 9.7 percent in 2003 and 2017, respectively .
+
+【20】 Another study including 416 patients admitted with CIED infection noted mortality rates of 5.5 and 14.6 percent at 30 days and 1 year after admission, respectively .
+
+【21】 Among more than 3,400 Medicare recipients undergoing initial CIED implantation or replacement who experienced device infection during the following year, 1-year mortality was noted in 17 percent of 2,109 patients treated with device extraction and replacement and 34 percent of 1,355 patients treated with device extraction in the absence of replacement .
+
+【22】Risk factors — A number of risk factors and comorbid conditions have been associated with CIED infection . The most clearly identified risk factor is recent manipulation of the device (eg, newly implanted device, device revision or generator change). Other risk factors include the number of prior procedures, the lack of antibiotic prophylaxis at the time of implantation, immunocompromised state, renal dysfunction, younger age, and postprocedure hematoma .
+
+【23】Devices that have been in place for longer periods of time are less likely to become secondarily infected in the setting of bacteremia. Approximately 63 to 77 percent of infections occur within one year, and 23 to 37 percent occur after one year .
+
+【24】In one systematic review and meta-analysis, three major categories of risk factors were defined :
+
+【25】 Patient-related risk factors
+
+【26】• End-stage kidney disease
+
+【27】• Previous device infection
+
+【28】• Corticosteroid use
+
+【29】• Chronic obstructive lung disease
+
+【30】• Malignancy
+
+【31】• Diabetes mellitus
+
+【32】• Heart failure
+
+【33】• Anticoagulant use
+
+【34】• Skin disorders
+
+【35】• Older age with comorbidities
+
+【36】• Pre-procedure fever
+
+【37】 Procedure-related risk factors
+
+【38】• Procedure duration
+
+【39】• Postoperative hematoma
+
+【40】• Reintervention for lead dislodgement
+
+【41】• Operator inexperience
+
+【42】• Temporary pacing
+
+【43】• Device replacement/revision
+
+【44】• Lack of antibiotic prophylaxis
+
+【45】 Device-related characteristics:
+
+【46】• Epicardial leads
+
+【47】• Abdominal pocket
+
+【48】• Positioning of two or more leads
+
+【49】• ICD, CRT-P, or CRT-D greater risk than PPM 
+
+【50】MICROBIOLOGY
+
+【51】Causative organisms — _Staphylococcus aureus_ and coagulase-negative staphylococci (often _Staphylococcus epidermidis_ ) cause the majority of generator pocket infections and up to 89 percent of device-related endocarditis (CIED-IE) . The likelihood of _S. aureus_ infection is high for CIED infections arising within two weeks of implantation . Other organisms implicated in CIED infections include streptococci, enterococci, _Corynebacterium_ spp, _Cutibacterium_ (formerly _Propionibacterium_ ) _acnes_ , gram-negative bacilli, and _Candida_ spp.
+
+【52】 In one study including more than 600 CIED infections, only 5 percent were caused by gram-negative bacilli ( _Pseudomonas_ _aeruginosa_ and _Serratia_ species being most common). Of these 31 patients, infection was limited to the pocket in 24 cases; and in the 7 patients with bloodstream infection, 6 had concurrent pocket infection .
+
+【53】 In another study that included 412 patients with infected CIEDs ; staphylococcal infections were the most common  .
+
+【54】 Among 162 episodes of precisely defined pacemaker endocarditis from four studies, coagulase-negative staphylococci caused 61 percent and _S. aureus_ caused 30 percent . Methicillin resistance was common among the staphylococci. Polymicrobial infection occurred in 18 patients, and cultures were negative in 7 patients.
+
+【55】 In the Spanish Collaboration on Endocarditis that included 3,966 cases of endocarditis, 424 patients had CIED-IE. _S. aureus and_ coagulase negative staphylococci each caused 30 percent of cases; other causes included enterococci , streptococci , gram negative bacilli , _Candida spec_ ies . In contrast, the major causes for valvular endocarditis were _S. aureus , coagulase negative staphylococci , enterococci , streptococci , _Candida spe_ cies , and gram negative bacilli  .
+
+【56】Bacteremia — _S. aureus_ bacteremia in patients with a CIED is associated with a relatively high rate of CIED infection, morbidity, and mortality . It is likely that many of these patients have a primary infection of the CIED, particularly when bacteremia occurs in the initial three months after device manipulation. In addition, a significant number of individuals with _S. aureus_ CIED lead infection also have concurrent valvular infection. Furthermore, secondary bacteremic seeding of the CIED from _S. aureus_ infection occurring at a remote site is common.
+
+【57】Given the morbidity and mortality associated with _S. aureus_ bacteremia generally and with CIED infection particularly, it is important that patients with a CIED who develop _S. aureus_ bacteremia are carefully evaluated for CIED infection.
+
+【58】 In one study that applied the European Heart Rhythm Association’s CIED-IE diagnostic criteria  to 110 patients with a CIED and _S. aureus_ bacteremia (inclusive of those with a pocket infections), definite and possible CIED-IE were diagnosed in 52 and 28 percent of cases, respectively .
+
+【59】 In another study including more than 360 patients with a CIED and _S. aureus_ bacteremia, CIED infection was observed in 51 percent of patients. Among those without evidence of CIED infection who did not undergo empiric CIED removal, 19 percent had recurrent bacteremia. The risk of relapse correlated with the duration of bacteremia (>1 day of bacteremia OR 9.99) .
+
+【60】_Enterococcus faecalis_ is a less common cause of CIED infection (compared with _S. aureus_ and _S. epidermidis_ ); development of _E. faecalis_ bacteremia in the context of CIED placement should prompt consideration of device infection:
+
+【61】 In one population-based cohort study including 72 patients with a CIED and monomicrobial _E. faecalis_ bacteremia between 2014 and 2018, 4 underwent device extraction . Of the 68 patients whose device was retained, recurrent of _E. faecalis b_ acteremia occurred in 10 percent of cases.
+
+【62】 Similarly, a prospective international observational registry of CIED infection including 433 patients noted enterococcal bacteremia in 4.8 percent of cases, most of whom had definite endocarditis . The onset of infection was distant from the most recent device manipulation, suggesting that CIED infection likely arose by hematogenous seeding from a remote focus of infection.
+
+【63】Native valve endocarditis can occur independently or concurrently with CIED endocarditis/lead infection. This is of particular concern when patients have endocarditis-predisposing valvular lesions (native or prosthetic valve). In one study, 12 of 45 bacteremic patients with a CIED had only valvular endocarditis; in 6 of the 12 patients, the causative organism was a streptococcus . Thus, in patients with unexplained bacteremia due to streptococcus or enterococcus (eg, organisms that commonly causes endocarditis), evidence of independent valvular infection should be sought..
+
+【64】CIED lead/valve infection caused by gram-negative organisms is rare . Occasionally, gram-negative bacilli cause pocket infection due to direct introduction during device implantation or revision, and such an infection could give rise to bacteremia. However, gram-negative bacteremia from sources other than the CIED pocket rarely seed the device pocket or leads. Thus, in the absence of evidence of pocket infection or CIED-IE, patients with gram-negative bacteremia from a remote site can be managed initially with device retention . However, in patients managed with CIED retention, recurrence of bacteremia with the same species after appropriate antimicrobial therapy and in the absence of an alternative source for bacteremia should prompt careful evaluation for CIED infection.
+
+【65】Fungemia — Data on fungemia in patients with CIED are sparse. One systematic review of case reports and case series suggests that 90 percent of fungemias were associated with valve or lead involvement (as seen on echocardiography); CIED extraction was associated with increased survival to hospital discharge among cases where the device was removed versus retained  . In another study including 12 patients with CIED and candidemia, mortality was higher among those who did not undergo CIED removal  . However, because these patients are often immunosuppressed and chronically ill, the treatment strategy was likely confounded by the severity of illness.
+
+【66】FORMS OF INFECTION
+
+【67】CIED pocket infection
+
+【68】Definition — CIED pocket infection refers to infection involving the subcutaneous pocket containing the pulse generator and the subcutaneous segment of the leads, but not the transvenous segment of the leads . Such patients generally have negative blood cultures and no evidence of a lead/valve vegetation on transesophageal echocardiogram (TEE).
+
+【69】Extension of CIED pocket infection to involve intravascular lead(s) can occur, leading to systemic infection (eg, concurrent positive blood cultures and/or evidence of a lead/valve vegetation on TEE).
+
+【70】Pathogenesis — The most common source of pocket infection is perioperative contamination with skin flora, which can result in acute or delayed-onset infection. This was illustrated in a prospective study including 103 patients undergoing elective pacemaker (PPM) implantation :
+
+【71】 Swab specimens (obtained from the pulse-generator pocket before and after insertion) yielded bacteria from 48 and 37 percent of specimens, respectively; the organisms were predominantly coagulase-negative staphylococci.
+
+【72】 Subsequent PPM infection developed in five patients . _Staphylococcus schleiferi_ (a coagulase-negative species) caused three of these infections at 4, 16, and 29 months after implantation, respectively. Based upon molecular typing, the _S. schleiferi_ isolates recovered at insertion and at the time of the infection appeared identical.
+
+【73】Clinical manifestations — Infections involving the generator pocket typically develop soon after CIED implantation or pulse generator change. However, pocket infections can also arise many months after implantation due to a chronic, smoldering infection related to contamination at the time of implantation.
+
+【74】Patients with acute or subacute pocket infection may present with pocket discomfort, erythema of the overlying skin (eg, cellulitis), swelling, and occasionally drainage through a dehisced incision. Fever and systemic symptoms are often absent when infection is limited to the generator pocket . However, patients with evident pocket infection who manifest a systemic inflammatory response (tachycardia, tachypnea, fever or hypothermia, and leukocytosis or leukopenia) and/or hypotension are at risk for concurrent blood stream infection . In some patients, part of the device or lead erodes through the overlying skin ; this can occur in acute or delayed infection.
+
+【75】Patients with delayed pocket infection may present with the above findings or may present with minimal local inflammatory changes; in some cases, the sole clinical manifestation may be the erosion itself.
+
+【76】In the setting of erosion of the pulse generator or lead due to physical factors, site contamination is unavoidable; erosion of any part of the CIED unequivocally indicates that the device is contaminated and infected. Therefore, such cases should be managed as a pocket infection (even in the absence of overt evidence for infection or inflammation).
+
+【77】Diagnosis — The diagnosis of CIED pocket infection should be suspected when there is inflammation overlying the implanted device (including erythema, swelling, warmth, pain, or tenderness), purulent drainage from the pocket, deformation of the pocket, adherence or threatened erosion , or erosion of the device or lead through the skin. The absence of systemic symptoms does not exclude the possibility of a CIED pocket infection. The diagnosis of isolated CIED pocket infection is established by the presence of one or more of these manifestations in the setting of negative blood cultures and negative TEE . The approach to evaluation of suspected pocket infection is summarized in the algorithm ( algorithm 1 ).
+
+【78】In the absence of clinical signs of local inflammation, percutaneous aspiration of a pocket is not warranted; the diagnostic yield is generally low and there is a potential risk of introducing microorganisms. In the setting of prior antibiotic therapy, pocket infection may be obvious clinically, but pocket and blood cultures may be falsely negative. In the absence of prior antimicrobial therapy, negative Gram stains or culture of drainage may indicate infection due to an unusual organism (mycobacteria, fungi, etc); in such cases, detection might require assessment using special histopathologic and culture techniques.
+
+【79】In patients with overt pocket infection, draining purulent fluid should be cultured and blood cultures should be drawn (at least two or three sets), particularly if the patient manifests a systemic inflammatory response syndrome or is hypotensive. Thereafter, empiric antimicrobial therapy can be initiated.
+
+【80】At the time of device removal, the pocket swabs and tissue should be cultured. Sonication of the device with culture of the sonicate fluid has been found to be more sensitive than swab cultures of the device or pocket tissue. In addition, polymerase chain reaction (PCR) testing of the sonicate fluid further enhances sensitivity. While not widely available nor routine, sonicate fluid PCR may be diagnostic for patients who have received recent antibiotics or for circumstances in which difficult–to-culture organisms are anticipated .
+
+【81】In addition, chest radiography should be obtained to evaluate for evidence of septic pulmonary emboli, and a TEE should be obtained to evaluate for lead/valve vegetations. These studies are particularly important in evaluating patients in whom prior antibiotic therapy may have led to false-negative blood cultures.
+
+【82】In settings with suspected but less obvious pocket infection, fluorine-18 fluorodeoxyglucose positron emission tomography/computed tomography  or radiolabeled autologous white blood cell single-photon emission computed tomogram with CT (SPECT/CT) scanning may be helpful to define pocket infection.
+
+【83】Of note, TEE imaging of chronic leads may demonstrate fibrous stranding arising from the lead . In the absence of positive blood cultures, such findings should not be interpreted as infected vegetations.
+
+【84】The approach to empiric antibiotic therapy is discussed separately.
+
+【85】Differential diagnosis — Pocket infection must be distinguished from:
+
+【86】 **Early superficial site infection** – Early superficial site infection, such as a superficial stitch abscess, occurs within the initial 30 days after implantation and is localized to the superficial aspect of the wound (ie, does not extend to involve the pocket). In the absence of a stitch abscess, superficial infection may be difficult to distinguish from early pocket infection or early postimplantation inflammation.
+
+【87】 **Early postimplantation inflammation** – Early postimplantation inflammation, a very rare event, occurs within the initial 30 days after implantation; it is associated with erythema of the skin abutting the incision but no purulent exudate, dehiscence, fluctuance, or systemic signs of infection. This entity does not represent infection; it may occur due to local bleeding, reaction to a wound dressing, or skin preparation. The manifestations generally resolve within two weeks.
+
+【88】 **Pocket hematoma** – A CIED pocket hematoma consists of a blood collection within the pocket or, occasionally, collecting in the subpectoral space. Because the bleeding is due to the procedure, it usually occurs within the first 24 hours after implantation. A hematoma within either space typically leads to swelling and minimal discoloration of the skin, more suggestive of bruising than inflammation. Late occurrence of CIED pocket swelling (especially when remote from any procedure) should raise suspicion for pocket infection.
+
+【89】The difficulty in distinguishing the above entities from one another and from pocket infection may prompt evaluation using 18F-FDG-PET/CT, SPECT/CT or even empiric antimicrobial therapy (including coverage for _S. aureus_ ). On the assumption that the pocket is not infected in this situation, the device may be retained. If this strategy is pursued, very careful follow-up is essential to detect failure to respond or recurrence, which would suggest pocket and device infection.
+
+【90】CIED systemic infection
+
+【91】Definition — CIED systemic infection refers to infection involving the transvenous portion of the lead (with involvement of the contiguous endocardium or tricuspid valve) or an epicardial electrode (with involvement of the epicardium). CIED systemic infection can occur with or without involvement of the generator pocket. Patients with systemic infection generally have positive blood cultures and/or vegetation on TEE.
+
+【92】Synonyms for CIED systemic infection include lead infection and device-related endocarditis (CIED-IE).
+
+【93】Pathogenesis — Infection of the intravascular component of a CIED system (manifesting as an endocarditis-like vegetation) occurs primarily on the intracardiac portion of the lead along the right atrium, the tricuspid valve, or the right ventricular contact point. Occasionally, vegetations may be seen on the lead as it traverses from the superior vena cava into the right atrium. These infections may track intravascularly along the device lead from the subcutaneous pocket and device component or arise by bacteremic seeding from a remote site . Seeding of the CIED from bacteremia primarily involves the intracardiac lead and is caused most commonly by _S. aureus._
+
+【94】The host response to placement of the intravenous lead can provide protection from late bacteremic seeding. Approximately one week after placement, the portion of the lead in contact with the vein intima becomes partially incorporated into the vein wall by connective tissue and an endothelial covering. Fibrous tissue proliferation at some sites in the vena cava and right atrium results in a fibrotic attachment of the pacing lead to these points . The endothelial covering may protect the lead against the adherence of bacteria and subsequent infection during episodes of bacteremia. While protective, these changes make subsequent extraction of pacing leads difficult.
+
+【95】Epicardial electrodes may be infected at the cardiac attachment point as a result of intraoperative contamination or, less likely, by spread of infection along pacing electrodes from an infected pulse-generator pocket.
+
+【96】Clinical presentations — Endocarditis (manifested as a lead vegetation and/or adjacent valve vegetation) is an important feature of CIED systemic infection . The presence of vegetation(s) attached to the device lead (and/or contiguous endocardium) is termed device-related endocarditis (CIED-IE); these infections primarily involve the intracardiac portion of the lead and essentially represent a right-sided endocarditis.
+
+【97】Patients with infection of epicardial leads, particularly when those leads have been implanted at cardiac surgery, may present with concurrent mediastinitis or pericarditis.
+
+【98】Endocarditis — Up to half of patients with CIED-IE also have echocardiographic or intraoperative evidence of a vegetation on a valve (usually the tricuspid valve) . Occasionally, echocardiography demonstrates isolated left-sided endocarditis or fails to demonstrate a vegetation in patients with CIED lead infection and high-grade bacteremia.
+
+【99】In one study including 45 patients with PPMs and endocarditis who underwent TEE, the following findings were observed :
+
+【100】 PPM endocarditis was observed in 33 patients. Concurrent valve involvement occurred in 16 patients . The median interval from implantation to infection was 0.75 years (range 0.01 to 8 years). Multiple PPM procedures (generator changes) were common. Infection was caused by staphylococci in 70 percent of cases.
+
+【101】 Valve infection (primarily left sided) without PPM involvement was observed in 12 patients. The median interval from implantation to infection was 2.2 years (range 0.08 to 7.2). Multiple PPM procedures were infrequent in this group. Infection was caused by staphylococci  and less virulent organisms more typically associated with endocarditis such as streptococci, enterococci, and HACEK ( _Haemophilus_ , _Aggregatibacter_ , _Cardiobacterium_ , _Eikenella_ , _Kingella_ ; 58 percent).
+
+【102】In another series of CIED infections including 51 patients with prosthetic valves, infection involved the pocket in 20 patients and the lead or valve in 31 (lead only in 15, valve only in 4, lead plus valve in 7, and occult bacteremia in 5) . Similarly, in a study including 44 episodes of CIED-IE, 38 patients had device infection with or without valve leaflet involvement, and 6 had infection confined to the aortic or mitral valves .
+
+【103】Given that the TEE is not 100 percent sensitive for the detection of endocarditis, some patients with high-grade bacteremia due to typical endocarditis-causing organisms (defined as multiple \[two or more\] separate blood cultures positive for the same organism, drawn ≥1 hour apart) and a negative TEE will satisfy the modified Duke criteria for possible endocarditis and should be treated accordingly ( algorithm 2 and algorithm 3 ). By further evaluation with an alternative imaging technology (eg, electrocardiogram-gated cardiac computed tomography angiography \[CTA\], 18F-FDG-PET/CT, or SPECT/CT\]) infection or endocarditis may be confirmed in some of these patients. The choice of a particular diagnostic modality will be guided by local availability and expertise.
+
+【104】Lead vegetation — Presence of a vegetation on the intracardiac lead seen on TEE (as opposed to fibrin stranding, which is found commonly on longstanding uninfected leads) may indicate infection of the CIED lead. Because of significant overlap in the appearance of infectious and noninfectious lead-adherent echodensities, the clinical scenario often determines the diagnosis and approach to treatment. For example, an echodensity found by TEE or intracardiac echo performed for an unrelated reason is unlikely to represent CIED infection or CIED-IE . The clinical manifestations of lead infection are similar to those of right-sided endocarditis .
+
+【105】Usually the presentation is subacute, but occasional patients present with sepsis syndrome and shock. The acute presentations are associated with more virulent organisms (eg, _S._ _aureus_ ). Manifestations overall include:
+
+【106】 Fever – 84 to 100 percent.
+
+【107】 Chills – 75 to 84 percent.
+
+【108】 Pulmonary abnormalities – Clinical and/or radiographic findings consistent with pneumonia, bronchitis, lung abscess, or embolism occur in 20 to 45 percent of patients . In particular, pulmonary embolism occurs in 11 to 40 percent of cases . Abnormalities on chest imaging may provide indirect evidence of intracardiac lead or tricuspid valve infection.
+
+【109】 Tricuspid abnormalities – Tricuspid regurgitation develops in about 25 percent of patients; occasionally tricuspid stenosis results from an obstructing vegetation .
+
+【110】 Metastatic seeding of mitral or aortic valve, bone, joints, liver, and spleen .
+
+【111】 Systemic emboli – Systemic emboli, including stroke, are rare but can occur in the setting of a patent foramen ovale, atrial septal defect, or unrecognized left-sided valve infection .
+
+【112】The clinical presentation of lead infection may be early onset (within three to six months of CIED implantation or generator change; approximately one-third of cases) or late onset (more than six months after CIED manipulation; approximately two-thirds of cases) .
+
+【113】In general, patients with early-onset CIED infection are recognized promptly because of the frequent concurrence of systemic symptoms and associated generator pocket infection . Among patients with late-onset CIED infection, the average interval from device manipulation to the onset of symptoms is 25 months, and the symptoms are often protean and consistent with endocarditis, resulting in a delayed diagnosis . Clinical manifestations of endocarditis are discussed further separately.
+
+【114】Valve vegetation — CIED infection can occur in association with concomitant infection of the right (or, less commonly, left) heart valves . In addition, patients with a CIED may present with valvular endocarditis in the absence of device infection.
+
+【115】The most common symptoms of valvular endocarditis are fever and chills; other symptoms include malaise, headache, myalgias, arthralgias, night sweats, abdominal pain, dyspnea, cough, and pleuritic pain. Cardiac murmurs are observed in approximately 85 percent of patients. Signs specifically suggestive of left-sided valve infection include cutaneous manifestations such as petechiae or splinter hemorrhages and systemic emboli.
+
+【116】Other presentations — Other presentations of CIED systemic infection include bacteremia with infection of remote sites, and in patients with epicardial leads, mediastinitis, and pericarditis.
+
+【117】Bacteremia associated with CIED lead infection may occur in the absence of clinical evidence for endocarditis. Occasionally, remote extravascular sites (eg, bone or joint) are seeded. In patients with a CIED who present with hematogenously seeded deep infection, the potential for concurrent CIED lead infection must be considered.
+
+【118】Symptoms of mediastinitis or pericarditis may occur in the setting of patients with infection of epicardial electrodes. Both are usually associated with bacteremia:
+
+【119】 Clinical manifestations of mediastinitis include fever and chest pain.
+
+【120】 Clinical manifestations of pericarditis include fever, pleuritic chest pain, and pericardial friction rub. Pericardial effusion may be observed on echocardiogram or radiographic imaging and be accompanied by hemodynamic complications.
+
+【121】Diagnostic evaluation — The clinical presentation and results of initial tests determine the need to test for a CIED systemic infection as follows:
+
+【122】 **Patients who require evaluation for CIED infection** − Diagnostic testing for CIED systemic infection should be obtained in patients with a CIED who present with any of the following characteristics:
+
+【123】• Fever or other systemic signs of infection
+
+【124】• Overt pocket infection
+
+【125】• Pulmonary nodular infiltrates (eg, suspected septic emboli)
+
+【126】• Unexplained bacteremia
+
+【127】• Bacteremia with _S. aureus_
+
+【128】The absence of signs or symptoms of CIED pocket infection does not rule out CIED systemic infection.
+
+【129】 **Patients who may not require evaluation for a CIED infection** \-− Diagnostic testing for CIED systemic infection may not be necessary for all patients with a CIED and bacteremia. Patients with a CIED and bacteremia from a clearly defined infection remote from the CIED (eg, pneumococcal pneumonia, pyelonephritis due to Enterobacteriaceae) caused by an organism not typically associated with intravascular infection are at low risk of CIED infection. In such patients, the infection can be treated and the patient can be monitored for signs of CIED infection during follow-up.
+
+【130】Evaluation for CIED infection — The approach to evaluation of suspected CIED systemic infection is summarized in the algorithms ( algorithm 2 and algorithm 3 ) and includes the following tests:
+
+【131】 **Blood cultures** − At least two sets of blood cultures should be obtained from separate venipuncture sites prior to initiation of empiric antimicrobial therapy .
+
+【132】If bacteremia is detected, follow-up blood cultures should be obtained daily after antimicrobial therapy is begun and continued until 48 to 72 hours after clearance of bacteremia is documented. Frequent blood cultures may provide additional prognostic information in those with staphylococcal bacteremia and possible CIED infection; notably the risk of recurrence is associated with the duration of staphylococcal bacteremia . The approach to empiric antibiotic therapy is discussed separately.
+
+【133】 **Echocardiography** − In all patients with suspected CIED infection, echocardiography should be performed using an approach similar to the evaluation for valvular endocarditis (ie, initial transthoracic echocardiography \[TTE\] with a subsequent transesophageal echo \[TEE\] if the TTE is negative or additional information is required to direct management) ( movie 1 ) .
+
+【134】TEE is better than transthoracic echocardiography for detection of lead and valve vegetations and also provides images of the lead in the proximal superior vena cava. In several studies, TEE identified vegetations on the tricuspid valve or device lead in 90 to 96 percent of patients with endocarditis; in contrast, TTE identified such findings in only 22 to 43 percent .
+
+【135】However, TEE cannot fully exclude the presence of CIED infection or endocarditis. Accordingly, when intracardiac infection is highly suspected and the TEE is negative, further testing is necessary (eg, repeat echocardiography or alternative imaging as described below) ( algorithm 3 ). The limitations of TEE for discriminating between infectious lead vegetations and thrombus were demonstrated in small studies:
+
+【136】• In a small case-control study that blinded echocardiographers to all clinical data, infectious and noninfectious echodensities did not differ in their echocardiographic characteristics (eg, diameter, mobility), and the reviewers' ability to correctly diagnose infectious vegetations was low (sensitivity 34 percent) .
+
+【137】• Another study showed that 17 percent of patients undergoing TEE for noninfectious indications were found to have lead-based echodensities, and none of these patients manifested bacteremia during follow-up .
+
+【138】 **Alternative imaging** − When intracardiac infection is highly suspected in patients with a negative or nondiagnostic TEE, alternative imaging with SPECT  or FDG-PET/CT to support the diagnosis may be warranted . These technologies can assess the entire device and may also detect infected sites remote from the device. These alternative imaging modalities are not routinely used in assessing CIED infection; they may be useful for situations when CIED infection has not been confirmed (but is strongly suspected) . The choice of a particular diagnostic modality is guided by local availability and expertise:
+
+【139】• 1 **8F** **\-FDG-PET/CT scan** − PET positivity depends upon uptake of 18 F-FDG by inflammatory cells at the site of infection; its utility is uncertain in patients with leukopenia or after prolonged administration of antibiotics. 18 F-FDG-PET/CT technology may be useful for distinguishing infection of soft tissues overlying the generator from generator pocket infection and can define infection along the extracardiac course of electronic leads and within the heart . In addition, 18 F-FDG-PET/CT can detect septic pulmonary emboli as a manifestation of lead-related endocarditis. Occasionally, this imaging may also demonstrate infection involving other sites due to bacteremia (such as vertebral osteomyelitis/discitis) or embolic events suggesting concurrent left-sided endocarditis (such as splenic or renal infarcts) .
+
+【140】A meta-analysis including 340 patients noted a high overall sensitivity and specificity of 18 F-FDG-PET/CT for diagnosis of CIED infection  . However, the sensitivity and specificity were higher for pocket/generator infection  compared with lead-associated endocarditis . The findings of another meta-analysis including 492 patients were very similar . Thus, radionuclide imaging, particularly FDG-PET/CT, is uniquely useful in assessing pocket infection but can also supplement diagnostic efforts for CIED-IE when echocardiography is equivocal.
+
+【141】• **Tagged WBC scan** − Scintigraphy  and SPECT/CT have been used for the detection and localization of CIED infections . SPECT/CT is able to locate inflammation better than scintigraphy, which has poor spatial resolution. SPECT/CT has good sensitivity for pocket infection. In patients with a suspected CIED infection and recent cardiac surgery, scintigraphy may be more specific than 18 F-FDG-PET/CT, which may be positive, particularly around implanted material, for two to three months after surgery due to sterile inflammation (false positive) .
+
+【142】• **Cardiac CT angiography (CCTA)** – CCTA (with or without EKG gating), has poorer sensitivity than echocardiography for lead vegetations. It can be combined with enhanced chest CT to evaluate for pocket infection or hematogenous pulmonary findings which would indirectly support a diagnosis of CIED infection. Use of CCTA should be limited to situations in which radionuclide imaging is unavailable .
+
+【143】Evaluation for associated endocarditis — Patients with a CIED who are undergoing evaluation for a CIED infection or who have unexplained bacteremia caused by an organism that commonly causes endocarditis are at high risk for right-sided or left-sided endocarditis; these patients should be evaluated for endocarditis, which typically includes a TEE. The approach to testing and interpretation of tests for endocarditis are discussed separately.
+
+【144】Diagnosis
+
+【145】Our approach — The diagnosis of CIED systemic infection is established if a patient with a CIED has a fever or systemic signs of infection and one of the following ( algorithm 2 ):
+
+【146】 Clinically evident pocket infection and positive blood cultures.
+
+【147】 TEE with valve or lead vegetation in the context of other signs and symptoms of systemic infection (as distinguished from fibrin stranding, which can be found on leads that have been in place over an extended period). Because of significant overlap in appearance between infectious and noninfectious vegetations, the clinical history, physical examination, and microbiology results supporting CIED infection should inform the interpretation of lead-based echodensities.
+
+【148】In patients with nondiagnostic TEE or in whom TEE cannot be done, an alternative imaging modality (such as FDG-PET/CT, SPECT/CT, or CCTA) can identify evidence of CIED infection or endocarditis. The choice of a particular diagnostic modality will be guided by local availability and expertise.
+
+【149】 Blood cultures demonstrate:
+
+【150】• Any isolation of the following organisms:
+
+【151】\- _S. aureus_ (especially in the absence of a clear portal of entry, occurring within three months of device manipulation, or persisting or recurring in spite of appropriate antimicrobial therapy)
+
+【152】\- _Candida_ species
+
+【153】• High-grade bacteremia (defined as 2 or more separate blood cultures positive for the same organism, drawn ≥1 hour apart) with the following organisms:
+
+【154】\- Coagulase-negative staphylococci.
+
+【155】\- _Cutibacterium_ (formerly _Propionibacterium_ ) species.
+
+【156】\- Other high-grade bacteremia without clear portal of entry (especially due to an organism that commonly causes endocarditis, such as alpha-hemolytic streptococci, beta-hemolytic streptococci, enterococci).
+
+【157】A single positive blood culture for coagulase-negative staphylococci o _r Cutibacterium_ species may represent skin contamination. In such cases, blood cultures should be repeated to evaluate for high grade bacteremia. If repeat cultures are confounded by antibiotic therapy and clinical suspicion for CIED infection persists, consider pursuing further imaging (FDG-PET/CT) if available; further management should be guided by consultation with infectious disease expertise.
+
+【158】 Culture and histopathology of the vegetation/lead tip consistent with infection.
+
+【159】Proposed diagnostic criteria — The European Heart Rhythm Association proposed diagnostic criteria for CIED-IE modeled after the modified Duke Criteria for infective endocarditis; these criteria categorize cases into definite, possible, and rejected groups . The criteria have not been validated, given the absence of a diagnostic "gold standard," but they provide a tool for systematic assessment for CIED-IE. The criteria use the above alternate imaging modalities as components of the classification schema; we agree with this approach.
+
+【160】Differential diagnosis — The differential diagnosis of CIED-IE includes other causes of septic pulmonary emboli and causes of bacteremia in patients with a CIED that include:
+
+【161】 **Septic jugular thrombophlebitis** – Septic jugular thrombophlebitis is characterized by infectious involvement of the carotid sheath vessels with bacteremia (often with _Fusobacterium_ spp); it should be suspected in patients with antecedent pharyngitis or parapharyngeal infection, septic pulmonary emboli, and persistent fever despite antimicrobial therapy. The diagnosis is established by computed tomography of the neck and upper thorax.
+
+【162】 **Lower extremity or pelvic vein thrombophlebitis** – Patients with septic pelvic thrombophlebitis usually present shortly after delivery or surgery with fever in the absence of localizing symptoms, which persists despite antibiotics. Radiographic studies may or may not demonstrate thrombus and the diagnosis is often one of exclusion.
+
+【163】 **Bacteremia associated with a remote site of infection** – Bacteremia (without involvement of the CIED) may occur from noncardiac sites such as the abdomen, pelvis, soft tissues, bone, or any prosthetic implant.
+
+【164】 **Blood culture contamination** – Positive blood cultures do not always represent a true bacteremia; contamination with skin flora must be considered, particularly if the entire clinical picture does not suggest a systemic infection.
+
+【165】 **Fibrous material associated with longstanding CIED leads** – TEE may demonstrate fibrous material, clot, or stranding; these findings do not always represent infection .
+
+【166】Links to society and government-sponsored guidelines from selected countries and regions around the world are provided separately.
+
+【167】 Cardiac implantable electronic devices (CIEDs) include pacemakers, implantable cardioverter-defibrillators, and cardiac resynchronization therapy (CRT) devices with or without defibrillation capacity. The most important risk factor for CIED infection is recent manipulation of the device. The most common causes of CIED infection are _Staphylococcus aureus_ and coagulase-negative staphylococci.
+
+【168】 Forms of CIED infection include pocket infection and systemic infection. These categories are not mutually exclusive, and the two forms may coexist.
+
+【169】 CIED pocket infection refers to infection involving the subcutaneous pocket containing the pulse generator and the subcutaneous segment of the leads, but not the transvenous segment of the leads.
+
+【170】 CIED pocket infection should be suspected when there is inflammation overlying the implanted device (including erythema, swelling, warmth, pain, and tenderness), purulent drainage from the pocket, deformation of the pocket, or erosion of the device or lead through the skin, in the absence of systemic symptoms. The diagnosis of isolated pocket infection is established by the presence of one or more of these manifestations in the setting of negative blood cultures and negative transesophageal echocardiography. The approach to evaluation of suspected pocket infection is summarized in the algorithm ( algorithm 1 ).
+
+【171】 CIED systemic infection refers to infection involving the transvenous portion of the lead (particularly infection of the endocardial portion of the lead with involvement of the contiguous endocardium or tricuspid valve) or an epicardial electrode (with involvement of the epicardium). Endocarditis (due to lead vegetation and/or valve vegetation) is an important presentation of CIED systemic infection. Other presentations include bacteremia with infection of remote sites and, in patients with epicardial leads, mediastinitis and pericarditis.
+
+【172】 The diagnosis of CIED systemic infection should be suspected in patients with a CIED who present with fever or other systemic symptoms of infection and have signs of a pocket infection, pulmonary nodular infiltrates (eg, suspected septic emboli), unexplained bacteremia, or bacteremia caused by _S. aureus_ . The approach to evaluation of suspected CIED systemic infection is summarized in the algorithms ( algorithm 2 and algorithm 3 ).焦瀚远
+
+====================================================================================================

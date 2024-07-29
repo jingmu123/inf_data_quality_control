@@ -1,0 +1,279 @@
+【0】Evaluation and treatment of premenopausal osteoporosis
+
+【1】INTRODUCTION 
+
+【2】Few data exist to guide clinical care for premenopausal women who have low bone mineral density (BMD; Z-score ≤-2.0) and/or a history of fragility fractures. The guidelines for the treatment of osteoporosis based on BMD in postmenopausal women do not generally apply to premenopausal women, as the relationship between bone mass and fracture differs in these two populations. In premenopausal women, the term osteoporosis is reserved for patients who present with low trauma/fragility fracture(s) or for those with low BMD and high risk of further short-term bone loss and fracture. Low BMD alone should not be used to define osteoporosis in a premenopausal woman but, like fragility fracture, is an indication for further evaluation.
+
+【3】This topic reviews the evaluation and treatment of premenopausal osteoporosis. The epidemiology and etiology of premenopausal osteoporosis are reviewed separately.
+
+【4】SCREENING 
+
+【5】Bone mineral density (BMD) screening is not routinely recommended for premenopausal women .
+
+【6】We agree with the International Society of Clinical Densitometry (ISCD) guidelines that suggest BMD screening for premenopausal women under the following circumstances :
+
+【7】 History of a fragility fracture
+
+【8】 Known secondary causes of osteoporosis 
+
+【9】Routine BMD screening of pre- or perimenopausal women is not recommended. Some studies have shown beneficial changes in behavior when BMD testing is combined with education about bone health , but routine BMD testing in these populations has not been shown to reduce fracture risk. As an example, in one study of 669 premenopausal women , osteoporosis education coupled with BMD testing resulted in positive lifestyle changes .
+
+【10】DEFINITIONS
+
+【11】 **Low BMD for chronologic age** – Premenopausal women with low bone mineral density (BMD) Z-score (≤-2.0) but no history of fragility fracture have low BMD for chronologic age. The term osteoporosis should not be used in this setting, because the relationship between low BMD and fracture risk is unknown for this population.
+
+【12】 **Osteoporosis** – Premenopausal women with a history of low trauma fracture(s) should have a diagnosis of osteoporosis irrespective of BMD. A diagnosis of osteoporosis also may be made in premenopausal women with low BMD and an active condition or medication exposure (eg, celiac disease, anorexia nervosa or other cause of malnutrition, glucocorticoid therapy) that is known to confer high risk of further bone loss or fracture in the short term.
+
+【13】 **Primary cause** – A primary cause of osteoporosis is a genetic or developmental bone disorder that leads to bone fragility. Examples of known primary genetic causes include osteogenesis imperfecta (OI), Ehlers Danlos syndrome, and osteoporosis pseudoglioma syndrome.
+
+【14】 **Secondary cause** – Most premenopausal women with low BMD or osteoporosis have an identifiable secondary cause of bone loss  . Secondary causes comprise any acquired, underlying condition or medication exposure that contributes to bone loss or fragility. Identification of a contributing condition often helps guide management of the affected individual.
+
+【15】 **Idiopathic low BMD and osteoporosis**
+
+【16】• **Low BMD** – Premenopausal women with low BMD (Z-score ≤-2.0) but no history of fragility fracture and no known primary or secondary causes of bone loss (after extensive evaluation) have idiopathic low BMD.
+
+【17】• **Osteoporosis** – Premenopausal women with low trauma fracture(s) and no identifiable etiology of bone loss after extensive evaluation for primary and secondary causes have idiopathic osteoporosis.
+
+【18】Premenopausal patients with idiopathic low BMD or osteoporosis may have had a transient, secondary cause that led to prior bone loss or attainment of suboptimal peak bone mass. Premenopausal women with idiopathic osteoporosis alternatively may have an unknown primary cause of osteoporosis.
+
+【19】 **High risk for ongoing bone loss or fracture** – Some secondary causes of low BMD or osteoporosis confer high risk of bone loss or fracture, often in part due to suppression of ovarian function with consequent estradiol deficiency.
+
+【20】• **Glucocorticoids** – Premenopausal women taking glucocorticoids are at high risk for bone loss, although the associated risk for fracture in this population has not been well defined.
+
+【21】• **Chemotherapy** – Chemotherapy-induced hypogonadism and glucocorticoids are the principal causes of low BMD in women undergoing cancer treatment, and both can cause rapid bone loss.
+
+【22】EVALUATION
+
+【23】Initial evaluation — Premenopausal women who come to medical attention because of a fragility fracture or detection of low bone mineral density (BMD; Z-score ≤-2.0) should undergo evaluation to identify potential primary and secondary causes of bone loss. Premenopausal women with a history of fragility fracture require evaluation for underlying causes of osteoporosis even in the absence of low BMD. Women with a known primary or secondary cause of bone loss or fragility should undergo evaluation to identify additional contributory causes.
+
+【24】 **Components of the initial evaluation** – The initial evaluation entails a history, physical examination, and biochemical testing with the goal of identifying any primary and secondary causes of bone loss or fragility. Many secondary causes can be assessed solely through a careful history and physical examination . Clinical history should include age of menarche, history of oligo- or amenorrhea, prior pregnancy and lactation, dietary and exercise patterns, tobacco and alcohol use, and medications. We also ask about gastrointestinal symptoms, kidney stone history, surgical history, and family history of osteoporosis and fracture.
+
+【25】Laboratory evaluation may help diagnose secondary causes of osteoporosis, such as kidney or liver disease, hyperthyroidism, hyperparathyroidism, Cushing syndrome or subclinical hypercortisolism, early menopause, celiac disease and other forms of malabsorption, idiopathic hypercalciuria, or inflammatory arthritis. For women with a history of fragility fracture, non-osteoporosis causes of bone fragility (eg, osteomalacia and other mineralization disorders), and pathologic fracture should also be considered.
+
+【26】 **Initial laboratory tests** – For all premenopausal women with low BMD and/or fragility fracture, we obtain the following basic tests :
+
+【27】• Complete blood count
+
+【28】• Serum calcium, phosphate, and creatinine levels
+
+【29】• Liver function tests (alkaline phosphatase and aminotransferase levels)
+
+【30】• Serum 25-hydroxyvitamin D level
+
+【31】• Thyroid-stimulating hormone (TSH) level
+
+【32】• 24-hour urine collection for calcium and creatinine measurement
+
+【33】 **Imaging** – In the setting of unusual fracture(s) (eg, atypical site or type for osteoporotic fracture; antecedent, localized bone pain), imaging or other evaluation should also be performed to assess for pathologic fracture related to underlying malignancy or other bone lesion.
+
+【34】Additional laboratory tests — Women who have abnormalities on initial laboratory testing, suspicious findings on history and physical examination, or unexplained osteoporosis and fracture after the initial evaluation require additional laboratory tests . As examples:
+
+【35】 Women with anemia, low urinary calcium excretion, and/or low vitamin D levels should be evaluated for celiac disease and other etiologies of malabsorption.
+
+【36】 In patients with hyper- or hypocalcemia, hyper- or hypocalciuria, or a history of kidney stones, serum parathyroid hormone (PTH) levels should be measured.
+
+【37】 In patients with signs or symptoms suggestive of hypercortisolism, measurement of 24-hour urinary free cortisol or other testing for Cushing syndrome should be conducted.
+
+【38】 In women with oligo- or amenorrhea in whom pregnancy and hyperprolactinemia have been excluded, we measure serum estradiol and gonadotropin levels.
+
+【39】MANAGEMENT
+
+【40】Nonpharmacologic approaches for all women — All women with low bone mineral density (BMD) or osteoporosis should undertake nonpharmacologic strategies for preserving bone mass including sufficient intake of calcium and vitamin D. Additional, nonpharmacologic strategies for reducing risk of further bone loss include regular weightbearing exercise and physical activity , cessation of smoking , avoidance of undernutrition and wide fluctuations in body weight , and moderation in alcohol consumption .
+
+【41】In general, lifestyle modifications should be encouraged for all women with low bone mass since these help preserve bone mass, and it may be possible to have small increases in bone mass even in the fourth decade of life . An observational study of 16 premenopausal women with idiopathic osteoporosis (mean age 35.7 years) treated with increased dietary calcium, vitamin D, and physical activity demonstrated significant increases in BMD at the lumbar spine and femoral neck after two and three years, respectively .
+
+【42】Calcium and vitamin D intake — For women without a history of kidney stones, nonpharmacologic interventions include adequate calcium  and vitamin D  intake .
+
+【43】For women with a history of kidney stones, additional evaluation (eg, measurement of 24-hour urinary calcium excretion, serum calcium and parathyroid hormone \[PTH\] levels) is required before making supplementation recommendations. Specific recommendations for calcium intake in women with a history of kidney stones are presented elsewhere.
+
+【44】Intensity of exercise — Studies support a benefit of physical activity, including jumping, high impact, and resistance exercises for BMD in premenopausal women . However, excessive exercise in premenopausal women may lead to weight loss and/or hypothalamic amenorrhea, exacerbating low BMD. Therefore, women should be counseled to adjust both exercise intensity and total physical activity as needed to ensure maintenance of a healthy body weight.
+
+【45】Primary cause identified — When a primary cause of bone loss or fragility is identified, management is determined by the underlying diagnosis. As examples:
+
+【46】 **Osteogenesis imperfecta in** **adults** – Osteogenesis imperfecta (OI) is a heterogeneous disorder with widely variable disease severity. Although most affected patients are diagnosed in childhood, fractures leading to diagnosis of OI can occur in young adulthood. Fewer data are available to guide treatment of OI in adults than in children. Studies have been small and, thus, do not definitively address fracture endpoints . The diagnosis and treatment of OI are reviewed separately.
+
+【47】 **Hypophosphatasia in adults** – Hypophosphatasia is an inborn error of metabolism due to mutation of the gene encoding tissue nonspecific alkaline phosphatase. It is a very heterogeneous disorder with widely variable disease severity. In adults, hypophosphatasia can present as osteomalacia, chondrocalcinosis, and/or stress fractures . Treatment is reviewed separately.
+
+【48】Secondary cause identified — When a secondary cause of bone loss is identified, interventions should be targeted to address the specific cause with subsequent monitoring for improvement.
+
+【49】Treat the underlying cause — In cases where a secondary cause is found, treatment should first be targeted to that specific disease or abnormality. As examples:
+
+【50】 **Celiac disease and other malabsorptive disorders** – Eliminating gluten from the diet of young women diagnosed with celiac disease leads to improvement in BMD . Premenopausal women with other malabsorptive conditions (eg, inflammatory bowel disease, post-metabolic surgery) are at risk of bone loss due to underweight or significant body weight loss, nutrient and vitamin deficiencies, and/or hypogonadism that frequently results from nutritional stress. Treatment of the underlying condition helps mitigate bone loss.
+
+【51】 **Primary hyperparathyroidism** – Parathyroidectomy in premenopausal women with primary hyperparathyroidism results in improvement in BMD.
+
+【52】 **Idiopathic hypercalciuria** – Premenopausal women with idiopathic hypercalciuria can be treated with a thiazide diuretic and low sodium diet to prevent excess calcium loss.
+
+【53】 **Medroxyprogesterone acetate** – Women with bone loss due to depot medroxyprogesterone acetate have improvement in BMD upon discontinuation of the drug .
+
+【54】 **Estradiol** **deficiency** – In women with hypogonadism from various causes, treatment should be directed at the underlying cause. If resumption of menses is unlikely, we provide treatment for hypogonadism unless clear contraindications exist. The time frame and specific recommendations for initiating treatment vary with the cause of hypogonadism.
+
+【55】• **Anorexia nervosa** – Nutritional recovery and resumption of normal menstrual function appear necessary for skeletal recovery in patients with anorexia nervosa. Data suggest that transdermal estradiol may improve or preserve bone mass in some patients with anorexia nervosa . Management of hypogonadism due to anorexia nervosa is discussed in detail elsewhere.
+
+【56】• **Chemotherapy for non-hormone-dependent cancer** – In premenopausal women with amenorrhea or early menopause due to chemotherapy, treatment of hypogonadism is usually warranted in the absence of contraindications.
+
+【57】• **Functional hypothalamic amenorrhea, primary ovarian insufficiency, and other causes** – The treatment of functional hypothalamic amenorrhea and primary ovarian insufficiency is reviewed separately.
+
+【58】Treatment of hypogonadism significantly reduces bone loss when given to women with oligo- or amenorrhea, women with endometriosis or fibroids on gonadotropin-releasing hormone (GnRH) receptor analog therapy , or women experiencing perimenopausal bone loss .
+
+【59】Indications for concomitant pharmacologic treatment
+
+【60】 **Severe fracture history** – For women with a history of fracture at major sites (eg, spine or hip) or multiple fragility fractures, we suggest pharmacologic therapy in addition to treating any underlying causes of bone loss. Clinical data to guide treatment decisions for premenopausal women with severe fracture history are scarce. Our suggestions are based on clinical experience, small clinical trials, and indirect evidence from trial data in postmenopausal women.
+
+【61】 **High risk for short-term bone loss** – For women with advanced bone loss and/or fragility fracture, concomitant pharmacologic treatment also may be warranted when an active secondary cause cannot be readily mitigated and confers high risk for additional short-term bone loss.
+
+【62】• **Glucocorticoid therapy** – Premenopausal women taking glucocorticoids for a variety of inflammatory or autoimmune conditions present a special therapeutic challenge. Fracture risk in premenopausal women taking glucocorticoids is not clearly defined, and the potential pregnancy-related risks of pharmacologic therapy are unique to premenopausal women. The prevention and treatment of glucocorticoid-induced osteoporosis in premenopausal women is reviewed in detail separately.
+
+【63】• **Chemotherapy** – Special consideration is needed in patients with estrogen-dependent cancers who also may be treated with additional therapies that adversely affect BMD.
+
+【64】\- **Amenorrhea or early menopause** – In premenopausal women with a hormone-dependent cancer who have low BMD (Z-score ≤-2.0 or T-score ≤-2.5) and/or fragility fracture **and** develop amenorrhea or early menopause due to chemotherapy, we usually initiate pharmacologic therapy.
+
+【65】In premenopausal women undergoing chemotherapy for breast cancer, the incidence and reversibility of chemotherapy-induced amenorrhea depends on the drugs used . Chemotherapy-induced amenorrhea is reviewed in detail separately.
+
+【66】\- **Tamoxifen** **therapy** – In contrast to its bone protective effects in postmenopausal and amenorrheic women , tamoxifen can contribute to bone loss in premenopausal women with normal ovarian function. For premenopausal women with low BMD who maintain normal menstrual cycles while taking tamoxifen, we monitor BMD and usually defer pharmacologic therapy except for women with a history of fragility fracture, very low BMD (Z-score ≤-3.0), and/or evidence of accelerated bone loss (≥4 to 5 percent BMD loss per year).
+
+【67】In a population cohort study comparing 1761 premenopausal women with breast cancer with an age-matched control group of 1761 women without breast cancer, fracture risk was significantly higher in women with breast cancer who received tamoxifen than in controls . In a prospective study with three years of follow-up, women treated with tamoxifen who continued to menstruate following chemotherapy lost 4.6 percent of lumbar spine BMD, while BMD in those who did not receive tamoxifen remained stable . Tamoxifen-treated women who became amenorrheic after chemotherapy lost less bone at the lumbar spine than women with amenorrhea who did not receive tamoxifen, but both groups had significant declines in BMD .
+
+【68】\- **Aromatase inhibitor therapy** – Aromatase inhibitors (AIs) are used in women with estrogen receptor-positive breast cancer and cause significant bone loss and increased risk of fracture. AI-induced bone loss and its management are reviewed in detail separately.
+
+【69】Monitoring
+
+【70】 **Treatment with concomitant pharmacologic therapy** – After initiation of pharmacologic therapy in high-risk individuals, we remeasure BMD in one year. The details of pharmacologic treatment monitoring and duration of therapy are reviewed in detail separately for bisphosphonates and teriparatide .
+
+【71】 **Treatment of secondary cause(s) only** – If pharmacologic therapy is not initiated, we remeasure BMD in one to two years after intervention to address the secondary cause of bone loss. We reserve pharmacotherapy for selected women with persistently high risk of bone loss or fracture after treating the secondary cause or when the secondary cause cannot be adequately mitigated.
+
+【72】Specifically, pharmacologic treatment is usually warranted if any of the following develop:
+
+【73】• Interim fragility fracture
+
+【74】• Evidence of accelerated, ongoing bone loss (≥4 to 5 percent BMD loss per year)
+
+【75】• Very low BMD (eg, Z-score ≤-3.0) **and** the secondary cause is ongoing or cannot be adequately addressed
+
+【76】Idiopathic low BMD or osteoporosis — All women with low bone mineral density (BMD) or osteoporosis without a clear primary or secondary cause should undertake nonpharmacologic strategies to prevent further bone loss.
+
+【77】Low BMD for age — In premenopausal women with low bone mineral density (BMD) alone (ie, without history of fractures or known secondary causes for low BMD), pharmacotherapy is generally not indicated. After completing an evaluation for secondary causes, it is reasonable to ensure adequate calcium intake and vitamin D sufficiency and repeat BMD measurement in one to two years.
+
+【78】 **Stable BMD on repeat measurement** – For women with idiopathic low BMD who have stable BMD on repeat measurement, we continue nonpharmacologic interventions. We remeasure BMD at least once more in two years to ensure stability. Low bone mass in premenopausal women may be due to failure to attain expected peak bone mass or previous bone loss due to a secondary cause that has resolved. For example, some women may have genetically determined low peak bone mass. Other women may have accrued less bone than expected due to insults to the skeleton (eg, medications, poor nutrition, estrogen deficiency) that occurred during adolescence or early adulthood and are no longer present at the time of evaluation. In either case, these women are expected to have stable BMD, even though BMD is low.
+
+【79】 **Evidence of ongoing bone loss** – Idiopathic low BMD with evidence of ongoing bone loss is rare and often reflects an ongoing secondary cause or an undiagnosed primary cause. Ongoing bone loss should always prompt additional evaluation for potential secondary causes . Bone loss in the context of very low BMD (eg, Z-score ≤-3.0) may warrant pharmacologic treatment. Women with idiopathic low BMD and ongoing bone loss should be referred to a metabolic bone specialist whenever possible for further evaluation and management.
+
+【80】History of fragility fracture — Idiopathic osteoporosis (ie, fragility fracture irrespective of BMD and without known primary or secondary cause\[s\]) is rare. Childhood fractures (early onset) and family history are often reported in this setting, suggesting an underlying genetic etiology . Some genetic etiologies may affect bone formation processes leading to low peak bone mass whereas others (eg, those associated with hypercalciuria) may contribute to bone loss. Idiopathic hypercalciuria has been observed in a substantial proportion of women identified as having idiopathic osteoporosis .
+
+【81】 **Women who meet criteria for** **pharmacologic therapy** – Clinical data to guide treatment decisions for premenopausal women with idiopathic osteoporosis are scarce. In the absence of strong clinical evidence, we suggest pharmacologic therapy for selected premenopausal women with a history of fragility fracture in the following circumstances:
+
+【82】• Fragility fracture at a major site (eg, spine, hip)
+
+【83】• Other fracture (eg, wrist) with very low BMD (Z-score ≤-3.0)
+
+【84】• History of multiple fragility fractures
+
+【85】For women with idiopathic osteoporosis who begin pharmacologic therapy, we remeasure BMD in one year. The details of pharmacologic treatment monitoring and duration of therapy are reviewed in detail separately for bisphosphonates and teriparatide .
+
+【86】 **Women who do not meet criteria for pharmacologic therapy** – For women with idiopathic osteoporosis who do not meet criteria for pharmacologic therapy, we implement nonpharmacologic interventions and remeasure BMD in one year. For these women, a single low BMD measurement can reflect issues affecting skeletal development or attainment of peak bone mass and does not by itself signify a process of bone loss. In such cases, serial BMD assessments are necessary to document BMD trajectory.
+
+【87】Bone turnover markers are of limited utility and should be interpreted with caution, as the reference ranges are wide in premenopausal women . Additionally, markers of bone resorption must be interpreted according to the patient's age; adolescence and young adulthood are characterized by active bone modeling and physiologic increases in markers of bone turnover. Elevated bone turnover markers also are expected after a recent fracture.
+
+【88】• **Stable BMD on repeat measurement** – For women with idiopathic osteoporosis who have stable BMD on repeat measurement, we continue nonpharmacologic interventions. We remeasure BMD at least once more in two years to ensure stability.
+
+【89】• **Evidence of ongoing bone loss** – Idiopathic osteoporosis with evidence of ongoing bone loss is rare and often reflects an ongoing secondary cause or an undiagnosed primary cause. Women with idiopathic osteoporosis who have evidence of ongoing bone loss should undergo additional evaluation for potential secondary causes . Bone loss in the context of a history of fragility fracture should prompt referral to a metabolic bone specialist whenever possible. In this setting, pharmacologic therapy is usually warranted.
+
+【90】Pharmacologic therapy for selected women
+
+【91】Choice of therapy — For most women who meet criteria for pharmacologic therapy, we prefer antiresorptive therapy with bisphosphonates . We opt for initial anabolic therapy (eg, teriparatide ) prior to bisphosphonate therapy for selected women with any of the following:
+
+【92】 History of vertebral or other major (eg, hip) fracture(s).
+
+【93】 Very low BMD (Z-score ≤-3.0) with a history of fragility fracture.
+
+【94】 Known or presumed primary osteoporosis with history of fragility fracture (in whom BMD is often stable, reducing the potential benefit of antiresorptive therapy).
+
+【95】 Desire for pregnancy in the short term – For women who meet criteria for pharmacologic treatment and desire future pregnancy in the short term, we also may opt for an initial course of anabolic therapy.
+
+【96】Pharmacologic therapies that have shown antifracture efficacy in **postmenopausal** women include bisphosphonates, selective estrogen receptor modulators (SERMs), teriparatide , abaloparatide , denosumab , and romosozumab . However, very few data are available to guide clinicians in the use of these medications in **premenopausal** women.
+
+【97】Antiresorptive therapy with bisphosphonates — We use bisphosphonate therapy ( alendronate or risedronate ) for most premenopausal women with osteoporosis who warrant pharmacologic therapy. There are few randomized, controlled trials of antiresorptive therapy in premenopausal women with osteoporosis. Studies demonstrating the benefits of bisphosphonates in the prevention and treatment of glucocorticoid-induced osteoporosis included some premenopausal women. As a result, both alendronate and risedronate are approved in the United States and other countries for use in women receiving glucocorticoids. The dosing and administration of bisphosphonates are the same as in postmenopausal women. This topic is reviewed separately.
+
+【98】 **Treatment considerations** – Although bisphosphonates have been shown to prevent bone loss in young women with various conditions , long-term efficacy, safety, and fracture data are scarce in premenopausal women. The decision to initiate treatment with bisphosphonates in any premenopausal woman should be made on a case-by-case basis with consideration of individual fracture risk and potential medication effects. In general, the goal should be for the shortest possible duration of bisphosphonate use, particularly in light of data regarding rare potential risks of long-term use, such as osteonecrosis of the jaw (ONJ)  and atypical femoral fractures .
+
+【99】 **Use during preconception and pregnancy** – Given the long half-life of bisphosphonates in bone, these agents should be used with caution in reproductive-age women . In an experimental rat model, bisphosphonates crossed the placenta and accumulated in fetal bones . Most case reports of bisphosphonate use during pregnancy do not report adverse maternal or fetal outcomes . In one larger case-control study including 36 women exposed to bisphosphonates, no major teratogenic effects were reported, but there was an increased frequency of nonspecific neonatal complications among women who had underlying, systemic disease . Two women with OI treated with long-term intravenous (IV) pamidronate prior to conception had normal pregnancies and deliveries, but mild neonatal abnormalities occurred (transient hypocalcemia in one neonate and bilateral talipes equinovarus in the other) .
+
+【100】Anabolic therapy with teriparatide — Teriparatide (parathyroid hormone \[PTH\] 1-34) stimulates bone formation as well as resorption, but intermittent administration stimulates bone formation more than resorption, thus benefitting patients with osteoporosis.
+
+【101】Subcutaneous PTH  has been shown to increase BMD in women with GnRH analog-induced estrogen deficiency , in premenopausal women taking glucocorticoids , in premenopausal women with idiopathic osteoporosis , in women with pregnancy and lactation-associated osteoporosis , in women with anorexia nervosa , and in adults with OI . Teriparatide is approved in the United States and other countries for the treatment of women with glucocorticoid-induced osteoporosis. No study has been large enough to document fracture risk reduction.
+
+【102】The dosing and administration of teriparatide are the same as in postmenopausal women. This topic is reviewed separately.
+
+【103】• **Consolidation therapy after** **teriparatide** – In **postmenopausal** women, PTH/PTH-related protein (PTHrP) analog treatment is generally followed by antiresorptive therapy to prevent expected bone loss after medication cessation. Available data suggest that the expected BMD trajectory after cessation of anabolic therapy may vary for different types of premenopausal osteoporosis. For premenopausal women with idiopathic osteoporosis, we usually favor consolidation therapy with bisphosphonates after teriparatide treatment.
+
+【104】Few data are available to guide treatment options for **premenopausal** women after cessation of teriparatide :
+
+【105】\- One study documented BMD gain in premenopausal women who resumed menses after cessation of both long-acting GnRH analog and teriparatide therapy .
+
+【106】\- In another study of 15 premenopausal women with idiopathic osteoporosis and normal gonadal function followed for 2.0±0.6 years after teriparatide cessation, BMD declined 4.8 percent at the spine and remained stable at the hip . Older age and more robust response to teriparatide tended to predict spine bone loss. These data suggest that women with idiopathic osteoporosis will require antiresorptive treatment to prevent bone loss after discontinuing teriparatide.
+
+【107】\- In contrast, in a retrospective review of 33 women with severe pregnancy and lactation-associated osteoporosis who were followed for three years, there were no BMD differences between those treated with teriparatide only (n = 20) versus those treated with teriparatide followed by antiresorptive therapy (n = 13) . These data suggest that women with pregnancy and lactation-associated osteoporosis who regain normal menstrual cycles may be able to maintain BMD after the cessation of teriparatide without subsequent antiresorptive therapy.
+
+【108】\- In premenopausal women with idiopathic osteoporosis, sequential use of teriparatide followed by denosumab conferred significant, continued gains in BMD and bone strength . In one study in 32 premenopausal women with idiopathic osteoporosis, denosumab treatment for 24 months after discontinuation of teriparatide led to additional average BMD gains of 7±3 percent at spine and 5±3 percent at the total hip . However, no long-term data are available to guide denosumab use in premenopausal women.
+
+【109】 **Precautions for use** – Teriparatide has been associated with osteosarcoma in rodent studies. Use of this medication should be avoided in those at increased risk of osteosarcoma (including those with Paget disease, prior radiation, growing bones \[open epiphyses\], or unexplained elevation in alkaline phosphatase). Thus, this medication should be avoided in those with delayed growth or open epiphyses.
+
+【110】Pharmacologic therapy monitoring — We remeasure BMD after one year of pharmacologic therapy. The details of pharmacologic treatment monitoring and duration of therapy are reviewed in detail separately for bisphosphonates and teriparatide .
+
+【111】Other medications — The following medications have less available evidence to guide treatment in premenopausal women:
+
+【112】 **Denosumab** – Denosumab is a receptor activator of nuclear factor kappa-B ligand (RANKL) inhibitor that is approved for the treatment of osteoporosis in postmenopausal females and males at high risk for fracture and for the treatment of glucocorticoid-induced osteoporosis in adults at high risk for fracture. Denosumab has been shown to increase BMD in premenopausal women with pregnancy and lactation-associated osteoporosis and in those with idiopathic osteoporosis following teriparatide treatment .
+
+【113】In postmenopausal women and men, clinical data show bone loss and increased risk of vertebral fracture after stopping denosumab . Another osteoporosis medication (eg, a bisphosphonate) must be administered soon after discontinuing denosumab to prevent rapid bone loss and possible fracture . Nonetheless, optimal regimens for consolidation therapy to prevent bone loss have not been well established. In premenopausal women, it is unknown whether discontinuation of denosumab leads to similar risks of bone loss and fracture. A sequential treatment paradigm including consolidation treatment after discontinuation of denosumab would lengthen a course of treatment, which may not be preferred by younger individuals, including those planning future pregnancy.
+
+【114】Animal studies indicate that denosumab may cause fetal harm. Prescribing information states that an effective plan for pregnancy prevention is advised during therapy and for at least five months after the last dose.
+
+【115】 **Abaloparatide** – There are no clinical trial data on the efficacy or safety of abaloparatide (a PTHrP analog) in premenopausal women.
+
+【116】 **Romosozumab** – There are no clinical trial data on the efficacy or safety of romosozumab in premenopausal women.
+
+【117】Medications not used in premenopausal women
+
+【118】 **SERMs** – SERMs (eg, raloxifene ) should not be used to treat osteoporosis in menstruating women, as they block estrogen action on bone, leading to further bone loss .
+
+【119】 **Calcitonin** – There are few published studies on the safety or efficacy of calcitonin in young women. However, in one double-blind study of 120 perimenopausal women treated with 100 international units intranasal calcitonin or placebo spray daily, calcitonin did not confer improvement in BMD or bone markers .
+
+【120】Links to society and government-sponsored guidelines from selected countries and regions around the world are provided separately.
+
+【121】INFORMATION FOR PATIENTS 
+
+【122】Here are the patient education articles that are relevant to this topic. We encourage you to print or e-mail these topics to your patients. (You can also locate patient education articles on a variety of subjects by searching on "patient info" and the keyword(s) of interest.)
+
+【123】 Basics topics
+
+【124】 Beyond the Basics topics
+
+【125】 **Screening** – We suggest against routine screening of premenopausal women for osteoporosis . Bone mineral density (BMD) measurement is recommended for premenopausal women with known secondary causes of osteoporosis or history of a fragility fracture.
+
+【126】 **Evaluation** – Many secondary etiologies of low BMD and/or fragility fracture can be determined based upon history and physical examination. All women with low BMD or fragility fracture should have laboratory testing as part of the evaluation for potential secondary causes of bone loss . Based on the results of the history, physical examination, and basic laboratory testing, more extensive testing may be indicated.
+
+【127】 **Nonpharmacologic approaches** – We assess calcium intake, vitamin D sufficiency, and exercise levels in all premenopausal women with low bone mass. Specific recommendations for calcium and vitamin D intake and supplementation depend on whether the individual has a prior history of kidney stones. Women should engage in daily exercise but may need to limit the extent and intensity to avoid underweight or exercise-induced amenorrhea.
+
+【128】 **Primary cause identified** – If a primary cause of bone fragility is identified, management is determined by the underlying condition.
+
+【129】 **Secondary cause identified** – For premenopausal women with a secondary cause of bone loss or bone fragility, treatment should be directed at the underlying cause(s).
+
+【130】• **Indications for concomitant pharmacologic treatment** – For women with fracture at major sites (eg, spine or hip) or multiple fragility fractures, we suggest initiating pharmacologic therapy . Therapy is administered concurrently with addressing the secondary cause of bone loss.
+
+【131】For women with advanced bone loss and/or fragility fracture, concomitant pharmacologic treatment also may be warranted when an active secondary cause cannot be readily mitigated and confers high risk for additional short-term bone loss.
+
+【132】• **Monitoring** – After pharmacologic or nonpharmacologic intervention, we remeasure BMD in one to two years. For women undergoing intervention solely targeted to address a secondary cause of bone loss, we reserve pharmacologic therapy for women who experience an interim fragility fracture, have evidence of accelerated bone loss (≥4 to 5 percent BMD loss per year), or have very low BMD (Z-score ≤-3.0) **and** a secondary cause that cannot be adequately addressed.
+
+【133】 **Idiopathic low BMD or osteoporosis**
+
+【134】• **Low BMD** – In premenopausal women with low BMD alone (ie, without history of fractures or known secondary causes for low BMD), pharmacotherapy is generally not indicated. After completing an evaluation for secondary causes, it is reasonable to ensure adequate calcium intake and vitamin D sufficiency and repeat BMD measurement in one to two years. Women with idiopathic low BMD and evidence of ongoing bone loss on repeat BMD measurement should undergo further evaluation for secondary causes of bone loss and, whenever possible, be under the care of a metabolic bone specialist. Women with very low BMD (Z-score ≤-3.0) and ongoing bone loss may warrant pharmacologic therapy.
+
+【135】• **History of fragility fracture** – For women with idiopathic osteoporosis who have a severe fracture history (eg, fracture at the spine or hip, multiple fragility fractures, or a single fragility fracture in the setting of very low BMD \[Z-score ≤-3.0\]), we suggest pharmacologic therapy .
+
+【136】For women with idiopathic osteoporosis who do not meet criteria for pharmacologic therapy, we implement nonpharmacologic interventions and repeat BMD measurement in one year. If such women have evidence of ongoing bone loss on repeat BMD measurement, they should undergo more extensive testing for primary and secondary causes and be under the care of a metabolic bone specialist whenever possible. For women with idiopathic osteoporosis, evidence of ongoing bone loss usually warrants pharmacologic therapy.
+
+【137】 **Choice of pharmacologic therapy for selected women** – For most premenopausal women with osteoporosis who meet criteria for pharmacologic therapy, we suggest bisphosphonates (eg, alendronate , risedronate ) . Anabolic therapy with teriparatide is an option for selected premenopausal women with a history of vertebral or other major fracture(s), those with fracture in the context of very low BMD (Z-score ≤-3.0), those with very low BMD (Z-score ≤-3.0) **and** ongoing bone loss, and women with known or presumed primary osteoporosis with a history of fragility fracture.
+
+【138】Potential short- and long-term risks, as well as potential pregnancy-related risks, should be considered as part of the decision to use bisphosphonates or teriparatide for the treatment of premenopausal osteoporosis.焦瀚远
+
+====================================================================================================

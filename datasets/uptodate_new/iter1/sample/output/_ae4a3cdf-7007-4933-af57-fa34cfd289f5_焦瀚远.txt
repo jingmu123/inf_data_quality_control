@@ -1,0 +1,655 @@
+【0】Amphotericin B deoxycholate (conventional): Drug information
+
+【1】Contributor Disclosures
+
+【2】For abbreviations, symbols, and age group definitions show table
+
+【3】ALERT: US Boxed Warning
+
+【4】Appropriate use:
+
+【5】This drug should be used primarily for treatment of patients with progressive and potentially life-threatening fungal infections; it should not be used to treat noninvasive forms of fungal disease such as oral thrush, vaginal candidiasis, and esophageal candidiasis in patients with normal neutrophil counts.
+
+【6】Error prevention:
+
+【7】Exercise caution to prevent inadvertent overdose with amphotericin B. Verify the product name and dosage if dose exceeds 1.5 mg/kg.
+
+【8】Brand Names: Canada
+
+【9】*   Fungizone IV
+
+【10】Pharmacologic Category
+
+【11】*   Antifungal Agent, Parenteral
+
+【12】Dosing: Adult
+
+【13】**Note: Formulation:** Conventional amphotericin formulations (deoxycholate \[Amphocin, Fungizone\]) may be confused with lipid-based formulations (AmBisome, Abelcet, Amphotec). Lipid-based and conventional formulations are **not** interchangeable and have different dosage recommendations. Overdoses have occurred when conventional formulations were dispensed inadvertently for lipid-based products. **Premedication:** To minimize infusion-related immediate reactions, premedicate with the following 30 to 60 minutes prior to drug administration: acetaminophen, diphenhydramine, and/or hydrocortisone. If the patient experiences rigors during the infusion, meperidine may be administered . Preinfusion administration of 1 L of NS may reduce the risk of nephrotoxicity during treatment . **Test dose:** A test dose of 1 mg in 20 mL D5W administered over 20 to 30 minutes may be considered.
+
+【14】**Usual dosage range: IV:** 0.5 to 1 mg/kg/day (range: 0.3 to 1.5 mg/kg/day); maximum dose: 1.5 mg/kg/day. **Note:** Lipid-based formulations of amphotericin B are generally preferred for treatment of systemic infections because they demonstrate comparable efficacy and better tolerability .
+
+【15】Aspergillosis, endophthalmitis
+
+【16】**Aspergillosis, endophthalmitis**
+
+【17】**Note:** Administer a combination of both intraocular (intravitreal and/or intracameral depending on sites of involvement) and systemic (IV or oral) antifungal therapy .
+
+【18】**Intraocular:**
+
+【19】Intravitreal injection: For involvement of the vitreous: 5 to 10 mcg per 0.1 mL sterile water as a single intravitreal dose; may be repeated in several days as clinically indicated .
+
+【20】Intracameral injection: For involvement of the aqueous humor: 5 mcg per 0.1 mL sterile water as a single intracameral (into the anterior chamber) dose . **Note:** May also consider intravitreal injection even if vitritis is not apparent, as occult vitreal involvement is possible .
+
+【21】Aspergillosis, invasive
+
+【22】**Aspergillosis, invasive (including disseminated and extrapulmonary) (alternative agent):**
+
+【23】**Note:** Optimal dose not defined; reserve for use in resource-limited settings when no alternatives are available .
+
+【24】**IV:** 1 to 1.5 mg/kg/day . Minimum treatment duration is 6 to 12 weeks depending on site of infection, extent of disease, and level/duration of immunosuppression .
+
+【25】Blastomycosis, moderately severe to severe, non-CNS disease
+
+【26】**Blastomycosis,** **moderately severe to severe, non-CNS disease: IV:** 0.7 to 1 mg/kg/day for 1 to 2 weeks or until improvement, followed by oral itraconazole .
+
+【27】Candidiasis
+
+【28】**Candidiasis:**
+
+【29】**CNS infection (failed to respond to systemic therapy and device removal or when ventricular device cannot be removed) (off-label) _:_ Intraventricular:** 0.01 to 0.5 mg per 2 mL of an extemporaneously prepared solution in D5W administered through the device into the ventricle .
+
+【30】**Endophthalmitis** **(** **with or without vitritis):**
+
+【31】**Note:** Administer a combination of both intraocular (intravitreal and/or intracameral depending on sites of involvement) and systemic (IV or oral) antifungal therapy. For patients with endogenous endophthalmitis without vitritis or macular involvement, intraocular antifungals may not be necessary .
+
+【32】**Intraocular:**
+
+【33】Intravitreal injection: 5 to 10 mcg per 0.1 mL sterile water as a single intravitreal dose . Intravitreal dose may be repeated in several days if no improvement .
+
+【34】Intracameral injection: For exogenous cases involving primarily the aqueous: 5 mcg per 0.1 mL sterile water as a single intracameral (into the anterior chamber) dose. **Note:** May also consider intravitreal injection even if vitritis is not apparent, as occult vitreal involvement is possible 
+
+【35】**Esophageal, refractory disease (alternative agent) (off-label use):**
+
+【36】**Note:** Reserve use for patients who have inadequate response to or who are unable to take other agents .
+
+【37】**IV:** 0.3 to 0.7 mg/kg/day. Transition to an oral antifungal once patient tolerates oral intake if susceptibility allows; total antifungal duration is 14 to 28 days .
+
+【38】**Invasive candidiasis (alternative agent): IV:** 0.5 to 0.7 mg/kg/day; dose may be increased to as high as 1 mg/kg/day for infections caused by _C. glabrata_ or _C. krusei_ . **Note:** Given poor tolerability (eg, nephrotoxicity, infusion-related toxicity), experts preferentially recommend lipid formulations when available .
+
+【39】**Oropharyngeal, refractory disease (alternative agent) (off-label use):**
+
+【40】**Note:** Reserve use for patients who have inadequate response to or who are unable to take other agents .
+
+【41】**Oral:** 500 mg of an extemporaneously compounded 100 mg/mL suspension 3 to 4 times daily for 14 to 28 days; swish in the mouth and retain for as long as possible (several minutes) before swallowing .
+
+【42】**Urinary tract infection (off-label use):**
+
+【43】_Candiduria (asymptomatic) in patients undergoing urologic procedures:_ **IV:** 0.3 to 0.6 mg/kg/day for several days before and after the procedure .
+
+【44】_Cystitis (symptomatic), fluconazole-resistant species (eg, C. glabrata, C. krusei):_
+
+【45】**Bladder irrigation (off-label route):** Irrigate with 50 mg amphotericin B deoxycholate diluted in 1 L of sterile water once daily for 5 days. **Note:** Use of bladder irrigation is generally discouraged, especially in patients who would not otherwise require an indwelling catheter .
+
+【46】**IV:** 0.3 to 0.6 mg/kg/day for 1 to 7 days .
+
+【47】_Fungus balls:_ **Irrigation via nephrostomy tubes (off-label route):** Irrigate with an extemporaneously prepared solution of 25 to 50 mg in 200 to 500 mL sterile water (final concentration range: 0.05 to 0.25 mg/mL); use in combination with systemic antifungal therapy .
+
+【48】_Pyelonephritis, fluconazole-resistant species (eg, C. glabrata, C. krusei):_ **IV:** 0.3 to 0.6 mg/kg/day for 1 to 7 days (with or without flucytosine for fluconazole-resistant _C. glabrata_ ) .
+
+【49】**Vulvovaginal, azole-resistant infection (alternative agent) (off-label use): Note:** Reserve for patients with no other clear cause of symptoms as non– _albicans Candida_ are frequent vaginal colonizers .
+
+【50】Suppository: **Intravaginal:** One extemporaneously compounded suppository  once daily (at bedtime) for 14 days .
+
+【51】Cream: **Intravaginal:** 1 applicatorful of a 3% to 4% extemporaneously compounded cream once daily (at bedtime) for 14 days . May also be used in combination with intravaginal flucytosine .
+
+【52】Coccidioidomycosis, severe, nonmeningeal infection
+
+【53】**Coccidioidomycosis, severe, nonmeningeal infection: IV:** 0.5 to 1 mg/kg/day until clinical improvement, then switch to an oral azole . **Note** : Some experts suggest initiating the oral azole at the same time as amphotericin B deoxycholate and continuing the oral azole when amphotericin B deoxycholate is discontinued .
+
+【54】Cryptococcal meningoencephalitis, disseminated disease, or severe pulmonary disease
+
+【55】**Cryptococcal meningoencephalitis, disseminated disease, or severe pulmonary disease:**
+
+【56】_Resource-rich settings_ _(when a lipid formulation of amphotericin B cannot be used):_ **IV:** Induction therapy: 0.7 to 1 mg/kg/day in combination with flucytosine (preferred) or fluconazole (if flucytosine cannot be used) for ≥2 weeks .
+
+【57】_Resource-limited settings_ _(if liposomal amphotericin B is not available) in patients with HIV:_ **IV:** Induction therapy: 1 mg/kg/day in combination with flucytosine for 7 days followed by fluconazole for ≥7 days. **Note:** If flucytosine is not available, amphotericin B may be given at the same dose in combination with fluconazole for 14 days .
+
+【58】**Note:** Duration of induction therapy may be extended in patients who cannot use combination therapy or who have evidence of neurological complications . Induction therapy is followed by consolidation and maintenance therapy with fluconazole .
+
+【59】Histoplasmosis
+
+【60】**Histoplasmosis (alternative agent):** _Moderately severe to severe pulmonary or disseminated disease_ : **IV:** 0.7 to 1 mg/kg/day for 1 to 2 weeks (at least 2 weeks in patients with HIV), followed by oral itraconazole . Some experts prefer to use the higher end of the dosing range (eg, 1 mg/kg/day) in patients with HIV .
+
+【61】Leishmaniasis
+
+【62】**Leishmaniasis (alternative agent):**
+
+【63】_Cutaneous_ : IV: 0.5 to 1 mg/kg/dose once daily or every other day for a total cumulative dose of ~15 to 30 mg/kg .
+
+【64】_Mucosal_ : **IV** : 0.5 to 1 mg/kg/dose once daily or every other day for a total cumulative dose of ~20 to 45 mg/kg .
+
+【65】_Visceral (off-label use)_ : **IV:** 1 mg/kg/dose once daily or every other day for a total cumulative dose of 15 to 20 mg/kg .
+
+【66】_Visceral, patients with HIV (off-label use)_ : **IV:** 0.5 to 1 mg/kg/dose once daily for a total cumulative dose of 1,500 to 2,000 mg .
+
+【67】Sporotrichosis, pulmonary, meningeal, osteoarticular, or disseminated
+
+【68】**Sporotrichosis,** **pulmonary, meningeal, osteoarticular, or disseminated** : **IV:** 0.7 to 1 mg/kg/day, followed by oral itraconazole after a favorable response is seen with initial amphotericin therapy .
+
+【69】Talaromycosis
+
+【70】**Talaromycosis (formerly penicilliosis) (alternative agent) (off-label use): IV:** 0.7 mg/kg/day for 2 weeks (if liposomal amphotericin B unavailable) followed by oral azole consolidation therapy .
+
+【71】Dosing: Kidney Impairment: Adult
+
+【72】The renal dosing recommendations are based upon the best available evidence and clinical expertise. Senior Editorial Team: Bruce Mueller, PharmD, FCCP, FASN, FNKF; Jason A. Roberts, PhD, BPharm (Hons), B App Sc, FSHP, FISAC; Michael Heung, MD, MS.
+
+【73】**Note:** Due to the risks of nephrotoxicity associated with amphotericin B deoxycholate, a conventional amphotericin formulation, only use when benefits outweigh the risks. Lipid-based amphotericin preparations are associated with a lower risk of nephrotoxicity and are preferred in patients with preexisting kidney impairment (including patients on hemodialysis or peritoneal dialysis who have significant residual renal function). If using amphotericin B deoxycholate, limiting dose and duration of treatment (as clinically appropriate), extending infusion time, avoiding concomitant nephrotoxic drugs, and hydration and sodium loading with 1 L of NS prior to starting therapy may reduce the risk of acute kidney injury. Monitor kidney function closely . For routes of administration other than IV (eg, intraocular), there are no specific dosage adjustments recommended (has not been studied in patients with kidney impairment); however, need for adjustment is unlikely .
+
+【74】_**Kidney impairment prior to treatment initiation:**_
+
+【75】**Altered kidney function: IV:** No dosage adjustment necessary for any degree of kidney impairment (only 2% to 5% excreted in biologically active form) .
+
+【76】**Augmented renal clearance (measured urinary CrCl ≥130 mL/minute/1.73 m 2 ):**
+
+【77】**Note:** Augmented renal clearance (ARC) is a condition that occurs in certain critically ill patients without organ dysfunction and with normal serum creatinine concentrations. Younger patients (<55 years of age) admitted post trauma or major surgery are at highest risk for ARC, as well as those with sepsis, burns, or hematologic malignancies. An 8- to 24-hour measured urinary CrCl is necessary to identify these patients .
+
+【78】**IV:** No dosage adjustment necessary .
+
+【79】**Hemodialysis, intermittent (thrice weekly):** Not significantly dialyzable :
+
+【80】**IV:** No dosage adjustment necessary .
+
+【81】**Peritoneal dialysis:** Not likely to be significantly dialyzable (highly protein bound with poor peritoneal penetration) :
+
+【82】**IV:** No dosage adjustment necessary .
+
+【83】**CRRT:** **IV:** No dosage adjustment necessary .
+
+【84】**PIRRT (eg, sustained, low-efficiency diafiltration): IV:** No dosage adjustment necessary .
+
+【85】_**Nephrotoxicity during treatment:**_ Consider switching to an alternative antifungal agent or a lipid-based amphotericin formulation . However, if continued use of amphotericin B deoxycholate is deemed clinically appropriate, may consider interrupting therapy for 24 to 48 hours, then resume at one-half of the usual daily dose; the dosage may then be increased to the maximally tolerated dose . This approach will likely decrease amphotericin deoxycholate exposures, and so should be avoided in the acute phase of serious infections .
+
+【86】Dosing: Hepatic Impairment: Adult
+
+【87】No dosage adjustment provided in manufacturer’s labeling.
+
+【88】Dosing: Obesity: Adult
+
+【89】The recommendations for dosing in patients with obesity are based upon the best available evidence and clinical expertise. Senior Editorial Team: Jeffrey F. Barletta, PharmD, FCCM; Manjunath P. Pai, PharmD, FCP; Jason A. Roberts, PhD, BPharm (Hons), B App Sc, FSHP, FISAC.
+
+【90】**Class 1, 2, or 3 obesity (BMI ≥30 kg/m 2 ): Note:** Lipid-based formulations of amphotericin B are generally preferred for treatment of systemic infections because they demonstrate comparable efficacy and better tolerability .
+
+【91】**IV:** Use **adjusted body weight** for weight-based dose calculations . In more severe infections, may consider using **actual body weight** for weight-based dose calculations, although this may be associated with increased toxicity due to higher doses . When dosing with either **adjusted or actual body weight** , a maximum daily dose of 150 mg is suggested (extrapolated from a study of a similar product ). Refer to "Dosing: Adult" for indication-specific doses.
+
+【92】**Rationale for recommendations:** There are sparse data describing the effect of obesity on dosing requirements for polyene antifungals . There are no human pharmacokinetic studies for amphotericin B deoxycholate in patients with obesity. Even though amphotericin B deoxycholate exhibits a V d of 2.4 to 5.1 L/kg , distribution into adipose tissue appears to be limited; therefore, does not support routinely dosing based on actual body weight . Use **adjusted body weight** for weight-based dose calculations (expert opinion). For more severe infections, may consider using **actual body weight** for dose calculations .
+
+【93】Dosing: Older Adult
+
+【94】Refer to adult dosing.
+
+【95】Dosing: Pediatric
+
+【96】**Dosage guidance:**
+
+【97】**Safety:**
+
+【98】**Medication errors, including deaths, have resulted from confusion between lipid-based forms of amphotericin (eg, Abelcet, AmBisome) and amphotericin B deoxycholate (conventional amphotericin B for injection); amphotericin B deoxycholate doses should not exceed 1.5 mg/kg/day.** Dose units and presentation (eg, mg/kg, **mg** , mg/ **mL** , **mcg** ) vary by route of administration (IV, Intrathecal, Intravesical, Intravitreal); use caution.
+
+【99】_Premedications:_ To minimize infusion-related immediate reactions, may premedicate with the following 30 to 60 minutes prior to administration: acetaminophen, diphenhydramine, and/or hydrocortisone. If the patient experiences rigors during the infusion, meperidine may be administered. Adequate hydration and preinfusion administration of NS may reduce the risk of nephrotoxicity during amphotericin B treatment .
+
+【100】**Clinical considerations: Test dose:** Although the manufacturer's labeling suggests a test dose and dose escalation approach, most experts recommend initiation of therapy at the target dose . A test dose of 1 **mg** administered over 20 to 30 minutes may be considered .
+
+【101】**General dosing:**
+
+【102】IV: Infants, Children, and Adolescents: IV: 0.5 to 1 mg/kg/dose once daily; maximum daily dose: 1.5 mg/kg/ **day** . Once therapy has been established, may administer 1.5 mg/kg/dose every other day .
+
+【103】Intrathecal, intraventricular, or intracisternal (preferably into the lateral ventricles through a cisternal Ommaya reservoir): Limited data available; dose variable: Infants, Children, and Adolescents: 0.01 to 1 **mg** ; reported frequency varies widely from daily or every other day to twice weekly. Some experts recommend starting with a low dose and gradually increasing .
+
+【104】Intravesical: Limited data available: Infants, Children, and Adolescents: 0.05 to 0.1 mg/ **mL** solution, administered as either a continuous bladder irrigation or as an intermittent bladder irrigation (eg, 50 to 100 mL per dwell) every 8 hours with a dwell time of 60 to 90 minutes . Daily administration for 5 days has also been recommended for the treatment of cystitis due to fluconazole-resistant _Candida_ species ( _C. glabrata_ , _C. krusei_ ) .
+
+【105】Aspergillosis
+
+【106】**Aspergillosis:**
+
+【107】_Endocarditis, treatment (alternative agent)_ : Children and Adolescents: IV: 1 mg/kg/dose once daily with or without flucytosine .
+
+【108】_Invasive disease, treatment (alternative agent):_ **Note:** Amphotericin B deoxycholate is not recommended for treatment of invasive aspergillosis except in resource-limited settings when no alternatives are available.
+
+【109】Infants, Children, and Adolescents: IV: 1 to 1.5 mg/kg/dose once daily . Minimum treatment duration is 6 to 12 weeks depending on site of infection, extent of disease, and level/duration of immunosuppression .
+
+【110】Blastomycosis, moderately severe to severe disease
+
+【111】**Blastomycosis, moderately severe to severe disease:** Infants, Children, and Adolescents: IV: 0.7 to 1 mg/kg/dose once daily as initial therapy for 1 to 2 weeks, followed by oral itraconazole for a total of 12 months 
+
+【112】Candidiasis, treatment
+
+【113】**Candidiasis, treatment:**
+
+【114】_Invasive_ : Infants, Children, and Adolescents: IV: 0.5 to 1 mg/kg/dose once daily. Duration should be individualized based on clinical response and presence of deep-tissue foci; isolated candidemia should be treated for ≥14 days from the first negative blood culture and clinical resolution .
+
+【115】_Endocarditis_ : Children and Adolescents: IV: 1 mg/kg/dose once daily with or without flucytosine . Step-down to azole therapy in clinically stable patients with susceptible isolates and negative repeat cultures. Total antifungal duration is ≥6 weeks after valve replacement surgery, with longer duration for perivalvular abscess, other complications, or a nonsurgical approach .
+
+【116】_Esophageal (alternative agent):_
+
+【117】Infants, Children, and Adolescents: IV: 0.3 to 0.7 mg/kg/dose once daily; consider step down to an oral antifungal once patient is able to tolerate oral intake. Total treatment duration is 14 to 21 days .
+
+【118】_Oropharyngeal, fluconazole-refractory (alternative agent):_
+
+【119】Infants, Children, and Adolescents: IV: 0.3 mg/kg/dose once daily for 7 to 14 days. Patients with HIV may receive up to 0.5 mg/kg/dose once daily .
+
+【120】_Urinary tract infections:_
+
+【121】Asymptomatic candiduria (high-risk patients \[eg, patients who are neutropenic\]): Infants, Children, and Adolescents: IV: 1 mg/kg/dose once daily .
+
+【122】Cystitis, symptomatic; treatment ( _Candida krusei or fluconazole-resistant C. glabrata_ ): Infants, Children, and Adolescents: IV: 0.3 to 0.6 mg/kg/dose once daily for 1 to 7 days .
+
+【123】Pyelonephritis, treatment: Infants, Children, and Adolescents: IV: 0.3 to 0.6 mg/kg/dose once daily for 1 to 7 days; consider addition of flucytosine for fluconazole-resistant _C. glabrata_ .
+
+【124】Urologic procedures, prophylaxis in patients with asymptomatic candiduria: Infants, Children, and Adolescents: IV: 0.3 to 0.6 mg/kg/dose once daily for several days before and after procedure .
+
+【125】Coccidioidomycosis
+
+【126】**Coccidioidomycosis:**
+
+【127】IV:
+
+【128】_Severe disease (eg, non-meningeal disseminated infection, diffuse pulmonary infection):_ Infants, Children, and Adolescents: IV: 0.5 to 1.5 mg/kg/dose once daily until clinical improvement, then switch to an oral azole to complete a typical treatment duration of ≥12 months, depending on site of infection and clinical response . Every-other-day therapy may also be an option . **Note:** Some experts suggest initiating the oral azole in combination with the amphotericin B product and then continuing the oral azole when amphotericin B is discontinued .
+
+【129】Intrathecal:
+
+【130】CNS disease: Infants, Children, and Adolescents: Intrathecal: 0.1 to 1.5 **mg** /dose; frequency ranging from daily to weekly (with or without concomitant azole therapy); initiate at a low dose and increase until intolerance is noted (eg, severe vomiting, exhaustion, or transient dose-related mental status changes); duration determined by clinical response .
+
+【131】Cryptococcal meningoencephalitis, disseminated disease, or severe pulmonary infection
+
+【132】**Cryptococcal meningoencephalitis, disseminated disease, or severe pulmonary infection:**
+
+【133】Infants, Children, and Adolescents: IV: 0.7 to 1 mg/kg/dose once daily as part of appropriate combination therapy for ≥2 weeks, followed by consolidation therapy with oral fluconazole. For patients with HIV, dose at the higher end of the range. Induction therapy duration may be extended in patients who cannot receive combination therapy, in patients who are clinically deteriorating, if CNS cultures remain positive, or if neurological complications are present. In infants and children with HIV, dose may be increased to 1.5 mg/kg/dose once daily if flucytosine cannot be used .
+
+【134】Endophthalmitis, fungal
+
+【135】**Endophthalmitis, fungal:**
+
+【136】**Note:** Administer in combination with systemic antifungal therapy .
+
+【137】Children ≥2 years and Adolescents: Intravitreal: 5 to 10 **mcg** of an extemporaneously prepared solution in 0.1 mL sterile water as a single intravitreal dose. Repeat doses separated by 4 to 7 days have been described .
+
+【138】Histoplasmosis
+
+【139】**Histoplasmosis (alternative agent):** _Moderately severe to severe pulmonary or disseminated disease_ :
+
+【140】Infants, Children, and Adolescents: IV: 0.7 to 1 mg/kg/dose once daily for 1 to 2 weeks (at least 2 weeks in patients with HIV), followed by oral itraconazole .
+
+【141】Leishmaniasis
+
+【142】**Leishmaniasis (alternative agent):**
+
+【143】_Cutaneous:_ Infants, Children, and Adolescents: IV: 0.5 to 1 mg/kg/dose daily or every other day for a total cumulative dose of ~15 to 30 mg/kg .
+
+【144】_Mucosal:_ Infants, Children, and Adolescents: IV: 0.5 to 1 mg/kg/dose daily or every other day for a total cumulative dose of ~20 to 45 mg/kg .
+
+【145】_Visceral:_ Infants, Children, and Adolescents: IV: 1 mg/kg/dose daily or every other day for a total cumulative dose of ~15 to 20 mg/kg .
+
+【146】Peritonitis
+
+【147】**Peritonitis (CAPD):** Limited data available: **Note:** Amphotericin B has demonstrated poor peritoneal penetration when given systemically, and intraperitoneal administration is associated with abdominal pain and peritoneal irritation; other agents may be preferred .
+
+【148】Intraperitoneal, dialysate: Infants, Children, and Adolescents: 1 to 4 mg per liter of dialysate has been used in pediatric patients based on case reports and retrospective reviews ; lower doses of 0.5 to 3 mg per liter of dialysate have been reported in adults (with or without concomitant systemic amphotericin B therapy); abdominal pain has been associated with doses ≥2 mg per liter of dialysate .
+
+【149】IV: Infants, Children, and Adolescents: 1 mg/kg/dose once daily 
+
+【150】Sporotrichosis, pulmonary, meningeal, osteoarticular, or disseminated
+
+【151】**Sporotrichosis,** **pulmonary, meningeal, osteoarticular, or disseminated:** Children and Adolescents: IV: 0.7 to 1 mg/kg/dose once daily, then switch to oral itraconazole after a favorable response is seen to complete ≥12 months of therapy .
+
+【152】Talaromycosis
+
+【153】**Talaromycosis (formerly penicilliosis) (alternative agent):** Adolescents with HIV: IV: 0.7 mg/kg/dose once daily for 2 weeks, followed by oral azole consolidation therapy .
+
+【154】Dosing: Kidney Impairment: Pediatric
+
+【155】**Altered kidney function:**
+
+【156】**Mild, moderate, or severe impairment:** Infants, Children, and Adolescents: IV: No dosage adjustment necessary for any degree of kidney impairment (only 2% to 5% excreted in biologically active form) .
+
+【157】**Hemodialysis, intermittent:** Not significantly dialyzable (based on adult data) .
+
+【158】Infants, Children, and Adolescents: IV: No dosage adjustment necessary .
+
+【159】**Peritoneal dialysis:** Not likely to be significantly dialyzable (highly protein bound with poor peritoneal penetration) .
+
+【160】Infants, Children, and Adolescents: IV: No dosage adjustment necessary .
+
+【161】**CRRT:**
+
+【162】Infants, Children, and Adolescents: IV: No dosage adjustment necessary .
+
+【163】Dosing: Hepatic Impairment: Pediatric
+
+【164】There are no dosage adjustments provided in the manufacturer's labeling.
+
+【165】Adverse Reactions
+
+【166】The following adverse drug reactions and incidences are derived from product labeling unless otherwise specified.
+
+【167】**Systemic:**
+
+【168】Frequency not defined:
+
+【169】Cardiovascular: Hypotension
+
+【170】Endocrine & metabolic: Hypokalemia, weight loss
+
+【171】Gastrointestinal: Anorexia, diarrhea, dyspepsia, epigastric pain, nausea, stomach cramps, vomiting
+
+【172】Genitourinary: Azotemia
+
+【173】Hematologic & oncologic: Normocytic anemia (normochromic)
+
+【174】Local: Pain at injection site (with or without phlebitis or thrombophlebitis)
+
+【175】Nervous system: Chills, headache, malaise, pain
+
+【176】Neuromuscular & skeletal: Arthralgia, myalgia
+
+【177】Renal: Calcium nephrolithiasis, decreased urine specific gravity (hyposthenuria), renal insufficiency, renal tubular acidosis
+
+【178】Respiratory: Tachypnea
+
+【179】Miscellaneous: Fever
+
+【180】Postmarketing:
+
+【181】Cardiovascular: Cardiac arrhythmia, flushing, heart failure, hypertension, shock, ventricular fibrillation
+
+【182】Dermatologic: Maculopapular rash, pruritus, skin rash
+
+【183】Endocrine & metabolic: Hyperkalemia, hypocalcemia, hypomagnesemia
+
+【184】Gastrointestinal: Hemorrhagic gastroenteritis, melena
+
+【185】Genitourinary: Anuria, oliguria
+
+【186】Hematologic & oncologic: Agranulocytosis, disorder of hemostatic components of blood, eosinophilia, leukocytosis, leukopenia, thrombocytopenia
+
+【187】Hepatic **:** Acute hepatic failure, hepatitis, increased serum alanine aminotransferase, increased serum alkaline phosphatase, increased serum aspartate aminotransferase, increased serum bilirubin, jaundice
+
+【188】Hypersensitivity: Hypersensitivity reactions, nonimmune anaphylaxis
+
+【189】Nervous system: Encephalopathy, leukoencephalopathy, peripheral neuropathy, seizure, vertigo (transient)
+
+【190】Ophthalmic: Diplopia, visual disturbance
+
+【191】Otic: Hearing loss, tinnitus
+
+【192】Renal: Acute kidney injury, increased blood urea nitrogen, increased serum creatinine
+
+【193】Respiratory: Bronchospasm, dyspnea, hypersensitivity pneumonitis, pulmonary edema, wheezing
+
+【194】Contraindications
+
+【195】Hypersensitivity to amphotericin or any component of the formulation
+
+【196】Warnings/Precautions
+
+【197】**_Concerns related to adverse effects:_**
+
+【198】• Anaphylaxis: Has been reported with amphotericin B-containing drugs; facilities for cardiopulmonary resuscitation should be available during administration due to the possibility of anaphylactic reaction. If severe respiratory distress occurs, the infusion should be immediately discontinued; during the initial dosing, the drug should be administered under close clinical observation.
+
+【199】• Infusion reactions: Acute reactions (eg, fever, rigors, hypotension, anorexia, nausea, vomiting, headache, tachypnea) may occur 1 to 3 hours after starting an intravenous infusion. These reactions are usually more common with the first few doses and generally diminish with subsequent doses. Avoid rapid infusion to prevent hypotension, hypokalemia, arrhythmias, and shock.
+
+【200】• Leukoencephalopathy: Has been reported following administration of amphotericin B. Total body irradiation has been reported to be a possible predisposition.
+
+【201】• Nephrotoxicity: May cause nephrotoxicity; risk factors include underlying renal disease, concomitant nephrotoxic medications and daily and/or cumulative dosing of amphotericin. Avoid use with other nephrotoxic drugs; drug-induced renal toxicity usually improves with interrupting therapy, decreasing dosage, or increasing dosing interval. However permanent impairment may occur, especially in patients receiving a large cumulative dose (eg, >5 g) and in those also receiving other nephrotoxic drugs. Hydration and sodium repletion prior to administration may reduce the risk of developing nephrotoxicity. Frequent monitoring of renal function is recommended.
+
+【202】**_Disease-related concerns:_**
+
+【203】• Heart failure: In a scientific statement from the American Heart Association, amphotericin has been determined to be an agent that may cause direct myocardial toxicity (magnitude: moderate/major) (AHA \[Page 2016\]).
+
+【204】• Renal impairment: Use with caution in patients with renal impairment.
+
+【205】**_Special populations:_**
+
+【206】• Patients with neutropenia: Pulmonary reactions may occur in patients with neutropenia receiving leukocyte transfusions; separation of the infusions as much as possible is advised.
+
+【207】**_Other warnings/precautions:_**
+
+【208】• Therapy interruption: If therapy is stopped for >7 days, restart at the lowest dose recommended and increase gradually.
+
+【209】Warnings: Additional Pediatric Considerations
+
+【210】Infusion-related reactions occur less frequently in neonates and infants as compared to children and adolescents; reactions are unlikely to occur in patients <90 days of age .
+
+【211】Dosage Forms: US
+
+【212】Excipient information presented when available (limited, particularly for generics); consult specific product labeling.
+
+【213】Solution Reconstituted, Intravenous, as deoxycholate \[preservative free\]:
+
+【214】Generic: 50 mg 
+
+【215】Generic Equivalent Available: US
+
+【216】Pricing: US
+
+【217】**Solution (reconstituted)** (Amphotericin B Intravenous)
+
+【218】50 mg (per each): $60.00
+
+【219】**Disclaimer:** A representative AWP (Average Wholesale Price) price or price range is provided as reference price only. A range is provided when more than one manufacturer's AWP price is available and uses the low and high price reported by the manufacturers to determine the range. The pricing data should be used for benchmarking purposes only, and as such should not be used alone to set or adjudicate any prices for reimbursement or purchasing functions or considered to be an exact price for a single product and/or manufacturer. Medi-Span expressly disclaims all warranties of any kind or nature, whether express or implied, and assumes no liability with respect to accuracy of price or price range data published in its solutions. In no event shall Medi-Span be liable for special, indirect, incidental, or consequential damages arising from use of price or price range data. Pricing data is updated monthly.
+
+【220】Dosage Forms: Canada
+
+【221】Excipient information presented when available (limited, particularly for generics); consult specific product labeling.
+
+【222】Solution Reconstituted, Intravenous, as deoxycholate:
+
+【223】Fungizone IV: 50 mg 
+
+【224】Administration: Adult
+
+【225】**IV:** May be infused over 2 to 6 hours; an inline filter (≥1 micron mean pore diameter) may be used for administration. To minimize infusion-related immediate reactions, premedicate with the following 30 to 60 minutes prior to drug administration: acetaminophen, diphenhydramine, and/or hydrocortisone. If the patient experiences rigors during the infusion, meperidine may be administered . Preinfusion administration of 1 L of NS appears to reduce the risk of nephrotoxicity during treatment .
+
+【226】**Intraocular (off-label route):** Administer amphotericin intravitreally or intracamerally with the dose in a final volume in 0.1 mL .
+
+【227】**Intraventricular (off-label route):** Use preservative-free preparations only. When administered through a ventricular drain, clamp drain for 15 to 60 minutes before opening the drain to allow amphotericin B solution to equilibrate in the CSF 
+
+【228】**Irrigation (off-label route):** A solution for irrigation (final concentration range: 0.05 to 0.25 mg/mL) may be administered via nephrostomy tubes for fungal balls associated with urinary tract infection due to candida. A solution for irrigation (final concentration: 0.05 mg/mL solution) may be instilled via bladder irrigation for cystitis .
+
+【229】**Vaginal (off-** **label route):**
+
+【230】Intravaginal cream: Administer intravaginal cream at bedtime, using an appropriately sized intravaginal applicator to deliver the correct dose .
+
+【231】Intravaginal suppository: Administer at bedtime, using fingers to place high in vagina .
+
+【232】Administration: Pediatric
+
+【233】Parenteral:
+
+【234】IV:
+
+【235】**Note:** To minimize immediate infusion-related reactions, may premedicate with the following 30 to 60 minutes prior to administration: acetaminophen, diphenhydramine, and/or hydrocortisone. If the patient experiences rigors during the infusion, meperidine may be administered. Adequate hydration and preinfusion administration of NS may reduce the risk of nephrotoxicity during amphotericin B treatment .
+
+【236】Administer by IV infusion over 2 to 6 hours; an in-line filter (≥1 micron mean pore diameter) may be used for administration. Avoid rapid infusion (eg, <1 hour); associated with hypotension, hypokalemia, arrhythmias, and shock.
+
+【237】Avoid extravasation; may cause chemical irritation; monitor infusion site; addition of heparin to infusion solution may reduce phlebitis.
+
+【238】Intrathecal/intraventricular: Administer as diluted solution . When administered through a ventricular drain, clamp drain for 15 to 60 minutes to allow solution to equilibrate in the cerebrospinal fluid (CSF) .
+
+【239】Intravesical (bladder/urinary tract irrigation): Administer as a continuous irrigation or intermittently; has been administered via nephrostomy tubes or into the bladder .
+
+【240】Intravitreal: Administer intravitreally in an appropriate sterile setting by health care professional experienced in administration of intravitreal ophthalmic injections.
+
+【241】Use: Labeled Indications
+
+【242】**Fungal infection, invasive:** Treatment of patients with progressive, potentially life-threatening fungal infections: Aspergillosis, cryptococcosis, North American blastomycosis, systemic candidiasis, coccidioidomycosis, histoplasmosis, zygomycosis (including mucormycosis due to susceptible species of the genera _Absidia, Mucor,_ and _Rhizopus_ ), and infections due to related susceptible species of _Conidiobolus,_ _Basidiobolus,_ and sporotrichosis.
+
+【243】**Leishmaniasis:** Alternative treatment in patients with American (New World) mucocutaneous leishmaniasis
+
+【244】Use: Off-Label: Adult
+
+【245】Candidiasis, esophageal, refractory disease; Candidiasis, oropharyngeal, refractory disease (oral); Candidiasis, urinary tract; Candidiasis, vulvovaginal, azole-resistant infection; Leishmaniasis, visceral; Talaromycosis (formerly penicilliosis)
+
+【246】Medication Safety Issues
+
+【247】High alert medication:
+
+【248】The Institute for Safe Medication Practices (ISMP) includes this medication among its list of drug classes (conventional forms with liposomal counterparts; epidural and intrathecal medications) which have a heightened risk of causing significant patient harm when used in error (High-Alert Medications in Acute Care Settings).
+
+【249】Sound-alike/look-alike issues:
+
+【250】Amphotericin B may be confused with amphotericin B liposomal
+
+【251】Other safety concerns:
+
+【252】Conventional amphotericin formulations (deoxycholate \[Amphocin, Fungizone\]) may be confused with lipid-based formulations (AmBisome, Abelcet, Amphotec).
+
+【253】Large overdoses have occurred when conventional formulations were dispensed inadvertently for lipid-based products. Single daily doses of amphotericin B deoxycholate should not exceed 1.5 mg/kg.
+
+【254】Metabolism/Transport Effects
+
+【255】None known.
+
+【256】Drug Interactions  
+
+【257】**Note** : Interacting drugs may **not be individually listed below** if they are part of a group interaction (eg, individual drugs within “CYP3A4 Inducers \[Strong\]” are NOT listed). For a complete list of drug interactions by individual drug name and detailed management recommendations, use the drug interactions program by clicking on the “Launch drug interactions program” link above.
+
+【258】Alfuzosin: May enhance the hypotensive effect of Blood Pressure Lowering Agents. _Risk C: Monitor therapy_
+
+【259】Amifostine: Blood Pressure Lowering Agents may enhance the hypotensive effect of Amifostine. Management: When used at chemotherapy doses, hold blood pressure lowering medications for 24 hours before amifostine administration. If blood pressure lowering therapy cannot be held, do not administer amifostine. Use caution with radiotherapy doses of amifostine. _Risk D: Consider therapy modification_
+
+【260】Aminoglycosides: Amphotericin B may enhance the nephrotoxic effect of Aminoglycosides. Amphotericin B may enhance the neurotoxic effect of Aminoglycosides. _Risk C: Monitor therapy_
+
+【261】Amisulpride (Oral): May enhance the hypotensive effect of Hypotension-Associated Agents. _Risk C: Monitor therapy_
+
+【262】Antipsychotic Agents (Second Generation \[Atypical\]): Blood Pressure Lowering Agents may enhance the hypotensive effect of Antipsychotic Agents (Second Generation \[Atypical\]). _Risk C: Monitor therapy_
+
+【263】Arginine: May enhance the hypotensive effect of Blood Pressure Lowering Agents. _Risk C: Monitor therapy_
+
+【264】Arsenic Trioxide: Amphotericin B may enhance the hypotensive effect of Arsenic Trioxide. Amphotericin B may enhance the QTc-prolonging effect of Arsenic Trioxide. Management: When possible, avoid concurrent use of arsenic trioxide with drugs that can cause electrolyte abnormalities, such as amphotericin B. _Risk D: Consider therapy modification_
+
+【265】Barbiturates: May enhance the hypotensive effect of Blood Pressure Lowering Agents. _Risk C: Monitor therapy_
+
+【266】Benperidol: May enhance the hypotensive effect of Blood Pressure Lowering Agents. _Risk C: Monitor therapy_
+
+【267】Blood Pressure Lowering Agents: May enhance the hypotensive effect of Hypotension-Associated Agents. _Risk C: Monitor therapy_
+
+【268】Brimonidine (Topical): May enhance the hypotensive effect of Blood Pressure Lowering Agents. _Risk C: Monitor therapy_
+
+【269】Bromperidol: May diminish the hypotensive effect of Blood Pressure Lowering Agents. Blood Pressure Lowering Agents may enhance the hypotensive effect of Bromperidol. _Risk X: Avoid combination_
+
+【270】Cardiac Glycosides: Amphotericin B may enhance the adverse/toxic effect of Cardiac Glycosides. _Risk C: Monitor therapy_
+
+【271】Colistimethate: Amphotericin B may enhance the nephrotoxic effect of Colistimethate. Management: Avoid coadministration of colistimethate and amphotericin B whenever possible due to the potential for additive or synergistic nephrotoxicity. If coadministration cannot be avoided, closely monitor renal function. _Risk D: Consider therapy modification_
+
+【272】Corticosteroids (Systemic): May enhance the hypokalemic effect of Amphotericin B. _Risk C: Monitor therapy_
+
+【273】CycloSPORINE (Systemic): Amphotericin B may enhance the nephrotoxic effect of CycloSPORINE (Systemic). Amphotericin B may increase the serum concentration of CycloSPORINE (Systemic). _Risk C: Monitor therapy_
+
+【274】Diazoxide: May enhance the hypotensive effect of Blood Pressure Lowering Agents. _Risk C: Monitor therapy_
+
+【275】Dichlorphenamide: Amphotericin B may enhance the hypokalemic effect of Dichlorphenamide. _Risk C: Monitor therapy_
+
+【276】DroNABinol: May increase the serum concentration of Amphotericin B. Specifically, dronabinol may displace amphotericin B from its protein-binding sites, leading to an increased concentration of active, unbound drug. _Risk C: Monitor therapy_
+
+【277】DULoxetine: Blood Pressure Lowering Agents may enhance the hypotensive effect of DULoxetine. _Risk C: Monitor therapy_
+
+【278】Flucytosine: Amphotericin B may enhance the adverse/toxic effect of Flucytosine. Amphotericin B may increase the serum concentration of Flucytosine. _Risk C: Monitor therapy_
+
+【279】Foscarnet: May enhance the nephrotoxic effect of Amphotericin B. _Risk X: Avoid combination_
+
+【280】Ganciclovir-Valganciclovir: May enhance the nephrotoxic effect of Amphotericin B. _Risk C: Monitor therapy_
+
+【281】Herbal Products with Blood Pressure Lowering Effects: May enhance the hypotensive effect of Blood Pressure Lowering Agents. _Risk C: Monitor therapy_
+
+【282】Hypotension-Associated Agents: Blood Pressure Lowering Agents may enhance the hypotensive effect of Hypotension-Associated Agents. _Risk C: Monitor therapy_
+
+【283】Iloperidone: May enhance the hypotensive effect of Blood Pressure Lowering Agents. _Risk C: Monitor therapy_
+
+【284】Levodopa-Foslevodopa: Blood Pressure Lowering Agents may enhance the hypotensive effect of Levodopa-Foslevodopa. _Risk C: Monitor therapy_
+
+【285】Lormetazepam: May enhance the hypotensive effect of Blood Pressure Lowering Agents. _Risk C: Monitor therapy_
+
+【286】Methoxyflurane: May enhance the nephrotoxic effect of Amphotericin B. _Risk X: Avoid combination_
+
+【287】Molsidomine: May enhance the hypotensive effect of Blood Pressure Lowering Agents. _Risk C: Monitor therapy_
+
+【288】Naftopidil: May enhance the hypotensive effect of Blood Pressure Lowering Agents. _Risk C: Monitor therapy_
+
+【289】Nicergoline: May enhance the hypotensive effect of Blood Pressure Lowering Agents. _Risk C: Monitor therapy_
+
+【290】Nicorandil: May enhance the hypotensive effect of Blood Pressure Lowering Agents. _Risk C: Monitor therapy_
+
+【291】Nitroprusside: Blood Pressure Lowering Agents may enhance the hypotensive effect of Nitroprusside. _Risk C: Monitor therapy_
+
+【292】Obinutuzumab: May enhance the hypotensive effect of Blood Pressure Lowering Agents. Management: Consider temporarily withholding blood pressure lowering medications beginning 12 hours prior to obinutuzumab infusion and continuing until 1 hour after the end of the infusion. _Risk D: Consider therapy modification_
+
+【293】Pentoxifylline: May enhance the hypotensive effect of Blood Pressure Lowering Agents. _Risk C: Monitor therapy_
+
+【294】Pholcodine: Blood Pressure Lowering Agents may enhance the hypotensive effect of Pholcodine. _Risk C: Monitor therapy_
+
+【295】Phosphodiesterase 5 Inhibitors: May enhance the hypotensive effect of Blood Pressure Lowering Agents. _Risk C: Monitor therapy_
+
+【296】Prostacyclin Analogues: May enhance the hypotensive effect of Blood Pressure Lowering Agents. _Risk C: Monitor therapy_
+
+【297】Quinagolide: May enhance the hypotensive effect of Blood Pressure Lowering Agents. _Risk C: Monitor therapy_
+
+【298】Saccharomyces boulardii: Antifungal Agents (Systemic and Oral \[Non-Absorbable\]) may diminish the therapeutic effect of Saccharomyces boulardii. _Risk X: Avoid combination_
+
+【299】Silodosin: May enhance the hypotensive effect of Blood Pressure Lowering Agents. _Risk C: Monitor therapy_
+
+【300】Tacrolimus (Systemic): Amphotericin B may enhance the nephrotoxic effect of Tacrolimus (Systemic). _Risk C: Monitor therapy_
+
+【301】Vancomycin: May enhance the nephrotoxic effect of Amphotericin B. _Risk C: Monitor therapy_
+
+【302】Pregnancy Considerations
+
+【303】Amphotericin crosses the placenta and enters the fetal circulation. Amphotericin B is recommended for the treatment of serious systemic fungal diseases in pregnant women. Refer to current guidelines .
+
+【304】Breastfeeding Considerations
+
+【305】It is not known if amphotericin is excreted into breast milk. Due to its poor oral absorption, systemic exposure to the nursing infant is expected to be decreased; however, because of the potential for toxicity, breast-feeding is not recommended by the manufacturer (Mactal-Haaf 2001).
+
+【306】Monitoring Parameters
+
+【307】BUN and serum creatinine levels should be determined every other day when therapy is increased and at least weekly thereafter. Renal function (monitor frequently during therapy), electrolytes (especially potassium and magnesium), LFTs, temperature, PT/PTT, CBC; fluid input and output; signs of hypokalemia (muscle weakness, cramping, drowsiness, ECG changes, etc); signs/symptoms of infusion-related reaction (fever, shaking chills, hypotension, anorexia, nausea, vomiting, headache, tachypnea).
+
+【308】Mechanism of Action
+
+【309】Binds to ergosterol altering cell membrane permeability in susceptible fungi and causing leakage of cell components with subsequent cell death. Proposed mechanism suggests that amphotericin causes an oxidation-dependent stimulation of macrophages (Lyman 1992).
+
+【310】Pharmacokinetics (Adult Data Unless Noted)
+
+【311】Absorption: Poor oral absorption
+
+【312】Distribution: Concentrations in fluids from inflamed pleura, synovium, and aqueous humor are approximately 2/3 concurrent plasma concentrations; penetration into the vitreous humor or normal amniotic fluids is minimal. Description of penetration into peritoneum varies; may be improved with inflammation .
+
+【313】CNS penetration:
+
+【314】Preterm neonates (GA: 27.4 ± 5 weeks): High interpatient variability; 40% to 90% of serum concentrations (Baley 1990)
+
+【315】Adults: Poor (inflamed or noninflamed meninges)
+
+【316】V d : Pediatric patients : Highly variable; reported range: 0.38 to 3.99 L/kg 
+
+【317】Protein binding, plasma: 90%
+
+【318】Half-life elimination:
+
+【319】Premature neonates (GA: 27.4 ± 5 weeks): 14.8 hours (range: 5 to 82 hours) (Baley 1990)
+
+【320】Infants and Children : 18.1 ± 6.6 hours (range: 11.9 to 40.3 hours) (Benson 1989)
+
+【321】Adults: Biphasic: Initial: 15 to 48 hours; Terminal: 15 days
+
+【322】Time to peak: Within 1 hour following a 4- to 6-hour dose
+
+【323】Excretion: Urine ; ~40% eliminated over a 7-day period and may be detected in urine for at least 7 weeks after discontinued use
+
+【324】Clearance (Benson, 1989):
+
+【325】Infants and Children : 0.57 ± 0.152 mL/minute/kg
+
+【326】Children and Adolescents : 0.24 ± 0.02 mL/minute/kg焦瀚远
+
+====================================================================================================

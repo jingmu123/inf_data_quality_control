@@ -1,0 +1,205 @@
+【0】Onychomycosis: Epidemiology, clinical features, and diagnosis
+
+【1】INTRODUCTION 
+
+【2】Onychomycosis refers to chronic fungal infection of the toenails or fingernails. Causative fungi include dermatophytes, yeasts, and nondermatophyte molds.
+
+【3】Onychomycosis most often occurs in adults but also occurs in children. Common clinical manifestations include nail discoloration, subungual hyperkeratosis, onycholysis, splitting of the nail plate, and nail plate destruction . Potential complications include pain, transmission of fungal infection to other body sites, and, in immunocompromised patients, bacterial cellulitis.
+
+【4】The epidemiology, clinical features, and diagnosis of onychomycosis will be reviewed here ( algorithm 1 ). Other causes of nail dystrophy and the management of onychomycosis are reviewed separately.
+
+【5】MICROBIOLOGY 
+
+【6】Onychomycosis may result from dermatophyte, yeast, or nondermatophyte mold nail infections. Dermatophyte infections (also known as tinea unguium) are most common and are estimated to account for 60 to 70 percent of infections . Nondermatophyte mold and yeast infections may account for 30 to 40 percent and 10 to 20 percent of fungal nail infections, respectively .
+
+【7】_Trichophyton rubrum_ is the most frequent dermatophyte found in onychomycosis. In a review of multinational hospital-based prevalence studies, in which dermatophytes were found in 65 percent of cases of onychomycosis (including 82 percent of cases in North America), _T. rubrum_ infection was most common, accounting for approximately 45 percent of infections . Examples of other dermatophytes implicated in onychomycosis include _Trichophyton mentagrophytes_ , _Epidermophyton floccosum_ , _Microsporum_ species, and other _Trichophyton_ species .
+
+【8】_Candida_ species are the most common yeasts isolated from onychomycosis  _._ Examples of nondermatophyte molds found in onychomycosis include _Fusarium_ , _Aspergillus_ , _Acremonium_ , _Scytalidium_ , and _Scopulariopsis brevicaulis_ .
+
+【9】The proportion of infections due to dermatophyte, yeast, and nondermatophyte molds differs for fingernails and toenails. Toenail onychomycosis is most often caused by dermatophytes, whereas yeast onychomycosis has been identified as the most common cause of fingernail onychomycosis in some, but not all, studies . Nondermatophyte mold onychomycosis primarily affects toenails; fingernail onychomycosis secondary to nondermatophyte molds is rare .
+
+【10】PATHOGENESIS 
+
+【11】Onychomycosis is acquired through direct contact of the nail with dermatophytes, yeast, or nondermatophyte molds in the environment or through spread of fungal infection from affected skin (eg, tinea pedis). Fungal production of proteases that degrade keratin may facilitate invasion . Factors that can compromise barriers to infection, such as nail injury or nail disease, may increase risk for fungal invasion. In addition, the status of the nail as a site of relative immune privilege lacking effective cell-mediated immunity may contribute to infection .
+
+【12】Although additional study is needed, the formation of fungal biofilms is a proposed contributor to persistent infection . Biofilms are multicellular communities of organisms that adhere to tissue and may provide survival benefits to the organisms. Biofilms may facilitate evasion from both host defenses and antimicrobial therapies.
+
+【13】EPIDEMIOLOGY 
+
+【14】Onychomycosis is a common, global disorder that is estimated to account for 50 to 60 percent of abnormal nails . Population-based studies have found varied estimates of prevalence, ranging from less than 1 to 8 percent in Europe and the United States to less than 1 percent in Central Africa . A systematic review of published population-based studies that assessed the prevalence of culture-proven dermatophyte, yeast, and nondermatophyte mold onychomycosis of the toenails found pooled prevalences of 3.22 percent , 0.4 percent , and 0.37 percent, , respectively .
+
+【15】Onychomycosis is more common in adults than in children. The systematic review cited above found pooled prevalences of pediatric dermatophyte and yeast toenail onychomycosis of 0.14 percent  and 0.09 percent , respectively . In a separate systematic review that included pediatric studies assessing both toenail and fingernail onychomycosis, prevalences of onychomycosis in children ranged from 0 to 3.37 percent in population-based studies utilizing a combination of clinical diagnosis, microscopy, and culture for diagnosis . All but one of the studies reported prevalences of less than 1 percent.
+
+【16】Most, but not all, studies have found a higher prevalence of onychomycosis in males than in females .
+
+【17】RISK FACTORS 
+
+【18】Data on risk factors for onychomycosis are limited. Proposed risk factors include :
+
+【19】 **Dermatologic diseases** – Tinea pedis, psoriasis, hyperhidrosis
+
+【20】 **Comorbidities** – Diabetes, immunosuppression, venous insufficiency, malignancy, peripheral artery disease, obesity, inflammatory bowel disease
+
+【21】 **Exposures** – Trauma, poor nail grooming, sports and fitness activities, occupation, smoking, occlusive shoes
+
+【22】 **Other** – Advancing age, contact with infected household members, genetic predisposition, hallux valgus, asymmetric gait nail unit syndrome
+
+【23】_Candida albicans_ onychomycosis often occurs in association with frequent exposure of the hands to moisture, as may occur in certain occupations (eg, bartenders, housekeepers) . Rarely, severe candidal onychomycosis is a manifestation of chronic mucocutaneous candidiasis, a heterogeneous group of syndromes characterized by deficient immune responses against _C. albicans_ and chronic candidal infections of the skin, mucous membranes, and nails .
+
+【24】CLINICAL FEATURES 
+
+【25】Onychomycosis may present with a variety of nail abnormalities, such as discoloration, subungual hyperkeratosis, onycholysis, splitting, and nail plate destruction.
+
+【26】Subtypes — The major clinical subtypes of onychomycosis are distal lateral subungual onychomycosis, white superficial onychomycosis, and proximal subungual onychomycosis. Additional proposed clinical subtypes are endonyx onychomycosis, total dystrophic onychomycosis, and mixed pattern onychomycosis :
+
+【27】 **Distal lateral subungual onychomycosis** – Distal lateral subungual onychomycosis is the most common clinical subtype. Distal lateral subungual onychomycosis typically begins with whitish, yellowish, or brownish discoloration of a distal corner of a nail. The great toe is often the initial site of infection.
+
+【28】The infection gradually spreads to involve the entire width of the nail plate and extends slowly toward the cuticle . Subungual hyperkeratosis and onycholysis (separation of the nail plate from the nail bed) are common. The accumulation of keratinous debris between the nail plate and nail bed causes the nail discoloration.
+
+【29】The vast majority of distal lateral subungual onychomycosis is due to _T. rubrum_ .
+
+【30】 **White superficial onychomycosis** – White superficial onychomycosis is characterized by the appearance of dull, white spots on the surface of the nail plate . If not treated, the involved area spreads centrifugally and may eventually involve the entire nail plate. The white areas are soft and yield a chalky scale when scraped lightly with a curette or surgical blade.
+
+【31】White superficial onychomycosis is usually caused by _T. mentagrophytes_ , although _T. rubrum_ , _Candida_ , and nondermatophyte mold infections have also been reported .
+
+【32】 **Proximal subungual onychomycosis** – Proximal subungual onychomycosis is a relatively uncommon subtype that affects the proximal nail in the vicinity of the cuticle and extends distally . This subtype usually occurs in individuals with severely compromised immune systems and is often a marker for AIDS.
+
+【33】Examples of organisms that may cause proximal subungual onychomycosis include _T. rubrum_ , _Fusarium_ species, _C. albicans_ , and _Aspergillus_ species .
+
+【34】 **Endonyx onychomycosis** – Endonyx onychomycosis involves only the interior of the nail plate, sparing involvement of the nail bed . Nail findings include discoloration and splitting. Subungual hyperkeratosis is absent.
+
+【35】_Trichophyton soudanense_ infection is most strongly associated with endonyx onychomycosis; however, other organisms, such as _Trichophyton violaceum_ , also may cause this presentation .
+
+【36】 **Total dystrophic onychomycosis** – The term "total dystrophic onychomycosis" is used to describe complete destruction of the nail plate that results in a thickened and ridged nail bed covered with keratotic debris . Totally dystrophic onychomycosis is most often a manifestation of end-stage distal lateral subungual onychomycosis or proximal subungual onychomycosis.
+
+【37】 **Mixed pattern onychomycosis** – Mixed pattern onychomycosis is characterized by the presence of one or more of the above subtypes. The most common mixed presentations combine superficial white onychomycosis with either distal lateral subungual onychomycosis or proximal subungual onychomycosis .
+
+【38】Additional findings — Dermatophytoma and fungal melanonychia are additional findings that may occur in onychomycosis:
+
+【39】 **Dermatophytoma** – A dermatophytoma is a dense collection of dermatophyte hyphae in the nail plate. Dermatophytomas often manifest as a linear, white, yellow, or orange band in the nail . A dermatophytoma may reduce the likelihood of cure from oral antifungal therapy .
+
+【40】 **Fungal melanonychia** – Fungal melanonychia describes an uncommon form of onychomycosis caused by fungal species capable of producing melanin. Brown to black discoloration of the nail plate is characteristic and may appear in a variety of patterns, including diffuse, linear, and localized pigmentation . Nail dystrophy may also be present.
+
+【41】When caused by dematiaceous fungi (pigment-producing molds), the term "ungual phaeohyphomycosis" is also used to refer to this condition. The most common molds isolated from affected nails are _Scytalidium dimidiatum_ , _Alternaria_ species, _Exophiala_ species, and _Aspergillus_ species. Several nondematiaceous fungi may also cause fungal melanonychia, including _T. rubrum_ .
+
+【42】Associated dermatologic disorders — Dermatophyte infections of the skin (particularly tinea pedis) and chronic paronychia may accompany onychomycosis. A prospective study of 2761 patients with toenail onychomycosis found tinea pedis in 933 patients  . The interdigital variant of tinea pedis was most common .
+
+【43】Chronic paronychia (inflammation of the proximal or lateral nail folds) is common in patients with _Candida_ onychomycosis.
+
+【44】COMPLICATIONS 
+
+【45】Nail disfigurement secondary to onychomycosis and associated symptoms can lead to psychosocial distress and functional limitations, contributing a negative impact on quality of life . Especially in the presence of severe nail involvement, patients may experience chronic pain or acute pain exacerbated by stimuli, such as nail cutting, footwear, or pressure from bedclothes .
+
+【46】Onychomycosis may also serve as a reservoir for recurrence of cutaneous fungal infections (eg, tinea pedis, tinea cruris, tinea corporis). Additionally, in patients with diabetes or other immunocompromised states, onychomycosis may increase the risk of bacterial infections, such as cellulitis .
+
+【47】DIAGNOSIS 
+
+【48】A diagnosis of onychomycosis may be strongly suspected based upon the patient history and physical findings. However, confirmation of the diagnosis requires the detection of fungi in a nail specimen through microscopic examination, culture, or other laboratory testing ( algorithm 1 ).
+
+【49】Overview — The diagnosis of onychomycosis begins with a focused history and physical examination in patients who present with nail dystrophy suspicious for onychomycosis (eg, discoloration, thickening, splitting, nail plate destruction) to establish the differential diagnosis. If suspicion for onychomycosis remains after the history and physical examination, various tests can be performed to confirm the diagnosis ( algorithm 1 ).
+
+【50】Tests typically used to confirm onychomycosis in the clinical setting include potassium hydroxide (KOH) preparations, fungal cultures, histopathologic examination with a periodic acid-Schiff (PAS) stain, and polymerase chain reaction (PCR) . In addition, fungal cultures and PCR can identify the type of fungus present, and fungal culture can confirm fungal viability, supporting the presence of active infection.
+
+【51】Typically, the approach to diagnostic testing for suspected onychomycosis consists of a relatively rapid method to detect evidence of fungal infection (KOH preparation, histopathologic examination with a PAS stain, or PCR). Often, if identification of the causative fungus may be helpful (eg, patient proceeding with treatment for onychomycosis), fungal culture or PCR is also performed. Factors such as clinician skill, test availability, and cost may influence the selection of testing.
+
+【52】Our approach — A KOH preparation is our preferred initial test for suspected onychomycosis given the rapid availability of results, relatively low cost, and simplicity of the procedure ( algorithm 1 ). However, the sensitivity of KOH preparation is lower than histopathologic examination with a PAS stain or PCR, and the results are dependent upon skill of the performing clinician. If the KOH preparation is negative, we typically obtain a nail clipping for histopathologic examination with a PAS stain. A PCR test that assesses for dermatophytes, saprophytes, and _Candida_ is a less widely available alternative to histopathologic examination.
+
+【53】If the KOH preparation or PAS stain is positive, confirming onychomycosis, we typically obtain a nail sample for fungal culture to identify the causative organism (dermatophyte versus yeast versus nondermatophyte mold) if the patient plans to proceed with treatment. PCR can also provide identification of the organism.
+
+【54】PCR testing is also utilized by some clinicians as the initial diagnostic test for onychomycosis, rather than a KOH preparation. Familiarity with the limitations of the specific PCR test selected is crucial.
+
+【55】History and physical examination — Information from the patient history and physical examination can help to narrow the differential diagnosis. Patients should be asked about the duration and course of nail changes, preceding nail trauma, and history of skin disorders. In patients with nail dystrophy involving all nails, additional historical details, such as inquiries about systemic disease or family history of nail disorders, may be helpful for identifying patients at risk for systemic or genetic causes of onychodystrophy.
+
+【56】The physical examination should include examination of all nails on the hands and feet to determine the nature and extent of involvement. Examination of the skin is also useful for identifying risk factors for onychomycosis, such as cutaneous fungal infections or chronic paronychia, as well as cutaneous diseases that may cause noninfectious nail dystrophy, such as psoriasis and lichen planus. Of note, onychomycosis is common and may coexist with other nail disorders.
+
+【57】Examples of features consistent with, but not exclusive to, onychomycosis include:
+
+【58】 Acquired, slowly progressive nail dystrophy
+
+【59】 Dystrophy of single nail or variation in the degree or progression of involvement in multiple nails
+
+【60】 Nail changes consistent with onychomycosis (eg, white, yellow, or brown discoloration, subungual hyperkeratosis, onycholysis, splitting, nail destruction)
+
+【61】Dermoscopy of the nails may help to distinguish onychomycosis from other nail disorders. A jagged proximal edge near areas of onycholysis, also described as an irregular macular pattern, is a common finding that is postulated to occur in the setting of distal to proximal invasion of dermatophytes  . Other potential findings include longitudinal striae and a "ruin-like" appearance (also referred to as a distal pulverized pattern) that occurs in the presence of subungual hyperkeratosis .
+
+【62】Diagnostic tests — The major diagnostic tests for onychomycosis include KOH preparations, histopathologic examination of nail clippings with a PAS stain, fungal culture, and PCR.
+
+【63】Potassium hydroxide preparation — A potassium hydroxide (KOH) preparation provides almost immediate results. The sensitivity of KOH preparations has been reported as 67 to 93 percent; however, the sensitivity is dependent on factors such as specimen adequacy and clinician experience . The specificity range is 38 to 78 percent . Repetition of the test may modestly increase sensitivity . The sensitivity may also be enhanced through use a stain, such as chlorazol black E .
+
+【64】The technique for obtaining the specimen is critical to the success of this procedure. In the evaluation of distal lateral subungual onychomycosis, the nail should be clipped back as far as possible and samples taken from the most proximal accessible region. Subungual debris overlying the nail bed can be obtained with a curette. Specimens from proximal subungual onychomycosis can be obtained by paring the overlying nail plate to allow sampling of the ventral nail plate. In white superficial onychomycosis, the sample can be taken by scraping the surface of involved areas with a number 15 blade.
+
+【65】A positive test demonstrates fungal hyphae, pseudohyphae, or yeast cells . The KOH examination does not provide speciation or assess fungus viability.
+
+【66】Histopathology — Histopathologic examination of nail clippings with a PAS stain is easy to perform and identifies fungal elements with high sensitivity. In locations with good access to pathology services, results are typically available within a few days. A disadvantage of PAS stain evaluation is the higher cost in comparison with a KOH preparation.
+
+【67】PAS staining of nail clippings is a sensitive test for onychomycosis . One study included 1146 nail samples from 851 patients with clinical findings suggestive of onychomycosis . Results from this study indicate that the PAS stain is a more sensitive test than culture or KOH examination; sensitivities of PAS stain, culture, and KOH examination were 82, 53, and 48 percent, respectively.
+
+【68】To obtain a specimen for a PAS stain from distal lateral subungual onychomycosis, the nail plate along with attached subungual debris is clipped just distal to its attachment to the nail bed and placed in 10% formalin . Nail clipping can also provide a sufficient specimen for white superficial onychomycosis with distal nail involvement. Histopathologic examination of proximal subungual onychomycosis is more challenging; a biopsy of the nail plate or partial or full nail removal is usually necessary, making this diagnostic technique less favorable.
+
+【69】In a positive PAS stain, fungal elements (eg, hyphae, yeast) are typically found in the ventral layers of the nail plate and in subungual debris . If white superficial onychomycosis is sampled, fungal elements are usually found in the dorsal surface of the nail plate . As with the KOH examination, a PAS stain does not provide speciation or assess fungus viability.
+
+【70】The Chicago sky blue stain, which provides a color contrast, has also been used for the diagnosis of onychomycosis .
+
+【71】Fungal culture — A fungal culture (on Sabouraud's medium) allows for both identification and speciation of fungal infection and is a highly specific test  . However, the sensitivity of culture is not high , and results often are not available for a few weeks . If negative, repeat culture or other testing is indicated when there is a strong clinical suspicion of onychomycosis, since almost one-third of cultures may be falsely negative.
+
+【72】Cultures occasionally demonstrate nondermatophyte molds, which may represent true nondermatophyte onychomycosis or contamination of the culture. One or more repeat cultures demonstrating the same nondermatophyte mold are required to establish a diagnosis of nondermatophyte mold onychomycosis . Coinfection with dermatophytes and nondermatophytes can occur .
+
+【73】Polymerase chain reaction — Polymerase chain reaction (PCR), a molecular technique that allows for rapid and highly specific amplification of DNA fragments, has emerged as a sensitive diagnostic technique for onychomycosis. An advantage of PCR is the relatively rapid ability to both detect fungal DNA and identify the type of fungus present. Results are often available within one to two days. Although commercial PCR tests for onychomycosis exist, factors such as availability, cost, or insurance coverage may limit access in some settings .
+
+【74】Familiarity with the sensitivity, specificity, and other limitations of the specific PCR test(s) available to the clinician is essential for proper use and interpretation of results. Some tests are only able to assess for dermatophyte infections, whereas others assess broader categories of fungi. In addition, because PCR tests detect DNA, nonviable fungi may be detected. Sample collection and submission should be performed according to the product recommendations.
+
+【75】Other tests — Less commonly employed alternative tests include the dermatophyte test medium (DTM) and the calcofluor white stain:
+
+【76】 **Dermatophyte test medium** – DTM culture is cheaper than culture on Sabouraud's medium, can be performed in the clinician's office, and results are available within three to seven days. A disadvantage is the limitation to use for the diagnosis of dermatophyte onychomycosis.
+
+【77】Dermatophyte growth is indicated by a change in the color of DTM from yellow to red in response to alkaline metabolites that result from growth of dermatophytes. It is important to read DTM cultures in a timely fashion, since saprophytic organisms, which might grow over several weeks, can cause the same color change. DTM cannot identify the specific causative organism, but such identification is not necessary since all dermatophytes are susceptible to similar therapies. In a study of 670 patients presenting to their primary care clinician or podiatrist with clinical signs of toenail onychomycosis, DTM cultures had good positive and negative correlation with culture on Sabouraud's medium .
+
+【78】 **Fluorescence microscopy** – Calcofluor white is a florescent brightener that selectively binds to cellulose and chitin, major components of fungal cell walls. The stain fluoresces when exposed to ultraviolet radiation. Calcofluor white is applied to nail clippings and can be used alone or in conjunction with preceding exposure of the clippings to KOH . A study that used the calcofluor white stain as a gold standard found the procedure more sensitive than KOH preparation or culture  . The specificities were not significantly different .
+
+【79】Emerging diagnostic methods include an immunochromatographic strip test  and reflectance confocal microscopy .
+
+【80】DIFFERENTIAL DIAGNOSIS 
+
+【81】It is estimated that onychomycosis is responsible for only 50 to 60 percent of abnormal appearing nails . A wide variety of nail disorders, particularly those demonstrating subungual hyperkeratosis, onycholysis (separation of the nail plate from the nail bed), or onychogryphosis, may be mistaken for onychomycosis. Of note, onychomycosis may coexist with these conditions.
+
+【82】Nail psoriasis, traumatic nail injury, and onychogryphosis are common conditions that may resemble onychomycosis. Testing to detect fungi in the nail distinguishes onychomycosis from these and other conditions:
+
+【83】 **Nail psoriasis** – Subungual hyperkeratosis and onycholysis are common findings of both onychomycosis and nail psoriasis . Additional clinical features that suggest nail psoriasis include pitting, oil drop discoloration (irregular areas of yellow or pink discoloration), and associated cutaneous or joint findings of psoriasis or psoriatic arthritis. Of note, onychomycosis may coexist with nail psoriasis.
+
+【84】 **Trauma** – Traumatic nail injury can result in a wide variety of nail changes. A history of trauma and exclusion of other disorders is essential for the diagnosis of trauma-induced nail dystrophy.
+
+【85】 **Onychogryphosis** – Onychogryphosis describes the development of thickened, distorted nail with increased curvature . The great toenail is most frequently affected. Onychogryphosis most often occurs in older adults in association with poor nail care or poorly fitting footwear .
+
+【86】In addition, nail changes associated with less frequent causes of nail dystrophy, such as lichen planus , eczema, pachyonychia congenita , yellow nail syndrome , median nail dystrophy , onychomatricoma , subungual exostosis , malignancy , scabies  , and other disorders, may enter the differential diagnosis. The differential diagnosis of nail disorders is reviewed in detail separately.
+
+【87】In patients with findings suggestive of fungal melanonychia, the possibility of other causes of nail pigmentation, such as racial longitudinal melanonychia, exogenous pigment deposition, and, most importantly, subungual melanoma, should be considered during patient evaluation .
+
+【88】Links to society and government-sponsored guidelines from selected countries and regions around the world are provided separately.
+
+【89】INFORMATION FOR PATIENTS 
+
+【90】Here are the patient education articles that are relevant to this topic. We encourage you to print or e-mail these topics to your patients. (You can also locate patient education articles on a variety of subjects by searching on "patient info" and the keyword(s) of interest.)
+
+【91】 Basics topic
+
+【92】 **Epidemiology** – Onychomycosis is a common nail disorder that results from infection of the nail with dermatophytes, yeast, or nondermatophyte molds. Onychomycosis is more common in adults than in children.
+
+【93】 **Microbiology** – Dermatophyte infection accounts for most cases of onychomycosis. _Trichophyton rubrum_ is the most common causative organism. Yeast onychomycosis is most often due to _Candida albicans_ infection.
+
+【94】 **Clinical features** – Distal subungual onychomycosis is the most common clinical subtype of onychomycosis. This variant begins with white, yellow, or brown discoloration of the distal corner of the nail that may gradually spread to involve the entire width of the nail . Subungual hyperkeratosis and onycholysis are common associated features.
+
+【95】Other clinical subtypes of onychomycosis include white superficial onychomycosis , proximal subungual onychomycosis , endonyx onychomycosis, total dystrophic onychomycosis , and mixed pattern onychomycosis.
+
+【96】 **Complications** – Onychomycosis may cause physical discomfort and may increase risk for bacterial infections such as cellulitis in immunocompromised patients. Onychomycosis can also serve as a reservoir for cutaneous fungal infections.
+
+【97】 **Diagnosis** – Although a diagnosis of onychomycosis may be strongly suspected based upon physical findings, laboratory evidence of fungal infection confirms the diagnosis. Tests commonly utilized for diagnosis include potassium hydroxide (KOH) preparations, fungal cultures, histopathologic examination, and polymerase chain reaction (PCR) testing.
+
+【98】A KOH preparation is commonly performed as the initial test based upon rapidity, wide availability, and low cost; however, other approaches, such as use of PCR as the initial test, may be reasonable ( algorithm 1 ).
+
+【99】 **Differential diagnosis** – The differential diagnosis of onychomycosis includes multiple other causes of nail dystrophy. Common disorders that may resemble onychomycosis include nail psoriasis, traumatic nail changes, and onychogryphosis.王磊
+
+====================================================================================================
+文本干净度#无关文本# ( algorithm 1 )#应用全文
+文本干净度#无关文本#【89】INFORMATION FOR PATIENTS
+
+【90】Here are the patient education articles that are relevant to this topic. We encourage you to print or e-mail these topics to your patients. (You can also locate patient education articles on a variety of subjects by searching on “patient info” and the keyword(s) of interest.)#与上文内容无联接

@@ -1,0 +1,258 @@
+【0】Overview of the clinical features and diagnosis of brain tumors in adults
+
+【1】INTRODUCTION 
+
+【2】Brain tumors are a diverse group of neoplasms arising from different cells within the central nervous system (CNS) or from systemic cancers that have metastasized to the CNS. Systemic cancers most likely to metastasize to the CNS include lung cancer, melanoma, and breast cancer. Primary brain tumors include a number of histologic types with markedly different tumor growth rates .
+
+【3】Brain tumors can produce symptoms and signs by local brain invasion, compression of adjacent structures, and increased intracranial pressure (ICP). In addition to the histology of the tumor, the clinical manifestations are determined by the function of the involved areas of the brain. The proper evaluation of the patient with a suspected brain tumor requires a detailed history, comprehensive neurologic examination, and appropriate diagnostic neuroimaging studies.
+
+【4】An overview of the clinical manifestations and diagnosis of primary and secondary brain tumors in adults will be reviewed here. The evaluation of brain masses in patients with human immunodeficiency virus (HIV) is presented separately.
+
+【5】EPIDEMIOLOGY 
+
+【6】The age-adjusted incidence rate of primary brain and nervous system tumors in the United States is estimated to be 25 per 100,000 persons . Approximately 30 percent of tumors are malignant, and the remainder are nonmalignant. Meningiomas and glial tumors (eg, glioblastoma, astrocytoma, oligodendroglioma) account for approximately two-thirds of all primary brain tumors in adults .
+
+【7】The frequency of various tumor types and grades varies by age group. In adolescents and young adults, primary brain tumors are more common than metastatic tumors, and among primary brain tumors, low-grade gliomas predominate . In adults above the age of 30 to 40 years, metastatic brain tumors become increasingly prevalent, accounting for more than half of all brain tumors. Glioblastoma is the most common malignant primary brain tumor in adults, with a median age at diagnosis of 64 years.
+
+【8】Most primary brain tumors in adults are sporadic, with no identifiable risk factors. Aside from relatively rare genetic syndromes such as neurofibromatosis and cancer predisposition syndromes such as Li-Fraumeni, the only established risk factor for primary brain tumors is exposure to ionizing radiation.
+
+【9】CLINICAL MANIFESTATIONS 
+
+【10】Patients with brain tumors may present with generalized and/or focal signs and symptoms or they may be asymptomatic .
+
+【11】Symptoms of high-grade gliomas and metastases typically progress over days to weeks, whereas symptoms of low-grade gliomas and other indolent tumors may progress over months to years. Absence of symptoms is more common with low-grade tumors and small lesions without surrounding edema.
+
+【12】Headache — Headache is a common manifestation of brain tumors and a presenting symptom in up to half of patients. Conversely, brain tumors are an uncommon cause of headaches and make up a very small proportion of all headaches in general medical practice.
+
+【13】Headaches associated with brain tumors are usually dull and constant, but occasionally throbbing. The most common headache quality is tension-type , followed by migrainous  . Headaches are often bifrontal in location, worse on the same side as the tumor.
+
+【14】Symptom severity tends to progress over time. Severe headaches are infrequent unless increased intracranial pressure (ICP) or meningeal irritation is present. The "classic" early morning brain tumor headache appears to be uncommon.
+
+【15】Patients may report worsening of headache after a change in body position, such as bending over, or with maneuvers that raise intrathoracic pressure, such as coughing, sneezing, or the Valsalva maneuver. These activities lead to a period of raised ICP, which uncommonly can cause a loss of consciousness.
+
+【16】Tumor-related headaches may be worse at night and may awaken the patient. This nocturnal pattern is thought to be due in part to transient increases in the partial pressure of carbon dioxide, a potent vasodilator, during sleep. Other possible physiologic explanations include recumbency and decreased cerebral venous return.
+
+【17】Other features suggestive of a brain tumor or other causes of secondary headache in a patient complaining of headaches include new and progressive symptoms, morning nausea and vomiting, a significant change in prior headache pattern, and an abnormal neurologic examination.
+
+【18】Brain tumor headaches are discussed in more detail elsewhere.
+
+【19】Seizures — Focal seizures are among the most common symptoms of primary and metastatic brain tumors. Seizures affect 50 to 80 percent of patients with primary brain tumors and 10 to 20 percent of patients with metastatic tumors. Among primary brain tumors, low-grade tumors are more likely to cause seizures than high-grade tumors.
+
+【20】The clinical manifestations of focal seizures depend upon tumor location. As an example, frontal lobe tumors may cause focal tonic-clonic movements involving one extremity, while seizures originating within the occipital lobe may cause visual disturbances. Temporal lobe seizures are often the most difficult to diagnose and localize. In this setting, abrupt sudden behavioral changes may occur with or without typical preseizure auras, such as abnormal smell, taste, or gastrointestinal symptoms.
+
+【21】Tumor-related seizures are typically repetitive and are stereotyped in a given patient. The ictal event may be preceded by an aura, which is itself a brief focal seizure, and followed by postictal sequelae. The postictal phase can be manifested as a period of fatigue and an urge to sleep. For patients with focal seizures, a postictal paresis (also known as a Todd paralysis) may be present.
+
+【22】Focal-onset seizures in any location can evolve into bilateral tonic-clonic seizures. If seizure propagation is rapid or if the initial phase of the seizure is unwitnessed, the presenting seizure may appear as a generalized tonic-clonic seizure. Subtle or brief focal seizures may go on for months before a generalized seizure brings the patient to medical attention, particularly in the case of low-grade primary brain tumors.
+
+【23】Both primary and metastatic brain tumors can cause status epilepticus, which may occur at the time of tumor diagnosis or subsequently .
+
+【24】Patients who present with seizures usually have smaller primary brain tumors or fewer metastatic lesions in the brain, compared with those who present with other symptoms. This is probably because the diagnosis of a seizure is an indication for neuroimaging, which leads to an earlier diagnosis.
+
+【25】A seizure should not be confused with a syncopal event that may be caused by an abrupt increase in ICP. This distinction is important since treatment is different in the two conditions. Patients with seizures are high risk for seizure recurrence and should be treated with antiseizure medications. By contrast, patients with increased ICP require urgent glucocorticoids, neurosurgical intervention, or both.
+
+【26】Focal deficits — Focal signs and symptoms of brain tumors vary based on tumor location. Symptoms may be caused by local tissue disruption, mass effect on nearby structures, or vasogenic edema.
+
+【27】 **Weakness** – Muscle weakness is a common complaint in patients with brain tumors. The manifestations may be subtle, particularly in the early stages. For upper motor neuron lesions, weakness is generally more pronounced in the flexors of the lower extremities than in the extensors, and more pronounced in the extensors than the flexors in the upper extremities. Transient weakness may represent a postictal state, as in Todd paralysis.
+
+【28】A key feature of tumor-related muscle weakness is its frequent responsiveness to glucocorticoids, particularly with tumors that are near the motor cortex or its descending fibers. A response to steroids usually means that the weakness is caused by edema and not by direct tumor involvement, as is often the case with metastatic tumors. In such patients, tumor resection may relieve mass effect and lessen the glucocorticoid requirement, even if surgery itself is not curative.
+
+【29】 **Sensory loss** – Cortical sensory deficits (abnormalities in graphesthesia or stereognosis) can develop in patients whose tumors involve the primary sensory cortex. These sensory deficits usually do not respect a dermatomal or peripheral nerve distribution.
+
+【30】The type of deficit varies in part with location of the tumor. As an example, visual-spatial disconnection syndromes can be found in patients with tumors located in the visual association cortex. Other cortically based sensory deficits include loss of spatial orientation, tingling, and lack of coordination.
+
+【31】 **Aphasia** – Patients with a tumor in the language-dominant hemisphere may present with variable degrees and types of aphasia. The left hemisphere is dominant in >95 percent of right-handed people and in >70 percent of left-handed people .
+
+【32】Symptoms range from occasional word-finding hesitation or word substitutions in routine speech to severe expressive or receptive aphasia. Tumors in the frontal lobe near Broca's area typically produce a nonfluent or expressive aphasia, whereas tumors in the posterior temporal lobe more often cause difficulties with language comprehension (receptive aphasia). Tumors in the dominant parietal lobe and thalamus also commonly cause language dysfunction.
+
+【33】A formal assessment of language dominance and localization using functional magnetic resonance imaging (fMRI) and other techniques is often required in patients with aphasia to determine the feasibility of surgical resection.
+
+【34】 **Visual-spatial dysfunction** – The visual pathway courses through the brain from the retina and optic chiasm to the occipital poles of the cerebral cortex. Because of its long course through the brain, the visual pathway can be affected by brain tumors that involve any of these areas.
+
+【35】Tumor-related compression of the optic chiasm usually manifests as a bitemporal hemianopsia. However, there may be a unilateral hemianopsia with a central scotoma in the contralateral eye in the early stages, particularly when the compression is on one side. The latter is thought to result from partial compression of the Wilbrand knee in the contralateral optic nerve, although the existence of this pathway has been questioned .
+
+【36】Postchiasmatic lesions also may present with visual abnormalities. Because the visual fibers are more spread apart before they converge in the occipital lobe, the more anterior the lesion in the optic radiation, the more asymmetric the hemianopsia (incongruous hemianopsia). Lesions in the occipital cortex cause congruous hemianopsia.
+
+【37】Cognitive dysfunction — Cognitive dysfunction, which includes memory problems and mood or personality change, is common among patients with primary and metastatic brain tumors.
+
+【38】Most of the neurocognitive deficits associated with brain tumors are subtle. Patients often complain of having low energy, fatigue, an urge to sleep, and loss of interest in everyday activities. They may become abulic and show a lack of spontaneity. This pattern of symptoms can be confused with depression.
+
+【39】Because these symptoms lack specificity, they are often recognized in retrospect by the patient or the treating clinician. Thus, consideration should be given to neuroimaging to rule out a brain tumor in patients without a prior history of depression who experience new onset of depressive symptoms without obvious cause.
+
+【40】Increased intracranial pressure — Increased ICP can arise either from a large mass or from restriction of cerebrospinal fluid (CSF) outflow causing hydrocephalus. Symptoms may be subtle or consist of the classic triad of headache, nausea, and papilledema.
+
+【41】Nausea and vomiting are not specific to high ICP and can occur with more common causes of headache, such as migraine. Several characteristics suggest the possibility of tumor-associated emesis, such as triggering emesis by an abrupt change in body position. More importantly, neurogenic nausea and vomiting usually occur in the context of other neurologic symptoms such as headache or focal neurologic deficit; these signs and symptoms may be subtle, however.
+
+【42】In the presence of a large brain tumor or one associated with hydrocephalus, the ICP may be raised to a level that reduces brain compliance; in this setting, even a further small increase in intracranial fluid volume can result in dramatic elevations in ICP.
+
+【43】A significant rise in ICP can temporarily decrease cerebral perfusion, leading to loss of consciousness. Patients with a baseline elevation in ICP are particularly susceptible to this sequence of events in association with plateau waves, which are sustained increases in ICP caused by activities that transiently raise the ICP. Activities that may trigger a plateau wave include moving from a sitting to standing position and maneuvers that increase intrathoracic pressure, such as the Valsalva maneuver, coughing, sneezing, or vomiting.
+
+【44】A syncopal episode due to high ICP may simulate a seizure, since patients suffer loss of consciousness and may have a few tonic-clonic jerks. Identification of plateau wave-related episodes of loss of consciousness is critical, since these events identify patients who require urgent glucocorticoids and/or neurosurgical intervention to reduce elevated ICP rather than treatment with an antiseizure medication.
+
+【45】NEUROIMAGING FEATURES 
+
+【46】Magnetic resonance imaging (MRI) with contrast is the optimal study for the evaluation of brain tumors. Computed tomography (CT) has much lower soft-tissue resolution and is relied upon primarily in emergency settings, for a more detailed view of bony structures, and in patients with a contraindication to MRI.
+
+【47】Typical MRI features of the more common brain tumors in adults are reviewed below. None of these imaging findings are specific, however, and histopathologic sampling is required to establish both tumor type and grade in the majority of primary brain tumors and in some cases of suspected brain metastases. However, this may change in the future as technology advances .
+
+【48】High-grade glioma — High-grade gliomas are typically hypointense masses on T1-weighted images that enhance heterogeneously following contrast infusion. Enhancing tumor can be distinguished from the surrounding hypointense signal of edema on T1-weighted sequences . Vasogenic edema is common and appears as hyperintense signal abnormality in the white matter on T2/fluid-attenuated inversion recovery (FLAIR)-weighted imaging.
+
+【49】Glioblastomas often have thick rim enhancement along the margins of the tumor, with central lack of enhancement indicative of central necrosis or cystic change . Gradient-echo or susceptibility-weighted sequences may show susceptibility artifact consistent with blood products within the center of the tumor. High-grade gliomas often have evidence of increased blood flow and blood volume, as well as elevated permeability, on perfusion imaging. High choline signal, decreased N-acetylaspartate (NAA), and increased lactate on magnetic resonance spectroscopy (MRS) are also notable features.
+
+【50】Low-grade glioma — Low-grade gliomas in adults generally appear as T2/FLAIR hyperintense, expansile lesions involving both cortex and underlying white matter . Vasogenic edema is usually absent. Most low-grade gliomas are nonenhancing, although the presence or absence of enhancement is not a reliable indicator of tumor grade. Calcification is sometimes present and is suggestive but not specific for oligodendroglioma histology .
+
+【51】The imaging appearance of oligodendroglioma and isocitrate dehydrogenase (IDH)-mutant astrocytoma is similar, and both may show evidence of the 2-hydroxyglutarate  metabolite using specialized MRS techniques. One distinguishing feature on conventional MRI has been termed the T2/FLAIR mismatch sign , which is specific for IDH-mutant astrocytoma, although not sensitive . This sign describes the hyperintense tumor rim seen on FLAIR images that is not apparent on T2-weighted images .
+
+【52】Most low-grade gliomas involve the cerebral hemispheres or thalamus in adults. The radiographic appearance of brainstem gliomas , which are most common in children but can present in early adulthood, is reviewed elsewhere.
+
+【53】Primary CNS lymphoma — Primary central nervous system lymphoma (PCNSL) is a rare form of non-Hodgkin lymphoma that occurs in both immunocompetent and immunocompromised adults . In immunocompetent patients, PCNSL can be solitary or multifocal. Lesions are isointense or hypointense on T2-weighted MRI and tend to enhance homogeneously after administration of contrast. Typical locations include periventricular white matter, basal ganglia, and corpus callosum.
+
+【54】Diffusion-weighted imaging often shows prominent diffusion restriction . This feature, although not specific for PCNSL, can be useful in raising clinical suspicion for the diagnosis, especially when other suggestive features are also present (eg, homogeneous contrast enhancement, typical location). Glucocorticoids should be withheld if possible when lymphoma is suspected to maximize diagnostic yield of biopsy.
+
+【55】The clinical features, imaging, and diagnosis of PCNSL are reviewed in detail separately.
+
+【56】Brain metastases — Brain metastases typically appear as rounded, well-circumscribed masses that enhance after administration of contrast . They are single in 20 to 30 percent of patients  and multiple in the remaining patients . The masses themselves may be solid, cystic, or centrally necrotic and can be hypointense, isointense, or hyperintense on T1- and T2-weighted images . Contrast enhancement is nearly universal. Occasionally, very thin-walled cystic metastases will not enhance or only enhance minimally.
+
+【57】Metastases larger than 0.5 to 1 cm usually have surrounding edema on T2-weighted and FLAIR sequences, which is often extensive in relation to the size of the tumor. Susceptibility artifact on gradient-echo or susceptibility-weighted sequences may be present and indicates the presence of blood products or less commonly calcification. Hemorrhagic brain metastases can occur with any underlying cancer type but are most common in association with melanoma , renal cell cancer, thyroid cancer, choriocarcinoma, and non-small cell lung cancer.
+
+【58】Meningioma — On MRI, a typical meningioma is an extra-axial, dural-based mass that is isointense or hypointense to gray matter on T1 and isointense or hyperintense on T2-weighted images. There is usually strong, homogeneous enhancement after administration of contrast . On noncontrast head CT, meningiomas are often isodense to brain and easily missed unless there is hyperdensity associated with tumor calcification.
+
+【59】Others — The clinical and imaging features of a large number of rarer primary brain tumors, as well tumors of the skull base, suprasellar region, and spine, are reviewed separately.
+
+【60】DIFFERENTIAL DIAGNOSIS 
+
+【61】The differential diagnosis of a new brain mass on neuroimaging includes both neoplastic and nonneoplastic conditions  .
+
+【62】Nonneoplastic conditions most commonly confused with high-grade glioma or other enhancing tumors on magnetic resonance imaging (MRI) include subacute infarction, subacute hemorrhage, vascular malformations, infections, and noninfectious inflammatory disorders .
+
+【63】 **Ischemic infarct** – Cortically based embolic infarcts often show enhancement in the subacute phase and, when imaged during this time period, can be mistaken for high-grade glioma or other brain tumors. Clues to an ischemic etiology include gyriform or serpentine pattern of enhancement, location in a typical vascular territory, and clinical history of sudden onset of symptoms days or weeks before the MRI was performed. A short-interval follow-up MRI in four to six weeks can be useful when imaging is equivocal, before proceeding with biopsy.
+
+【64】 **Hemorrhage** – Intraparenchymal hemorrhages can develop enhancement in the subacute phase and thereby mimic the appearance of a hemorrhagic tumor. Conversely, tumors that hemorrhage can be difficult to distinguish from bland hemorrhages on initial imaging. Venous infarctions often have associated hemorrhage or edema and should be considered. Short-interval follow-up MRI and clinical risk factors can be used to help distinguish the two.
+
+【65】 **Venous infarct** – Venous infarcts due to cortical venous sinus thrombosis often have associated edema or hemorrhage and are an occasional mimic of high-grade gliomas or metastases. Risk factors for venous thrombosis include prothrombotic conditions, oral contraceptive use, pregnancy, systemic malignancy, infection, and head injury. Magnetic resonance venography should be performed if venous infarct is suspected.
+
+【66】 **Vascular malformation** – Cavernous malformations can usually be distinguished from tumors by the presence of old blood products on gradient-echo or susceptibility-weighted MRI sequences in the absence of mass effect or edema. Large cavernous malformations and those that have recently bled may be harder to distinguish and require short-interval follow-up imaging. Arteriovenous malformations can usually be distinguished from tumors by the presence of prominent dark flow voids on T2-weighted imaging. Cerebral angiography is typically required for diagnosis and to plan treatment.
+
+【67】 **Abscess** – Bacterial and fungal abscesses, which often appear as ring-enhancing lesions and thereby similarly to glioblastoma or metastases, can often be distinguished from cystic or centrally necrotic brain tumors by their prominent diffusion restriction on diffusion-weighted MRI sequences and clinical risk factors or signs of infection. Magnetic resonance spectroscopy (MRS) can also be useful .
+
+【68】 **Inflammatory disorders** – Inflammatory and demyelinating lesions of the central nervous system (CNS), including tumefactive multiple sclerosis, may show enhancement and even edema in the acute phase . Inflammatory etiologies often manifest with multiple lesions or involve more than one compartment (eg, parenchymal and leptomeningeal). Particularly when mass-like brainstem lesions are present, rarer disorders to consider include neuromyelitis optica spectrum disorders, neuro-Behçet disease, chronic lymphocytic inflammation with pontine perivascular enhancement response to steroids (CLIPPERS), and neurosarcoidosis . Lumbar puncture and spine MRI are typically indicated if any of these disorders are suspected.
+
+【69】The radiographic differential diagnosis of low-grade gliomas and other nonenhancing, infiltrative primary brain tumors includes demyelination (eg, multiple sclerosis, acute demyelinating encephalomyelitis), posterior reversible leukoencephalopathy syndrome, paraneoplastic or autoimmune encephalitis, and infections such as progressive multifocal leukoencephalopathy (PML). MRS can sometimes be helpful in these cases to raise or lower suspicion for tumor. Lumbar puncture should be performed if PML or encephalitis is suspected to test for JC virus and other inflammatory and infectious markers. PML and other brain lesions in patients with immunodeficiency are reviewed separately.
+
+【70】Meningiomas have a largely separate radiographic differential diagnosis , which is reviewed elsewhere.
+
+【71】INITIAL EVALUATION 
+
+【72】Patients with a suspected brain tumor should undergo history and neurologic examination, brain magnetic resonance imaging (MRI) with contrast, and systemic cancer screening if brain metastases are suspected ( algorithm 1 ). Unless imaging features are atypical, additional testing is often not necessary prior to diagnostic biopsy or resection. The urgency of neurosurgical evaluation depends on the clinical stability of the patient, symptom severity, and tumor size and location.
+
+【73】Physical and neurologic examination — All patients with a suspected brain tumor should undergo a physical and neurologic examination to evaluate for neurologic deficits associated with the tumor. The degree of deficits and the clinical stability of the patient guide the urgency of neurosurgical evaluation and treatment and the need for glucocorticoids.
+
+【74】Examination of the visual fields, retina, and particularly the optic discs should be performed in patients suspected of having increased intracranial pressure (ICP) and in those with tumors encroaching on the optic pathway. Although gross papilledema is easy to diagnose, evolving papilledema can be difficult to recognize. As an example, only the medial portion of the optic disk may be blurred initially in early papilledema. Venous engorgement and the absence of venous pulsations are also important diagnostic clues.
+
+【75】Brain MRI with contrast — MRI of the brain with contrast is usually the only test needed to suggest a brain tumor. Standard sequences that should be included to fully characterize brain tumors include T1 and T2, fluid-attenuated inversion recovery (FLAIR), gradient-echo/susceptibility, diffusion-weighted imaging, and postcontrast T1-weighted images. Typical radiographic features of some of the more common brain tumors in adults are reviewed above.
+
+【76】Patients who have a possible brain tumor detected on head computed tomography (CT) or noncontrast brain MRI should undergo brain MRI with contrast to further characterize the lesion and help rule out nonneoplastic etiologies. Those with a contraindication to MRI should undergo head CT with contrast.
+
+【77】Role of advanced imaging techniques — Magnetic resonance spectroscopy (MRS) is not routinely indicated in the evaluation of brain tumors but can provide useful additional noninvasive data in selected cases, especially when the imaging appearance is equivocal and nonneoplastic etiologies are under consideration. MRS data also correlate with tumor type and grade but are not sufficiently sensitive or specific to replace histologic diagnosis.
+
+【78】The technique may improve the differentiation of infiltrative primary brain tumors from other nonneoplastic lesions (eg, demyelination, abscess, stroke) by analyzing the chemical composition in an area of interest selected by the radiologist. Voxels need to be appropriately placed to yield useful information. Spectra suggestive of a glial tumor include decreased N-acetylaspartate and increased choline . A lactate peak can be seen in the necrotic center of high-grade gliomas or in association with infarcts and abscesses. One study found that analysis of MRS plus diffusion-weighted imaging sequences had >95 percent sensitivity and specificity for distinguishing bacterial abscess from cystic tumor .
+
+【79】In addition to these metabolites, investigational studies have demonstrated that 2-hydroxyglutarate , which accumulates in gliomas carrying mutations in isocitrate dehydrogenase (IDH) type 1 or type 2, can be detected by MRS and is highly specific for untreated IDH-mutant tumors, with variable sensitivity . Performance is more variable in previously treated or recurrent tumors . Data are mixed with regard to whether quantitative 2HG correlates with tumor grade or mitotic index, and larger studies are needed to standardize and validate both diagnostic and prognostic value of 2HG MRS before widespread clinical use .
+
+【80】Other advanced MRI techniques, including functional MRI (fMRI) and diffusion tensor imaging, are used in selected cases to help plan maximal safe resection but are not part of the routine diagnostic work-up of brain tumors.
+
+【81】Screening for systemic malignancy — The likelihood that a lesion is metastatic should be assessed prior to proceeding to biopsy or resection. Brain metastases are more common than primary brain tumors in adults. Although brain metastases usually present in the context of overt systemic disease, they can occur as the initial manifestation of a systemic malignancy.
+
+【82】If any aspect of the clinical or neurodiagnostic evaluation suggests that a brain tumor is a metastatic rather than a primary lesion, a systemic evaluation should be performed. CT of the chest is the highest-yield study in this setting, and the added utility of abdomen and pelvis CT is very low . Typical neuroimaging clues that a brain lesion may be metastatic include the presence of multiple lesions, a single enhancing tumor that is well circumscribed from surrounding brain and associated with surrounding edema, and involvement of multiple compartments (eg, parenchymal, leptomeningeal, dural). Neurosurgical intervention in a patient with a presumed brain metastasis should balance the risks of the procedure versus the potential benefits (ie, tissue diagnosis, resection of a solitary lesion, relief of neurologic symptoms).
+
+【83】Screening for systemic malignancy is not necessary when clinical and radiographic suspicion for a primary brain tumor is high.
+
+【84】Other tests — Lumbar puncture for cerebrospinal fluid (CSF) sampling and analysis does not typically provide useful diagnostic information for most primary brain tumors unless leptomeningeal seeding is present or suspected by neuroimaging on the basis of leptomeningeal enhancement. This may evolve, however, even for parenchymal tumors, with the development of more sensitive techniques such as cell-free DNA and metagenomic next-generation sequencing on CSF .
+
+【85】The primary role of lumbar puncture is to explore infectious or inflammatory etiologies in patients with atypical or unusual neuroimaging findings. If lymphoma is considered a possibility on the basis of imaging characteristics, CSF should be sent for cytology, flow cytometry, and immunoglobulin H (IgH) gene rearrangement studies, ideally before the patient is exposed to glucocorticoids to maximize diagnostic yield. Additional testing in patients with suspected primary central nervous system lymphoma (PCNSL) is reviewed separately.
+
+【86】Role of glucocorticoids — High-dose glucocorticoids effectively reduce cerebral edema and can improve headaches and neurologic deficits caused by peritumoral edema. In patients with severe symptoms or threatened herniation, the usual initial dose of dexamethasone is 10 mg, followed by 4 mg every six hours or 8 mg twice per day. Once neurologic symptoms are stabilized, dexamethasone should be weaned to the lowest effective dose to prevent complications. Lower doses are often sufficient for less severe symptoms ( algorithm 2 ).
+
+【87】Glucocorticoids should be avoided if possible when there is high suspicion for lymphoma, as steroids cause acute lysis of lymphocytes and decrease the diagnostic yield of biopsy.
+
+【88】Glucocorticoids are not necessary or indicated in patients with minimal symptoms and for tumors that are not associated with surrounding edema. Toxicities of chronic steroid use may contribute to morbidity and decreased quality of life in patients with brain tumors. Glucocorticoids should also be minimized in patients with malignant glioma because they may shorten patient survival .
+
+【89】Antiseizure medications — Patients presenting with a seizure and those who provide a clinical history suggestive of seizure activity should be treated with an antiseizure medication. Levetiracetam is commonly used in this setting, but other drugs that can be quickly titrated to therapeutic levels are equally reasonable.
+
+【90】Antiseizure medications are **not** generally recommended in patients who have never had a seizure, aside from perioperative prophylaxis in patients undergoing craniotomy for tumor resection.
+
+【91】Urgency of neurosurgical evaluation — The urgency of neurosurgical evaluation for a newly discovered brain tumor depends on the clinical stability of the patient, symptom severity, and tumor size and location.
+
+【92】Patients with large, symptomatic tumors, including those with signs and symptoms of elevated ICP or impending herniation, require emergent evaluation and neurosurgical attention. Patients with smaller tumors and those with minimal symptoms can often be safely and effectively evaluated in the outpatient setting. Patients should be referred to a high-volume center with subspecialty neurosurgical expertise in brain tumors, when possible.
+
+【93】DIAGNOSIS 
+
+【94】Accurate diagnosis of a brain tumor requires an adequate tissue sample for histopathologic and molecular study. This may be obtained by stereotactic biopsy or open surgery. Procedure selection is individualized based on suspected tumor type and grade, location, and operability.
+
+【95】Glucocorticoid use should be avoided prior to biopsy or surgery if either a primary central nervous system lymphoma (PCNSL) or an infectious process is part of the differential diagnosis.
+
+【96】Preoperative planning — Functional magnetic resonance imaging (fMRI) is an important adjunct in the preoperative planning for patients whose tumor is located near eloquent areas of the brain. In such areas, imaging after activation of speech, sensory function, and motor function by appropriate stimuli may permit separation of tumor from normal brain and surrounding edema preoperatively. Diffusion tensor imaging (tractography) is also commonly used in this setting to better visualize the relationship between tumor and important white matter fiber tracts.
+
+【97】Surgical resection or biopsy — Technical advances have improved the safety of both surgical resection and stereotactic biopsy. Improved diagnostic neuroimaging permits better preoperative localization of the lesion and separation of the lesion from adjacent normal brain tissue, particularly in eloquent areas of the brain.
+
+【98】A variety of intraoperative techniques allow neurosurgeons to improve the extent of resection while minimizing risk of damage to normal brain, including intraoperative MRI, cortical simulation, and awake craniotomy with repetitive neurologic and language assessments. In addition, for patients with high-grade gliomas, an optical imaging agent  is increasingly used to improve visualization and extent of malignant tissue resection .
+
+【99】Gliomas — For most patients with primary brain tumors, tissue for histologic confirmation is obtained at the time of surgical resection.
+
+【100】For primary glial tumors, maximum surgical resection when possible is usually recommended. In patients with nonresectable lesions or those whose lesions are in a critical location, stereotactic biopsy is an alternative.
+
+【101】A tissue diagnosis of a diffuse intrinsic pontine glioma (DIPG) is usually not required prior to treatment, provided typical clinical and neuroimaging features are present . In equivocal cases, the clinician must weigh the risks of a surgical biopsy versus the diagnostic uncertainty.
+
+【102】Lymphoma — Patients with primary or secondary central nervous system (CNS) lymphoma are typically not offered surgical debulking, since surgical resection does not improve survival and may be associated with worse outcomes. Stereotactic biopsy is usually recommended, providing a high rate of positive tissue diagnosis with a low rate (<2 percent) of morbidity and mortality. Definitive treatment is usually chemotherapy, radiation, or a combination of these modalities.
+
+【103】Metastases — Biopsy is not necessary for patients with multiple brain metastases if there is a preexisting primary cancer known to have a propensity for brain metastases. However, if a patient has a primary tumor that does not usually metastasize to the brain (eg, prostate cancer), there is no known primary or the primary is temporally distant without recent relapse, or neuroimaging is not typical for metastasis, biopsy or resection may be indicated to define the etiology of a brain lesion.
+
+【104】The importance of biopsy in such situations was illustrated in a randomized trial of surgery for the treatment of solitary brain metastases, in which 11 percent of patients had a second primary malignancy, inflammatory process, or infection rather than metastasis . A tissue diagnosis can also be important for the determination of actionable mutations or immunohistochemical characteristics that indicate responsiveness to immunotherapy.
+
+【105】The management of patients with brain metastases is dependent upon the overall condition of the patient, as well as the number, size, and location of brain metastases. Depending on the primary cancer type, the initial treatment approach may include targeted therapy or immunotherapy with or without radiotherapy. The management of patients with brain metastases is discussed separately.
+
+【106】Meningioma — The characteristic appearance of dural-based meningiomas often can allow a tentative diagnosis, and many small tumors can be safely observed without surgery or radiation.
+
+【107】Symptomatic meningiomas and asymptomatic tumors that are large, expanding, infiltrating, or associated with surrounding edema are surgically resected if feasible. Complete surgical resection is preferred when a meningioma is in an accessible location, since complete resection of the tumor and its dural attachment can be curative.
+
+【108】Empiric radiation therapy without a histologic diagnosis may be warranted in carefully selected cases for lesions in a surgically inaccessible location.
+
+【109】Neuropathology — Histopathologic and molecular examination of the tumor specimen remains the most important component of the diagnostic evaluation of brain tumors. A smear or frozen section can be performed rapidly during the surgery for a preliminary interpretation of the histologic subtype. With this information, the neurosurgeon can make a decision whether or not to proceed with a more extensive resection.
+
+【110】A definitive diagnosis requires examination of the permanent tissue sections stained by hematoxylin and eosin and a variety of immunohistochemical stains. Molecular testing is increasingly important in the diagnosis and classification of brain tumors, especially for diffuse gliomas . For these tumors, routine pathologic evaluation includes IDH mutational testing and a number of additional molecular tests to allow for an integrated diagnosis .
+
+【111】The diagnostic accuracy of small tissue samples, such as those from a stereotactic biopsy, can be lower than those derived from a complete or partial resection. This is particularly true for glial tumors because regional heterogeneity and sampling error may underestimate the histologic grade of malignancy . Molecular studies, including testing for IDH, 1p/19q, telomerase reverse transcriptase ( _TERT_ ) promoter mutation, and H3 K27M, may help to improve diagnostic accuracy in these circumstances. Next-generation sequencing may be of value for identifying pathogenic variants that are susceptible to treatment with specific targeted therapies .
+
+【112】INFORMATION FOR PATIENTS 
+
+【113】Here are the patient education articles that are relevant to this topic. We encourage you to print or e-mail these topics to your patients. (You can also locate patient education articles on a variety of subjects by searching on "patient info" and the keyword(s) of interest.)
+
+【114】 Basics topics
+
+【115】 Beyond the Basics topics
+
+【116】 **Epidemiology** – Metastases from a systemic cancer are the most common brain tumors in adults. Among primary brain tumors, meningiomas and gliomas together account for more than two-thirds of all adult primary brain tumors.
+
+【117】 **Signs and symptoms** – Brain tumors can produce symptoms and signs by local brain invasion, compression of adjacent structures, and increased intracranial pressure (ICP). In addition to the histology of the tumor, the clinical manifestations are determined by the function of the involved areas of brain.
+
+【118】 **Neuroimaging** – Magnetic resonance imaging (MRI) with contrast is the optimal study for evaluation of brain tumors. Computed tomography (CT) has much lower resolution and is relied upon primarily in emergency settings, for a more detailed view of bony structures, and in patients with a contraindication to MRI.
+
+【119】 **Differential diagnosis** – Nonneoplastic conditions that may be confused with high-grade glioma or other enhancing tumors on MRI include subacute infarction, subacute hemorrhage, vascular malformations, infections, and inflammatory disorders . Additional considerations in low-grade tumors include demyelination, inflammation, and infection.
+
+【120】 **Initial evaluation** – Patients with a suspected brain tumor should undergo history and neurologic examination and brain MRI with contrast ( algorithm 1 ). A CT of the chest and abdomen should be performed when metastatic disease is suspected. Unless imaging features are atypical, additional testing is often not necessary prior to diagnostic biopsy or resection.
+
+【121】 **Role of glucocorticoids** – Glucocorticoids are used to decrease peritumoral edema and elevated ICP in patients with severe symptoms or threatened herniation ( algorithm 2 ). Steroids are not necessary in patients with minimal symptoms and should be avoided when there is high clinical suspicion for lymphoma.
+
+【122】 **Diagnosis** – Accurate diagnosis of a brain tumor requires an adequate tissue sample for histopathologic and molecular analysis. This may be obtained by stereotactic biopsy or open surgery. Procedure selection is individualized based on suspected tumor type and grade, location, and operability.王磊
+
+====================================================================================================
+文本干净度#无关文本#( algorithm 1 )#无
+文本干净度#无关文本# ( algorithm 2 )#无
+文本干净度#无关文本#【112】INFORMATION FOR PATIENTS
+
+【113】Here are the patient education articles that are relevant to this topic. We encourage you to print or e-mail these topics to your patients. (You can also locate patient education articles on a variety of subjects by searching on “patient info” and the keyword(s) of interest.)
+
+【114】 Basics topics
+
+【115】 Beyond the Basics topics#与上下文不联接
+文本干净度#无关文本# ( algorithm 1 )#无
+文本干净度#无关文本#( algorithm 2 )#无

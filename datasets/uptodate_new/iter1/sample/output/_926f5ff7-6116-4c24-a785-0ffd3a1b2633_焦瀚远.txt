@@ -1,0 +1,281 @@
+【0】Airway management for anesthesia for the patient with a tracheostomy
+
+【1】INTRODUCTION 
+
+【2】A tracheostomy is defined as an opening into the anterior wall of the trachea. The procedure that creates a tracheostomy is called a tracheotomy. A tracheostomy tube or cannula is placed through the tracheostomy to provide a mechanism for ventilation and airway protection.
+
+【3】This topic will discuss preanesthesia assessment and intraoperative airway management for patients with a tracheostomy in place. The tracheostomy procedure is discussed separately.
+
+【4】PREANESTHESIA ASSESSMENT 
+
+【5】In addition to routine preoperative evaluation for anesthesia, assessment should include determining the indication for tracheostomy, when the tracheostomy was placed, existing airway anatomy, and type and size of the tracheostomy device in place. These issues will inform the plan for airway management. The ADIOS-PP mnemonic can be used when assessing the patient with a tracheostomy prior to anesthesia and is shown in a table .
+
+【6】Determining the feasibility of oral or nasal intubation preoperatively is of critical importance in case of intraoperative loss of the tracheostomy airway. Knowing the age of the tracheostomy is imperative, as manipulation of an immature tracheostomy tract may result in devastating complications.
+
+【7】Other than patients who have had a laryngectomy, routine airway evaluation should be performed to assess for potential difficulty with mask ventilation and/or intubation should the tracheostomy tube become dislodged or fail.
+
+【8】Patients should be asked whether there are typically any problems during routine tracheostomy tube changes, and what maneuvers may be helpful.
+
+【9】Important comorbidities that may affect the plan for airway management include severe obesity, coagulopathy, and chronic respiratory failure.
+
+【10】Preoperative assessment for anesthesia is discussed in detail separately.
+
+【11】Indication for tracheostomy — The reason the tracheostomy was placed should help determine whether oral or nasal intubation would be possible, and whether the patient would be able to breathe adequately, in case of unexpected inability to ventilate through the tracheostomy. Oral and nasal intubation are not possible in patients who have had a laryngectomy and may be difficult or impossible in patients with upper airway obstruction due to fractures, upper airway masses, or other anatomic abnormalities.
+
+【12】Common indications for tracheostomy include:
+
+【13】 Preventing complications associated with prolonged mechanical ventilation
+
+【14】 Long term ventilation and airway protection in patients with advanced chronic degenerative neurological or neuromuscular conditions
+
+【15】 Securing the airway in patients with acute or chronic upper airway obstruction (eg, patients with obstructive sleep apnea refractory to other therapies)
+
+【16】 Airway management in patients undergoing major head and neck surgery (including laryngectomy) or some face or neck fractures
+
+【17】These and other indications are discussed in detail separately.
+
+【18】When was the tracheostomy placed? — For patients who require tube exchange within 7 days after the tracheostomy procedure, we suggest having assistance from an otolaryngologist or general surgeon.
+
+【19】Maturation of the tracheostomy tract occurs over several weeks. Elective tube change is often delayed until seven days after placement because of the increased risk of complications with earlier tube change. Tracheostomy tube replacement while the tract is immature increases the risk of inserting the tube in the pre-tracheal or peristomal tissue through a false passage. This may result in inability to ventilate, pneumothorax, pneumomediastinum, subcutaneous emphysema, hemorrhage, or infection . The risk is higher when the stoma tract is longer because of severe obesity or edema . Timing of tracheostomy tube change and associated risks are discussed separately.
+
+【20】Tracheostomy device in place
+
+【21】Tracheostomy tube — Tracheostomy tubes are available in a variety of styles and dimensions. When positive pressure ventilation is necessary, a cuffed, non-fenestrated tube must be in place. If the tube must be replaced prior to anesthesia, it should usually be replaced with a similar diameter tracheal tube.
+
+【22】Characteristics and parts of available tracheostomy tubes are discussed in detail separately . Distinguishing features particularly relevant for anesthesia are discussed here.
+
+【23】 **Size** – The size of tracheostomy tubes is commonly labeled according to the internal diameter (ID) expressed in millimeters , (eg, a size 7 tube has an internal diameter of 7 mm). For dual cannula tubes the size refers to the internal diameter of the outer cannula. Importantly, dimensions of tracheostomy tubes for a given size are not standardized across manufacturers, and may not be the same as the same size tracheal tube. The internal and external diameters are printed on the flange of the tracheostomy tube, and are also printed on tracheal tubes .
+
+【24】 **Inflatable cuff** – Inflatable cuffs are necessary for patients who require positive pressure ventilation. Not all tracheostomy tubes have cuffs.
+
+【25】Some tracheostomy tubes meant for chronic use have a “tight to shaft” cuff, which contracts around the shaft of the tube when not inflated . These are high pressure, low volume cuffs, and are not used for patients who require the cuff inflated for most of the day.
+
+【26】Tight to shaft tracheostomy tubes may be used for positive pressure ventilation during short procedures but should be used cautiously for longer anesthetics to avoid injury of the tracheal mucosa. For some of these tubes (eg, the Bivona Tight to Shaft tube), the cuff must be filled with water rather than air, because air leaks out of the cuff over time. As these are low-volume high-pressure cuffs, the measured cuff pressure does not reflect the pressure exerted by the cuff on the tracheal mucosa. Thus, minimal occlusive volume should be used to prevent tracheal mucosal ischemia if the tube is used for longer anesthetics.
+
+【27】 **Fenestration** – Fenestrated tubes allow breathing and phonation through the vocal cords, even with the cuff inflated. They are rarely used because of a high incidence of granulation tissue .
+
+【28】 **Single versus dual cannula** – Some tracheostomy tubes consist of two cannulae; the inner cannula is a tube of smaller diameter designed to fit closely inside the outer cannula. A locking mechanism secures the two cannulae together . The inner cannula can be removed for cleaning without having to remove the outer tube from the stoma. Importantly, the standard 15 mm connector for ventilation devices may be part of either the inner or outer cannula, depending on the tube in place. Airway resistance will be higher during ventilation through the smaller inner cannula. Both single and dual cannula tracheostomy tubes are available in cuffed and uncuffed versions.
+
+【29】 **Obturator** – The obturator is used to insert the tracheostomy tube .
+
+【30】Other devices — These include:
+
+【31】 Speaking valve – Speaking valves must be removed before using positive pressure ventilation during anesthesia . The Passy-Muir Valve, a one-way speaking and swallowing valve, is a small device that is attached to the 15 mm connector. The valve opens only during inspiration and prohibits exhalation through the tube. Thus, air is exhaled around the tube and through the vocal cords to allow phonation. Importantly, this type of valve **must** only be used with either an uncuffed tube, or with the cuff deflated on a cuffed tube, to allow exhalation .
+
+【32】 T-tube – A t-tube is a device that combines an uncuffed tracheostomy tube with a tracheal stent. T-tubes are sometimes referred to as Montgomery tubes or Montgomery t-tubes, since the Montgomery tube was the first one described .
+
+【33】There is a tracheal limb, open on both ends, connected to a perpendicular extratracheal limb that extends through the tracheostomy stoma  . T-tubes may be used for treatment of subglottic or tracheal stenosis in patients for whom surgical repair is not an option . They are available in various sizes ranging from 4.5 to 16 mm external diameter for the tracheal limb, and 4.5 to 11 mm for the extratracheal limb .
+
+【34】Options for ventilation in the patient with a t-tube in place are discussed below.
+
+【35】 Tracheostomy button (plug or retainer) – These devices may be placed to keep the tracheostomy stoma open after decannulation, often during a prolonged post-tracheostomy observation period . Tracheostomy buttons must be exchanged for cuffed tracheal tubes for positive pressure ventilation during anesthesia.
+
+【36】 Laryngectomy tube – Laryngectomy tubes are used to maintain the opening of the stoma. They have no connectors for ventilation devices, and must be exchanged for a cuffed tube for positive pressure ventilation.
+
+【37】CREATING A PLAN FOR AIRWAY MANAGEMENT 
+
+【38】When creating a plan for airway management, important decisions include whether airway management would be possible from above (ie, by mask, supraglottic airway, oral or nasal intubation), whether the tracheostomy tube should be changed, and if so, whether a surgeon should be present or involved in replacing the tube ( algorithm 1 ). These plans should be individualized; the following is a reasonable approach for most patients.
+
+【39】Will airway management from above be possible? — Examples of implications for airway management include the following:
+
+【40】 If it is likely that airway management from above would be possible if the tracheostomy tube becomes dislodged or cannot be reinserted during exchange, the first approach for airway rescue should be mask ventilation, placement of an SGA, or oral intubation, as appropriate.
+
+【41】 For patients with a recently placed tracheostomy in whom airway management from above is not feasible, tube exchange should be avoided, and if absolutely necessary, a surgeon should be present for the exchange.
+
+【42】Is there a need to exchange the tracheostomy tube? — This is determined by the planned patient position for the procedure and the type of tube in place.
+
+【43】How will the patient be positioned for the procedure?
+
+【44】 **Patients with a mature tracheostomy tract** – For most patients with a mature tracheostomy who will be positioned prone or lateral or who will be repositioned during surgery, we change the tracheostomy tube to a wire reinforced tracheal tube, whether the tracheostomy tube is cuffed or uncuffed. Reinforced tubes are flexible and resist kinking.
+
+【45】• **Prone position** – The stiffness of the tracheostomy tube and its connection with the anesthesia breathing circuit increases the risk of dislodgement, tracheal trauma, and impaired ventilation in the prone position or when the patient is repositioned . The length of the tracheal tube allows access to the connection of the anesthesia circuit to the tube for suctioning of tracheobronchial secretions with a suction catheter if needed. It also permits the introduction of a flexible scope for troubleshooting airway problems (eg, ruling out main stem intubation).
+
+【46】• **Limited access to the airway during the procedure** – If there will be limited access to the airway during the procedure (eg, lateral position, procedures of the head, neck, or upper chest), we change the tube because access to the tracheostomy may be difficult should the tube require adjustment or change during the procedure.
+
+【47】• **Patient who will be repositioned during surgery** – For cases that start with the patient in supine position but later need prone or lateral positioning or vice versa, we change the tracheostomy tube for a wired reinforced tracheal tube at the beginning of the case to decrease the risk of dislodgment during patient movements. In addition, the longer extratracheal portion of the tube facilitates connection to the anesthesia circuit in non-supine positions.
+
+【48】 **Patients with immature tracheostomy tract** – For patients with recently placed tracheostomy tubes (ie ≤7 days) who will be positioned prone, lateral, or repositioned during the procedure, or in whom there will not be easy access to the tracheostomy tube during surgery, we balance the risk of complications associated with tube exchange versus possible tube dislodgement in the planned position when deciding whether to exchange the tube.
+
+【49】Will positive pressure ventilation be possible with the existing tube? — For most anesthetics, the clinician must plan for the possible need for positive pressure ventilation, whether required for the planned surgery, or in the case of loss of ventilation through the tracheostomy tube. This may determine whether the existing tube must be exchanged.
+
+【50】Patients with a cuffed un-fenestrated tube in place — For these patients having surgery in the supine position, there is usually no need to change the tracheostomy tube, unless required by the procedure (eg, for bronchoscopy with an existing tube too small to fit the bronchoscope). For patients who have a tight to shaft (TTS) cuffed tube in place and who will undergo a very long procedure, we consider exchanging the tube. TTS cuffs are high pressure low volume cuffs and can cause injury to the tracheal mucosa with prolonged use.
+
+【51】Patients with an uncuffed or fenestrated tube in place
+
+【52】 **Standard uncuffed tubes** – The tracheostomy tube should be replaced prior to general anesthesia for most patients with an uncuffed or fenestrated tube in place. For patients with uncuffed tracheostomy tubes undergoing procedures in the supine position that can be performed with intravenous sedation or anesthesia with spontaneous ventilation (eg, some endoscopic gastrointestinal procedures, some cystoscopies, selected interventional radiology or electrophysiology procedures), the procedure can be started without exchanging the tracheostomy tube. If oxygenation or ventilation becomes inadequate the uncuffed tracheostomy tube should be exchanged for a cuffed tracheal tube.
+
+【53】Patients with uncuffed tubes who have procedures with local or regional anesthesia with no or minimal sedation and who are breathing spontaneously through the tube generally do not require tube exchange prior to the procedure.
+
+【54】 **T-tube** – For patients with a t-tube (which is a special type of uncuffed tube), replacing the tube is avoided if possible. If replacement is necessary, a surgeon with expertise in managing t-tubes should be consulted. Replacing the tube may be necessary for patients who require high airway pressure for ventilation (eg, during laparoscopic procedures in obese patients), or when insertion of a supraglottic airway would interfere with the procedure (eg, during upper gastrointestinal endoscopy), or when the patient is positioned prone. Management of the airway in patients with a t-tube is discussed below.
+
+【55】Is assistance from a surgeon necessary? — We consult a surgeon with expertise in tracheostomy for assistance with changing the tube for patients with a tracheostomy that was placed <7 days prior to the anesthetic, and for patients with a t-tube in place. The surgeon will also assist with replacing the preexisting tube at the end of anesthesia.
+
+【56】A consult should also be requested if the anesthesia clinician is unfamiliar with the existing tracheostomy tube or device.
+
+【57】TUBE EXCHANGE 
+
+【58】The tracheostomy tube should be changed in the operating room with equipment and personnel available as usual for anesthesia. Cuffed tracheal tubes of different sizes should be available in case the one initially selected for exchange does not pass through the stoma.
+
+【59】Awake versus asleep tube change — The decision to exchange a tracheostomy tube before or after induction of anesthesia depends on the age of the tracheostomy and the clinical situation .
+
+【60】 **Patients with chronic tracheostomy** – For patients with chronic tracheostomies who self-remove and reposition the tracheostomy tube periodically for cleaning or replacement, we perform the tube exchange under light sedation/analgesia as necessary, spontaneous ventilation, and topical 4% lidocaine .
+
+【61】 **Patients with recent tracheostomy** – Patients with immature tracheostomy tracts usually have a cuffed tracheostomy tube in place when they come to the operating room. For these patients we usually exchange the tube after induction of anesthesia and administration of neuromuscular blocking agents, to prevent coughing and to facilitate rescue airway maneuvers in case of difficult or failed tube exchange.
+
+【62】Tracheostomy tube change technique — The technique for tube change in patients with a mature tracheostomy is as follows:
+
+【63】 Preoxygenate the patient with 100% oxygen until the expired oxygen concentration is greater than 90%.
+
+【64】 Select a wire reinforced cuffed tracheal tube similar in diameter to the tracheostomy tube. Have tracheal tubes with two sizes lower than the selected tube  as backup.
+
+【65】 Deflate the tracheostomy tube cuff if necessary, remove the tube and set it aside for replacement at the end of the procedure.
+
+【66】 Insert the tracheal tube into the stoma, aimed caudad, in an oblique angle in relation to the neck surface and with the convex curve of the tube facing the patient’s head.
+
+【67】 Insert the tube just until the proximal border of the tube cuff passes all the way through the tracheostomy tract, to minimize the risk of mainstem intubation. The distance from the tracheal stoma to the carina is usually 5 to 7 cm (longer in taller patients) , and the distance from the proximal edge of the tracheal tube cuff to the tube tip varies with the size of the tube. For example, this distance is approximately 5.5 cm in a size 7.0 tracheal tube, but only 4 cm in a size 5.0 tube. Thus, there is higher risk of mainstem intubation with larger tracheal tubes. In most patients the length of the tracheostomy tract is approximately 2.5 cm, though it may be much longer in obese patients.
+
+【68】 Use a permanent marker to draw a mark on the tube at the level of the skin to determine whether the tube depth changes during the procedure.
+
+【69】 Inflate the cuff, set the cuff pressure to 20 to 30 cm H 2 O with a manometer, ventilate, and confirm bilateral breath sounds and end tidal CO 2 . If there is any question about the tube position, confirm correct placement above the carina with a flexible intubating scope.
+
+【70】For tracheostomy tube exchange in the patient with an immature tracheostomy (ie, <7 days after placement), the surgeon will often use a soft airway exchange catheter and confirm correct placement with a flexible intubating scope. T-tube exchange is described below.
+
+【71】PREOXYGENATION 
+
+【72】Preoxygenation should be performed prior to induction of anesthesia for patients who will have the tracheostomy tube placed or exchanged after induction of anesthesia. For patients with a tube in place that will remain for the anesthetic, preoxygenation before induction is usually unnecessary.
+
+【73】 Preoxygenation can usually be achieved by attaching the anesthesia breathing circuit to an existing tracheostomy tube, whether it is cuffed or not.
+
+【74】 Patients with capped tracheostomy tubes who are breathing spontaneously through the mouth or nose can be preoxygenated by facemask.
+
+【75】 Patients with a total laryngectomy can be preoxygenated with a pediatric facemask or soft supraglottic airway held over the stoma. Positive pressure ventilation is often possible with one of these devices with a tight seal.
+
+【76】INDUCTION OF ANESTHESIA 
+
+【77】After adequate preoxygenation, induction of general anesthesia can be performed using inhalation or intravenous (IV) medications.
+
+【78】 **Patients with cuffed tracheostomy tubes**
+
+【79】• Patients receiving mechanical ventilation – For these patients we usually perform inhalation induction by connecting the breathing circuit to the tube and gradually increasing the concentration of volatile anesthetic.
+
+【80】• Patients breathing spontaneously – For these patients we usually perform IV induction and administer neuromuscular blocking agents after induction. Inhalation induction is a reasonable alternative for these patients.
+
+【81】 **Patients with uncuffed tracheostomy tubes** – We perform IV induction for these patients because the gas leak around the tube makes inhalation induction inefficient and contaminates the operating room with anesthetic gas.
+
+【82】EMERGENCE FROM ANESTHESIA 
+
+【83】For patients who had a tracheostomy tube exchanged for anesthesia, the tube should be exchanged back to the original type of tube while the patient is still in the operating room and anesthetized, as follows.
+
+【84】 Patients who had an uncuffed tracheostomy tube exchanged for a cuffed tracheal tube:
+
+【85】• Reverse neuromuscular blockade, administer 100 percent oxygen, and allow the patient to start breathing spontaneously.
+
+【86】• Exchange the tracheal tube for the patient’s uncuffed tracheostomy tube.
+
+【87】• Awaken the patient from anesthesia.
+
+【88】 Patients who had a cuffed tracheostomy tube exchanged for a cuffed tracheal tube:
+
+【89】• While the patient is still anesthetized and paralyzed, administer 100 percent oxygen, and exchange the tracheal tube for the patient’s cuffed tracheostomy tube.
+
+【90】• Reverse neuromuscular blockade and awaken the patient from anesthesia, if appropriate.
+
+【91】If a surgeon was consulted for tracheostomy tube exchange at the start of anesthesia, the surgeon should also perform the exchange prior to emergence.
+
+【92】AIRWAY MANAGEMENT IN PATIENTS WITH T-TUBES 
+
+【93】There are special concerns for airway management for patients with t-tubes in place . T-tubes are used in patients with conditions that scar, compress, or narrow the airway (eg, tumors, caustic tracheal damage, radiation injury, tracheal or subglottic stenosis), or tracheomalacia . In these patients, oral and nasal intubation may be difficult or impossible.
+
+【94】Positive pressure ventilation through a t-tube is challenging. The extratracheal limb has no connector for ventilation devices, and the tracheal limb is open on both ends. Thus, in order to ventilate through the t-tube, an adaptor must be used for the extratracheal limb, and the upper airway must be sealed.
+
+【95】In an emergency when the techniques described here are ineffective for ventilation, the t-tube should be removed by pulling on the horizontal limb. A cuffed tracheal tube should then be inserted into the trachea through the tracheostomy stoma.
+
+【96】Several techniques have been used to ventilate patients with a t-tube. The choice of technique will depend on the patient’s anatomy, the size of the tracheal limb relative to the trachea, and any degree of upper airway obstruction. Examples of reported techniques include the following:
+
+【97】 **Ventilate through the horizontal limb of the t-tube:**
+
+【98】• Connect to the breathing circuit by inserting either the 15 mm connector from a small tracheal tube (size 4.0 to 6.0 depending on the size of the T-tube), or a size 4.0 to 5.0 tracheal tube with the cuff inflated into the horizontal limb.
+
+【99】**And**
+
+【100】• Prevent gas from escaping from above either by inserting a supraglottic airway and clamping the shaft , packing the pharynx with gauze , or by inserting a gauze plug or foley catheter into the cephalad end of the tracheal limb using direct laryngoscopy .
+
+【101】 **Ventilate with a supraglottic airway** – Insert a supraglottic airway (SGA) and cap or plug the horizontal limb of the t-tube. Two options for positive pressure ventilation with an SGA in the patient with a t-tube in place are shown in a figure . With this technique a large leak may occur around the SGA during positive pressure ventilation, because of the high resistance to airflow in patients with subglottic or tracheal stenosis.
+
+【102】 **Insert a cuffed tracheal tube into the tracheal limb of the t-tube** – This can be done by inserting a size 4.0 or 4.5 tracheal tube through the horizontal limb into the caudal portion, or by inserting such a tube from above using direct laryngoscopy . This technique may not be possible in patients with small t-tubes. Flow resistance will be high through such a small tracheal tube, and there may be significant leak around the t-tube.
+
+【103】 **Use jet ventilation** – Position a rigid bronchoscope proximal to the cephalad end of the t-tube in the glottic/subglottic area and use jet ventilation . This approach is not practical because it requires continuous use of a suspension laryngoscope or bronchoscope, and because oxygenation and ventilation are less efficient with jet ventilation than with conventional ventilation.
+
+【104】IDENTIFICATION AND MANAGEMENT OF TRACHEOSTOMY EMERGENCIES DURING ANESTHESIA 
+
+【105】Inability to ventilate is an emergency during anesthesia. In patients with tracheostomy tubes in place, this can be caused by tube obstruction or dislodgement.
+
+【106】Tracheostomy tube obstruction — Patients with recently placed tracheostomy tubes are at higher risk of tube obstruction with secretions or blood.
+
+【107】Obstruction can also happen if the tube is partially dislodged, malpositioned with the tip against the wall of the trachea or inserted into pretracheal tissue during tube exchange.
+
+【108】 The first step in diagnosing and managing possible obstruction is to pass a suction catheter through the tube into the trachea. The catheter should easily advance beyond the tip of the tracheostomy tube, and any obstructing material should be suctioned out.
+
+【109】 If there is resistance to passing the suction catheter, tube dislodgement should be suspected.
+
+【110】• Avoid high pressure ventilation, which can cause mediastinal or pretracheal emphysema or pneumothorax .
+
+【111】• Avoid passing stiff devices (eg, bougie) through the tube, as this may create a false passage .
+
+【112】 It is reasonable to deflate the cuff and attempt to gently reposition the tube. If ventilation remains ineffective, follow management for dislodged tracheostomy tube below.
+
+【113】Dislodged tracheostomy tube — Tracheostomy tube dislodgment or extubation during anesthesia can lead to catastrophic consequences due to hypoxia or accidents during tracheostomy tube reinsertion, particularly in patients with immature tracheostomy tracts. Management of a displaced tracheostomy tube is shown in an algorithm ( algorithm 2 ). If the tracheostomy tube is dislodged:
+
+【114】 Call for help and emergency advanced airway equipment, including a flexible intubating scope.
+
+【115】 Prioritize oxygenation throughout the event.
+
+【116】 Attempt ventilation:
+
+【117】• By mask or supraglottic airway in patients with patent upper airway.
+
+【118】• With a pediatric mask or soft cuff SGA in patients with severe or complete upper airway obstruction .
+
+【119】 For patients with a tracheostomy placed <7 days prior – Attempt oral intubation if feasible. If oral intubation is not possible, use a flexible intubating scope (preferred) or bougie to insert a tracheal tube through the tracheostomy stoma.
+
+【120】 For patients with tracheostomy placed ≥7 days prior – Insert a tracheal tube into the tracheostomy stoma.
+
+【121】 If attempts fail, insert a cricothyrotomy catheter into the trachea in the distal trachea at the level of the sternal notch, and start jet ventilation while waiting for a surgical airway to be established.
+
+【122】PATIENTS WITH A PRIOR TRACHEOSTOMY 
+
+【123】Patients who no longer have a tracheostomy tube in place may require modification of airway management strategies.
+
+【124】 **Residual tracheostomy tract or fistula** – In patients who have been recently decannulated or who have a residual tracheostomy fistula, gas leak through the fistula may occur during ventilation by mask or with a supraglottic airway. Applying pressure with a gauze pad to the residual tracheostomy tract usually suffices to achieve efficient mask ventilation until the airway is secured with a cuffed tracheal tube.
+
+【125】 **Patients with** **tracheal or subglottic stenosis** – Tracheal stenosis is a relatively common complication of tracheostomy.
+
+【126】For patients with mild tracheal stenosis, airway management may be straightforward, though difficult airway equipment and small size tracheal tubes should be immediately available during induction of anesthesia. Anesthesia for patients with severe tracheal stenosis is discussed in detail separately.
+
+【127】Links to society and government-sponsored guidelines from selected countries and regions around the world are provided separately.
+
+【128】 **Preanesthesia assessment** – Assessment should include determining the indication for tracheostomy, when the tracheostomy was placed (ie, in the past seven days), existing airway anatomy, and the type of tracheostomy tube in place (eg, cuffed versus uncuffed). 
+
+【129】 **Plan for airway management** – The plan for airway management should be determined by the following issues ( algorithm 1 ):
+
+【130】• Will airway management from above (ie, ventilation by mask, supraglottic airway \[SGA\], oral or nasal intubation) be possible?
+
+【131】• Does the existing tracheostomy tube need to be exchanged for anesthesia?
+
+【132】\- For patients who will be positioned prone or lateral or will be repositioned during surgery and whose tracheostomy was placed >7 days prior, we change the existing tube for a wire reinforced tracheal tube to reduce the risk of dislodgement or kinking. For patients with an immature tracheostomy tract (ie, placed <7 days prior), we balance the risk of difficulty with tube exchange versus the likelihood of tube dislodgement.
+
+【133】\- For most patients with uncuffed tubes (other than t-tubes) who have general anesthesia requiring positive pressure ventilation, we exchange the tube for a cuffed tracheal tube.
+
+【134】\- For patients who have procedures that can be performed with spontaneous ventilation during anesthesia, tube exchange may not be necessary.
+
+【135】• Is assistance from a surgeon necessary for tube exchange? We request surgical assistance for exchanging tubes placed <7 days prior to anesthesia, and for patients with a t-tube in place.
+
+【136】 **Tracheostomy tube exchange** – Tracheostomy tubes can be exchanged prior to induction of anesthesia in patients with chronic tracheostomies. For other patients we usually exchange the tube after induction and paralysis to prevent coughing and to facilitate airway management in case of difficult tube exchange. The technique for tube exchange is described above.
+
+【137】 **Tracheostomy tube re-exchange** – For patients who had a tracheostomy tube exchanged for anesthesia, the tube should be exchanged back to the original type of tube while the patient is still in the operating room anesthetized.
+
+【138】 **Airway management in patients with t-tubes** – For effective ventilation in patients with t-tubes in place, the breathing circuit must be connected to the extratracheal limb (which has no standard connector), and the upper airway or the cranial portion of the tracheal limb must be sealed. 
+
+【139】 **Tracheostomy emergencies** – Inability to ventilate through a tracheostomy tube may be due to tube obstruction or displacement of the tube. Management of a displaced tracheostomy tube during anesthesia is shown in an algorithm ( algorithm 2 ).焦瀚远
+
+====================================================================================================

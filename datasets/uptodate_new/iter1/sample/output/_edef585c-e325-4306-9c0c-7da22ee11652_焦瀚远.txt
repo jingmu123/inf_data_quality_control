@@ -1,0 +1,409 @@
+【0】Ocrelizumab: Drug information
+
+【1】Contributor Disclosures
+
+【2】For abbreviations, symbols, and age group definitions show table
+
+【3】Brand Names: US
+
+【4】*   Ocrevus
+
+【5】Brand Names: Canada
+
+【6】*   Ocrevus
+
+【7】Pharmacologic Category
+
+【8】*   Anti-CD20 Monoclonal Antibody;
+*   Monoclonal Antibody
+
+【9】Dosing: Adult
+
+【10】**Note:** **Safety:** Prior to initiating therapy, screen all patients for hepatitis B virus (HBsAg and anti-HBc measurements), and screen for latent infections (eg, hepatitis, tuberculosis) in high-risk populations or in countries with a high tuberculosis burden. For patients who screen positive for latent infections, consult infectious disease or other appropriate specialists (eg, liver specialists) regarding treatment options before initiating therapy . Assess for infection prior to treatment initiation; delay treatment in patients with an active infection until the infection is resolved. **Premedication:** Premedicate with methylprednisolone  30 minutes prior to each infusion, and an antihistamine (eg, diphenhydramine) 30 to 60 minutes prior each infusion; may also consider premedication with acetaminophen.
+
+【11】Multiple sclerosis, relapsing or primary progressive
+
+【12】**Multiple sclerosis, relapsing or primary progressive:** **IV:** 300 mg once on day 1, followed by 300 mg once 2 weeks later; subsequent doses of 600 mg are administered once every 6 months (beginning 6 months after the first 300 mg dose) .
+
+【13】**Missed doses:** If a dose is missed, administer as soon as possible (do not wait until the next scheduled dose), then adjust the dose schedule to administer the next sequential dose 6 months after the missed dose was administered. Doses must be separated by at least 5 months.
+
+【14】**Dosage adjustment for concomitant therapy:** Significant drug interactions exist, requiring dose/frequency adjustment or avoidance. Consult drug interactions database for more information.
+
+【15】Dosing: Kidney Impairment: Adult
+
+【16】There are no dosage adjustments provided in the manufacturer's labeling; however, no significant change in pharmacokinetics was observed in patients with renal impairment.
+
+【17】Dosing: Hepatic Impairment: Adult
+
+【18】There are no dosage adjustments provided in the manufacturer's labeling; however, no significant change in pharmacokinetics was observed in patients with hepatic impairment.
+
+【19】Dosing: Adjustment for Toxicity: Adult
+
+【20】**Herpes infection, serious:** Withhold or discontinue ocrelizumab until infection resolves; administer appropriate management.
+
+【21】**Hypogammaglobulinemia, prolonged and requiring IV immune globulin treatment or associated with severe opportunistic or recurrent infections:** Consider discontinuing ocrelizumab.
+
+【22】**Infection, active:** Delay ocrelizumab treatment until infection resolves.
+
+【23】**Infusion** **reactions:**
+
+【24】_Mild to moderate reactions:_ Reduce the infusion rate to 50% of the rate at which the reaction occurred; maintain reduced rate for at least 30 minutes. If the reduced rate is tolerated, return back to the original infusion rate titration until completion of infusion.
+
+【25】_Severe reactions:_ Interrupt infusion immediately and administer supportive management as needed. After all symptoms have resolved, restart infusion beginning at 50% of the rate at which the reaction occurred. If the reduced rate is tolerated, return back to the original infusion rate titration until completion of infusion.
+
+【26】_Life-threatening or disabling reactions:_ Immediately stop and permanently discontinue therapy.
+
+【27】**Progressive multifocal leukoencephalopathy:**
+
+【28】_Signs/symptoms suggestive of progressive multifocal leukoencephalopathy:_ Withhold ocrelizumab treatment and perform appropriate diagnostics.
+
+【29】_Confirmed progressive multifocal leukoencephalopathy:_ Discontinue ocrelizumab.
+
+【30】Adverse Reactions
+
+【31】The following adverse drug reactions and incidences are derived from product labeling unless otherwise specified. Reported adverse reactions are for adults.
+
+【32】\>10%:
+
+【33】Dermatologic: Skin infection 
+
+【34】Hematologic & oncologic: Decreased neutrophils , decreased serum immunoglobulins (≤17%; IgM most affected)
+
+【35】Hypersensitivity: Infusion-related reaction 
+
+【36】Infection: Infection 
+
+【37】Respiratory: Upper respiratory tract infection 
+
+【38】1% to 10%:
+
+【39】Cardiovascular: Peripheral edema 
+
+【40】Gastrointestinal: Diarrhea 
+
+【41】Infection: Herpes virus infection (≤6%; including serious; herpes zoster infection: 2%; herpes simplex infection: <1%; genital herpes simplex: <1%; oral herpes simplex infection: 3%)
+
+【42】Nervous system: Depression 
+
+【43】Neuromuscular & skeletal: Back pain , limb pain 
+
+【44】Respiratory: Cough , lower respiratory tract infection 
+
+【45】<1%:
+
+【46】Genitourinary: Malignant neoplasm of breast
+
+【47】Immunologic: Antibody development
+
+【48】Postmarketing:
+
+【49】Dermatologic: Pyoderma gangrenosum
+
+【50】Gastrointestinal: Colitis (immune mediated; may be severe and/or acute-onset)
+
+【51】Infection: Reactivation of HBV
+
+【52】Nervous system: Herpes meningoencephalitis, progressive multifocal leukoencephalopathy
+
+【53】Ophthalmic: Ocular herpes simplex
+
+【54】Contraindications
+
+【55】History of life-threatening infusion reaction to ocrelizumab; active hepatitis B virus (HBV) infection.
+
+【56】_Canadian labeling:_ Additional contraindications (not in the US labeling): Known hypersensitivity to ocrelizumab or any component of the formulation; severe, active infections; current or history of confirmed progressive multifocal leukoencephalopathy (PML); active malignancies; severely immunocompromised states
+
+【57】Warnings/Precautions
+
+【58】_**Concerns related to adverse effects:**_
+
+【59】• GI toxicity: Immune-mediated colitis has occurred, including severe and acute-onset cases requiring hospitalization and/or surgery. The onset of symptoms (eg, new or persistent diarrhea, other GI symptoms) ranged from a few weeks to years. Systemic corticosteroids were required in the majority of patients with colitis.
+
+【60】• Immunoglobulin reduction: Decrease in immunoglobulin levels may occur with use. Obtain quantitative serum immunoglobulins prior to therapy initiation; consult immunology experts prior to initiation for patients with low serum immunoglobulins. Monitor quantitative serum immunoglobulins during treatment, especially in patients with opportunistic or recurrent infections, and after discontinuation of therapy until B-cell repletion.
+
+【61】• Infection: Serious, including life-threatening or fatal, bacterial viral, parasitic, and fungal infections may occur during and/or following therapy. Assess for infections prior to treatment initiation, and screen for latent infections (eg, hepatitis, tuberculosis) in high-risk populations or in countries with a high tuberculosis burden. For patients who screen positive for latent infections, consult infectious disease or other specialists (eg, liver specialists) regarding treatment options before initiating therapy (AAN \[Farez 2019\]). In clinical studies, a slightly higher incidence of infections was reported in patients receiving ocrelizumab, compared to patients receiving the comparator drug or placebo. Over half of patients who received ocrelizumab experienced one or more infections. In multiple sclerosis patients, ocrelizumab is associated with an increased risk for respiratory tract infections (upper and lower), skin infections, and herpes-related infections, although was not associated with an increased risk of serious infections. Respiratory tract infections were predominantly mild to moderate and consisted mostly of upper respiratory tract infections and bronchitis.
+
+【62】\- Hepatitis B reactivation: Screen for hepatitis B virus in all patients (HBsAg and anti-HBc measurements) prior to treatment initiation. Postmarketing reports of hepatitis B reactivation in MS patients treated with ocrelizumab have been reported. Fulminant hepatitis, hepatic failure, and death caused by HBV reactivation have occurred in patients treated with other anti-CD20 monoclonal antibodies.
+
+【63】\- Herpes infection: In clinical studies, herpes infections (herpes zoster, herpes simplex, oral herpes, genital herpes, and herpes virus infection) were reported more frequently in patients who received ocrelizumab compared to patients who received comparator drug and oral herpes was reported more frequently with ocrelizumab than with placebo. Infections were predominantly mild to moderate in severity. Serious (some life-threatening) cases of herpes simplex virus and varicella zoster virus, including CNS infections (eg, encephalitis, meningitis), intraocular infections, and disseminated skin and soft tissue infections, have been reported. Serious herpes virus infections may occur at any time during treatment.
+
+【64】• Infusion reactions: Ocrelizumab may cause infusion reactions; symptoms include pruritus, rash, urticaria, erythema, bronchospasm, throat irritation, oropharyngeal pain, dyspnea, pharyngeal or laryngeal edema, flushing, hypotension, pyrexia, fatigue, headache, dizziness, nausea, tachycardia, and anaphylaxis. The incidence of infusion reactions in patients who received methylprednisolone (or an equivalent steroid) and potentially other pre-medication to reduce the risk of infusion reactions prior to each infusion was 34% to 40% in multiple sclerosis studies; the highest incidence was with the first infusion. There were no fatal infusion reactions, although serious infusion reactions occurred (rarely), some reactions required hospitalization. Monitor for infusion reactions during the infusion and for at least one hour after the end of the infusion. Infusion reactions can occur up to 24 hours after the infusion. Administer premedications (methylprednisolone \[or equivalent\] and an antihistamine, with or without acetaminophen) to reduce the frequency and severity of infusion reactions. Depending on the severity of the reaction, infusion reaction may require infusion interruption, decreased infusion rate, or discontinuation; may also require symptomatic supportive management.
+
+【65】• Malignancy: Ocrelizumab may be associated with an increased risk of malignancy. Malignancies (including breast cancer) occurred more frequently in ocrelizumab-treated patients in clinical studies. Breast cancer occurred in 0.8% of females who received ocrelizumab and none of the females who received the comparator drug or placebo. Patients should follow standard breast cancer screening guidelines.
+
+【66】• Progressive multifocal leukoencephalopathy: Progressive multifocal leukoencephalopathy (PML) has been reported. PML is an opportunistic viral infection of the brain caused by the John Cunningham (JC) virus and usually leads to death or severe disability. PML typically only occurs in patients who are immunocompromised; however, patients who developed PML while taking ocrelizumab had no identifiable systemic medical condition resulting in immunosuppression, were not taking any concomitant immunomodulatory or immunosuppressant medications, and had not previously been treated with natalizumab. Symptoms progress over days to weeks and may include progressive weakness on one side of the body or clumsiness of limbs, vision disturbances, and mental status changes. Cases of PML have been diagnosed based on MRI findings and the detection of JC virus DNA in the cerebrospinal fluid without specific PML signs/symptoms. Monitoring with brain MRI for signs that may be consistent with PML may be beneficial and allow for an early diagnosis of PML.
+
+【67】**_Other warnings/precautions:_**
+
+【68】• Appropriate use: Ocrelizumab has not been studied in combination with other MS therapies. When initiating ocrelizumab after an immunosuppressive therapy or initiating an immunosuppressive following ocrelizumab therapy, consider the potential for increased immunosuppressive effects.
+
+【69】• Immunizations: Administer live-attenuated or live vaccines at least 4 weeks and non-live vaccines at least 2 weeks prior to treatment initiation. Avoid live-attenuated or live vaccines during treatment or after discontinuation until B-cell repletion; consider using live-attenuated vaccines only if risk of infection is high and non-live vaccines are unavailable (AAN \[Farez 2019\]). Non-live vaccines may be administered; however, consideration should be given to evaluating the immune response. Prior to administration of live-attenuated or live vaccinations in infants exposed to ocrelizumab in utero, confirm recovery of B-cell counts.
+
+【70】Dosage Forms: US
+
+【71】Excipient information presented when available (limited, particularly for generics); consult specific product labeling.
+
+【72】Solution, Intravenous \[preservative free\]:
+
+【73】Ocrevus: 300 mg/10 mL 
+
+【74】Generic Equivalent Available: US
+
+【75】No
+
+【76】Pricing: US
+
+【77】**Solution** (Ocrevus Intravenous)
+
+【78】300 mg/10 mL (per mL): $2,365.73
+
+【79】**Disclaimer:** A representative AWP (Average Wholesale Price) price or price range is provided as reference price only. A range is provided when more than one manufacturer's AWP price is available and uses the low and high price reported by the manufacturers to determine the range. The pricing data should be used for benchmarking purposes only, and as such should not be used alone to set or adjudicate any prices for reimbursement or purchasing functions or considered to be an exact price for a single product and/or manufacturer. Medi-Span expressly disclaims all warranties of any kind or nature, whether express or implied, and assumes no liability with respect to accuracy of price or price range data published in its solutions. In no event shall Medi-Span be liable for special, indirect, incidental, or consequential damages arising from use of price or price range data. Pricing data is updated monthly.
+
+【80】Dosage Forms: Canada
+
+【81】Excipient information presented when available (limited, particularly for generics); consult specific product labeling.
+
+【82】Solution, Intravenous:
+
+【83】Ocrevus: 300 mg/10 mL 
+
+【84】Administration: Adult
+
+【85】**IV:** Administer though a dedicated IV line using a 0.2 or 0.22 micron in-line filter. Premedicate with methylprednisolone  30 minutes prior to each infusion, and an antihistamine (eg, diphenhydramine) 30 to 60 minutes prior each infusion; may also consider premedication with acetaminophen.
+
+【86】_First 2 infusions :_ Begin infusion at 30 mL/hour; increase by 30 mL/hour every 30 minutes to a maximum rate of 180 mL/hour. Infusion duration is 2.5 hours or longer.
+
+【87】_Subsequent infusions :_
+
+【88】Option 1: Begin infusion at 40 mL/hour; increase by 40 mL/hour every 30 minutes to a maximum rate of 200 mL/hour. Infusion duration is 3.5 hours or longer.
+
+【89】Option 2 (if no previous serious infusion reactions to ocrelizumab): Begin infusion at 100 mL/hour for first 15 minutes; increase to 200 mL/hour for the next 15 minutes; increase to 250 mL/hour for the next 30 minutes; increase to 300 mL/hour for the remaining 60 minutes. Infusion duration is 2 hours or longer.
+
+【90】Monitor for infusion reactions during infusion and observe for at least one hour after infusion is complete. If infusion reaction occurs, interrupt infusion, discontinue or decrease the rate, depending on the severity of the reaction.
+
+【91】Medication Guide and/or Vaccine Information Statement (VIS)
+
+【92】An FDA-approved patient medication guide, which is available with the product information and as follows, must be dispensed with this medication:
+
+【93】Use: Labeled Indications
+
+【94】**Multiple sclerosis, relapsing or primary progressive:** Treatment of primary progressive multiple sclerosis (MS) in adults and relapsing forms of MS, including clinically isolated syndrome, relapsing remitting disease, and active secondary progressive disease in adults.
+
+【95】Medication Safety Issues
+
+【96】Sound-alike/look-alike issues
+
+【97】Ocrelizumab may be confused with eculizumab, obiltoxaximab, obinutuzumab, ofatumumab.
+
+【98】Metabolism/Transport Effects
+
+【99】None known.
+
+【100】Drug Interactions  
+
+【101】**Note** : Interacting drugs may **not be individually listed below** if they are part of a group interaction (eg, individual drugs within “CYP3A4 Inducers \[Strong\]” are NOT listed). For a complete list of drug interactions by individual drug name and detailed management recommendations, use the drug interactions program by clicking on the “Launch drug interactions program” link above.
+
+【102】Abrocitinib: May enhance the immunosuppressive effect of Immunosuppressants (Therapeutic Immunosuppressant Agents). _Risk X: Avoid combination_
+
+【103】Antithymocyte Globulin (Equine): Immunosuppressants (Therapeutic Immunosuppressant Agents) may enhance the adverse/toxic effect of Antithymocyte Globulin (Equine). Specifically, these effects may be unmasked if the dose of immunosuppressive therapy is reduced. Immunosuppressants (Therapeutic Immunosuppressant Agents) may enhance the immunosuppressive effect of Antithymocyte Globulin (Equine). Specifically, infections may occur with greater severity and/or atypical presentations. _Risk C: Monitor therapy_
+
+【104】Antithymocyte Globulin (Equine): Anti-CD20 B-Cell Depleting Therapies may enhance the adverse/toxic effect of Antithymocyte Globulin (Equine). Specifically, these effects may be unmasked if the dose of anti-CD20 B-cell depleting therapy is reduced. Anti-CD20 B-Cell Depleting Therapies may enhance the immunosuppressive effect of Antithymocyte Globulin (Equine). Specifically, infections may occur with greater severity and/or atypical presentations. _Risk C: Monitor therapy_
+
+【105】Baricitinib: Immunosuppressants (Therapeutic Immunosuppressant Agents) may enhance the immunosuppressive effect of Baricitinib. _Risk X: Avoid combination_
+
+【106】BCG Products: Anti-CD20 B-Cell Depleting Therapies may enhance the adverse/toxic effect of BCG Products. Specifically, the risk of vaccine-associated infection may be increased. _Risk X: Avoid combination_
+
+【107】Brincidofovir: Immunosuppressants (Therapeutic Immunosuppressant Agents) may diminish the therapeutic effect of Brincidofovir. _Risk C: Monitor therapy_
+
+【108】Brivudine: May enhance the adverse/toxic effect of Immunosuppressants (Therapeutic Immunosuppressant Agents). _Risk X: Avoid combination_
+
+【109】Chikungunya Vaccine (Live): Immunosuppressants (Therapeutic Immunosuppressant Agents) may enhance the adverse/toxic effect of Chikungunya Vaccine (Live). Specifically, the risk of vaccine-associated infection may be increased. Immunosuppressants (Therapeutic Immunosuppressant Agents) may diminish the therapeutic effect of Chikungunya Vaccine (Live). _Risk X: Avoid combination_
+
+【110】Chikungunya Vaccine (Live): Anti-CD20 B-Cell Depleting Therapies may enhance the adverse/toxic effect of Chikungunya Vaccine (Live). Specifically, the risk of vaccine-associated infection may be increased. Anti-CD20 B-Cell Depleting Therapies may diminish the therapeutic effect of Chikungunya Vaccine (Live). _Risk X: Avoid combination_
+
+【111】Cladribine: Immunosuppressants (Therapeutic Immunosuppressant Agents) may enhance the immunosuppressive effect of Cladribine. _Risk X: Avoid combination_
+
+【112】Coccidioides immitis Skin Test: Immunosuppressants (Therapeutic Immunosuppressant Agents) may diminish the diagnostic effect of Coccidioides immitis Skin Test. Management: Consider discontinuing therapeutic immunosuppressants several weeks prior to coccidioides immitis skin antigen testing to increase the likelihood of accurate diagnostic results. _Risk D: Consider therapy modification_
+
+【113】Corticosteroids (Systemic): May enhance the immunosuppressive effect of Ocrelizumab. _Risk C: Monitor therapy_
+
+【114】COVID-19 Vaccines: Anti-CD20 B-Cell Depleting Therapies may diminish the therapeutic effect of COVID-19 Vaccines. Management: Administer COVID-19 vaccine 2 to 4 weeks prior to the next scheduled dose of anti-CD20 therapy, if used chronically for the treatment of autoimmune disease. Revaccinate 6 months after completion of anti-CD20 therapy if used over a limited period. _Risk D: Consider therapy modification_
+
+【115】Dengue Tetravalent Vaccine (Live): Anti-CD20 B-Cell Depleting Therapies may enhance the adverse/toxic effect of Dengue Tetravalent Vaccine (Live). Specifically, the risk of vaccine-associated infection may be increased. Anti-CD20 B-Cell Depleting Therapies may diminish the therapeutic effect of Dengue Tetravalent Vaccine (Live). _Risk X: Avoid combination_
+
+【116】Denosumab: Immunosuppressants (Therapeutic Immunosuppressant Agents) may enhance the immunosuppressive effect of Denosumab. Management: Consider the risk of serious infections versus the potential benefits of coadministration of denosumab and immunosuppressants. If combined, monitor for signs/symptoms of serious infections. _Risk D: Consider therapy modification_
+
+【117】Deucravacitinib: May enhance the immunosuppressive effect of Immunosuppressants (Therapeutic Immunosuppressant Agents). _Risk X: Avoid combination_
+
+【118】Efgartigimod Alfa: May diminish the therapeutic effect of Fc Receptor-Binding Agents. _Risk C: Monitor therapy_
+
+【119】Etrasimod: May enhance the immunosuppressive effect of Immunosuppressants (Therapeutic Immunosuppressant Agents). _Risk X: Avoid combination_
+
+【120】Filgotinib: May enhance the immunosuppressive effect of Immunosuppressants (Therapeutic Immunosuppressant Agents). _Risk X: Avoid combination_
+
+【121】Immunosuppressants (Cytotoxic Chemotherapy): May enhance the immunosuppressive effect of Ocrelizumab. _Risk C: Monitor therapy_
+
+【122】Immunosuppressants (Miscellaneous Oncologic Agents): May enhance the immunosuppressive effect of Ocrelizumab. _Risk C: Monitor therapy_
+
+【123】Immunosuppressants (Therapeutic Immunosuppressant Agents): May enhance the immunosuppressive effect of Ocrelizumab. _Risk C: Monitor therapy_
+
+【124】Inebilizumab: Immunosuppressants (Therapeutic Immunosuppressant Agents) may enhance the immunosuppressive effect of Inebilizumab. _Risk C: Monitor therapy_
+
+【125】Influenza Virus Vaccines: Anti-CD20 B-Cell Depleting Therapies may diminish the therapeutic effect of Influenza Virus Vaccines. Management: Administer influenza vaccines 2 weeks prior to starting anti-CD20 B-cell depleting therapies. Vaccination of patients treated with these agents in the past 6 months is not recommended. _Risk D: Consider therapy modification_
+
+【126】Leflunomide: Immunosuppressants (Therapeutic Immunosuppressant Agents) may enhance the immunosuppressive effect of Leflunomide. Management: Increase the frequency of chronic monitoring of platelet, white blood cell count, and hemoglobin or hematocrit to monthly, instead of every 6 to 8 weeks, if leflunomide is coadministered with immunosuppressive agents. _Risk D: Consider therapy modification_
+
+【127】Methotrexate: May enhance the immunosuppressive effect of Ocrelizumab. _Risk C: Monitor therapy_
+
+【128】Mumps- Rubella- or Varicella-Containing Live Vaccines: Anti-CD20 B-Cell Depleting Therapies may enhance the adverse/toxic effect of Mumps- Rubella- or Varicella-Containing Live Vaccines. Specifically, the risk of vaccine-associated infection may be increased. Anti-CD20 B-Cell Depleting Therapies may diminish the therapeutic effect of Mumps- Rubella- or Varicella-Containing Live Vaccines. _Risk X: Avoid combination_
+
+【129】Nadofaragene Firadenovec: Immunosuppressants (Therapeutic Immunosuppressant Agents) may enhance the adverse/toxic effect of Nadofaragene Firadenovec. Specifically, the risk of disseminated adenovirus infection may be increased. _Risk X: Avoid combination_
+
+【130】Natalizumab: Immunosuppressants (Therapeutic Immunosuppressant Agents) may enhance the immunosuppressive effect of Natalizumab. _Risk X: Avoid combination_
+
+【131】Ofatumumab: Immunosuppressants (Therapeutic Immunosuppressant Agents) may enhance the immunosuppressive effect of Ofatumumab. _Risk C: Monitor therapy_
+
+【132】Pidotimod: Immunosuppressants (Therapeutic Immunosuppressant Agents) may diminish the therapeutic effect of Pidotimod. _Risk C: Monitor therapy_
+
+【133】Pimecrolimus: Immunosuppressants (Therapeutic Immunosuppressant Agents) may enhance the immunosuppressive effect of Pimecrolimus. _Risk X: Avoid combination_
+
+【134】Poliovirus Vaccine (Live/Trivalent/Oral): Anti-CD20 B-Cell Depleting Therapies may enhance the adverse/toxic effect of Poliovirus Vaccine (Live/Trivalent/Oral). Specifically, the risk of vaccine-associated infection may be increased. Anti-CD20 B-Cell Depleting Therapies may diminish the therapeutic effect of Poliovirus Vaccine (Live/Trivalent/Oral). _Risk X: Avoid combination_
+
+【135】Polymethylmethacrylate: Immunosuppressants (Therapeutic Immunosuppressant Agents) may enhance the potential for allergic or hypersensitivity reactions to Polymethylmethacrylate. Management: Use caution when considering use of bovine collagen-containing implants such as the polymethylmethacrylate-based Bellafill brand implant in patients who are receiving immunosuppressants. Consider use of additional skin tests prior to administration. _Risk D: Consider therapy modification_
+
+【136】Rabies Vaccine: Anti-CD20 B-Cell Depleting Therapies may diminish the therapeutic effect of Rabies Vaccine. Management: Complete rabies vaccination at least 2 weeks before initiation of immunosuppressant therapy if possible. If combined, check for rabies antibody titers, and if vaccination is for post exposure prophylaxis, administer a 5th dose of the vaccine. _Risk D: Consider therapy modification_
+
+【137】Ritlecitinib: Immunosuppressants (Therapeutic Immunosuppressant Agents) may enhance the immunosuppressive effect of Ritlecitinib. _Risk X: Avoid combination_
+
+【138】Rozanolixizumab: May diminish the therapeutic effect of Fc Receptor-Binding Agents. _Risk C: Monitor therapy_
+
+【139】Ruxolitinib (Topical): Immunosuppressants (Therapeutic Immunosuppressant Agents) may enhance the immunosuppressive effect of Ruxolitinib (Topical). _Risk X: Avoid combination_
+
+【140】Sipuleucel-T: Immunosuppressants (Therapeutic Immunosuppressant Agents) may diminish the therapeutic effect of Sipuleucel-T. Management: Consider reducing the dose or discontinuing the use of immunosuppressants prior to initiating sipuleucel-T therapy. _Risk D: Consider therapy modification_
+
+【141】Tacrolimus (Topical): Immunosuppressants (Therapeutic Immunosuppressant Agents) may enhance the immunosuppressive effect of Tacrolimus (Topical). _Risk X: Avoid combination_
+
+【142】Talimogene Laherparepvec: Immunosuppressants (Therapeutic Immunosuppressant Agents) may enhance the adverse/toxic effect of Talimogene Laherparepvec. Specifically, the risk of infection from the live, attenuated herpes simplex virus contained in talimogene laherparepvec may be increased. _Risk X: Avoid combination_
+
+【143】Tertomotide: Immunosuppressants (Therapeutic Immunosuppressant Agents) may diminish the therapeutic effect of Tertomotide. _Risk X: Avoid combination_
+
+【144】Tofacitinib: Immunosuppressants (Therapeutic Immunosuppressant Agents) may enhance the immunosuppressive effect of Tofacitinib. Management: Coadministration of tofacitinib with potent immunosuppressants is not recommended. Use with non-biologic disease-modifying antirheumatic drugs (DMARDs) was permitted in psoriatic arthritis clinical trials. _Risk X: Avoid combination_
+
+【145】Typhoid Vaccine: Anti-CD20 B-Cell Depleting Therapies may enhance the adverse/toxic effect of Typhoid Vaccine. Specifically, the risk of vaccine-associated infection may be increased. Anti-CD20 B-Cell Depleting Therapies may diminish the therapeutic effect of Typhoid Vaccine. _Risk X: Avoid combination_
+
+【146】Ublituximab: Immunosuppressants (Therapeutic Immunosuppressant Agents) may enhance the immunosuppressive effect of Ublituximab. _Risk C: Monitor therapy_
+
+【147】Upadacitinib: Immunosuppressants (Therapeutic Immunosuppressant Agents) may enhance the immunosuppressive effect of Upadacitinib. _Risk X: Avoid combination_
+
+【148】Vaccines (Live): Anti-CD20 B-Cell Depleting Therapies may enhance the adverse/toxic effect of Vaccines (Live). Specifically, the risk of vaccine-associated infection may be increased. Anti-CD20 B-Cell Depleting Therapies may diminish the therapeutic effect of Vaccines (Live). _Risk X: Avoid combination_
+
+【149】Vaccines (Non-Live/Inactivated/Non-Replicating): Anti-CD20 B-Cell Depleting Therapies may diminish the therapeutic effect of Vaccines (Non-Live/Inactivated/Non-Replicating). Management: Give non-live/inactivated/non-replicating vaccines at least 2 weeks prior to initiation or 6 months after anti-CD20 B-cell depleting therapies. If vaccinated prior to B cell recovery, consider assessing immune response to vaccination. _Risk D: Consider therapy modification_
+
+【150】Yellow Fever Vaccine: Anti-CD20 B-Cell Depleting Therapies may enhance the adverse/toxic effect of Yellow Fever Vaccine. Specifically, the risk of vaccine-associated infection may be increased. Anti-CD20 B-Cell Depleting Therapies may diminish the therapeutic effect of Yellow Fever Vaccine. _Risk X: Avoid combination_
+
+【151】Reproductive Considerations
+
+【152】Patients who could become pregnant should use effective contraception during therapy and for 6 months after the last ocrelizumab infusion.
+
+【153】In general, disease-modifying therapies for multiple sclerosis (MS) are stopped prior to a planned pregnancy except in females at high risk of MS activity (AAN \[Rae-Grant 2018\]). Consider use of agents other than ocrelizumab for females at high risk of disease reactivation who are planning a pregnancy. Delaying pregnancy is recommended for females with persistent high disease activity; when disease-modifying therapy is needed in these patients, other agents are preferred (ECTRIMS/EAN \[Montalban 2018\]).
+
+【154】Pregnancy Considerations
+
+【155】Ocrelizumab is a humanized monoclonal antibody (IgG 1 ). Potential placental transfer of human IgG is dependent upon the IgG subclass and gestational age, generally increasing as pregnancy progresses. The lowest exposure would be expected during the period of organogenesis .
+
+【156】Information related to the use of ocrelizumab in pregnancy is limited . Transient peripheral B-cell depletion and lymphocytopenia have been observed in infants born to mothers who received similar agents; immune response to live or live-attenuated vaccines may be decreased in infants exposed to ocrelizumab in utero. Evaluate immune response by measuring CD19 \+ B-cells in exposed infants prior to the administration of live or live-attenuated vaccines.
+
+【157】In general, disease-modifying therapies for multiple sclerosis (MS) are not initiated during pregnancy, except in females at high risk of MS activity (AAN \[Rae-Grant 2018\]). When disease-modifying therapy is needed in these patients, other agents are preferred (ECTRIMS/EAN \[Montalban 2018\]).
+
+【158】Data collection to monitor pregnancy and infant outcomes following exposure to ocrelizumab is ongoing. Health care providers are encouraged to enroll patients exposed to ocrelizumab during pregnancy in the Ocrevus Pregnancy Registry ; pregnant patients may also enroll themselves.
+
+【159】Breastfeeding Considerations
+
+【160】It is not known if ocrelizumab is present in breast milk.
+
+【161】Ocrelizumab is a humanized monoclonal antibody (IgG 1 ); human IgG is present in breast milk. Information related to the use of ocrelizumab in patients who are breastfeeding is limited . The potential for B-cell depletion in a breastfed infant following maternal use of ocrelizumab is not known. According to the manufacturer, the decision to breastfeed during therapy should consider the risk of infant exposure, the benefits of breastfeeding to the infant, and benefits of treatment to the mother. Other sources do not recommend breastfeeding during therapy .
+
+【162】Monitoring Parameters
+
+【163】Hepatitis B virus (HBV) screening in all patients: Hepatitis B surface antigen (HBsAg) and hepatitis B core antibody (anti-HBc) tests (prior to therapy initiation); do not administer to patients with active hepatitis B virus confirmed by positive results for HBsAg and anti-HB tests; for patients who are negative for surface antigen (HBsAg) and positive for HB core antibody (HBcAb+) or are carriers of HBV (HBsAg+), consult a liver disease specialist prior to initiating and during therapy.
+
+【164】Perform latent infection screening (eg, hepatitis, tuberculosis) in high-risk populations or in countries with high tuberculosis burden (baseline). Monitor quantitative serum immunoglobulins (baseline, throughout treatment as clinically necessary, especially in patients with opportunistic or recurrent infections, after discontinuation of therapy until B-cell repletion). Assess for active infection prior to treatment. Monitor for infusion reactions during infusion and for at least 1 hour following the end of the infusion. Monitor for signs/symptoms of immune-mediated colitis (evaluate promptly if colitis is suspected), infection, malignancy, and progressive multifocal leukoencephalopathy (PML). Perform brain MRI (at first signs/symptoms suggestive of PML and as clinically indicated to monitor for early signs of PML).
+
+【165】Mechanism of Action
+
+【166】Ocrelizumab is a recombinant humanized IgG monoclonal antibody directed against B-cells which express the cell surface antigen CD20; CD20 is present on pre-B and mature B lymphocytes. B-cells are thought to influence the course of multiple sclerosis through antigen presentation, autoantibody production, cytokine regulation, and formation of ectopic lymphoid aggregates in the meninges (Hauser 2017). Ocrelizumab selectively targets and binds with high affinity to the cell surface to deplete CD20 expressing B-cells through antibody-dependent cell-mediated phagocytosis and cytotoxicity, as well as complement-mediated cytolysis .
+
+【167】Pharmacokinetics (Adult Data Unless Noted)
+
+【168】Onset of action: Serum CD-19+ B-cell counts (used as a marker for B-cell counts) are reduced within 14 days after infusion.
+
+【169】Duration of action: Median time for B-cell recovery (to baseline or the lower limit of normal): 72 weeks (range: 27 to 175 weeks).
+
+【170】Distribution: Central V d : 2.78 L; Peripheral: 2.68 L
+
+【171】Metabolism: Antibodies are primarily cleared by catabolism
+
+【172】Half-life elimination: 26 days
+
+【173】Excretion: Constant clearance (estimated): 0.17 L/day; Initial time-dependent clearance: 0.05 L/day
+
+【174】Brand Names: International
+
+【175】International Brand Names by Country
+
+【176】For country code abbreviations ( show table )  
+
+【177】*   (AE) United Arab Emirates : Ocrevus ;
+*   (AR) Argentina : Ocrevus ;
+*   (AT) Austria : Ocrevus ;
+*   (AU) Australia : Ocrevus ;
+*   (BE) Belgium : Ocrevus ;
+*   (BG) Bulgaria : Ocrevus ;
+*   (BR) Brazil : Ocrevus ;
+*   (CH) Switzerland : Ocrevus ;
+*   (CL) Chile : Ocrevus ;
+*   (CO) Colombia : Ocrevus ;
+*   (CZ) Czech Republic : Ocrevus ;
+*   (DE) Germany : Ocrevus ;
+*   (DO) Dominican Republic : Ocrevus ;
+*   (EC) Ecuador : Ocrevus ;
+*   (EE) Estonia : Ocrevus ;
+*   (EG) Egypt : Ocrevus ;
+*   (ES) Spain : Ocrevus ;
+*   (FI) Finland : Ocrevus ;
+*   (FR) France : Ocrevus ;
+*   (GB) United Kingdom : Ocrevus ;
+*   (GR) Greece : Ocrevus ;
+*   (HR) Croatia : Ocrevus ;
+*   (HU) Hungary : Ocrevus ;
+*   (IE) Ireland : Ocrevus ;
+*   (IT) Italy : Ocrevus ;
+*   (KW) Kuwait : Ocrevus ;
+*   (LB) Lebanon : Ocrevus ;
+*   (LT) Lithuania : Ocrevus ;
+*   (LV) Latvia : Ocrevus ;
+*   (MA) Morocco : Ocrevus ;
+*   (MX) Mexico : Ocrevus ;
+*   (NL) Netherlands : Ocrevus ;
+*   (NO) Norway : Ocrevus ;
+*   (NZ) New Zealand : Ocrevus ;
+*   (PE) Peru : Ocrevus ;
+*   (PK) Pakistan : Ocrevus ;
+*   (PL) Poland : Ocrevus ;
+*   (PR) Puerto Rico : Ocrevus ;
+*   (PT) Portugal : Ocrevus ;
+*   (PY) Paraguay : Ocrevus ;
+*   (QA) Qatar : Ocrevus ;
+*   (RO) Romania : Ocrevus ;
+*   (RU) Russian Federation : Ocrevus ;
+*   (SA) Saudi Arabia : Ocrevus ;
+*   (SE) Sweden : Ocrevus ;
+*   (SI) Slovenia : Ocrevus ;
+*   (SK) Slovakia : Ocrevus ;
+*   (TN) Tunisia : Ocrevus ;
+*   (TR) Turkey : Ocrevus ;
+*   (UA) Ukraine : Ocrevus ;
+*   (UY) Uruguay : Ocrevus ;
+*   (ZA) South Africa : Ocrevus焦瀚远
+
+====================================================================================================

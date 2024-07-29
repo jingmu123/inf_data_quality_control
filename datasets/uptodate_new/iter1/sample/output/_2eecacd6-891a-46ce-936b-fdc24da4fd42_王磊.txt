@@ -1,0 +1,307 @@
+【0】Symptom-based management of amyotrophic lateral sclerosis
+
+【1】INTRODUCTION 
+
+【2】Amyotrophic lateral sclerosis (ALS) is a progressive neurodegenerative disorder that causes muscle weakness, disability, and eventually death, with a median survival of three to five years. Symptomatic management is the mainstay of treatment for ALS and is reviewed in this topic.
+
+【3】Other aspects of ALS are discussed separately.
+
+【4】PROGNOSIS 
+
+【5】ALS is a progressive neurodegenerative disorder. Most ALS patients die within three to five years of diagnosis. However, longer survival is not rare. Approximately 30 percent of ALS patients are alive five years after diagnosis, and 10 to 20 percent survive for greater than 10 years. Factors associated with more favorable survival without respiratory failure include a younger age at symptom onset, longer delay from symptom onset to diagnosis, higher ALS functional rating scale score and forced vital capacity at presentation, and limb rather than bulbar symptom onset .
+
+【6】BREAKING THE NEWS 
+
+【7】Informing the patient and family of the diagnosis of ALS is a daunting task for the clinician. The diagnosis should always be given face to face, with enough time to ensure the patient and family do not feel rushed . It may be helpful to have the patient's support network present; European guidelines note a perceived advantage if the patient's network outnumbers the medical staff present at the meeting .
+
+【8】The initial encounter should be one of support and hope. It is important to give a warning that bad news is coming and to acknowledge and explore the patient's reaction. Allow for questions, offer support, and emphasize non-abandonment. Offer a second opinion if the patient wishes. It is often useful to schedule a return visit within a short time frame so that questions can be addressed and family members can attend if desired.
+
+【9】Many patients have a delay in diagnosis that is very distressing. For these patients, a diagnosis may be good news, in that uncertainty is reduced and active therapy can be initiated. The discussion of diagnosis should always be accompanied by a discussion of the ways that symptoms can be treated as well as by institution of disease-modifying treatment, assuming cost is not prohibitive.
+
+【10】MULTIDISCIPLINARY CARE 
+
+【11】Multidisciplinary ALS clinics provide care from neurologists, physical therapists, occupational therapists, speech therapists, respiratory therapists, dietitians, social workers, and nursing care managers . Thus, specialized clinics can guide the management of the complex issues related to ALS, which include respiratory symptoms, nutrition, dysarthria, dysphagia, functional decline, and psychosocial problems.
+
+【12】 **Multidisciplinary ALS clinics** – Although data are limited, some  but not all  studies suggest that patients with ALS who are followed by multidisciplinary or tertiary ALS centers have improved survival compared with those who are followed by general neurology clinics. In addition, multidisciplinary care may improve quality of life .
+
+【13】Current American guidelines state that specialized multidisciplinary clinic referral should be considered for patients with ALS, with the goals of optimizing health care delivery, prolonging survival, and enhancing quality of life . Similarly, European guidelines note that multidisciplinary care should be available for all people affected by ALS .
+
+【14】 **Palliative care** – ALS is a chronic disease, and early integration of palliative care can provide an added layer of support to help address progressive disability, symptom burdens, and family/caregiver stressors . Palliative care aims to enhance quality of life in all stages of a serious illness and does not have to be limited to end-of-life care. Comprehensive palliative support includes establishing goals of care that are in keeping with the patient's values and preferences; consistent and sustained communication between the patient and all caregivers; psychosocial, spiritual, and practical support to both patients and their family; and coordination across sites of care. Early evidence suggests specialty palliative care services may be successfully integrated into ALS care and are associated with improved quality of life and a reduction in intensive care unit days and length of hospitalization .
+
+【15】 **Hospice care** – At the end of life (expected prognosis of six months or less) or when goals shift exclusively to comfort, hospice should become involved . A discussion of advance directives should be initiated well in advance of the terminal phase and revisited at least every six months. The clinician should play an active role in helping patients and family members find resources in the community, and the clinician should also encourage the enlistment of a social worker.
+
+【16】Information for health care practitioners and patients regarding ALS management is available from the ALS Association and the Muscular Dystrophy Association . Both organizations certify clinics that have met a variety of quality and access criteria.
+
+【17】RESPIRATORY FUNCTION MANAGEMENT 
+
+【18】Our suggested management of respiratory symptoms in patients with ALS is based upon the available published data, consensus guidelines , and clinical experience. Important aspects of pulmonary care include counseling the patient and family about potential treatments, the use of pulmonary tests to assess respiratory function, and the utility of noninvasive and invasive ventilation . The general aspects of respiratory management in patients with neuromuscular disease are reviewed separately.
+
+【19】Counseling — At the time of initial diagnosis, discussion should focus on limited aspects of diagnosis and potential treatments. A discussion of respiratory options may be deferred at this visit if the patient has no respiratory symptoms and has a vital capacity (VC) >60 percent of predicted for age and height. However, respiratory management should be a topic of careful discussion very early in the course of a clinician's relationship with the patient.
+
+【20】Once beyond initial diagnosis but before respiratory symptoms occur, it is crucial to inform patients of the respiratory choices available to them and the need for their participation in the decision-making process. Decisions about late issues, such as the desire for tracheostomy and chronic ventilatory support, must be considered as part of a patient's overall care plan. Advance care planning should begin early and focus on what things matter most to patients. By understanding goals and values, clinicians can help guide patients through particular treatment decisions that arise.
+
+【21】At all stages of the disease, patients have the right to refuse or withdraw any treatment, including mechanical ventilation. When withdrawing ventilation, opioids and anxiolytics should be used in adequate doses to relieve dyspnea and anxiety.
+
+【22】It is important to offer patients information about the terminal stage of ALS and provide information to patients at any point in the disease course when they are ready. This is especially important once dyspnea or nocturnal hypoventilation begins or when the VC drops below 50 percent. Most patients will benefit from noninvasive ventilation at this point in disease. Patients may fear "choking to death," and describing the terminal hypercapnic coma and resulting peaceful death can provide relief from this fear in most patients and families .
+
+【23】Pulmonary tests — Patients with ALS should have serial assessment of respiratory function every three months starting at the time of diagnosis. Understanding of the pace of an individual's disease is very helpful for planning appropriate interventions at the right time. Risk factors for earlier progression of respiratory dysfunction include bulbar-onset disease, short time from symptom onset to diagnosis, and lower baseline ALS functional rating scale score and forced VC .
+
+【24】 **Vital capacity** – A decrease of VC to 25 percent of predicted is often associated with respiratory symptoms, and a VC of <25 to 30 percent of predicted is associated with significant risk of respiratory failure or sudden death . Hypoxia and hypercarbia are late findings and thus should **not** be relied upon as early predictors of the need for mechanical ventilation or other forms of respiratory support .
+
+【25】Although widely used, the VC is not an ideal test of respiratory muscle strength in patients with ALS, in part because the shape of the lung pressure volume curve makes the VC insensitive to modest changes in muscle strength . In addition, patients with ALS and bulbar weakness may not have enough strength to make a complete seal around the mouthpiece, particularly in later stages of disease progression. This potentially limits the clinical utility of the VC at a time when prognostic information is most urgently needed regarding initiation of noninvasive ventilation.
+
+【26】 **Maximal sniff inspiratory force** – Another alternative, the maximal sniff nasal inspiratory force (SNIF; also called the sniff nasal pressure), avoids the need for a mouthpiece and thus may be better suited than the VC and MIP for testing patients with bulbar weakness. In addition, the SNIF has been shown to correlate well with diaphragm strength , and it is sensitive to changes in respiratory muscle strength .
+
+【27】In a prospective observational study of 98 patients with ALS, a higher proportion of patients could still perform the SNIF at the last clinic visit (before death or study completion) compared with the VC or MIP  . In this study, a SNIF of <40 cm H 2 O had a higher sensitivity for predicting six-month mortality compared with a VC of <50 percent maximum  but a slightly lower specificity .
+
+【28】These results support the impression that the SNIF test is clinically useful for monitoring respiratory muscle strength in patients with ALS. However, the prognostic value of the SNIF requires confirmation in larger clinical studies.
+
+【29】 **Others** – Other pulmonary function tests that may be used to monitor respiratory status in ALS include the maximal inspiratory pressure (MIP) and overnight oximetry. The MIP may have similar limitations as VC, as patients with bulbar weakness may be unable to perform the test accurately due to difficulty forming a complete seal around the testing mouthpiece. Overnight oximetry is an alternative approach, using peripheral monitoring of blood oxygenation, typically in the home setting, to assess for changes in minute ventilation during sleep. In a study of 476 patients with ALS monitored with serial respiratory testing, neuromuscular respiratory weakness was identified earlier by MIP and overnight oximetry than VC testing (median of 1.5 and 1.6 versus 3.8 years from disease onset) .
+
+【30】Noninvasive positive pressure ventilation — We suggest the use of noninvasive positive pressure ventilation (NPPV) for patients with ALS and respiratory insufficiency . Criteria for initiating noninvasive ventilation include VC <50 percent of predicted, or the presence of orthopnea, or SNIF <40 cm, or MIP <-60 cm, or abnormal nocturnal oximetry. These criteria are most commonly employed at ALS centers and are recommended by guidelines .
+
+【31】NPPV is the evidence-based standard of care for patients with ALS and respiratory insufficiency . Noninvasive ventilation is associated with improved survival and quality of life . It is especially useful if patients have symptoms of respiratory compromise at night, but patients often use it during waking hours as the disease progresses. The development of portable ventilators with volume-targeted pressure support have enhanced noninvasive respiratory support options for patients with ALS, particularly in those compliant with ≥4 hours of NPPV each day  and those without severe bulbar dysfunction . A retrospective cohort study found that NPPV was associated with improved survival even in patients with bulbar-onset ALS , although this result is inconsistent with some other reports.
+
+【32】As adjustment to NPPV requires time and patience on the part of respiratory therapists and patients, it should be initiated as early as possible in patients with respiratory compromise.
+
+【33】Patient tolerance of the face mask used is crucial to the success of NPPV. There are many face masks to choose from , and patients must be encouraged not to forgo treatment if they are not comfortable with the initial interface. Occasionally, small doses of anxiolytic medications will help with the adjustment as well.
+
+【34】The use of NPPV is not a substitute for permanent assisted ventilation, and careful decision-making regarding desire for tracheostomy and permanent ventilation must be ongoing, whether or not NPPV is employed .
+
+【35】Invasive mechanical ventilation — Though there is significant variability, mean survival with invasive mechanical ventilation (IMV) is estimated at approximately 30 months . In a cross-sectional analysis on the impact of different symptom-specific treatments in German patients with ALS, tracheostomy was associated with an improved quality of life . However, caregiver satisfaction was lower in patients on IMV. When long-term survival is the goal, tracheostomy and IMV should be considered and discussed carefully with attention to the full burdens and benefits of this treatment. Discussions should also include the option to stop the ventilation at any time . Since the disease will progress despite IMV, discussions should also include patient preferences regarding future withdrawal of IMV. Some patients may, for example, express a wish for ventilation to be withdrawn in the future if they reach a "locked-in state" (unable to communicate) or develop severe dementia. For patients who choose to stop invasive ventilation, symptoms of dyspnea, anxiety, and distress should be anticipated and treated.
+
+【36】For most patients in the United States, the demands of invasive ventilation are difficult or impossible to manage at home, and nursing home placement results. Rates of IMV use in ALS vary greatly among countries, with estimated rates of 4 percent in the United States, 10 percent in Italy, and 29 to 38 percent in Japan .
+
+【37】Immunizations — Current infectious disease guidelines recommend annual seasonal influenza vaccination for individuals with neurologic conditions that can potentially compromise the handling of respiratory secretions.
+
+【38】In addition, the pneumococcal vaccine is recommended for all individuals with chronic pulmonary conditions.
+
+【39】Therefore, patients with ALS should be treated with pneumococcal vaccination and annual seasonal influenza vaccination.
+
+【40】MANAGEMENT OF SWALLOWING AND NUTRITION 
+
+【41】Weight loss is common in ALS and may be due to dysphagia, poor appetite, or difficulty self-feeding due to arm weakness. Dysphagia increases the risk for insufficient caloric and fluid intake and worsening of weakness and fatigue . It also increases the risk for aspiration and choking. Many ALS patients with feeding tubes may still be able to eat small amounts of a modified diet by mouth.
+
+【42】 **Anorexia** – For patients with reduced appetite but preserved swallowing function, the first step is to determine if anorexia is due to a mood disorder. Cognitive impairment and mood disorders are common in patients with ALS.
+
+【43】For patients with primary anorexia, medications may be offered to help stimulate the appetite. Olanzapine may be used based on efficacy among patients with cancer or anorexia nervosa. Other agents, including stimulants such as mirtazapine , megestrol, and glucocorticoids, have been used, but evidence of their efficacy is limited.
+
+【44】 **Dysphagia** – Initial management of dysphagia includes modification of food and fluid consistency.
+
+【45】For patients with dysphagia that does not respond to or worsens despite modifications in food consistency, we pursue additional strategies. We suggest PEG placement for patients with ALS with normal to moderately impaired respiratory function who have symptomatic dysphagia. We particularly focus on patients for whom eating has become a burden rather than a source of enjoyment.
+
+【46】PEG placement should first be discussed with the patient and family members. It is best to enlist a speech-language pathologist and nutritionist early in the treatment when potential decisions about long-term feeding and hydration are entertained.
+
+【47】For optimal safety and efficacy, PEG should be placed before the vital capacity (VC) falls to 50 percent of predicted and not in the preterminal phase, even if symptomatic dysphagia is not present at that time . This recommendation is based on the increased morbidity of the procedure as respiratory function declines.
+
+【48】The effect of gastrostomy tubes on survival and quality of life has been examined in multiple studies with mixed results . A causal inference analysis from 2017 found a negative effect on survival and no improvement in quality of life in patients undergoing gastric tube placement . In contrast, a 2019 meta-analysis demonstrated a 6-month survival benefit in patients undergoing gastrostomy, with greater benefit seen in patients who had preserved respiratory function. Mood and functional status were not significantly improved .
+
+【49】In a preliminary randomized controlled trial of 24 patients with ALS already receiving percutaneous nutrition, there were fewer adverse events, including death, over the course of the trial (four months) and subsequent follow-up (five months) in patients assigned to a high-carbohydrate, hypercaloric diet compared with those assigned to a high-fat, hypercaloric diet or an isocaloric diet . These results suggest, but do not establish, that the high-carbohydrate, hypercaloric enteral diet is safe. However, they do **not** provide evidence of efficacy regarding improvement in survival or other patient-important outcomes, given the small number of subjects with relatively advanced disease who were studied. A larger placebo-controlled trial in 201 patients with ALS found no improvement in survival with an oral high-calorie and fat-supplemented diet, although post hoc analysis suggested a possible effect in fast-progressing patients .
+
+【50】MANAGEMENT OF OTHER ASSOCIATED SYMPTOMS 
+
+【51】Among the prominent symptoms of ALS addressed by national guidelines are dyspnea, muscle spasm, spasticity, sialorrhea, and pseudobulbar affect .
+
+【52】Equally important and potentially debilitating are other problems associated with ALS. These include dysarthria, muscle weakness, functional decline, loss of ambulation, pain, sleep problems, and psychosocial issues such as depression. These issues have not been addressed systematically by high-quality randomized controlled trials . Where no guideline recommendations are available, the suggestions listed here are largely based upon clinical experience and other expert reviews .
+
+【53】Dysarthria and communication — The progression of muscle weakness may make speech increasingly difficult and ultimately impossible. Speech therapy is rarely helpful; however, communication disorders specialists are important resources to help with choosing appropriate alternative communication methods. These methods may include writing with pen and paper or alphabet boards. Electronic assistive communication devices, which can be adapted for use with either hand or eye controls, may improve quality of life for patients and caregivers and should be offered early in the disease course .
+
+【54】Dyspnea — Early symptoms of respiratory insufficiency include orthopnea, morning headache, daytime fatigue, and dyspnea on exertion. First-line treatment is noninvasive ventilation for patients who tolerate it. Providing adequate relief for dyspnea and anxiety is paramount, as these are two of the most prevalent and unpleasant symptoms in the terminal phase . However, there are no controlled studies evaluating the treatment of dyspnea in ALS . The suggested approach is as follows.
+
+【55】 The use of noninvasive positive pressure ventilation (NPPV) may ameliorate dyspnea.
+
+【56】 Identify and treat reversible causes of dyspnea such as bronchospasm and pneumonia.
+
+【57】 General supportive measures to treat dyspnea include relaxation techniques and psychosocial support, modification in activity level, and use of a fan with cool air blowing on the face. Trunk elevation, chest physiotherapy, and reassurance may be helpful.
+
+【58】 For distressing dyspnea, systemic opioids are useful as second-line treatment when symptoms persist despite NPPV or if NPPV is not tolerated. Dosing is discussed separately.
+
+【59】 For patients with dyspnea that is refractory to opioids or accompanied by anxiety, benzodiazepines may be a useful adjunctive therapy. This may be especially needed in the terminal phases of ALS. However, the evidence does not support a role for benzodiazepines as a routine management strategy for dyspnea in the absence of anxiety.
+
+【60】 For patients in the last days and hours of life with dyspnea, pain, or agitated delirium, palliative sedation with nonopioid drugs, including benzodiazepines, barbiturates, and propofol , can be used to control refractory symptoms.
+
+【61】 Oxygen therapy is not recommended for the treatment of dyspnea in ALS except in some cases during the active dying process. Supplemental oxygen may worsen hypercapnia, particularly in patients not receiving noninvasive ventilation.
+
+【62】Fatigue — Fatigue is among the most common symptoms of ALS and reported in approximately 90 percent of patients . Few controlled studies have addressed the pharmacologic treatment of fatigue in ALS . Fatigue due to hypoventilation may improve with noninvasive ventilation. Fatigue is occasionally associated with riluzole treatment but more commonly is a manifestation of the effort required to perform daily activities. The results of a small controlled trial suggest that modafinil is sometimes helpful for fatigue . Permanent or temporary withdrawal of riluzole may be considered in patients with debilitating fatigue .
+
+【63】Other treatment options for fatigue include glucocorticoids (eg, a two-week trial of dexamethasone 8 mg daily) and megestrol acetate .
+
+【64】Muscle spasms — Muscle spasms or cramps can cause severe pain and discomfort. Nonpharmacologic treatments such as stretching and massage can be helpful.
+
+【65】Mexiletine , a sodium channel blocking antiarrhythmic drug, is an option in patients with frequent and painful cramps. Mexiletine was shown to be safe and was noted to have dose-dependent positive effects on muscle cramps in a subset of patients enrolled in a 12-week randomized trial that failed to show a benefit on ALS disease progression compared with placebo . A follow-up trial of mexiletine 150 mg twice daily in 20 patients with ALS and muscle cramps found that mexiletine decreased mean daily cramp frequency by approximately two cramps per day compared with placebo (from a mean baseline of six cramps per day) . There were no serious adverse events or QT interval changes over the two-week treatment period, and the drug was well tolerated at the prescribed dose of 300 mg per day; one patient discontinued the study due to dizziness. Patients with heart disease, baseline electrocardiogram abnormalities, or liver disease were excluded. A higher dose of 900 mg per day was not well tolerated in the earlier trial . In addition to dizziness, other common dose-related side effects include nausea, tremor, and falls. Gradual dose titration may improve tolerability.
+
+【66】Previously, quinine sulfate 325 mg twice a day was considered the most effective treatment option for muscle cramps . However, the US Food and Drug Administration restricted the use of quinine sulfate in the United States to the treatment of malaria falciparum because of concerns regarding severe adverse events, including cardiac arrhythmias, thrombocytopenia, and severe hypersensitivity reactions, as well as potentially serious drug interactions associated with quinine .
+
+【67】Other treatment options for muscle spasms or cramps include levetiracetam , carbamazepine , and phenytoin . Other medications that have been tried for cramps include baclofen , gabapentin , and tizanidine , but their utility is quite limited.
+
+【68】Spasticity — Spastic muscle tone may be useful to help patients maintain antigravity power as muscle weakness progresses. However, excess spasticity can be uncomfortable and negatively impact coordination, ambulation, dressing, and other activities of daily living. In such cases, an oral antispasticity drug (eg, baclofen , tizanidine ) is generally indicated as a first-line symptomatic option . Botulinum neurotoxin (BoNT) injections can be useful when oral therapy is not effective or well tolerated. Baclofen pumps may be useful in a subset of patients with severe spasticity of the lower extremities that does not improve with adequate doses of antispasticity medications.
+
+【69】There are few data regarding pharmacotherapy for spasticity in ALS . A systematic review found no high-quality randomized controlled trials evaluating treatments for spasticity in ALS/motor neuron disease . Nevertheless, the available studies in other neurologic conditions suggest that baclofen and tizanidine are roughly equivalent in efficacy as antispasticity drugs and have similar rates of adverse events . In the author's experience, baclofen tends to be better tolerated and more effective than tizanidine; for both drugs, weakness and drowsiness are often dose limiting. Combinations of more than one antispasticity drug are poorly tolerated in patients with ALS due to excess weakness.
+
+【70】 Baclofen can be started at 5 mg two to three times daily. The total dose can be titrated up as necessary in three- to seven-day increments as tolerated. Titration can be slowed if side effects develop and stopped once an effective dose is reached. The usual maximum daily dose is 80 mg, although total daily doses up to 120 mg per day may be needed, depending on response and tolerance. Except in patients with a primary lateral sclerosis phenotype, a baclofen pump is usually not considered.
+
+【71】 Tizanidine can be started at 2 to 4 mg by mouth twice daily. The total dose can be titrated up as necessary in three- to seven-day increments as tolerated. In the author's experience, total doses above 24 mg daily do not offer additional benefit and are not well tolerated in patients with ALS. Weakness, fatigue, and drowsiness tend to be dose limiting at higher doses.
+
+【72】For patients who do not tolerate or benefit from an oral antispasticity drug, botulinum toxin injections are an option. Limited experience suggests that BoNT ( incobotulinumtoxinA ) combined with physical therapy is safe in patients with ALS and improves tone and clinical function at three months .
+
+【73】Preliminary data suggest that cannabinoids may have modest effects on spasticity and pain, although further studies are needed to understand whether effects are clinically meaningful. In a randomized trial in 59 patients with ALS, nabiximols , an oromucosal cannabidiol/tetrahydrocannabinol spray available in some countries outside the United States, improved spasticity scores on a 5-point scale compared with placebo (mean difference 0.32 points) and was well tolerated over a six-week treatment period .
+
+【74】Muscle weakness and functional decline — Progressive muscle weakness and functional decline are hallmarks of ALS. Efforts must be made to help patients compensate for this nearly inevitable progression .
+
+【75】 Assistive devices such as canes, ankle foot orthoses, crutches, and walking frames can be helpful early in the course of the disease and may improve quality of life . Most patients will eventually require a wheelchair.
+
+【76】 Higher toilet seats and bathtub lifts help to maintain toileting and bathing independence.
+
+【77】 Removable headrests can help with the loss of head control that occurs with neck muscle weakness.
+
+【78】 Specialized eating utensils, grips, and holders can be useful.
+
+【79】 A pressure-relieving mattress of air or high-density foam, along with proper positioning and repositioning, may help to prevent the development of pressure ulcers.
+
+【80】Limited data suggest that stretching and strengthening exercises are not harmful and may be associated with functional benefit for patients with ALS , but larger studies are needed to confirm these preliminary findings.
+
+【81】Sialorrhea — Drooling is a common symptom in ALS . It is caused by the combination of facial muscle weakness and reduced swallowing ability (pseudohypersalivation). The clinician must distinguish between sialorrhea and thick mucus production because treatment of these symptoms differs .
+
+【82】First-line therapy involves anticholinergic medications such as :
+
+【83】 Atropine 0.4 mg every four to six hours.
+
+【84】 Hyoscyamine is available in several formulations, including sustained release , fast-acting oral , and transdermal (one or two patches every three days).
+
+【85】 Amitriptyline 10 to 150 mg once daily at bed time.
+
+【86】 Glycopyrrolate 1 mg three times daily.
+
+【87】 Scopolamine transdermal, one patch  applied behind the ear. After three days, remove the old patch and replace with new patch behind the other ear.
+
+【88】If these medications are not effective or tolerated, the following procedures may be used:
+
+【89】 Botulinum toxin injection into the salivary glands appears to be safe and useful for treating sialorrhea in patients with ALS, as demonstrated in preliminary studies  and in a small randomized controlled trial of botulinum toxin type B ( rimabotulinumtoxinB ) . However, botulinum toxin injection should be used cautiously as it has been associated with prolonged dysphagia in patients who have Machado-Joseph disease with bulbar involvement, dystonia, and parkinsonism .
+
+【90】 Low-dose radiation therapy to the salivary glands is suggested if sialorrhea does not improve with pharmacologic therapy .
+
+【91】Thick mucus — Thick mucus production associated with sialorrhea and increased oropharyngeal secretions can be treated in several ways :
+
+【92】 Increased fluid intake
+
+【93】 Mucolytic (eg, acetylcysteine 200 to 400 mg three times daily) if sufficient cough flow is present
+
+【94】 Humidification of air
+
+【95】 Cough augmentation with respiratory therapy
+
+【96】 Cough augmentation with mechanical insufflation-exsufflation devices
+
+【97】Pain — Pain in ALS can arise from a variety of causes that include reduced mobility, muscle spasms or cramps, spasticity, and comorbid conditions. Reduced mobility can cause musculoskeletal pain as well as pressure-induced skin and soft tissue injury .
+
+【98】There is little high-quality evidence concerning the management of pain in ALS . Attentive nursing care is important, since frequent changes in position can help prevent skin breakdown and joint stiffness in patients with reduced mobility . Assistive devices such as special mattresses, pillows, and custom-fitted wheelchairs may also help to prevent pain .
+
+【99】Additional management options include :
+
+【100】 Treatment of muscle spasticity and spasms
+
+【101】 Nonopioid analgesics and antiinflammatory drugs
+
+【102】 Opioids can be used liberally when nonopioid analgesics fail
+
+【103】Pseudobulbar affect — Pseudobulbar affect (PBA; also called emotional lability, emotional incontinence, or pathological laughing and crying \[PLC\]) is a term that describes sudden uncontrollable outbursts of laughter or tearfulness that occur in many patients with ALS as the disease progresses . The pathology underlying PBA is not well understood but may be due to impairment of descending corticobulbar input and/or cerebellar modulation controlling emotional expression . Although its prevalence is unknown, limited retrospective data suggest that pseudobulbar palsy may affect close to 50 percent of patients with ALS (though not all affected need treatment for it), and it is more common in those with the bulbar form . Patients should be counseled that the symptoms of pseudobulbar affect do not reflect a psychological disorder.
+
+【104】Treatment options for pseudobulbar affect include :
+
+【105】 The combination drug dextromethorphan-quinidine ; the recommended starting dose is one capsule once daily for seven days then increase to one capsule twice daily with periodic reassessment to determine if continued use is necessary.
+
+【106】 Tricyclic antidepressants such as amitriptyline 10 to 150 mg at bedtime ; the starting dose is 10 to 25 mg at bedtime, and dosing is increased slowly as needed.
+
+【107】 Selective serotonin reuptake inhibitors such as fluvoxamine 100 to 200 mg daily .
+
+【108】A controlled trial of 140 subjects with ALS found that twice-daily treatment with a combination of dextromethorphan and quinidine  was effective for reducing the frequency and severity of pathologic laughter and crying compared with either drug alone . Treatment was also associated with an improvement in quality of life. Adverse events were described as mostly mild or moderate and included nausea, dizziness, and gastrointestinal complaints. However, treatment-related discontinuation for the combination was 24 percent during the four-week duration of the trial compared with 6 percent for dextromethorphan and 8 percent for quinidine. However, another trial using two formulations with lower dose quinidine in the combination drug dextromethorphan-quinidine  reported reduction of PBA episodes and lower discontinuation rates than observed for the higher dose formulation evaluated in the earlier trial . On the basis of efficacy data, dextromethorphan-quinidine was approved for treatment of PBA in 2010 .
+
+【109】Dextromethorphan is a weak N-methyl-D-aspartate (NMDA) receptor antagonist, and it is proposed to act as an agonist at the sigma 1 receptor . However, its mechanism of action for treating pseudobulbar palsy is unknown. In approximately 90 percent of people, dextromethorphan is rapidly metabolized by the cytochrome P450 2D6 enzyme (CYP2D6) , and quinidine is a selective CYP2D6 inhibitor . Thus, the coadministration of quinidine reduces the metabolism and maintains serum plasma levels.
+
+【110】Neither amitriptyline nor fluvoxamine has been studied for the treatment of pseudobulbar palsy in controlled trials. However, the results of several small, placebo-controlled, randomized trials involving patients with stroke suggest that some aspects of pseudobulbar affect respond to treatment with antidepressants, including nortriptyline , sertraline , and fluoxetine .
+
+【111】Cognitive impairment — ALS is associated with an increased incidence of frontotemporal dementia (FTD). FTD is a form of dementia characterized by symptoms of apathy, difficulties planning and organizing (executive function), and often either behavioral disturbances or language impairment. Since many patients develop severe dysarthria and impaired motor function affecting ability to write from ALS, it is sometimes difficult to fully assess cognitive function in advanced ALS. It is estimated that up to 30 percent of ALS patients have cognitive impairments in executive function not meeting criteria for dementia , and up to 15 percent meet criteria for FTD.
+
+【112】Psychosocial aspects — Quality of life in patients with ALS appears to be more dependent on psychological and existential factors than physical factors such as strength or physical function . Depression and hopelessness are common in patients with ALS. In a meta-analysis of 46 studies, the pooled prevalence of depression among patients with ALS was 34 percent but varied by severity and assessment tool used . In a cohort of over 900 patients, the prevalence of moderate depression assessed by patient questionnaire was 33 percent , while prevalence estimates acquired from structured interviews of patients with ALS range from 5 to 15 percent . Nonetheless, these rates are higher than the 9 percent prevalence rate reported for current depression in the general population .
+
+【113】The presence of depression does not appear to be associated with a desire to hasten dying in patients with end-stage ALS . However, initial depression has been associated with shorter survival time .
+
+【114】 **Managing psychologic wellbeing** – Behavioral therapy with counseling may help sustain or improve quality of life for some patients with ALS, even those without depression . In a clinical trial of 191 patients with ALS that assessed the role of Acceptance and Commitment Therapy (ACT), a type of psychotherapy, quality-of-life measures on the Quality of Life Questionnaire-Revised were higher in patients assigned to ACT than those assigned to usual care at six-month follow-up (adjusted mean difference 0.54 \[95% CI 0.02-1.06\]) . In addition, there was a trend toward improvement of baseline quality-of-life measures with ACT at six and nine months. ACT emphasizes acceptance, mindfulness, and engagement with life-enriching activities and was administered as eight one-hour sessions by trained therapists. Most patients had been diagnosed with ALS within the preceding year and depression at baseline was present in 9 percent.
+
+【115】 **Managing depression** – Observational data suggest that treatment of depression can improve quality of life in ALS, even in physically debilitated patients . However, there are no controlled trials evaluating the treatment of depression in ALS .
+
+【116】It may be useful to try a tricyclic antidepressant such as amitriptyline , since it also treats other symptoms of ALS such as drooling, pseudobulbar affect, and insomnia. Selective serotonin reuptake inhibitors may also be used, particularly if side effects of tricyclics are poorly tolerated.
+
+【117】Sleep problems — Sleep difficulty is often secondary to other problems associated with ALS. These include anxiety, depression, dysphagia, and dyspnea; inability to change posture during sleep because of weakness, muscle cramps, and fasciculations contributes to this as well .
+
+【118】 The first step is to identify and treat underlying causes.
+
+【119】 Nocturnal oximetry or polysomnography can identify patients with oxygen desaturation who might benefit from noninvasive intermittent ventilation or NPPV .
+
+【120】 Sedatives should be used sparingly. While there are no trials evaluating the treatment of insomnia in ALS, suggested choices at bedtime include zolpidem 5 to 10 mg, amitriptyline 10 to 150 mg, mirtazapine 15 to 45 mg, chloral hydrate 250 to 500 mg, diphenhydramine 25 to 50 mg, and flurazepam 15 to 30 mg .
+
+【121】Links to society and government-sponsored guidelines from selected countries and regions around the world are provided separately.
+
+【122】INFORMATION FOR PATIENTS 
+
+【123】Here are the patient education articles that are relevant to this topic. We encourage you to print or email these topics to your patients. (You can also locate patient education articles on a variety of subjects by searching on "patient info" and the keyword(s) of interest.)
+
+【124】 Basics topic
+
+【125】 **Prognosis and the role of multidisciplinary care** – Most patients with amyotrophic lateral sclerosis (ALS) die within three to five years of diagnosis. However, longer survival is not rare. Patients who receive multidisciplinary care at specialized ALS clinics appear to have improved survival compared with those who are followed by general neurology clinics. Palliative care should be provided at the time of diagnosis. Palliative care aims to relieve suffering in all stages of disease and does not have to be limited to end-of-life care. As ALS progresses and the expected prognosis is six months or less or when goals shift exclusively to comfort, hospice should become involved.
+
+【126】 **Management of respiratory symptoms**
+
+【127】• **Counseling** – Before respiratory symptoms occur in ALS, it is crucial to inform patients of both the available respiratory management choices and the need for their participation in the decision-making process. At all stages of the disease, patients have the right to refuse or withdraw any treatment.
+
+【128】• **Serial assessments of pulmonary function** – For all patients with ALS, we suggest serial assessment of pulmonary function every three months starting at the time of diagnosis. Useful measures include the vital capacity (VC), maximal inspiratory pressure (MIP), and maximal sniff nasal inspiratory force (SNIF). The SNIF avoids the need for a mouthpiece and thus may be better suited than the VC or MIP for testing patients with bulbar weakness.
+
+【129】• **Ventilatory support for respiratory compromise** – For patients with ALS and respiratory insufficiency, we suggest the use of noninvasive positive pressure ventilation (NPPV) . Suggested criteria for when to initiate NPPV are as follows:
+
+【130】\- VC <50 percent of predicted, or
+
+【131】\- Presence of orthopnea, or
+
+【132】\- SNIF <40 cm, or
+
+【133】\- MIP <-60 cm, or
+
+【134】\- Abnormal nocturnal oximetry
+
+【135】When long-term survival is the goal, invasive mechanical ventilation (IMV) is an option.
+
+【136】• **Immunizations** – Patients with ALS should be treated with pneumococcal vaccination and annual seasonal influenza vaccination.
+
+【137】 **Percutaneous gastrostomy tube placement for dysphagia** – For willing patients with ALS who have symptomatic dysphagia, we suggest percutaneous gastrostomy tube (PEG) placement . For optimal safety, PEG should be placed before the VC falls to ≤50 percent of predicted.
+
+【138】 **Symptomatic management** – Additional prominent symptoms of ALS may benefit from specific interventions. These include:
+
+【139】• Dysarthria
+
+【140】• Dyspnea
+
+【141】• Muscle spasms
+
+【142】• Muscle spasticity
+
+【143】• Muscle weakness and functional decline
+
+【144】• Sialorrhea
+
+【145】• Fatigue
+
+【146】• Thick mucus
+
+【147】• Pain
+
+【148】• Pseudobulbar affect
+
+【149】• Cognitive impairment, including frontotemporal dementia (FTD)
+
+【150】• Psychosocial aspects
+
+【151】• Sleep problems
+
+【152】However, there are few controlled trials evaluating these issues in patients with ALS. Thus, most recommendations are based upon clinical experience and expert consensus.王磊
+
+====================================================================================================

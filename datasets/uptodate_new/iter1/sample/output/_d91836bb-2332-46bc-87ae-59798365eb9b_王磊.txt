@@ -1,0 +1,147 @@
+【0】Hantavirus cardiopulmonary syndrome
+
+【1】INTRODUCTION 
+
+【2】Of the more than 20 known species of rodent-borne viruses within the genus _Orthohantavirus_ , family Hantaviridae, at least 11 are associated with human disease. Two major forms of hantavirus disease are recognized: hemorrhagic fever with renal syndrome (HFRS) and hantavirus cardiopulmonary syndrome (HCPS; also called HPS) .
+
+【3】Among the agents of HCPS, the most severe forms are associated with Sin Nombre virus and the southern (prototypical) form of Andes virus; slightly milder forms are caused by the northern form of Andes virus (Andes-Nort), Laguna Negra virus, and Choclo virus . Other South American genotypes such as Rio Mamore virus , HU39694 , Maripa virus , Juquitiba virus , and Castelo de Sonhos virus  have emerged sporadically or in small outbreaks. In general, case-fatality ratios of HCPS range from 30 to 50 percent for severe forms and 10 to 30 percent for milder forms . The illness caused by Choclo virus (Panama) is the mildest form of HPS in that it nearly always or always lacks a significant component of cardiac insufficiency and is associated with a markedly lower case-fatality ratio.
+
+【4】The clinical manifestations of HCPS will be discussed here. The clinical manifestations of HFRS are discussed elsewhere. The etiologic agents of other human hantavirus diseases and the diagnosis of these pathogens are reviewed elsewhere.
+
+【5】HISTORICAL PERSPECTIVE 
+
+【6】In May 1993, clinicians working with the Indian Health Service in the Four Corners region of the southwestern United States noted a cluster of cases of a severe and acute respiratory illness affecting previously healthy young adults. The syndrome was characterized by a nonspecific prodrome, followed by the rapid development of noncardiogenic pulmonary edema and hemodynamic compromise, and carried a high mortality .
+
+【7】A rapid response to the newly described syndrome was initiated by the Indian Health Service, the University of New Mexico School of Medicine, state health officials, and the United States Centers for Disease Control and Prevention. Within weeks, sera from patients were demonstrated to be broadly reactive to conserved regions of viruses of the genus _Hantavirus_ . Members of this genus previously had been identified as the etiologic agents of hemorrhagic fever with renal syndrome (HFRS), which occurs principally in Europe and Asia .
+
+【8】An extensive rodent-trapping campaign was initiated, based upon an early case-control study that identified contact with rodents as the principal risk factor for illness in the Four Corners outbreak and the knowledge that a rodent reservoir was responsible for the transmission of HFRS. Researchers identified an unusually large population of deer mice ( _Peromyscus maniculatus_ ) with evidence of hantavirus infection by serology and reverse-transcriptase polymerase chain reaction . The genetic characterization of a new member of the genus _Hantavirus_ , termed Sin Nombre virus (SNV), followed these developments, and the illness it caused was named hantavirus cardiopulmonary syndrome .
+
+【9】It soon became clear that HCPS predated the Four Corners outbreak, with retrospective diagnoses being made for cases that occurred as far back as 1959 . It also became apparent that HCPS due to SNV or closely related viruses occurred throughout North and South America. Between 1993, when HCPS was identified in the United States, and January 2021, 833 confirmed cases were reported from 38 states, the majority of which were in the southwestern United States . Ninety-six percent of cases occurred west of the Mississippi River as of 2017, a trend that continues . Most cases reported in the United States occurred in May, June, and July . Cases have also been identified in Canada and in Central and South America .
+
+【10】CLINICAL CASE DEFINITION 
+
+【11】The United States Centers for Disease Control and Prevention defines a clinical case of HCPS as follows: a febrile illness (eg, temperature greater than 101°F \[38.3°C\]) characterized by bilateral diffuse interstitial edema that may radiographically resemble adult respiratory distress syndrome, with respiratory compromise requiring supplemental oxygen developing within 72 hours of hospitalization, occurring in a previously healthy person. Alternatively, a case can be defined as an unexplained respiratory illness resulting in death, with an autopsy examination demonstrating noncardiogenic pulmonary edema without an identifiable cause. These case definitions are not themselves diagnostic of HCPS but were chosen to be inclusive.
+
+【12】The US Public Health Service's national database requires virus-specific laboratory confirmation before a case is recorded as HCPS. HCPS is reportable in the United States.
+
+【13】CLINICAL FEATURES 
+
+【14】The clinical progression of hantaviral illnesses advances through the several sequential stages discussed below. In some cases, patients will experience a course of illness that is truncated at the earliest stage of illness, the prodromal stage; in many regions outside of North America, patients develop antibodies to hantaviruses with few or no apparent clinical manifestations.
+
+【15】Incubation period — Typically, a period of two to three weeks elapses between exposure to a hantavirus and the first symptoms . Isolated cases with shorter or longer incubation periods have also been reported. In a study of 11 patients with hantavirus who had well-defined and isolated exposure to rodents, the median incubation period was 14 to 17 days (range 9 to 33 days) . However, in a case that was reported subsequently, the estimated incubation period was approximately seven weeks . Epidemiologic studies have demonstrated that many hantaviruses are inhaled and reach the lung parenchyma where they are taken up by local phagocytes, which are then transported to draining lymph nodes.
+
+【16】Prodrome/febrile phase — The earliest clinical manifestations of HCPS consist of fever, chills, and myalgias, the latter of which can be quite severe. At this stage, HCPS is difficult to distinguish from other viral syndromes. However, an experienced clinician often suspects HCPS during the prodromal phase of illness because the constellation of clinical findings and setting (eg, likely rodent exposures such as in a rural setting) are characteristic of HCPS but not of other illnesses.
+
+【17】During this two- to eight-day phase, the disease increases in severity at a rapid pace, often leading to nausea, vomiting, weakness, and sometimes diarrhea. Headaches are sometimes prominent. Abdominal pain can be significant enough to mislead the clinician into considering a diagnosis of acute abdomen.
+
+【18】Classic features of upper respiratory tract diseases such as rhinorrhea, pharyngitis, coryza, and ear pain are notably absent in most patients with hantavirus diseases, except for cough. Pharyngitis is sometimes observed in children with HCPS.
+
+【19】Some forms of HCPS (eg, Andes-HCPS) can present with conjunctivitis, facial flushing, and varying numbers of fine petechiae on the trunk, axillary folds, soft palate, or neck. These findings are generally absent in the North American form of HCPS.
+
+【20】The prodromal phase is followed by the rapid onset of hypotension and noncardiogenic pulmonary edema, as discussed below.
+
+【21】Cardiopulmonary phase — The "cardiorespiratory" or "cardiopulmonary" phase denotes the point at which capillary leak into the pulmonary bed occurs, and a state of reduced cardiac output complicates many severe cases. This phase can last from two to more than seven days depending upon the overall severity of the infection .
+
+【22】A dry cough often heralds the abrupt transition to the cardiopulmonary phase . The rapidity with which the features of the prodromal phase progress to shock, coagulopathy (with hemorrhage common in infections due to Andes virus), pulmonary edema, bronchorrhea, arrhythmias, and death have led experienced clinicians to triage patients with hantavirus infection to a tertiary care center at the earliest possible stage of disease . Once the first signs of cardiopulmonary involvement are apparent, it is not uncommon for the local clinician to be caught in the difficult bind of attempting to transport a critically ill patient to a tertiary care center hours away, as most cases occur in rural settings.
+
+【23】Oliguric and diuretic phases — Separate phases characterized by oliguria (three to seven days) then diuresis of variable length have been reported for hemorrhagic fever with renal syndrome but are emphasized less in clinical descriptions of HCPS .
+
+【24】Convalescent phase — The resolution of the cardiorespiratory phase of HCPS can occur almost as quickly and dramatically as the onset, over periods as short as 24 to 48 hours. However, complete recovery from severe HCPS can be a slow process .
+
+【25】LABORATORY FINDINGS 
+
+【26】The earliest and among the more specific laboratory abnormalities is a rapid decline in the platelet count; this occurs as early as the prodromal phase of illness . Other important but less specific abnormalities include an increase in serum levels of lactate dehydrogenase, which often occurs early, and elevations in hepatocellular enzymes and serum lactate, which occur later .
+
+【27】Immunoblasts, resembling those that are observed in the lungs and lymphoid tissues of patients who have succumbed to HCPS, become abundant in the blood when the patient advances from the prodromal into the cardiorespiratory stage of illness . This change is concomitant with the appearance of markedly left-shifted cells of the granulocytic series. While the decrease in the platelet count appears early in the course of illness, thrombocytopenia does not reliably distinguish those who will develop the most severe forms of the disease from those who will go on to experience a less severe course of illness. By contrast, leukocytosis (as high as 90,000 cells/microL) and the appearance of immunoblasts are more pronounced in those patients with severe forms of illness. Neutrophils may be important in the pathogenesis of hantavirus disease .
+
+【28】The simultaneous appearance of thrombocytopenia, a left-shifted granulocytic series, and an immunoblast abundance that exceeds 10 percent of the total lymphoid series is referred to as the diagnostic triad. This triad is sufficiently diagnostic that it is used at centers with substantial experience with HCPS to triage patients for extracorporeal membrane oxygenation and other specialized tertiary care .
+
+【29】A decrease in the serum concentration of albumin occurs concomitantly with increases in blood hemoglobin and hematocrit. Creatinine may also rise. These abnormalities are regarded as markers for the severity of capillary leak, and the degree of rise may correlate with mortality . Increases in partial thromboplastin time and prothrombin time are frequently observed in the more severe forms of hantavirus infection, but overt bleeding is rare in HCPS.
+
+【30】WHEN TO SUSPECT HANTAVIRUS DISEASE 
+
+【31】HCPS should be suspected in settings in which a patient from a rural area or with potential exposure to wild rodents presents with fever, chills, and myalgias, especially in the presence of nausea, abdominal pain, and vomiting. Specific serologic diagnosis should be considered in patients with thrombocytopenia, leukocytosis, bilateral interstitial infiltrates, or elevated lactate dehydrogenase.
+
+【32】It is most useful to obtain a complete blood count when hantavirus disease is suspected because thrombocytopenia and/or leukocytosis or leukopenia can be detected at the time of the first or second blood examination . Above all, there should be a low threshold for ordering a specific serologic test, since modern antibody tests are accurate .
+
+【33】Maintaining a high degree of suspicion for the diagnosis is important because early signs and symptoms are nonspecific. This is highlighted by a retrospective review of 720 HCPS acquired in the United States from 1993 to 2018 , which found that the median time from symptom onset to diagnosis was six days while the median time from symptom onset to death was six days. Time from symptom onset to death was shorter in children, with a median of two days compared with five days in adults. Mortality was 35 percent overall and similar across age groups.
+
+【34】DIAGNOSIS 
+
+【35】Serologic tests are the main method for diagnosis of either acute or remote infection by hantaviruses. By the time symptoms are evident, patients uniformly have antiviral antibodies of the immunoglobulin (Ig)M class and most have antibodies of the IgG class. Diagnostic assays include enzyme-linked immunosorbent assay (ELISA), strip immunoblot test, Western blot, indirect immunofluorescence, complement fixation, and hemagglutinin inhibition as well as focus or plaque reduction neutralization tests to detect antibodies to hantaviruses. No diagnostic test for hantavirus infection has been approved by the US Food and Drug Administration.
+
+【36】Acute infection can be distinguished from remote (past) infection by the presence of specific anti-hantavirus IgM (usually the nucleocapsid or N antigen is used) or a fourfold rise in titers of anti-hantavirus IgG in acute infections in paired serum samples.
+
+【37】In the United States, those state health departments that offer hantavirus diagnostic testing use IgG and mu-capture IgM ELISAs developed and distributed by the United States Centers for Disease Control and Prevention. These ELISAs use recombinantly expressed Sin Nombre virus N antigen. A similar test is also used in Canada.
+
+【38】Detection of viral ribonucleic acid (RNA) by nested reverse-transcription polymerase chain reaction (RT-PCR) in plasma, blood cells, or tissues is also considered diagnostic for hantavirus infection; however, these techniques are usually not necessary due to the high diagnostic accuracy and greater convenience of serologic assays. Postmortem diagnosis is accomplished using an immunohistochemical test for N antigen from tissues (kidneys, lung) in paraffin blocks or from detection of viral RNA using RT-PCR or postmortem serology.
+
+【39】The diagnosis of hantavirus infection is described at greater length elsewhere.
+
+【40】Differential diagnosis — By the time pulmonary disease develops, the constellation of pulmonary and/or cardiac insufficiency, bilateral interstitial infiltrates, fever, rural origin and/or rodent exposure, thrombocytopenia, leukocytosis and lymphocytic atypia, elevated lactate dehydrogenase, and transaminases are virtually pathognomonic.
+
+【41】The differential diagnosis that one might entertain depends upon what other respiratory or septic illnesses are incident in the region. Other respiratory infections to consider include _Legionella_ , _Chlamydia_ , _Mycoplasma_ , and Q fever . Depending upon the geographic setting and exposure history, septicemic plague or tularemia, leptospirosis, dengue fever, or yellow fever might be entertained. Abdominal manifestations may be sufficiently severe and isolated to lead to consideration of appendicitis or cholelithiasis. Noninfectious etiologies include diseases associated with pulmonary hemorrhage, such as granulomatosis with polyangiitis and Goodpasture syndrome.
+
+【42】TREATMENT
+
+【43】Supportive therapy — The likelihood of surviving HCPS increases with early recognition, hospitalization, and adequate pulmonary and hemodynamic support. This includes intensive care unit monitoring and the initiation of mechanical ventilation as needed to treat respiratory failure.
+
+【44】It is unusual for patients to succumb solely from respiratory failure in centers at which sophisticated ventilatory support is available . Given the role of capillary leak in the development of noncardiogenic pulmonary edema and hypotension, early use of vasopressors and inotropes for management of hypotension and cautious use of intravenous fluids is strongly recommended.
+
+【45】Extracorporeal membrane oxygenation — Extracorporeal membrane oxygenation (ECMO) has been used successfully in a number of cases . The technique has been used only in patients who were regarded as extremely likely to die from HCPS; in this subset, survival has been about 50 percent. At centers with significant expertise in ECMO, severely compromised cardiac output is considered an especially important factor in deciding which patients are most likely to require this specialized therapy. In severe cases, it is common to see diminished cardiac output. Patients with a cardiac index of <2.5 L/minute/m 2 despite attempts to resuscitate with pressors and inotropic agents are potential candidates for ECMO.
+
+【46】Antiviral therapy — Ribavirin is a nucleoside analogue that is effective in hemorrhagic fever with renal syndrome due to Hantaan virus, a different strain of hantavirus . A prospective, randomized, double-blind, placebo-controlled trial of 242 patients with serologically confirmed Hantaan virus in the People's Republic of China found a sevenfold decrease in mortality among ribavirin-treated patients . The major side effect of ribavirin was anemia, which reversed upon the completion of therapy.
+
+【47】However, ribavirin at clinical-relevant doses was found to prevent seroconversion and markedly diminish viral replication in the deer mouse model, suggesting that it may be premature to completely exclude utility of the drug against Sin Nombre virus (SNV), such as in postexposure prophylaxis or very early in the disease .
+
+【48】Since ribavirin has activity against SNV in vitro, two trials examining the role of this nucleoside analogue for the treatment of HCPS were conducted. However, study design and patient enrollment was insufficient to allow its efficacy to be demonstrated or excluded :
+
+【49】 The results of an open-label, nonrandomized trial that enrolled 30 patients between June 1993 and August 1994 did not demonstrate a decrease in mortality with the use of ribavirin . The authors concluded that a randomized, placebo-controlled trial in which the drug is administered during the prodrome phase of illness would be necessary to assess drug efficacy.
+
+【50】 A National Institutes of Health-sponsored, double-blind, placebo-controlled trial to further evaluate the role of ribavirin therapy in HCPS enrolled 36 patients from 1996 to 2001; among the 23 patients with confirmed SNV infection, 10 received intravenous ribavirin and 13 received placebo . The study was terminated before the target number of subjects was enrolled due to slow accrual. Overall, 8 of 10 ribavirin recipients and 11 of 13 placebo recipients survived at day 28 of the study. In addition, there were no significant differences or trends between groups regarding measures of shock or respiratory failure. The authors concluded that, although the study lacked adequate power to determine whether ribavirin was safe or effective, the lack of trends favoring its use suggested that ribavirin did not have a significant role in the treatment of HCPS.
+
+【51】Based upon these observations, the use of ribavirin off protocol cannot be recommended for patients with established HCPS. Because of the virus's known susceptibility to ribavirin in cultured cells and in the deer mouse model, the drug might still be considered should the syndrome be recognized during an exceptionally early stage .
+
+【52】 Monoclonal antibody therapy may be potentially helpful in acute HCPS; several antibody formulations are in development and have shown promise in preclinical (animal) studies .
+
+【53】 New small molecule inhibitors are also in development .
+
+【54】No role for glucocorticoids — In a trial performed in Chile, 60 patients with HCPS were randomly assigned to receive high-dose methylprednisolone or placebo . There was no difference in mortality between the treatment groups. Based upon these results, glucocorticoids cannot be recommended as adjunctive therapy for patients with HCPS.
+
+【55】PREVENTION 
+
+【56】Given the limited treatment options and high case-fatality ratio of HCPS, prevention of disease is of obvious importance. Recommendations from the United States Centers for Disease Control and Prevention focus on measures to limit contact with potentially infectious rodents in affected areas, particularly in indoor, poorly ventilated spaces. No prophylactic vaccine is available that is capable of preventing HCPS.
+
+【57】 All holes that might allow rodents to enter buildings should be sealed with steel wool, wire screen, cement, or other patching material.
+
+【58】 Seldom-used buildings should be opened and aired out prior to entry.
+
+【59】 Potential nesting sites near homes should be eliminated by clearing brush and debris from around the foundation and elevating hay, woodpiles, and garbage cans. If nesting sites are discovered, latex gloves should be worn during clean-up, and nests should be soaked with 10% bleach or detergent solution prior to removal to prevent aerosolization. Latex gloves should be disinfected prior to removal and hands should be washed thoroughly.
+
+【60】If heavy infestation is present in an area where HCPS has been reported, it is recommended that the appropriate local, state, or federal health officials be consulted prior to clean-up .
+
+【61】Vaccine development — Efforts to produce vaccines for hantaviruses have favored those products that elicit neutralizing antibodies, a preference that can be traced to early studies that showed a strong correlation between the efficacies of vaccine preparations and the titers of neutralizing antibodies they engendered . Yet, passive antibody therapy has not been actively pursued for hantaviruses, in part because of the widespread recognition that patients exhibit potent antibody responses by the time of presentation. It is interesting to observe that evidence has accrued demonstrating that patients who present with high titers of neutralizing antibodies to Sin Nombre virus are those who are destined to have milder disease, whereas lower titers of neutralizing antibodies tend to occur in patients who died or required extracorporeal membrane oxygenation salvage therapy . Administration of antisera from patients who recovered from HCPS appears to reduce the severity of illness, but additional study is necessary .
+
+【62】Unfortunately, few vaccines are licensed or available worldwide. In China and Korea, killed-virus vaccines are available for Hantaan virus and/or Seoul virus , but their expense precludes their widespread usage in the most heavily affected regions of China. No vaccines are available for Sin Nombre virus or other agents of HCPS .
+
+【63】 **Epidemiology** – Among the agents of hantavirus cardiopulmonary syndrome (HCPS), the most severe forms are associated with Sin Nombre virus and Andes virus. Case-fatality ratios of HCPS range from 30 to 50 percent for severe forms and 10 to 30 percent for milder forms. Many hantaviruses are shed in the urine, feces, or saliva of acutely infected reservoir rodents. It is suspected that much, if not all, transmission to man occurs via the aerosol route.
+
+【64】 **Clinical features** – Typically, a period of two to three weeks elapses between exposure to a hantavirus and the first symptoms. The syndrome is characterized by a nonspecific prodrome, followed by the abrupt development of noncardiogenic pulmonary edema and hemodynamic compromise. The resolution of the cardiorespiratory phase of HCPS can emerge almost as quickly and dramatically as the onset, in as little as 24 to 48 hours.
+
+【65】 **Laboratory abnormalities** – Laboratory abnormalities include thrombocytopenia, leukocytosis, hemoconcentration, hypoalbuminemia, and an increase in serum lactate dehydrogenase (LDH). The simultaneous appearance of thrombocytopenia, a left-shifted granulocytic series, and an immunoblast count that exceeds 10 percent of the total lymphoid series is referred to as the diagnostic triad.
+
+【66】 **Making the diagnosis** – HCPS should be suspected in settings in which a patient from a rural area or with potential exposure to wild rodents presents with fever, chills, and myalgias. Specific serologic diagnosis should be considered in patients with bilateral interstitial infiltrates, thrombocytopenia, leukocytosis with a left-shifted granulocytic series, or elevated LDH. We recommend prompt serologic testing.
+
+【67】 **Treatment**
+
+【68】• Treatment for HCPS is mainly supportive. This includes intensive care unit monitoring and the initiation of mechanical ventilation as needed to treat respiratory failure secondary to capillary leak. Because capillary leak can be profound, intravenous fluids should be used cautiously, and early use of vasopressors may be needed for resuscitation.
+
+【69】• We generally do not use ribavirin for the treatment of established HCPS, as small clinical trials suggest that is not effective. However, definitive evidence is lacking.
+
+【70】• Extracorporeal membrane oxygenation can be considered in patients with a cardiac index <2.5 L/minute/m 2 , despite the use of inotropic agents, when available.
+
+【71】• Glucocorticoids do not appear to reduce mortality in patients with HCPS and therefore cannot be recommended.
+
+【72】 **Prevention** – Given the limited treatment options and high mortality rates, emphasis needs to be on avoidance of exposure to potentially infectious rodents, particularly in indoor spaces. No prophylactic vaccine is available that is capable of preventing HCPS.王磊
+
+====================================================================================================

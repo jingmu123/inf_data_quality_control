@@ -1,0 +1,319 @@
+【0】Arsenic exposure and chronic poisoning
+
+【1】INTRODUCTION 
+
+【2】Arsenic toxicity can vary greatly depending on the chronicity and dose of exposure and the chemical properties of the arsenical compound (eg, valence, complexed structures). Arsenic exposure can be asymptomatic or cause skin changes, hepatotoxicity, cardiovascular effects (eg, dysrhythmias), sensorimotor neuropathy, and diabetes mellitus. Latent or long-term effects of arsenic exposure include an increased risk of cancers, even after exposure has ceased. Clinicians may encounter questions regarding arsenic in various clinical circumstances, such as the following:
+
+【3】 A patient with rash, other abnormalities, or no signs or symptoms who has ongoing chronic arsenic exposure from drinking water that is highly contaminated with arsenic or has mild arsenic elevations
+
+【4】 A patient with non-diagnosed and non-specific symptoms (eg, neurologic) and someone questions arsenic toxicity or tests the urine (or blood) for heavy metals and the total arsenic concentration is above the reference range
+
+【5】 A potential occupational exposure
+
+【6】 When using arsenic trioxide to treat a patient with promyelocytic leukemia
+
+【7】 A critically ill patient with symptoms of acute inorganic arsenic or arsine gas poisoning (very rare)
+
+【8】This topic focuses on the evaluation and management of patients with chronic arsenic exposure, chronic poisoning, and latent effects.
+
+【9】The evaluation and treatment of the acutely poisoned patient are discussed separately.
+
+【10】PATHOPHYSIOLOGY OF ARSENIC TOXICITY
+
+【11】Chemistry — The toxicity of an arsenical compound depends on arsenic's valence and complexed chemical structures. Arsenic is classified as a metalloid because it complexes with metals, but also reacts with other elements such as oxygen, hydrogen, chlorine, carbon, and sulfur. Arsenicals can be grouped according to their valence states: elemental , trivalent (+3), pentavalent (+5), and arsine gas (-3). They can further be grouped as inorganic and organic. In general, trivalent arsenicals are more toxic than pentavalent, and inorganic arsenicals are more toxic than organic.
+
+【12】Elemental arsenic is rare; arsenic exists more commonly as organic or inorganic compounds . Inorganic arsenic exists in trivalent (arsenite; As 3+ ) or pentavalent (arsenate; As 5+ ) forms. Organic forms are methylated metabolites (eg, monomethylarsonic acid, dimethylarsinic acid) of inorganic forms. Melarsoprol is a highly-toxic trivalent organic arsenical that has been used to treat late-stage trypanosomiasis . There are also organic arsenicals found in foods that are considered to have little or no toxicity, such as arsenobetaine (found in fish and crustaceans and known as "fish arsenic") and arsenosugars (found in seaweed and marine algae) .
+
+【13】Toxicokinetics
+
+【14】 **Absorption** – Arsenical compounds are well absorbed after ingestion or inhalation. The gastrointestinal absorption of most water soluble trivalent and pentavalent arsenicals exceeds 90 percent, whereas poorly soluble compounds such as arsenic trioxide are less well absorbed . Peak serum arsenic concentrations are reached approximately 30 to 60 minutes after a single oral dose.
+
+【15】Low-level skin absorption from chronic application of arsenical products is possible, but absorption from single use is negligible.
+
+【16】 **Distribution** – Arsenic readily enters red blood cells and then quickly distributes, initially to the liver, kidneys, muscle and skin, and ultimately to all tissues including the brain . Studies of humans receiving intravenous arsenic radioisotopes describe clearance from blood in three phases : initially very rapid (two to three hours) in which more than 90 percent is cleared through redistribution and renal excretion, then gradually over three hours to seven days, followed by a slower clearance of ten days or more. The rapid clearance in the first two phases explains why blood testing is less reliable than urine testing for assessing chronic exposure; blood testing can be helpful very early after exposure in cases of acute poisoning. Arsenic is handled similar to phosphate and incorporates into tissue in place of phosphate.
+
+【17】Chronic ingestion of small amounts of inorganic arsenic results in the highest concentration in hair, nails, skin, and tissues rich in cysteine-containing proteins . Arsenic can also cross the placenta and accumulate in the fetus .
+
+【18】 **Metabolism** – The majority of trivalent arsenicals are metabolized via methylation, which decreases toxicity and increases elimination. For example, arsenic trioxide is methylated to form monomethylarsonic acid (MMA) followed by dimethylarsinic acid (DMA) and excreted predominantly in the urine . Pentavalent arsenicals and arsine gas are converted to trivalent arsenicals in vivo.
+
+【19】 **Elimination** – Unchanged arsenic, methylated metabolites, and arsenobetaine are eliminated in the urine. In volunteers, half of a measurable oral dose is excreted within the first 28 hours, and the rest tapered off over the next three days .
+
+【20】Mechanism of toxicity — Primary target organs for arsenic toxicity are the gastrointestinal tract, skin, bone marrow, heart, vasculature, kidneys, and peripheral nervous system.
+
+【21】Trivalent arsenicals, both inorganic and organic, are considered the most toxic. These avidly bind to sulfhydryl groups on proteins, glutathione, and cysteine and interfere with numerous enzyme systems, such as those involved in cellular respiration (inhibiting pyruvate dehydrogenase), gluconeogenesis and glucose uptake, and glutathione metabolism . Trivalent arsenic (eg, arsenic trioxide ) affects cardiac repolarization, prolonging the QT interval and increasing potential for ventricular dysrhythmias such as torsades de pointes .
+
+【22】Pentavalent arsenicals inhibit adenosine triphosphate production during both glycolysis and oxidative phosphorylation by substituting for phosphate with adenosine diphosphate . Pentavalent arsenicals and arsine gas are also metabolized to trivalent arsenic causing additional toxicity.
+
+【23】Molecular mechanisms of latent disease (such as increased risk of cancer, disturbances of immune function) associated with early-life arsenic exposure are being investigated . One likely mechanism is "epigenetic reprogramming," or changes to gene expression (eg, DNA methylation) that ultimately lead to future increased susceptibility to developing cancer.
+
+【24】Studies have described the effect of arsenic on vascular endothelial cells and proposed mechanisms for induced atherosclerosis, such as increased platelet aggregation, reduced fibrinolysis, and upregulation of expression of tumor necrosis factor-alpha, interleukin-1, vascular cell adhesion molecule, and vascular endothelial growth factor . Arsenic reduces nitric oxide bioavailability resulting in an increased risk of hypertension and peripheral vascular disease .
+
+【25】Elemental arsenic and some organic forms of arsenic such as arsenobetaine are likely non-toxic. Other organic forms, such as arsenocholine and arsenosugars, undergo minor metabolism to DMA and have uncertain toxicity, but likely negligible toxicity with routine dietary intake .
+
+【26】SOURCES OF EXPOSURE AND REGULATORY LIMITS
+
+【27】Drinking water — Exposures can occur from arsenic leaching into drinking water from natural sources (eg, volcanic eruptions, soil, rock) and from mining activities. Arsenic exposure from drinking water occurs in many parts of the world and causes a wide range of health effects . Soluble arsenic dissolved in water is tasteless and odorless. In some locations, water contamination presents an enormous health hazard, such as in the poisoning epidemic in West Bengal, India, and Bangladesh. More than one million people have been drinking water from newly drilled wells that were contaminated with large amounts of arsenic (concentrations >50 mcg/L) that leached from natural underground sources . Thousands of people have developed arsenic-related skin lesions, liver problems, decreased motor function, and neuropathy .
+
+【28】Although less common, there are case reports of arsenic poisoning in the United States (US) due to contaminated well water, and in rural Australia, from stream water thought to be contaminated from a nearby mine . In the US, water intended for drinking generally contains an average of 2 mcg/L  of arsenic, although approximately ten percent of surface water sources in the North Central region of the US have concentrations exceeding 20 mcg/L  . The US Geological Survey (USGS) maintains a website describing arsenic concentrations in water sources. In the US, private well water (defined as serving at most 25 persons and 15 buildings) is not regulated and can have elevated arsenic concentrations .
+
+【29】The US and other countries have focused on lowering drinking water arsenic concentration limits to prevent long-term adverse health outcomes (eg, cancer, bronchiectasis) to well below concentrations expected to cause subacute clinical manifestations. The World Health Organization (WHO), US Environmental Protection Agency (EPA), and the US Food and Drug Administration (FDA) (which regulates bottled water) have set a regulatory limit of 10 mcg/L  of arsenic in drinking water .
+
+【30】Some experts argue for even lower thresholds to reduce carcinogenic risks . Even at a concentration of 10 ppb, estimates of excess lifetime cancer risk in a 70 kg person drinking one liter of water per day are 12 and 23 per 10,000 individuals for bladder cancer (women and men, respectively) and 18 and 24 per 10,000 individuals for lung cancer (women and men, respectively) . Some experts feel this excess cancer risk is too high and advocate for lower maximum contaminant levels (MCL). For example, the state of New Jersey has set an arsenic MCL of 5 mcg/L.
+
+【31】Dietary ingestion — Varying amounts of inorganic arsenic are consumed from food, liquids, and dietary supplements . Inorganic arsenic in food typically originates from contaminated water or soil . A US individual's dietary intake of inorganic arsenic has been estimated to range from 1 to 20 mcg per day . Examples of dietary sources of arsenic include the following:
+
+【32】 **Juice** – There have been concerns about arsenic contamination in some apple and grape juices . The FDA performed testing from 2005 to 2011 of 160 apple juice samples from several countries, noting mild elevation of the toxic arsenic species in some samples . The source of the arsenic contamination is unclear but may be from arsenic-containing pesticides residues (banned in the US, but still used in other countries) or contaminated water used in processing. The FDA has set an "action level" of 10 ppb for inorganic arsenic in apple juice (similar to bottled water) .
+
+【33】 **Rice products** – Arsenic contamination has been found in rice products , which has raised particular concerns since rice cereal is often one of the first foods given to children and rice is a staple food in many parts of the world. In a 2012 study, a toddler milk formula containing organic brown rice syrup as a sweetener had total arsenic concentrations of up to six times the EPA safe drinking water limit . Concerns regarding arsenic exposure have led to updated recommendations for how to reduce arsenic exposure in an infant's diet . In 2020, the FDA proposed guidance to industry with an "action level" of 100 ppb  of inorganic arsenic for infant rice cereal, which parallels guidance from the European Commission for rice foods for infants and young children . These interventions to reduce early-life arsenic exposure since children may be more susceptible to the latent effect .
+
+【34】 **Chicken** – There is evidence that inorganic arsenic may accumulate in the meat of chickens treated with a growth-promoting arsenical drug (roxarsone) and arsenical compounds used to control intestinal parasites .
+
+【35】 **Complementary and alternative medicines** – Ayurvedic remedies, homeopathic remedies, and herbal preparations have occasionally been contaminated with arsenic .
+
+【36】 **Alcohols** –Illicitly distilled alcohol products (ie, "moonshine") occasionally contain arsenic .
+
+【37】 **Fish, shellfish, or seaweed** – These typically contain organic forms of arsenic, such as arsenobetaine ("fish arsenic"), which are relatively non-toxic . However, their presence can complicate interpretation of urine testing results.
+
+【38】Hijiki (hiziki) seaweed has occasionally been found to contain high levels of inorganic arsenic .
+
+【39】Occupational — Arsenic is no longer produced in the US, but is still imported . In order to minimize occupational exposure, the US Occupational Safety and Health Administration (OSHA) has set a workplace air permissible exposure limit (PEL) of 10 mcg/m 3 as a time-weighted average over an eight-hour work day . The National Institute of Occupational Safety and Health (NIOSH) is more conservative and has advised a recommended exposure limit (REL) of 2 mcg/m 3 (over a 15-minute exposure) . Human-made exposures derive from various sources including the following :
+
+【40】 **Pesticides** – Arsenic exposure can result from use and manufacture of arsenic-containing pesticides (eg, sodium arsenate ant killer, "Terro"). Although regulations banned their use in the US starting in 1991, some products are still used in other countries and/or found in older stored supplies (eg, arsenic trioxide , sodium arsenite, calcium arsenite, arsenic acid), ant poisons, and herbicides (eg, cacodylic acid) .
+
+【41】 **Smelting and refining** – Individuals working in smelting and refining are at risk of inhaling dust containing arsenic. For example, copper smelters would be expected to have urinary arsenic concentrations of 30 to 35 mcg As/g creatinine from exposure to air with arsenic concentrations averaging 10 mcg/m 3 .
+
+【42】 **Other industries** – Other industries where workers can be exposed to arsenic include decorative glass-making, metallurgy, semiconductor manufacturing (exposed to gallium arsenide), and mining .
+
+【43】Others
+
+【44】 **Soil** – Arsenic is a naturally occurring element found in the earth's crust and within numerous ores. Human exposures can occur from leaching from soil and rocks from natural sources, such as volcanic eruptions, and from occupational sources, such as hazardous waste or superfund sites .
+
+【45】 **Pressure-treated wood** – There are reports of arsenic poisoning from inhalation and skin contact of dust in people sawing pressure-treated wood and from inhalation of arsenic-contaminated smoke from burning pressure-treated wood in fireplaces or campfires . In order to protect lumber from insect infestation, decay, and marine environments, pressure-treated wood undergoes infusion of preservatives, which can include chromated arsenicals such as chromium copper arsenate (CCA) or ammoniacal copper zinc arsenate (ACZA). In 2003, US manufacturers began a voluntary phase-out of arsenic-containing wood preservatives for residential applications such as play structures, picnic tables, decks, and fencing . However, there are still existing wood structures that have CCA-treated elements .
+
+【46】 **Therapeutics** – Arsenicals have been previously used therapeutically to treat syphilis (arsphenamine) and skin conditions (Fowler's solution) and presently used to treat late-stage trypanosomiasis ( melarsoprol ) and acute promyelocytic leukemia ( arsenic trioxide ) .
+
+【47】 **Fossil fuel combustion** – Human exposure can occur during burning of arsenic containing fossil fuel (eg, coal), such as from coal-powered power plants or incinerators .
+
+【48】 **Pica** – Chronic arsenic toxicity has been described from consumption of broken clay terracotta pots .
+
+【49】 **Pottery** – Arsenic has been reported to leach from pottery and earthenware, particularly when they are unglazed .
+
+【50】CLINICAL FEATURES AND LATENT EFFECTS OF CHRONIC EXPOSURE
+
+【51】Overview — Clinical features of "chronic" toxicity develop over months to years and can occur after low to moderate-level, prolonged exposure to arsenic or as a sequela of acute, large-dose poisoning. Chronic toxicity from the former can have an insidious onset and thus be difficult to recognize and diagnose. Any of the toxicities described below can occur.
+
+【52】Latent effects from exposure refers to the malignancies, skin changes, cardiac effects, and neurobehavioral changes (which may be seen in children) that can develop years to decades after an acute or chronic exposure, even if the exposure has ceased. Chronic exposure increases future risk of cancer more than acute poisoning .
+
+【53】The clinical features of chronic toxicity are different than those that occur with acute toxicity, which is typically from a single ingestion of a large dose of arsenic. Acute toxicity starts with gastrointestinal symptoms followed by cardiovascular collapse if sufficiently high dose. Following survival from an acute poisoning, subacute signs and symptoms (eg, neuropathy, nail changes, alopecia, and skin lesions) can develop over one to three weeks followed by features of chronic toxicity.
+
+【54】All-cause and cardiovascular mortality — Chronic exposure to arsenic has been associated with increased all-cause and cardiovascular mortality. The Health Effects of Arsenic Exposure Longitudinal Study (HEALS) followed 11,746 patients in Bangladesh for almost seven years and found that chronic arsenic exposure through drinking water (>150 mcg/L) was associated with increased all-cause mortality (hazard ratio \[HR\] 1.68, 95% CI 1.26-2.23) and increased cardiovascular mortality (HR 1.92, 95% 1.07-3.43) . Persons drinking well water with arsenic concentrations >12 mcg/L also had an increase in mortality rate for cardiovascular disease  . There was a dose-response relationship between increasing arsenic concentrations in well water and cardiovascular deaths, as well as a synergistic effect with tobacco smoking. Additionally, decreasing exposure did not reduce an individual's mortality risk, thus regulatory agencies have set limits and created strategies to prevent primary exposure to inorganic arsenic from both naturally occurring and man-made sources .
+
+【55】Cancer — Inorganic arsenic is a recognized carcinogen. The International Agency for Research on Cancer (IARC) has classified inorganic arsenic as carcinogenic to humans (Group 1) and arsenic metabolites dimethylarsinic acid and monomethylarsonic acid as possibly carcinogenic to humans (Group 2B) . Their comprehensive review found sufficient evidence that inorganic arsenic exposure increases risk of lung, bladder, and skin cancers and found a positive association for kidney, liver, and prostate cancer. Epidemiologic studies subsequent to the IARC report have found similar results . Thus, regulatory actions limit arsenic exposure in both environmental and occupational settings.
+
+【56】Evidence for various malignancies (although not exhaustive) includes the following:
+
+【57】 **Lung cancer** – Inorganic arsenic exposure increases the risk of developing lung cancer . Observational studies from Chile found a dose-response relationship between arsenic drinking water concentration and lung cancer . The risk for lung cancer starts to increase when arsenic water concentrations reach approximately 60 mcg/L, with an adjusted relative risk of almost nine with concentrations of 200 to 400 mcg/L. Mortality rates from lung cancer can decline following the elimination of arsenic from drinking water . Inhalation of arsenic dust among smelters is associated with a non-linear increased risk of lung cancer . There is also evidence that arsenic and tobacco smoking may synergetically increase the risk of lung cancer .
+
+【58】 **Bladder cancer** – Inorganic arsenic exposure increases the risk of developing bladder cancer . A cohort study in Taiwan demonstrated a dose-response relationship between arsenic exposure in drinking water and bladder cancer . Compared with patients exposed to water with an arsenic concentration ≤10 mcg/L, patients exposed to water containing arsenic concentrations of 10 to 50 mcg/L, 50 to 100 mcg/L, and >100 mcg/L had adjusted relative risks of bladder cancer development of 1.9, 8.2, and 15.3, respectively. Latency between initiation of arsenic exposure and bladder cancer mortality has been reported as 10 to 25 years . Additionally, younger age at exposure is associated with increased mortality rates from bladder cancer in adulthood .
+
+【59】 **Skin cancer** – Ingestion of inorganic arsenic increases the risk of latent development of skin cancers . Bowen disease (squamous cell carcinoma in situ) arises from arsenic-induced hyperkeratotic warts . Basal cell carcinomas arise from cells not associated with hyperkeratinization. In a cohort study in Bangladesh, patients who were exposed to water with an arsenic concentration between 175 and 864 mcg/L were five times more likely to develop pre-malignant skin lesions compared with those exposed to well water with a concentration ≤8 mcg/L . Ecological studies in Taiwan found dose-dependent risk of skin cancer mortality with increasing drinking water arsenic concentrations . Inorganic arsenic exposure increases the risk of skin cancer even in the absence of skin pigmentary changes .
+
+【60】 **Kidney cancer** – Arsenic in drinking water may be associated with transitional cell cancers of the renal pelvis and ureter . In one case-control study, the odds ratios for transitional cell cancer were 1.0, 5.7, and 11.1 for median arsenic water concentrations of 60, 300, and 860 mcg/L, respectively . In a cohort study, residents in an arseniasis-endemic region of Taiwan had a standardized incidence ratio of 2.8 for kidney cancer as compared to the general population . Ecological studies in Taiwan and Argentina found dose-dependent risk of kidney cancer mortality with increasing drinking water arsenic concentrations .
+
+【61】 **Liver** **cancer** – Arsenic exposure is believed to increase the risk of hepatic angiosarcomas, but it does not appear to be associated with hepatocellular carcinoma . Ecological studies in Taiwan found dose-dependent risk of liver cancer mortality with increasing drinking water arsenic concentrations . In Taiwan, liver cancer mortality decreased in females but not in males after cessation of use of arsenic-laden well water .
+
+【62】 **Prostate cancer** – Most, but not all studies, have found an association between arsenic exposure in drinking water and increased prostate cancer risk . Studies from Taiwan have found some evidence of a dose–response relationship, but there is not a consistent association in data from South America . A meta-analysis of 12 studies (over 8 million patients) found arsenic exposure (as assessed by water, soil, or urinary measurements or self-reported questionnaire) was associated with increased prostate cancer risk (relative risk \[RR\] 1.18, 95% CI 1.06 – 1.3) .
+
+【63】Dermatologic — Various arsenic-related skin lesions have been described in the West Bengal and Bangladesh chronic poisonings . Epidemiological studies suggest that skin lesions occur in individuals consuming water with arsenic concentrations generally >100 mcg/L and usually for at least six months . Data from 10,182 patients with well-water arsenic exposure followed for six years in the HEALS study showed a dose-dependent increased risk of skin lesions . Risk was increased with well water arsenic concentrations as low as 50 mcg/L, as well as in males and older individuals. The risk of developing skin lesions persisted for up to several years despite decreasing exposure.
+
+【64】The following skin lesions can develop in chronic arsenic toxicity:
+
+【65】 Hyperpigmentation (ie, melanosis) or hypopigmentation can be an early manifestation . Various pigmentary changes have been described, including diffuse melanosis, freckled raindrop pattern , leukomelanosis (depigmented macules on normal skin or on a hyperpigmented background) , dyschromia, and mucosal pigmentation .
+
+【66】 Arsenic keratosis is a characteristic marker of more advanced stages of chronic arsenic toxicity . These multiple premalignant lesions are firm, punctate papules which may coalesce into scaly, erythematous, hyperpigmented, or verrucous plaques . These commonly occur on the palms and soles, but can also occur on the dorsum of extremities, trunk, genitalia, and eyelids.
+
+【67】 Peripheral vascular disease with associated gangrene, called "Blackfoot" disease, has been described .
+
+【68】 Eczematous lesions have also been described.
+
+【69】 Skin carcinomas are discussed above.
+
+【70】Chronic skin lesions that have delayed onset following acute arsenic poisoning include maculopapular eruptions (sometimes in intertriginous areas), nail changes (Mees' or Beau's lines ), and periungual pigmentation.
+
+【71】Neurologic — A symmetrical sensorimotor polyneuropathy is one of the most prominent symptoms of arsenic poisoning and can develop one to three weeks after acute high-dose poisoning or insidiously from chronic low-level exposures. Electrophysiological findings of arsenic neuropathy typically suggest a distal motor and sensory axonopathy .
+
+【72】 **Numbness and paresthesias** – Sensory symptoms tend to develop first and predominate, starting with numbness and tingling, particularly in the soles of the feet and then later in the hands . An early sign on physical examination is diminished vibratory sense.
+
+【73】Milder forms of arsenic polyneuropathy may only have numbness and paresthesias and may even be subclinical. Studies of smelting factory workers exposed to inorganic arsenic compared with controls found an inverse correlation between cumulative absorption of arsenic and nerve conduction velocities (in the absence of signs or symptoms), as well as increased risk of clinical neuropathy .
+
+【74】A case series of 40 individuals with skin lesions and elevated arsenic in biological samples who were exposed to arsenic-contaminated water in India found that 21 were diagnosed with clinical neuropathy . Most of the cases presented with distal paresthesias and distal hypesthesias in a stocking and glove distribution, and in those most severely affected, followed by limb pain and diminished or absent deep tendon reflexes.
+
+【75】 **Pain** **and weakness** – In more severe neuropathy, pain can be intense and provoked with even light touch so that affected persons are unable to walk because of intense burning pain in the soles . Cramping in the calves is another common symptom.
+
+【76】Progressive symptoms may then develop in a stocking/glove distribution with decreased pain, decreased sensation of touch and temperature, and symmetrical weakness, along with decreased deep tendon reflexes.
+
+【77】 **Recovery** – Neuropathy, especially if mild, may improve and/or recover in the long-term following cessation of arsenic exposure . A case-control study of 30 patients with arsenical dermatoses found improvement in neuropathy (both symptomatic and nerve conduction velocities reported similar to controls) a decade following the drinking water exposure .
+
+【78】Case reports of chronic arsenic exposure associated with encephalopathy, described as cognitive impairment, disorientation, hallucinations, agitations, and memory problems . However, it is not clear from these reports whether symptoms are solely from arsenic or from other potential work exposures or psychiatric issues .
+
+【79】Cardiovascular
+
+【80】 **QTc prolongation and ventricular dysrhythmias** – QTc prolongation and ventricular dysrhythmias have been reported in patients with acute promyelocytic leukemia treated with arsenic trioxide and in individuals chronically exposed to arsenic in drinking water . In population studies, arsenic in drinking water is associated with a dose-dependent risk for QTc prolongation .
+
+【81】 **Hypertension** – Chronic exposure to arsenic has been associated with development of hypertension . Studies in Bangladesh found a dose-response relationship between arsenic exposure and urine arsenic concentrations and the prevalence of hypertension .
+
+【82】 **Cardiovascular disease and mortality** – Chronic exposure to arsenic has been associated with increased risk of developing cardiovascular disease (eg, coronary artery disease, cerebrovascular disease, and peripheral artery disease) . In a study of Colorado residents, lifetime exposure to low-level inorganic arsenic in drinking water was associated with a dose-dependent increased risk of coronary artery disease . However, epidemiologic studies have not demonstrated the association of arsenic with cardiovascular disease in all populations .
+
+【83】Others
+
+【84】 **Liver disease** – A study in Mexico found increased bilirubin and alkaline phosphatase concentrations in people exposed to arsenic in drinking water . A study of 248 people in India with chronic arsenic toxicity found that hepatomegaly was present in 77 percent; in those who underwent liver biopsy, noncirrhotic portal fibrosis (ie, idiopathic noncirrhotic portal hypertension) was the predominant finding . A study of 156 patients with arsenic-related skin lesions in West Bengal found most patients had hepatomegaly and increased alkaline phosphatase concentrations, while many had portal hypertension, splenomegaly, and increased aminotransferases; liver biopsies predominantly showed noncirrhotic portal fibrosis .
+
+【85】 **Diabetes** – Arsenic exposure may be associated with the development of type II diabetes mellitus . Some studies have found a dose-response relationship between exposure to arsenic in drinking water and the risk of diabetes , whereas a large population-based cross-sectional study did not demonstrate an association between arsenic concentrations in well water and prevalence of diabetes .
+
+【86】 **Respiratory** – Arsenic exposure is associated with a dose-dependent increase in respiratory symptoms (cough, dyspnea, hemoptysis) and decrease in lung function . The risk of developing bronchiectasis is exacerbated by early-life arsenic exposure.
+
+【87】 **Hematologic** – Some patients who survive acute poisoning and those with high-dose chronic poisoning have been reported to develop bone marrow suppression with pancytopenia . The anemia is typically normocytic, but in rare cases, it has been megaloblastic. Karyorrhexis and basophilic stippling has also been occasionally reported .
+
+【88】 **Gastrointestinal** – Nausea, vomiting, and diarrhea may occur with chronic poisoning, but less frequently compared with acute poisoning . Patients may describe a metallic taste in the mouth.
+
+【89】DIAGNOSTIC EVALUATION
+
+【90】History and examination — The evaluation of a patient with possible chronic arsenic toxicity starts with obtaining a detailed history focused on uncovering potential sources of inorganic arsenic exposure and assessing for signs and symptoms characteristic of arsenic toxicity.
+
+【91】If suspecting a patient has had an occupational inorganic arsenic exposure, we ask about the circumstances and timing of the exposure, whether personal protective gear was being worn, and if the exposure is ongoing. We inquire whether actions have already been taken to assess and control the exposure and review any reports if available. Obtaining a thorough history is particularly important given the limitations of biological testing for arsenic.
+
+【92】The process of obtaining a general exposure history is discussed elsewhere.
+
+【93】Diagnosis — The diagnosis of chronic arsenic toxicity is suspected in a patient with symptoms or signs associated with chronic toxicity, such as skin lesions, sensorimotor polyneuropathy, or abnormal liver enzymes, especially if they report a potential environmental or occupational exposure.
+
+【94】The diagnosis of chronic arsenic toxicity is made in a patient with characteristic signs and symptoms and a confirmed exposure if possible. An exposure can be confirmed by any of the following:
+
+【95】 Biological sample with elevated inorganic arsenic concentration. Urine is the most commonly used sample if the exposure is still ongoing, but nail or hair testing can confirm an exposure that occurred within months if measured by a reliable laboratory. However, it is important to note the timing of the biological testing. Also, hair will bind external sources of inorganic arsenic and may not reflect the internal body burden.
+
+【96】 Soil, air, or water sample with elevated arsenic concentration, determined by a reliable laboratory (eg, testing water if from a private well or obtaining testing report if from a public water source).
+
+【97】 An exposure history to a confirmed source of arsenic (eg, drinking contaminated well water in Bangladesh).
+
+【98】Arsenic concentrations — Biological samples used to obtain arsenic concentrations include urine, blood, hair, and fingernail. Environmental sources (eg, drinking water) can also be tested for arsenic.
+
+【99】Urine is the most commonly used biological sample, but each has limitations that impact interpretation of results. If the exposure was recent and/or ongoing, we obtain urine arsenic concentration and speciation and urine creatinine concentration. In a patient with concern for chronic arsenic exposure, we do not obtain a blood arsenic concentration because arsenic is rapidly cleared (two to three hours) from blood and distributed to other tissues and arsenic speciation cannot be performed on blood samples. Blood arsenic is only useful for assessing very recent exposure, usually in the setting of an acute poisoning, and for monitoring during chelation therapy.
+
+【100】Urine — Urine arsenic is a good measure of current or recent exposure but not for remote exposure because arsenic is rapidly excreted. After a single exposure, half of the arsenic is eliminated over the first day and most of the rest over the next three days .
+
+【101】 **Speciation** – Urine arsenic testing should be speciated, with specific assessment of the inorganic species, in order to avoid misdiagnosis of arsenic poisoning in a patient exposed to non-toxic organic forms . Unless otherwise requested, many laboratories do not reflexively perform speciation and will usually report only total arsenic. Thus, when we order a total urine arsenic test, we also request reflex speciation if the total concentration is elevated.
+
+【102】Laboratories report the results of speciation in different ways: some will report total arsenic and inorganic species, while others will report inorganic, methylated, and organic (with "organic" implying the relatively non-toxic arsenobetaine and other fish arsenicals). The laboratory may report individual concentrations of inorganic arsenic, methylated metabolites monomethylarsonic acid (MMA) and dimethylarsinic acid (DMA), as well as the total arsenic. If the total urinary arsenic is elevated, but there are little to no inorganic species detected, the urine arsenic was most likely derived from organic arsenic species.
+
+【103】 **Issues with seafood consumption** – While some clinicians will advise refraining from eating any fish, shellfish, or seaweed for two to three days prior to testing, we feel it is generally unnecessary as speciation of elevated urinary arsenic can distinguish between the different arsenical compounds. There may be other dietary sources of arsenic (such as some mushrooms), which is another reason we favor speciation. Presence of the relatively non-toxic "fish arsenic" (eg, arsenobetaine) increases total arsenic urine concentrations; even a single meal of fish can increase total urine arsenic by more than 1000 mcg/L . However, seafood consumption should not increase inorganic arsenic concentrations. Additionally, individuals without fish or seafood intake can have elevated total arsenic concentrations (without inorganic species) since other foods, such as wild mushrooms, can contain organic arsenic such as arsenobetaine .
+
+【104】 **Spot urine samples** – In adults, spot urine arsenic concentrations are sufficient for most circumstances, particularly useful for occupational biomonitoring, and obviate the need for 24-hour testing in the ambulatory setting. However, a spot urine arsenic concentration should be corrected for urine concentration by dividing by a simultaneously obtained urine creatinine concentration (resulting in units of mcg arsenic \[As\]/g creatinine). This also allows for standardization and for comparison of samples if urine arsenic is collected as a part of surveillance program. A very low urine creatinine also suggests the spot sample may be too dilute for an accurate determination. Urine creatinine may not reflect hydration status in individuals with chronic kidney disease (eg, high serum creatinine with lower urine creatinine).
+
+【105】 **24-hour urine sample** – Although a 24-hour urine collection for arsenic is more accurate, it is much less convenient than a spot urine sample. The 24-hour collection is more appropriate for monitoring of inpatients being chelated for arsenic poisoning.
+
+【106】 **Interpretation of results** – There is no "normal" concentration of urinary arsenic since arsenic is not a normal constituent of the human body. Since some exposure to arsenic from daily life is expected, we interpret the patient's results by comparing to the population background mean concentrations.
+
+【107】The Centers for Disease Control and Prevention measures a random sample of United States participants in the National Health and Nutrition Examination Survey and tests blood and urine for various chemicals or metabolites, such as arsenic . Between 2017-2018, mean total urine arsenic (and creatinine corrected) for adults was approximately 6 mcg/L  and the 95 th percentile geometric mean was 67 mcg/L . The mean for inorganic arsenic (sum of arsenic acid, arsenous acid, DMA, MMA) for adults was approximately 4 mcg/L  and the 95 th percentile geometric mean was 14 mcg/L . For comparison, in acutely symptomatic patients, total urine arsenic concentrations are usually >1000 mcg/L.
+
+【108】 **Biological monitoring** – Some professional organization suggest performing biological monitoring tests to ensure workers do not have exposures that exceed acceptable levels. The "acceptable levels" in the urine are usually based upon correlations of the urine test with the allowable (or regulated) air level. Surveillance for occupational arsenic exposure is usually done with measurements of spot urine arsenic and creatinine, sometimes timed to be collected after a shift. The American Conference of Governmental Industrial Hygienists (ACGIH) recommends testing for urine arsenic (inorganic arsenic and methylated metabolites) at the end of the work week, and set a biological exposure index (BEI) of 35 mcg/L, which correlates with an air concentration limit of 10 mcg/m 3 . However, acceptable limits vary by country and agency; for example in Germany (DFG) it is 15 mcg/L and the European Chemicals Agency (ECHA) set it at 10 mcg/L . Repeat testing is performed pending the circumstances of the exposure or occupational regulations.
+
+【109】Hair and nail — Determination of arsenic in hair and nails is most useful in epidemiologic studies performed to evaluate environmental exposures of populations to inorganic arsenic. Hair and fingernails may be good indicators for exposure to inorganic arsenic during their growth period (hair grows at 0.4 mm per day, while nails grow at a rate of 0.1 mm per day) since inorganic arsenic (to a much greater extent than organic arsenic) binds to protein and is deposited in hair and nails. In a patient with signs or symptoms suggestive of arsenic toxicity thought due to past exposures, careful collection of appropriate hair samples (ideally from areas of slow growth such as pubic hair) or nails can be analyzed for arsenic. Nail analysis usually requires clipping as much as possible from all digits (either fingernails **or** toenails). To collect the samples, particularly for pubic or axillary hair, we provide the patient with scissors and collection bottle, and the person can collect privately in the examination room, which may prevent contamination from the home environment.
+
+【110】Samples should be sent to a clinical laboratory experienced with metal testing and the testing should be only for arsenic rather than multiple elements. Results from hair and nail testing can be unreliable because of lack of standardization of analyses techniques. For example, commercial laboratory hair analyses for multiple elements including arsenic have been found to be highly inaccurate . Also, since removing exogenous arsenic from hair is very difficult, testing results may not be meaningful if air or dust containing arsenic comes into contact with hair or if bathing/showering with arsenic contaminated water .
+
+【111】Environmental (eg, drinking water) — If a patient or clinician is concerned for an arsenic exposure from drinking water, we either ask the patient to test the water if from a private well or obtain a report of testing if from a public water source. The local department of public health or the regional department of environmental protection can sometimes advise a reliable laboratory that performs water testing. If there is a known source of contamination (eg, mine), governmental agencies may already be testing local water supplies. As noted above, current United States and World Health Organization guidelines recommend arsenic water concentrations be less than 10 mcg/L to reduce the risk of arsenic-related cancer.
+
+【112】Examination of an environmental site can be performed by the Environmental Protection Agency (EPA). Examination of an occupational site can be performed by the Occupational Safety and Health Administration (OSHA). Employees, union officials, and employers can request a workplace Health Hazard Evaluation by contacting the National Institute of Occupational Safety and Health ( NIOSH ). In addition to government agencies, private consultants (eg, certified industrial hygienists) can also examine sites, but it is helpful to have this coordinated by an occupational/environmental medicine specialist.
+
+【113】Post-diagnostic and ancillary testing — In a patient with a remote acute exposure (possibly weeks to months prior) with an elevated inorganic arsenic concentration, or with signs and symptoms consistent with chronic toxicity, we obtain a complete blood count, tests of kidney and liver function, electrocardiogram (to evaluate for QTc interval prolongation), and a urinalysis.
+
+【114】In a patient with signs or symptoms of peripheral neuropathy and objective evidence is needed, we refer to a neurologist for nerve conduction studies (NCS) and for further evaluation of other potential causes of peripheral neuropathy. We do not routinely obtain NCS since these do not typically impact management decisions.
+
+【115】MANAGEMENT
+
+【116】Preventing ongoing exposure — The most important steps in the management of chronic arsenic poisoning are identification of the source of exposure, removal from the exposure (or marked reduction), and elimination of ongoing and future exposure to inorganic arsenic.
+
+【117】Arsenic is generally not absorbed from intact skin, and skin contamination from chronic exposure in the non-occupational setting usually does not occur. In a patient with recent skin exposure, as might occur in an occupational setting, arsenic can be removed with soap, water and scrubbing. Care should be taken to protect the contaminated person or treating clinician (ie, wearing personal protection to prevent inhalation of any aerosol), to avoid contaminating the surroundings, and to properly dispose of any contaminated fluids as a hazardous material.
+
+【118】A patient who reports or is identified to have an occupational arsenic exposure should be advised about contacting the government agency responsible for their workplace hazards, especially if the exposure is not being addressed. In the Unites States, the Occupational Safety and Health Administration (OSHA) can be contacted via phone  or a complaint can be filed on their website . The patient can also be advised about consulting an occupational medicine specialist or regional poison center.
+
+【119】Patients should be instructed not to cook with arsenic-contaminated water and never to burn pressure-treated wood in fireplaces or campfires.
+
+【120】Chelation not beneficial for past chronic exposure — In a patient with chronic arsenic exposure, we do not routinely administer chelation therapy. There are few studies, with significant limitations, regarding the efficacy of chelation therapy in the setting of chronic toxicity . These studies have demonstrated inconsistent results, and improvement in symptoms has been mostly subjective . Although chelation therapy increases arsenic excretion and possibly lowers arsenic concentration in some tissues, it is unclear whether this results in less morbidity or mortality in the setting of chronic arsenic toxicity. Chelators mobilize metals and redistribute them to body tissue, ideally increasing excretions, but the effects of redistribution are not completely understood. Chelators (ie, dimercaprol \[BAL\], succimer \[DMSA\], unithiol \[DMPS\])  also have adverse effects and can increase excretion of other beneficial metals, such as zinc and copper. Additionally, the efficacy of chelators decreases as the time since exposure increases.
+
+【121】Conversely, chelator therapy is used in patients with acute arsenic toxicity or in those with significant symptoms with very elevated urinary inorganic arsenic concentrations (suggesting recent exposure), which is beyond the scope of this topic.
+
+【122】Dermatologic lesions — Arsenic-induced skin cancers, Bowen disease, and premalignant keratosis can be treated with various therapies that are discussed separately.
+
+【123】Currently published evidence suggests that effective therapies for other arsenic-induced skin lesions are lacking . Keratolytic agents (eg, salicylic acid), retinoids, photodynamic therapy, and nicotinamide have been studied with inconclusive benefits. Therapies for porokeratotic lesions are discussed separately.
+
+【124】Referral to specialist — Clinicians involved in the care of patients with arsenic poisoning, or patients who have questions about arsenic exposures, may find it helpful to consult with occupational/environmental medicine clinicians who can assist in the diagnosis of arsenic poisoning, in the arrangement for environmental/work site evaluations and interventions, and in evaluations for worker compensation. Occupational/environmental medicine clinicians can also help with the decision for chelation therapy and administration of appropriate therapy.
+
+【125】Patients with arsenic keratosis and/or skin cancers should be evaluated and closely followed by a dermatologist.
+
+【126】SPECIAL POPULATIONS
+
+【127】Pediatrics — In general, children are more susceptible than adults to toxicants (including arsenic), for a variety of reasons such as more opportunities for exposure from increased hand-to-mouth behavior, breathing closer to the ground, differences in metabolism, and greater sensitivity of the developing nervous system to toxic insults . Compared with adults, children have less capacity for methylation, which is important for detoxification of inorganic arsenic . In children, latent effects may include neurobehavioral changes.
+
+【128】Early-life (ie, in utero and childhood) exposure to high arsenic levels in a contaminated water supply in Chile was associated with increased risk of developing bladder, laryngeal, and lung cancer, as well as bronchiectasis, three to four decades after the exposure . Children born during the decade of contamination and exposed in utero or between the ages of 1 to 10 had a 12-fold increase or a 5-fold increase in mortality from bronchiectasis, respectively. Children with exposure beginning at birth had a 16-fold increase in mortality from bladder cancer.
+
+【129】To reduce the exposure to potential arsenic-contaminated rice products, the American Academy of Pediatrics advises feeding babies a variety of foods and increasing dietary intake of foods made from wheat and oats . The US Pediatric Environmental Health Specialty Units advise limiting consumption of foods with high arsenic content, limiting rice milk in children younger than 54 months of age, reducing intake of foods containing high amounts of brown rice syrup, and rinsing rice prior to cooking .
+
+【130】Pregnancy — Since inorganic arsenic crosses the placenta, there is a potential for adverse reproductive and developmental outcomes. There is evidence of increased infant mortality, spontaneous abortions, stillbirths, and pre-term births associated with maternal arsenic exposure .
+
+【131】Nursing mothers — Limited data suggest that arsenic concentrations in breast milk are low even in women exposed to high levels of environmental arsenic . Thus, prolonged breastfeeding can protect infants and toddlers from arsenic toxicity in regions with high concentrations of arsenic in the drinking water.
+
+【132】ADDITIONAL RESOURCES
+
+【133】Regional poison centers — Regional poison centers in the United States are available at all times for consultation on patients with known or suspected poisoning, and who may be critically ill, require admission, or have clinical pictures that are unclear . In addition, some hospitals have medical toxicologists available for bedside consultation. Whenever available, these are invaluable resources to help in the diagnosis and management of ingestions or overdoses. Contact information for poison centers around the world is provided separately.
+
+【134】Regional Pediatric Environmental Health Specialty Units — For pediatric arsenic exposures and poisonings in the United States, the (PEHSUs) are a national network of experts in the prevention, diagnosis, management, and treatment of health issues that arise from environmental exposures from preconception through adolescence.
+
+【135】Society guideline links — Links to society and government-sponsored guidelines from selected countries and regions around the world are provided separately.
+
+【136】 **Pathophysiology of arsenic toxicity** – Arsenic toxicity can vary greatly depending on the chronicity and dose of exposure and the chemical properties of the arsenical compound (eg, valence, complexed structures). Trivalent arsenicals, both inorganic and organic metabolites, are considered the most toxic. Some organic forms of arsenic such as arsenobetaine are likely non-toxic.
+
+【137】 **Sources of exposure** – Arsenic is a naturally occurring element found in the earth's crust and within numerous ores. Exposures can occur from natural sources, occupational sources, dietary intake, drinking water, and include the following:
+
+【138】• Well water contaminated from industrial, hazardous waste, superfund sites, or natural leaching from soil and rocks
+
+【139】• Use and manufacture of arsenic-containing pesticides
+
+【140】• Fossil fuel combustion
+
+【141】• Inhaled dust from smelting and refining
+
+【142】• Metallurgy, semiconductor, decorative glass-making, and mining industries
+
+【143】• Dietary ingestion (typically originates from contaminated water or soil-derived foods such as rice)
+
+【144】• Contact with pressure-treated wood
+
+【145】• Therapeutical arsenicals, such as melarsoprol (treatment for trypanosomiasis) and arsenic trioxide (treatment for acute promyelocytic leukemia)
+
+【146】 **Clinical features of chronic toxicity** – Clinical features of chronic toxicity can occur after low- to moderate-level, prolonged exposure to arsenic and cause toxicity that develops over months to years. These can have an insidious onset and thus be difficult to recognize and diagnose. Latent effects from exposure refers to the malignancies, skin changes, cardiac effects, and neurobehavioral changes (which may be seen in children) that can develop years to decades after an acute or chronic exposure, even if the exposure has ceased.
+
+【147】Clinical features of chronic toxicity and latent effects include the following:
+
+【148】• **Cancer** – Inorganic arsenic is a recognized carcinogen and associated with increased risk of developing cancers of the skin (Bowen disease and basal cell carcinoma), bladder, kidney (transitional cell), lung, liver (hepatic angiosarcomas), and prostate.
+
+【149】• **Dermatologic** – Skin findings can include hyperpigmentation, hypopigmentation, kyperkeratoses and scaling (particularly the palms and soles), and gangrene ("Blackfoot" disease). Delayed skin manifestations can develop after acute poisoning and include maculopapular eruptions (sometimes in intertriginous areas), nail changes (Mees' or Beau's lines) , and periungual pigmentation.
+
+【150】• **Neurologic** – A symmetrical sensorimotor polyneuropathy is one of the most prominent symptoms of arsenic poisoning and can develop one to three weeks after acute high-dose poisoning or insidiously from chronic low-level exposures. The neuropathy can be very painful and result in weakness.
+
+【151】• **Cardiovascular** – Effects can include QTc prolongation (causing ventricular dysrhythmias), hypertension, and increased risk of developing cardiovascular disease (eg, coronary artery disease, cerebrovascular disease, and peripheral artery disease) and cardiovascular-related death.
+
+【152】• **Others** – Liver injury, type II diabetes mellitus, bronchiectasis, and anemia have potentially been associated with arsenic exposure.
+
+【153】 **Diagnostic evaluation** – The evaluation of a patient with possible chronic arsenic toxicity starts with obtaining a detailed history focused on uncovering potential sources of inorganic arsenic exposure and assessing for signs and symptoms characteristic of arsenic toxicity.
+
+【154】• **Diagnosis** – The diagnosis of chronic arsenic toxicity is made in a patient with characteristic signs and symptoms and a confirmed exposure, such as elevated concentrations in biological samples, soil, air, and water sample with elevated concentrations, or a history of exposure to a known or documented source of arsenic.
+
+【155】• **Urine arsenic concentrations** – A spot urine arsenic concentration (along with a urine creatinine to correct for the concentration) is sufficient for most circumstances. Although concentrations greater ≥50 mcg/L or 100 mcg As/g creatinine in the absence of recent fish, seaweed, or shellfish intake strongly suggests arsenic exposure/poisoning, no conclusion can be drawn until fractionated testing confirms the presence of inorganic-related arsenic species. For more accurate assessment, at the time of ordering, clinicians should request specific measurement of inorganic arsenic species if the total level is elevated.
+
+【156】• **Ancillary testing** – In patients with a remote acute exposure (possibly weeks to months prior), an elevated arsenic concentration, or signs and symptoms consistent with chronic toxicity, we obtain a complete blood count, tests of kidney and liver function, electrocardiogram (to evaluate for QTc prolongation), and a urinalysis. If a patient has signs or symptoms of peripheral neuropathy, nerve conduction studies should be obtained if objective documentation is needed or to exclude another cause of neuropathy.
+
+【157】 **Management** – The most important step in the management of chronic inorganic arsenic poisoning is removal from the exposure and elimination of ongoing and future exposure.
+
+【158】We do not routinely administer chelation therapy to a patient with chronic arsenic exposure or toxicity since there is insufficient evidence of benefit.黄艳玲
+
+====================================================================================================

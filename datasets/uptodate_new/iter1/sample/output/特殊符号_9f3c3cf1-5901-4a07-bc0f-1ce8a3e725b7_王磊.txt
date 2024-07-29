@@ -1,0 +1,170 @@
+【0】Magnetic sphincter augmentation (MSA)
+
+【1】INTRODUCTION 
+
+【2】Magnetic sphincter augmentation (MSA) is performed using the LINX Reflux Management System, a unique device that treats gastroesophageal reflux disease (GERD) by augmenting the native lower esophageal sphincter (LES) using magnets.
+
+【3】In this topic, we describe the device, selection of patients for MSA, current implantation techniques, postoperative management, clinical outcomes, and complications of the device. Other treatments for GERD are discussed elsewhere.
+
+【4】DEVICE DESCRIPTION 
+
+【5】The implantable magnetic sphincter from the LINX Reflux Management System is composed of a series of rare earth magnets coated in parylene and hermetically sealed inside titanium cases. The beads are interlinked together with titanium wires that resemble dumbbells arranged in a flexible ring. Such a construct creates a "Roman arch" configuration allowing the beads, when the ring is closed, to sit near to but not touching the surrounding magnets. When surgically implanted around the lower esophageal sphincter (LES), it will rest on the outer circumference of the esophagus without applying pressure to the underlying tissue.
+
+【6】During a swallow, the device opens transiently to pressure to allow food or liquid to pass into the stomach; when closed, it prevents the LES from opening to minimal gastric pressure, thereby preventing reflux . Physiologically, implantation of a magnetic sphincter can restore a defective LES .
+
+【7】INDICATION AND CONTRAINDICATIONS 
+
+【8】The only indication for patients to undergo MSA implantation is a confirmed diagnosis of gastroesophageal reflux disease (GERD) based on pH probe measurement. All patients being considered for MSA should undergo preoperative foregut evaluation including esophageal pH monitoring to secure the diagnosis of GERD as well as endoscopic and manometric evaluation of the esophagus. The preoperative evaluation of patients to determine their candidacy for antireflux surgery is discussed elsewhere.
+
+【9】Absolute contraindications include requiring magnetic resonance imaging (MRI) of >1.5 Tesla; active malignancy of the upper digestive tract; and allergy to titanium, stainless steel, or iron.
+
+【10】PATIENT SELECTION CRITERIA 
+
+【11】In addition to confirmed gastroesophageal reflux disease (GERD), initial guidance provided by the manufacturer also suggested that patients should have:
+
+【12】 No hiatal hernia >3 cm or a paraesophageal hernia
+
+【13】 No esophagitis worse than Los Angeles (LA) class A or B
+
+【14】 Adequate esophageal motility with >70 percent of effective swallows and a distal wave amplitude >35 mmHg
+
+【15】 Body mass index (BMI) <35 kg/m 2
+
+【16】 No Barrett esophagus
+
+【17】 No prior esophageal or gastric surgery
+
+【18】We suggest selecting patients for MSA based on these manufacturer's suggested criteria. Although reported , we caution that the use of MSA outside these criteria has only been evaluated in a limited number of studies, has limited objective data, and has limited long-term follow-up.
+
+【19】Manometric data pre- and post-MSA have demonstrated that lower esophageal sphincters (LESs) with one defective component can be restored to normal in 77 percent of patients, whereas those with two or three defective components can only be restored to normal in 56 percent. As such, MSA may not sufficiently control GERD in patients with an LES with multiple defects . The LESs of patients who do not meet the manufacturer's criteria often have more defects than those of patients who meet the criteria.
+
+【20】Although there has been no specific study in patients with a BMI >35 kg/m 2 , at least one analysis suggested that with increasing BMI, good-to-excellent outcomes were hard to achieve . Similarly, patients with LA class C or D esophagitis are less likely to achieve good-to-excellent outcomes than those with LA class A or B esophagitis .
+
+【21】IMPLANTATION TECHNIQUE 
+
+【22】Implantation of a magnetic sphincter is most commonly performed laparoscopically, though some surgeons have reported placement with robotic assistance. Trocar placement is similar to that for other foregut surgeries .
+
+【23】Hiatal dissection and cruroplasty — We suggest that a complete hiatal dissection followed by restoration of intra-abdominal lower esophageal sphincter (LES) length and crural closure be performed prior to device implantation. Although early adopters of MSA performed a minimal dissection at the hiatus to preserve the phrenoesophageal membrane and normal hiatal attachments, there is evidence that closure of the diaphragmatic crus and the functional LES synergistically contribute to a functional reflux barrier . Additionally, several contemporary series have suggested that a complete hiatal dissection during MSA leads to greater reflux control and normalization of esophageal pH .
+
+【24】A standard hiatal dissection is usually accomplished with an energy device such as hook cautery or Harmonic scalpel. We begin by incising the gastrohepatic ligament ; the dissection is carried along the length of the right crus, across the anterior cruciate confluence, and down the left crus. While crossing the median plane of the esophagus, the anterior vagus nerve is identified and left in its position on the esophagus. Retroesophageal dissection begins along the anterior border of the right crus just cephalad to the decussation of the crura. At this time, the posterior vagal trunk is identified. Gentle dissection from the right in this position opens the retroesophageal window. A Penrose drain may be passed through the retroesophageal window to encircle the esophagus if required for further hiatal dissection, which is largely performed bluntly, taking care to cauterize any vessels. Interrupted permanent suture is used to close the hiatus until it matches the size of the esophagus.
+
+【25】Device sizing and implantation — After hiatal dissection and cruroplasty, a tunnel is bluntly created between the posterior esophageal wall and the posterior vagal trunk at or within 5 mm above the esophagogastric junction (EGJ) at the angle of His; the Penrose drain is replaced into this space . Care should be taken not to dissect this space too widely, as a narrow space helps keep the magnetic sphincter in place after implantation.
+
+【26】The sizing tool is passed through this tunnel and closed around the esophagus. The device is tightened down until the magnet pops off. Appropriate sizing is two levels above the pop of the magnet ("two above the pop"). With the aim of decreasing postoperative dysphagia, some surgeons are now advocating selecting a device size that is "three above the pop." Since data comparing these two methods are not available and the current outcomes are based on "two above the pop," we continue to perform "two above the pop."
+
+【27】When sizing the esophagus, the sizing tool should not visually indent or compress the esophageal wall. If the esophageal circumference is smaller than the smallest sizing measurement, the smallest device is chosen. Rarely, the esophageal diameter may be too large to accommodate even the largest magnetic sphincter; the authors have only seen this occur after sleeve gastrectomy. In this situation, hiatal closure alone or hiatal closure with a fundoplication can be performed.
+
+【28】The appropriately sized magnetic sphincter implant is introduced into the abdomen and passed through the space between the posterior vagus and esophagus, using the Penrose as a guide. The magnetic sphincter is laid over the anterior surface of the EGJ at the level of the angle of His insertion and above the visceral peritoneal reflection . The device has a black mark on each of the terminal magnetic beads, which are secured to each other with a notched sliding mechanism. The sutures attached to the terminal beads are grasped in sequence by the left-hand grasper to stabilize the unit; simultaneously, another grasper is used to squeeze the two terminal beads together and lock the device into place. This should result in alignment of the two black lines into a single black bar visualized laparoscopically .
+
+【29】The target location of the device is the endoscopic EGJ. We confirm the correct location by performing intraoperative upper endoscopy, identify the endoscopic EGJ, and gently indent the esophageal wall against the device at that level with the endoscope.
+
+【30】POSTOPERATIVE MANAGEMENT 
+
+【31】Most patients may be discharged from the hospital on the day of magnetic sphincter implantation. At the authors' institution, a single-view (anteroposterior \[AP\]) chest radiograph is performed prior to discharge to verify the intra-abdominal position of the magnetic sphincter device. Supradiaphragmatic position should prompt immediate reexploration and repositioning. If there are concerns for short esophagus at the time of repeat laparoscopy, the magnetic sphincter should be explanted and an alternate antireflux operation undertaken.
+
+【32】Postoperative pain should be managed primarily with non-narcotic medications such as nonsteroidal anti-inflammatory drugs (NSAIDs) and acetaminophen . A prescription for oral narcotics to last for the first three to four days is generally sufficient for breakthrough pain.
+
+【33】The postoperative management of a patient with magnetic sphincter implantation is primarily aimed at management of postoperative nausea/emesis and prevention of excessive scarring at the esophagogastric junction (EGJ).
+
+【34】 Patients are discharged with oral antinausea medications to prevent emesis or retching, which may cause device displacement and/or hiatal disruption during the healing process. We ask the patients to take these medications round the clock for the first 24 hours and then as needed afterwards.
+
+【35】 A general strategy for diet advancement consists of clear liquids in the recovery area before discharge and full liquids after discharge on the day of surgery, followed by a regular diet starting the morning after surgery. Patients are instructed to take at least several bites of food about the size of what fits into the patient's palm every hour while awake in order to allow functional scarring and prevent cicatricial narrowing at the site of device implantation.
+
+【36】Patients are evaluated in the clinic after four weeks to ensure that they are doing well and adhering to the hourly feeding, which continues through the sixth week postoperatively. At one year after implantation, patients undergo objective testing with upper endoscopy, ambulatory pH testing, high-resolution manometry to assess for changes in motility, and chest radiograph to screen for complications such as late dysphagia, device herniation or erosion, recurrent gastroesophageal reflux, or esophageal motility disorder. The results of these studies help direct subsequent follow-up plans.
+
+【37】CLINICAL IMPROVEMENTS 
+
+【38】The LINX device was approved in 2012 by the US Food and Drug Administration for the surgical management of gastroesophageal reflux disease (GERD) based on a series of animal and small human trials that were published in the late 2000s . Over time, short- to mid-term (one- to five-year) results were published , culminating in a multicenter randomized trial of MSA versus proton pump inhibitors (PPIs) . One long-term study with a median follow-up of nine years has also been reported .
+
+【39】These studies have consistently demonstrated reduced GERD symptoms and improved GERD-related quality of life scores, cessation of PPI use, and substantial normalization of objective GERD measurements in the majority of patients as described below .
+
+【40】Symptom resolution — Symptom improvement (eg, in heartburn and regurgitation) is evident in all studies of MSA. Studies with follow-up ranging from seven months to five years have demonstrated significant reduction in GERD-health related quality of life (GERD-HRQL) scores in approximately 80 to 85 percent of patients . The long-term study reveals that the relief of symptoms is durable, with a median GERD-HRQL of 2 and no persistent late dysphagia after nine years . Patient satisfaction rates are as high as 94 percent even in late-stage follow-up.
+
+【41】A trial found that 89 percent of patients undergoing MSA had relief of regurgitation symptoms, whereas only 10 percent of patients on twice-daily PPIs did .
+
+【42】Antisecretory medication and acid exposure — In the short term, nearly 100 percent of patients will cease PPIs; however, about 10 to 15 percent of patients will restart PPIs at mid-term follow-up. The only long-term study revealed freedom from antisecretory medications in 79 percent of patients . Experience with fundoplication suggests that a weakened hiatal repair may contribute to increased esophageal acid exposure over time .
+
+【43】Manometric assessment — Manometric findings post-MSA are described in a single-institution experience of 122 patients empirically undergoing high-resolution manometry one year after MSA . Changes included an increase of about 5 mmHg in resting and residual LES pressure, distal esophageal contraction amplitude, and a longer overall and intra-abdominal LES length. In patients with a manometrically defective LES, 67 percent were restored to normal LES, with a higher rate of return to normal in patients who had one LES component being defective compared with those with two or three defective components. Only 18 percent with initially normal manometry were found to progress to a manometrically abnormal esophagus post-MSA, although such change in motility did not correlate with increased distal esophageal acid exposure, regurgitation, or dysphagia. Although the device may result in an increased outflow resistance at the esophagogastric junction, the compensatory increase in the force of esophageal contraction will result in unaltered esophageal peristaltic progression and bolus clearance . Reference values of high-resolution manometry after MSA have been published ; the upper limit of normal for intrabolus pressure is 30 mmHg in those who were free of dysphagia .
+
+【44】pH assessment — Distal esophageal acid exposure studies in patients post-MSA have demonstrated an improvement that correlates with improvement in heartburn and regurgitation symptoms. Several series have reported normalization of acid exposure in 74 to 76 percent of patients . A series of 553 patients examined a subset of patients with pH studies pre-MSA and post-MSA (one year) . The average DeMeester score decreased from 32.9 to 12.3 (ie, from abnormal to normal). The subgroup analysis based on device size reveals that a larger device size  averages a higher DeMeester score after implantation than a smaller one .
+
+【45】In a trial against PPIs, MSA normalized reflux episodes in 91 percent and acid exposure in 89 percent of patients, whereas PPIs normalized reflux episodes in 58 percent and acid exposure in 75 percent . To date, the only study with long-term follow-up reports at least 50 percent reduction in acid exposure in 89 percent of patients at a median of nine years of follow-up .
+
+【46】MSA has been evaluated across the spectrum of GERD severity. In a retrospective study of 344 patients undergoing MSA, those with severe GERD (defined as preoperative DeMeester scores ≥50) had similar postoperative DeMeester scores, GERD-related quality of life measures, prevalence of esophagitis, incidence of dysphagia, and need for device removal compared with patients with lower preoperative DeMeester scores .
+
+【47】Endoscopic findings — In a study of the 34 patients who underwent endoscopy at five years post-MSA, 77 percent revealed resolved esophagitis, and 14 percent developed de novo esophagitis, predominantly Los Angeles (LA) grade A and occasionally  LA grade B .
+
+【48】Studies with short-term follow-up showed a positive effect of MSA on Barrett esophagus. As examples, two studies have shown loss of intestinal metaplasia in up to 60 percent and improvement in another 10 percent of patients with Barrett esophagus . The best results were noted in patients with short- or ultra-short-segment Barrett esophagus preoperatively (<3 cm by Prague criteria). Of note, no patients in these short-term series displayed progression to dysphagia or neoplasia, but confirmation in larger series is required.
+
+【49】MSA should not be performed in patients with long-segment Barrett esophagus (>3 cm). Most such patients have severe GERD, large hiatal hernia, and/or more defective LES, for which MSA is unlikely to provide sufficient reflux control .
+
+【50】POSTOPERATIVE COMPLICATIONS
+
+【51】Dysphagia — Dysphagia can occur early or late after MSA implantation by different mechanisms:
+
+【52】 **Early postoperative dysphagia** is largely related to the scarring process. It occurs at a rate of 12 to 20 percent, is generally mild, resolves after inflammation subsides and the device is encapsulated, and rarely progresses to late dysphagia. Patients can be managed with hourly solid food eating in the first six weeks. Those with severe symptoms can be treated with oral corticosteroids to reduce inflammation and curb overexuberant scarring reaction . Dilation can also be used to provide further relief .
+
+【53】 **Late postoperative dysphagia** can occur at any time after three months postimplantation. It may be accompanied by spastic pain, regurgitation, and/or vomiting. The reported rates of late dysphagia range from 7 to 15 percent . Because late dysphagia may be a form of acquired esophageal dysmotility, it is best evaluated by high-resolution manometry after ruling out device erosion.
+
+【54】The initial treatment for late postoperative dysphagia is dilation, which is performed in 4 to 16 percent of patients after MSA implants. Most experts use a 15 mm through-the-scope dilator with the majority of patients having resolution of symptoms after one or two dilations . While larger dilators can be used, the outcomes are inconsistent.
+
+【55】Device explantation is less frequently required, at a rate of 1.5 percent in early series and 0.7 percent in later series . After removal of the device, spasm and other associated symptoms are usually resolved . Depending upon patient and surgeon preference, a fundoplication may be performed at the time of device explantation.
+
+【56】Device erosion — Device erosion is a significant but not prohibitive complication of MSA implantation. A 2018 safety analysis of 9453 device implants identified a total of 29 erosions; the risk of erosion was 0.3 percent at four years after implantation . Most erosions in this review  occurred with the 12-bead device, which has since been removed from the market by the manufacturer. The average time to erosion was 26 months, with most erosions occurring between one and four years.
+
+【57】Any patient with an eroded device should be referred to a specialized center for extraction. The intraluminal portion of the device is usually removed first endoscopically. The remainder of the device is removed laparoscopically after a minimum of two weeks. We usually wait for four to six weeks so that patients with GERD symptoms can undergo a fundoplication in the same operation.
+
+【58】Patients can expect to experience some degree of dysphagia after explantation, given that the scar band is likely contracted around the esophagus secondary to a slow intraluminal migration of the device. The safety analysis cited above reported no perforations, with a median follow-up of approximately two months after explantation .
+
+【59】Device explantation — Magnetic sphincter explantation occurred in 3 to 7 percent of all implantations . Indications include persistent heartburn, regurgitation, dysphagia, chest pain, and device erosion. In a retrospective series of 40 explantations, 77 and 22 percent were for dysphagia and persistent heartburn, respectively. After explantation, patients with dysphagia did well with or without an antireflux procedure, while those with heartburn had worse outcomes without an antireflux procedure .
+
+【60】Others — Rare complications include an induced aperistalsis disorder and the development of gastroparesis. Both have been reported anecdotally and are discussed at society meetings; however, the true rate is difficult to measure. Neither has been reported in any series of more than 100 patients.
+
+【61】MSA VERSUS FUNDOPLICATION 
+
+【62】Compared with fundoplication, MSA has some clear advantages and disadvantages. Patients with early gastroesophageal reflux disease (GERD) should choose among all available surgical or endoscopic antireflux procedures based upon the efficacy/durability and potential adverse effects/perturbation to gastrointestinal physiology associated with each procedure. This shared decision-making process also sets the correct expectation for surgical outcomes.
+
+【63】 Based on symptom improvement, cessation of proton pump inhibitors (PPIs), and objective pH assessment, MSA is now approaching the supranormal GERD control a Nissen (complete) fundoplication achieves . It does so with less bloating and preserves the ability to belch and vomit, which are functions patients strongly value.
+
+【64】 MSA has similar outcomes in terms of GERD control and side effects compared with Toupet (partial) fundoplication .
+
+【65】 MSA, even with its current implantation technique, is less invasive than fundoplication because it does not alter the gastric fundus. This has allowed nearly all MSA procedures to be performed as outpatient surgery and nearly all patients to resume a normal, albeit small, meal the day after surgery. By comparison, fundoplication has more dietary restrictions in the early postoperative period. MSA also generates fewer ongoing concerns for nausea and emesis than fundoplication.
+
+【66】 MSA is associated with a higher rate of dysphagia than fundoplication.
+
+【67】 Patients must be made aware of the risks of implanting a foreign body. Although the risk of erosion is exceptionally small, it is not zero.
+
+【68】 Insurance authorization remains an impediment to MSA, which is nonexistent for fundoplication.
+
+【69】REIMBURSEMENT 
+
+【70】It has been nearly a decade since the Food and Drug Administration (FDA) approved the use of MSA for the treatment of gastroesophageal reflux disease (GERD) and nearly five years after it was awarded a category 1 CPT code by the American Medical Association. Insurance authorization continues to be challenging for patients and surgeons. Patients whose insurance still deems MSA as experimental often have to go through several rounds of appeals and independent review to receive approval despite the evidence described above. This has led some surgeons to implant the device under the pretense of a paraesophageal hernia repair, risking legal action. Alternatively, the surgeon's organization may have to absorb the cost of the device.
+
+【71】Links to society and government-sponsored guidelines from selected countries and regions around the world are provided separately.
+
+【72】 **Device description** – Magnetic sphincter augmentation (MSA) is an antireflux surgical procedure that utilizes an implantable flexible ring of rare earth magnets to augment the lower esophageal sphincter. It was designed as an alternative to medical therapy for patients with early gastroesophageal reflux disease (GERD).
+
+【73】 **Indication and contraindications** – The only indication for MSA is GERD diagnosed by pH probe measurement. Absolute contraindications include requiring magnetic resonance imaging (MRI) of >1.5 Tesla; active malignancy of the upper digestive tract; and allergy to titanium, stainless steel, or iron.
+
+【74】 **Patient selection criteria** – We adhere to the manufacturer's guidelines of avoiding implanting MSA in patients with large (>3 cm) hiatal hernia or paraesophageal hernia, severe esophagitis (Los Angeles grade C or D), Barrett esophagus, obesity (body mass index >35 kg/m 2 ), esophageal dysmotility, or prior foregut surgery.
+
+【75】 **Hiatal dissection and cruroplasty** – Prior to device implantation, we suggest performing a complete hiatal dissection followed by restoration of intra-abdominal lower esophageal sphincter (LES) length and crural closure, rather than a minimal hiatal dissection . Data suggest that a complete hiatal dissection with MSA leads to greater reflux control and normalization of esophageal pH.
+
+【76】 **Device sizing and implantation** – Careful device sizing and implantation is essential to preventing postoperative complications. For all patients, we suggest using "two above the pop" rather than another method of sizing .
+
+【77】 **Postoperative management** – Most MSA procedures are performed as outpatient surgery. Prior to discharging patients from the hospital, we perform a chest radiograph to confirm the intra-abdominal position of the magnetic sphincter. Supradiaphragmatic position requires immediate reexploration and either repositioning or removal of the device.
+
+【78】For six weeks after magnetic sphincter implantation, patients are instructed to eat at least several bites of food about the size of what fits into the patient's palm every hour while awake in order to prevent cicatricial narrowing at the site of device implantation.
+
+【79】 **Outcomes** – Short- (one- to five-year) and early long-term (>5 year) studies of MSA demonstrate both subjective and objective improvement of GERD symptoms and quality of life, normalization of pH testing, and cessation of proton pump inhibitor therapy.
+
+【80】• Patients who develop early postoperative dysphagia can be treated with steady hourly eating, oral corticosteroids, or dilation. Late postoperative dysphagia, which occurs three months or later after implantation, is usually treated with dilation but may require device explantation.
+
+【81】• Device erosion is a significant but not prohibitive complication of MSA implantation that occurs at a rate of 0.3 percent at four years.
+
+【82】• Device explantation is required in approximately 3 to 7 percent of MSA patients and can be accomplished minimally invasively using endoscopic followed by laparoscopic methods.
+
+【83】• MSA approaches the supranormal GERD control achieved by Nissen (complete) fundoplication with less bloating and preserved ability to belch and vomit. MSA and Toupet (partial) fundoplication have comparable efficacies and side effects. MSA is associated with a higher rate of dysphagia than fundoplication.王磊
+
+====================================================================================================
+文本干净度#特殊符号#❤️#无

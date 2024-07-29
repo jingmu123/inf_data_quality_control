@@ -1,0 +1,554 @@
+【0】Iron sucrose: Pediatric drug information
+
+【1】Contributor Disclosures
+
+【2】For abbreviations, symbols, and age group definitions show table
+
+【3】Brand Names: US
+
+【4】*   Venofer
+
+【5】Brand Names: Canada
+
+【6】*   PMS-Iron Sucrose;
+*   Venofer
+
+【7】Therapeutic Category
+
+【8】*   Iron Salt, Parenteral ;
+*   Mineral, Parenteral
+
+【9】Dosing: Neonatal
+
+【10】**Dosage guidance:**
+
+【11】**Safety: Multiple forms of parenteral iron exist; close attention must be paid to the specific product when ordering and administering** ; incorrect selection or substitution of one form for another without proper dosage adjustment may result in serious over- or underdosing.
+
+【12】**Dosing:** Doses are expressed as mg of **elemental iron** .
+
+【13】Anemia of prematurity
+
+【14】**Anemia of prematurity:** Limited data available:
+
+【15】Preterm Neonates: **Note:** In clinical studies, parenteral iron was used (as an alternative to enteral iron) in combination with erythropoietin.
+
+【16】_Daily regimen:_ 1 mg/kg/dose once daily .
+
+【17】_Biweekly regimen:_ 1.5 mg/kg/dose twice weekly .
+
+【18】_Weekly regimen:_ 3 to 6 mg/kg/dose once weekly .
+
+【19】Dosing: Pediatric
+
+【20】**Dosage guidance:**
+
+【21】**Safety: Multiple forms of parenteral iron exist; close attention must be paid to the specific product when ordering and administering** ; incorrect selection or substitution of one form for another without proper dosage adjustment may result in serious over- or underdosing.
+
+【22】**Dosing:** Doses are expressed as mg of **elemental iron** .
+
+【23】Iron-deficiency anemia in chronic kidney disease
+
+【24】**Iron-deficiency anemia in chronic kidney disease (CKD):**
+
+【25】_Repletion treatment:_ Limited data available: Children ≥2 years and Adolescents ≤15 years: IV: 1 mg/kg/dose per dialysis session; repeat dose with each dialysis session until patient-specific lab goals are met, then follow with maintenance dosing. Dosing based on a dose-finding trial in 14 pediatric patients (ages 2 to 15 years) receiving iron sucrose in combination with epoetin for absolute or functional iron deficiency. Due to a rapid increase in ferritin levels (from 59 mcg/L to 496 mcg/L) observed in the first 6 weeks of the trial, the dosing protocol for iron sucrose was changed from 3 mg/kg/dose per dialysis session to 1 mg/kg/dose per dialysis session; the dose of 1 mg/kg/dose per dialysis session was continued until a patient was considered replete based on study criteria, at which point the patient was transitioned to the maintenance group within the study .
+
+【26】_Maintenance therapy:_ Children ≥2 years and Adolescents:
+
+【27】Hemodialysis-dependent CKD: IV: 0.5 mg/kg/dose every 2 weeks for 12 weeks ; maximum dose: 100 mg/dose; may repeat if clinically indicated.
+
+【28】Peritoneal dialysis-dependent CKD (in combination with erythropoietin therapy): IV: 0.5 mg/kg/dose every 4 weeks for 12 weeks ; maximum dose: 100 mg/dose; may repeat if clinically indicated.
+
+【29】Nondialysis-dependent CKD (in combination with erythropoietin therapy): IV: 0.5 mg/kg/dose every 4 weeks for 12 weeks ; maximum dose: 100 mg/dose; may repeat if clinically indicated.
+
+【30】Iron-deficiency anemia, treatment, patients without chronic kidney disease
+
+【31】**Iron-deficiency anemia, treatment, patients without chronic kidney disease:** Limited data available:
+
+【32】Infants, Children, and Adolescents: IV: 2.5 to 7 mg/kg/dose; repeat every 3 to 7 days until patient-specific goals are met or total calculated deficit replaced; maximum dose: 300 mg/dose; less frequent administration has been reported and some experts recommend maximum initial dose of 100 mg/dose .
+
+【33】Dosing: Kidney Impairment: Pediatric
+
+【34】Nondialyzable. There are no dosage adjustments provided in the manufacturer's labeling.
+
+【35】Dosing: Hepatic Impairment: Pediatric
+
+【36】There are no dosage adjustments provided in the manufacturer's labeling.
+
+【37】Dosing: Adult
+
+【38】**Dosage guidance:**
+
+【39】**Dosing:** Dose is expressed in mg of elemental iron. A test dose typically is not required **.**
+
+【40】**Clinical considerations** **:** IV iron replacement is preferred over oral replacement in several clinical situations (eg, poor GI absorption, lack of response to or poor tolerability of oral iron, need for rapid repletion, chronic kidney disease, active inflammatory bowel disease, cancer, chronic or extensive blood loss) .
+
+【41】Chemotherapy-associated anemia
+
+【42】**Chemotherapy-associated anemia (off-label use): IV:** 200 mg once every 3 weeks for 5 doses  **or** 100 mg once weekly during weeks 0 to 6, followed by 100 mg every other week from weeks 8 to 14  **or** 200 mg once a week after each platinum-based chemotherapy cycle for up to 6 doses  **or** 200 mg after each platinum-based chemotherapy cycle for 6 cycles .
+
+【43】Iron-deficiency anemia in chronic kidney disease
+
+【44】**Iron-deficiency anemia in chronic kidney disease:** **IV:**
+
+【45】_Hemodialysis-dependent chronic kidney disease:_ 100 mg administered during consecutive dialysis sessions; the usual cumulative total dose is 1,000 mg ; may repeat treatment if clinically indicated.
+
+【46】_Peritoneal dialysis-dependent chronic kidney disease:_ Two infusions of 300 mg administered 14 days apart, followed by a single 400 mg infusion 14 days later (total cumulative dose of 1,000 mg in 3 divided doses); may repeat treatment if clinically indicated.
+
+【47】_Non-dialysis-dependent chronic kidney disease:_ 200 mg administered on 5 different occasions within a 14-day period (total cumulative dose: 1,000 mg in 14-day period); may repeat treatment if clinically indicated. **Note:** Dosage has also been administered as 2 infusions of 500 mg on day 1 and day 14 (limited experience).
+
+【48】Iron-deficiency anemia, treatment, patients without chronic kidney disease
+
+【49】**Iron-deficiency anemia, treatment, patients without chronic kidney disease (off-label use): IV:** 100 to 300 mg per dose; repeat doses may be given until total iron requirements are met . Dosing schedule depends on iron deficit and ease of scheduling. Cumulative doses >1 g generally are not required during a single treatment course unless there is ongoing blood loss .
+
+【50】Dosing: Kidney Impairment: Adult
+
+【51】The renal dosing recommendations are based upon the best available evidence and clinical expertise. Senior Editorial Team: Bruce Mueller, PharmD, FCCP, FASN, FNKF; Jason A. Roberts, PhD, BPharm (Hons), B App Sc, FSHP, FISAC; Michael Heung, MD, MS.
+
+【52】**Altered kidney function:** No dosage adjustment necessary for any degree of kidney dysfunction ; limited amounts of iron (~5%) eliminated in urine .
+
+【53】**Hemodialysis, intermittent (thrice weekly):** Not significantly dialyzed : No supplemental dose or dosage adjustment necessary .
+
+【54】**Peritoneal dialysis:** Unlikely to be significantly dialyzed (large molecular weight): No dosage adjustment necessary .
+
+【55】**CRRT:** No dosage adjustment necessary .
+
+【56】**PIRRT (eg, sustained, low-efficiency diafiltration):** No dosage adjustment necessary .
+
+【57】Dosing: Hepatic Impairment: Adult
+
+【58】There are no dosage adjustments provided in the manufacturer's labeling.
+
+【59】Adverse Reactions (Significant): Considerations
+
+【60】Hypersensitivity reactions
+
+【61】Rates of infusion reactions associated with IV iron preparations vary across studies ; higher rates of infusion reactions with iron sucrose compared to other formulations . Immediate **hypersensitivity reactions** to IV iron preparations, including iron sucrose, range in severity from mild self-limited reactions (eg, **pruritus** , urticaria, asymptomatic **hypotension** ) to severe **anaphylaxis** and **anaphylactic shock** . Transient flushing and truncal myalgias, known as Fishbane reactions, occur in ~30% of all infusion reactions, quickly resolve after discontinuing the infusion, and do not recur when the infusion is restarted at a slower rate . Delayed hypersensitivity reactions, most often exanthematous cutaneous reactions, have also been reported . There is a lack of cross-reactivity between iron sucrose and iron dextran .
+
+【62】_Mechanism_ : Non–dose-related; may be immunologic or nonimmunologic (more common) . Immediate hypersensitivity reactions (eg, anaphylaxis): mechanism unknown . Nonimmunologic reactions (eg, Fishbane reactions) may be due to activation of complement, referred to as complement activation-related pseudo-allergy (CARPA) . Delayed hypersensitivity reactions are commonly T-cell mediated .
+
+【63】_Onset_ : Rapid; occur most frequently within the first 10 minutes of the infusion but may occur more than 30 minutes after completion of the infusion .
+
+【64】_Risk factors_ :
+
+【65】• Higher dose and faster infusion rates 
+
+【66】• Previous reaction to IV iron 
+
+【67】Infection
+
+【68】IV iron, including iron sucrose, may be associated with an increased risk of infection .
+
+【69】_Mechanism_ : Non–dose-related; IV iron can increase levels of non–transferrin-bound iron, which can lead to impaired T-cell and neutrophil function .
+
+【70】_Onset_ : Varied; can occur after single- or multiple-dose administrations .
+
+【71】_Risk factors_ :
+
+【72】• Patients with inflammatory bowel disease 
+
+【73】Iron overload
+
+【74】Excessive iron therapy may lead to iron overload (with the possibility of iatrogenic hemosiderosis) in patients with kidney failure .
+
+【75】_Mechanism_ : Dose-related; occurs when administered iron exceeds the carrying capacity of transferrin, leading to the release of labile, non–transferrin-bound iron .
+
+【76】_Onset_ : Delayed; following chronic exposure .
+
+【77】_Risk factors:_
+
+【78】_•_ High IV iron doses 
+
+【79】Adverse Reactions
+
+【80】The following adverse drug reactions and incidences are derived from product labeling unless otherwise specified. Reported adverse reactions are for adults with hemodialysis dependent (HDD), non-dialysis dependent (NDD), and/or peritoneal dialysis dependent (PDD) chronic kidney disease (CKD), unless otherwise noted.
+
+【81】\>10%:
+
+【82】Cardiovascular: Hypotension (children and adolescents: 2%; adults: HDD-CKD: 39%, NDD/PDD-CKD: 2% to 3%)  Hypotension
+
+【83】**Iron Sucrose: Adverse Reaction: Hypotension**
+
+| **Drug (Iron Sucrose)**  | **Comparator**  | **Population**  | **Dosage Form**  | **Indication**  | **Number of Patients (Iron Sucrose)**  | **Number of Patients (Comparator)**  | **Comments**  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 2%  | N/A  | Children and adolescents  | IV injection  | CKD  | 141  | N/A  | N/A  |
+| 39%  | N/A  | Adults  | IV injection  | HDD-CKD  | 231  | N/A  | N/A  |
+| 2%  | 0.7%  | Adults  | IV injection  | NDD-CKD  | 139  | 139  | Comparator: Oral iron  |
+| 3%  | 2%  | Adults  | IV injection  | PDD-CKD  | 75  | 46  | Comparator: Erythropoietin  |
+
+【85】Gastrointestinal: Nausea (children and adolescents: 3%; adults: 5% to 15%)
+
+【86】Nervous system: Headache (children and adolescents: 6%; adults: HDD-CKD: 13%, NDD/PDD-CKD: 3% to 4%)
+
+【87】Neuromuscular & skeletal: Muscle cramps (HDD-CKD: 29%, NDD/PDD-CKD: ≤3%)
+
+【88】Respiratory: Nasopharyngitis (≤16%) pharyngitis (≤16%), sinusitis (≤16%), upper respiratory tract infection (≤16%)
+
+【89】1% to 10%:
+
+【90】Cardiovascular: Arteriovenous fistula site complication (thrombosis: children: 2%), chest pain , heart failure (>1%), hypertension (children and adolescents: 2%; adults: 7% to 8%), peripheral edema 
+
+【91】Dermatologic: Pruritus   Pruritus
+
+【92】**Iron Sucrose: Adverse Reaction: Pruritus**
+
+| **Drug (Iron Sucrose)**  | **Comparator**  | **Population**  | **Dosage Form**  | **Indication**  | **Number of Patients (Iron Sucrose)**  | **Number of Patients (Comparator)**  | **Comments**  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 4%  | N/A  | Adults  | IV injection  | HDD-CKD  | 231  | N/A  | N/A  |
+| 2%  | 4%  | Adults  | IV injection  | NDD-CKD  | 139  | 139  | Comparator: Oral iron  |
+| 3%  | 0%  | Adults  | IV injection  | PDD-CKD  | 75  | 46  | Comparator: Erythropoietin  |
+
+【94】Endocrine & metabolic: Hyperglycemia , hypervolemia , hypoglycemia (HDD/NDD-CKD: <1%, PDD-CKD: 4%)
+
+【95】Gastrointestinal: Abdominal pain , diarrhea , dysgeusia (≤8%), peritonitis (children: 4%), vomiting (children and adolescents: 4%; adults: 5% to 9%)
+
+【96】Infection: Sepsis (>1%)
+
+【97】Local: Infusion-site reaction (≤6%; including burning and infusion-site pain)
+
+【98】Nervous system: Asthenia (≤3%), dizziness (children and adolescents: 4%; adults: HDD/NDD-CKD: 7%, PDD-CKD: 1%)
+
+【99】Neuromuscular & skeletal: Arthralgia , back pain , gout , limb pain , myalgia 
+
+【100】Ophthalmic: Conjunctivitis (≤3%)
+
+【101】Otic: Otalgia 
+
+【102】Respiratory: Cough (children and adolescents: 4%; adults: 1% to 3%), dyspnea , nasal congestion , viral respiratory tract infection (children: 4%)
+
+【103】Miscellaneous: Fever (children and adolescents: 4%; adults: ≤3%)
+
+【104】Postmarketing (any population):
+
+【105】Cardiovascular: Bradycardia, collapse, ischemic heart disease, shock
+
+【106】Dermatologic: Hyperhidrosis
+
+【107】Genitourinary: Urine discoloration
+
+【108】Hypersensitivity: Hypersensitivity reaction (including anaphylactic shock, anaphylaxis, and angioedema) (Behera 2015, Mishra 2013)
+
+【109】Nervous system: Confusion, loss of consciousness, paresthesia, seizure
+
+【110】Neuromuscular & skeletal: Joint swelling
+
+【111】Respiratory: Bronchospasm
+
+【112】Contraindications
+
+【113】Known hypersensitivity to iron sucrose or any component of the formulation
+
+【114】_Canadian labeling_ : Additional contraindications (not in the US labeling): Iron overload; anemia not caused by iron deficiency
+
+【115】Warnings/Precautions
+
+【116】**_Concerns related to adverse effects:_**
+
+【117】• Hypotension: Clinically significant hypotension has been reported; monitor for signs/symptoms of hypotension. Hypotension may be related to total dose or rate of administration (avoid rapid IV injection).
+
+【118】Warnings: Additional Pediatric Considerations
+
+【119】Use parenteral iron products with caution in premature neonates; necrotizing enterocolitis has been reported; however, no causal relationship established.
+
+【120】Dosage Forms Considerations
+
+【121】Strength of iron sucrose is expressed as elemental iron.
+
+【122】Dosage Forms: US
+
+【123】Excipient information presented when available (limited, particularly for generics); consult specific product labeling.
+
+【124】Solution, Intravenous \[preservative free\]:
+
+【125】Venofer: 20 mg/mL 
+
+【126】Generic Equivalent Available: US
+
+【127】No
+
+【128】Pricing: US
+
+【129】**Solution** (Venofer Intravenous)
+
+【130】20 mg/mL (per mL): $8.83
+
+【131】**Disclaimer:** A representative AWP (Average Wholesale Price) price or price range is provided as reference price only. A range is provided when more than one manufacturer's AWP price is available and uses the low and high price reported by the manufacturers to determine the range. The pricing data should be used for benchmarking purposes only, and as such should not be used alone to set or adjudicate any prices for reimbursement or purchasing functions or considered to be an exact price for a single product and/or manufacturer. Medi-Span expressly disclaims all warranties of any kind or nature, whether express or implied, and assumes no liability with respect to accuracy of price or price range data published in its solutions. In no event shall Medi-Span be liable for special, indirect, incidental, or consequential damages arising from use of price or price range data. Pricing data is updated monthly.
+
+【132】Dosage Forms: Canada
+
+【133】Excipient information presented when available (limited, particularly for generics); consult specific product labeling.
+
+【134】Solution, Intravenous:
+
+【135】Venofer: 20 mg/mL 
+
+【136】Generic: 20 mg/mL 
+
+【137】Additional Information
+
+【138】Contains sucrose: 300 mg/mL.
+
+【139】Iron deficit (total replacement dose needed \[mg of iron\]) = 0.6 × weight (kg) × \[100 − (actual hemoglobin/target hemoglobin × 100)\] .
+
+【140】Administration: Pediatric
+
+【141】Parenteral: May administer IV; not for IM use.
+
+【142】Premature Neonates: Infusion: Infuse over at least 1 to 2 hours .
+
+【143】Infants, Children, and Adolescents:
+
+【144】Treatment of iron deficiency anemia in patients with chronic kidney disease (CKD):
+
+【145】Slow IV injection: Administer undiluted over 5 minutes.
+
+【146】Infusion: Dilute and infuse over 5 to 60 minutes.
+
+【147】Iron deficiency anemia in patients without CKD: Infuse diluted doses over 30 to 90 minutes (reported range: 15 minutes to 3.5 hours) . Some experts recommend to dilute to 1 mg/mL and infuse at 1 to 1.3 mL/minute . Undiluted doses (≤200 mg) may be infused as slow IV push (eg, over 5 minutes) .
+
+【148】Others recommend the following infusion times based on dose :
+
+【149】For doses ≤100 mg, infuse over at least 30 minutes.
+
+【150】For doses >100 mg and ≤200 mg, infuse over at least 60 minutes.
+
+【151】For doses >200 mg and ≤300 mg, infuse over at least 90 minutes.
+
+【152】Administration: Adult
+
+【153】**IV:** Administer intravenously as a slow IV injection ( **not** for rapid IV injection) or as an IV infusion. Equipment for resuscitation and trained personnel experienced in handling medical emergencies should always be immediately available. Can be administered through dialysis line.
+
+【154】Slow IV injection: May administer doses ≤200 mg undiluted by slow IV injection over 2 to 5 minutes. When administering to hemodialysis-dependent patients, give iron sucrose early during the dialysis session (generally within the first hour).
+
+【155】Infusion: Infuse diluted doses ≤200 mg over at least 15 minutes; infuse diluted 300 mg dose over 1.5 hours; infuse diluted 400 mg dose over 2.5 hours; infuse diluted 500 mg dose over 3.5 to 4 hours (limited experience). When administering to hemodialysis-dependent patients, give iron sucrose early during the dialysis session.
+
+【156】Storage/Stability
+
+【157】Store intact vials in original carton at 20°C to 25°C ; excursions permitted to 15°C to 30°C ; do not freeze. Iron sucrose is stable for 7 days at room temperature  or under refrigeration  when undiluted in a plastic syringe or following dilution in normal saline in a plastic syringe (concentration 2 to 10 mg/mL) or for 7 days at room temperature  following dilution in normal saline in an IV bag (concentration 1 to 2 mg/mL).
+
+【158】Use
+
+【159】Treatment of iron deficiency anemia in hemodialysis-dependent chronic kidney disease (CKD) (FDA approved in ages ≥2 years and adults); treatment of iron deficiency anemia with concurrent erythropoietin therapy in peritoneal dialysis-dependent CKD and nondialysis-dependent CKD (FDA approved in ages ≥2 years); treatment of iron deficiency anemia in peritoneal dialysis-dependent CKD and nondialysis-dependent CKD (FDA approved in adults); has also been used for treatment of anemia of prematurity and iron deficiency anemia in patients without chronic kidney disease.
+
+【160】Medication Safety Issues
+
+【161】Sound-alike/look-alike issues:
+
+【162】Iron sucrose may be confused with ferric carboxymaltose, ferric gluconate, ferumoxytol, iron dextran complex
+
+【163】Venofer may be confused with Vfend, Vimpat
+
+【164】Metabolism/Transport Effects
+
+【165】None known.
+
+【166】Drug Interactions  
+
+【167】**Note** : Interacting drugs may **not be individually listed below** if they are part of a group interaction (eg, individual drugs within “CYP3A4 Inducers \[Strong\]” are NOT listed). For a complete list of drug interactions by individual drug name and detailed management recommendations, use the drug interactions program by clicking on the “Launch drug interactions program” link above.
+
+【168】**Note:** Interacting drugs may **not be individually listed below** if they are part of a group interaction (eg, individual drugs within “CYP3A4 Inducers \[Strong\]” are NOT listed). For a complete list of drug interactions by individual drug name and detailed management recommendations, use the drug interactions program
+
+【169】Alfuzosin: May enhance the hypotensive effect of Blood Pressure Lowering Agents. _Risk C: Monitor therapy_
+
+【170】Amifostine: Blood Pressure Lowering Agents may enhance the hypotensive effect of Amifostine. Management: When used at chemotherapy doses, hold blood pressure lowering medications for 24 hours before amifostine administration. If blood pressure lowering therapy cannot be held, do not administer amifostine. Use caution with radiotherapy doses of amifostine. _Risk D: Consider therapy modification_
+
+【171】Amisulpride (Oral): May enhance the hypotensive effect of Hypotension-Associated Agents. _Risk C: Monitor therapy_
+
+【172】Antipsychotic Agents (Second Generation \[Atypical\]): Blood Pressure Lowering Agents may enhance the hypotensive effect of Antipsychotic Agents (Second Generation \[Atypical\]). _Risk C: Monitor therapy_
+
+【173】Arginine: May enhance the hypotensive effect of Blood Pressure Lowering Agents. _Risk C: Monitor therapy_
+
+【174】Barbiturates: May enhance the hypotensive effect of Blood Pressure Lowering Agents. _Risk C: Monitor therapy_
+
+【175】Benperidol: May enhance the hypotensive effect of Blood Pressure Lowering Agents. _Risk C: Monitor therapy_
+
+【176】Blood Pressure Lowering Agents: May enhance the hypotensive effect of Hypotension-Associated Agents. _Risk C: Monitor therapy_
+
+【177】Brimonidine (Topical): May enhance the hypotensive effect of Blood Pressure Lowering Agents. _Risk C: Monitor therapy_
+
+【178】Bromperidol: May diminish the hypotensive effect of Blood Pressure Lowering Agents. Blood Pressure Lowering Agents may enhance the hypotensive effect of Bromperidol. _Risk X: Avoid combination_
+
+【179】Diazoxide: May enhance the hypotensive effect of Blood Pressure Lowering Agents. _Risk C: Monitor therapy_
+
+【180】Dimercaprol: May enhance the nephrotoxic effect of Iron Preparations. _Risk X: Avoid combination_
+
+【181】DULoxetine: Blood Pressure Lowering Agents may enhance the hypotensive effect of DULoxetine. _Risk C: Monitor therapy_
+
+【182】Herbal Products with Blood Pressure Lowering Effects: May enhance the hypotensive effect of Blood Pressure Lowering Agents. _Risk C: Monitor therapy_
+
+【183】Hypotension-Associated Agents: Blood Pressure Lowering Agents may enhance the hypotensive effect of Hypotension-Associated Agents. _Risk C: Monitor therapy_
+
+【184】Iloperidone: May enhance the hypotensive effect of Blood Pressure Lowering Agents. _Risk C: Monitor therapy_
+
+【185】Levodopa-Foslevodopa: Blood Pressure Lowering Agents may enhance the hypotensive effect of Levodopa-Foslevodopa. _Risk C: Monitor therapy_
+
+【186】Levonadifloxacin: Iron Preparations may decrease the serum concentration of Levonadifloxacin. _Risk X: Avoid combination_
+
+【187】Lormetazepam: May enhance the hypotensive effect of Blood Pressure Lowering Agents. _Risk C: Monitor therapy_
+
+【188】Molsidomine: May enhance the hypotensive effect of Blood Pressure Lowering Agents. _Risk C: Monitor therapy_
+
+【189】Naftopidil: May enhance the hypotensive effect of Blood Pressure Lowering Agents. _Risk C: Monitor therapy_
+
+【190】Nicergoline: May enhance the hypotensive effect of Blood Pressure Lowering Agents. _Risk C: Monitor therapy_
+
+【191】Nicorandil: May enhance the hypotensive effect of Blood Pressure Lowering Agents. _Risk C: Monitor therapy_
+
+【192】Nitroprusside: Blood Pressure Lowering Agents may enhance the hypotensive effect of Nitroprusside. _Risk C: Monitor therapy_
+
+【193】Obinutuzumab: May enhance the hypotensive effect of Blood Pressure Lowering Agents. Management: Consider temporarily withholding blood pressure lowering medications beginning 12 hours prior to obinutuzumab infusion and continuing until 1 hour after the end of the infusion. _Risk D: Consider therapy modification_
+
+【194】Pentoxifylline: May enhance the hypotensive effect of Blood Pressure Lowering Agents. _Risk C: Monitor therapy_
+
+【195】Pholcodine: Blood Pressure Lowering Agents may enhance the hypotensive effect of Pholcodine. _Risk C: Monitor therapy_
+
+【196】Phosphodiesterase 5 Inhibitors: May enhance the hypotensive effect of Blood Pressure Lowering Agents. _Risk C: Monitor therapy_
+
+【197】Prostacyclin Analogues: May enhance the hypotensive effect of Blood Pressure Lowering Agents. _Risk C: Monitor therapy_
+
+【198】Quinagolide: May enhance the hypotensive effect of Blood Pressure Lowering Agents. _Risk C: Monitor therapy_
+
+【199】Silodosin: May enhance the hypotensive effect of Blood Pressure Lowering Agents. _Risk C: Monitor therapy_
+
+【200】Pregnancy Considerations
+
+【201】Iron transfer to the fetus is regulated by the placenta (BSH \[Pavord 2020\]; NAS 2020).
+
+【202】There is a risk of adverse maternal reactions (eg, anaphylaxis, hypotension, shock) following use of parenteral iron that may result in fetal bradycardia, especially during the second and third trimesters. Although the risk is rare, immediate treatment for anaphylactoid and/or hypersensitivity reactions should be available (BSH \[Pavord 2020\]).
+
+【203】Maternal iron requirements increase during pregnancy. Untreated iron deficiency and iron deficiency anemia (IDA) in pregnant patients are associated with adverse pregnancy outcomes, including low birth weight, preterm birth, and increased perinatal mortality . Maternal iron deficiency is also associated with fatigue, increased risk of postpartum depression, and possibly postpartum hemorrhage (BSH \[Pavord 2020\]).
+
+【204】Oral and parenteral iron are effective at replacing iron stores in pregnant patients (ACOG 2021), Most studies note iron therapy improves maternal hematologic parameters; however, data related to clinical outcomes in the mother and neonate are limited . Parenteral iron therapy may be used in pregnant patients who cannot tolerate or respond to oral iron, when iron deficiency occurs later in pregnancy, or when malabsorption is present .
+
+【205】Iron sucrose has been evaluated in multiple studies for the treatment of IDA during pregnancy . However, due to limited safety data in early pregnancy, use of IV iron is generally not started until the second or third trimester .
+
+【206】Monitoring Parameters
+
+【207】Signs/symptoms of hypersensitivity reactions (during and ≥30 minutes following infusion); hypotension (during and following infusion). In patients at risk of iron overload, monitor hemoglobin, hematocrit, serum ferritin, and transferrin saturation. If assessing iron status, measurements should be performed ≥48 hours after last dose (due to rapid increase in values following administration).
+
+【208】_Chronic kidney disease_ : Hematocrit, hemoglobin, serum ferritin, serum iron, transferrin, percent transferrin saturation (TSAT), total iron-binding capacity.
+
+【209】Evaluate iron status (TSAT and ferritin) when deciding to start or continue iron therapy, and at least every 3 months in patients also receiving erythropoiesis-stimulating agent (ESA) therapy. Monitor ferritin and TSAT more frequently when monitoring response to IV iron therapy, when initiating or increasing ESA dose, when there is blood loss, and in any other situations where iron stores may become depleted (KDIGO 2012).
+
+【210】_Inflammatory bowel disease_ : Monitor CBC, ferritin, TSAT, and C-reactive protein every 3 months for 1 year, then every 6 months for the following 5 years (if disease inactive) (Goyal 2020).
+
+【211】Serum iron (AAP \[Kleinman 2019\]):
+
+【212】≤6 weeks: 100 to 250 mcg/dL (SI: 17.9 to 44.8 micromole/L).
+
+【213】7 weeks to 11 months: 40 to 100 mcg/dL (SI: 7.2 to 17.9 micromole/L).
+
+【214】1 to 10 years: 50 to 120 mcg/dL (SI: 9 to 21.5 micromole/L).
+
+【215】≥11 years:
+
+【216】Female: 30 to 160 mcg/dL (SI: 5.4 to 28.6 micromole/L).
+
+【217】Male: 50 to 170 mcg/dL (SI: 9 to 30.4 micromole/L).
+
+【218】Total iron-binding capacity (AAP \[Kleinman 2019\]):
+
+【219】≤2 months: 59 to 175 mcg/dL (SI: 10.6 to 31.3 micromole/L).
+
+【220】3 months to 17 years: 250 to 400 mcg/dL (SI: 44.8 to 71.6 micromole/L).
+
+【221】≥18 years: 240 to 450 mcg/dL (SI: 43 to 80.6 micromole/L).
+
+【222】Mechanism of Action
+
+【223】Iron sucrose is dissociated by the reticuloendothelial system into iron and sucrose. The released iron increases serum iron concentrations and is incorporated into hemoglobin.
+
+【224】Pharmacokinetics (Adult Data Unless Noted)
+
+【225】Onset of action: Hematologic response to either oral or parenteral iron salts is essentially the same; red blood cell form and color changes within 3 to 10 days
+
+【226】Maximum effect: Peak reticulocytosis occurs in 5 to 10 days, and hemoglobin values increase within 2 to 4 weeks
+
+【227】Distribution: V dss : Healthy adults: 7.9 L
+
+【228】Metabolism: Dissociated into iron and sucrose by the reticuloendothelial system
+
+【229】Half-life elimination: Healthy adults: 6 hours; Non-dialysis-dependent adolescents: 8 hours
+
+【230】Excretion: Healthy adults: Urine  within 24 hours
+
+【231】Brand Names: International
+
+【232】International Brand Names by Country
+
+【233】For country code abbreviations ( show table )  
+
+*   (AE) United Arab Emirates : Fermed | Ferosac | Ferrasil ;
+*   (AR) Argentina : Dixafer | Energavit | Ferive | Ferrologic | Venofer ;
+*   (AT) Austria : Venofer ;
+*   (AU) Australia : Venofer ;
+*   (BD) Bangladesh : Anefer | Ferimax | Feristar | Feroven | Hemofer | Hemomax | Inofar | Kidifer | Sucofer | Unifer | Veniron ;
+*   (BE) Belgium : Venofer ;
+*   (BG) Bulgaria : Venofer ;
+*   (BR) Brazil : Ferropurum | Sucrofer ;
+*   (CL) Chile : Encifer | Hierro sacarosa ;
+*   (CO) Colombia : Ferropurum | Glirron | Hierro sacarato | Hierro sacarosa | Hierronova ;
+*   (CZ) Czech Republic : Venofer ;
+*   (DE) Germany : Fermed | Ferrologic | Venofer ;
+*   (DO) Dominican Republic : Encifer | Ferruvenol | Hierro sacarosa | Lucovit | Venofer ;
+*   (EC) Ecuador : Dixafer | Encifer | Ferrocid | Ferropurum | Ferrum hausmann | Glirron | Hierro sacarato | Hierro sacarosa | Venofer ;
+*   (EE) Estonia : Venofer ;
+*   (EG) Egypt : Ferosac | Sacrofer ;
+*   (ES) Spain : Feriv | Hierro sacarosa normon | Venofer ;
+*   (ET) Ethiopia : Iron sucrose injection usp | Sucrofer ;
+*   (FI) Finland : Venofer ;
+*   (FR) France : Fer Actavis | Fer Mylan | Fer Panpharma | Fer Sandoz | Fer teva pharma | Venofer ;
+*   (GB) United Kingdom : Venofer ;
+*   (GR) Greece : Anemifer | Faremio | Ferrinemia | Ferrum hausman | Hemafer S | Ironcrose | Reoxyl | Veniron | Venofer ;
+*   (HK) Hong Kong : Ferrum hausmann ;
+*   (HR) Croatia : Venofer ;
+*   (HU) Hungary : Venofer ;
+*   (ID) Indonesia : Dialifer | Foremic ;
+*   (IE) Ireland : Venofer ;
+*   (IN) India : Encifer | Fermia s | Feroject | Feronia | Globac safe | Haemaze forte | Hembeec is | Huntred | Jalika | Leferon | Livogen | Nufer | Raricap s | Richar XT | Roselina | Sucrofer | Sufecient | Uniferon | Uniraut | Venofer | Venoject | Vipron s | Vitcofol s ;
+*   (IT) Italy : Ferroven | Ferrum hausmann ;
+*   (JO) Jordan : Ferrasil | Xeratec ;
+*   (JP) Japan : Feppsol | Fesin mitsubishi | Fesin nichiiko ;
+*   (KE) Kenya : Ferosoft s | Ferracin | Ferrasil | Hemofer | Sucrofer | Venofer | Xeratec ;
+*   (KR) Korea, Republic of : Anemia | Anerrum | Femorrum | Ferrovin | Ferrowell | Hematin | Newferrum | Venoferrum | Venostin ;
+*   (KW) Kuwait : Ferosac ;
+*   (LB) Lebanon : Ferrasil ;
+*   (LT) Lithuania : Ferrologic | Hemafer S | Venofer ;
+*   (LV) Latvia : Venofer ;
+*   (MA) Morocco : Venofer ;
+*   (MX) Mexico : Glirron | Venoferrum ;
+*   (MY) Malaysia : Ainiron | Avofer | Heamofer | Ranofer | Referis | Sucrofer | Venofer ;
+*   (NG) Nigeria : Ferracin | Verient ;
+*   (NL) Netherlands : Ferracin | Venofer ;
+*   (NO) Norway : Ferrologic ;
+*   (NZ) New Zealand : Venofer ;
+*   (PE) Peru : Ciroferr | Encifer | Ferralip | Ferroviton s | Hierronim | Likferr | Prontofort | Sucrofer | Venofer | Zemcifer ;
+*   (PH) Philippines : Biorose | Encifer | Feromin | Ferriscript ;
+*   (PK) Pakistan : Bisleri S | Cara fer | Fermax | Feroject | Ferosoft s | Ferplex SS | Ferris | Ferromit | Fersox | Fiore | Hadid | I Tose S | Ipase | Irose | Ivefer | Onefer | Rubiject | Sucrofer | Unifer | Venofer ;
+*   (PL) Poland : Ferrinemia | Venofer ;
+*   (PR) Puerto Rico : Venofer ;
+*   (PT) Portugal : Venofer ;
+*   (PY) Paraguay : Venofer ;
+*   (QA) Qatar : Demrose | Emfer | Fermed | Feromax | Ferosac | Ferrasil | Sucrafer | Sukrofer | Tore | Venofer | Xeratec ;
+*   (RO) Romania : Venofer ;
+*   (RU) Russian Federation : Alvifergem | Argeferr | Binnoferum | Fermed | Ferrum (iii) hydroxide saccharate | Irondext | Likferr | Venofer | Vialfer ;
+*   (SA) Saudi Arabia : Blogen | Encifer | Feradef ;
+*   (SE) Sweden : Jaernsackaros Rechon | Venofer ;
+*   (SI) Slovenia : Venofer ;
+*   (SK) Slovakia : Venofer ;
+*   (TH) Thailand : Anerrum | Sucrofer | Venofer ;
+*   (TN) Tunisia : Feroven | Venofer ;
+*   (TR) Turkey : Demrose | Ferint | Ferrosel | Ferroven | Inferose | Karferon | Sukrofer | Veniro | Venofer ;
+*   (TW) Taiwan : Ferrum hausmann | Fesin | Good fe | Sucrofer ;
+*   (UA) Ukraine : Sufer ;
+*   (UG) Uganda : Ferracin ;
+*   (UY) Uruguay : Hierro sacarato | Sucrox iv complex | Venofer ;
+*   (VE) Venezuela, Bolivarian Republic of : Ferroglass | Glirron | Hierro sacarosa ;
+*   (VN) Viet Nam : Necrovi ;
+*   (ZA) South Africa : Venofer焦瀚远
+
+====================================================================================================
+文本干净度#无关文本#【231】Brand Names: International
+
+【232】International Brand Names by Country
+
+【233】For country code abbreviations ( show table )#231至233的所有内容为无关文本

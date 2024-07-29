@@ -1,0 +1,279 @@
+【0】Aspiration due to swallowing dysfunction in children
+
+【1】INTRODUCTION 
+
+【2】Aspiration may be defined as the entry of foreign material into the airway below the vocal folds. While most individuals will occasionally aspirate , persistent, regular aspiration may result in respiratory symptoms and lung injury. The likelihood and severity of lung injury varies between individuals and depends, in part, on the volume and type of material aspirated, host factors, impaired airway clearance, and chronicity.
+
+【3】Swallowing dysfunction resulting in chronic aspiration and leading to chronic lung disease is not uncommon in pediatric patients. Swallowing is a complex process relying on effective coordination of voluntary and involuntary actions that can be disrupted by a variety of factors, which often coexist. Chronic aspiration often presents in children with chronic underlying conditions and may have multiple causes that cannot be distinguished based on symptoms. For this reason, effective and efficient evaluation of chronic aspiration is best provided by integrated multidisciplinary teams.
+
+【4】PHYSIOLOGY OF FEEDING AND SWALLOWING 
+
+【5】Normal swallowing is the result of effective integration of sensory and motor function and coordination of voluntary and involuntary actions through intact aerodigestive anatomy.
+
+【6】Developmental stages — Development of this process begins in utero and continues into early childhood. In early fetal life, the aerodigestive tract develops in close integration with respiratory centers of the brainstem (specifically, the nucleus ambiguus and tractus solitarius) . Primitive pharyngeal swallowing has been detected as early as the first trimester, with anterior to posterior tongue movements developing between 18 and 24 weeks of age. In premature infants, non-nutritive sucking may be present between 26 to 29 weeks of age. At 34 weeks, sucking becomes more rhythmic and organized, and this is the earliest that infants can maintain full nutrition and hydration orally.
+
+【7】Beyond term, swallowing continues to mature with increased sucking and swallowing rates, longer sucking bursts, and larger volumes. At three to four months of age, the development of lateral tongue movements aid in bolus formation, resulting in the ability to eat pureed food from a spoon around six months of age. Skills required for drinking from a cup are usually established by 12 months of age.
+
+【8】Sequence of swallowing — Swallowing is divided into four stages: oral preparatory, oral, pharyngeal, and esophageal .
+
+【9】 **Oral preparatory (voluntary)** – This phase includes all of the steps required to accept and prepare a bolus. It begins with the receipt of food from bottle, cup, spoon, etc, and lips are closed. It then progresses through chewing, mixing with saliva, and bolus formation for solids or holding and positioning a liquid bolus.
+
+【10】 **Oral (voluntary)** – This phase begins with the decision to swallow and the posterior transfer and delivery of the bolus to the pharynx.
+
+【11】 **Pharyngeal (involuntary)** – Coordinated muscle activity to safely transfer the bolus to the esophagus with airway protection. There is sequential cessation of respiration, adduction of the vocal folds, elevation of the larynx with approximation of the arytenoids, and retroflexion of the epiglottis. The bolus then passes around the epiglottis and into the pyriform sinuses. Elevation of the larynx facilitates the esophageal phase.
+
+【12】 **Esophageal (involuntary)** – Begins with relaxation of the cricopharyngeus, followed by transit to the stomach by a combination of peristalsis and gravity.
+
+【13】A safe and effective swallow requires successful coordination of all of these phases, and disruption of any of these phases results in a risk for aspiration.
+
+【14】CAUSES OF SWALLOWING DYSFUNCTION 
+
+【15】Causes for swallowing dysfunction are varied and several contributing factors often coexist. These factors can be categorized as anatomic, neurologic, or functional/developmental, although some causes bridge more than one of these categories:
+
+【16】Anatomic causes — Anatomic causes may be divided into abnormal connections between the upper gastrointestinal tract and airway, and lesions that disrupt the swallowing mechanism. In infants, the most common anatomic causes are congenital and tend to originate early in the gestational period, between the fifth and seventh weeks' gestation.
+
+【17】Anatomic abnormalities that may be associated with swallowing dysfunction are summarized in the table . Important causes include:
+
+【18】 **Tracheoesophageal fistula (TEF)** , with or without esophageal atresia – Congenital TEFs are rare, and 50 percent occur in association with other congenital anomalies, especially heart or genitourinary defects, often as part of CHARGE syndrome or VACTERL association . While the most common types of congenital TEF are identified shortly after birth, H-type fistulas present more insidiously with chronic nonspecific symptoms and may not be diagnosed until later childhood. These fistulas make up 4 percent of congenital TEFs  . After primary repair of a congenital fistula, there is a recurrence rate of 5 to 15 percent, often through the same pathway . Even if the repair remains intact, long-term swallowing dysfunction and aspiration are common, in part due to residual tracheomalacia, esophageal dysmotility, gastroesophageal reflux (GER), and stricture . Occasionally, TEFs may be acquired rather than congenital, caused by prolonged endotracheal intubation or other trauma, or malignancy.
+
+【19】 **Laryngotracheoesophageal cleft (LTEC)** – LTEC represents incomplete separation of the trachea and esophagus, with the proximal extent of the party wall terminating at or below the true vocal folds. These may vary in severity from a type 1 LTEC, which extends down just through the glottis, to a type 4 cleft, which extends into the thoracic trachea  . Types 1 and 2 LTEC are likely common, with incidences of 4.4 to 7.1 percent of children undergoing direct laryngoscopy for recurrent respiratory symptoms . The shallow clefts may result in aspiration by providing a direct pathway into the airway but are often associated with some additional swallowing dysfunction. This is evidenced by studies demonstrating persistence of laryngeal penetration and aspiration, even with an intact repair of the cleft .
+
+【20】 **Airway obstructive lesions** – Almost any cause or type of obstructive upper airway lesion may disrupt coordination of swallowing and breathing, especially in patients with marginal or immature swallowing mechanics. Upper airway obstruction may also worsen GER by increasing the thoracoabdominal pressure gradient .
+
+【21】• Laryngomalacia is the most common obstructive lesion and has a strong association with aspiration. Laryngomalacia is also the most common cause of congenital stridor, but feeding problems and aspiration are the second most common symptoms .
+
+【22】• Swallowing dysfunction also may be caused by other laryngeal abnormalities (glottic web or subglottic stenosis), craniofacial malformations (choanal atresia, cleft palate), Pierre Robin sequence (due to micrognathia), or masses (cystic hygroma, lymphovascular malformations, neuroblastoma).
+
+【23】Neurologic causes — Central and peripheral neurologic lesions may result in swallowing dysfunction via:
+
+【24】 Weakness of muscles associated with mastication, bolus preparation, and swallow
+
+【25】 Upper airway obstruction
+
+【26】 Abnormal function of airway protective structures
+
+【27】 Impaired sensation – Conditions that result in impaired cough clearance result in relatively more lung injury
+
+【28】Neurologic conditions that may be associated with swallowing dysfunction are summarized in the table . These include:
+
+【29】 **Encephalopathy** – Children with severe central neurologic impairment commonly have swallowing dysfunction, which presents with prolonged feeding times, dysphagia, and recurrent respiratory infections . The clinical feeding evaluation may identify poor oral preparation, neck extension impairing laryngeal elevation, premature spillage to the pharynx, and poor pharyngeal clearance . Lung injury may be exacerbated by poor airway clearance. Aspiration is among the most common causes of death in this population .
+
+【30】 **Cranial nerve dysfunction** – CHARGE association ( MIM #214800 ) is the best example of this category. In patients with CHARGE association, dysphagia and aspiration are common and are mediated by abnormalities in cranial nerves VII, IX, and X .
+
+【31】 **Neuromuscular disease** – Feeding and swallowing disorders are highly prevalent in children with neuromuscular disorders such as Duchenne muscular dystrophy, congenital muscular dystrophy, myotonic dystrophy, and spinal muscle atrophy . Specific abnormalities vary and may include pronounced bulbar dysfunction. Most patients have prolonged orogastric transit time, poor laryngeal elevation, and diminished effectiveness of pharyngeal clearance.
+
+【32】 **Vocal fold immobility** – Either unilateral or bilateral vocal fold immobility may present with aspiration and feeding problems, but aspiration is less common with bilateral immobility due to the close proximity of the vocal folds and preserved laryngeal adductor function . Vocal fold immobility may be caused by injury to the recurrent laryngeal nerve (eg, during birth trauma, mechanical ventilation, or surgery), caused by central nervous system abnormalities, or may be idiopathic.
+
+【33】Functional/developmental causes — Functional or developmental causes of swallowing dysfunction include :
+
+【34】 **Prematurity** – Premature infants have developmental immaturity of coordination between deglutition and respiration . In those with respiratory disease, tachypnea may exacerbate swallowing dyscoordination and increased work of breathing may result in swallowing fatigue.
+
+【35】 **Trisomy 21** – In children with trisomy 21, swallowing dysfunction may be caused by anatomic abnormalities (macroglossia and airway obstruction), neurologic abnormalities (hypotonia), and/or functional abnormalities (abnormal feeding behaviors) .
+
+【36】 **Isolated swallowing dysfunction** – Chronic aspiration in infants and children who are neurologically normal and have no anatomic cause is known as isolated or idiopathic swallowing dysfunction. Most such children are under the age of three years and present with chronic, nonspecific symptoms such as cough, wheezing, congestion, and recurrent respiratory infections. Swallowing evaluation typically reveals delayed initiation of swallowing and silent aspiration . Most children can be managed with modified feeding; a few patients require gastrostomy support. The symptoms improve with maturation and typically resolve by three years of age.
+
+【37】CLINICAL PRESENTATION 
+
+【38】Children with chronic aspiration may present with chronic cough, wheezing, recurrent respiratory infections, and, sometimes, choking or gagging with feeding. Infants may present with apnea around feeding or with failure to thrive from feeding difficulty and inadequate caloric intake. These symptoms are common, nonspecific, and have low predictive value for aspiration. A "wet" vocal or breathing quality is the symptom most closely associated with laryngeal penetration .
+
+【39】A high suspicion for aspiration should be maintained for children presenting with chronic respiratory symptoms. Lack of coughing while swallowing does not exclude aspiration, because silent aspiration is very common in children and especially in infants and toddlers. Silent aspiration is reported in 40 to 90 percent of patients with laryngeal clefts or underlying neurologic disease . Similarly, lack of a history of recurrent pneumonia does not exclude aspiration, since a history of recurrent pneumonia is present in only 12 to 41 percent of children who aspirate, and those who develop bronchiectasis due to chronic aspiration are no more likely to have recurrent pneumonias than those without .
+
+【40】LUNG AND AIRWAY CONSEQUENCES OF ASPIRATION 
+
+【41】The lung is the primary end organ of damage secondary to aspiration. The injury may occur anywhere along the respiratory tract but most consistently results in chronic bronchiolar inflammation and injury, in a dependent distribution. Bronchiectasis is a common result and may develop even in infants .
+
+【42】The mediators of injury have not been established but probably do not include acidity. Studies in a rat model found that lung injury was prominent in rats who were made to aspirate whole gastric fluid, non-acidified gastric fluid, and, to a lesser degree, ground-up food particles, but no injury at all was detectable in those aspirating fluid of pH 2.2 . This suggests that the chronic foreign body reaction to particulate matter as well as other factors in gastric secretions may be the primary mediators of lung injury. This is further supported by findings that children on acid suppression have an increased risk for respiratory illnesses, and aspirating children on acid suppression have a much higher risk of hospitalization than those who are not . One possible mediator is gastric pepsin, which has effects on respiratory epithelium, including up-regulation of proinflammatory gene profile, increased interlekin-6 and interleukin-8 release, increased neutrophil migration, and reduction in barrier integrity .
+
+【43】EVALUATION 
+
+【44】Evaluation of an infant or child with suspected swallowing dysfunction begins with a clinical feeding evaluation and, in most cases, proceeds to an instrumental evaluation. If aspiration is identified, then multiple additional studies are indicated to assess for anatomic lesions, gastroesophageal reflux (GER), and pulmonary consequences.
+
+【45】Clinical feeding evaluation — Clinical assessments of feeding and swallowing are typically performed by a speech-language pathologist or an occupational therapist. The initial assessment includes examination of the face and oropharynx, respiratory rate and pattern, posture and position, cranial nerve and reflexes evaluation, and vocal quality . A breathy voice quality or hoarseness suggests vocal fold immobility.
+
+【46】The clinician then observes a feeding session, usually together with a parent or caregiver to assess the feeding relationship and behaviors. Developmentally appropriate foods are administered, with varying texture and consistency.
+
+【47】The oral preparatory phase is evaluated in detail, including: motion and coordination of the mouth, tongue, and jaw; lip seal and sucking strength and rhythm; and bolus transfer to the pharynx. The clinician observes the child's ability to clear the bolus from the oral cavity, anterior spillage or drooling, and excessive accumulation of saliva in mouth. Important observations during the feed include coughing or "wet"-sounding voice or breathing, each of which suggests but is not diagnostic of laryngeal penetration or aspiration.
+
+【48】The clinical feeding evaluation has somewhat limited ability to predict or exclude aspiration. The reported positive predictive value for aspiration ranges from 18 to 100 percent (mostly between 50 to 83 percent) and a negative predictive value of 0 to 100 percent (mostly 76 to 88 percent) . This accuracy is highly dependent on the consistency of the food given during the evaluation; the sensitivity for predicting aspiration of thin liquids is high , while the specificity is best for thicker consistencies  .
+
+【49】Instrumental evaluation of swallowing — Given the prevalence of silent aspiration and the inability to exclude aspiration on clinical feeding evaluations, instrumental swallowing studies are often performed. This includes radiographic studies and endoscopic studies, which may also provide evaluation of the pharyngeal phase of swallowing.
+
+【50】Videofluoroscopic swallow study — A videofluoroscopic swallow study (VFSS), also known as a modified barium swallow, is the most common study for evaluating swallowing; it focuses on the oral and pharyngeal phases of swallowing with an abbreviated look at the esophageal phase . The study is performed in collaboration between a speech-language pathologist and a radiologist in the fluoroscopy suite. The clinicians select food consistencies that are either developmentally appropriate or specific to the clinical concern. The child is fed food and liquid mixed with barium , which is selected to be either developmentally appropriate or specific to the clinical concern, while videofluoroscopy is directed at a window that includes the oropharynx to proximal esophagus. The study can detect abnormalities in bolus formation, timing of swallow, and competence of velopharyngeal valve . VFSS may provide limited information if the child consumes very little. However, VFSS also has the ability to assess swallowing fatigue by observing long runs of chain swallowing.
+
+【51】Key findings on VFSS include:
+
+【52】 Penetration, defined as intrusion of food or liquid below the laryngeal surface of the epiglottis, with deep penetration signifying extension to the vocal folds .
+
+【53】 Aspiration, signified by the presence of contrast material within the tracheobronchial tree.
+
+【54】 Response to aspiration, such as cough clearance. Aspiration with no such response is documented as "silent aspiration."
+
+【55】Although aspiration is considered more pathologic than penetration, penetration is also associated with risk for pneumonia . An 8-point penetration/aspiration scale can be utilized to quantify the severity of swallowing dysfunction across multiple food consistencies and be employed longitudinally to quantify response to intervention or improvement over time . This scale considers food consistency, depth of penetration or aspiration, residue, and patient response to grade severity. A score of 1 signifies no penetration or aspiration, and 8 signifies aspiration below the glottis with residual contrast and no patient response. This scale is commonly utilized in research studies, though this is not universally applied to clinical scenarios.
+
+【56】VFSS can identify the proximate cause of the penetration or aspiration, which may include premature spillage, delayed initiation of swallow, ineffective swallow, pooling of residual material in the hypopharynx, or cricopharyngeal achalasia. Other potential findings include nasopharyngeal reflux (signifying velopharyngeal incompetence) and cricopharyngeal dysfunction, which may be observed in infants due to immaturity of swallowing mechanism but should resolve by one year of age. These findings may result in feeding problems but are not strongly correlated to aspiration.
+
+【57】Fiberoptic endoscopic evaluation of swallowing — Fiberoptic endoscopic evaluation of swallowing (FEES) is performed by either a specially trained otolaryngologist, speech-language pathologist, or both working together. A flexible fiberoptic laryngoscope is passed transnasally and positioned just beyond the soft palate and swallows are observed ( movie 1 ). The infant or child can then be fed the same food or liquids that they consume at home, in the position used to consume them at home.
+
+【58】During FEES, the oral and pharyngeal phases of swallowing can be observed, but during the actual moment of pharyngeal contraction, there is white-out of the image. Even if the child is not fed, pooling and/or aspiration of oral secretions can be observed, which correlates strongly with aspiration while feeding . In addition, the upper airway anatomy structure and function can be directly observed. Penetration or aspiration over the aryepiglottic folds or through a laryngeal cleft may be more clearly differentiated compared with VFSS. Velopharyngeal sufficiency can also be assessed by pulling the scope back into the nasopharynx.
+
+【59】Choice of study — Both VFSS and FEES are valuable methods for the evaluation of swallowing dysfunction in children. They are equally sensitive in their ability to detect delayed initiation of swallowing, penetration, aspiration, and post-swallow residue . Each study has individual strengths and weaknesses, though the two are often complimentary .
+
+【60】 VFSS has an advantage of improved assessment of the pharyngeal phase and ability to observe swallowing fatigue after multiple swallows.
+
+【61】 FEES has the advantage of being able to assess pooling and aspiration of oral secretions as well as perform sensory testing. This is particularly useful in children who have not been eating orally or who have significant oral aversions. As a result, FEES is well suited to assess safety to begin oral feeding. Similarly, for children with high-grade subglottic stenosis, FEES is a useful test to assess the child's ability to protect his or her airway prior to surgical repair.
+
+【62】 FEES may be more difficult to perform in uncooperative patients, such as toddlers or those with severe sensory disorders.
+
+【63】 Unlike VFSS, FEES is portable, can be performed in any location, and requires no radiation exposure. As a result, FEES is well suited to assess breastfeeding infants or patients in wheelchairs that may be difficult to position for fluoroscopy.
+
+【64】It is often appropriate to perform both procedures. With both procedures, compensatory interventions and feeding recommendations can be made at the time of the study.
+
+【65】Imaging — The clinical evaluation for aspiration is limited by the intermittent nature of aspiration and by the inconsistencies and limitations of instrumental swallowing evaluations. Therefore, imaging is also important to identify the presence or absence of lung injury and, if findings are present, whether they are consistent with aspiration. Patients with swallowing dysfunction and radiographic evidence of lung injury warrant more aggressive management.
+
+【66】Chest radiography — Chest radiography may be utilized as a means to identify lower respiratory tract inflammation or injury and is an appropriate first step in imaging for a child with suspected aspiration. Chest radiographs are readily available and require little radiation exposure or patient cooperation.
+
+【67】Chest radiographs are typically abnormal in children with chronic aspiration, but findings are very nonspecific, mostly demonstrating changes consistent with bronchial inflammatory disease . Common findings in a child with chronic aspiration include hyperinflation, segmental or subsegmental infiltrates, atelectasis, and/or peribronchial thickening. These findings may be difficult to distinguish between other conditions such as asthma, viral infections, primary ciliary dyskinesia, or cystic fibrosis. Bronchiectasis may develop over time but may not be detectable on plain chest radiograph until fairly advanced. In addition, a normal chest radiograph does not exclude inflammatory lung disease or infection on bronchoalveolar lavage .
+
+【68】Chest computed tomography — Children with suspected chronic aspiration should also be evaluated with chest computed tomography (CT), using thin slices and an inspiratory breath hold. Compared with standard chest radiography, chest CT is more sensitive to detect the presence, severity, and distribution of lung and airway findings related to aspiration .
+
+【69】Chronic aspiration is associated with CT findings of small airway disease, such as centrilobular ("tree-in-bud") opacities, bronchial thickening, and subsegmental atelectasis  . Chest CT is also the gold standard for early identification of bronchiectasis and characterization of its distribution and severity. This is particularly important because as many as two-thirds of children with aspiration from swallowing dysfunction may have bronchiectasis found on diagnosis, and this pattern is even seen in infants .
+
+【70】Although no CT findings are specific for aspiration, the abnormalities are likely related to aspiration if they are found in the dependent portions of the lung and in multiple lung segments, and in a patient with evidence of abnormal swallowing or documented aspiration.
+
+【71】Scintigraphy — Nuclear medicine studies may also be utilized in evaluation of aspiration but lack sensitivity.
+
+【72】 Gastroesophageal scintigraphy may be used to evaluate for reflux-related (retrograde) aspiration. It is performed by administering a radiotracer-containing liquid, with delayed imaging to detect tracer in the airways. This test is sometimes called a "milk scan" because milk is often used as the vehicle for the tracer. Only 6 to 23 percent of patients undergoing gastroesophageal scintigraphy have positive results, even in the presence of other diagnostic testing consistent with aspiration, suggesting that the test has low sensitivity .
+
+【73】 A salivagram may be used to detect aspiration of oral secretions. It is performed by placing a small quantity of radiotracer in the buccal space and recording serial images until there is clearance from the mouth. The presence of radionuclide activity in the trachea or bronchi indicates aspiration of saliva. Multiple studies suggest that this technique has poor sensitivity to detect salivary aspiration, especially in older children . Contrasting results were reported in one study, which found close correlation between salivagram and chest radiography, with 90 percent of positive studies associated with an abnormal radiograph; the correlation was worse in infants than in older children .
+
+【74】Evaluation of airway anatomy — The vast majority of children identified as having aspiration from swallowing dysfunction should undergo airway evaluation for the identification of lesions associated with aspiration. Lesions associated with aspiration can include obstructive lesions that disrupt swallowing, abnormalities that cause impairment in airway protection, and those that create a direct anatomic pathway between the gastrointestinal tract and the airway. Children who are >1 year old, have a history of recurrent pneumonia, have a history of intubation, and are without neurologic disease have a greater likelihood of having an anatomic lesion associated with aspiration compared with children without these risk factors .
+
+【75】Flexible laryngoscopy — Awake flexible laryngoscopy is performed as a first step in most children known or suspected to have aspiration. The primary purpose is to evaluate vocal fold mobility, which requires that the patient be assessed while awake. This procedure occasionally identifies anatomic lesions associated with aspiration but has limited sensitivity for this purpose . In a large study of 532 children diagnosed with aspiration, flexible laryngoscopy identified lesions in only 17 percent, whereas direct laryngoscopy and bronchoscopy identified lesions in 45 percent .
+
+【76】Direct laryngoscopy and bronchoscopy — Direct (rigid) laryngoscopy and bronchoscopy is the optimal test to identify important lesions such as laryngotracheoesophageal cleft (LTEC), tracheoesophageal fistula (TEF), and cricopharyngeal achalasia. A rigid instrument directly approaches the posterior commissure and can be used to both distract and probe the interarytenoid space and also directly palpate the presence and integrity of the interarytenoid muscle and posterior cricoid. H-type TEFs are also commonly in the proximal trachea and are more easily seen and probed with rigid instrumentation.
+
+【77】Flexible bronchoscopy with lavage — Flexible bronchoscopy also has a role in the evaluation and is particularly useful for assessment of dynamic airway lesions, such as laryngomalacia and tracheomalacia. Flexible bronchoscopy may be the only way to view the airway in patients with very limited access, such as those with craniofacial malformations.
+
+【78】Bronchoalveolar lavage (BAL) can be performed during flexible bronchoscopy and is useful for assessing the degree of inflammatory lung disease caused by chronic aspiration, when interpreted in the context of other clinical information. BAL is very good at identifying the presence or absence of airway inflammatory disease, as indicated by neutrophils. When performed for this purpose, the BAL should be done during a time of baseline health status. As an example, the combined findings of aspiration or penetration on a swallowing evaluation and inflammatory airway disease without other explanation is indicative of active aspiration, which suggests that the current feeding strategy is not safe. Conversely, a child with swallowing dysfunction but no evidence of airway inflammation on BAL suggests that aspiration is reasonably well controlled with the current feeding strategy.
+
+【79】Other potential biomarkers of aspiration on BAL have been evaluated, and all are severely limited. As examples:
+
+【80】 The most extensively evaluated biomarker of aspiration is the lipid-laden macrophage index (LLMI). The LLMI is determined by applying a lipid stain (such as Oil Red O) to smear of BAL fluid to identify the presence of lipid-containing vacuoles in alveolar macrophages . One hundred macrophages are scored on a 0 to 4 scale for presence of lipid vacuoles. Theoretically, the presence of lipid scavenged form the distal airways and alveoli would indicate aspiration of fat-containing food or liquid, either from dysfunctional swallowing or aspiration of reflux. However, studies reach differing conclusions regarding the accuracy of LLMI to predict aspiration. Furthermore, there are striking differences in LLMI results across different studies, such that the control groups of some studies had higher indices than other studies' aspiration groups . As an example, in one large cohort of 706 pediatric patients undergoing flexible bronchoscopy with BAL, immunocompromised patients had the highest LLMI and there was no difference between those with recurrent pneumonia, aspiration, tracheobronchomalacia, asthma, or cystic fibrosis . Thus, LLMI appears to have insufficient sensitivity and specificity to be clinically useful.
+
+【81】 Pepsin from airway samples obtained at BAL or in tracheal aspirates has been evaluated as a potential biomarker for reflux aspiration. In an early study, pepsin A was found in tracheal aspirates of children, with those children undergoing endoscopy who had both respiratory symptoms and esophagitis but not in those without . Pepsin A has also been found in tracheal aspirates of intubated premature infants with higher concentrations in those who go on to develop more severe bronchopulmonary dysplasia and in lung transplant recipients with rejection . Another study failed to correlate pepsin A to any index of GER as measured by esophageal impedance monitoring, including reflux to the pharynx . Thus, pepsin A has not been established as a reliable marker of aspiration.
+
+【82】Interdisciplinary aerodigestive evaluation — As is clear from the above, the evaluation of children with known or suspected aspiration is often complex and involves, at a minimum, evaluation of feeding and swallowing, complete endoscopic evaluation of the aerodigestive tract, and evaluation for evidence of lung injury. Many children with aspiration have chronic comorbidities that may be difficult to distinguish from the nonspecific symptoms associated with chronic aspiration.
+
+【83】For these reasons, an interdisciplinary approach is preferred, often known as an "aerodigestive" program, in which a team of pediatric specialists experienced in the care of complex patients provides a broad, coordinated evaluation and develops a unified care plan. The specialists in an aerodigestive programs usually include, at a minimum, a pulmonologist, otolaryngologist, gastroenterologist, and speech-language pathologist. Other supporting specialists may include a cardiothoracic surgeon, general surgeon, neurosurgeon, radiologist, cardiologist, neurologist, anesthesiologist, and occupational therapist. Aerodigestive programs have been developed in most of the United States . These programs have been shown to improve diagnosis, decrease risk, reduce hospital stay, decrease operating room utilization, lower cost of care, and have high caregiver satisfaction .
+
+【84】The typical process involves:
+
+【85】 Referral based on specific criteria
+
+【86】 Intake questionnaire
+
+【87】 Prescheduled itinerary
+
+【88】 Multispecialty evaluation including swallowing studies, radiographic testing, and combined aerodigestive endoscopy
+
+【89】 Team meeting for synthesis of findings and development of a unified care plan
+
+【90】 Wrap-up discussion with patient and family
+
+【91】 Therapeutic interventions
+
+【92】 Follow-up care, typically with a specific contact for caregivers, or transition out of program 
+
+【93】MANAGEMENT 
+
+【94】Management of patients with swallowing dysfunction is highly individualized, based on the cause of the dysfunction and other patient characteristics identified by the multidisciplinary evaluation outlined above.
+
+【95】Modified feeding — The goals of feeding therapy are to provide nutrition safely and efficiently, prevent lung injury, preserve respiratory function, and permit appropriate growth. Providing some oral feeding is highly preferred because this helps preserve oromotor skills and avoids feeding aversion, but this cannot always be achieved. For some patients, the caregivers may choose to continue oral feedings for the child's pleasure and quality of life despite the increased risk of aspiration and respiratory compromise. These considerations require a clear and detailed discussion of goals and risks between the family and clinicians .
+
+【96】A feeding strategy is often led by speech-language pathologists or occupational therapists. These specialists often suggest or test the strategy during clinical feeding evaluations or instrumental swallow studies. Interventions may include alteration of feeding posture or position, pacing, flow rate, feeding route (bottle, sippy cup, open cup, straw), or thickening the consistency of feeds.
+
+【97】Thickening of liquids and, to a lesser extent, reduction in flow rate reduce symptoms and respiratory hospitalizations . This has been demonstrated both in infants and young children who have aspiration on videofluoroscopic swallow study (VFSS) and those with penetration alone .
+
+【98】Thickening of feeding is one of the most commonly applied interventions, though there are some controversies. Liquid viscosity can be thin, slightly thick, mildly thick (nectar), moderately thick (honey), or extremely thick (pudding), based on flow test characteristics. For infants and young children, liquids can be thickened with cereals, fruit or vegetable purees, or commercial thickeners such as carob bean gum, xanthan gum, or corn starch. Characteristics and risks vary by thickener; some thickeners cannot be mixed with breast milk, and some have safety concerns for infants <12 months age .
+
+【99】 Benefits – Use of thickeners for oral feeding has been shown to reduce respiratory symptoms and hospitalizations compared with unmodified feeds and even compared with infants being fed via gastrostomy . As an example, one study documented significant decreases in parent-reported apnea, congestion, cough, resistance to feed, vomiting, and wheezing, as well as increased volume per feed and increased liquid intake .
+
+【100】 Risks – Use of thickeners is generally low risk, but a few safety considerations have been raised:
+
+【101】• Cereals – If cereal is used to thicken feeds, an oat-based cereal is generally preferred over rice cereal. This is because of theoretical concerns about possible contamination of rice with arsenic, although the amount of contamination in different rice sources and the clinical significance are not established. If rice cereal is used, the American Academy of Pediatrics recommends limiting the quantity to <36 teaspoons per day .
+
+【102】• Xanthan gum thickeners – Use of xanthan gum thickeners has been associated with increased risk for late-onset necrotizing enterocolitis in premature infants . As a result, the US Food and Drug Administration advises against their use in infants <12 months corrected age.
+
+【103】• Dehydration – It is unlikely that thickening of feeds predisposes to dehydration since there is no difference in free water absorption in patients taking thickened liquids .
+
+【104】Gastrostomy feeding — Patients who are unable to safely consume enough calories by mouth to meet all of their nutritional needs typically require gastrostomy feeds. In many patients, gastrostomy feeding is a temporary intervention. Therefore, at least some oral feeding should be continued, if possible, because this helps to maintain oropharyngeal skills and possibly reduces pulmonary morbidity . If some oral feeds are given, the consistency and approach to feeding are guided by the feeding specialist to minimize the risk for aspiration.
+
+【105】Some patients (eg, those with severe and permanent neurologic dysfunction) may need gastrostomy feeds permanently. For these patients, oral feeds may not be needed to maintain oropharyngeal skills but may still be considered for pleasure and quality of life. These considerations require a detailed discussion of goals and risks between the family and clinicians .
+
+【106】Management of gastroesophageal reflux aspiration — Patients with swallowing dysfunction and airway obstruction, especially those with neurologic impairment, may have increased frequency and volume of gastroesophageal reflux (GER). The coexistence of GER and respiratory symptoms does not imply a causal relationship. There is also no definable "safe" amount of reflux in patients who are at risk for aspirating gastric contents. In order for GER to result in aspiration, there has to be:  the presence of GER to the larynx,  failure of airway protection, and  failure of cough clearance from the proximal airway.
+
+【107】 Many patients with GER may be managed with positioning during and after feeds and/or thickening of feedings, both of which can help to reduce GER .
+
+【108】 Acid-suppressing medications likely have no role for reducing GER or reflux aspiration. Moreover, these medications are associated with increased bacterial colonization of gastric contents and risks for pulmonary morbidity . Therefore, these medications should be limited to patients with documented reflux-related esophagitis.
+
+【109】 Fundoplication is a surgical procedure to reduce the risk of GER. It should only be considered for patients whose GER is strongly suspected of causing respiratory disease and that is not controlled by more conservative measures. Candidates for fundoplication should be carefully evaluated for a gastroesophageal motility disorder or gastric outlet obstruction. If these disorders are present, a fundoplication may exacerbate the GER and aspiration. Fundoplication has mixed results both for control of GER and for improvement in respiratory morbidity .
+
+【110】 Jejunal feeding is another strategy to reduce GER and respiratory symptoms without the complications that may accompany fundoplication. For patients with a gastrostomy, the device can be readily and reversibly converted to a gastrojejunal tube. In some cases, a trial of jejunal feeds may be used to help determine whether a patient's respiratory symptoms are associated with GER . Gastrojejunal feeds or permanent jejunostomies reduce the volume of gastric contents but do not prevent reflux of gastric secretions and do not allow the convenience of bolus feeding. These and other considerations are discussed separately.
+
+【111】Management of salivary aspiration — Some children may chronically aspirate their own oral secretions to a sufficient degree to result in progressive pulmonary disease. This may be exacerbated if there is concomitant impairment in spontaneous airway clearance. Children at risk for salivary aspiration often have marked sialorrhea, severe neurologic impairment, cranial neuropathy (such as CHARGE association or Moebius syndrome), vocal fold immobility, cricopharyngeal achalasia, or syndromic disorders of the nasopharynx . Decreased rate of spontaneous swallowing and depressed laryngeal sensation are typically present .
+
+【112】Treatment of salivary aspiration may be medical or surgical; techniques include:
+
+【113】 Provision of small quantities of food or water – To stimulate purposeful swallowing for clearance.
+
+【114】 Anticholinergic agents – To decrease salivation. Agents include oral glycopyrrolate , scopolamine patches, or oral administration of atropine ophthalmic drops. Because the effects of these medications are not selective for salivary glands, adverse effects are common. These may include behavioral changes, constipation or ileus, dry mouth, urinary retention, or flushing . Moreover, these medications thicken mucus secretions, which can be risky for children with neuromuscular weakness or small tracheostomy tubes because it increases the risk of life-threatening mucus plugging of tracheostomy tubes or bronchial airways.
+
+【115】 Botulinum toxin injection of parotid and submandibular glands – This procedure reduces saliva production without systemic effects. It targets the submandibular glands, which are responsible for the majority of baseline saliva production, and the parotid glands, which secrete large volumes of saliva in anticipation of eating. Botulinum toxin injection has a limited and variable duration of effect, but reduction of drooling and a decrease in respiratory infections have been demonstrated .
+
+【116】 Surgical removal of submandibular glands or ligation of salivary ducts – Like botulinum injection, these surgical procedures target the submandibular and parotid glands. They effectively reduce saliva production without systemic effects. Reduction in drooling and decreased respiratory infections have been demonstrated, but increased diligence to oral hygiene is required afterwards . Sialorrhea may recur because salivation via minor salivary glands may increase over time.
+
+【117】 Laryngotracheal separation – This is a definitive surgical procedure for all modes of aspiration. This procedure is very rarely indicated, results in complete loss of any vocalizations, and may or may not be reversible.
+
+【118】Airway surgical intervention — Surgical intervention of upper airway obstructive lesions may be useful for either obstructive airway lesions or abnormal connections between the esophagus and airway.
+
+【119】Obstructive lesions — Obstructive airway lesions are common in children with aspiration. One study reports that 36 percent of children with aspiration were found to have aspiration-associated airway anomalies with direct laryngoscopy and bronchoscopy, with a higher likelihood in those with a history of prior intubation or recurrent pneumonia and a lower likelihood in those with neurologic disease . These anomalies may contribute to aspiration by disrupting coordination between swallowing and breathing and may also worsen GER . Obstructive lesions that commonly require airway surgery are:
+
+【120】 **Laryngomalacia** – Children with severe laryngomalacia often benefit from surgery to release tight aryepiglottic folds and remove supraglottic tissue if needed. Supraglottoplasty has a high success rate for resolving stridor and dysphagia but less so in those with severe central neurologic disease such as static encephalopathy, microcephaly, hydrocephalus, and Chiari malformation .
+
+【121】Abnormal connection to the airway — An abnormal connection between the esophagus and the airway also predisposes to aspiration risk. In many circumstances, an upper airway lesion is not sufficient to cause chronic aspiration; rather, the lesion coexists with other swallowing challenges such as tachypnea, neurologic disease, poor feeding behaviors, or developmental immaturity. Lesions that commonly require surgery are:
+
+【122】 **Laryngotracheoesophageal cleft (LTEC)** – LTEC is one of the most common anatomic causes of aspiration . The more severe types (LTEC types 3 or 4 ) require surgical closure. Surgical treatment of types 1 and 2 LTEC is driven primarily by evidence of aspiration or feeding problems that fail to improve with conservative treatment, such as thickening of feeding. Feeding therapy and thickened feeding has a success rate of near 50 percent for reduction of feeding and respiratory symptoms . When this fails, repair may be undertaken.
+
+【123】If surgery is undertaken, the least invasive approach is injection augmentation laryngoplasty, which involves injection of a temporary material such as carboxymethylcellulose gel or gelatin sponge to partially fill the interarytenoid space; the effect is temporary and typically lasts a few months . Injection augmentation can be used as a test of effectiveness prior to surgical closure. Surgical closure is also commonly performed and success rates are >75 percent . The closure can be done endoscopically for all type 1 and 2 clefts and select type 3 clefts .
+
+【124】 **Tracheoesophageal fistulas (TEFs)** – Most TEFs are identified and repaired at birth via thoracotomy. Patients with H-type and recurrent TEF may present later in infancy or childhood. A variety of techniques are used for repair and depend on the type of TEF and other individual features . Some TEFs can be repaired endoscopically but often require repeated procedures to achieve closure . The TEF recurs in a significant minority of cases treated with any of these techniques.
+
+【125】INFORMATION FOR PATIENTS 
+
+【126】Here are the patient education articles that are relevant to this topic. We encourage you to print or e-mail these topics to your patients. (You can also locate patient education articles on a variety of subjects by searching on "patient info" and the keyword(s) of interest.)
+
+【127】 Basics topics
+
+【128】 **Clinical importance** – Chronic pulmonary aspiration due to swallowing dysfunction is a common and increasingly recognized cause of pulmonary morbidity as well as poor growth in children. There may be a combination of anatomic, functional, and neurologic causes.
+
+【129】 **Causes of swallowing dysfunction** – Swallowing dysfunction with aspiration is more common in infants born prematurely or with anatomic abnormalities of the aerodigestive tract, children with central neurologic disease, and children with craniofacial syndromes or cranial neuropathies . In addition, chronic aspiration is surprisingly common in infants and toddlers without other comorbidities; this is known as isolated swallowing dysfunction and typically resolves by three years of age.
+
+【130】 **Clinical presentation** – Presenting symptoms of chronic aspiration are nonspecific and may include chronic cough, wheezing, and recurrent respiratory infections. The symptoms may worsen acutely around feeding, but as many as one-half of children have no acute symptoms, known as silent aspiration. "Wet" or "rattly" breathing may be the primary presenting symptom. A history of recurrent pneumonia may not be present and is not correlated with worse lung injury such as bronchiectasis.
+
+【131】 **Evaluation** – Evaluation of an infant or child with suspected swallowing dysfunction is best performed together by a multidisciplinary team.
+
+【132】• **Clinical feeding evaluation** – The evaluation begins with a clinical feeding evaluation including a general and neurologic examination and observation of a feeding session.
+
+【133】• **Instrumental evaluation of swallowing** – In most cases, the evaluation proceeds to videofluoroscopic swallow study (VFSS) and/or fiberoptic endoscopic evaluation of swallowing (FEES) . These evaluations help to identify laryngeal penetration and/or aspiration, determine what consistencies of feeding are safe or not safe, and test feeding strategies.
+
+【134】• **Endoscopy** – Endoscopic evaluation of the aerodigestive tract is indicated for most patients, especially for those with other medical comorbidities. Flexible bronchoscopy is the best approach to evaluate dynamic airway obstruction, especially tracheomalacia, and to identify the presence of inflammatory lung disease. Rigid microlaryngoscopy and bronchoscopy are the most sensitive techniques to evaluate for anatomic lesions associated with aspiration, which include tracheoesophageal fistula (TEF) and laryngotracheoesophageal cleft (LTEC).
+
+【135】• **Imaging** – Evaluation for lung injury secondary to aspiration is beneficial to determine if there are significant consequences and to inform the urgency for intervention. Chest CT is the most sensitive technique for this purpose ; results must be interpreted in the context of the other components of the swallowing evaluation.
+
+【136】 **Management** – Management of chronic pulmonary aspiration is highly individualized based on the underlying mechanisms and contributors to aspiration.
+
+【137】• **Feeding** – The most common interventions are modification of feeding, which may include changes to feeding position and posture, flow rate, feeding interface, or consistency of feeds. Patients who are unable to safely consume enough calories by mouth to meet all of their nutritional needs may require gastrostomy feeds. In many cases, this is a temporary intervention. Some oral feeding should be continued, if possible, because this helps to maintain oropharyngeal skills.
+
+【138】• **Other** – Other interventions for selected patients include surgical interventions for airway obstruction or abnormal esophageal-airway connection such as laryngotracheoesophageal cleft  and medical or surgical interventions for gastroesophageal reflux (GER) or sialorrhea.焦瀚远
+
+====================================================================================================

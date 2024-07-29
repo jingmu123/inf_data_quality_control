@@ -1,0 +1,374 @@
+【0】Triamterene: Pediatric drug information
+
+【1】Contributor Disclosures
+
+【2】For abbreviations, symbols, and age group definitions show table
+
+【3】ALERT: US Boxed Warning
+
+【4】Hyperkalemia:
+
+【5】Abnormal elevation of serum potassium levels (at least 5.5 mEq/L) can occur with all potassium-sparing agents, including triamterene. Hyperkalemia is more likely to occur in patients with renal impairment and diabetes (even without evidence of renal impairment), and in elderly or severely ill patients. Because uncorrected hyperkalemia may be fatal, serum potassium levels must be monitored at frequent intervals especially in patients receiving triamterene, when dosages are changed, or with any illness that may influence renal function.
+
+【6】Brand Names: US
+
+【7】*   Dyrenium
+
+【8】Therapeutic Category
+
+【9】*   Antihypertensive Agent ;
+*   Diuretic, Potassium Sparing
+
+【10】Dosing: Pediatric
+
+【11】Edema
+
+【12】**Edema:** Children and Adolescents: Limited data available: Oral: 1 to 4 mg/kg/day divided into 1 to 2 doses; maximum daily dose: 6 mg/kg/ **day** or 300 mg/ **day** , whichever is lower 
+
+【13】Hypertension
+
+【14】**Hypertension:** Limited data available: Children and Adolescents: Oral: Initial: 0.5 to 1 mg/kg/dose twice daily; maximum daily dose: 3 to 4 mg/kg/ **day** or 300 mg/ **day** , whichever is lower 
+
+【15】**Dosage adjustment for concomitant therapy:** Significant drug interactions exist, requiring dose/frequency adjustment or avoidance. Consult drug interactions database for more information.
+
+【16】Dosing: Kidney Impairment: Pediatric
+
+【17】Mild to moderate impairment: There are no dosage adjustments provided in the manufacturer's labeling; use with caution, monitor serum potassium.
+
+【18】Severe impairment or progressive kidney disease: Use is contraindicated.
+
+【19】Dosing: Hepatic Impairment: Pediatric
+
+【20】Mild to moderate impairment: There are no dosage adjustments provided in the manufacturer's labeling.
+
+【21】Severe hepatic disease: Use is contraindicated.
+
+【22】Dosing: Adult
+
+【23】Edema
+
+【24】**Edema:**
+
+【25】**Note:** Although included as an FDA-approved use in the manufacturer's prescribing information for the management of edema, other diuretics are preferred in clinical practice .
+
+【26】**Oral:** Initial: 50 to 100 mg once daily; titrate as needed based on patient response. Maximum: 300 mg/day in divided doses .
+
+【27】**Dosage adjustment for concomitant therapy:** Significant drug interactions exist, requiring dose/frequency adjustment or avoidance. Consult drug interactions database for more information.
+
+【28】Dosing: Kidney Impairment: Adult
+
+【29】CrCl ≤50 mL/minute: Avoid use .
+
+【30】Manufacturer's labeling:
+
+【31】Mild to moderate impairment: There are no dosage adjustments provided in the manufacturer's labeling.
+
+【32】Severe impairment, progressive kidney disease, or anuria: Use is contraindicated.
+
+【33】Dosing: Hepatic Impairment: Adult
+
+【34】Mild to moderate impairment: There are no dosage adjustments provided in the manufacturer's labeling (has not been studied).
+
+【35】Severe impairment: Use is contraindicated.
+
+【36】Adverse Reactions
+
+【37】The following adverse drug reactions and incidences are derived from product labeling unless otherwise specified. Frequency not defined.
+
+【38】Central nervous system: Dizziness, fatigue, headache
+
+【39】Dermatologic: Skin photosensitivity, skin rash
+
+【40】Endocrine & metabolic: Hyperkalemia, hypokalemia, increased uric acid, metabolic acidosis
+
+【41】Gastrointestinal: Diarrhea, nausea, vomiting, xerostomia
+
+【42】Genitourinary: Azotemia
+
+【43】Hematologic & oncologic: Hematologic abnormality, megaloblastic anemia, thrombocytopenia
+
+【44】Hepatic: Jaundice, liver enzyme disorder
+
+【45】Hypersensitivity: Anaphylaxis
+
+【46】Neuromuscular & skeletal: Weakness
+
+【47】Renal: Acute interstitial nephritis (rare), acute renal failure (rare), increased blood urea nitrogen, increased serum creatinine, nephrolithiasis
+
+【48】Contraindications
+
+【49】Hypersensitivity to triamterene or any component of the formulation; anuria; severe or progressive kidney disease or dysfunction with the possible exception of nephrosis; severe hepatic disease; hyperkalemia; coadministration with other potassium-sparing agents or other formulations containing triamterene
+
+【50】Significant drug interactions exist, requiring dose/frequency adjustment or avoidance. Consult drug interactions database for more information.
+
+【51】Warnings/Precautions
+
+【52】**_Concerns related to adverse effects:_**
+
+【53】• Fluid/electrolyte loss: Triamterene can lead to profound diuresis with fluid and electrolyte loss; close medical supervision and dose evaluation are required. Patients with heart failure, renal disease, or cirrhosis may be particularly susceptible to fluid and electrolyte abnormalities. Watch for and correct electrolyte disturbances; adjust dose to avoid dehydration.
+
+【54】• Hyperkalemia: **\[US Boxed Warning\]: Hyperkalemia can occur; patients at risk include those with renal impairment, diabetes, the elderly, and the severely ill. Serum potassium levels must be monitored at frequent intervals especially when dosages are changed or with any illness that may cause renal dysfunction.** . In patients who develop hyperkalemia or if hyperkalemia is suspected, obtain an electrocardiogram to rule out hyperkalemia-induced QRS prolongation or other cardiac arrhythmias. Discontinue triamterene and any potassium supplementation in patients who develop hyperkalemia; treat cardiac arrhythmias as clinically indicated.
+
+【55】• Hypersensitivity reactions: Isolated occurrences have been reported. Observe for blood dyscrasias, liver damage or idiosyncratic reactions
+
+【56】• Photosensitivity: Can cause photosensitivity.
+
+【57】**_Disease-related concerns:_**
+
+【58】• Adrenal insufficiency: Avoid use of diuretics for treatment of elevated blood pressure in patients with primary adrenal insufficiency (Addison disease). Adjustment of glucocorticoid/mineralocorticoid therapy and/or use of other antihypertensive agents is preferred to treat hypertension .
+
+【59】• Diabetes: Use with caution in patients with prediabetes or diabetes mellitus; may increase blood glucose concentrations and necessitate dosage adjustment of hypoglycemic agents.
+
+【60】• Gout: May cause elevation in uric acid.
+
+【61】• Hepatic impairment: Use with caution in patients with severe hepatic dysfunction; in cirrhosis, avoid electrolyte and acid/base imbalances that might lead to hepatic encephalopathy.
+
+【62】• Kidney stones: Use with caution in patients with kidney stones.
+
+【63】**_Other warnings/precautions:_**
+
+【64】• Abrupt discontinuation: In patients who have received triamterene for prolonged periods of time, a hypothetical risk of rebound kaliuresis may occur when abruptly discontinued; withdraw triamterene gradually in these patients.
+
+【65】Dosage Forms: US
+
+【66】Excipient information presented when available (limited, particularly for generics); consult specific product labeling.
+
+【67】Capsule, Oral:
+
+【68】Dyrenium: 50 mg, 100 mg \[contains fd&c yellow #6 (sunset yellow)\]
+
+【69】Generic: 50 mg, 100 mg
+
+【70】Generic Equivalent Available: US
+
+【71】Pricing: US
+
+【72】**Capsules** (Dyrenium Oral)
+
+【73】50 mg (per each): $17.65
+
+【74】100 mg (per each): $17.65
+
+【75】**Capsules** (Triamterene Oral)
+
+【76】50 mg (per each): $11.93 - $11.94
+
+【77】100 mg (per each): $11.93 - $11.94
+
+【78】**Disclaimer:** A representative AWP (Average Wholesale Price) price or price range is provided as reference price only. A range is provided when more than one manufacturer's AWP price is available and uses the low and high price reported by the manufacturers to determine the range. The pricing data should be used for benchmarking purposes only, and as such should not be used alone to set or adjudicate any prices for reimbursement or purchasing functions or considered to be an exact price for a single product and/or manufacturer. Medi-Span expressly disclaims all warranties of any kind or nature, whether express or implied, and assumes no liability with respect to accuracy of price or price range data published in its solutions. In no event shall Medi-Span be liable for special, indirect, incidental, or consequential damages arising from use of price or price range data. Pricing data is updated monthly.
+
+【79】Administration: Pediatric
+
+【80】Oral: Administer with food to avoid GI upset
+
+【81】Administration: Adult
+
+【82】Oral: Administer after meals.
+
+【83】Storage/Stability
+
+【84】Store at 25°C ; excursions permitted to between 15°C and 30°C . Protect from light.
+
+【85】Use
+
+【86】Treatment of edema due to heart failure, hepatic cirrhosis, nephrotic syndrome, steroid-induced edema, idiopathic edema, or edema due to secondary hyperaldosteronism (FDA approved in adults); has also been used to treat hypertension.
+
+【87】Medication Safety Issues
+
+【88】Sound-alike/look-alike issues:
+
+【89】Triamterene may be confused with trimipramine
+
+【90】Dyrenium may be confused with Pyridium
+
+【91】Older Adult: High-Risk Medication:
+
+【92】Beers Criteria: Diuretics are identified in the Beers Criteria as potentially inappropriate medications to be used with caution in patients 65 years and older due to the potential to cause or exacerbate syndrome of inappropriate antidiuretic hormone secretion (SIADH) or hyponatremia; monitor sodium concentration closely when initiating or adjusting the dose in older adults (Beers Criteria \[AGS 2023\]).
+
+【93】Metabolism/Transport Effects
+
+【94】**Substrate** of OCT2
+
+【95】Drug Interactions  
+
+【96】**Note** : Interacting drugs may **not be individually listed below** if they are part of a group interaction (eg, individual drugs within “CYP3A4 Inducers \[Strong\]” are NOT listed). For a complete list of drug interactions by individual drug name and detailed management recommendations, use the drug interactions program by clicking on the “Launch drug interactions program” link above.
+
+【97】**Note:** Interacting drugs may **not be individually listed below** if they are part of a group interaction (eg, individual drugs within “CYP3A4 Inducers \[Strong\]” are NOT listed). For a complete list of drug interactions by individual drug name and detailed management recommendations, use the drug interactions program
+
+【98】Alfuzosin: May enhance the hypotensive effect of Blood Pressure Lowering Agents. _Risk C: Monitor therapy_
+
+【99】Amifostine: Blood Pressure Lowering Agents may enhance the hypotensive effect of Amifostine. Management: When used at chemotherapy doses, hold blood pressure lowering medications for 24 hours before amifostine administration. If blood pressure lowering therapy cannot be held, do not administer amifostine. Use caution with radiotherapy doses of amifostine. _Risk D: Consider therapy modification_
+
+【100】Ammonium Chloride: Potassium-Sparing Diuretics may enhance the adverse/toxic effect of Ammonium Chloride. Specifically the risk of systemic acidosis. _Risk C: Monitor therapy_
+
+【101】Amphetamines: May diminish the antihypertensive effect of Antihypertensive Agents. _Risk C: Monitor therapy_
+
+【102】Angiotensin II Receptor Blockers: May enhance the hyperkalemic effect of Potassium-Sparing Diuretics. _Risk C: Monitor therapy_
+
+【103】Angiotensin-Converting Enzyme Inhibitors: Potassium-Sparing Diuretics may enhance the hyperkalemic effect of Angiotensin-Converting Enzyme Inhibitors. _Risk C: Monitor therapy_
+
+【104】Antipsychotic Agents (Second Generation \[Atypical\]): Blood Pressure Lowering Agents may enhance the hypotensive effect of Antipsychotic Agents (Second Generation \[Atypical\]). _Risk C: Monitor therapy_
+
+【105】Arginine: May enhance the hypotensive effect of Blood Pressure Lowering Agents. _Risk C: Monitor therapy_
+
+【106】Barbiturates: May enhance the hypotensive effect of Blood Pressure Lowering Agents. _Risk C: Monitor therapy_
+
+【107】Benperidol: May enhance the hypotensive effect of Blood Pressure Lowering Agents. _Risk C: Monitor therapy_
+
+【108】Brigatinib: May diminish the antihypertensive effect of Antihypertensive Agents. Brigatinib may enhance the bradycardic effect of Antihypertensive Agents. _Risk C: Monitor therapy_
+
+【109】Brimonidine (Topical): May enhance the hypotensive effect of Blood Pressure Lowering Agents. _Risk C: Monitor therapy_
+
+【110】Bromperidol: May diminish the hypotensive effect of Blood Pressure Lowering Agents. Blood Pressure Lowering Agents may enhance the hypotensive effect of Bromperidol. _Risk X: Avoid combination_
+
+【111】CycloSPORINE (Systemic): Potassium-Sparing Diuretics may enhance the hyperkalemic effect of CycloSPORINE (Systemic). _Risk X: Avoid combination_
+
+【112】Desmopressin: Hyponatremia-Associated Agents may enhance the hyponatremic effect of Desmopressin. _Risk C: Monitor therapy_
+
+【113】Dexmethylphenidate: May diminish the therapeutic effect of Antihypertensive Agents. _Risk C: Monitor therapy_
+
+【114】Diacerein: May enhance the therapeutic effect of Diuretics. Specifically, the risk for dehydration or hypokalemia may be increased. _Risk C: Monitor therapy_
+
+【115】Diazoxide: May enhance the hypotensive effect of Blood Pressure Lowering Agents. _Risk C: Monitor therapy_
+
+【116】Dofetilide: Triamterene may increase the serum concentration of Dofetilide. _Risk C: Monitor therapy_
+
+【117】Drospirenone-Containing Products: May enhance the hyperkalemic effect of Potassium-Sparing Diuretics. _Risk C: Monitor therapy_
+
+【118】DULoxetine: Blood Pressure Lowering Agents may enhance the hypotensive effect of DULoxetine. _Risk C: Monitor therapy_
+
+【119】Fexinidazole: May increase the serum concentration of OCT2 Substrates (Clinically Relevant with Inhibitors). Management: Avoid use of fexinidazole with OCT2 substrates when possible. If combined, monitor for increased OCT2 substrate toxicities. _Risk D: Consider therapy modification_
+
+【120】Finerenone: Potassium-Sparing Diuretics may enhance the hyperkalemic effect of Finerenone. _Risk C: Monitor therapy_
+
+【121】Flunarizine: May enhance the therapeutic effect of Antihypertensive Agents. _Risk C: Monitor therapy_
+
+【122】Givinostat: May increase the serum concentration of OCT2 Substrates (Clinically Relevant with Inhibitors). _Risk C: Monitor therapy_
+
+【123】Heparin: May enhance the hyperkalemic effect of Potassium-Sparing Diuretics. _Risk C: Monitor therapy_
+
+【124】Heparins (Low Molecular Weight): May enhance the hyperkalemic effect of Potassium-Sparing Diuretics. _Risk C: Monitor therapy_
+
+【125】Herbal Products with Blood Pressure Increasing Effects: May diminish the antihypertensive effect of Antihypertensive Agents. _Risk C: Monitor therapy_
+
+【126】Herbal Products with Blood Pressure Lowering Effects: May enhance the hypotensive effect of Blood Pressure Lowering Agents. _Risk C: Monitor therapy_
+
+【127】Hypotension-Associated Agents: Blood Pressure Lowering Agents may enhance the hypotensive effect of Hypotension-Associated Agents. _Risk C: Monitor therapy_
+
+【128】Iloperidone: May enhance the hypotensive effect of Blood Pressure Lowering Agents. _Risk C: Monitor therapy_
+
+【129】Indomethacin: Triamterene may enhance the adverse/toxic effect of Indomethacin. Specifically, the risk for renal failure and hyperkalemia may be increased. Management: Consider alternatives to concomitant treatment with triamterene and indomethacin. If the combination cannot be avoided, monitor for development of renal failure and hyperkalemia. _Risk D: Consider therapy modification_
+
+【130】Indoramin: May enhance the hypotensive effect of Antihypertensive Agents. _Risk C: Monitor therapy_
+
+【131】Isocarboxazid: May enhance the hypotensive effect of Diuretics. _Risk X: Avoid combination_
+
+【132】Levodopa-Foslevodopa: Blood Pressure Lowering Agents may enhance the hypotensive effect of Levodopa-Foslevodopa. _Risk C: Monitor therapy_
+
+【133】Lithium: Potassium-Sparing Diuretics may increase the serum concentration of Lithium. Potassium-Sparing Diuretics may decrease the serum concentration of Lithium. _Risk C: Monitor therapy_
+
+【134】Loop Diuretics: May enhance the hypotensive effect of Antihypertensive Agents. _Risk C: Monitor therapy_
+
+【135】Lormetazepam: May enhance the hypotensive effect of Blood Pressure Lowering Agents. _Risk C: Monitor therapy_
+
+【136】Methylphenidate: May diminish the antihypertensive effect of Antihypertensive Agents. _Risk C: Monitor therapy_
+
+【137】Molsidomine: May enhance the hypotensive effect of Blood Pressure Lowering Agents. _Risk C: Monitor therapy_
+
+【138】Naftopidil: May enhance the hypotensive effect of Blood Pressure Lowering Agents. _Risk C: Monitor therapy_
+
+【139】Nicergoline: May enhance the hypotensive effect of Blood Pressure Lowering Agents. _Risk C: Monitor therapy_
+
+【140】Nicorandil: May enhance the hyperkalemic effect of Potassium-Sparing Diuretics. _Risk C: Monitor therapy_
+
+【141】Nicorandil: May enhance the hypotensive effect of Blood Pressure Lowering Agents. _Risk C: Monitor therapy_
+
+【142】Nitroprusside: Blood Pressure Lowering Agents may enhance the hypotensive effect of Nitroprusside. _Risk C: Monitor therapy_
+
+【143】Nonsteroidal Anti-Inflammatory Agents: May diminish the antihypertensive effect of Potassium-Sparing Diuretics. Nonsteroidal Anti-Inflammatory Agents may enhance the hyperkalemic effect of Potassium-Sparing Diuretics. _Risk C: Monitor therapy_
+
+【144】Obinutuzumab: May enhance the hypotensive effect of Blood Pressure Lowering Agents. Management: Consider temporarily withholding blood pressure lowering medications beginning 12 hours prior to obinutuzumab infusion and continuing until 1 hour after the end of the infusion. _Risk D: Consider therapy modification_
+
+【145】Opioid Agonists: May enhance the adverse/toxic effect of Diuretics. Opioid Agonists may diminish the therapeutic effect of Diuretics. _Risk C: Monitor therapy_
+
+【146】Pentoxifylline: May enhance the hypotensive effect of Blood Pressure Lowering Agents. _Risk C: Monitor therapy_
+
+【147】Pholcodine: Blood Pressure Lowering Agents may enhance the hypotensive effect of Pholcodine. _Risk C: Monitor therapy_
+
+【148】Phosphodiesterase 5 Inhibitors: May enhance the hypotensive effect of Blood Pressure Lowering Agents. _Risk C: Monitor therapy_
+
+【149】Polyethylene Glycol-Electrolyte Solution: Diuretics may enhance the nephrotoxic effect of Polyethylene Glycol-Electrolyte Solution. _Risk C: Monitor therapy_
+
+【150】Potassium Salts: May enhance the hyperkalemic effect of Triamterene. _Risk X: Avoid combination_
+
+【151】Potassium-Sparing Diuretics: May enhance the hyperkalemic effect of other Potassium-Sparing Diuretics. _Risk X: Avoid combination_
+
+【152】Pramipexole: Triamterene may enhance the hypotensive effect of Pramipexole. Triamterene may increase the serum concentration of Pramipexole. _Risk C: Monitor therapy_
+
+【153】Prazosin: Antihypertensive Agents may enhance the hypotensive effect of Prazosin. _Risk C: Monitor therapy_
+
+【154】Prostacyclin Analogues: May enhance the hypotensive effect of Blood Pressure Lowering Agents. _Risk C: Monitor therapy_
+
+【155】Quinagolide: May enhance the hypotensive effect of Blood Pressure Lowering Agents. _Risk C: Monitor therapy_
+
+【156】Silodosin: May enhance the hypotensive effect of Blood Pressure Lowering Agents. _Risk C: Monitor therapy_
+
+【157】Sodium Phosphates: Diuretics may enhance the nephrotoxic effect of Sodium Phosphates. Specifically, the risk of acute phosphate nephropathy may be enhanced. _Risk C: Monitor therapy_
+
+【158】Tacrolimus (Systemic): Potassium-Sparing Diuretics may enhance the hyperkalemic effect of Tacrolimus (Systemic). _Risk C: Monitor therapy_
+
+【159】Tafenoquine: May increase the serum concentration of OCT2 Substrates (Clinically Relevant with Inhibitors). Management: Avoid use of OCT2 substrates with tafenoquine, and if the combination cannot be avoided, monitor closely for evidence of toxicity of the OCT2 substrate and consider a reduced dose of the OCT2 substrate according to that substrate's labeling. _Risk D: Consider therapy modification_
+
+【160】Terazosin: Antihypertensive Agents may enhance the hypotensive effect of Terazosin. _Risk C: Monitor therapy_
+
+【161】Tolvaptan: May enhance the hyperkalemic effect of Potassium-Sparing Diuretics. _Risk C: Monitor therapy_
+
+【162】Urapidil: Antihypertensive Agents may enhance the hypotensive effect of Urapidil. _Risk C: Monitor therapy_
+
+【163】Pregnancy Considerations
+
+【164】Triamterene crosses the placenta and is found in cord blood. Use of triamterene to treat edema during normal pregnancies is not appropriate; use may be considered when edema is due to pathologic causes (as in the nonpregnant patient); monitor.
+
+【165】Monitoring Parameters
+
+【166】Electrolytes (sodium, potassium, magnesium, HCO 3 , chloride), blood pressure, CBC, BUN, creatinine, platelets
+
+【167】Mechanism of Action
+
+【168】Blocks epithelial sodium channels in the late distal convoluted tubule (DCT) and collecting duct which inhibits sodium reabsorption from the lumen. This effectively reduces intracellular sodium, decreasing the function of Na+/K+ ATPase, leading to potassium retention and decreased calcium, magnesium, and hydrogen excretion. As sodium uptake capacity in the DCT/collecting duct is limited, the natriuretic, diuretic, and antihypertensive effects are generally considered weak.
+
+【169】Pharmacokinetics (Adult Data Unless Noted)
+
+【170】Onset of action: Diuresis: 2 to 4 hours; **Note:** Maximum therapeutic effect may not occur until after several days of therapy
+
+【171】Duration: Diuresis: 7 to 9 hours
+
+【172】Absorption: Rapid
+
+【173】Metabolism: Primarily metabolized to the sulfate conjugate of hydroxytriamterene
+
+【174】Time to peak, plasma: ~3 hours
+
+【175】Excretion: Urine 
+
+【176】Brand Names: International
+
+【177】International Brand Names by Country
+
+【178】For country code abbreviations ( show table )  
+
+*   (BE) Belgium : Dytac ;
+*   (CH) Switzerland : Dyrenium ;
+*   (DE) Germany : Jatropur ;
+*   (ES) Spain : Urocaudal ;
+*   (GB) United Kingdom : Dytac ;
+*   (JP) Japan : Diarrol | Kikuspan beppu | Kikuspan taisho | Triamterene isei | Triteren ;
+*   (KR) Korea, Republic of : Dyren ;
+*   (LT) Lithuania : Dytac ;
+*   (LU) Luxembourg : Dytac ;
+*   (LV) Latvia : Dytac ;
+*   (NL) Netherlands : Dytac ;
+*   (PR) Puerto Rico : Dyrenium ;
+*   (TW) Taiwan : Triamteren | Triteren王磊
+
+====================================================================================================

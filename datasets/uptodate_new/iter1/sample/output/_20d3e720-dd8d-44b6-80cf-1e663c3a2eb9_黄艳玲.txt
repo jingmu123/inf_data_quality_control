@@ -1,0 +1,219 @@
+【0】Tirbanibulin: Drug information
+
+【1】Contributor Disclosures
+
+【2】For abbreviations, symbols, and age group definitions show table
+
+【3】Brand Names: US
+
+【4】*   Klisyri
+
+【5】Pharmacologic Category
+
+【6】*   Antineoplastic Agent, Antimicrotubular;
+*   Topical Skin Product
+
+【7】Dosing: Adult
+
+【8】Actinic keratosis
+
+【9】**Actinic keratosis: Topical:** Apply once daily to evenly cover up to a 100 cm 2 area (using no more than 1 single-dose packet per application) for 5 consecutive days.
+
+【10】Dosing: Kidney Impairment: Adult
+
+【11】There are no dosage adjustments provided in the manufacturer's labeling.
+
+【12】Dosing: Hepatic Impairment: Adult
+
+【13】There are no dosage adjustments provided in the manufacturer's labeling.
+
+【14】Dosing: Older Adult
+
+【15】Refer to adult dosing.
+
+【16】Adverse Reactions (Significant): Considerations
+
+【17】Dermatologic reactions
+
+【18】Local skin reactions (LSR), including **crusted skin** , **dermal ulcer** , **skin erosion** , **erythema of skin** , **exfoliation of skin/scaling** , **pustules** , **skin vesicle** , and **swelling of skin** may commonly occur. Most LSRs are mild and transient; however, severe LSRs have also been reported. Most LSRs spontaneously resolved/stabilized within 2 to 4 weeks during clinical trials .
+
+【19】_Onset:_ Rapid; LSRs appear 2 to 4 days after initiation of therapy and peak by the end of treatment .
+
+【20】_Risk factors:_
+
+【21】• Occlusion following application
+
+【22】• Application to skin that has not fully healed from prior drug, procedure, or surgical treatment.
+
+【23】Adverse Reactions
+
+【24】The following adverse drug reactions and incidences are derived from product labeling unless otherwise specified.
+
+【25】\>10%: Dermatologic: Crusted skin (mild to moderate: 14% to 30%; severe: 2%)  Crusted Skin , erythema of skin   Erythema of Skin , exfoliation of skin (mild to moderate: 26% to 47%; severe: 9%)  Exfoliation of Skin , swelling of skin (mild to moderate: 9% to 29%; severe <1%)  Swelling of Skin
+
+【26】**Tirbanibulin: Adverse Reaction: Crusted Skin**
+
+| **Drug (Tirbanibulin)**  | **Placebo (Vehicle)**  | **Number of Patients (Tirbanibulin)**  | **Number of Patients (Vehicle)**  |
+| --- | --- | --- | --- |
+| Mild: 30%  | 9%  | 353  | 349  |
+| Moderate: 14%  | 2%  | 353  | 349  |
+| Severe: 2%  | 0%  | 353  | 349  |
+
+【28】**Tirbanibulin: Adverse Reaction: Erythema of Skin**
+
+| **Drug (Tirbanibulin)**  | **Placebo (Vehicle)**  | **Number of Patients (Tirbanibulin)**  | **Number of Patients (Vehicle)**  |
+| --- | --- | --- | --- |
+| Mild: 22%  | 28%  | 353  | 349  |
+| Moderate: 63%  | 6%  | 353  | 349  |
+| Severe: 6%  | 0%  | 353  | 349  |
+
+【30】**Tirbanibulin: Adverse Reaction: Exfoliation of Skin**
+
+| **Drug (Tirbanibulin)**  | **Placebo (Vehicle)**  | **Number of Patients (Tirbanibulin)**  | **Number of Patients (Vehicle)**  |
+| --- | --- | --- | --- |
+| Mild: 26%  | 25%  | 353  | 349  |
+| Moderate: 47%  | 9%  | 353  | 349  |
+| Severe: 9%  | 0.3%  | 353  | 349  |
+
+【32】**Tirbanibulin: Adverse Reaction: Swelling of Skin**
+
+| **Drug (Tirbanibulin)**  | **Placebo (Vehicle)**  | **Number of Patients (Tirbanibulin)**  | **Number of Patients (Vehicle)**  |
+| --- | --- | --- | --- |
+| Mild: 29%  | 4%  | 353  | 349  |
+| Moderate: 9%  | 0.3%  | 353  | 349  |
+| Severe: 0.6%  | 0%  | 353  | 349  |
+
+【34】1% to 10%:
+
+【35】Dermatologic: Dermal ulcer (mild to moderate: ≤9%)  Dermal Ulcer , pustules (mild to moderate: ≤7%, severe: <1%)  Pustules , skin erosion (mild to moderate: ≤9%)  Skin Erosion , skin vesicle (mild to moderate: ≤7%, severe: <1%)  Skin Vesicle
+
+【36】**Tirbanibulin: Adverse Reaction: Dermal Ulcer**
+
+| **Drug (Tirbanibulin)**  | **Placebo (Vehicle)**  | **Number of Patients (Tirbanibulin)**  | **Number of Patients (Vehicle)**  | **Comments**  |
+| --- | --- | --- | --- | --- |
+| Mild: 9%  | 3%  | 353  | 349  | Described as "Erosion/Ulceration"  |
+| Moderate: 3%  | 0%  | 353  | 349  | Described as "Erosion/Ulceration"  |
+
+【38】**Tirbanibulin: Adverse Reaction: Pustules**
+
+| **Drug (Tirbanibulin)**  | **Placebo (Vehicle)**  | **Number of Patients (Tirbanibulin)**  | **Number of Patients (Vehicle)**  | **Comments**  |
+| --- | --- | --- | --- | --- |
+| Mild: 7%  | 0.9%  | 353  | 349  | Described as "Vesiculation/Pustulation"  |
+| Moderate: 0.6%  | 0%  | 353  | 349  | Described as "Vesiculation/Pustulation"  |
+| Severe: 0.6%  | 0%  | 353  | 349  | Described as "Vesiculation/Pustulation"  |
+
+【40】**Tirbanibulin: Adverse Reaction: Skin Erosion**
+
+| **Drug (Tirbanibulin)**  | **Placebo (Vehicle)**  | **Number of Patients (Tirbanibulin)**  | **Number of Patients (Vehicle)**  | **Comments**  |
+| --- | --- | --- | --- | --- |
+| Mild: 9%  | 3%  | 353  | 349  | Described as "Erosion/Ulceration"  |
+| Moderate: 3%  | 0%  | 353  | 349  | Described as "Erosion/Ulceration"  |
+
+【42】**Tirbanibulin: Adverse Reaction: Skin Vesicle**
+
+| **Drug (Tirbanibulin)**  | **Placebo (Vehicle)**  | **Number of Patients (Tirbanibulin)**  | **Number of Patients (Vehicle)**  | **Comments**  |
+| --- | --- | --- | --- | --- |
+| Mild: 7%  | 0.9%  | 353  | 349  | Described as "Vesiculation/Pustulation"  |
+| Moderate: 0.6%  | 0%  | 353  | 349  | Described as "Vesiculation/Pustulation"  |
+| Severe: 0.6%  | 0%  | 353  | 349  | Described as "Vesiculation/Pustulation"  |
+
+【44】Local: Application site pain , application-site pruritus 
+
+【45】Contraindications
+
+【46】There are no contraindications listed in the manufacturer's labeling.
+
+【47】Warnings/Precautions
+
+【48】_**Concerns related to adverse effects:**_
+
+【49】• Ocular effects: May cause eye irritation; avoid contact with eyes or periocular area during and after application.
+
+【50】Dosage Forms: US
+
+【51】Excipient information presented when available (limited, particularly for generics); consult specific product labeling.
+
+【52】Ointment, External:
+
+【53】Klisyri: 1%  \[contains propylene glycol\]
+
+【54】Generic Equivalent Available: US
+
+【55】No
+
+【56】Pricing: US
+
+【57】**Ointment** (Klisyri External)
+
+【58】1% (per each): $266.73
+
+【59】**Disclaimer:** A representative AWP (Average Wholesale Price) price or price range is provided as reference price only. A range is provided when more than one manufacturer's AWP price is available and uses the low and high price reported by the manufacturers to determine the range. The pricing data should be used for benchmarking purposes only, and as such should not be used alone to set or adjudicate any prices for reimbursement or purchasing functions or considered to be an exact price for a single product and/or manufacturer. Medi-Span expressly disclaims all warranties of any kind or nature, whether express or implied, and assumes no liability with respect to accuracy of price or price range data published in its solutions. In no event shall Medi-Span be liable for special, indirect, incidental, or consequential damages arising from use of price or price range data. Pricing data is updated monthly.
+
+【60】Administration: Adult
+
+【61】**Topical:** Apply to keratotic lesions only on the face or balding scalp; do not cover with an occlusive dressing. Wash hands immediately after application. Avoid washing or touching the treatment area for ~8 hours; may wash area with a mild soap and water after this time. Avoid application near or around the mouth, lips, or eyes. If accidental contact with eyes occurs, flush with water and contact health care provider.
+
+【62】Use: Labeled Indications
+
+【63】**Actinic keratosis:** Topical field treatment of actinic keratosis on the face or scalp.
+
+【64】Medication Safety Issues
+
+【65】Sound-alike/look-alike issues:
+
+【66】Tirbanibulin may be confused with eribulin, terbanifine, terbutaline.
+
+【67】High alert medication:
+
+【68】The Institute for Safe Medication Practices (ISMP) includes this medication among its list of drug classes (chemotherapeutic agent, parenteral and oral) which have a heightened risk of causing significant patient harm when used in error (High-Alert Medications in Acute Care, Community/Ambulatory Care, and Long-Term Care Settings).
+
+【69】Metabolism/Transport Effects
+
+【70】None known.
+
+【71】Drug Interactions  
+
+【72】There are no known significant interactions.
+
+【73】Pregnancy Considerations
+
+【74】Adverse events were observed in some animal reproduction studies following oral administration of tirbanibulin in doses providing greater systemic exposure than a maximum recommended human dose.
+
+【75】Breastfeeding Considerations
+
+【76】It is not known if tirbanibulin is present in breast milk. According to the manufacturer, the decision to breastfeed during therapy should consider the risk of infant exposure, the benefits of breastfeeding to the infant, and the benefits of treatment to the mother.
+
+【77】Monitoring Parameters
+
+【78】Monitor for local skin reactions and ophthalmic adverse reactions.
+
+【79】Mechanism of Action
+
+【80】Tirbanibulin is a microtubule inhibitor; it inhibits tubulin polymerization and disrupts Src kinase signaling, which are upregulated in actinic keratosis (Kempers 2020).
+
+【81】Pharmacokinetics (Adult Data Unless Noted)
+
+【82】Protein binding: 88%.
+
+【83】Metabolism: Hepatic via CYP3A4 and CYP2C8 (minor) to inactive metabolites.
+
+【84】Time to peak: Median: ~7 hours.
+
+【85】Brand Names: International
+
+【86】International Brand Names by Country
+
+【87】For country code abbreviations ( show table )  
+
+【88】*   (AT) Austria : Klisyri ;
+*   (BE) Belgium : Klisyri ;
+*   (DE) Germany : Klisyri ;
+*   (ES) Spain : Klisyri ;
+*   (GB) United Kingdom : Klisyri ;
+*   (IE) Ireland : Klisyri ;
+*   (IT) Italy : Klisyri ;
+*   (LU) Luxembourg : Klisyri ;
+*   (NL) Netherlands : Klisyri ;
+*   (PR) Puerto Rico : Klisyri黄艳玲
+
+====================================================================================================

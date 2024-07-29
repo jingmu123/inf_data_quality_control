@@ -1,0 +1,253 @@
+【0】Restless legs syndrome during pregnancy and lactation
+
+【1】INTRODUCTION 
+
+【2】Restless legs syndrome (RLS) is very common during pregnancy, affecting approximately one in five individuals. Symptom severity varies widely, from a minor nuisance in some to severe, disruptive symptoms in others. Symptoms typically peak during the third trimester and remit or markedly improve after delivery.
+
+【3】RLS commonly impacts sleep during pregnancy, and accumulating data indicate that RLS symptoms are associated with increased risk for adverse pregnancy outcomes.
+
+【4】This topic will review aspects of the diagnosis and treatment of RLS that are unique to pregnancy. Clinical features, diagnosis, and treatment of RLS in the general population are discussed elsewhere.
+
+【5】EPIDEMIOLOGY
+
+【6】 **Prevalence and incidence** – The prevalence of restless legs syndrome (RLS) during pregnancy is two- to threefold higher than the prevalence in the general population . In a meta-analysis of 27 studies in over 50,000 pregnant people, the pooled prevalence of RLS across all three trimesters of pregnancy was 21 percent . Similarly, the incidence of new-onset RLS during pregnancy is 18 percent .
+
+【7】Prevalence varies by geographic region. Estimates range from approximately 20 percent in Europe and the Americas, 30 percent in the Eastern Mediterranean region, 14 percent in the Western Pacific Rim, and 4 to 5 percent in Japan, for example . A single study from Africa (Nigeria) found no cases in a study population of 310 pregnant individuals . However, in a large multiracial cohort from the United States, race was not found to be a significant risk factor for RLS during pregnancy .
+
+【8】 **Risk factors** – The majority of cases are of new onset during pregnancy (gestational RLS), with preexisting RLS accounting for 4 to 33 percent of cases . Risk factors for RLS during pregnancy include preexisting RLS, a family history of RLS, RLS during a prior pregnancy, age ≥35 years, tobacco use, low serum ferritin, and iron deficiency anemia .
+
+【9】PATHOPHYSIOLOGY 
+
+【10】Genetics, brain iron deficiency, and brain dopamine have been implicated in the pathophysiology of restless legs syndrome (RLS) in the general population.
+
+【11】Factors specific to pregnancy have not yet been adequately defined. Iron deficiency, decreased iron availability, vitamin D deficiency, folate deficiency, familial predisposition, high estrogen levels, and stretch/compression of nerves have been postulated, but the limited evidence is conflicting .
+
+【12】CLINICAL FEATURES 
+
+【13】The symptoms of restless legs syndrome (RLS) during pregnancy are the same as those in the general population but follow a unique course, with a tendency to escalate over the course of pregnancy and spontaneously remit shortly after delivery.
+
+【14】Symptoms — The hallmark symptom of RLS is an urge to move the legs that occurs at rest and is relieved by movement, as long as the movement continues. The need to move is usually, but not always, accompanied by other uncomfortable sensations in the legs. Terms that individuals use to describe RLS include "have to move," "need to move," "can't get comfortable," "creepy-crawly," "aching," "bug-like," "itching," and "antsy," typically localizing to the lower extremities but also sometimes to the upper extremities. Symptoms usually worsen in the evening or at night, and commonly interfere with quiet activities and sleep.
+
+【15】The severity of RLS symptoms during pregnancy varies widely. In large cohort studies, the proportion of pregnant individuals reporting severe to very severe symptoms on a standardized RLS rating scale ranges from approximately 15 to 50 percent . In the study with the lowest proportion of severe cases, 70 percent of patients reported at least moderate symptom severity .
+
+【16】RLS is the third most common reason for insomnia during pregnancy (after nocturia and positional discomfort), affecting both sleep onset and maintenance .
+
+【17】Clinical course during pregnancy — Both the prevalence and severity of RLS steadily increase over the course of pregnancy, peaking at the seventh to eighth month . Pooled prevalence rates for the first, second, and third trimesters were found to be 8, 16, and 22 percent, respectively . Approximately 70 percent of affected patients experience complete resolution shortly after delivery, and most others experience clear-cut improvement.
+
+【18】Although the short-term remission rate for pregnancy-onset cases appears to exceed 90 percent, individuals who have had the transient form of RLS during pregnancy have a fourfold risk for developing nonpregnancy RLS later in life .
+
+【19】Pregnancy outcomes — RLS during pregnancy is associated with poor sleep quality and decreased physical and mental health quality of life, reflecting similar data for RLS in the general population . More frequent maternal complications reported are gestational hypertension, preeclampsia, gestational diabetes mellitus, and peripartum depression . However, impact of RLS treatment on these outcomes has not been studied adequately.
+
+【20】Psychiatric comorbidities — RLS often co-occurs with depression and anxiety in adults . In a large population-based study in the general population, RLS was associated with a significantly increased risk for major depressive disorder (odds ratio \[OR\] 5) and panic disorder (OR 13) . More limited data support these associations in pregnant people as well .
+
+【21】Psychiatric comorbidity is important to recognize in pregnant patients with RLS because it can significantly influence the treatment plan.
+
+【22】DIAGNOSIS 
+
+【23】Restless legs syndrome (RLS) is a clinical diagnosis that should be suspected in individuals who complain of an urge to move the legs when lying in bed or sitting down. The diagnosis is made by history and does not require additional testing, except for an assessment of iron status (even among women who are not anemic) to determine whether iron replacement is indicated. Polysomnography is not required for the diagnosis.
+
+【24】Diagnostic criteria for RLS demonstrate the essential clinical features of RLS, all of which are required for the diagnosis  . Often, the simple prompt "Do your legs bother you when you are sitting or lying down?" will initiate a focused dialogue that allows the clinician to assess each of the essential criteria and exclude mimics of RLS during pregnancy, such as nocturnal leg cramps.
+
+【25】The severity of symptoms and their impact on functioning should be documented. The clinical significance of RLS is particularly important to identify because it guides the need for therapies beyond reassurance and possible nonpharmacologic interventions. A 10-question RLS severity scale can be useful clinically and is available online .
+
+【26】DIFFERENTIAL DIAGNOSIS 
+
+【27】A variety of common and uncommon conditions can mimic restless legs syndrome (RLS) during pregnancy. Most can be excluded by history  .
+
+【28】 Positional leg discomfort is easily relieved by simple position change, rather than the recurrent movements needed to mitigate RLS symptoms.
+
+【29】 Nocturnal leg cramps are common during pregnancy and are characterized by sudden, painful tightness and palpable hardening of the muscle. Unlike in RLS, movement usually worsens the pain of leg cramps, at least initially.
+
+【30】 Many of the other mimics, including leg edema, dermatitis, and sore muscles, are characterized by pain or discomfort but **not** a need to move the legs.
+
+【31】 Numbness is not a typical descriptor of RLS, which helps to distinguish it from positional ischemia and neuropathy.
+
+【32】While the diagnostic criteria for RLS require that symptoms cannot be solely accounted for by another primary condition, RLS can co-occur with other primary conditions, including leg cramps or even neuropathy. This necessitates a separate focus on each possible condition in the diagnostic process and in the assessment of impact .
+
+【33】TREATMENT 
+
+【34】Management of restless legs syndrome (RLS) during pregnancy should be individualized based on symptom severity, comorbidities such as depression or anxiety, and patient preferences.
+
+【35】Many patients can be managed successfully with education, reassurance, iron supplementation if indicated, and nonpharmacologic strategies. Pharmacologic therapies such as clonazepam or carbidopa-levodopa may be considered for severe symptoms.
+
+【36】Consensus guidelines and algorithm — Consensus clinical practice guidelines and an algorithm for the diagnosis and treatment of RLS during pregnancy and lactation are available ( algorithm 1 ) . The approach outlined below is consistent with these guidelines and other reviews .
+
+【37】Due to a lack of any controlled trials for treatments of RLS during pregnancy and lactation, recommendations for pharmacologic therapy in patients with refractory symptoms are based on results of randomized trials for RLS in the nonpregnant population, limited efficacy data for treatments used during pregnancy, substantial data on the safety of RLS treatments that are used during pregnancy for another indication (eg, gabapentin for epilepsy and pain, dopaminergics for pituitary adenoma), and the combined clinical experience of the panel .
+
+【38】Of note, only four pharmacologic therapies have specific approval for RLS by the US Food and Drug Administration (FDA) ( ropinirole , pramipexole , rotigotine patch, and gabapentin enacarbil ), with caution for all recommended during pregnancy and lactation. The FDA letter risk category system for pregnancy and lactation has been retired and will not be emphasized in this topic .
+
+【39】General considerations — Treatment decisions for RLS during pregnancy and lactation should be approached in a collaborative and individualized manner. The following general points are worth considering and reviewing with patients:
+
+【40】 Knowledge of the typical clinical course can be reassuring, especially the expected marked decrease in symptoms after delivery.
+
+【41】 Nonpharmacologic interventions and iron supplementation are the primary treatment approach.
+
+【42】 Treatment decisions must take into consideration symptom severity, impact on functioning, and the known risks and benefits of potential interventions.
+
+【43】 The placebo effect is common in RLS and other central nervous system disorders (approximately 20 to 40 percent).
+
+【44】 When medications are prescribed, aim to use the lowest effective dose and the shortest duration possible. Symptoms should be reassessed periodically, especially after iron stores are replete and after delivery.
+
+【45】 There is a 3 to 5 percent chance of any congenital anomaly and a 1 to 3 percent chance of a major congenital anomaly for any pregnancy. The teratogenic risk of any drug is greatest in the first trimester, when organogenesis is primarily occurring. Transplacental passage of drugs in the second or third trimester is less likely to cause a congenital anomaly but can have fetal effects, such as growth impairment and laboratory abnormalities similar to those in the mother.
+
+【46】FIRST-LINE THERAPIES
+
+【47】Nonpharmacologic therapy
+
+【48】Physical exercise — In the absence of contraindications, moderate-intensity physical exercise is encouraged for all pregnant and postpartum individuals.
+
+【49】Exercise has been shown to increase deep sleep, improve restless legs syndrome (RLS) symptoms, and benefit mental health, especially depression . Brisk walking, water aerobics, ballroom dancing, and general gardening are examples of moderate-intensity exercise. However, even low-intensity exercise like walking may be beneficial for health during pregnancy .
+
+【50】Avoidance of exacerbating factors — Assessing for factors that may aggravate RLS and working to reduce these is an important component of nonpharmacologic therapy .
+
+【51】Known or suspected exacerbating factors include iron deficiency, insufficient sleep, irregular sleep, pain, caffeine, and nicotine . Some medications, including sedating antihistamines, serotonergic antidepressants, and dopamine blockers, can aggravate RLS . This includes many drugs used to treat nausea and vomiting of pregnancy (eg, doxylamine , prochlorperazine , promethazine , metoclopramide ). Ondansetron , however, does not appear to trigger RLS symptoms.
+
+【52】Treatment of sleep apnea during pregnancy is important to mitigate a variety of potential consequences  and may also be of direct benefit for RLS .
+
+【53】Sleep hygiene training — Two face-to-face sessions of sleep hygiene training were found to significantly improve sleep quality, as measured by the Pittsburgh Sleep Quality Index, in pregnant individuals with RLS .
+
+【54】Other approaches — Additional low-risk strategies that can help RLS symptoms based on small studies include yoga , massage , acupuncture, pneumatic compression devices , and progressive muscle relaxation .
+
+【55】Immersion of the legs in warm or cold water was shown to be of benefit for RLS during pregnancy in a randomized trial . Although many patients mention warm or hot baths as beneficial for RLS, hyperthermia (body temperature above 101°F \[38.3°C\]) in early pregnancy may be associated with an increased risk of neural tube defects. Therefore, exposure for longer than 10 minutes to heat sources such as hot tubs, very hot baths, or saunas should be avoided.
+
+【56】Iron supplementation — We recommend assessing iron status in all pregnant individuals with RLS and beginning oral iron supplementation if the serum ferritin level is <75 mcg/L . Maternal serum ferritin drops to approximately 50 percent at midgestation in the absence of iron supplementation due to expanding maternal red blood cell mass, as well as growth of the fetus and placental structures .
+
+【57】Oral iron supplementation is considered safe during pregnancy and lactation . Intravenous iron may be needed if oral iron is not tolerated or is ineffective.
+
+【58】This approach is supported by multiple lines of evidence that implicate iron deficiency in the pathogenesis of RLS, direct evidence that iron supplementation is beneficial in nonpregnancy RLS , and more limited evidence for benefit in pregnancy-related RLS . Increasing iron stores to the mid-normal range (ferritin >75 mcg/L) appears to optimize brain iron function in RLS.
+
+【59】Iron assessment — We assess iron status in all pregnant individuals with RLS, given the evidence for iron's role in the pathophysiology and treatment of this disorder. This includes measurement of hemoglobin, serum ferritin level, iron, total iron binding capacity (TIBC), and percent iron saturation. Results are most accurate if a morning fasting blood sample is obtained off of supplemental iron for one to two days.
+
+【60】Serum ferritin is the best single measure of iron stores. However, serum ferritin is an acute phase reactant, and false elevation can occur for up to four weeks after febrile illness . If there is suspicion for chronic inflammation, then C-reactive protein can document it, and less sensitive iron measures such as percent iron saturation and TIBC may be helpful. Empiric iron supplementation without measurement of ferritin is discouraged in order to avoid the rare but serious complication of iron overload.
+
+【61】Oral iron — For individuals with RLS and a serum ferritin <75 mcg/L during pregnancy or lactation, we administer and monitor oral iron supplementation as follows:
+
+【62】 Ferrous sulfate – 65 mg of elemental iron per tablet, one tablet daily . Alternatively, one or two tablets every other day may produce similar results with fewer side effects .
+
+【63】 Optimize iron absorption.
+
+【64】• Take the iron at night, when brain iron uptake may be higher .
+
+【65】• Take on an empty stomach.
+
+【66】• Take iron separately from calcium-containing foods and beverages, calcium supplements, and antacids.
+
+【67】• We do not routinely advise patients to take vitamin C because no high-quality data support the practice, and concerns about the safety of vitamin C during pregnancy have been raised in some studies .
+
+【68】 Recheck serum ferritin in six to eight weeks.
+
+【69】 Discuss possible adverse effects, including nausea, constipation, stomach upset, and diarrhea.
+
+【70】• If nausea occurs, take the iron with food.
+
+【71】• Drink extra water and avoid dehydration to reduce the risk of constipation.
+
+【72】• If constipation occurs, can begin docusate or polyethylene glycol.
+
+【73】 Review safe storage of iron to prevent accidental ingestion in children, which can be lethal.
+
+【74】Importantly, the use of therapeutic doses of iron should be limited to medically supervised settings to avoid the rare but very serious complication of iron overload, which can occur in individuals with RLS who carry hemochromatosis genes .
+
+【75】Intravenous iron — Constipation and bloating are common problems with oral iron during pregnancy due to altered gastrointestinal tract function. As a result, intravenous (IV) iron may be needed during pregnancy .
+
+【76】In patients with refractory symptoms in the second or third trimester or postpartum period, we generally proceed with IV iron therapy if there is not good progress with oral iron and serum ferritin is <30 mcg/L .
+
+【77】In addition to generally supportive data in nonpregnant adults with RLS, several small open-label studies have reported benefit of IV iron for pregnancy-related RLS .
+
+【78】Specific dosing and safety recommendations for RLS  and for the administration of IV iron during pregnancy are discussed elsewhere.
+
+【79】REFRACTORY SYMPTOMS 
+
+【80】Nonpharmacologic treatments should be the primary approach to restless legs syndrome (RLS) during pregnancy and lactation. In some patients, however, the symptoms will be severe and frequent enough despite nonpharmacologic therapies to warrant consideration of medication.
+
+【81】Refractory RLS during pregnancy and lactation is defined as an inadequate response to at least one nonpharmacologic intervention and iron (if ferritin <75 mcg/L), tried over an adequate period of time .
+
+【82】Medications during pregnancy — For refractory RLS (ie, symptoms are not effectively treated with iron supplementation and behavioral therapies) that has a significant impact on quality of life, we suggest use of either low-dose clonazepam or low-dose carbidopa-levodopa in patients who wish to try medication .
+
+【83】 Clonazepam – A typical starting dose of clonazepam is 0.25 mg orally in the evening. Doses between 0.25 mg and 1 mg are typically sufficient . Higher doses are not recommended to avoid the risk of neonatal sedation .
+
+【84】A conservative approach suggests that clonazepam should not be used before the second trimester and avoided in combination with diphenhydramine , anticonvulsants, or other central nervous system depressants . Evidence for oronasal clefts associated with benzodiazepines in general was not confirmed in subsequent studies, and data specific to clonazepam risk during pregnancy are reassuring . Clonazepam may be particularly beneficial in patients with comorbid anxiety.
+
+【85】 Carbidopa-levodopa – A typical starting dose of carbidopa-levodopa ER is one 25/100 mg tablet in the evening. Doses higher than one 50/200 mg tablet should be avoided to reduce the risk of augmentation.
+
+【86】Carbidopa-levodopa use during pregnancy has been described in 38 cases of RLS and 18 cases of Parkinson disease or dopa-responsive dystonia, without evidence for major malformations or other adverse outcomes . Combining levodopa with benserazide should be avoided during pregnancy due to a possible adverse effect on bone development .
+
+【87】Individuals taking carbidopa-levodopa should be monitored for the development of augmentation  or impulse control problems . Food can delay absorption but may help manage any nausea with levodopa. Carbidopa-levodopa inhibits lactation via suppression of prolactin, but prolactin levels rebound quickly after discontinuation .
+
+【88】The necessity of any medication prescribed for RLS during pregnancy should be reassessed periodically, including at the time of delivery, when symptoms typically abate.
+
+【89】Very severe, very refractory RLS during pregnancy is rare, especially if iron status is addressed appropriately. Low-dose oxycodone is an option after the first trimester, with careful consideration of risks and adequate safety precautions, if iron, nonpharmacologic intervention, and non-opioid treatment have failed ( algorithm 1 ) .
+
+【90】Other medication options more commonly used in nonpregnant adults with RLS, including dopamine agonists and gabapentinoids (eg, gabapentin , gabapentin enacarbil , pregabalin ), are **not** recommended for RLS during pregnancy based on a paucity of safety data compared with alternative therapies. The safety of dopamine agonists (eg, pramipexole , ropinirole , rotigotine ) has not been well studied during pregnancy, and there are more safety data to support use of the alternative dopaminergic therapy, carbidopa-levodopa . Available data on the fetal effects of gabapentinoids and other antiseizure medications are reviewed separately .
+
+【91】Medications during lactation — Due to the typical improvement or remission of RLS symptoms after delivery, medication is seldom needed during lactation. However, patients with preexisting RLS may have ongoing symptoms during lactation. In other individuals, significant blood loss during delivery can trigger an increase or persistence of RLS symptoms.
+
+【92】For patients with refractory RLS who are breastfeeding, we suggest the following :
+
+【93】 Reassess iron status
+
+【94】 Gabapentin 300 to 900 mg in the evening or before sleep, or
+
+【95】 Low-dose clonazepam 0.25 to 1 mg in the evening
+
+【96】For gabapentin , the infant is estimated to receive only 1 to 4 percent of the maternal weight-adjusted dose in breast milk, and adverse effects have not been observed in exposed neonates .
+
+【97】Safety data for clonazepam use during lactation come primarily from case series, which have not found evidence of infant sedation or withdrawal . In one series of 11 breastfeeding individuals on a dose of 0.25 to 2 mg clonazepam daily, none of the infants had any reported side effects, and 10 of 11 infants had no measurable serum concentration of clonazepam .
+
+【98】For both gabapentin and clonazepam , caution regarding maternal sedation is warranted during treatment initiation, and concomitant use of other central nervous system depressants, including alcohol, should be avoided. Infants should be carefully observed for excess sedation as well, with additional caution if an infant is born prematurely or is ill.
+
+【99】Although opioids may be considered for refractory RLS in adults, opioid use during breastfeeding is discouraged due to potential adverse effects, including respiratory depression, in exposed infants .
+
+【100】COMORBID DEPRESSION 
+
+【101】Depression occurs in approximately 7 to 10 percent of pregnant and postpartum individuals, and the risk may be higher among patients with comorbid restless legs syndrome (RLS) . Depression during pregnancy has been associated with an increased risk of multiple adverse outcomes, including preeclampsia, substance abuse, miscarriage, preterm delivery, low birth weight, neonaticide, and maternal suicide.
+
+【102】Treatment of RLS may help alleviate depressive and anxiety symptoms . Nonetheless, specific treatment for depression is typically needed if mood symptoms are prominent.
+
+【103】When pharmacologic therapy is being considered, it is important to keep in mind that serotonergic antidepressants can worsen RLS . For this reason, we typically prefer a nonserotonergic antidepressant such as bupropion , which does not exacerbate RLS symptoms .
+
+【104】Although there is controversy over the relative risks of different antidepressants, bupropion is generally considered to be a reasonable choice during pregnancy and lactation, with attention to the lowest effective dose and, if possible, avoidance during the first trimester .
+
+【105】PRECONCEPTION MANAGEMENT 
+
+【106】Pre-pregnancy counseling is important for patients with preexisting restless legs syndrome (RLS) . Topics of discussion should include:
+
+【107】 The typical clinical course of RLS during pregnancy, including the expected peak in the third trimester and drop back to baseline near delivery
+
+【108】 The range of treatment options during pregnancy
+
+【109】 The risks and benefits of continuing medications for RLS during pregnancy
+
+【110】 The adequacy of iron stores
+
+【111】Pending additional safety data, we advise patients to taper pramipexole , ropinirole , rotigotine , gabapentin enacarbil , pregabalin , and gabapentin prior to a planned pregnancy or, for unplanned pregnancies, at the time pregnancy is confirmed .
+
+【112】Due to an anticipated 50 percent drop in maternal serum ferritin during pregnancy , intravenous iron prior to pregnancy should be considered if there has been a failure to maintain serum ferritin above 75 mcg/L with oral iron .
+
+【113】PERINATAL MANAGEMENT 
+
+【114】Perinatal management of patients with restless legs syndrome (RLS) is similar to that of the general population. This includes the practice of delayed umbilical cord clamping in vigorous term and preterm infants, which has been shown to improve neonatal and infant iron stores at six months of age and reduce risk of intraventricular hemorrhage in preterm infants.
+
+【115】It is not known whether these benefits translate to reduced risk of RLS in children, but RLS is highly familial and associated with low iron stores in both children and adults.
+
+【116】Links to society and government-sponsored guidelines from selected countries and regions around the world are provided separately.
+
+【117】PATIENT PERSPECTIVE TOPIC 
+
+【118】 **Epidemiology** – Restless legs syndrome (RLS) is common during pregnancy, affecting approximately one in five pregnant individuals in Western countries. Symptom severity varies widely, from a minor nuisance in some to a very severe impact on sleep and daytime function in others.
+
+【119】 **Clinical course** – RLS typically peaks during the third trimester of pregnancy and markedly improves or remits after delivery.
+
+【120】 **Diagnosis** – Accurate diagnosis is essential , including the differentiation from other conditions during pregnancy that may mimic RLS, such as leg cramps and positional discomfort .
+
+【121】 **Management** – For RLS during pregnancy and lactation, we emphasize reassurance, nonpharmacologic interventions, and iron supplementation for most cases ( algorithm 1 ).
+
+【122】• **Nonpharmacologic therapy** – Important nonpharmacologic interventions include education about the clinical course of RLS during pregnancy, exercise, and avoidance of exacerbating factors such as prolonged immobility, sleep deprivation, and sedating antihistamines . Serotonergic antidepressants can induce or aggravate RLS. If present, obstructive sleep apnea should be treated.
+
+【123】• **Iron supplementation** – Iron stores should be assessed in all pregnant individuals with RLS. In those with a serum ferritin below 75 mcg/L, we suggest oral iron supplementation . There is no indication for iron supplementation when serum ferritin exceeds 75 mcg/L. Intravenous iron may be considered for patients who have failed oral iron and have a serum ferritin level below 30 mcg/L.
+
+【124】• **Refractory symptoms** – For refractory RLS that has failed to respond adequately to nonpharmacologic interventions and iron supplementation and has a significant impact on quality of life, we suggest pharmacologic therapy with low-dose clonazepam or low-dose carbidopa-levodopa . Gabapentin or low-dose clonazepam are the preferred agents during lactation. Medication use should be reassessed periodically, especially after delivery, when RLS symptoms typically subside.
+
+【125】 **Comorbid depression** – Depression is commonly comorbid with RLS, and when treatment is required, bupropion may have an advantage over serotonergic antidepressants that can exacerbate RLS.焦瀚远
+
+====================================================================================================

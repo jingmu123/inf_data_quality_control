@@ -1,0 +1,215 @@
+【0】Pulmonary alveolar proteinosis in children
+
+【1】INTRODUCTION 
+
+【2】Pulmonary alveolar proteinosis (PAP) is characterized by the accumulation of surfactant within alveoli, with highly variable prognosis and multiple etiologies. In adults, it is usually caused by an autoimmune process that interferes with surfactant recycling. In infants and children, PAP is usually caused by different mechanisms, and most cases involve genetic or acquired defects in surfactant metabolism, leading to excessive accumulation of surfactant in the alveoli .
+
+【3】The pathogenesis, clinical features, and treatment of PAP in infants and children are discussed in this topic review. PAP in adults has different causes and clinical manifestations and is discussed in separate topic reviews. In some older children, the disorder may be similar to the form seen in adults.
+
+【4】ETIOLOGY AND PATHOGENESIS 
+
+【5】Four forms of PAP are recognized in children: congenital, primary (encompassing autoimmune and hereditary PAP), secondary, and idiopathic . The common characteristic is the accumulation of pulmonary surfactants in the alveolar space, which can be due to altered surfactant production, removal, or both . In infants and young children, PAP is most frequently caused by inborn errors of surfactant metabolism or immune deficiencies, whereas the vast majority of cases in adults are autoimmune . All forms of PAP in children are rare, and there are limited data on the overall incidence or prevalence of PAP in children. One large study of PAP utilizing a United States insurance database estimated an annual prevalence of approximately 2 cases per 1 million among individuals under 18 years of age .
+
+【6】Congenital form — A range of genetic disorders may result in PAP. Most cases present during the neonatal period or early infancy, although some forms occasionally present later. This form of PAP is sometimes referred to as congenital PAP, although this terminology may pose confusion in distinguishing congenital versus hereditary PAP because both have genetic causes.
+
+【7】For most of the congenital forms of PAP, the histopathologic manifestations are primarily interstitial changes, often with a relatively minor component of alveolar proteinosis. By contrast, alveolar proteinosis is prominent in primary PAP.
+
+【8】These disorders include:
+
+【9】 **Inborn errors of surfactant metabolism** – Genetic surfactant dysfunction disorders are caused by mutations in genes encoding proteins critical for the production and function of pulmonary surfactant. These rare disorders may produce familial or sporadic lung disease with clinical presentations ranging from neonatal respiratory failure to childhood- or adult-onset interstitial lung disease. These disorders are caused by deficiencies or dysfunction in surfactant proteins, due to variants in _SFTPB_ , _SFTPC_ , _ABCA3_ , or _NKX2.1_ / _TTF1_ . These disorders are discussed in detail in a separate topic review.
+
+【10】 **Lysinuric protein intolerance (LPI)** – LPI ( MIM #222700 ) is an autosomal recessive disorder caused by defective plasma membrane transport of the cationic amino acids, lysine, arginine, and ornithine . LPI results from mutations or disruptions in the _SLC7A7_ gene, which encodes the light chain of the cationic amino acid transporter y+ .
+
+【11】The clinical manifestations of LPI can be multisystemic and include failure to thrive, anorexia, vomiting, diarrhea, lethargy, and coma. Patients can present from the neonatal period to adulthood. Abnormalities of the liver, spleen, pancreas, kidney, bone marrow, and brain may be seen . Not all children with LPI develop PAP. Respiratory manifestations can present as progressive respiratory distress leading to frank respiratory failure that can become life threatening . Children with LPI who develop PAP often die, and recurrence of disease following heart-lung transplantation has been reported with fatal consequences .
+
+【12】 **Interstitial lung and liver disease (La Réunion)** – Pulmonary disease due mutations in the _MARS1_ gene has been reported in a few clusters ( MIM #615486 ), primarily in the region of La Réunion island . Because this gene is expressed in tissues other than the lung, infants with these disorders manifest symptoms related to other organ systems. The pulmonary disease starts in infancy and may progress to pulmonary fibrosis with cholesterol granulomas . The mechanisms for the disease manifestations have not been established.
+
+【13】Primary form — The term primary PAP is used to refer to PAP in which alveolar proteinosis is the main and often only manifestation. It encompasses two etiologies: hereditary and autoimmune, both of which involve disruption of granulocyte-macrophage colony-stimulating factor (GM-CSF) signaling:
+
+【14】Hereditary PAP — The term hereditary PAP refers specifically to disease caused by abnormalities in the GM-CSF receptor. The term does not encompass congenital PAP, which is also caused by genetic mutations but often presents earlier in life. The GM-CSF receptor is composed of two subunits, encoded by _CSF2RA_ and _CSF2RB_ , respectively . Mutations in either subunit can affect surfactant catabolism and appear to be a rare cause of PAP in children with autosomal recessive inheritance, described in case reports . Unlike the congenital forms of PAP, disease caused by these mutations is usually limited to the alveolar space without affecting the interstitium. Animal models have demonstrated alveolar proteinosis in mice deficient in a subunit of the GM-CSF receptor .
+
+【15】Autoimmune PAP — In adults, and occasionally in older children and adolescents, PAP is an autoimmune disease; antibodies to GM-CSF (anti-GM-CSF) are present in 90 percent of cases. This antibody results in dramatic reduction in surfactant recycling within the alveolar spaces.
+
+【16】Autoimmune PAP with anti-GM-CSF antibodies is rare in patients younger than 10 years of age . It has been reported in few children who presented in late childhood or adolescence . Thus, unlike adults with PAP, the majority of infants and children with PAP do not have the autoimmune form of the disease. As an example, in a study of 15 children with PAP, none had anti-GM-CSF antibodies in the serum and only one had anti-GM-CSF antibodies in bronchoalveolar lavage (BAL) fluid .
+
+【17】Secondary form — As in adults, acquired PAP in children can be seen with the following categories of disorders :
+
+【18】 **Infections** – eg, _Nocardia_ _asteroides_ , _Mycobacterium_ _tuberculosis_ , _Mycobacterium_ _avium-intracellulare_ , _Pneumocystis_ _jirovecii_ , human immunodeficiency virus (HIV), and cytomegalovirus.
+
+【19】 **Hematologic malignancies** **and myelodysplastic syndromes** – Most often lymphoma and leukemia.
+
+【20】 **Immunodeficiencies** – eg, HIV infection, severe combined immunodeficiency (especially adenosine deaminase deficiency), as well as several genetic immunodeficiencies. Haploinsufficiency of the _GATA2_ gene, which is often associated with a myelodysplastic syndrome, has been described to cause PAP. PAP with hypogammaglobulinemia results from gain-of-function mutations in the _OAS1_ gene, with severe immunodeficiency and PAP presenting in infancy ( MIM #618042 ) . Hematopoietic stem cell transplantation (HSCT) is considered in select cases with both _GATA2_ and _OAS1_ mutations.
+
+【21】 **Solid organ or HSCT** – Rarely, PAP has been reported following solid organ or HSCT, mediated by immunosuppressive medication .
+
+【22】 **Rheumatologic disease** – Case reports describe severe PAP in a few children with systemic juvenile idiopathic arthritis (sJIA) . The entity has histopathology consistent with PAP, but, uniquely, there are additional findings of endogenous lipoid pneumonia and an inflammatory profile within the lungs unlike that seen in other forms of PAP. The risk of developing this lung disease seems to be associated with early age of onset of sJIA and having trisomy 21 .
+
+【23】 **Inhalational exposures** – eg, to inhaled chemicals (insecticides, fumes) and minerals (silica, aluminum, and titanium).
+
+【24】Idiopathic form — Despite the more recent discoveries described above, the etiology of PAP in some infants and children is unclear . In a small subset of infants with pathologic features suggesting a surfactant defect (interstitial expansion, type II epithelial cell hyperplasia, and limited lipoproteinaceous material in the alveolar spaces), no surfactant mutations have been identified. However, because of the similarities in histopathology it is likely that many of these children have defects in intracellular surfactant metabolism that have yet to be discovered.
+
+【25】In older children with PAP who do not have anti-GM-CSF antibodies, the etiology remains unknown. It is possible that some of these children have mutations in _CSF2RA_ or _CSF2RB_ , as some cases of idiopathic PAP were reported prior to the discovery of these mutations.
+
+【26】HISTOPATHOLOGY 
+
+【27】The basic histopathologic characteristic of primary PAP (ie, autoimmune PAP or hereditary PAP due to GM-CSF mutations) is the accumulation of granular, periodic acid-Schiff (PAS) positive, lipoproteinaceous material within the alveoli . Large macrophages filled with PAS-positive material are commonly seen in the air spaces. Other abnormalities such as alveolar septal fibrosis or inflammatory reactions are typically absent because the primary defect is in macrophage function rather than type II pneumocytes.
+
+【28】The histopathologic characteristics of the congenital forms of PAP are different from the primary form of PAP that is usually seen in adults. The most prominent histopathologic features in these disorders are interstitial widening, type II alveolar cell hyperplasia, and the presence of cholesterol clefts. Accumulation of lipoproteinaceous material in the alveolar spaces (alveolar proteinosis) is also seen, but is less prominent than in primary PAP.
+
+【29】On a molecular level, consistent abnormalities in surfactant composition and pulmonary alveolar lipid metabolism have been reported across multiple types of both primary and secondary PAP . Details of histopathologic findings in disorders of surfactant dysfunction are described separately.
+
+【30】CLINICAL FEATURES
+
+【31】Signs and symptoms — In the congenital forms of PAP, the clinical presentation can range from severe respiratory failure in the neonatal period to more insidious symptoms of chronic interstitial lung disease in older children, including dyspnea, exercise intolerance, cough, and poor growth or weight loss. The phenotype largely depends on the affected gene.
+
+【32】In infants and younger children with the other forms of PAP, decreased activity may be the initial symptom. Weight loss or failure to gain weight is common. A chronic cough may be present. Hypoxemia is typically noted.
+
+【33】The primary presenting symptom in older children and adults is shortness of breath, usually with exercise . Cough may be reported, especially in older children and adolescents; typically, it is mild and nonproductive, but, in some cases, it can be prominent and productive of white sputum. Chest pain and hemoptysis may occur but are rare. Fever usually indicates an infection or a different disease. The physical examination may reveal nonspecific manifestations of pulmonary disease, including tachypnea, cyanosis, digital clubbing, and fine crackles. PAP is characterized by a significant discordance between the auscultatory findings, which are minimal or absent, and the radiographic findings, which include extensive infiltrates.
+
+【34】Imaging — Chest radiographs of adults with autoimmune PAP typically show bilateral alveolar filling pattern . The infiltrates are often more prominent in the perihilar regions, resembling the "butterfly" or "bat wing" appearance of pulmonary edema but without cardiomegaly.. This same pattern may be seen in those with hereditary PAP.
+
+【35】The radiographic features of infants and children with congenital PAP are more diffuse and are typical of interstitial lung disease. Chest films typically show bilateral ground-glass densities and increased interstitial markings.
+
+【36】High-resolution computed tomography (HRCT) is recommended in the evaluation of all young children with diffuse lung disease, including children with suspected PAP . In children with primary PAP, HRCT shows ground-glass opacities of alveolar spaces and thickening of the interlobular and intralobular septa in typical polygonal shapes called "crazy paving" . Children with congenital PAP typically have a more heterogenous pattern, some with crazy paving and others more resembling nonspecific interstitial pneumonia.
+
+【37】Pulmonary function tests — The most common abnormalities in pulmonary function tests are a restrictive pattern and a reduction in the diffusing capacity for carbon monoxide . The arterial partial pressure of oxygen (PaO 2 ) and oxygen saturation values are generally low, with a low partial pressure of carbon dioxide (PCO 2 ) and normal pH. Alveolar-arterial PO 2 difference is high, and the shunt fraction, while breathing 100 percent oxygen, typically is elevated .
+
+【38】The clinical presentation of PAP in adults is discussed separately.
+
+【39】DIAGNOSIS
+
+【40】Approach by age group
+
+【41】 **<2 years old** – In infants and children <2 years of age with suspected PAP, the specific cause of the PAP is generally made by genetic testing for congenital forms of PAP (inborn errors of surfactant metabolism and lysinuric protein intolerance \[LPI\]). Genetic testing is indicated for patients with **any** of the following :
+
+【42】• Severe unexplained lung disease in the newborn period.
+
+【43】• Diffuse disease involving the entire lung on high-resolution CT (HRCT).
+
+【44】• If lung biopsy is performed, histopathology that demonstrates findings of congenital PAP, desquamative interstitial pneumonia (DIP), nonspecific interstitial pneumonia (NSIP), or chronic pneumonitis of infancy (CPI).
+
+【45】• Electron microscopy (EM) demonstrating abnormal or absent lamellar bodies.
+
+【46】 **\>2 years old** – In older children, the diagnosis of PAP is usually raised during the course of an evaluation for the nonspecific clinical symptoms described above. The diagnosis of PAP is suggested by radiographic findings and confirmed by bronchoscopy. Lung biopsy may be informative if the diagnosis remains uncertain. The specific **cause** of the PAP may be identified by laboratory testing, as outlined below.
+
+【47】Laboratory tests
+
+【48】 **<2 years old** – Infants and young children with suspected congenital PAP should undergo genetic testing for an inborn error of surfactant metabolism ( _SFTPB_ , _SFTPC_ , _ABCA3_ and _NKX2.1_ / _TTF1_ genes) ; lysinuric protein intolerance (LPI; _SLC7A7_ gene), and _OAS1_ mutations. These genes can be tested simultaneously using panels designed to detect genetic causes of pulmonary disease. A list of panels is available at the Genetic Testing Registry website. Some patients with inborn errors of surfactant metabolism may not be successfully diagnosed by genetic testing, necessitating open lung biopsy .
+
+【49】 **\>2 years old** – PAP in children >2 years is most likely to be a noncongenital form. Laboratory testing should include:
+
+【50】• Antibodies to granulocyte-macrophage colony-stimulating factor (anti-GM-CSF) – This test is highly sensitive for autoimmune PAP. Testing is commercially available. Importantly, despite high sensitivity, the test has limited specificity for detecting autoimmune PAP. Anti-GM-CSF antibodies may be present in patients with autoinflammatory diseases such as inflammatory bowel disease or malignancies and have been reported in pooled immunoglobulin products .
+
+【51】• _CSF2RA_ and _CSF2RB_ sequencing should be performed to evaluate for hereditary PAP (due to GM-CSF receptor mutations); these genes are typically included in testing panels designed to detect genetic causes of interstitial lung disease. Testing for congenital PAP should also be performed because some types occasionally present after infancy.
+
+【52】• Evaluation for possible causes of secondary PAP (if suggested by the clinical picture):
+
+【53】\- Hematologic malignancy and myelodysplastic syndrome
+
+【54】\- Connective tissue disorders
+
+【55】\- Congenital or acquired immunodeficiency
+
+【56】Bronchoscopy — Bronchoscopy with bronchoalveolar lavage (BAL) may be helpful for diagnosis in a subset of patients with possible PAP:
+
+【57】 In young children with diffuse lung disease of unknown cause, or with possible immunodeficiency, bronchoscopy may be informative.
+
+【58】 In individuals with noncongenital forms of PAP, BAL typically yields a turbid and milky effluent , which decreases in turbidity as serial lavages are performed. Examination of the sediment using light microscopy reveals large amounts of amorphous, lipoproteinaceous material that stains brightly positive with periodic acid-Schiff (PAS); large foamy macrophages may also be seen . The differential cell count of BAL fluid shows macrophage predominance without inflammatory cells. These findings support the diagnosis of PAP but further tests are required to determine its specific cause. EM is not routinely needed for diagnosis but can be helpful in validating the light microscopy findings.
+
+【59】 For children presenting with respiratory failure at birth due to presumed surfactant dysfunction, there may be little role for bronchoscopy due to the size of the patient and because the diagnosis often can be established through imaging and genetic testing.
+
+【60】Lung biopsy — Although genetic testing is the gold standard for the diagnosis of the congenital forms of PAP, lung biopsy can be useful in certain circumstances. In the neonate with respiratory failure, genetic testing that takes up to four weeks or longer may delay timely diagnosis and referral for lung transplantation. In this case, lung biopsy can be strongly suggestive of an inborn error of surfactant metabolism, especially if abnormal lamellar bodies are demonstrated. Also, some children have a lung biopsy consistent with an inborn error of surfactant metabolism, but no mutations are found. This suggests that there are mutations in other genes associated with surfactant metabolism that have yet to be discovered.
+
+【61】For patients with suspected noncongenital PAP and without anti-GM-CSF antibodies, a provisional diagnosis often can be made based on clinical presentation and HRCT and BAL findings, but histologic confirmation is often required. Studies in adults show that transbronchial biopsies are as reliable as open lung biopsies in establishing the diagnosis of PAP and should be utilized more often . The diagnostic findings of PAP are accumulation of PAS-positive, lipoproteinaceous material in air spaces of otherwise preserved lung tissue. Similar yield of transbronchial biopsies in children has not been demonstrated and may also be limited by the size of equipment that can be used in smaller patients.
+
+【62】TREATMENT 
+
+【63】PAP is rare in children and patients are generally referred to a specialist for diagnosis and management. Treatment decisions depend on the cause and severity in the individual patient, as outlined below.
+
+【64】Congenital PAP — Management of congenital PAP depends on the genetic cause:
+
+【65】 **Surfactant dysfunction disorder** – For individuals with a surfactant dysfunction disorder (due to variants in _SFTPB_ , _SFTPC_ , _ABCA3_ , or _NKX2.1_ / _TTF1_ ), treatment with exogenous surfactant therapy and whole lung lavage (WLL) are ineffective, despite the presence of PAP histologically . Management is discussed separately.
+
+【66】 **Lysinuric protein intolerance (LPI)** – For individuals with LPI (due to variants in _SLC7A7_ ), treatment consists of a protein-restricted diet and supplementation with oral citrulline and nitrogen-scavenging drugs . Lung transplantation is contraindicated for children with LPI and end-stage lung disease because fatal recurrence in the transplanted lung has been reported . Improvement with WLL has been reported in one case .
+
+【67】 **_MARS1_** **\-related disease** – Treatment is largely supportive. Case reports suggest improvement with high protein intake and judicious methionine supplementation . WLL may provide transient benefit .
+
+【68】Primary and secondary PAP
+
+【69】Whole lung lavage
+
+【70】 **Indications**
+
+【71】• **Primary PAP** – For individuals with primary PAP (ie, autoimmune PAP or hereditary PAP) and moderate to severe respiratory symptoms, we recommend treatment with large-volume WLL.
+
+【72】WLL is the primary treatment used for adults with autoimmune PAP. WLL generally leads to prompt improvement in symptoms and measures of lung function, and permanent remission in many of these patients . Based on this clinical experience in adults, WLL is recommended for pediatric patients with documented autoimmune PAP (antibodies to granulocyte-macrophage colony-stimulating factor \[GM-CSF\]) and moderate or severe symptoms, although outcomes in this age group are limited to a few case reports . Similarly, WLL is suggested for patients with hereditary PAP (due to GM-CSF receptor mutations) based on positive outcomes from a few case reports .
+
+【73】• **Other forms of PAP** – Outside of primary PAP, the efficacy of WLL is unclear and the procedure should be undertaken with caution. Although case reports describe mixed outcomes of WLL in pediatric patients with PAP, many of these reports are older and do not distinguish among the different causes of PAP . For those with surfactant function disorders, WLL is rarely effective and may pose substantial risk for those with severe respiratory disease. For other forms of congenital PAP (LPI or _MARS1_ \-related disease), a few case reports suggest that WLL may provide transient relief.
+
+【74】For patients with secondary PAP (eg, due to hematologic or immunologic disease), treatment of the underlying disorder is the mainstay of therapy, but WLL may improve pulmonary symptoms pending treatment of the underlying disorder, such as in rheumatologic disease . For patients with idiopathic PAP, it is reasonable to do a trial of WLL for those suffering from respiratory distress or the debilitating effects of the disease (ie, exercise intolerance, poor growth, and pulmonary hypertension). If there is a question of possible benefit in a particular subject, lavage of a single lobe can be considered as a test of benefit with the advantage of a shorter procedural time.
+
+【75】 **Technique** – In older children and adults, a double lumen endotracheal tube is used to ventilate one lung while lavaging the other. In young children, the small caliber of the airway poses a major obstacle. There is considerable variability in the technical performance of WLL across centers . In some of these cases, partial or WLL has been accomplished using standard endotracheal tube intubation and hyperbaric oxygen  and combined intubation and flexible bronchoscopy . Alternative approaches utilizing two endotracheal tubes simultaneously have been described . In other cases, lavage has been successfully performed during extracorporeal oxygenation . In general, the objective is to lavage repeatedly until the recovered fluid contains little sedimentable material . Improvement of clinical symptoms and arterial partial pressure of oxygen (PaO 2 ) is usually achieved within one to several days. Resolution of pulmonary infiltrates on chest radiographs or CT scans may take longer.
+
+【76】WLL should be performed in a center with both bronchoscopic and anesthetic experience with the procedure; this may require referral to a center where such expertise is available.
+
+【77】Second-line therapies for selected patients
+
+【78】Recombinant GM-CSF — For children with autoimmune PAP with poor response to WLL alone, we suggest a trial of inhaled recombinant granulocyte-macrophage colony-stimulating factor (GM-CSF), in addition to WLL. This is based upon indirect evidence from case series of its use in adults with autoimmune PAP and because reduced GM-CSF function is thought to play a role in some forms of PAP. This therapy has also been used in some children with autoimmune PAP, with variable success .
+
+【79】Lung transplantation — For infants with severe congenital PAP due to _SFTPB_ , _SFTPC_ , _ABCA3_ , or _NKX2.1_ \-related disease, lung transplantation is appropriate and effective, as described above .
+
+【80】By contrast, for patients with autoimmune PAP or hereditary PAP (due to _CSF2RA_ or _CSF2RB_ mutations), limited case reports suggest that transplantation is **not** an appropriate therapy. There is also concern that autoimmune disease could recur in transplanted new lungs. In hereditary PAP, recurrence has been reported in a patient with disease due to a _CSF2RB_ mutation, thought to be mediated through bone marrow-derived macrophages .
+
+【81】Hematopoietic stem cell transplantation — Patients with severe hereditary PAP due to GM-CSF receptor dysfunction may be candidates for hematopoietic stem cell transplantation (HSCT). Case reports describe successful use of HSCT in this population, with improvement in lung disease following engraftment . By contrast, lung transplantation may not be useful for this disorder, because it stems from a mutation involving bone marrow-derived cells and may recur after lung transplantation (as described above).
+
+【82】Unproven therapies
+
+【83】 **Immunomodulatory therapies** – Additional immunomodulatory treatments have been utilized in adults with refractory autoimmune PAP, including rituximab and plasmapheresis. Outcomes are variable. There are no trials or case reports utilizing these therapies in children. Nevertheless, consideration of such treatments may be warranted in the rare child with refractory autoimmune disease.
+
+【84】 **Antiinflammatory therapies** – In infants and children with PAP caused by _SFTPC_ and _ABCA3_ mutations, antiinflammatory therapy (eg, corticosteroids, hydroxychloroquine , and azithromycin ) has been suggested , but whether these treatments provide clinical benefit is unclear.
+
+【85】For other forms of PAP, there is no information about the utility of antiinflammatory therapy and there are reports that suggest it may be harmful in certain cases .
+
+【86】 **Investigational approaches** – Pulmonary macrophage transplantation for hereditary PAP has shown to improve lung manifestations in a murine model. This might be a promising therapy for children with this disease in the future .
+
+【87】In addition, multiple lines of research point to a role for disrupted lipid metabolism and cholesterol homeostasis in the pathogenesis of some forms of PAP, suggesting multiple potential treatment pathways . Investigations into both statins and thiazolidinediones as treatment for PAP are ongoing. One notable report described two cases of adults with autoimmune PAP who had clinical improvement following initiation of statin therapy for comorbid hypercholesterolemia . Further in vitro testing demonstrated modulation of the lipid content within foamy macrophages upon exposure to statins, and a murine model of PAP utilizing a _CSF2RB_ knock-out also responded to statin treatment. No data exist regarding the use of statins for PAP in children. Given the apparent effect of statins in patients with autoimmune disease as well as an animal model of hereditary PAP, there may be a role for statins in children with autoimmune PAP as well as those with hereditary PAP due to _CSF2RA_ or _CSF2RB_ mutations.
+
+【88】PROGNOSIS 
+
+【89】The prognosis in congenital PAP differs depending on the causative genetic mutation; lung transplantation is a common consideration for severe forms of these disorders.
+
+【90】Children with hereditary PAP (due to mutations in the GM-CSF receptor) often have severe, progressive lung disease, but unlike the congenital forms of the disease, they may respond to whole lung lavage (WLL). The prognosis for these patients may also evolve in the coming years with emerging therapies.
+
+【91】Autoimmune or idiopathic forms of PAP carry a variable prognosis in children, as in adults. Spontaneous remission or long-term resolution of symptoms after a single lavage has been reported . Some patients may require repeated lavages, as often as every few months. Deterioration of respiratory status despite repeated lavages may occur, resulting in death . Recurrence of PAP has been reported after lung transplantation. Prognosis in secondary PAP is closely related to the course of the underlying primary disease process.
+
+【92】 **Etiology and pathogenesis** – Pulmonary alveolar proteinosis (PAP) is an uncommon disorder characterized by the accumulation of lipoproteinaceous pulmonary surfactants within alveoli, due to altered surfactant production, removal, or both. Four forms of PAP are recognized in children: congenital, primary, secondary, and idiopathic . Age at onset and clinical presentation can help to differentiate these forms. These are all rare conditions and are generally referred to a specialist for diagnosis and management. Treatment decisions depend on the underlying cause and severity of symptoms.
+
+【93】 **Infants <2 years** – The congenital form of PAP is usually caused by inborn errors of surfactant metabolism (variants in _SFTPB_ , _SFTPC_ , _ABCA3_ , or _NKX2.1_ / _TTF1_ ) or by a defect in the plasma membrane transport of cationic amino acids (known as lysinuric protein intolerance \[LPI\], caused by variants in the _SLC7A7_ gene).
+
+【94】• **Clinical presentation and diagnosis** – Congenital PAP usually presents in the neonatal period or within the first one to two years of life; some patients may have a more insidious or delayed onset. High-resolution CT (HRCT) reveals diffuse disease involving the entire lung. Even when PAP is present in these disorders, interstitial pathology is the primary morbidity. The diagnosis is made by genetic testing, usually with a gene panel.
+
+【95】• **Management** – For neonates with severe congenital PAP due to _SFTPB_ , _SFTPC_ , _ABCA3_ , or _NKX2.1_ gene mutations, lung transplantation is the only treatment that appears to improve outcome. Exogenous surfactant therapy or whole lung lavage (WLL) are ineffective and may well be injurious to the patient.
+
+【96】For individuals with LPI, treatment consists of a protein-restricted diet and supplementation with oral citrulline. Lung transplantation is contraindicated.
+
+【97】 **Children >2 years**
+
+【98】• **Clinical presentation** – In children who present after infancy, the possibility of PAP is usually raised during the course of an evaluation for nonspecific symptoms and signs of pulmonary disease. The diagnosis is suggested by radiographic findings and confirmed by bronchoscopy with bronchoalveolar lavage (BAL) and/or lung biopsy.
+
+【99】Genetic and laboratory testing identifies the type of PAP and informs management:
+
+【100】• **Primary PAP** – Primary PAP refers to PAP in which alveolar proteinosis is the main and often only histopathologic manifestation. It encompasses two etiologies, both of which involve disruption of granulocyte-macrophage colony-stimulating factor (GM-CSF) signaling:
+
+【101】\- **Hereditary** – Hereditary PAP is a rare form of PAP that tends to present after infancy and is caused by pathogenic variants in the GM-CSF receptor. The histopathology typically involves only the alveolar spaces, with minimal interstitial disease. The diagnosis is made by genetic testing for variants in _CSF2RA_ and _CSF2RB_ .
+
+【102】Single or serial WLL is typically effective in these patients, based on case reports. Hematopoietic stem cell transplant (HSCT) may be a consideration in refractory cases.
+
+【103】\- **Autoimmune** – Autoimmune PAP is mediated by anti-GM-CSF antibodies. This form accounts for the majority of PAP cases in adults; it is rare in children but may occur in older children and adolescents. The diagnosis is confirmed by testing for anti-GM-CSF antibodies.
+
+【104】For pediatric patients with confirmed autoimmune PAP (anti-GM-CSF antibody positive) and moderate to severe symptoms, we recommend WLL . This is based primarily on observational reports in adults with moderate to severe respiratory impairment due to autoimmune PAP, in whom WLL generally leads to prompt improvement in symptoms and measures of lung function and permanent remission in many of these patients, with few adverse effects. Anesthetic and procedural challenges are significant. For those with poor response to WLL, we suggest a trial of adjuvant therapy with inhaled recombinant GM-CSF, based on indirect evidence from adults .
+
+【105】• **Secondary PAP** – Secondary PAP refers to PAP that occurs in the setting of an underlying systemic disease. Even in patients without obvious extrapulmonary disease, secondary PAP due to immunodeficiency, malignancy, or connective tissue disease should be considered in the evaluation.
+
+【106】For secondary PAP, treatment of the underlying disorder is the mainstay of therapy. For patients with severe pulmonary involvement, it is reasonable to do a trial of WLL in an attempt to achieve more rapid improvement in symptoms.王磊
+
+====================================================================================================

@@ -1,0 +1,122 @@
+【0】Arginine vasopressin resistance (nephrogenic diabetes insipidus): Treatment
+
+【1】INTRODUCTION 
+
+【2】Arginine vasopressin resistance (AVP-R), previously called nephrogenic diabetes insipidus , results from partial or complete resistance of the kidney to the effects of antidiuretic hormone (ADH, also known as arginine vasopressin \[AVP\]). As a result, patients with this disorder are not likely to have a good response to hormone administration (as desmopressin \[dDAVP\]) or to drugs that increase either the renal response to ADH or ADH secretion.
+
+【3】AVP-R can be hereditary or acquired. In adults, a concentrating defect severe enough to produce polyuria due to AVP-R is most often due to chronic lithium use or hypercalcemia and less frequently to other conditions that impair tubular function, such as Sjögren's disease . Release of ureteral obstruction is often associated with a diuresis, but this is short lived and does not require specific therapy other than maintenance fluids.
+
+【4】Hereditary AVP-R, which is largely an X-linked disease, may also be seen by internists since early recognition and treatment in infancy has led to survival to adulthood . In addition, affected women may be carriers with few or no symptoms until pregnancy or other stress.
+
+【5】In infants with hereditary AVP-R, treatment is aimed at minimizing the polyuria and avoiding hypernatremia and volume depletion. In adults, therapy is usually aimed at correcting the underlying disorder or discontinuing an offending drug. In hypercalcemic patients, for example, normalization of the plasma calcium concentration usually leads to amelioration of polyuria. By contrast, lithium-induced AVP-R may be irreversible if the patient already has severe tubular injury and a marked concentrating defect .
+
+【6】The approach to the treatment of polyuria in patients with AVP-R will be reviewed here. The causes of AVP-R, the diagnostic approach to polyuria, and the treatment of arginine vasopressin deficiency (AVP-D, previously known as central diabetes insipidus) are discussed separately:
+
+【7】TREATMENT 
+
+【8】The urine output in patients with AVP-R can be lowered with a low-salt, low-normal protein diet, diuretics, and nonsteroidal antiinflammatory drugs (NSAIDs). In infants, early recognition is of immediate clinical significance because treatment can avert the physical and intellectual disabilities that results from repeated episodes of dehydration and hypernatremia.
+
+【9】In adults, the decision to undertake treatment must be based upon the individual patient's intolerance of the polyuria and polydipsia since, in almost all patients, the thirst mechanism is sufficient to maintain the plasma sodium in the high-normal range. The treatment of patients with hypernatremia is discussed separately.
+
+【10】Special considerations in hereditary disease — Given their inability to independently respond to increased thirst, infants and very young children should be offered water every two hours during the day and night. In severe cases, continuous gastric feeding may be required. However, the ingestion of large quantities of water may exacerbate physiologic gastroesophageal reflux in infants and toddlers, which may require treatment. Appetite and growth should be monitored closely.
+
+【11】The high urine flow associated with hereditary AVP-R induces dilatation of the urinary tract (hydronephrosis) and bladder in ≥50 percent of cases . A rare complication is progressive loss of kidney function and possible end-stage kidney disease, probably related to voluntary retention of urine leading to bladder dysfunction . These problems may also occur with other causes of massive urine volumes, most commonly seen with primary polydipsia .
+
+【12】Decreasing urine flow with the interventions discussed below , and frequent voiding and "double voiding" (to empty the bladder entirely), are important preventive measures. This approach should be taught to children once they are old enough, and should be continued in adulthood, to prevent severe dilatation of the urinary tract.
+
+【13】Special considerations in patients requiring intravenous fluids — Patients, particularly children, with AVP-R who have extrarenal fluid losses (eg, diarrhea, vomiting, and fever) frequently require intravenous fluids . Both 5 percent dextrose in water and one-quarter isotonic  saline are usually well tolerated, but a replacement fluid that has a higher osmolality than the urine (eg, one-half isotonic \[0.45 percent\] saline) can produce hypernatremia, even though it may have a lower osmolality as compared with plasma. As an example, a patient who has a maximal urine osmolality of 100 mosmol/kg will need to excrete 1.54 liters of urine for each liter of 0.45 percent saline received in order to excrete the osmotic load, resulting in a net loss of 0.54 liters of water. However, if hypotonic fluids are administered at a rate higher than the urine output, hyponatremia can ensue. These considerations should be taken into account in order to prevent complications in patients with AVP-R requiring intravenous fluids .
+
+【14】Decreased dietary solute — When the urine osmolality is fixed, as in AVP-R, the urine output is determined by solute excretion. Suppose that the maximum urine osmolality is 150 mosmol/kg. In this setting, the daily urine volume will be 5 liters if solute excretion is in the normal range at 750 mosmol/day, but only 3 liters if solute excretion is lowered to 450 mosmol/day by dietary modification.
+
+【15】These observations provide the rationale for the use of a low-salt, low-protein diet to diminish the urine output in AVP-R . The reduction in urine output will be directly proportional to the decrease in solute intake and excretion. Restriction of salt intake to ≤100 mEq/day  and protein intake to ≤1.0 g/kg may be reasonable goals, but such diets are not easy to achieve and maintain. Furthermore, protein restriction in infants and young children may be harmful and is not advised.
+
+【16】Although most children with AVP-R are underweight and relatively short during the first years of life, their height and weight become progressively normal during school-age years . These growth observations could be related, in part, to limited caloric intake and decreased dietary solute during the first years of life.
+
+【17】Diuretics — Thiazide diuretics in combination with a low-solute diet can diminish the degree of polyuria in patients with AVP-R . The potassium-sparing diuretic amiloride also may be helpful, both by its additive effect with the thiazide diuretic  and, with reversible lithium-induced disease, by possibly allowing lithium to be continued .
+
+【18】A thiazide diuretic (such as hydrochlorothiazide , 25 mg once or twice daily) acts by inducing mild volume depletion. As little as a 1 to 1.5 kg weight loss can reduce the urine output by more than 50 percent (eg, from 10 L/day to below 3.5 L/day in a study of patients with AVP-R on a severely sodium-restricted diet \[9 mEq/day\]) .
+
+【19】This effect is presumably mediated by a hypovolemia-induced increase in proximal sodium and water reabsorption, thereby diminishing water delivery to the antidiuretic hormone (ADH)-sensitive sites in the collecting tubules and reducing the urine output. Diuretic therapy can lead to a variety of usually mild electrolyte complications.
+
+【20】The initial natriuresis and therefore the later antipolyuric response can be enhanced by combination therapy with amiloride (or other potassium-sparing diuretic) . This regimen has an additional benefit since amiloride partially blocks the potassium wasting induced by the thiazide.
+
+【21】Amiloride may be particularly beneficial in patients with reversible lithium nephrotoxicity, given its site and mechanism of action . If amiloride is used, a small contraction of extracellular fluid volume may ensue, and it may be necessary to decrease the dose of lithium chronically administered and to measure plasma concentrations at frequent intervals until a new steady state is achieved. This drug closes the sodium channels in the luminal membrane of the collecting tubule cells . These channels constitute the mechanism by which filtered lithium normally enters these cells and then interferes with their response to ADH . The permeability for lithium of the epithelial sodium channel (ENaC) is 1.5- to 2-fold higher than that for sodium . Whereas sodium is extruded from the interior of the cell to the blood compartment by the sodium pump (Na-K-ATPase) located at the basolateral membrane, lithium is a poor substrate for the sodium pump. As a consequence, toxic intracellular levels could build up quickly in all cells expressing ENaC at their plasma membrane and exposed to therapeutic concentrations of lithium . Glycogen synthase kinase 3 (GSK-3 beta) is inhibited by lithium and is probably the common molecular target for the primary and secondary toxic effects of lithium .
+
+【22】Acetazolamide monotherapy is as effective as the combination of hydrochlorothiazide and amiloride in reducing polyuria in an animal model of lithium-induced AVP-R but has fewer side effects . Human data are limited, although acetazolamide was used successfully in a patient with lithium-induced AVP-R and produced an increase in urine osmolality from 250 to 339 mosmol/kg H 2 O .
+
+【23】A loop diuretic, although also capable of inducing mild volume depletion, is not as likely to lower the urine output in AVP-R. These agents decrease sodium chloride reabsorption in the medullary thick ascending limb of the loop of Henle, thereby decreasing the accumulation of NaCl in the medullary interstitium that is essential for the production of a concentrated urine. Thus, a loop diuretic induces relative ADH resistance, an effect that is counterproductive in AVP-R.
+
+【24】Nonsteroidal antiinflammatory drugs — The efficacy of NSAIDs in this setting is dependent upon inhibition of renal prostaglandin synthesis. In normal subjects, prostaglandins antagonize the action of ADH and NSAIDs increase concentrating ability . If, for example, normal subjects are given a submaximal dose of ADH, the ensuing rise in urine osmolality can be increased by more than 200 mosmol/kg if the patient has been pretreated with an NSAID . The net effect in patients with AVP-R may be a 25 to 50 percent reduction in urine output , a response that is partially additive to that of a thiazide diuretic .
+
+【25】This approach is particularly beneficial in patients with polyuria due to complex congenital polyuric-polydipsic Bartter-like syndromes, in whom prostaglandins appear to be pathogenetically important.
+
+【26】Not all NSAIDs are equally effective in a given patient; as an example, indomethacin appears to have a greater effect than ibuprofen . A variety of complications may ensue with long-term use of NSAIDs.
+
+【27】Exogenous ADH — Most patients with **nonhereditary** AVP-R have partial rather than complete resistance to antidiuretic hormone (ADH, also known as arginine vasopressin \[AVP\]). It is therefore possible that attaining supraphysiologic hormone levels will increase the kidney effect of ADH to a clinically important degree. In some patients with AVP-R, exogenous ADH has been found to increase the urine osmolality by 40 to 45 percent, an effect that would be expected to produce a similar decline in urine volume .
+
+【28】In addition to nonhereditary AVP-R, some cases of hereditary AVP-R may respond to exogenous ADH.
+
+【29】Thus, desmopressin may be tried in patients who have persistent symptomatic polyuria after implementation of the above regimen. One case report of a patient with lithium-induced AVP-R suggested that benefit may be more likely if desmopressin is combined with an NSAID .
+
+【30】Experimental approaches — Most patients with congenital X-linked AVP-R have defective V2 vasopressin receptors that are unable to properly fold intracellularly and, as a consequence, do not transfer to the cell surface where the receptors could respond to circulating vasopressin. Several new approaches to treatment of this disorder are being investigated: V2 receptor chaperones and V2 receptor bypass.
+
+【31】V2 receptor chaperones — In in vitro systems, the administration of selective, cell-permeable nonpeptide V2 and V1a receptor antagonists were able to rescue mutant V2 receptors, presumably acting intracellularly to promote proper folding and maturation . This resulted in the expression of functional cell surface V2 receptors, suggesting that such a therapeutic approach may be effective in patients.
+
+【32】In a pilot study, a nonpeptide V1a receptor antagonist was administered to five men with AVP-R (each with one of three identified mutations in the _AVPR2_ gene that codes for the V2 receptor) . This resulted in an increase in urine osmolality from a mean of 100 to 150 mosmol/kg and reductions in urine volume from 12 to 8 L/day and in water intake from 11 to 7 L/day. Nonpeptide V2 agonists have also been demonstrated experimentally to rescue misfolded _AVPR2_ mutations responsible for X-linked AVP-R .
+
+【33】Most mutations in aquaporin-2 (the vasopressin-sensitive water channel) that are associated with AVP-R result in proteins being retained in the intracellular space . Research to find chaperone-like molecules to help direct these proteins to the cell surface is ongoing .
+
+【34】V2 receptor bypass — The antidiuretic activity of the V2 receptor is mediated by the activation of a G protein-signaling cascade that leads to increased intracellular cyclic adenosine monophosphate (AMP) and the trafficking of aquaporin-2 to the cell membrane. The collecting duct also expresses two prostaglandin E2 receptors (EP2 and EP4) and a beta-3 adrenergic receptor; similar to the V2 receptor-signaling cascade, these receptors can increase intracellular cyclic AMP . Prostaglandin E2 and beta-3 adrenergic signaling through these receptors increases the apical membrane abundance and phosphorylation of aquaporin-2.
+
+【35】Thus, stimulation of prostaglandin E2 receptors EP2 and EP4, and stimulation of beta-3 adrenergic receptors, may be a way of bypassing the need for V2 receptor signaling. In a mouse model of X-linked AVP-R, for example, ONO-AE1-329, a selective agonist of the EP4 prostaglandin E2 receptor in the collecting tubule cells, increased urine osmolality from 150 to 500 mosmol/kg H 2 O . In addition, a beta-3 adrenergic receptor agonist increased urine osmolality in a murine model of AVP-R from 150 to 250 mosmol/kg H 2 O .
+
+【36】The phosphodiesterase inhibitor, sildenafil , has also shown similar effects in a single case report, improving the urine osmolality in a patient with X-linked AVP-R . Metformin may also transiently increase urine osmolality in rodent models, although there is a rapid return to basal values . Fluconazole may have similar effects .
+
+【37】Adenosine monophosphate-activated protein kinase (AMPK) has been shown to phosphorylate aquaporin-2 and increase the urine concentration in animal models of AVP-R .
+
+【38】Links to society and government-sponsored guidelines from selected countries and regions around the world are provided separately.
+
+【39】INFORMATION FOR PATIENTS 
+
+【40】Here are the patient education articles that are relevant to this topic. We encourage you to print or e-mail these topics to your patients. (You can also locate patient education articles on a variety of subjects by searching on "patient info" and the keyword(s) of interest.)
+
+【41】 Basics topics
+
+【42】Arginine vasopressin resistance (AVP-R, previously known as nephrogenic diabetes insipidus) results from partial or complete resistance of the kidney to the effects of antidiuretic hormone (ADH, also known as arginine vasopressin \[AVP\]). In adults, a concentrating defect severe enough to produce polyuria due to AVP-R is most often due to chronic lithium use or hypercalcemia and less frequently to other conditions that impair tubular function, such as Sjögren's disease. In infants, congenital AVP-R is most common.
+
+【43】If a cause can be identified, we recommend correcting the underlying disorder (eg, hypercalcemia) or discontinuing the offending drug, if feasible. Lithium-induced AVP-R may be irreversible if tubular injury is severe and there is a marked concentrating defect.
+
+【44】There are usually no adverse medical effects of polyuria, although, as noted above, the functional hydronephrosis in congenital AVP-R rarely leads to significant kidney injury . As a result, the only indication for therapy in adults is to relieve the patient's symptoms.
+
+【45】Initial therapy — Therapy of the polyuria in AVP-R consists of the following sequential approach:
+
+【46】 All adult patients should be instructed to take a low-sodium, low-protein diet, as tolerated, and all infants and young children should be provided a low-sodium diet. The reduction in urine output will be directly proportional to the fall in solute excretion. As a result, the efficacy of solute restriction will depend directly upon patient compliance.
+
+【47】 In all patients who have significant polyuria, we recommend frequent and "double-voiding" to avoid bladder dilatation and dysfunction.
+
+【48】 In all children, and in adults with symptomatic polyuria persisting despite a low-solute diet, we recommend starting a thiazide diuretic (eg, hydrochlorothiazide 25 mg once daily to a usual maximum of 25 mg twice daily in adults and appropriate dosing in children) .
+
+【49】The preferred initial therapy is similar in children with polyuria due to complex congenital polyuric-polydipsic Bartter-like syndromes, in whom we recommend nonsteroidal antiinflammatory drugs (NSAIDs) .
+
+【50】 We suggest adding amiloride if the urine output is insufficiently reduced . We recommend amiloride as part of primary therapy to prevent progression of, or possibly improve, lithium-induced AVP-R in patients in whom lithium is continued .
+
+【51】In patients taking lithium , a low-sodium diet and the use of thiazide and/or amiloride may increase the plasma level of lithium. Thus, frequent measurements of lithium and a decrease in the daily lithium dose may be necessary when initiating such treatments.
+
+【52】 If symptomatic polyuria persists, we suggest adding indomethacin if there are no contraindications .
+
+【53】 In patients who cannot be treated with NSAIDs or who have persistent symptomatic polyuria after the addition of NSAIDs, we suggest a trial of desmopressin .
+
+【54】Hereditary disease — There are special considerations in the management of hereditary AVP-R, particularly in infants and young children:
+
+【55】 In infants and very young children, we recommend offering water every two hours, with the goal of avoiding severe dehydration and hypernatremia . If gastroesophageal reflux becomes problematic, we recommend appropriate management.
+
+【56】 In all children, we recommend implementation of measures to decrease urine flow, as discussed above, and frequent and "double voiding," with the goal of avoiding dilatation of the urinary tract and bladder . We suggest continuing these preventive measures to avoid dilatation of the urinary tract in adulthood.黄艳玲
+
+====================================================================================================
+文本干净度#无关文本#【38】Links to society and government-sponsored guidelines from selected countries and regions around the world are provided separately.
+
+【39】INFORMATION FOR PATIENTS
+
+【40】Here are the patient education articles that are relevant to this topic. We encourage you to print or e-mail these topics to your patients. (You can also locate patient education articles on a variety of subjects by searching on “patient info” and the keyword(s) of interest.)
+
+【41】 Basics topics#无

@@ -1,0 +1,165 @@
+【0】Screening for type 2 diabetes mellitus
+
+【1】INTRODUCTION 
+
+【2】Diabetes is one of the major causes of early illness and death worldwide. Type 2 diabetes accounts for over 90 percent of patients with diabetes and affects hundreds of millions of people worldwide.
+
+【3】This topic will discuss the evidence and recommendations related to screening asymptomatic patients for type 2 diabetes mellitus. Screening pregnant women for gestational diabetes and the evaluation of patients with signs and symptoms of diabetes (polydipsia, polyuria, blurred vision, paresthesias, or unexplained weight loss) is discussed separately. Additionally, the prevalence, risk factors, and prevention of type 2 diabetes are discussed separately.
+
+【4】RATIONALE FOR SCREENING 
+
+【5】The following five criteria define the optimal conditions for screening for any disorder :
+
+【6】 The disorder is an important public health problem
+
+【7】 An early asymptomatic stage exists
+
+【8】 There is a suitable screening test
+
+【9】 An accepted treatment is available
+
+【10】 Early treatment during the asymptomatic stage improves the long-term outcome
+
+【11】Although it has not been firmly established that screening for type 2 diabetes and earlier intervention improve long-term outcomes, type 2 diabetes would appear to meet most of these requirements:
+
+【12】 Diabetes is one of the major causes of early illness and death worldwide, and the global prevalence continues to rise.
+
+【13】 A relatively long asymptomatic period exists .
+
+【14】 Several screening tests exist, including glycated hemoglobin (A1C), fasting plasma glucose, or a two-hour oral glucose tolerance test (OGTT). While there is debate over which is the optimal screening test, each can successfully diagnose asymptomatic cases of diabetes .
+
+【15】 Well-established treatments for type 2 diabetes and prevention of its complications exist:
+
+【16】• Treatment of hyperglycemia reduces the progression of microvascular disease, including retinopathy, nephropathy, and neuropathy. The Diabetes Control and Complications Trial (DCCT) demonstrated that intensive glycemic control in patients with type 1 diabetes reduced the risk of microvascular disease and slowed the progression of diabetic microvascular disease . The United Kingdom Prospective Diabetes Study (UKPDS) showed that improved glycemic control, over time, has a similar impact on microvascular progression in patients with type 2 diabetes .
+
+【17】• Early identification of diabetes allows interventions to prevent or limit cardiovascular disease, such as use of statins at lower lipid thresholds and lower targets for blood pressure control than for patients without diabetes, preferentially using angiotensin-converting enzyme inhibitors or angiotensin receptor blockers.
+
+【18】 Interventions for prediabetes can prevent or delay the onset of diabetes.
+
+【19】• Lifestyle intervention programs, aimed at weight loss and increased activity levels, and metformin and other medications reduce the risk of type 2 diabetes in high-risk individuals .
+
+【20】RISK ASSESSMENT 
+
+【21】Identifying risk factors for diabetes may help to target specific groups for screening . Risk factors for diabetes are discussed in detail elsewhere.
+
+【22】Scoring systems for risk factor assessment have been investigated as a strategy to guide screening, but most have not been validated in diverse populations and are not in widespread use. The majority of available risk assessment tools involve simple questionnaires about important diabetes risk factors (eg, age, weight, family history of diabetes, personal history of hypertension, physical activity). A score is assigned for each risk factor, and the total score used to identify individuals for laboratory screening. Depending upon the cut-point used, sensitivity and specificity for predicting diabetes are approximately 80 and 70 percent, respectively .
+
+【23】The Centers for Disease Control and Prevention (CDC) and the American Diabetes Association provide short, online risk tests based on self-reported demographic and clinical information to provide information on diabetes risk .
+
+【24】More complex models using risk factor assessment combined with laboratory testing have been devised to predict the likelihood of developing type 2 diabetes. These models are reviewed elsewhere.
+
+【25】SCREENING TESTS 
+
+【26】Hyperglycemia (elevated glucose) is the defining feature of diabetes. Glucose intolerance exists along a spectrum, and the definition of type 2 diabetes is usually defined by setting a threshold for one or more of the proposed screening tests along this continuum. Tests that can be used to screen for type 2 diabetes include fasting plasma glucose, glycated hemoglobin (A1C), or a two-hour plasma glucose during a 75 g oral glucose tolerance test (OGTT) . Measurement of urine glucose is not recommended for screening, due to its insensitivity in detecting type 2 diabetes . Additionally, since glucosuria can result from defects in renal tubular function (eg, type 2 \[proximal\] renal tubular acidosis or in familial renal glucosuria ), patients with glucosuria require blood testing (A1C, fasting plasma glucose, or two-hour OGTT) to confirm a diagnosis of diabetes.
+
+【27】The sensitivity and specificity of fasting plasma glucose and A1C as screening tests vary according to the population tested and the threshold used to define diabetes.
+
+【28】Fasting plasma glucose — Defining a reference standard for diabetes as a two-hour blood glucose >200 mg/dL  during an OGTT, the specificity of a fasting plasma glucose ≥126 mg/dL  was greater than 95 percent and the sensitivity was approximately 50 percent . Specificity and sensitivity may be lower for people over the age of 65.
+
+【29】An advantage of glucose testing for diabetes is that the assays are inexpensive. However, glucose tests are subject to diurnal variation and have much greater within-person variability than A1C. There are many factors that can influence the results of the glucose test (duration of fasting, recent exercise, acute stress). Glycolysis is also a concern as glucose concentrations will decrease if samples are not stored properly and processed promptly .
+
+【30】Glycated hemoglobin (A1C) — Glycated hemoglobin (HbA1C; A1C) is used to estimate glucose values over time. It measures glucose bonded to hemoglobin in red blood cells. The average red blood cell lifespan is approximately 120 days, allowing gradual accumulation of glucose over approximately three months.
+
+【31】Using the same OGTT reference standard, the specificity and sensitivity of an A1C ≥6.5 percent were reported as 79 and 44 percent, respectively . Although the moderate specificity reported for A1C could be seen as a problem for a screening test, the presence of diabetic retinopathy correlated better with A1C ≥6.5 percent than with fasting plasma glucose or OGTT criteria and might even support an argument that A1C is a better reference standard.
+
+【32】The A1C assay has several advantages over glucose testing, including increased patient convenience (since no special preparation or timing is required for the A1C test) and a strong correlation of A1C levels with retinopathy and other complications. It also is not impacted by recent caloric intake or time of day, and the assay has greater standardization across laboratories .
+
+【33】However, A1C is more expensive than glucose testing. In addition, A1C may be difficult to interpret when red cell turnover is high or low. For example, A1C may be falsely low in individuals with rapid red cell turnover as may occur in patients treated for iron, vitamin B12, or folate deficiency; patients treated with erythropoietin; and in patients with chronic hemolysis (eg thalassemia) .
+
+【34】If the A1C is either unavailable or uninterpretable, glucose testing (fasting plasma glucose, two-hour OGTT), can be used to diagnose diabetes. The A1C assay and potential sources of error are reviewed separately.
+
+【35】Two-hour plasma glucose during an oral glucose tolerance test (OGTT) — OGTT is not commonly used for screening other than during pregnancy because of inconvenience.
+
+【36】CLASSIFICATION OF DIABETES 
+
+【37】Hyperglycemia exists along a continuum, with even mild elevations causing at least a small increase in risk of end-stage complications. However, since hyperglycemia has an exponential and time-cumulative impact on the risk of end-stage microvascular complications, most end-stage complications occur in patients with hyperglycemia at the higher end of the continuum and with earlier age of diabetes onset. An Expert Committee on the Diagnosis and Classification of Diabetes Mellitus defined three categories (normal, prediabetes or increased risk for diabetes, and diabetes mellitus) based upon results of a fasting plasma glucose concentration, A1C, or two-hour OGTT  .:
+
+【38】 **Normal** – Fasting plasma glucose <100 mg/dL . Fasting is defined as no caloric intake for at least eight hours.
+
+【39】 **Prediabetes or increased risk for diabetes** 
+
+【40】• **Impaired glucose tolerance** (IGT) – Two-hour plasma glucose value during a 75 g OGTT between 140 and 199 mg/dL 
+
+【41】• **Impaired fasting glucose** (IFG) – Fasting plasma glucose 100 to 125 mg/dL 
+
+【42】• **Hemoglobin A1C** – A1C 5.7 to 6.4 percent 
+
+【43】 **Diabetes mellitus** – The diagnosis of diabetes can be established with any of the following criteria  :
+
+【44】• Fasting plasma glucose ≥126 mg/dL 
+
+【45】• A1C ≥6.5 percent 
+
+【46】• Two-hour plasma glucose ≥200 mg/dL  during an OGTT
+
+【47】• Random (or "casual") plasma glucose ≥200 mg/dL  in the presence of symptoms
+
+【48】In the absence of unequivocal symptomatic hyperglycemia, the diagnosis of diabetes must be confirmed by repeat measurement, repeating the same or a different test for confirmation. However, if two different tests (eg, fasting plasma glucose and A1C) are available and are concordant for the diagnosis of diabetes, additional testing is not needed . If two different tests are discordant, the test that is diagnostic of diabetes should be repeated to confirm the diagnosis .
+
+【49】EFFECTIVENESS OF SCREENING 
+
+【50】Randomized trials have not demonstrated that screening for diabetes improves important health outcomes (eg, microvascular complications, cardiovascular disease, and mortality).
+
+【51】A 2015 systematic review including two randomized trials evaluating screening for diabetes found no evidence that screening improved mortality after 10 years of follow-up . The largest randomized trial (n = 15,408 patients) evaluated screening for type 2 diabetes in patients at increased risk (based on age, sex, body mass index (BMI), family and smoking history, use of steroids and antihypertensives) in 33 general practices in the United Kingdom . Patients were randomly assigned to three arms: screening followed by intensive multifactorial treatment (targeting glucose, blood pressure, and lipid control) for those diagnosed with diabetes; screening followed by routine care of diabetes; and a no-screening control group. No difference in overall mortality  was found after a median follow-up of 9.6 years. There was also no difference in diabetes-related mortality, cardiovascular mortality, cancer mortality, or other causes of death. Data on long-term microvascular complications (eg, retinopathy, kidney disease) and coronary heart disease events were not reported. Limitations of this trial include a low overall prevalence of newly diagnosed diabetes  and the lack of data on outcomes in patients with screen-detected diabetes compared with patients diagnosed through routine clinical care.
+
+【52】Cost-effectiveness models — Cost-effectiveness analyses have suggested that diabetes screening in older adults is cost effective . These models are based on epidemiological evidence of how appropriate intensification of glycemic, lipid, and blood pressure treatment would impact outcomes based on a diagnosis of diabetes obtained through screening. The benefits of early detection for all screening strategies included a reduced incidence of myocardial infarction and microvascular complications and an increase in quality-adjusted life years (QALYs) over 50 years of age. The most cost-effective strategies were those that started screening between the ages of 30 and 45 years, with screening repeated every three to five years. However, the reliability of these results is in question because the model assumed perfect performance and compliance with screening and thus may not be representative. Real-world implementation of an intensive lifestyle intervention, similar to that provided in the Diabetes Prevention Program trial, is challenging and requires ongoing counseling and support.
+
+【53】In other cost-effectiveness analyses, screening targeted to individuals with hypertension was more cost effective than universal screening , and screening for impaired glucose tolerance (IGT; prediabetes) and undiagnosed type 2 diabetes, followed by intervention (lifestyle or pharmacologic), was more cost effective than no screening . In one model, the most cost-effective strategy was targeted screening at age 55 to 75 years . For example, the cost per QALY for targeted screening at age 55, compared with no screening, was estimated as USD $34,375. This falls within the generally accepted QALY threshold of USD $50,000 to 100,000 for a screening intervention. As with all screening strategies, the appropriateness and quality of follow-up care for those diagnosed is critically important in considering cost effectiveness.
+
+【54】A SUGGESTED APPROACH 
+
+【55】Our approach to screening is similar to the American Diabetes Association (ADA) guidelines. In high-risk adults , we measure A1C or fasting plasma glucose (measured in a laboratory rather than using a fingerstick sample with a meter). An A1C is particularly useful for screening when patients are not fasting. Simultaneously ordering an A1C with fasting plasma glucose is efficient and can help facilitate the diagnosis of diabetes without requiring a second patient visit .
+
+【56】In patients with symptoms that could be due to diabetes, a random plasma glucose should also be ordered.
+
+【57】In interpreting screening results and determining appropriate follow-up, the following criteria are suggested:
+
+【58】 A fasting plasma glucose value <100 mg/dL  or A1C <5.7 percent should be considered normal. We suggest retesting patients with these results at three-year intervals.
+
+【59】 For those with borderline results (fasting plasma glucose 100 to 125 mg/dL or A1C 5.7 to 6.4 percent), we suggest follow-up every one to two years. (Related Lab Interpretation Monograph(s): "High glycated hemoglobin (A1C) in nonpregnant adults" .)
+
+【60】 The diagnosis of diabetes is confirmed if both the A1C and fasting plasma glucose are above their diagnostic thresholds, if two consecutive A1C levels are ≥6.5 percent, or if two consecutive fasting plasma glucose levels are ≥126 mg/dL  . (Related Lab Interpretation Monograph(s): "High glycated hemoglobin (A1C) in nonpregnant adults" .)
+
+【61】 If A1C and fasting plasma glucose are discordant, this indicates a possible problem with either test. Testing should be repeated to confirm the diagnosis. Additional follow-up may be warranted to understand the possible reason for discordance, especially if the differences in test results are large. Common reasons for discordance include those conditions which can interfere with either test results. For glucose, these conditions include delayed or improper sample handling, inadequate duration of fasting, recent illness or physical activity, acute stress, and certain medications. For A1C, factors that can influence test results include hemoglobinopathies, or conditions that alter hemoglobin or red blood cell lifespan.
+
+【62】Appropriate management of patients meeting the criteria for diagnosis of diabetes or increased risk for diabetes  is discussed elsewhere.
+
+【63】Screening programs can potentially cause harm if they provide a sense of false reassurance. Individuals with a sedentary lifestyle or poor dietary habits are at high risk for developing obesity and diabetes later in life, even if they are not yet overweight. Evidence suggests that weight maintenance is much easier to achieve than weight loss, and therefore all patients should be counseled to maintain at least moderate physical activity and good dietary habits, which also have other health benefits. Ideally, individuals should have at least 150 minutes of exercise weekly equal to or greater than brisk walking .
+
+【64】SCREENING RECOMMENDATIONS BY EXPERT GROUPS 
+
+【65】The two approaches to screening that are usually recommended are either to screen the entire population above a certain age or targeted screening geared to individuals identified as "high risk" based upon multiple risk factors.
+
+【66】American Diabetes Association — The American Diabetes Association (ADA) recommends testing for diabetes or prediabetes in adults with body mass index (BMI) ≥25 kg/m 2 (or ≥23 kg/m 2 in Asian Americans) who have one or more additional risk factors for diabetes, as well as in persons with gestational diabetes mellitus or HIV  . In all other adults, the ADA recommends that testing begin at age 35 years. People with prediabetes (A1C ≥5.7 percent \[39 mmol/mol\], impaired glucose tolerance, or impaired fasting glucose) should be tested for diabetes yearly.
+
+【67】The ADA recommends using either A1C, fasting plasma glucose, or two-hour oral glucose tolerance test (OGTT). If the screening test is positive, diabetes should be confirmed according to ADA criteria . If the screening test is negative, repeat testing every three years is reasonable.
+
+【68】US Preventive Services Task Force — 2021 guidelines from the US Preventive Services Task Force (USPSTF) recommend screening for abnormal glucose as part of cardiovascular risk assessment in adults aged 35 to 70 years who are overweight or obese . The USPSTF suggests screening every three years based on limited evidence.
+
+【69】The Canadian Task Force on Preventive Health Care — The Canadian Task Force on Preventive Health Care (CTFPHC) recommends using a validated risk calculator to identify people at high risk for diabetes . They recommend not routinely screening individuals at low to moderate risk for diabetes and screening individuals at increased risk with A1C, to be repeated every three to five years for those at high risk and yearly for those at very high risk.
+
+【70】Centers for Disease Control and Prevention — The Centers for Disease Control and Prevention (CDC) in the United States suggests screening by fasting glucose, OGTT, A1C testing, or random glucose testing for individuals 45 years or older and for those with risk factors, including overweight, first-degree relative with diabetes, high-risk ethnic group, history of gestational diabetes, or sedentary lifestyle .
+
+【71】National Institute for Health and Care Excellence — In the United Kingdom, guidelines updated in 2017 recommend risk assessment using a self-assessment questionnaire or risk-assessment tool for diabetes for adults aged 40 years and above, adults aged 25 and above in high-risk ethnic groups, or those with comorbidities such as obesity, hypertension, or cardiovascular disease . Such individuals should be offered testing with either a fasting plasma glucose or an A1C and provided with a program for lifestyle change based on the findings. The frequency of recommended reassessment ranges from at least yearly for those at high risk to at least every five years for those at low risk.
+
+【72】Links to society and government-sponsored guidelines from selected countries and regions around the world are provided separately.
+
+【73】INFORMATION FOR PATIENTS 
+
+【74】Here are the patient education articles that are relevant to this topic. We encourage you to print or e-mail these topics to your patients. (You can also locate patient education articles on a variety of subjects by searching on "patient info" and the keyword(s) of interest.)
+
+【75】 Basics topics
+
+【76】 Beyond the Basics topics
+
+【77】 **Who should be screened** – For high-risk adults , we suggest screening for type 2 diabetes .
+
+【78】 **Screening tests** – We measure either A1C and/or fasting plasma glucose. Simultaneously ordering an A1C with fasting plasma glucose is efficient and can help facilitate the diagnosis of diabetes without requiring a second patient visit. Our approach is largely consistent with American Diabetes Association (ADA) guidelines.
+
+【79】 **Interpreting results** – The diagnosis of diabetes is confirmed if both the A1C and fasting plasma glucose are above their respective diagnostic thresholds, if consecutive A1C levels are ≥6.5 percent, or if two consecutive fasting plasma glucose levels are ≥126 mg/dL  .
+
+【80】 **Follow-up testing based on results** – We suggest retesting at three-year intervals when the fasting plasma glucose value is <100 mg/dL  or A1C <5.7 percent . We suggest follow-up testing every one to two years when the fasting plasma glucose is 100 to 125 mg/dL  or A1C is 5.7 to 6.4 percent .
+
+【81】 **Lifestyle counseling** – All patients should be counseled related to smoking cessation, diet, and exercise, but patients meeting the diagnostic criteria for diabetes  or increased risk for diabetes  should receive particularly intensive lifestyle counseling. Indications for pharmacologic intervention are reviewed separately.焦瀚远
+
+====================================================================================================

@@ -1,0 +1,155 @@
+【0】Glycemic control in critically ill adult and pediatric patients
+
+【1】INTRODUCTION 
+
+【2】Uncontrolled hyperglycemia is common in critically ill patients (also called stress hyperglycemia or critical illness hyperglycemia). In this population, both hyperglycemia and hypoglycemia are associated with poor outcomes, which has prompted efforts targeted at optimal glycemic control.
+
+【3】Glycemic control in critically ill patients is discussed in this topic review. Management of hyperglycemia related to diabetic ketoacidosis is described separately.
+
+【4】MECHANISM 
+
+【5】In critically ill adult patients, hyperglycemia is a consequence of many factors, including increased levels of cortisol, catecholamines, glucagon, and growth hormone, as well as increased gluconeogenesis, and glycogenolysis . Iatrogenic hyperglycemia secondary to provision of early standard dose nutrition and insulin resistance may also be contributing factors .
+
+【6】Hypoglycemia in critically ill patients is mostly associated with insulin administration, sepsis, and abrupt changes in parenteral nutrition , while other causes are rare.
+
+【7】RATIONALE FOR BLOOD SUGAR CONTROL
+
+【8】Avoidance of adverse effects of hyperglycemia — Observational evidence from several critically ill adult populations has demonstrated poor clinical outcomes in association with hyperglycemia including increased mortality rate, hospital and intensive care unit (ICU) length of stay, and possibly incidence of nosocomial infection . The mortality risk associated with hyperglycemia appears to be independent of ICU length of stay and a known diagnosis of diabetes. However, this evidence does not prove that hyperglycemia causes poor clinical outcomes, since hyperglycemia may merely be a marker of severe illness.
+
+【9】 Medical/surgical – Hyperglycemia is common in critically ill patients (up to 80 percent). Critically ill medical and surgical patients who are hyperglycemic have a higher mortality rate than patients who are normoglycemic .
+
+【10】• A retrospective cohort study of 1826 medical and surgical adult ICU patients reported higher blood glucose levels in patients who died compared with those who survived . In addition, there was a graded effect, with higher mortality among patients who had higher blood glucose levels (mean blood glucose >300 mg/dL \[16.6 mmol/L\]) compared with those who had lower glucose levels (mean blood glucose between 80 and 99 mg/dL \[4.4 and 5.5 mmol/L\]; 43 versus 10 percent).
+
+【11】• Another observational series reported lower mortality in critically ill adult patients who spent more than 80 percent of their time in the desired range of 70 to 139 mg/dL compared with those who spent less than 80 percent of their time in that range  .
+
+【12】• Special populations – Hyperglycemia is also associated with worse outcomes in several subgroups of critically ill medical patients, including patients with stroke or trauma. Effects of hyperglycemia and glycemic control in these subgroups are discussed separately.
+
+【13】Avoidance of the adverse effects of hypoglycemia — Most data that describe the impact of hypoglycemia are derived from critically ill patients treated with intensive insulin therapy (IIT), although poor outcomes can also occur in patients who develop hypoglycemia in the absence of IIT.
+
+【14】The rate of hypoglycemia varies among studies due to varying definitions. Hypoglycemia occurs in up to 19 percent of adult patients when defined as a blood glucose <40 mg/dL  , or up to 32 percent of patients when defined as a blood glucose <60 mg/dL  .
+
+【15】Although pooled data from two early trials (the Leuven trials) found that hypoglycemia did not cause early deaths or neurologic sequelae in critically ill patients , data since then have shown that hypoglycemia is associated with an increased risk of death and can lead to seizures, brain damage, depression, and cardiac arrhythmias . As examples:
+
+【16】 In a post hoc analysis of 6026 adult patients from one randomized trial (NICE-SUGAR), patients with moderate or severe hypoglycemia (blood glucose 41 to 70 mg/dL \[2.3 to 3.9 mmol/L\] and ≤40 mg/dL \[2.2 mmol/L\], respectively) had a higher risk of death compared with those without hypoglycemia (adjusted hazard ratio 1.41 \[95% CI 1.21-1.62\] and 2.1 \[95% CI 1.59-2.77\], respectively) .
+
+【17】 In another randomized trial (Glucontrol), mortality among patients who had an episode of hypoglycemia was 54 percent, compared with only 15 percent among patients without an episode of hypoglycemia .
+
+【18】 A nested case-control study of more than 5000 medical and surgical critically ill adult patients found that a blood glucose <40 mg/dL  was an independent risk factor for death after adjustment for severity of illness, age, mechanical ventilation, kidney failure, sepsis, and diabetes (adjusted odds ratio 2.28, 95% CI 1.41-3.7) .
+
+【19】 Similarly, in a randomized trial of tight glycemic control in critically ill children (CHiP), patients with at least one episode of hypoglycemia had increased mortality compared with those without hypoglycemia ; this effect was most pronounced in those who had undergone cardiac surgery  .
+
+【20】OUR APPROACH 
+
+【21】Most clinicians in North America, Australia, and New Zealand minimize dextrose-containing products and target a blood glucose of 140 to 180 mg/dL  for medical and surgical adult and pediatric intensive care unit (ICU) patients . Restricting aggressive feeding for the first week of critical illness may reduce the incidence of hyperglycemia. Further details regarding nutrition in critically ill adults is provided separately.
+
+【22】Our approach is, in general, consistent with that outlined by the Society of Critical Care Medicine, with the notable exception that we use a lower upper limit of 180 mg/dL  rather than 200 mg/dL  . This difference is unlikely to be clinically meaningful.
+
+【23】Minimize dextrose-containing products — To achieve the target blood glucose range in adult patients, we first attempt to avoid or minimize the use of intravenous fluids (IVFs) that contain glucose . We administer insulin only when necessary. Details regarding the administration of insulin are provided below.
+
+【24】The same basic principles apply to pediatric patients with the exception that growing children (particularly infants and toddlers) generally require dextrose in maintenance IVF to ensure adequate glucose delivery to avoid hypoglycemia and provide nutrition in the absence of enteral feeding; however, other sources of glucose can be limited in critically ill children (eg, IV medications).
+
+【25】Target range of blood glucose — In most critically ill adult patients, we recommend a blood glucose target of 140 to 180 mg/dL , rather than a lower target range (eg, 80 to 110 mg/dL \[4.4 to 6.1 mmol/L\]) or a more liberal target range (eg, 180 to 200 mg/dL \[10 to 11.1 mmol/L\]). Our recommended blood glucose target is based upon data from mixed adult populations of critically ill medical and surgical patients, which have shown that targeting a lower blood glucose range of 80 to 110 mg/dL  increases the incidence of severe hypoglycemia and either increases or has no effect on mortality, when compared with the more permissive blood glucose ranges of 140 to 180 mg/dL  and 180 to 200 mg/dL .
+
+【26】Similar data have been noted in children, although data are not as extensive as those in adults, resulting in a similar recommendation for the target range of blood glucose in that population.
+
+【27】Efficacy data — Numerous clinical trials have compared different ranges of blood glucose in various populations of critically ill patients, some of which are described in this section. Our recommended blood glucose target of 140 to 180 mg/dL  is mostly based upon data from mixed adult and pediatric populations of critically ill medical and surgical patients, the details of which are discussed below.
+
+【28】Adults — Studies of intensive insulin therapy (IIT) targeting select blood glucose ranges have been described in adult surgical, medical, and mixed ICU populations.
+
+【29】 **Mixed adult patients** – Several randomized trials and meta-analyses have evaluated IIT in mixed populations of critically ill medical and surgical patients . Most trials have reported no mortality benefit or increased mortality from stringent glycemic control regimens targeting a blood glucose level of 80 to 110 mg/dL .
+
+【30】• **Meta-analyses** – Meta-analyses have been performed in an effort to consolidate the data from numerous randomized trials . One meta-analysis of 26 randomized trials  .
+
+【31】• **NICE SUGAR trial** – The multicenter randomized trial (included in the meta-analysis above) was the NICE-SUGAR trial. In this pragmatic trial, 6104 medical and surgical ICU patients were randomized to either IIT (target blood glucose level of 81 to 108 mg/dL \[4.5 to 6 mmol/L\]) or conventional glucose control (target blood glucose of <180 mg/dL \[<10 mmol/L\]) using an insulin infusion . Although the conventional glucose control group was defined only by a maximal blood glucose target, the insulin infusion was discontinued if the blood glucose level dropped below 144 mg/dL . In patients treated with IIT, 90-day mortality was higher than in patients treated with the conventional strategy  and also resulted in an increased number of severe hypoglycemia (≤40 mg/dL or 2.2 mmol/L) episodes . A similar outcome was reported in the subgroup of postoperative patients.
+
+【32】As an extension of this study, the long-term  neurologic and mortality outcomes of 315 patients with traumatic brain injury reported that despite a higher incidence of severe hypoglycemia with IIT, no differences were found in neurologic outcome  or mortality  .
+
+【33】• TGC-Fast trial – In one of the largest studies to date (TGC-Fast), 9230 patients (mostly surgical) were randomized to liberal glucose control (insulin initiated only when the blood glucose level was >215 mg/dL \[>11.9 mmol/L\]) or tight glucose control (blood glucose level targeted to 80 to 110 mg/dL \[4.4 to 6.1 mmol/L\]) ; PN was withheld in both groups for one week. Despite a difference in the blood glucose level , the length of time that intensive care was needed and 90-day mortality were similar in the two groups, as were several other outcomes (eg, incidence of new infections, duration of respiratory and hemodynamic support). The incidence of severe hypoglycemia was low and similar in both groups (<1 percent). This trial confirms a lack of benefit associated with tight glucose control and eliminates the possible confounding due to early PN seen in previous trials that showed benefit.
+
+【34】Two older trials, VISEP  and Glucontrol  (included in the meta-analysis above ), also reported no difference in mortality and a higher incidence of severe hypoglycemia with IIT compared with conventional glucose control (target blood glucose range 140 to 200 mg/dL \[7.8 to 11.1 mmol/L\]).
+
+【35】 **Adult medical patients** – Several trials of IIT in medical patients targeting a stringent blood glucose level of 80 to 110 mg/dL  have reported no mortality benefit and a significant increased frequency of hypoglycemia.
+
+【36】• One single-center Belgian randomized trial of 1200 medical ICU patients (the Leuven **medical** trial), reported that IIT targeting a blood glucose level of 80 to 110 mg/dL  did **not** reduce hospital mortality compared with patients treated with conventional glucose control targeting blood glucose of 180 to 200 mg/dL  . Although IIT reduced length of stay, duration of mechanical ventilation, and acute kidney failure, hypoglycemia was significantly more common in the IIT group . This trial was in agreement with other trials in medical patients, despite a different nutritional approach to that used elsewhere in the world. However, this outcome contrasted with that reported in similarly designed trial of IIT in surgical patients.
+
+【37】• The COIITSS trial randomly assigned 509 patients with septic shock who were receiving corticosteroids to either IIT using a target blood glucose level of 80 to 110 mg/dL  or conventional blood glucose control that encouraged clinicians to target a blood glucose level <150 mg/dL  . The trial found no difference in mortality, ICU length of stay, ventilator-free days, or vasopressor-free days. IIT resulted in more episodes of severe hypoglycemia (<40 mg/dL) than those in the conventional-treatment group (difference in mean number of episodes per patient, 0.15).
+
+【38】 **Adult surgical patients** – While trials in surgical patients have reported mixed outcome from IIT that targets lower glucose levels of 80 to 110 mg/dL , patients who received IIT had a significantly increased risk of severe hypoglycemia. Our belief is that, on balance, a similar lack of benefit noted in medical ICU patients likely also applies to the surgical population given the flaws associated with the one trial that suggested benefit . Consequently, our approach in critically ill surgical patients is similar to that in critically ill medical patients.
+
+【39】• **Favoring stringent blood glucose target** – The Leuven **surgical** trial was a single-center Belgian trial that randomly assigned 1548 surgical ICU patients, two-thirds of whom had cardiac surgery, to receive IIT targeted at achieving 80 to 110 mg/dL  or conventional blood glucose management targeting 180 to 200 mg/dL  . IIT reduced both ICU mortality  and hospital mortality . Hypoglycemia was more frequent in the IIT group . However, the mortality in the conventional group was higher than that reported in other studies for most patients undergoing routine cardiac surgery (eg, ICU mortality 8 versus 1.5 percent) , suggesting the possibility of a harmful intervention in the conventional group. For example, in this trial, all patients were treated with glucose loading by adding early total parenteral nutrition (PN) to enteral nutrition, which is not typically preferred . Thus, the results of this trial are not generalizable to patients who receive a different nutritional approach, such as enteral nutrition started early and increased over the first few ICU days.
+
+【40】Although a meta-analysis of five randomized trials in surgical ICU patients  that compared IIT with less stringent glycemic control showed similar results, trials were older and the outcomes were largely driven by the Leuven **surgical** trial, limiting their interpretation .
+
+【41】• **Favoring moderate blood glucose target** – By contrast, when the NICE-SUGAR trial analyzed a prespecified subgroup of 2232 operative patients (ie, approximately one-third of the total group and a larger number than that in the Leuven trial), surgical patients who received IIT (target blood glucose level of 81 to 108 mg/dL \[4.5 to 6 mmol/L\]) had a significantly higher mortality than those who received conventional glycemic control or conventional glucose control (target blood glucose of <180 mg/dL \[<10 mmol/L\] 24.4 versus 19.8 percent, odds ratio \[OR\] 1.31, 95% CI 1.07-1.61) . This outcome was in keeping with medical ICU patients also included in this study, which is described in detail above.
+
+【42】 **Special populations** – Data describing outcomes associated with tight glycemic control in patients with stroke have shown analogous outcomes resulting in a similar recommended target range for these patients. These data are discussed separately.
+
+【43】Children — While two small single-center studies initially reported improved mortality associated with IIT in critically ill surgical pediatric patients (up to the age of 17 years old), several larger trials (eg, SPECS , CHiP , and HALF-PINT ) have since reported a lack of benefit to tight glycemic control with IIT in this population, similar to that seen in most adult trials . As examples:
+
+【44】 **Meta-analyses** – A meta-analysis of five randomized trials comprising 3933 critically ill children reported that 30-day mortality was unaffected by tight glycemic control compared with a conventional approach (OR 0.99, 95% CI 0.74-1.32) . In addition, there was no impact on health care-associated infections (OR 0.80, 95% CI 0.64-1.00). The incidence of hypoglycemia was increased by tight glycemic control (OR 6.37, 95% CI 4.41-9.21).
+
+【45】 **CHiP** – The effect of IIT was examined in one trial (CHiP) that randomized 1369 children  from 16 pediatric ICUs to tight or conventional glucose control . At 30 days, tight glucose control (ie, blood glucose 72 to 126 mg/dL \[4 to 7 mmol/L\]) did not affect the composite outcome (mortality and number of ventilator-free days; mean difference 0.36 days alive and free of mechanical ventilation) compared with conventional glycemic control , a result that was consistent across subgroups. Severe hypoglycemia (blood glucose <36 mg/dL \[2 mmol/L\]) occurred more frequently in the tight-glycemic-control group . However, the analysis is limited by achieved glucose levels that were similar between the groups .
+
+【46】 **HALF-PINT** – The HALF-PINT trial compared high and low blood glucose target levels in 713 hyperglycemic critically ill children . Patients who had undergone cardiac surgery were excluded. There was no difference in mortality, ICU-free days, severity of organ dysfunction, and number of ventilator-free days among those treated with a lower target blood glucose level of 80 to 110 mg/dL  compared with a higher target level of 150 to 180 mg/dL  . Also reported in the lower target group were higher rates of hypoglycemia  and health care-associated infections . Similar to CHiP, limiting the analysis was a lower-than-expected mean blood glucose level  in the conventional treatment arm (which may reflect a reduction in the use of PN in pediatric ICU care) and early cessation of the trial on the basis of low likelihood of benefit and possibility of harm.
+
+【47】Insulin therapy administration
+
+【48】Initiation — There is no universally accepted insulin regimen for glycemic control in critically ill patients. However, in general, we use short-acting preparations as either an intermittent subcutaneous regimen (eg, four- to six-hour dosing) or continuous infusion to achieve the optimal target value (ie, 140 to 180 mg/dL \[7.7 to 10 mmol/L\]) . Our concern regarding avoidance of using longer-acting insulin preparations during early phases of critical illness before patients have stabilized is that the insulin requirement may change acutely (eg, discontinuation of enteral or parenteral feeding or glucocorticoids), thereby placing the patient at risk of developing hypoglycemia.
+
+【49】Choosing between an intermittent regimen and an infusion depends upon factors including the level of blood glucose, the presence of diabetes, agents that induce hyperglycemia, and response to the insulin regimen used. The approach is typically individualized since patients may require different strategies.
+
+【50】In general, our approach in **adults** is as follows:
+
+【51】 In patients whose blood glucose is consistently above 180 mg/dL (>10 mmol/L) for 12 hours or more, we generally initiate an intermittent sliding-scale subcutaneous regimen, provided the patient does not have diabetic ketoacidosis. The threshold should be low to switch to an infusion.
+
+【52】 If blood glucose continues be uncontrolled during the ensuing 24 hours, we typically escalate to a more aggressive intermittent sliding-scale regimen (ie, increase the dose and/or frequency of insulin) before initiating an insulin infusion. However, there are no studies that have evaluated the optimal blood glucose level for infusion therapy in critically ill adult patients. The decision should consider the benefit of improved glycemic control compared with the labor involved and the increased frequency of hypoglycemic episodes.
+
+【53】 For some patients, the threshold to start an insulin infusion may be lower. This includes patients with diabetes, patients with labile values, and patients with severely elevated blood glucose levels (eg, >250 mg/dL \[>13.9 mmol/L\]).
+
+【54】 For patients who need an insulin infusion, we encourage institutions to develop their own protocol or algorithm (eg, with a sliding-scale structure) designed to optimally treat their specific patient cohorts using protocols from published series that avoid hypoglycemia. Importantly, insulin infusion protocols differ from those for patients with diabetic ketoacidosis. While continuous or near-continuous monitoring of glucose is preferred, it may not be practical, such that one-hour monitoring is a pragmatic alternative.
+
+【55】 For patients receiving PN, we typically add short-acting insulin to the PN regimen so that insulin is administered as an infusion, although subcutaneous protocols are also an option.
+
+【56】For **children and infants** , the principles of insulin treatment are similar, with insulin generally administered as a continuous infusion dosed in a general range of 0.01 to 0.1 units/kg/hour, although rarely doses as high as 0.3 units/kg/hour may be needed. Particular attention should be paid to carbohydrate content in enteral feeds and dextrose content in continuous infusions, as abrupt initiation or discontinuation of these feeds or infusions can have significant impact on blood glucose levels.
+
+【57】Management of insulin infusions in hospitalized patients is discussed separately.
+
+【58】Transitioning to longer-acting regimens — Once the acute illness has resolved and insulin requirements are stabilized, we generally transition to longer-acting insulin (if required), which has been shown to be safe, particularly in patients who are being enterally fed .
+
+【59】In patients who are parenterally fed, the same strategy can be used. Alternatively, short-acting insulin can be added to parenteral feeding, which has the advantage of avoiding insulin administration when parenteral feeding is stopped (eg, loss of central access); in the latter case, we partially rather than completely meet the patient's insulin needs and supplement with subcutaneous insulin to meet target blood glucose values.
+
+【60】Transitioning to longer-acting formulations in hospitalized patients with diabetes is discussed separately.
+
+【61】Monitoring — Careful monitoring of blood glucose is mandatory to achieve the target range and avoid hypoglycemia.
+
+【62】While several devices are available for monitoring glucose, none has proven efficacy over the other . Arterial blood glucose is considered more accurate than other types of sampling but is not always pragmatic. We typically use standard bedside hospital-certified, and ideally ICU-certified, blood glucose meters and check arterial or a venous sample if erroneous readings are suspected (eg, very low or high readings beyond the parameters of the glucometer or IV vitamin C \[ascorbate\] is being administered which can falsely elevate blood glucose readings ).
+
+【63】In general, blood glucose is monitored every hour while on insulin infusions using local pharmacy-directed protocols, while measurements every four to six hours are typically used in patients receiving intermittent insulin regimens. Further de-escalation can occur once the patients is stable on a long-acting regimen.
+
+【64】Treating hypoglycemia — The optimal management strategy for insulin-induced hypoglycemia is unknown. In adults and children, we treat hypoglycemia promptly and in a similar fashion to hypoglycemia from other causes.
+
+【65】We do not typically use specific protocols (eg, a sliding scale of specific dextrose loads for select levels of hypoglycemia) to treat hypoglycemia since their impact is unproven. However, one retrospective analysis of 105 patients reported that the implementation of a hypoglycemia protocol led to reduced glucose variability compared with a conventional approach . Larger randomized trials demonstrating a mortality benefit are required before such protocols can be routinely used for the management of hypoglycemia in the ICU.
+
+【66】 **Rationale for glycemic control** – In critically ill children and adults, hyperglycemia and hypoglycemia are associated with poor clinical outcomes, including increased risk of death.
+
+【67】 **Our approach** – Our suggested approach is as follows:
+
+【68】• **Minimize glucose loads** – In adults, we first attempt to avoid or minimize the use of intravenous fluid (IVF) that contains glucose and only initiate insulin if uncontrolled hyperglycemia persists. The same basic principles apply in pediatric patients with the exception that growing children (particularly infants and toddlers) generally require dextrose in IVF to avoid hypoglycemia and provide nutrition (in the absence of enteral feeding), but other sources of glucose can be limited (eg, IV medications).
+
+【69】• **Optimal blood glucose target** – For most hyperglycemic critically ill patients (children and adults), we recommend a moderately permissive strategy (ie, target blood glucose 140 to 180 mg/dL \[7.7 to 10 mmol/L\]) rather than intensive insulin therapy (IIT) targeting blood glucose 80 to 110 mg/dL  . We also suggest a moderately permissive target rather than a more liberal target (ie, 180 to 200 mg/dL \[10 to 11.1 mmol/L\]) .
+
+【70】Our preference for this approach is based upon clinical trials in critically ill children and adults demonstrating that IIT targeting stringent blood glucose levels is not beneficial and is associated with an increased risk of harm due to severe hypoglycemia.
+
+【71】• **Administration and monitoring** – A widely accepted insulin regimen has not been established, but we prefer to use short-acting insulin preparations.
+
+【72】The approach in adults is as follows:
+
+【73】\- We typically initiate an intermittent subcutaneous sliding-scale insulin regimen in patients whose blood glucose is consistently above 180 mg/dL (>10 mmol/L) for 12 to 24 hours and escalate to an aggressive regimen, and eventually infusion if blood glucose continues be uncontrolled. Institutions should be encouraged to develop their own protocols to support glycemic control. Once the acute illness has resolved and insulin requirement stabilized, we typically transition to a longer-acting insulin if needed.
+
+【74】\- Careful monitoring of blood glucose is necessary to achieve glycemic control while avoiding the potential harmful effects of hypoglycemia. While several devices are available for monitoring glucose, we typically use bedside glucose meters since no tool has proven efficacy over another.
+
+【75】\- While the optimal management strategy for insulin-induced hypoglycemia is unknown, we treat hypoglycemia in critically ill adult patients in a similar fashion to hypoglycemia from other causes (eg, 25 to 50 g IV dextrose ). We do not use specific protocols designed to manage hypoglycemia since their efficacy is unproven.
+
+【76】For **children and infants** , the principles of insulin treatment are similar, with insulin generally administered as a continuous infusion dosed in a general range of 0.01 to 0.1 units/kg/hour, although rarely doses as high as 0.3 units/kg/hour may be needed. Particular attention should be paid to carbohydrate content in enteral feeds and dextrose content in continuous infusions, as abrupt initiation or discontinuation of these feeds or infusions can have significant impact on blood glucose levels. We also treat hypoglycemia in a similar fashion to hypoglycemia from other causes.王磊
+
+====================================================================================================

@@ -1,0 +1,364 @@
+【0】Nonconvulsive status epilepticus: Classification, clinical features, and diagnosis
+
+【1】INTRODUCTION 
+
+【2】Nonconvulsive status epilepticus (NCSE) was originally described in patients with chronic epilepsy, but it is now recognized with increased frequency in other patient populations, especially the critically ill. The diagnosis and treatment of NCSE are not straightforward and depend on many variables, including the clinical setting and etiology, electroencephalography (EEG) findings, and the clinical status of the patient. In addition, it is not always clear to what extent the electrographic activity contributes to clinical impairment or ongoing neuronal injury.
+
+【3】This topic reviews the classification, etiology, clinical features, and diagnosis of NCSE. Treatment and outcomes are discussed separately.
+
+【4】Convulsive status epilepticus is reviewed elsewhere.
+
+【5】DEFINITION 
+
+【6】The International League Against Epilepsy (ILAE) defines status epilepticus as a condition resulting either from the failure of the mechanisms responsible for seizure termination or from the initiation of mechanisms that lead to abnormally prolonged seizures . The temporal threshold that defines an abnormally prolonged seizure depends on the type of seizure. For convulsive status epilepticus, this duration is five minutes. For NCSE, defined as status epilepticus without prominent motor symptoms, the threshold is 10 minutes.
+
+【7】Not included in these definitions, but still widely used by clinicians, is the situation in which brief intermittent seizure activity without convulsions occurs without full recovery of consciousness between attacks . In patients with baseline coma or encephalopathy, NCSE was defined by the American Clinical Neurophysiology Society (ACNS) as ictal activity constituting >20 percent of an hour of recording (ie, >12 mins) . This is based on evidence that the risk of neurological decline increases substantially if the maximal hourly seizure burden is >20 percent .
+
+【8】According to ACNS terminology, NCSE in the critically ill patient can be divided into electrographic status epilepticus (with or without a clinical correlate) and electroclinical status epilepticus (when a clinical correlate can be demonstrated, even if subtle) .
+
+【9】ETIOLOGY 
+
+【10】The underlying causes of NCSE are varied and differ according to the patient population being studied (eg, ambulatory versus critically ill). Approximately one-half to two-thirds of patients will have a prior history of seizures or epilepsy.
+
+【11】 **Absence SE** – Typical and atypical absence status epilepticus (ASE) occurs without coma primarily in children with genetic generalized epilepsy in which absence seizures occur (previously termed idiopathic generalized epilepsies) or in infants and children with epileptic encephalopathies, as discussed above. De novo ASE is a rare type of NCSE that can present in older adults without coma or a prior history of epilepsy; the condition in most cases is triggered by alcohol abuse, psychotropic drug initiation, or benzodiazepine withdrawal  but can also be represent a late-onset idiopathic generalized epilepsy .
+
+【12】 **Infectious or autoimmune encephalitis** – NCSE can be the presenting symptom of infectious or autoimmune encephalitis . Conditions associated with the presence of a supernumerary ring chromosome (most frequently ring chromosome 20) can present with episodes of focal status epilepticus of frontal origin. These episodes are often subtle, manifesting only as mental slowing, and can last for hours or even days .
+
+【13】 **Focal epilepsy** – The causes of NCSE in patients with known focal seizures are the same as the underlying causes of focal epilepsy, such as mesial temporal sclerosis, structural-metabolic causes (eg, malformations of cortical development, tumors, head trauma, stroke, vascular malformations), and various genetic focal epilepsies. Common precipitants include alcohol or antiseizure medication withdrawal, infections, sleep deprivation, and toxic or metabolic disturbances.
+
+【14】 **Aftermath of convulsive status epilepticus** – The underlying etiologies for NCSE in the aftermath of convulsive status epilepticus are similar to the causes of convulsive seizure in these patients. These include antiseizure medication nonadherence or discontinuation, other drug withdrawal syndromes, acute structural brain injury or infection, remote structural brain injury, metabolic derangements, and chronic epilepsy.
+
+【15】 **Central nervous system or systemic illness** – In critically ill patients found to have NCSE, common underlying diagnoses include subarachnoid hemorrhage, epilepsy, central nervous system infection, brain tumor, ischemic or hemorrhagic stroke, traumatic brain injury, hypoxia/anoxia, and toxic-metabolic disturbance, including sepsis .
+
+【16】 **Drug-induced** – Drug-induced NCSE is an important consideration in critically ill patients as well as cancer patients being treated with multiagent chemotherapy. NCSE due to beta-lactam antibiotics, particularly cefepime , has been well described, most often in association with renal dysfunction . Other drugs that have been associated with NCSE include fluoroquinolones , ifosfamide , L-asparaginase , cisplatin , and busulfan . In some cases, NCSE is a presentation of drug-induced posterior reversible encephalopathy syndrome (PRES) ; among the more common culprits are cyclosporine , tacrolimus , and agents that target angiogenesis (eg, bevacizumab ).
+
+【17】Withdrawal from benzodiazepines, opioids, and baclofen has also been associated with NCSE .
+
+【18】 **New-onset refractory status epilepticus** – New-onset refractory status epilepticus (NORSE) refers to a clinical presentation, not a specific diagnosis, of refractory status epilepticus (RSE) for which no etiology is identified within the first 72 hours after admission in a patient without active epilepsy or other preexisting, relevant neurologic disorder . NORSE makes up less than 10 percent of patients presenting with status epilepticus but a higher proportion of patents with refractory NCSE . A cause for NORSE  is ultimately found in up to one-half of patients, most frequently an autoimmune or paraneoplastic encephalitis (eg, NORSE due to anti-NMDA receptor encephalitis). When no underlying cause is identified, the situation is referred to as cryptogenic NORSE or NORSE of unknown etiology .
+
+【19】CLINICAL FEATURES 
+
+【20】Impairment of consciousness ranging from mild confusion to coma is usually present in NCSE; focal status epilepticus without impairment in consciousness is less common.
+
+【21】Other clinical features of NCSE can vary widely and are often divided into two general categories: negative symptoms, which are impairments such as aphasia, mutism, amnesia and catatonia, and positive phenomenology, such as rhythmic twitching of one or more muscle groups, tonic eye deviation, hippus, or nystagmoid eye jerking. A list of negative and positive symptoms seen in NCSE is found in the table . Positive symptoms are often subtle and can be overlooked.
+
+【22】Some patients will have no manifestations of ongoing seizures other than coma, even when scrutinized by experienced clinicians. In fact, approximately three-quarters of critically ill patients with nonconvulsive seizures or NCSE will have no discernible clinical correlate and require EEG monitoring for diagnosis .
+
+【23】Clinical features associated with specific types of NCSE are discussed in more detail in the sections below.
+
+【24】ELECTROCLINICAL CLASSIFICATION 
+
+【25】In the International League Against Epilepsy (ILAE) classification, NCSE is subdivided according to the level of consciousness and clinical and EEG features :
+
+【26】 **NCSE without coma** :
+
+【27】• Generalized NCSE
+
+【28】\- Typical absence status epilepticus (ASE)
+
+【29】\- Atypical ASE
+
+【30】\- Myoclonic ASE
+
+【31】• Focal NCSE
+
+【32】\- With impairment of consciousness
+
+【33】\- Without impairment of consciousness
+
+【34】\- Aphasic status epilepticus
+
+【35】• Unknown whether focal or generalized NCSE
+
+【36】\- Autonomic status epilepticus
+
+【37】 **NCSE with coma**
+
+【38】In addition, there are so-called "boundary conditions" that show evidence of ongoing electrographic epileptiform activity but lack clinical symptomatology that would conventionally be considered epileptic .
+
+【39】NCSE without coma
+
+【40】Generalized NCSE
+
+【41】Typical absence SE — Typical ASE is a form of primary generalized NCSE that is almost always seen in patients with known genetic generalized epilepsy (previously known as idiopathic generalized epilepsy). Clinical features include confusion, behavioral arrest, staring, slowed thinking, repeated blinking, and impaired alertness .
+
+【42】Typical ASE has a characteristic EEG pattern of bilaterally synchronous spike-and-wave discharges occurring at a rate of 2.5 to 5 Hz (most commonly 3 Hz) ( waveform 1 ).
+
+【43】ASE is uncommon but can occur in those patients with epilepsy syndromes in which typical absence seizures occur (ie, childhood absence, juvenile absence, or juvenile myoclonic epilepsy) . In some cases, ASE may be precipitated by the use of an inappropriate antiseizure medication in a patient with genetic generalized epilepsy (most commonly carbamazepine , but also oxcarbazepine and phenytoin ) . There are also rare cases of de novo ASE in older adults presenting with confusion ranging from slight disorientation to fluctuating stupor and with duration of such states varying from hours to weeks. Cases are most often linked to withdrawal of benzodiazepines, alcohol abuse, or initiation of psychotropic medications .
+
+【44】Atypical absence SE — Atypical ASE is a form of generalized NCSE that has a slower spike-and-wave discharge pattern than typical absence status, approximately 1 to 2.5 Hz. This typically occurs in infants and children with epileptic encephalopathies, including Lennox-Gastaut syndrome. Clinical features include behavioral changes and altered awareness, though the onset and cessation are less apparent than with typical absence SE .
+
+【45】Myoclonic absence SE — Myoclonic ASE is very rare. It occurs most often in genetic generalized epilepsy. Seizures are just like absence (with sudden onset of staring and impaired alertness and generalized spike-wave EEG), but with myoclonic jerks time-locked to each spike-wave discharge. The myoclonus is usually fairly subtle, involving the eyelid or perioral musculature, but it can also be evident in axial or limb muscles.
+
+【46】Focal NCSE
+
+【47】Focal SE without impairment of consciousness — Focal status epilepticus without impairment of consciousness (often still referred to as simple partial status epilepticus using the older terminology) is relatively uncommon and generally arises in patients with established focal epilepsy. Such patients have positive or negative symptomatology with preserved awareness with or without focal ictal activity on EEG; approximately half will not have a clear scalp EEG correlate.
+
+【48】Symptoms are varied (eg, focal clonic jerking, head and eye deviation, hemiparesis, hemisensory changes, aphasia, alien hand syndrome, hemispatial neglect, or other visual, auditory, olfactory, gustatory, autonomic, and/or cognitive changes), depending largely on the cerebral localization of the discharges . When subjective sensory or experiential phenomena are involved, this form of NCSE is known as "aura continua" . When continuous focal motor activity is involved with fully retained awareness, it is referred to as epilepsia partialis continua .
+
+【49】Sudden-onset aphasia, usually mixed, can be the only manifestation of a language-dominant hemispheric NCSE, a condition known as aphasic status epilepticus.
+
+【50】Focal SE with impairment of consciousness — Prolonged focal seizures with impairment of consciousness or awareness in **non-comatose** patients with chronic focal epilepsy or a focal acute brain injury are a form of NCSE; these were previously referred to as complex partial status epilepticus and are more appropriately referred to as focal status epilepticus with impaired awareness. Seizures most commonly originate from the temporal or frontal lobe. In addition to impaired consciousness, manifestations can include confusion, other altered mental status, aphasia, amnesia, behavioral changes, and automatisms .
+
+【51】EEG typically reveals focal discharges localized to the temporal or frontal lobe or generalized discharges indistinguishable from generalized-onset NCSE. Less commonly, there are no detectable EEG findings if the ictal activity is confined to deep structures . This type of status epilepticus is most common in adults, usually with a history of focal epilepsy, who are being evaluated for impaired consciousness or prolonged postictal confusion .
+
+【52】NCSE in coma — A substantial number of critically ill comatose children and adults in intensive care units (ICUs) who are monitored with EEG are found to have nonconvulsive seizures and/or NCSE. The clinical features in a comatose patient may include nystagmus, myoclonus, or gaze deviation, although the majority of patients have no evident signs other than coma . Approximately 8 to 20 percent of comatose patients who have not had any clinical seizure activity will have EEG findings consistent with NCSE at the time of monitoring .
+
+【53】Risk factors for NCSE in the critically ill include severe alteration of consciousness (ie, coma), clinical seizures prior to monitoring, younger age (especially children), history of epilepsy or remote brain injury, recent neurosurgical procedure, acute brain injury, intracranial tumor, and sepsis \[ 14-16,18,19,46,47,55-59 \].
+
+【54】Aftermath of convulsive SE — Some patients treated for generalized convulsive status epilepticus are noted to have continuous ictal EEG activity after cessation of movements . In one prospective study, NCSE was present in 14 percent of 164 patients monitored after treatment for convulsive status epilepticus; an additional 34 percent had intermittent ictal discharges that did not meet criteria for status epilepticus .
+
+【55】In some cases, NCSE can occur after a single brief convulsive seizure, taking the form of a prolonged confusional state that is sometimes mistakenly thought to be postictal. Some use the term "subtle status epilepticus" for this specific scenario of periodic discharges or NCSE after convulsive status epilepticus, but this term is used less specifically in other instances. We prefer the term "status epilepticus terminans" when there are periodic discharges after convulsive seizures or convulsive status epilepticus, using the term "subtle status epilepticus" more broadly, as the name implies, for any form of status epilepticus with subtle or no clinical manifestations .
+
+【56】Boundary conditions — In addition to the above subtypes, NCSE also takes on distinct forms in early childhood, in the aftermath of generalized convulsive status epilepticus, and in the critically ill and/or comatose patient.
+
+【57】Neonatal and infantile epileptic encephalopathy — There are a number of severe epileptic syndromes occurring primarily in the neonatal and infantile periods that take the form of continuous or near-continuous episodes of NCSE. These include some cases of West syndrome, Ohtahara syndrome, Dravet syndrome, and Lennox-Gastaut syndrome . These conditions are discussed separately.
+
+【58】Electrical status epilepticus of sleep — Electrical status epilepticus of sleep (ESES) is a rare form of NCSE characterized by the presence of 1 to 3 Hz spike-wave discharges occupying over 80 percent or more of the EEG during non-rapid eye movement (non-REM) sleep. Many children with ESES exhibit symptoms of Landau-Kleffner syndrome, a rare syndrome characterized by progressive loss of language beginning at approximately three to six years of age. ESES is also the cardinal EEG finding in the syndrome of epileptic encephalopathy with continuous spikes and waves during sleep (CSWS). ESES has also been observed in association with other childhood electroclinical syndromes such as Lennox-Gastaut syndrome and benign epilepsy with centrotemporal spikes. These conditions are discussed separately.
+
+【59】Coma or acute confusional states with epileptiform EEG patterns — There are several clinical situations in which there is evidence of ongoing focal or generalized epileptiform activity by EEG, but in which the relationship of the EEG findings to the clinical scenario is not fully understood or agreed upon. In some cases, the controversy arises because of a lack of agreement as to whether the EEG changes are causative of the clinical condition or symptomatic of it. Such conditions include some cases of coma due to acute brain injury, some cases of epileptic behavioral disturbance or psychosis, and some cases of drug-induced or metabolic confusional states, often with myoclonic jerks, with evidence of epileptiform changes on EEG .
+
+【60】EVALUATION
+
+【61】When to suspect NCSE — NCSE is much more common than previously recognized, particularly in intensive care unit (ICU) patients, and the diagnosis requires a high index of suspicion. As a general rule, any fluctuating or unexplained alteration in behavior or mental status warrants consideration of NCSE and evaluation with EEG, as does any acute supratentorial brain injury with altered level of consciousness. The indications for EEG are discussed in greater detail below.
+
+【62】No single clinical symptom has been shown to be specific for a diagnosis of NCSE in patients with an acute change in mental status. In general, NCSE is more common with severe depression in consciousness (coma) than with milder alterations. Additional factors that increase the likelihood of nonconvulsive seizures or NCSE in a patient with altered mental state include ocular movement abnormalities (sustained eye deviation, nystagmus); risk factors for seizure, including a history of epilepsy; convulsive seizure during the current illness; and age less than one year . Automatisms such as lip smacking and subtle motor twitches in the face or extremities can be manifestations of NCSE but have low specificity ; ocular movement abnormalities were a more specific finding  in this study . Another study found that facial/periorbital twitching was more likely to be associated with electrographic seizures than other clinical spells or movements in the critically ill .
+
+【63】History and examination — The history in patients with possible NCSE should review the patient's baseline neurologic function and possible causes of altered mental status, including risk factors for NCSE :
+
+【64】 Abrupt change in mental status, including new-onset psychosis in patients without a psychiatric history, or sudden worsening of a known psychiatric condition, particularly if associated with a recent change in medications or dosing (eg, abrupt withdrawal of benzodiazepine, initiation of antipsychotic such as clozapine or antidepressant such as bupropion )
+
+【65】 History of trauma, infection, or recent illness
+
+【66】 History of seizures or epilepsy, and possible nonadherence with antiseizure medication treatment
+
+【67】 History of substance abuse
+
+【68】 Remote or chronic risk factors for seizure (eg, moderate to severe traumatic brain injury, stroke, meningitis, encephalitis, brain tumor, neurosurgery, dementia)
+
+【69】 Prior episodes of stereotypic events (eg, prolonged staring spells, psychotic behavior)
+
+【70】The examination should look for evidence of findings associated with seizures or NCSE :
+
+【71】 Fever (although lacks sensitivity and specificity for NCSE)
+
+【72】 Head trauma
+
+【73】 Tongue bite or laceration
+
+【74】 Posterior shoulder dislocation
+
+【75】 Urinary incontinence
+
+【76】 Abnormal eye movements (eg, nystagmus) or hippus
+
+【77】 Sustained head and eye deviation
+
+【78】 Hemispatial neglect
+
+【79】 Focal myoclonus of the face or limbs
+
+【80】 Automatisms (repetitive stereotypic, purposeless movements including lip smacking, orofacial twitching, arm and hand movements such as picking or fidgeting)
+
+【81】Laboratory studies — A number of studies are important in the evaluation for the cause of seizures, though not specific for identifying NCSE with the exception of EEG:
+
+【82】 Rapid point-of-care blood glucose should be checked urgently to exclude hypoglycemia in all patients with acute change in mental status or suspected seizure.
+
+【83】 Other laboratory studies that are appropriate include electrolytes, calcium (total and ionized), magnesium, complete blood count, renal function tests, liver function tests, urinalysis, and urine toxicology screen. Serum antiseizure medication levels should be added for patients with known epilepsy on therapy. A pregnancy test in women of childbearing age is commonly performed, as pregnancy may affect testing and treatment decisions. In patients with refractory status epilepticus or new onset of frequent seizures, we routinely check pyridoxine, since low pyridoxine levels can exacerbate seizures, and pyridoxine levels are often low in these patients; the majority of 81 adults with status epilepticus were deficient in one study .
+
+【84】 Neuroimaging is indicated in all patients with unexplained change in mental status.
+
+【85】 Lumbar puncture is indicated in select patients, as discussed below.
+
+【86】 EEG is essential to the evaluation of all patients with suspected NCSE.
+
+【87】When there is a high clinical suspicion for bacterial meningitis or encephalitis, treatment with dexamethasone and antimicrobial agents should be given prior to neuroimaging studies and lumbar puncture.
+
+【88】Other investigations (eg, polymerase chain reaction of cerebrospinal fluid for herpes simplex virus; paraneoplastic and/or autoimmune antibodies) may be indicated in select patients if there is suspicion for infectious, paraneoplastic, or autoimmune encephalitis as the cause of NCSE. These conditions are discussed elsewhere.
+
+【89】Neuroimaging — All patients with unexplained change in mental status should have urgent neuroimaging. Neuroimaging with computed tomography (CT) or magnetic resonance imaging (MRI) is useful to identify common causes of NCSE such as stroke, tumor, traumatic brain injury, infection, or inflammation.
+
+【90】While useful for identifying certain conditions that may cause NCSE, conventional structural brain imaging is imperceptive of seizure activity per se and is of no use for the diagnosis of NCSE. However, diffusion, perfusion, and metabolic MRI techniques may reveal indirect signs of prolonged, and potentially harmful, neuronal hyperactivity. Positron emission tomography (PET) can also identify neuronal hypermetabolism associated with NCSE. Perfusion CT imaging may help differentiate stroke from focal seizure activity in some cases.
+
+【91】Examples of such signs include focal restricted diffusion (increased signal on diffusion-weighted imaging \[DWI\] and reduced apparent diffusion coefficient \[ADC\]) in the cortical ribbon, hippocampus, or thalamus (especially the pulvinar) ; contrast enhancement in the same regions; focal or regional increased F-2-fluoro-2-deoxy-D-glucose (FDG) cortical uptake on brain PET ; cortical vein hyperoxygenation on susceptibility-weighted MRI (SWI) ; and focal cortical hyperperfusion on contrast-enhanced  or contrast-free  perfusion MRI, as well as perfusion CT . These changes usually resolve once NCSE is aborted, though some permanent sequelae can occur, both clinically and radiographically.
+
+【92】The diagnostic accuracy of advanced neuroimaging is unknown, and available data come from small, mostly uncontrolled series. Nonetheless, these advanced techniques can be used in selected complex cases to differentiate NCSE from similar patterns of nonictal nature or at least to decide if a pattern of uncertain significance is associated with signs of potential secondary cerebral injury.
+
+【93】Lumbar puncture — Lumbar puncture should be performed if the clinical presentation is suggestive of an acute central nervous system infection, if there is suspicion for subarachnoid hemorrhage despite negative neuroimaging, or if neuroimaging studies raise concern for an alternative infectious or neoplastic process such as leptomeningeal cancer, meningitis, or encephalitis. Lumbar puncture should only be performed after a space-occupying brain lesion has been excluded by appropriate neuroimaging studies, usually a CT head.
+
+【94】Electroencephalography — The diagnosis of NCSE requires EEG.
+
+【95】Patient selection for EEG — EEG, preferably continuous EEG (cEEG), should be performed routinely in certain clinical situations that are associated with NCSE :
+
+【96】 **Fluctuating or unexplained alteration in behavior or mental status**
+
+【97】 **Acute supratentorial brain injury with altered level of consciousness**
+
+【98】 **Persisting alteration in mental status following treatment of generalized convulsive status epilepticus** – Patients who present with generalized convulsive status epilepticus are typically expected to awaken gradually after the motor features of seizures disappear. If the level of consciousness is not improving by 10 minutes after cessation of movements, or the mental status remains abnormal 30 to 60 minutes after the convulsions cease, NCSE must be considered and urgent EEG is advised. NCSE can also occur after a single brief convulsion .
+
+【99】In one study, 14 percent of patients treated successfully for convulsive status epilepticus were in NCSE when EEG was begun; of the patients who underwent cEEG monitoring after convulsive status epilepticus was controlled, 48 percent had nonconvulsive seizures on monitoring . Furthermore, once treatment for status epilepticus has begun, especially with continuous infusions, the vast majority (approximately 90 percent) of breakthrough seizures will be subclinical, with no clinical accompaniment aside from depressed mental status.
+
+【100】 **Critically ill patients who are obtunded or comatose** – The diagnosis of NCSE in critically ill patients with obtundation or coma can be challenging, since manifestations are often absent or may consist only of subtle myoclonic limb, facial, or ocular movements, and because the underlying medical or neurologic condition might be deemed sufficient to explain the impaired consciousness. In fact, approximately 75 percent of seizures recorded in critically ill patients are unrecognized at the bedside and can only be diagnosed with EEG .
+
+【101】 **Recent clinical seizure (of any duration) without return to baseline**
+
+【102】 **Postanoxic coma**
+
+【103】 **Epileptiform activity and/or periodic discharges in the first 30 to 60 minutes of initial rEEG recording**
+
+【104】Routine and continuous EEG — A routine EEG (rEEG) contains a minimum of 20 minutes of technically-satisfactory recording and the technologist is present at the bedside annotating patient behaviors as well as external stimulations in the environment . cEEG differs from rEEG in that the duration of recording is typically several hours or more, commonly more than 24 hours, and the technologist is only occasionally at the bedside during the recording .
+
+【105】cEEG is a more sensitive test than is rEEG for the detection of nonconvulsive seizures and NCSE in the critically ill population. One meta-analysis found that the pooled prevalence of seizure was 2.5- to 3-fold greater with cEEG compared with rEEG . Only half of patients will have their first seizure within the first hour of recording, and while most critically ill patients with nonconvulsive seizures have their first seizure within 24 hours of the start of a recording, a substantial minority require 48 hours or longer to detect clinically relevant nonconvulsive seizures .
+
+【106】Observational evidence suggests that the use of cEEG for critically ill patients increases the detection of seizures and may lead to reduced mortality; however, the evidence that it is cost-effective and improves outcomes is supportive but not yet definitive. After adjustment for patient and hospital characteristics, one large cross-sectional study of >7 million ICU patients found that cEEG used in the critically ill was associated with reduced in-hospital mortality . A similar retrospective study compared use of rEEG with cEEG in >45,000 mechanically ventilated patients. Despite no difference in comorbidities, use of cEEG was associated with lower in-hospital mortality without adding significant cost to the hospital stay . In a pragmatic randomized controlled trial of 364 critically ill adults with impaired consciousness and no recent seizures, recruited during daytime hours only, cEEG recording led to an increased detection rate of seizures and status epilepticus compared with repeated rEEG, but there was no difference between groups in mortality . Despite broad international recommendations in support of the use of cEEG, it remains underutilized particularly in nonacademic affiliated hospitals and in centers outside of the United States .
+
+【107】EEG electrode array and placement — We recommend using the full array of electrodes based upon the international 10 to 20 system for detection and management of nonconvulsive seizures in routine clinical care, limiting more simplified EEG techniques to cases where full EEG is not available; when it becomes available, the full array should be used in most cases .
+
+【108】A full EEG array based upon the international 10-20 system remains the technical standard for the EEG diagnosis and monitoring of nonconvulsive seizures. The application and maintenance of EEG leads can be time consuming in the hospital, however, and efforts to improve efficiency have led to reduced 7-lead or 8-lead "subhairline" arrays  and other algorithmic analyses of spectral subparameters using as few as two electrodes . Older literature reported that the sensitivity for detection of ictal and interictal epileptiform abnormalities using a reduced EEG electrode array is significantly lower than the standard full EEG array  . Specificity is also lost, as artifacts or physiologic nonictal rhythmic patterns are more likely to be misinterpreted as seizures.
+
+【109】Many institutions are without in-house EEG technologist coverage after regular clinical hours. EEG caps and headbands have been developed which can be rapidly placed by in-house personnel (eg, residents, fellows, nurses) at times when EEG technologists are not available . Even with improved technology in recent years, EEG cap recordings remain more often uninterpretable as compared with the standard of care but may be useful in resource-limited settings . Emerging devices may have better results, and definitely permit much more rapid acquisition of EEG tracings (as short as five minutes) to help diagnose or exclude widespread nonconvulsive SE .
+
+【110】Assessing risk of seizure — The risk of seizure can be estimated using clinical and EEG variables and the 2HELPS2B seizure prediction risk score.
+
+【111】 **Clinical risk factors and EEG pattern** – The likelihood of a seizure occurring depends heavily on two clinical risk factors (comatose state, history of acute or remote seizures) and on the presence of a high-risk EEG pattern (eg, lateralized periodic discharges \[LPDs\], lateralized rhythmic delta activity \[LRDA\], or other epileptiform abnormalities) during the initial recording . In a study that included 665 consecutive cEEGs in critically ill patients, the risk of developing a seizure on monitoring was as high as 64 percent at 72 hours in patients with coma, epileptiform findings on initial EEG, and a history of seizure, whereas the risk was as low as 9 percent in those with no clinical or EEG risk factors . Although there is some variability across studies, the projected risk of seizure when there are no high-risk EEG features declines rapidly over time and is <5 percent at 24 hours, except in patients who are comatose and have had prior seizures .
+
+【112】 **2HELPS2B score** – The risk of seizures for patients with critical illness undergoing cEEG may be estimated according to clinical and EEG variables. The 2HELPS2B score is useful in triaging the need for cEEG, particularly in institutions with limited resources. The 2HELPS2B seizure prediction risk score combines six features with point assignments :
+
+【113】• Brief potentially ictal rhythmic discharges (BIRDs) – 2 points
+
+【114】• Lateralized periodic discharges, lateralized rhythmic delta activity, or bilateral independent periodic discharges – 1 point
+
+【115】• Frequency of discharge >2 Hz for any periodic or rhythmic pattern – 1 point
+
+【116】• Presence of "plus" features (ie, superimposed rhythmic, sharp, or fast activity) – 1 point
+
+【117】• Sporadic epileptiform discharges – 1 point
+
+【118】• Prior clinical seizure (remote or acute) – 1 point
+
+【119】In the initial derivation study of the 2HELPS2B model, the risk of seizures increased with the total score: 5 percent for a score of 0, 12 percent for a score of 1, 27 percent for a score of 2, 50 percent for a score of 3, 73 percent for a score of 4, 88 percent for a score of 5, and >95 percent for a score of 6 or 7 . In a later study, the same investigators validated the score in an independent cohort and determined that a one-hour EEG was adequate for calculating the 2HELPS2B score .
+
+【120】Duration of EEG monitoring — Monitoring duration should be individualized . The goal of monitoring is to facilitate early identification and treatment of NCSE; the clinical utility of detecting isolated, infrequent subclinical seizures has not been well established.
+
+【121】 For patients without high-risk clinical features, 24 hours of cEEG recording is a reasonable screen for nonconvulsive seizures, provided no epileptiform discharges emerge. Even shorter time periods are reasonable if cEEG remains negative for several hours and resources are limited .
+
+【122】For example, one study found that if the 2HELPS2B score is zero (ie, never had a clinical seizure and no epileptiform findings in the first hour of EEG), one hour of EEG without seizures is adequate to conclude that seizures are unlikely (<5 percent chance) to occur with longer monitoring; 3.3 hours of negative EEG would lead to a <2 percent chance of detecting seizures with further monitoring. If the 2HELPS2B score is 1 (ie, any epileptiform findings are seen, or if the patient has ever had a clinical seizure, but not both), at least 12 hours of negative EEG are necessary to reach 95 percent certainty of not detecting seizures, and 29 hours are necessary to reach 98 percent certainty.
+
+【123】 For patients with a 2HELPS2B score of 2 or higher, longer recording is required (always >24 hours).
+
+【124】 For patients with epileptiform discharges, especially if discharges are periodic, and in patients who are comatose and have a history of prior seizures, prolonged recording (up to 72 hours) is recommended .
+
+【125】DIAGNOSIS 
+
+【126】The diagnosis of NCSE requires EEG, since the clinical signs and symptoms are pleomorphic and nonspecific . In some cases an intravenous (IV) antiseizure medication trial is also required to help determine the significance of uncertain EEG patterns.
+
+【127】The criteria for diagnosing NCSE in adults have largely focused on EEG patterns, combined with an acute IV antiseizure medication trial for patients in whom the diagnosis is in doubt. However, the ultimate interpretation of ictal versus nonictal epileptiform activity often remains unclear, even with expert EEG interpretation and proper antiseizure medication trials, particularly in critically ill patients.
+
+【128】Prolonged electrographic seizure activity can take several forms, some of which clearly denote NCSE and some of which are more difficult to interpret, probably denoting NCSE only in some cases .
+
+【129】EEG patterns of definite NCSE — EEG during NCSE is characterized by frequent seizures or continuous ictal activity corresponding to any of the following patterns :
+
+【130】 In patients without known epileptic encephalopathy:
+
+【131】• Focal or generalized spikes, sharp waves, or sharp-and-slow complexes at frequencies averaging >2.5 Hz (ie, >25 epileptiform discharges in 10 seconds)
+
+【132】• Focal or generalized spikes, sharp waves, or sharp-and-slow complexes at frequencies ≤2.5 Hz or rhythmic activity >0.5 Hz and one of the following:
+
+【133】\- Electrographic **and** clinical improvement after an IV trial of an antiseizure medication 
+
+【134】\- Subtle clinical ictal phenomena during the EEG pattern
+
+【135】\- Typical spatiotemporal evolution, including incrementing onset (increase in voltage and change in frequency), or evolution in pattern (change in frequency >1 Hz or change in location), or decrementing termination (voltage or frequency)
+
+【136】 In patients with chronic epilepsy and an epileptic encephalopathy/syndrome:
+
+【137】• Frequent or continuous generalized spike-wave discharges, which show significant changes in intensity or frequency (usually a faster frequency) when compared with baseline EEG
+
+【138】To qualify as NCSE, ictal activity should be present for >20 percent of an hour of recording (ie, >12 mins of ictal EEG activity in an hour) in patients with coma or encephalopathy ; there is evidence that the risk of neurologic worsening increases significantly when the seizure burden is >20 percent . Some have used a higher threshold requiring that the ictal pattern should be present either for 10 continuous minutes or more than 30 total minutes of ictal EEG activity in any given hour of recording (ie, >50 percent of the record). One study found that this threshold had the best diagnostic accuracy  for NCSE, as retrospectively ascertained by a consensus of clinicians based on all the available clinical information .
+
+【139】Uncertain EEG patterns in critical illness — There are many patterns that may represent seizures in a given scenario or patient, but do not qualify as definite seizures using the above definition. This phenomenon led to the concept of an ictal-interictal continuum, a term that is formally defined by the American Clinical Neurophysiology Society (ACNS) as "a pattern that does not qualify as definite seizure, but there is a reasonable chance that it may be contributing to impaired alertness, causing other clinical symptoms, and/or contributing to neuronal injury" .
+
+【140】In critically ill patients and in the aftermath of convulsive status epilepticus, it is common to see these types of EEG patterns, which include a range of periodic or rhythmic discharges (PDs) that do not meet formal seizure criteria. The ACNS initially published a 2012 guideline with standardized nomenclature for these patterns , and this was revised and expanded in 2021 . The nomenclature, an abbreviated "pocket" version, a reference chart, a training module, and a certification test are all available on the ACNS website .
+
+【141】 **Types of** **PDs** – PDs are repetitive stereotyped waveforms of relatively uniform morphology and duration with a clearly discernible interdischarge interval between consecutive waveforms and recurrence of the waveform at nearly regular intervals. PDs may be:
+
+【142】• Generalized periodic discharges (GPDs, previously known as GPEDs), which are bilaterally synchronous and symmetric ( waveform 2 )
+
+【143】• Lateralized periodic discharges (LPDs, previously known as PLEDs) ( waveform 3 )
+
+【144】• Bilateral independent discharges (BIPDs, previously known as BIPLEDs), which are present in each hemisphere but independent and at different frequencies ( waveform 4 )
+
+【145】• Multifocal periodic discharges (MfPDs), with ≥3 independent locations simultaneously with at least one in each hemisphere
+
+【146】• Unilateral independent periodic discharges (UIPDs), indicating two independent populations of periodic discharges in the same hemisphere
+
+【147】PDs often lie on an ictal/interictal continuum  and in isolation do not meet formal seizure criteria unless they are >2.5 Hz for >10 seconds (in which case they qualify as electrographic seizures) or have a clear, time-locked clinical correlate (in which case they qualify as electroclinical seizures). Their exact nature and significance are poorly understood, although certain features correlate with NCSE in grouped data (eg, longer GPD duration, higher GPD amplitude, and higher inter-GPD amplitude).
+
+【148】• **GPDs** – GPDs are often observed in critically ill patients ( waveform 2 ) . In a single-center review of over 3000 continuous EEG (cEEG) recordings, GPDs were present in 4.5 percent of patients and correlated with nonconvulsive seizures and NCSE . Specifically, 27 percent of patients with GPDs had evidence of nonconvulsive seizures elsewhere in the same recording, compared with 8 percent of critically ill matched controls without GPDs. Although GPDs have also been described as a postictal pattern after convulsive status epilepticus, they were not associated with convulsive seizures or convulsive status in this study. The presence of GPDs on an EEG does not usually help to determine etiology or prognosis , and whether patients will benefit from treatment of these EEG findings (including intermittent, brief nonconvulsive seizures) is uncertain. However, in the TELSTAR trial of 172 patients with post-anoxic coma, treatment of rhythmic and periodic EEG patterns with antiseizure medications did not improve outcomes .
+
+【149】GPDs at a frequency of greater than 1 Hz sometimes signify NCSE. A similar pattern with triphasic morphology can be seen in toxic-metabolic encephalopathy, historically termed "triphasic waves". However, studies of GPDs with triphasic morphology investigated blindly with multiple expert reviewers have called into question its relationship with metabolic encephalopathy and its lack of a relationship with seizures . In fact, a significant minority of patients with these patterns improve neurologically with intravenous antiseizure medications .
+
+【150】• **Lateralized periodic or rhythmic patterns** – Seen in critical illness, lateralized patterns such as LPDs, lateralized rhythmic delta activity (LRDA), and BIPDs have been associated with NCSE elsewhere in the recording but are not clearly indicative of seizures in isolation . For LRDA and GPDs, the risk of seizure elsewhere in the recording correlates with higher frequencies (>1.5 Hz) and higher burden of discharges . In some cases, these patterns are more likely to be ictal:
+
+【151】\- LPDs associated with low-voltage rhythmic discharges >4 Hz, referred to as LPDs plus (LPDs+, previously called PLEDs plus), are often associated with seizures ( waveform 5 ) .
+
+【152】\- When LPDs or rhythmic delta are superimposed and fluctuating in frequency, or when periodic discharges reach frequencies ≥1.5 Hz, these patterns are suspicious for seizures and considered to be on the ictal-interictal continuum , defined as "a pattern that does not qualify as definite seizure, but there is a reasonable chance that it may be contributing to impaired alertness, causing other clinical symptoms, and/or contributing to neuronal injury" .
+
+【153】\- PDs or any other pattern that is associated with positive signs and symptoms (eg, subtle motor activity, hallucinations, confusion) or negative signs and symptoms (eg, aphasia, cortical blindness) are by definition ictal .
+
+【154】 **SIRPIDs** – Stimulus-induced rhythmic periodic, or ictal discharges (SIRPIDs), such as those provoked by suctioning, examination, or loud noise, are a common EEG feature in critically ill patients ( waveform 6 ). SIRPIDs usually last for a few minutes but can be shorter or longer depending upon the amount of ongoing stimulation. Some SIRPIDs have a rhythmic, evolving ictal pattern and others do not . SIRPIDs (other than generalized rhythmic delta activity, which is not associated with seizures) are associated with a greater chance for finding electrographic seizures elsewhere in the recording but are not independently associated with increased mortality . The fact that they are stimulus-induced does not alter the association with seizures (in fact, some are stimulus-induced seizures themselves) or the potential for neuronal injury; the risk appears to be the same whether the pattern is stimulus-induced or spontaneous . Thus, the specific pattern is more important than the fact that it is stimulus-induced.
+
+【155】Diagnostic IV antiseizure medication trial — When diagnostic uncertainty persists despite ongoing cEEG, one strategy for distinguishing ictal from nonictal EEG patterns, and for addressing equivocal patterns on the ictal-interictal continuum , is to determine if both the pattern is abolished and the clinical state of the patient improves after a trial of an intravenous (IV) antiseizure medication . In particular, we suggest an IV antiseizure medication trial for cases of suspected NCSE in which the EEG shows repetitive generalized or focal spikes, sharp waves, or spike-and-wave complexes at ≤2.5 Hz that do not have a clear evolution in frequency, morphology, or location .
+
+【156】 **Administering the trial** – An IV antiseizure medication trial is typically performed by a neurologist or epileptologist with proper nursing support and monitoring of vital signs (ie, electrocardiogram \[ECG\], blood pressure, pulse oximetry). Although an IV benzodiazepine has traditionally been used, the sedating effect of benzodiazepines makes it hard to determine whether a patient who does not wake up after the trial is still sedated due to the benzodiazepine or is still obtunded due to ongoing seizures or some other central nervous system process.
+
+【157】We now prefer sequential doses of a nonsedating IV antiseizure medication for the same purpose, such as fosphenytoin , valproate , levetiracetam , brivaracetam , or lacosamide  . If one dose does not have an effect on the EEG or patient, it can usually be repeated quickly.
+
+【158】If using a benzodiazepine, midazolam is preferred in diagnostic cases because of its rapidly acting pharmacodynamic properties, as well as its short half-life. Sequential 1 mg doses of midazolam are slowly infused intravenously while monitoring the EEG as well as the patient's clinical state, ECG, blood pressure, respirations, and oxygen saturation, up to a maximum dose of approximately 0.2 mg/kg. If IV lorazepam is used, we suggest 0.5 mg incremental doses (maximum 4 mg). After each dose, a new EEG and neurologic assessment is initiated, and the trial is stopped if there has been definite improvement in either of these two variables, or if there is evidence of respiratory depression or hypotension. This multiple small-step approach is stressed in order to avoid oversedation and consequently missing the window to make the diagnosis.
+
+【159】 **Definitive diagnosis** – NCSE cannot be definitively diagnosed simply based on the resolution of an EEG pattern without clinical improvement, which is the most common result if one large bolus of benzodiazepine is given. Clinical improvement typically takes hours in critically ill patients. The test is only considered diagnostic for NCSE if there has been a substantial improvement in the clinical state or if there has been a return of normal EEG rhythms (eg, posterior-dominant "alpha" rhythm) . No conclusion can be reached if the EEG pattern resolves but the patient does not improve, and this should be considered possible NCSE or possible electroclinical SE .
+
+【160】Definitive positive results with a benzodiazepine trial, including the requirement for a substantial improvement in level of consciousness, were reported in 35 percent of 62 cases in one study . In another study of 64 patients with unexplained encephalopathy and "triphasic-wave EEG patterns of uncertain significance," positive results (defined as resolution of the EEG pattern **and** either unequivocal improvement in encephalopathy or the appearance of previously absent normal EEG patterns \[eg, posterior dominant rhythm\]) were reported in 19 percent of 53 benzodiazepine trials and 27 percent of 45 nonsedating IV antiseizure medication trials; an additional 16 percent had a delayed but possible response . Overall, 34 percent had a definite positive response, and an additional 11 percent had a possible positive response.
+
+【161】Electroclinical clustering of NCSE subtypes — NCSE is highly heterogenous in its electroclinical features, underlying etiologies, and treatment responsiveness. Still, phenotypic clusters have been suggested by some investigators, such as these three subtypes differentiated by their Glasgow Coma Scale (GCS) score , EEG pattern, NCSE etiology, and treatment response :
+
+【162】 A group with GCS scores of 3 to 8 in the presence of spontaneous burst suppression on EEG with acute symptomatic etiology (eg, within one week of stroke or traumatic brain injury, in the active presence of encephalitis or severe metabolic derangements) and treatment super-refractoriness
+
+【163】 A second group with GCS scores of 9 to 12, presence of LPDs or GPDs on EEG, unknown etiology, and treatment refractoriness
+
+【164】 A third group associated with GCS scores of 13 to 15, absence of LPDs, GPDs, and spontaneous burst suppression on EEG, and progressive and remote symptomatic etiology (eg, prior stroke, tumor) with treatment responsiveness
+
+【165】Prospective studies are required to externally validate the predictive accuracy of this cluster analysis to determine whether this is a clinically useful paradigm.
+
+【166】DIFFERENTIAL DIAGNOSIS 
+
+【167】The dominant clinical feature in most forms of NCSE is altered consciousness; therefore, the differential diagnosis of NCSE is broad and overlaps significantly with that of delirium, toxic-metabolic encephalopathy, and drug intoxication or withdrawal, which are discussed in detail separately.
+
+【168】Psychogenic nonepileptic status epilepticus (PNESE) and psychiatric disorders are also considerations in the differential diagnosis. Continuous video-EEG monitoring is generally required to establish the diagnosis of PNESE in a patient with clinical manifestations that are suggestive of the diagnosis.
+
+【169】Neurologic conditions in the differential diagnosis include postictal state, stroke or transient ischemic attack (TIA), transient global amnesia, migraine with aura, concussion and traumatic brain injury, and central nervous system infection .
+
+【170】Many of the conditions in the differential diagnosis of NCSE are also potential causes of NCSE. As a general rule, EEG should be obtained to rule out NCSE in most patients with altered consciousness, even when an alternative cause of altered consciousness is found, such as a toxic-metabolic encephalopathy or structural brain lesion (eg, intracranial hemorrhage or central nervous system infection); these features are themselves risk factors for seizures. Thus, an EEG is usually warranted to rule out concomitant NCSE as well .
+
+【171】Links to society and government-sponsored guidelines from selected countries and regions around the world are provided separately.
+
+【172】 Nonconvulsive status epilepticus (NCSE) can be defined as a condition of ongoing or intermittent seizure activity without convulsions, without recovery of consciousness between attacks, and lasting more than 10 minutes; or ictal EEG activity occupying >20 percent of any hour.
+
+【173】 The underlying causes of NCSE are varied and differ according to the patient population being studied (eg, ambulatory versus critically ill). Approximately one-half to two-thirds of patients will have a prior history of seizures or epilepsy. In the critically ill, common underlying diagnoses include subarachnoid hemorrhage, traumatic brain injury, stroke, and hypoxia/anoxia.
+
+【174】 Impairment of consciousness ranging from mild confusion to coma is usually present in NCSE; focal status epilepticus without impairment in consciousness is less common. Other clinical features of NCSE  can vary widely and include negative symptoms (eg, mutism, amnesia and catatonia) or positive symptoms (eg, rhythmic twitching of one or more muscle groups, tonic eye deviation, hippus, or nystagmus).
+
+【175】 The International League Against Epilepsy (ILAE) provides a framework for classification of NCSE. The classification has utility for both management and prognosis.
+
+【176】 Nonconvulsive seizures and NCSE are recognized with increasing frequency, both in ambulatory patients with cognitive change, and even more so in the critically ill. The clinical signs and symptoms of NCSE are nonspecific. Any fluctuating or unexplained alteration in behavior or mental status warrants consideration of NCSE and evaluation with EEG, as does any acute supratentorial brain injury with altered level of consciousness. Basic laboratory studies include blood glucose. Neuroimaging is indicated in all patients with unexplained change in mental status; EEG is essential to the evaluation of patients with suspected NCSE.
+
+【177】 Continuous EEG is a more sensitive test than is routine EEG for the detection of nonconvulsive seizures and NCSE. For patients with epileptiform discharges, especially if discharges are periodic, and in patients who are comatose and have a history of prior seizures, prolonged recording (>24 hours) is recommended.
+
+【178】 The diagnosis of NCSE requires EEG. The EEG patterns of definite NCSE are described above.
+
+【179】 In the aftermath of convulsive status epilepticus and in the critically ill, EEG findings include a range of periodic or rhythmic discharges (PDs) that do not meet formal seizure criteria, but may be ictal in some cases, and may be associated with nonconvulsive seizures elsewhere in the recording.
+
+【180】 A trial of a fast-acting intravenous (IV) antiseizure medication is required in some cases when the EEG pattern is in doubt (ie, ictal versus nonictal), during which the clinician is looking for significant improvement in the EEG and either improved clinical state or return of normal EEG patterns.王磊
+
+====================================================================================================
+文本干净度#无关文本#( waveform 1 )#( waveform xx ) 应用全文

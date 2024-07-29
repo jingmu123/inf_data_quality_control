@@ -1,0 +1,221 @@
+【0】Body stalk anomaly and cloacal exstrophy: Prenatal diagnosis and management
+
+【1】INTRODUCTION 
+
+【2】Body stalk anomaly and cloacal exstrophy are rare abdominal wall defects. The abdominal wall defect and associated malformations that comprise body stalk anomaly are severe and preclude postnatal survival, with rare exceptions . The abdominal wall defect and associated malformations that comprise cloacal exstrophy are less severe; most children survive but require multiple and complex surgical procedures and many have long-term issues with continence, kidney function, fertility, and body image.
+
+【3】This topic will discuss the prenatal diagnosis and obstetric management of pregnancies complicated by these conditions.
+
+【4】VALUE OF PRENATAL DIAGNOSIS 
+
+【5】Prenatal diagnosis offers an opportunity to educate parents about the health and prognosis of the fetus and provide counseling to help them make informed decisions about the pregnancy within the context of their own value system. These decisions may involve pregnancy continuation or termination, choice of health care provider(s) (eg, maternal-fetal medicine and other specialists), choice of birth site (eg, level of newborn medical and surgical care), and consideration of palliative care.
+
+【6】Prenatal diagnosis also helps the patient prepare themselves and other family members, particularly children, for what to expect postnatally and provides an opportunity to engage with support groups. When neonatal resuscitation and postnatal surgery is planned, prenatal diagnosis informs neonatal management and operative planning. However, in one study, prenatal diagnosis did not improve the rate of successful primary closure of patients with cloacal exstrophy referred to a high-volume exstrophy center for management .
+
+【7】BODY STALK ANOMALY
+
+【8】Definition — Body stalk anomaly is a massive thoracic and/or abdominal wall defect in which the intrathoracic and abdominal organs lie outside of the abdominal cavity and are contained within a sac comprised of the amnioperitoneal membrane attached directly to the placenta  . Limb abnormalities (absence or hypoplasia of a limb or part of a limb) and severe scoliosis are often present. The umbilical cord may be completely absent or extremely shortened. A large spectrum of other major anomalies can be associated with these findings.
+
+【9】Limb body wall complex has similar body wall and structural limb anomalies but also craniofacial abnormalities (eg, acrania, encephalocele, facial clefts) . It is unclear whether limb body wall complex is one of the phenotypes of body stalk anomaly or a separate disorder. Limb body wall complex cases may be included in cases series of body stalk anomaly and vice versa.
+
+【10】Pathogenesis — The etiology of body stalk anomaly is not known. Possible causes include a primary defect of germinal disc development, early amnion rupture resulting in amniotic bands that exert direct mechanical pressure on the developing embryo/fetus, or vascular disruption of the four- to six-week embryo resulting in tissue necrosis and severely abnormal embryo development . Pathogenic variants in genes related to embryogenesis may play a role (eg, _HOX_ variants, _IQCK_ variants) . It is possible that the etiology is heterogeneous, with several or even all pathogenetic mechanisms being responsible in a subset of patients .
+
+【11】Normal body folding results in separation of the intraembryonic coelom (future peritoneal cavity) from the extraembryonic coelom, formation of the body stalk, and development of the umbilical cord . In the abnormal germinal disk hypothesis, body stalk anomaly is thought to represent complete failure of body folding along all three axes (cephalic, lateral, and caudal) during the sixth postmenstrual week . Abnormal cephalic folding results in a defect in the thoracic wall and epigastrium, allowing development of ectopia cordis . Abnormal lateral folding results in herniation of the midabdominal contents into a large wide-based amnioperitoneal sac, which inserts peripherally onto the placental chorionic plate in lieu of an umbilical cord or with a very short umbilical cord. Due to extrusion of the intraabdominal and thoracic contents, the spine and thoracic cavity do not develop symmetrically, which results in severe kyphoscoliosis and other abnormalities of the axial skeleton. Malrotation of the spine and incomplete closure of the pelvis can lead to malrotated limbs and/or clubfeet. Abnormal caudal folding could result in renal agenesis, as well as malformations or absence of the genitalia, urinary bladder, or both . Case reports also describe an intact bladder retained in the abdomen; a caudal fold defect is unlikely in such cases, while cases with abnormal internal organs are unlikely to be caused by early amnion rupture.
+
+【12】Epidemiology and risk factors — Body stalk anomaly is rare; reported prevalence ranges from approximately 1 out of 10,000 to 40,000 pregnancies . This range likely underrepresents the true prevalence because it does not account for fetal losses due to miscarriage and termination of pregnancy. Prevalence appears to be increasing. A review of EUROCAT network data reported the prevalence increased from 0.11 out of 10,000 pregnancies in 1980 to 0.38 out of 10,000 pregnancies in 2019 .
+
+【13】Prevalence appears to be increased in twins , but usually only one twin is affected . Seventy percent of monozygotic twins were discordant in one study .
+
+【14】Prevalence does not appear to be affected by parental age or fetal sex, although some studies have observed a slightly higher prevalence in males .
+
+【15】Substance use, such as cocaine, smoking, cannabis, or alcohol, has been implicated as a risk factor in some studies, but the small number of reported cases and differences in definitions preclude making any conclusions .
+
+【16】Prenatal diagnosis — Prenatal diagnosis is based on findings on ultrasound examination (described below), which should be performed at a center with sonographic expertise for making the diagnosis and delineating the multiple anatomic abnormalities. There is no consensus regarding the specific diagnostic criteria required for making the diagnosis, which is typically made in the second trimester but has been made in the late first trimester . For example, four cases were diagnosed among 6952 sonographic examinations of nuchal translucency performed at 11 to 14 weeks of gestation in a single institution  .
+
+【17】Ultrasound findings — Body stalk anomaly should be strongly suspected in fetuses with a massive midline thoracoabdominal wall defect  associated with skeletal anomalies, especially severe scoliosis  or lordosis (present in three-quarters of fetuses ) . The peritoneal cavity retains its communication with the extracoelomic cavity, which extends to the margins of the placenta . The massive amnioperitoneal-lined sac may contain portions of the lungs, heart , liver, spleen, bowel, kidneys, genitalia, and bladder, any of which may be absent or abnormal (eg, anorectal stenosis or atresia) . Severe limb reduction defects are often present and are usually unilateral with no side preference; whether lower or upper limbs are most often affected is unclear . Talipes equinovarus is less common. The umbilical cord is absent or extremely short , often with only two umbilical vessels that do not spiral while coursing along the amnioperitoneal membrane . Oligohydramnios is common in the second and third trimesters.
+
+【18】In the Eurocat database, 98.8 percent of the 252 cases between 2010 and 2019 were detected prenatally .
+
+【19】Role of advanced imaging — Three-dimensional  ultrasound can be helpful because the multiplanar and surface-rendering modalities provide a more detailed image of external fetal morphology than two-dimensional ultrasound alone. In addition, 3D imaging may help the patient visualize the extent of the abnormalities.
+
+【20】Magnetic resonance imaging (MRI) has a limited role in diagnostic evaluation when ultrasound findings are uncertain because of factors such as fetal position, multifetal gestation, maternal obesity, fetal adherence to the placenta, and oligohydramnios, and the information from MRI will affect management. Routine MRI is not necessary to confirm the diagnosis.
+
+【21】Additional findings — If performed, the second-trimester maternal serum alpha-fetoprotein (MSAFP) level is elevated in 100 percent of cases . However, this test is no longer commonly performed as part of neural tube defect screening.
+
+【22】Differential diagnosis — The differential diagnosis of major abdominal wall defects is described in the table . Omphalocele and gastroschisis are the two most common abdominal wall defects and, like body stalk anomaly, they can be associated with exteriorization of thoracoabdominal organs. In contrast to body stalk anomaly, omphalocele and gastroschisis are typically not associated with skeletal abnormalities (scoliosis, limb reduction). The fetal cord insertion site is unique to each disorder: at the base of the cord in omphalocele; paraumbilical in gastroschisis; and absent, splayed, or too short to visualize in body stalk anomaly.
+
+【23】Prognosis — Body stalk anomaly is generally lethal  as the severe anomalies of essential organs are often not repairable. For example, severe pulmonary hypoplasia is a common cause of early neonatal death .
+
+【24】Obstetric management
+
+【25】Counseling — The patient should be counseled about the high likelihood of miscarriage, stillbirth, or neonatal/infant demise, since the abnormality is generally considered lethal . Options that should be discussed include pregnancy termination, continuation of pregnancy with neonatal/infant palliative care (survival for hours to a few months has been reported), and the possibility of repair, which has been performed successfully in at least one case but the survivor had severe morbidity . Referral to neonatology and pediatric surgery services for counseling about pediatric management is helpful.
+
+【26】Generally, repair is not possible because there is no abdominal cavity in which to place the organs. Normally, the abdominal cavity is formed by the organs growing inside it; thus, if the abdominal organs are exteriorized, the cavity will not develop.
+
+【27】Genetic studies — We offer microarray in all cases as this information can be helpful for parental decision-making, even though the anatomic findings alone are prognostic of a lethal outcome. An abnormal genetic result, although rare, can be helpful in predicting the recurrence risk and helps to support some parents' decision to terminate the pregnancy.
+
+【28】Many cases of body stalk anomaly with normal karyotype have been reported . Only two cases of body stalk anomaly associated with an abnormal karyotype have been reported (confined placental trisomy 16 and uniparental disomy 16 in one case  and mosaic trisomy 2 on chorionic villous sampling in the other case ). This may be an underestimate given the small number of reported cases.
+
+【29】Prenatal care and follow-up — Some patients will choose to continue the pregnancy. The focus of ongoing prenatal care in these cases is solely on the mother, since body stalk anomalies are considered lethal. It is important for such patients to maintain routine prenatal care appointments for maternal monitoring, and if any maternal morbidity arises, then delivery for maternal indications would be advised. Prolonging the pregnancy carries maternal risk without any fetal/neonatal benefit. Antepartum fetal testing is not indicated.
+
+【30】Route of birth and timing — If the pregnancy is continued, vaginal birth is usually the goal in the absence of standard maternal indications for cesarean birth (eg, placenta previa) since vaginal birth is less morbid for the mother and the newborn is unlikely to benefit from cesarean birth, given the highly lethal nature of this anomaly. The patient can labor with uterine contraction monitoring alone (no fetal heart rate monitoring) since a cesarean would not be performed for fetal indications. The patient should be prepared for the likelihood of fetal demise during labor or neonatal death shortly after birth.
+
+【31】However, in rare cases, cesarean birth may have a maternal benefit. For example, if fetal scoliosis is so severe that passing through the vagina may be obstructed or cause maternal trauma, then cesarean birth should be considered. Cesarean birth should also be considered in the extremely rare scenario that neonatal interventions such as resuscitation and repair of the abnormalities are planned.
+
+【32】Postnatal findings — The postnatal diagnosis of body stalk anomaly is based on characteristic findings on physical examination: a defective thoracoabdominal wall with thoracoabdominal organs outside of the abdominal cavity in a sac adherent to the placenta . The umbilical cord is absent or very short (<10 cm) and skeletal abnormalities are common .
+
+【33】Recurrence risk — Almost all cases are sporadic, but there is at least one case report of a patient who gave birth to two consecutive male infants with limb body wall complex, which suggests the possibility of a genetic origin .
+
+【34】CLOACAL EXSTROPHY
+
+【35】Definition — Cloacal exstrophy is a severe multi-system congenital anomaly involving abnormalities of the genitourinary, gastrointestinal, musculoskeletal, and neurologic systems. The genitourinary abnormality is a key feature and characterized by two exstrophied hemibladders separated by a cecal plate . The disorder is also known as omphalocele-exstrophy of the cloaca-imperforate anus-spinal defects (OEIS) complex .
+
+【36】Exstrophy of the cloaca is different from simple bladder exstrophy as the former represents persistence and exstrophy of a common cloaca that receives ureters, ileum, and a rudimentary hindgut; failure of fusion of the genital tubercles and pubic rami; incomplete development of the lumbosacral vertebrae with spinal dysraphism; imperforate anus; cryptorchidism and epispadias in males; anomalies of the müllerian duct derivatives in females; and a wide range of urinary tract anomalies .
+
+【37】Pathogenesis — The pathogenesis of cloacal exstrophy is unclear. During the fifth and sixth postmenstrual weeks, the human embryo is transformed from a flat disc-shaped organism into two tubes, one dorsal to the other, surrounded by supporting structures in the body wall . Based on histopathologic studies in human embryos, cloacal exstrophy most likely results from a very early (fourth to fifth postmenstrual weeks) defect in the closure of the ventral body wall rather than an abnormality related to premature rupture of the cloacal membrane . Greater concordance among monozygotic than dizygotic twins supports a genetic contribution to the occurrence of the disorder  or an error in embryological development related to monozygotic twinning .
+
+【38】Epidemiology and risk factors — Cloacal exstrophy is a rare event, occurring in fewer than 1 in 100,000 births . Epidemiology is poorly understood because of the rarity of the disorder. Although variability in prevalence by geographic location has been observed, this is most likely an artifact related to the small number of cases. Some series have observed a higher prevalence in females and multiple gestations . Use of any fertility medication or assisted reproductive technology procedure has been reported to be a risk factor .
+
+【39】Prenatal diagnosis — Prenatal diagnosis is based on findings on ultrasound examination (described below), which should be performed at a center with sonographic expertise for making the diagnosis and delineating the multiple anatomic abnormalities. There is lack of consensus regarding the specific diagnostic criteria required for making the diagnosis, which has been made as early as 14 weeks of gestation .
+
+【40】Ultrasound findings — Cloacal exstrophy should be suspected in a fetus with an omphalocele or midline infraumbilical abdominal wall defect and a nonvisualizable bladder . Spinal dysraphism supports the diagnosis . A prolapsed terminal ileum resembling the trunk of an elephant on ultrasound has been reported as a finding unique to cloacal exstrophy .
+
+【41】Prenatal diagnosis is based on ultrasound identification of the features most commonly present in the complex. One series of patients with cloacal exstrophy in whom prenatal sonography was available  established what we and others consider the classic prenatal findings (Austin criteria) . In this series, major criteria for the complex were defined as findings that occurred in >50 percent of cases and included:
+
+【42】 Nonvisualization of the urinary bladder . (Note: nonvisualization of the fetal bladder requires repeated assessments because the fetal bladder normally empties every 50 to 155 minutes . The exstrophic bladder is not seen because urine drains directly into the amniotic cavity from the open posterior bladder plate.)
+
+【43】 Large midline infraumbilical abdominal wall defect or cystic anterior wall structure .
+
+【44】 Omphalocele .
+
+【45】 Meningomyelocele .
+
+【46】Minor criteria were defined as findings that occurred in <50 percent of cases :
+
+【47】 Lower extremity defects 
+
+【48】 Kidney abnormalities, such as agenesis, cystic dysplasia, or ectopia 
+
+【49】 Ascites 
+
+【50】 Diastasis of the pubic rami 
+
+【51】 Narrow thorax 
+
+【52】 Hydrocephalus 
+
+【53】 Single umbilical artery 
+
+【54】Imperforate anus is part of OEIS complex but difficult to diagnose on prenatal ultrasound. It is suggested by significant dilation of the distal colon, visualization of meconium that does not extend to the terminal portion of the colon, or inability to visualize anal sphincter muscles and anal canal mucosa.
+
+【55】Amniotic fluid volume is usually normal, but can be low or increased .
+
+【56】External genitalia are often ambiguous, regardless of fetal sex .
+
+【57】A prenatal diagnosis rate of over 80 percent has been reported in children born between 2000 and 2020 . This rate is higher than previously reported, possibly because of technological advances in fetal imaging and use of contemporary guidelines on prenatal ultrasound utilization, which may involve more early and repeated examinations.
+
+【58】Role of advanced imaging — Color Doppler sonography to identify the perivesical umbilical arteries at the normal bladder location can help delineate the origin of a mass in the lower abdomen . Three-dimensional ultrasound and/or MRI are adjunctive imaging modalities that can be used to assist in clarifying uncertain two-dimensional ultrasound findings, such as whether the elephant trunk-like image represents a blind segment of bowel or a phallus . One group opined that all patients with prenatal sonographic diagnosis of cloacal exstrophy should undergo fetal MRI to confirm the diagnosis and help with parental decision-making and surgical planning .
+
+【59】Additional findings — If performed, second-trimester maternal serum alpha-fetoprotein (MSAFP) level is elevated; levels of 20 to 30 multiples of median (MoMs) have been reported . However, this test is no longer commonly performed as part of neural tube defect screening.
+
+【60】Associated anomalies have been described in case reports and small case series compiled over decades (eg, congenital heart defects, rib defects, microcephaly, encephalocele, diaphragmatic hernia, tracheoesophageal fistula) .
+
+【61】Differential diagnosis — Differential diagnoses are described in the table . Nonvisualization of the bladder in a fetus with abdominal and spinal defects suggests cloacal exstrophy since the bladder can be visualized in omphalocele and gastroschisis, the two most common abdominal wall defects. However, it can be difficult to determine whether a protruding abdominal wall structure is a bladder or an omphalocele, which is necessary to distinguish bladder exstrophy from cloacal exstrophy. Bladder exstrophy is not typically associated with fetal anomalies in other organ systems. In addition, an umbilical cord insertion is superior to the abdominal wall defect in bladder exstrophy while it is inferior to, or at the mid or apex of, the abdominal wall defect with an omphalocele .
+
+【62】Obstetric management
+
+【63】Counseling — Referral to neonatology and pediatric urology and/or surgery for counseling about pediatric management is helpful to provide information on surgical repair sequencing and composite bladder augmentation with gastrointestinal tract components . While counseling about prognosis depends on associated anomalies, the impact of exstrophy on genitourinary function should be discussed, including residual neuropathic bladder, bowel and urinary incontinence, genital appearance and function, and pubic bone diastasis requiring pelvic osteotomy .
+
+【64】Genetic studies — Chromosomal microarray should be considered since results may influence the decision to terminate the pregnancy, perform a cesarean birth for fetal indications, or initiate a series of corrective operations in the newborn period versus palliative care . However, cloacal exstrophy has not been reported to be associated with specific aneuploidies. Most cases are sporadic without an obvious genetic cause, although an 1p36 deletion has been reported in at least two cases .
+
+【65】Males require reconstructive procedures for correcting the penile anatomy. Since penile appearance and sexual function can be issues in parental decision-making regarding pregnancy termination, confirmation of fetal sex can be important . Prenatal determination of fetal sex is also helpful to avoid problems with newborn sex assignment in the delivery room.
+
+【66】Prenatal care and follow-up — In ongoing pregnancies, we suggest serial ultrasound examinations every three to four weeks to monitor fetal growth and weekly biophysical profiles starting at 32 weeks as a prudent approach in addition to routine prenatal care.
+
+【67】Route, timing, and conduct of delivery — Delivery at a tertiary care center with expertise in managing these neonates is recommended. As with other abdominal wall defects, cesarean birth is reserved for standard obstetric indications, although there are no studies of the optimum route of delivery for this rare disorder. Induction can be planned at 39 weeks to help coordinate delivery with neonatal and pediatric surgical availability.
+
+【68】The umbilical cord should be clamped or ligated at greater distance from the infant than usual to avoid injury to proximate structures.
+
+【69】Postnatal findings — The postnatal diagnosis of cloacal exstrophy is based on physical examination showing the characteristic clinical findings  , but not all children with the diagnosis of OEIS show all abnormalities that are included in its acronym :
+
+【70】 **O** mphalocele
+
+【71】 **E** xstrophy of the bladder and portions of bowel (eg, terminal ileum, ileocecal area)
+
+【72】 **I** mperforate anus
+
+【73】 **S** pinal defects
+
+【74】The bladder is split into hemibladders that flank a midline plate of exstrophied cecum; an ileal segment prolapsing from the cecal plate; and a blind-ending, rudimentary hindgut with an imperforate anus. Each hemibladder contains a ureteral orifice and may contain a vas deferens in males and a uterovaginal canal in females . The pubic bones are separated (symphysis pubis diastasis). In males, the penis and scrotum are split in two or the penis is flat and short with hypospadias. In females, the clitoris is split, there may be two vaginal openings, and the vulvae are rudimentary. Vesico-intestinal, urethral-intestinal, or ureteral-intestinal fistula may be present .
+
+【75】Neonatal management — Saline-soaked sterile dressings are applied over the exposed bladder and bowel mucosa and covered with plastic wrap to minimize insensible fluid and heat loss . Immediate consultation with neonatologists, pediatric surgeons, and neurosurgeons is important for operative planning, but emergency surgery is not necessary.
+
+【76】Ultrasound is performed to evaluate the presence or absence of kidneys, hydroureter, and hydronephrosis . The latter two abnormalities may require preoperative decompression. The newborn's spinal cord and brain should be evaluated by ultrasound and MRI imaging to detect tethered cord, myelodysplasia, hydrocephalus, or other central nervous system abnormalities. Radiographic images provide important information about the presence or absence of vertebral or pelvic-sacral abnormalities.
+
+【77】Chromosome microarray can be performed to determine sex chromosome complement (if genetic studies were not performed prenatally), which is one component of decision-making about gender assignment at birth. For infants with 46,XY chromosome complement, assignment to female sex can have significant psychological-emotional consequences. Decisions about gender assignment and surgery in patients with a disorder of sexual organ development are complicated by societal and family expectations, the variability of phenotype, the uncertainty of adult gender identity, and by the lack of adequately sized studies of long-term outcomes. These issues are discussed in detail separately.
+
+【78】Repair — The surgical management of newborns with cloacal exstrophy is technically challenging and a series of complex reconstructive operations is often necessary . For example, the omphalocele needs to be repaired, a urinary bladder needs to be constructed, the separation between the pubic bones need to be reduced and the pelvis stabilized, and intestinal management of the often small and shortened colon needs to be addressed. The major goal is to help the patient achieve bowel control, urinary control, and satisfactory sexual function . Patients are best served in centers that specialize in the care of newborns with this malformation sequence. The presence of motor impairments or organ dysfunction (eg, bladder overdistension/neurogenic bladder) as the result of an associated neural tube defect will impact the timing and nature of the perineal repair.
+
+【79】In one study that described the process of achieving continence (defined as a dry interval greater than three hours without leakage at night) in patients with cloacal exstrophy, continence procedures included bladder neck reconstruction with or without augmentation, bladder neck transection with continent urinary diversion, augmentation cystoplasty, or use of injectable bulking agents . At the time of analysis, 71 percent of patients who underwent a continence procedure were dry, the median number of urologic procedures to reach urinary continence was four (range 2 to 10), and the median age when continence was achieved was 11 years.
+
+【80】Prognosis — Survival rates of 83 to 100 percent have been reported since the 1980s and attributed to advances in hyperalimentation, neonatal intensive care, and surgical reconstruction techniques . The residual mortality rate reflects both the severity of the anomalies encountered and complications associated with preterm birth . For example, a large omphalocele can lead to hypoplastic lungs, pulmonary hypertension, and postnatal respiratory failure .
+
+【81】Quality-of-life issues remain a concern . Two systematic reviews of 12 studies that assessed long-term functional outcomes of patients with cloacal malformation reported the following types and frequencies of outcomes: urinary incontinence , sexual function issues related to vaginal anomalies , uterine anomalies , gender identity issues in 46, XY patients raised female , impaired ambulatory capacity  , fecal soiling , and constipation  .
+
+【82】Female patients have a high incidence of gynecologic problems at menarche and in early adult life . Reassessment at early puberty by ultrasound, MRI, and vaginoscopy has been recommended as additional surgery may be necessary to improve sexual/reproductive function . Maternity is possible for females, but increased rates of ectopic pregnancy, pregnancy loss, uterine prolapse, preterm birth, and cesarean birth have been observed . Paternity has not been documented among males . Expert management is crucial to achieve optimum quality of life, particularly as children transition into adulthood.
+
+【83】Recurrence risk — The genetics of the malformation sequence are not well defined, but there is a higher incidence of cloacal exstrophy in families in which one member is affected as compared with the general population . Greater concordance among monozygotic twins than dizygotic twins also supports a genetic basis for the disorder .
+
+【84】 **Body stalk anomaly**
+
+【85】• **Prenatal diagnosis** – Body stalk anomaly should be strongly suspected in fetuses with a massive midline thoracoabdominal wall defect  associated with skeletal anomalies, especially severe scoliosis  or lordosis. The umbilical cord is absent or extremely short , often with only two vessels, as the peritoneal cavity extends to the margins of the placenta. The massive sac may contain portions of the lungs, heart , liver, spleen, bowel, kidneys, genitalia, and bladder, any of which may be absent or abnormal. Severe limb reduction defects are often present. Oligohydramnios is common.
+
+【86】Limb body wall complex has similar body wall and structural limb anomalies but also craniofacial abnormalities (eg, acrania, encephalocele, facial clefts). It may be one of the phenotypes of body stalk anomaly or a separate disorder.
+
+【87】Prenatal differential diagnosis of major abdominal wall defects is described in the table .
+
+【88】Second-trimester maternal serum alpha-fetoprotein (MSAFP) is always elevated and fetal karyotype is usually normal.
+
+【89】• **Counseling** – The patient should be counseled about the high likelihood of miscarriage, stillbirth, or neonatal/infant demise.
+
+【90】Options that should be discussed include pregnancy termination, continuation of pregnancy with neonatal/infant palliative care (survival for hours to a few months has been reported), and the possibility of repair, which has been performed successfully in at least one case, but the survivor had severe morbidity.
+
+【91】We offer microarray in all cases as this information can be helpful for parental decision-making, even though the anatomic findings alone are prognostic of a lethal outcome. An abnormal genetic result, although rare, can be helpful in predicting the recurrence risk and helps to support some parents' decision to terminate the pregnancy.
+
+【92】• **Prenatal care and delivery** – The focus of ongoing prenatal care is to minimize maternal morbidity. Vaginal birth is usually the goal in the absence of standard maternal indications for cesarean birth (eg, placenta previa).
+
+【93】• **Postnatal diagnosis** – The postnatal diagnosis of body stalk anomaly is based on characteristic findings on physical examination: a defective thoracoabdominal wall with thoracoabdominal organs outside of the abdominal cavity in a sac adherent to the placenta and absent or very short umbilical cord .
+
+【94】 **Cloacal exstrophy**
+
+【95】• **Prenatal diagnosis** – Cloacal exstrophy (also known as omphalocele-exstrophy of the cloaca-imperforate anus-spinal defects \[OEIS\] complex) is a severe multi-system congenital disorder involving abnormalities of the genitourinary, gastrointestinal, musculoskeletal, and neurologic systems. The genitourinary abnormality is a key feature and characterized by two exstrophied hemibladders separated by a cecal plate.
+
+【96】The diagnosis should be suspected prenatally in a fetus with the features most commonly present in the complex. Findings present in >50 percent of cases include:
+
+【97】\- Nonvisualization of the urinary bladder
+
+【98】\- Large midline infraumbilical anterior abdominal wall defect or cystic anterior wall structure
+
+【99】\- Omphalocele
+
+【100】\- Meningomyelocele
+
+【101】A prolapsed terminal ileum resembling the trunk of an elephant on ultrasound is a finding unique to cloacal exstrophy. Amniotic fluid volume can be low, normal, or increased. Malformations may also occur in other organ systems.
+
+【102】Most cases are sporadic without an obvious genetic cause, but a higher incidence has been observed in families in which one member is affected as compared with the general population.
+
+【103】Prenatal differential diagnosis of major abdominal wall defects is described in the table .
+
+【104】• **Prognosis** – Survival rates of 80 to 100 percent have been reported, but quality of life (eg, bowel, urinary, and sexual function) is a concern.
+
+【105】• **Counseling** – Referral to neonatology and pediatric urology and/or surgery for counseling about pediatric management is helpful to provide information on surgical repair sequencing and composite bladder augmentation with gastrointestinal tract components. While counseling about prognosis depends on associated anomalies, the impact of exstrophy on genitourinary function should be discussed, including residual neuropathic bladder, bowel and urinary incontinence, genital appearance and function, and pubic bone diastasis sequelae.
+
+【106】• **Prenatal care** – In ongoing pregnancies, we obtain serial ultrasound examinations every three to four weeks to monitor fetal growth and weekly biophysical profiles starting at 32 weeks as a prudent approach in addition to routine prenatal care. Prenatal determination of fetal sex is also helpful to avoid problems with newborn sex assignment and for parental counseling regarding genital reconstruction.
+
+【107】• **Delivery** – Planned induction at 39 weeks is an option to help coordinate delivery with neonatal and pediatric surgical availability, but awaiting spontaneous labor is also reasonable. Cesarean birth is generally reserved for standard obstetric indications. The umbilical cord should be clamped or ligated carefully to avoid injury to proximate structures.
+
+【108】• **Postnatal diagnosis** – The postnatal diagnosis of cloacal exstrophy is based on physical examination showing the characteristic clinical findings of omphalocele, exstrophy of the bladder and portions of bowel, imperforate anus, and spinal defects. The bladder is split into hemibladders that flank the openings of the small intestine and blind-ending large intestine and contain the orifices of the ureters and vasa deferentia in males and the uterovaginal canal in females. In males, the penis and scrotum are split in two or the penis is flat and short with hypospadias. In females, the clitoris is split, there may be two vaginal openings, and the vulvae are rudimentary.
+
+【109】• **Newborn care** – At delivery, saline-soaked sterile dressings should be applied over the exposed bladder and bowel mucosa and covered with plastic wrap to minimize insensible fluid and heat loss. Surgical management is technically challenging and a series of complex reconstructive operations is often necessary.黄艳玲
+
+====================================================================================================

@@ -1,0 +1,161 @@
+【0】Definition, risk factors, and evaluation of resistant hypertension
+
+【1】INTRODUCTION 
+
+【2】Patients with persistent hypertension despite multiple medications are at high risk for adverse cardiovascular events and are more likely than those with controlled hypertension to have a secondary (ie, identifiable) cause, which is usually at least in part reversible.
+
+【3】The definition, prevalence, risk factors, and evaluation of resistant hypertension will be reviewed here. Specific causes of secondary hypertension will be briefly mentioned. The treatment and prognosis of resistant hypertension, indications for referral to a hypertension specialist, and how one identifies patients who should be screened for secondary hypertension are discussed elsewhere:
+
+【4】 (Related Pathway(s): Evaluation of adults with apparent resistant hypertension .)
+
+【5】DEFINITIONS
+
+【6】Resistant hypertension — Resistant hypertension is defined by the 2018 American Heart Association (AHA) scientific statement, by the 2017 American College of Cardiology (ACC)/AHA hypertension guideline, and by the 2018 European Society of Cardiology and European Society of Hypertension statement as blood pressure that remains above goal in spite of concurrent use of three antihypertensive agents of different classes . If tolerated, one of the three agents should be a diuretic, and all agents should be prescribed at maximum recommended (or maximally tolerated) antihypertensive doses . Patients whose blood pressure is controlled with four or more medications should also be considered to have resistant hypertension.
+
+【7】Goal blood pressure is presented separately:
+
+【8】The preceding criteria define a patient who has **apparent** resistant hypertension. Among patients with apparent resistance, true resistant hypertension is distinguished from pseudoresistance by confirming that blood pressure is above goal when measured in the office using proper technique , by then confirming uncontrolled hypertension with out-of-office measurements (ie, ambulatory blood pressure monitoring or home blood pressure monitoring), and by considering and excluding nonadherence to antihypertensive therapy ( algorithm 1 ) .
+
+【9】Although patients with resistant hypertension may have elevations in both systolic and diastolic pressures, isolated systolic hypertension is common. In the antihypertensive and lipid-lowering treatment to prevent heart attack trial (ALLHAT) of over 33,000 hypertensive patients treated with different antihypertensive drugs, only 67 percent of participants attained a systolic blood pressure below 140 mmHg, whereas 92 percent attained a diastolic pressure below 90 mmHg . Treatment of older adults with isolated systolic hypertension that is resistant to therapy may be more difficult since intensification of the therapeutic regimen may lead to unacceptably low diastolic pressures.
+
+【10】Resistant hypertension is **not** synonymous with uncontrolled hypertension since resistant hypertension is not the only cause of uncontrolled hypertension. Other causes include inadequate treatment regimens and pseudoresistance.
+
+【11】Refractory hypertension — Some patients with resistant hypertension cannot be controlled, even with maximal medical therapy (five or more drugs including chlorthalidone and a mineralocorticoid receptor antagonist) under the care of a hypertension specialist. Such patients are referred to as having **refractory hypertension** . The prevalence and characteristics of refractory hypertension were evaluated in a cohort of more than 550 patients with confirmed (true) resistant hypertension referred to a specialized hypertension clinic . Refractory hypertension was defined as the inability to achieve blood pressure control (by office or ambulatory blood pressure monitoring) despite maximum tolerated doses of at least five antihypertensive medications, including chlorthalidone and spironolactone . The patients with refractory hypertension (approximately 3 percent of those with resistant hypertension) achieved a mean office blood pressure of 178/103 mmHg despite an average of six antihypertensive medications. Compared with patients who had controlled resistant hypertension, those with refractory hypertension had significantly higher heart rates  and higher systemic vascular resistance (despite greater use of vasodilators).
+
+【12】Based upon the persistently higher heart rates and lack of response to intensive diuretic therapy among patients with refractory hypertension, the authors suggested that treatment failure in such patients may be due to neurologic mechanisms (eg, sympathetic overactivity). This contrasts with the conventional thinking that resistant hypertension is largely due to persistent extracellular fluid volume expansion.
+
+【13】Apparent, true, and pseudoresistant hypertension — In patients who appear to have resistant hypertension according to the definition presented above, it should be determined whether the hypertension is truly resistant ( algorithm 1 ):
+
+【14】 **Apparent resistant hypertension** – Patients with apparent resistant hypertension have uncontrolled clinic blood pressure despite being **prescribed** three or more antihypertensive medications or require prescriptions of four or more drugs to control their blood pressure . However, such patients may have pseudoresistant hypertension.
+
+【15】 **True resistant hypertension** – Patients with true resistant hypertension are those who have uncontrolled clinic blood pressure despite being adherent to an antihypertensive regimen that includes three or more drugs (including a diuretic, and each at optimal doses) and who also have uncontrolled blood pressure confirmed by 24-hour ambulatory blood pressure monitoring. The prevalence of true resistant hypertension was assessed in 140 patients with uncontrolled clinic blood pressure who were participating in a randomized trial . Of these patients, 69 were prescribed at least three different antihypertensive medications. However, 15  of these patients with apparent resistant hypertension had normal 24-hour ambulatory blood pressure, 20 patients  were nonadherent to therapy, and 3 patients  were not prescribed a diuretic. Thus, only 31  of the patients with apparent resistant hypertension had true resistant hypertension. In addition, none of the patients taking a diuretic in this study were taking chlorthalidone , the preferred diuretic, and none were taking spironolactone , which is effective in patients with resistant hypertension.
+
+【16】 **Pseudoresistant hypertension** – Pseudoresistance refers to poorly-controlled hypertension that appears resistant to treatment but is actually attributable to other factors. The five most common causes of pseudoresistance are:
+
+【17】• Inaccurate measurement of blood pressure (eg, use of an inappropriately small blood pressure cuff).
+
+【18】• Poor adherence to antihypertensive therapy. Adherence to prescribed antihypertensive therapy in a large cohort of patients with resistant hypertension was determined by performing mass spectrometry of blood samples collected from participants enrolled in a trial of renal denervation . Complete nonadherence or poor adherence was detected in 80 percent of all patients. Overall, participants took an average of two antihypertensive medications despite being prescribed an average of four medications.
+
+【19】The importance of nonadherence to antihypertensive medications in resistant or refractory hypertension has also been identified in other studies. In one study, for example, 40 out of 76 patients with unexplained resistance to four or more antihypertensive drugs were determined to be either nonadherent or only partially adherent to therapy . In another study, 29 of 83 patients  who had hypertension resistant to an average of four antihypertensive medications or who were referred for renal denervation were found to be nonadherent or only partially adherent when their urine was screened for antihypertensive drugs using liquid chromatography and mass spectrometry . Similarly, in a cohort of patients with apparent refractory hypertension, approximately 50 percent were taking five or more antihypertensive drugs .
+
+【20】• Suboptimal antihypertensive therapy. Among 468,877 patients included in an outpatient network, 44,684  had apparent resistant hypertension . Of these, however, only 22,189 (one-half of those with apparent resistant hypertension) were prescribed optimal antihypertensive therapy (defined as a diuretic and two or more additional drugs, each at 50 percent or more of the maximal recommended antihypertensive dose).
+
+【21】• Poor adherence to lifestyle and dietary approaches to lower blood pressure, such as a reduced sodium intake.
+
+【22】• White coat hypertension.
+
+【23】White coat effect — White coat effect refers to patients with treated hypertension who have office readings that average more than 130/80 mmHg and **reliable** out-of-office readings that average less than 130/80 mmHg . Having the blood pressure in the office taken by a nurse or technician, rather than the clinician, may minimize the white coat effect .
+
+【24】White coat hypertension is present in as many as 20 to 30 percent of patients, possibly leading to an erroneous diagnosis of either hypertension or, in a patient with known hypertension, resistant disease. White coat effect is more common among patients with resistant hypertension, with a reported prevalence of 37 to 44 percent in four studies .
+
+【25】Patients with white coat effect have less severe target-organ damage and appear to be at less cardiovascular risk compared with those patients with persistent hypertension during ambulatory monitoring .
+
+【26】PREVALENCE 
+
+【27】The prevalence of true resistant hypertension is not known. A major problem is that not all patients with uncontrolled hypertension have resistant hypertension as defined above. Many are uncontrolled because of poor adherence or inadequate treatment regimens.
+
+【28】In an unselected, population-based sample of 15,968 adults in the United States, the prevalence of apparent resistant hypertension was 8.9 percent among all individuals with hypertension (defined as a blood pressure ≥140 mmHg systolic or ≥90 mmHg diastolic) and 12.8 percent among those treated with antihypertensive medications . In selected populations of hypertensive patients who seek medical care, the prevalence may be higher, ranging from 12.3 percent in Spain to 16 percent in the southeastern United States when defining hypertension as ≥140/≥90 mmHg . The prevalence was substantially lower in several other studies . As an example, in a study of 205,570 patients newly diagnosed with hypertension and followed at a large health maintenance organization, only 2 percent remained treatment resistant after 1.5 years of follow-up .
+
+【29】An analysis of antihypertensive medication prescriptions written in the United States suggested that the prevalence of more difficult-to-control hypertension is increasing . The proportion of hypertensive patients receiving three or more blood pressure medications increased from 14 to 24 percent between 1994 and 2004. Possible reasons for the increase in difficult-to-control hypertension include increases in the average age and the average weight of the population. Data were not given on resistant hypertension.
+
+【30】RISK FACTORS 
+
+【31】Patient characteristics that predict difficult-to-control hypertension include higher baseline blood pressure (particularly systolic), presence of left ventricular hypertrophy (especially by echocardiogram), older age, obesity, chronic kidney disease, and diabetes .
+
+【32】Potentially reversible factors that contribute to resistant hypertension include suboptimal therapy, lifestyle and diet, medications and herbal preparations that can raise the blood pressure, and secondary causes of hypertension.
+
+【33】Suboptimal therapy — Suboptimal therapy is a common cause of apparent resistant hypertension . It is most often due to the lack of administration of more effective drugs and failure to prevent volume expansion with adequate diuretic therapy . In one report, only 18 and 27 percent of patients with uncontrolled hypertension were treated with at least three antihypertensive drugs (one of which being a diuretic) by general practitioners and cardiologists, respectively .
+
+【34】Lifestyle and diet — Obesity, a high-salt diet, physical inactivity, and heavy alcohol intake all contribute to hypertension, although not all have been examined specifically among patients with resistant hypertension.
+
+【35】The contribution of dietary salt to resistant hypertension was examined in a randomized trial in which 12 patients with resistant hypertension were assigned to a low-  or high-  sodium diet for one week . After a two-week washout, the patients received the other diet. Switching from the high- to low-salt diet was associated with an average reduction in office blood pressure of 23/9 mmHg and a reduction in the 24-hour ambulatory blood pressure of 20/10 mmHg.
+
+【36】Medications — A variety of medications can raise the blood pressure and, in some cases, reduce the response to antihypertensive drugs . The most commonly implicated agents are over-the-counter and prescribed medications, including nonsteroidal antiinflammatory drugs (NSAIDs), including some but not all (eg, celecoxib ) of the selective cyclooxygenase-2 (COX-2) inhibitors  .
+
+【37】The NSAIDs that raise blood pressure can interfere with the antihypertensive effect of virtually any agent except calcium channel blockers . A presumed mechanism by which the blood pressure rises is a reduction in sodium excretion, thereby increasing the intravascular volume.
+
+【38】Other agents that may contribute to hypertension include sympathomimetics (diet pills, decongestants, amphetamine-like stimulants), glucocorticoids, herbal preparations, estrogen-containing contraceptives, calcineurin inhibitors, and antidepressants .
+
+【39】Extracellular volume expansion — Relative or absolute volume expansion is frequently at least partially responsible for an inability to control hypertension . Underlying kidney function impairment, sodium retention due to therapy with vasodilators, and/or ingestion of a high-salt diet (which can be assessed by measuring sodium excretion in a 24-hour urine collection) all may play a role.
+
+【40】Secondary causes of hypertension — Patients with resistant hypertension are much more likely to have an identifiable cause of hypertension (ie, secondary hypertension) . As an example, of the 1416 patients with resistant hypertension who were enrolled in the renal denervation for resistant hypertension (DENERHTN) trial, 709  were excluded from receiving denervation because a secondary cause of hypertension was identified . The most common causes of secondary hypertension are primary aldosteronism and renal artery stenosis, chronic kidney disease, and obstructive sleep apnea . Less common causes include pheochromocytoma, Cushing's syndrome, and aortic coarctation.
+
+【41】All of these disorders are reviewed in detail elsewhere on the appropriate topic reviews. The following discussion will be limited to their association with resistant hypertension.
+
+【42】Clinical clues — There are a number of clinical clues suggesting the possible presence of secondary rather than primary hypertension (formerly called "essential" hypertension), one of which is resistant hypertension. Thus, secondary hypertension should be considered in all patients with resistant hypertension. The clinical clues suggesting secondary hypertension are discussed in detail elsewhere.
+
+【43】Primary aldosteronism — Primary aldosteronism has been reported in approximately 10 to 20 percent of patients with resistant hypertension . Otherwise unexplained hypokalemia is the major clue to the presence of primary hyperaldosteronism . However, more than 50 percent of patients with proven primary hyperaldosteronism are normokalemic at presentation. Thus, the absence of hypokalemia does not exclude this disorder.
+
+【44】In the largest published experience of 1616 patients with resistant hypertension, 11 percent fulfilled criteria for primary aldosteronism . Among the patients with primary aldosteronism, only 46 percent had hypokalemia.
+
+【45】Renal artery stenosis — Renal artery stenosis is a common cause of resistant hypertension and can be due to either atherosclerotic disease or, in younger patients, fibromuscular dysplasia.
+
+【46】Chronic kidney disease — As kidney function declines in patients with chronic kidney disease, there is an increasing need for additional antihypertensive medications . Diuretics play a central role. Diuretics should be pushed until the blood pressure goal is reached or the patient has attained "dry weight," which, in the presence of persistent hypertension, is defined as the weight at which further fluid loss leads to either symptoms (fatigue, orthostatic hypotension) or decreased tissue perfusion as evidenced by an otherwise unexplained elevation in the blood urea nitrogen and/or serum creatinine concentration.
+
+【47】Obstructive sleep apnea — Obstructive sleep apnea is common among patients with resistant hypertension who are referred for sleep studies. In three series of patients with resistant hypertension who were referred for sleep studies, significant obstructive sleep apnea was detected in 71 to 85 percent  and, in one, was significantly more common than in patients with controlled hypertension  . The severity of sleep apnea correlates with the severity of hypertension, and both the incidence and severity of sleep apnea were greater in men than women .
+
+【48】Based upon such observations, we suggest screening for obstructive sleep apnea in patients with resistant hypertension who have one or more of the following risk factors: obesity, loud snoring, and/or daytime sleepiness.
+
+【49】The treatment of obstructive sleep apnea with positive airway pressure provides a usually modest antihypertensive benefit among patients with hypertension. The effect in resistant hypertension has not been well-studied.
+
+【50】BLOOD PRESSURE MEASUREMENT 
+
+【51】The diagnosis of resistant hypertension depends upon an accurate measurement of the blood pressure . To avoid falsely high readings, it is particularly important to have the patient sit quietly for three to five minutes before taking the measurement, to use the correct cuff size (the adult large cuff for the majority of patients with resistant hypertension), and to support the arm at heart level during measurement. The blood pressure should be measured in both arms, with the arm with the higher pressure being used to make future measurements.
+
+【52】These and other components of blood pressure measurement are discussed separately.
+
+【53】Ambulatory and home blood pressure monitoring — As noted above, some patients have pseudoresistant hypertension due to errors in blood pressure measurement or white coat hypertension ( algorithm 1 ).
+
+【54】Clinical findings that should raise suspicion of white coat hypertension include poorly-controlled office hypertension without evidence of end-organ damage (such as left ventricular hypertrophy on an echocardiogram) or symptoms suggestive of hypoperfusion . On the other hand, true resistant hypertension is likely when the office systolic pressure is ≥180 mmHg and/or the patient has echocardiographic or electrocardiographic evidence of left ventricular hypertrophy .
+
+【55】True resistant hypertension can only be distinguished from white coat effected in a treated patient with hypertension by out-of-office blood pressure measurements . This is best accomplished with 24-hour ambulatory monitoring although home and workplace assessments can be utilized if one is confident that the blood pressure is being measured accurately. Ambulatory monitoring or self-measured (home) blood pressure should ideally be attained in all patients with resistant hypertension.
+
+【56】If out-of-office readings are at or below the desired target while office readings remain elevated, home or office readings may be used to guide medication adjustments. In addition to out-of-office measurements, the acute increase in office blood pressure can be minimized by having a nurse or technician take the blood pressure rather than the doctor  .
+
+【57】Ambulatory monitoring and self-measured (home) blood pressure are also better predictors than office blood pressure measurements of cardiovascular morbidity (ie, end-organ damage) and mortality in patients with resistant hypertension.
+
+【58】Cuff inflation hypertension — A possible problem with self-measurement using a sphygmomanometer is that the muscular activity used to inflate the cuff can acutely raise the blood pressure by as much as 12/9 mmHg, an effect called cuff inflation hypertension that dissipates within 5 to 20 seconds (average 7 seconds in one study) . Thus, inflating the cuff to at least 30 mmHg above systolic and then allowing the sphygmomanometer to fall no more than 2 to 3 mmHg per heartbeat is desirable both for accurate measurement and to permit this exertional effect to disappear . This problem can be avoided with automated home blood pressure devices.
+
+【59】OTHER COMPONENTS OF EVALUATION 
+
+【60】The evaluation of patients with suspected resistant hypertension should confirm true treatment resistance, identify contributing factors including secondary causes of hypertension, and document target-organ damage including retinopathy, left ventricular hypertrophy, and kidney disease .
+
+【61】Pseudoresistance is excluded by an assessment of treatment adherence and the accurate determination of blood pressure.
+
+【62】Medical history — The medical history should document age of onset, duration, severity, and progression of the hypertension. Current medication use (including herbal and over-the-counter medications) and the response to prior medications should be determined. Patient adherence is established mostly by self-report or by assessing prescription refill rates. The clinician should ask about adverse effects of medications, out-of-pocket costs, and dosing inconvenience, all of which can limit adherence.
+
+【63】The patient should also be questioned about possible manifestations of secondary causes of hypertension, such as pheochromocytoma and Cushing's syndrome.
+
+【64】Physical examination — The physical examination should include careful measurement of the blood pressure and funduscopic examination looking for retinopathy. In addition, signs that suggest secondary causes of hypertension may be present. As examples, carotid, abdominal, or femoral bruits suggest atherosclerotic disease and possible renal artery stenosis. Diminished femoral pulses and/or a discrepancy between arm and thigh blood pressures suggest aortic coarctation or significant aortoiliac disease.
+
+【65】Laboratory evaluation — Laboratory testing in patients with resistant hypertension includes measurement of serum electrolytes, glucose, and creatinine as well as a urinalysis with estimation of proteinuria (eg, urine albumin-to-creatinine ratio).
+
+【66】Screening for primary aldosteronism is also warranted at the initial visit if possible since, in the largest published experience of 1616 patients with resistant hypertension, 11 percent fulfilled criteria for primary aldosteronism, only 46 percent of whom were hypokalemic . Despite this recommendation, screening for primary aldosteronism is performed in only a small minority of patients with resistant hypertension  .
+
+【67】Screening for primary aldosteronism begins with a morning measurement of the plasma aldosterone concentration (PAC) and plasma renin activity (PRA) to determine whether the patient has an elevated or high-normal PAC, suppressed PRA, and elevated PAC/PRA ratio. Certain antihypertensive drugs can alter the ratio, some of which should be discontinued prior to testing. If the ratio suggests primary aldosteronism, further evaluation is necessary to confirm the diagnosis. These issues are discussed in detail elsewhere.
+
+【68】In addition to blood testing, a 24-hour urine collection should be obtained at the time of the blood testing on the patient's usual diet for determination of sodium excretion, creatinine clearance, and aldosterone excretion. Urinary sodium excretion permits estimation of dietary sodium intake unless the patient has been recently (within the past two weeks) started on a diuretic or there has been a recent dose increase.
+
+【69】Patients with resistant hypertension should be evaluated for pheochromocytoma if they have suggestive manifestations such as episodic hypertension, palpitations and/or diaphoresis, or tremor.
+
+【70】Noninvasive imaging — Most patients with resistant hypertension should undergo noninvasive imaging for renal artery stenosis. This is particularly important in patients with known atherosclerotic disease in other vascular beds, including peripheral artery disease, coronary artery disease or cerebrovascular disease, an abdominal bruit, a rise in serum creatinine after initiation of an angiotensin-converting enzyme (ACE) inhibitor or angiotensin II receptor blocker (ARB), or onset of hypertension at a young age, which could represent fibromuscular dysplasia.
+
+【71】Among patients with resistant hypertension who have none of these risk factors, we delay screening for renovascular disease until the remainder of the evaluation for resistant hypertension is negative. The preferred methods of screening are discussed elsewhere.
+
+【72】Because of low specificity, imaging studies should not be performed to screen for adrenal adenomas in the absence of biochemical evidence of hormonally active tumors.
+
+【73】Links to society and government-sponsored guidelines from selected countries and regions around the world are provided separately.
+
+【74】 **Definition** – Resistant hypertension is defined as blood pressure that remains above goal in spite of concurrent use of three antihypertensive agents of different classes or as blood pressure that is controlled with four or more medications. One of the medications should be a diuretic, if tolerated, and all should be prescribed at maximum recommended (or maximally tolerated) antihypertensive doses. Approximately 3 percent of patients with resistant hypertension cannot be controlled (called refractory hypertension) despite maximal medical therapy. Among patients with apparent resistance, true resistant hypertension should be distinguished from pseudoresistance ( algorithm 1 ). (Related Pathway(s): Evaluation of adults with apparent resistant hypertension .)
+
+【75】 **Identify pseudoresistance** – Pseudoresistant hypertension refers to hypertension resulting from inaccurate measurement of blood pressure (eg, use of an inappropriately small blood pressure cuff), poor adherence to antihypertensive therapy, suboptimal antihypertensive therapy, poor adherence to lifestyle and dietary approaches to lower blood pressure, or white coat effect.
+
+【76】 **Method of measurement** – Careful blood pressure measurement technique is essential to establish an accurate diagnosis of resistant hypertension. Out-of-office blood pressure measurements are required to exclude white coat effects.
+
+【77】 **Identify potentially reversible risk factors** – Potentially reversible factors that contribute to resistant hypertension include suboptimal therapy, lifestyle and diet, medications and herbal preparations that can raise the blood pressure, and secondary causes of hypertension.
+
+【78】 **Evaluation for secondary causes of hypertension** – Most patients with resistant hypertension should be evaluated for the possible presence of primary aldosteronism, renal artery stenosis, chronic kidney disease, and obstructive sleep apnea. Less common identifiable causes of resistant hypertension include pheochromocytoma, Cushing's syndrome, and aortic coarctation. Screening for one of these disorders should only be performed if the patient has suggestive manifestations.
+
+【79】The evaluation should include measurement of serum electrolytes, glucose, urea nitrogen and creatinine, and a urinalysis. Morning plasma aldosterone concentration (PAC) and plasma renin activity (PRA) should be measured to screen for primary aldosteronism. A 24-hour urine should be obtained for determination of sodium excretion, creatinine clearance, and aldosterone excretion.焦瀚远
+
+====================================================================================================

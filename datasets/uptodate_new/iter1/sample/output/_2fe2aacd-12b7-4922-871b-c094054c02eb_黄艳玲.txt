@@ -1,0 +1,291 @@
+【0】Anesthesia for the patient with liver disease
+
+【1】INTRODUCTION 
+
+【2】Patients with liver disease frequently require surgery, and are at increased risk of intraoperative complications and postoperative morbidity and mortality. This topic will discuss perioperative risk and anesthetic management of patients with liver disease.
+
+【3】Epidemiology, diagnosis and management of various forms of liver disease, and preoperative risk assessment for patients with liver disease, are discussed separately.
+
+【4】PREOPERATIVE EVALUATION AND OPTIMIZATION
+
+【5】Screening for liver disease — The preoperative history and physical examination for any patient should include the risk factors, signs, and symptoms of liver disease. Routine screening with liver function tests (LFTs) is not recommended, due to its low yield and uncertain implications for patients with no known liver disease.
+
+【6】Preoperative evaluation for patients with known liver disease — Prior to surgery, the etiology, duration, and severity of hepatic dysfunction should be determined. Risk stratification and optimization of medical status should be performed preoperatively for elective surgery.
+
+【7】Risk stratification — A number of conditions are considered contraindications to elective surgery , including acute liver failure (previously termed fulminant hepatic failure) and acute viral or alcoholic hepatitis. Patients with mild to moderate chronic liver disease without cirrhosis usually tolerate surgery well.
+
+【8】Risk scores for patients with cirrhosis — Several scoring systems have been developed to predict the risk of postoperative mortality in patients with cirrhosis.
+
+【9】 The Child-Pugh classification has been used to assess the risk of non-shunt operations in patients with cirrhosis. One to three points are assigned to each of five parameters (encephalopathy, ascites, bilirubin, albumin, and prothrombin time \[PT\] or international normalized ratio \[INR\]). Patients with a score of 5 or 6 have Child-Pugh class A cirrhosis (well-compensated cirrhosis), those with a score of 7 to 9 have Child-Pugh class B cirrhosis (significant functional compromise), and those with a score of 10 to 15 have Child-Pugh class C cirrhosis (decompensated cirrhosis).
+
+【10】In studies conducted over multiple decades, the Child-Pugh score has correlated with perioperative mortality and morbidity.
+
+【11】 The Model for End-stage Liver Disease (MELD) score was developed to predict short-term survival in patients awaiting liver transplant. The MELD score is increasingly used in other settings, including prediction of perioperative mortality in patients with cirrhosis who undergo non-transplant surgery.
+
+【12】The MELD score is a continuous scale (with higher values representing more severe liver disease) based on a formula that assigns weights to the patient’s serum bilirubin, creatinine, and INR. Multiple studies have evaluated the use of the MELD score for predicting postoperative morbidity and mortality in patients with cirrhosis . In general, a MELD score of 10 to 15 confers increased perioperative risk, and patients with MELD scores >15 should not undergo elective surgery.
+
+【13】In 2016, the MELD score was modified to include serum sodium concentration and to recognize hyponatremia as an independent prognostic factor that was not included in the original MELD score . Studies have shown that MELD-Na and MELD scores predict perioperative risk and 30 day mortality similarly .
+
+【14】 The Mayo Risk Score is an online calculator designed to predict post-operative mortality in patients with cirrhosis, using the MELD parameters, age, American Society of Anesthesiologists (ASA) physical status classification, and etiology of liver disease ( calculator 1 ). It is based upon single center data from nearly 800 patients published in 2007 . In a validation study, it was found to overestimate mortality .
+
+【15】 The Veterans Outcomes and Costs Associated with Liver Disease-University of Pennsylvania Score ( VOCAL-Penn Risk Score ), was derived from data on nearly 3800 patients undergoing 4700 surgeries between 2008 and 2016 at 128 Veterans Affairs hospitals . This score contains the elements of the Mayo Risk Score, plus surgery category (abdominal laparoscopic, abdominal open, abdominal wall, vascular, orthopedic and chest/cardiac), which improved the VOCAL-Penn model's discrimination versus the Mayo Risk Score (C-statistic 0.859 versus 0.766, respectively).
+
+【16】Risk associated with type of surgery — As the VOCAL-Penn Risk score illustrates, the location of the surgical procedure is an important risk factor for postoperative liver failure in patients with pre-existing liver disease. Cardiac surgery, abdominal surgery, and hepatic resection are all associated with increased postoperative mortality compared with more peripheral surgery, presumably due to greater reductions in hepatic blood flow. Less invasive approaches, such as laparoscopy rather than laparotomy, or endoscopic stenting or percutaneous biliary drainage rather than cholecystectomy, may reduce risk.
+
+【17】Laboratory evaluation — Preoperative laboratory testing for patients with liver disease should include those tests that are likely to impact management, including hemoglobin, white cell count, platelet count, electrolytes, glucose, blood urea nitrogen, creatinine, prothrombin time (PT)/international normalized ratio (INR), partial thromboplastin time (aPTT), fibrinogen, transaminase levels (alanine aminotransferase \[ALT\], aspartate aminotransferase \[AST\]), bilirubin and albumin. Other blood tests may be indicated, based on patient comorbidities.
+
+【18】Imaging may be warranted if cholecystitis, primary or metastatic cancer, or hepatic injury is suspected. Volumetric studies are helpful for estimating the size of the remnant liver after liver resection.
+
+【19】Liver function tests — Liver biochemical and function tests are commonly called liver function tests (LFTs), though many of the tests are not direct measures of liver function, and these tests are not liver specific. LFTs include aminotransferases (most commonly ALT and AST), alkaline phosphatase, tests of synthetic function (ie, albumin and PT or INR), and bilirubin.
+
+【20】 **Patients without known liver disease** – Routine screening with LFTs is not recommended; regardless, these tests are sometimes performed preoperatively. If the results are less than twice the normal range, it is reasonable to repeat the abnormal tests to make sure they are not increasing. If the results are greater than twice the normal range, or increasing, elective surgery should be postponed and the patient should be evaluated further.
+
+【21】 **Patients with known liver disease** – Serum aminotransferases are elevated in most liver diseases and in disorders that involve the liver (such as various infections, acute and chronic heart failure, and metastatic carcinoma). The highest elevations occur in disorders associated with extensive hepatocellular injury, such as acute viral hepatitis, ischemic hepatitis (shock liver), and acute drug- or toxin-induced liver injury, all of which are contraindications to elective surgery.
+
+【22】Albumin, bilirubin, and PT are laboratory parameters included in the Child-Pugh classification of the severity of cirrhosis, and bilirubin, INR, sodium, and creatinine are parameters included in the MELD score.
+
+【23】Other organ systems — For patients with known liver disease, a comprehensive medical assessment should be performed, recognizing that nearly every organ system may be affected by liver disease, with implications for perioperative management. Preoperative optimization should be individualized and approached by a multidisciplinary team. There is little evidence to support specific goals for preoperative care for these patients.
+
+【24】 **Encephalopathy** – Hepatic encephalopathy is a multifaceted disorder that may occur in chronic liver disease. Metabolic factors can contribute to encephalopathy, some of which may be modified by anesthetic management. Hypoxia, hypovolemia, alkalemia, hypoglycemia, hypokalemia, and hyponatremia can all precipitate hepatic encephalopathy, and should be avoided in patients with liver disease. Sedatives (particularly benzodiazepines) can exacerbate hepatic encephalopathy, and in addition, encephalopathic patients are particularly sensitive to sedatives and hypnotics.
+
+【25】 **Cardiovascular disease** – Cardiovascular complications are common in patients with liver disease and are a major risk factor for postoperative mortality and morbidity. Patients with cirrhosis typically have a hyperdynamic circulation with low systemic vascular resistance (SVR) and high cardiac output (CO). Cardiovascular abnormalities increase with worsening hepatic function, and up to 50 percent of patients with advanced cirrhosis have features of cardiac dysfunction. The term "cirrhotic cardiomyopathy" has been used to describe a condition including normal to increased cardiac output and contractility at rest, accompanied by a blunted response to pharmacologic, physiologic, or pathologic stress that may result in overt heart failure . Perioperative intravenous (IV) fluids should be managed carefully to avoid volume overload.
+
+【26】Patients with liver disease are as likely as age-matched controls to have coronary artery disease, but may not be symptomatic due to functional limitations associated with liver disease. Minimally invasive tests for coronary disease are commonly used to screen patients with two or more coronary risk factors.
+
+【27】Some forms of liver disease, including metabolic dysfunction-associated steatohepatitis (MASH; formerly known as nonalcoholic steatohepatitis \[NASH\]) or metabolic dysfunction-associated steatotic liver disease (MASLD: formerly known as nonalcoholic fatty liver disease \[NAFLD\])  and hepatitis C  may be associated with an increased incidence of coronary artery disease and cardiac morbidity and mortality.
+
+【28】Primary prophylaxis for esophageal variceal bleeding often includes the use of beta blockers, which may predispose patients to perioperative hypotension, and limit the utility of dobutamine stress testing due to inability to reach target heart rates.
+
+【29】Patients with portal hypertension may develop portopulmonary hypertension (PPHTN). Thus, cirrhotic patients undergoing major surgery should be screened preoperatively with resting echocardiography. Severe PPHTN (ie, mean pulmonary artery pressure >50 mmHg) is a contraindication for liver transplant, and transplant should be delayed until pulmonary hypertension is treated. These patients are at risk for right heart failure, and like other patients with pulmonary hypertension, are at increased risk of perioperative morbidity and mortality.
+
+【30】Anesthetic management for patients with pulmonary hypertension is discussed separately.
+
+【31】 **Pulmonary complications** – Patients with ascites may develop shortness of breath, ventilation/perfusion mismatch, pleural effusion, and decreased lung capacity. Those with massive ascites may not tolerate lying supine for induction of anesthesia, or during procedures performed under monitored anesthesia care or regional anesthesia. Patients with encephalopathy are at increased risk for pulmonary aspiration.
+
+【32】Patients with chronic liver disease and portal hypertension may develop hepatopulmonary syndrome (HPS). The pathogenic mechanisms for HPS have not been clearly delineated, but are thought to be due to intrapulmonary vascular dilatations (IPVDs). IPVDs cause hypoxemia mostly via ventilation-perfusion mismatch and oxygen diffusion limitation. The etiology and pathogenesis of HPS is discussed in detail separately.
+
+【33】Patients with mild to moderate HPS may be treated with supplemental oxygen, and may require high intraoperative inspired oxygen concentrations if they come to surgery. Patients with severe HPS are typically evaluated for liver transplant as transplantation improves HPS.
+
+【34】 **Portal hypertension** – Many of the complications of cirrhosis are the result of portal hypertension, which can result in formation of varices, circulatory, functional and biochemical abnormalities, and ascites. During abdominal surgery, goals of fluid administration should be to decrease pressure in the portal system to reduce bleeding.
+
+【35】 **Renal dysfunction** — Liver disease can cause a progressive decline in renal function, characterized by retention of sodium and free water, renal hypoperfusion, and decreased glomerular filtration, which can lead to hepatorenal syndrome (HRS). Renal dysfunction is an important risk factor for mortality, and serum creatinine is one of the parameters in the MELD score.
+
+【36】Cirrhotic patients are also at high risk for more common causes of renal dysfunction, such as parenchymal renal disease, sepsis, nephrotoxicity, and hypovolemia. HRS is a diagnosis of exclusion, and other potentially treatable causes must be ruled out since therapies differ. Unlike these other etiologies for renal dysfunction, the use of potent vasoconstrictors (eg, norepinephrine or vasopressin ) may be beneficial for patients with liver disease related renal dysfunction or HRS. The perioperative management of liver disease related renal dysfunction includes monitoring urinary output, avoidance of hyperkalemia and acidosis, and limiting exposure to nephrotoxins such as aminoglycosides.
+
+【37】 **Electrolyte abnormalities** – Hyponatremia develops slowly in patients with cirrhosis and parallels the progression of the disease. In general, serum sodium should not be corrected in these patients unless the serum sodium drops below 120 mEq/L, or neurologic symptoms develop. If hyponatremia needs to be corrected, it should be corrected slowly to avoid central pontine myelinolysis.
+
+【38】Hypokalemia and metabolic alkalosis can occur with liver disease, and may trigger or exacerbate hepatic encephalopathy. Hypokalemia should be corrected preoperatively, and ventilation should be managed to achieve a normal end tidal CO 2 .
+
+【39】 **Pain** – Pain is prevalent in patients with liver disease, and is chronic in over one-half of patients ; opioids are widely used in patients with liver disease . Altered pharmacokinetics and pharmacodynamics in these patients may make pain management extremely challenging .
+
+【40】Abdominal pain is the most common complaint, and may be caused by ascites, hepatic capsular distension, and splenomegaly. A fibromyalgia-like syndrome, which is related to a pro-inflammatory state, can be found in patients with cirrhosis . Pain-related sleep and mood disorders are also common in patients with liver disease.
+
+【41】PERIOPERATIVE COAGULATION MANAGEMENT 
+
+【42】Perioperative hemostatic management for patients with liver disease undergoing surgery should be individualized. The general approach to coagulation management in patients with liver disease includes correcting vitamin K deficiency, optimizing the platelet count and fibrinogen level, and avoiding the use of international normalized ratio (INR) values to guide therapy.
+
+【43】 **Administer** **vitamin K** – In anticipation of surgery for patients with liver disease and abnormal hemostatic laboratory tests, we administer vitamin K for patients with suspected deficiency (eg, patients with poor nutrition, cirrhosis, cholestatic disease, antibiotic use).
+
+【44】 **Platelet transfusion** – In patients with microvascular bleeding, or anticipating moderate to high risk surgery or intervention, we usually transfuse platelets to achieve a platelet count ≥50,000/microL. Abnormalities in platelet number and function in liver disease are in part compensated for by increased levels of von Willebrand factor (vWF), a platelet adhesive protein, and by decreased levels of ADAMTS13, the VWF-cleaving protease. Thrombin generation is preserved with platelet counts exceeding 50,000/microL, making this value a practical target in the setting of invasive procedures . In patients undergoing minimal risk procedures, platelet counts ≥20,000/microL are well tolerated. In patients undergoing major surgery in a closed space such as craniotomy, a high platelet count (>100,000/microL) may be required.
+
+【45】 **Maintain fibrinogen** – Fibrinogen plays a central role in clot stabilization. Guidelines for management of patients with severe perioperative bleeding  and for patients with severe liver disease who undergo surgery  suggest maintaining the fibrinogen level 150 to 200 mg/dL . In minimally invasive procedures including gastrointestinal and interventional radiological procedures, maintaining the fibrinogen level >100 mg/dL is recommended. When fibrinogen is needed, either cryoprecipitate or fibrinogen concentrate is administered depended on availability and preference.
+
+【46】 **Avoid using fresh frozen plasma** – Standard coagulation testing with prothrombin time (PT) or INR is of limited value in patients with advanced liver disease. We **do not** routinely administer fresh frozen plasma to correct the INR. In patients with portal hypertension, administration of fresh frozen plasma elevates portal pressures, which can worsen bleeding. Viscoelastic tests (thromboelastography \[TEG\] or rotational thromboelastometry \[ROTEM\]) may be more appropriate than PT, INR, and partial thromboplastin time (aPTT) since TEG and ROTEM measure clot formation and lysis including the kinetics of clot formation, clot strength, interaction between endogenous pro- and anti-coagulation components, fibrinolysis and to some extent, platelet function.
+
+【47】MANAGEMENT OF ANESTHESIA
+
+【48】Monitoring — In addition to standard anesthesia monitors, we have a low threshold for placing an intraarterial catheter for patients with severe liver disease to allow continuous blood pressure monitoring, and to facilitate blood sampling. The decision is based on the severity of liver disease and systemic vasodilation, coexisting diseases of other organ systems, the type and duration of surgery, anticipated intraoperative blood loss, the need for intraoperative laboratory studies, and patient age.
+
+【49】The usefulness of central venous pressure (CVP) monitoring is controversial , and many clinicians have abandoned CVP monitoring in the setting of liver resection . In our practice, we do not place a central venous catheter (CVC) exclusively for pressure monitoring, but may place a CVC for venous access, or for vasopressor administration.
+
+【50】Transesophageal echocardiography (TEE) is a sensitive cardiac monitor, but placement of the TEE probe may be of concern in patients with esophageal varices and coagulopathy, and the use of TEE in these patients should be individualized. However, the risk of complications and esophageal hemorrhage in patients with severe liver disease appears to be low. In two large retrospective studies of TEE use during liver transplant, the incidence of major gastroesophageal injury was <0.86 percent . In a small series of patients with esophageal varices, TEE universally aided in diagnosis and was not associated with bleeding complications, although transgastric views were avoided to minimize esophageal manipulation .
+
+【51】Choice of anesthetic technique — The choice of anesthetic technique for patients with liver disease should be based on the surgical procedure and patient factors, similar to patients without liver disease. Neuraxial anesthesia, general anesthesia, and monitored anesthesia care may be options. Specific concerns include the following:
+
+【52】 Neuraxial anesthesia (ie, spinal or epidural) can cause systemic hypotension and reduced hepatic blood flow as a result of neuraxial block induced sympathectomy. Intravenous (IV) fluids and vasopressors are commonly administered to reverse such hypotension, but the literature on the effectiveness of vasopressors on hepatic blood flow in this setting is conflicting . High thoracic neuraxial block (ie, T5) may reduce hepatic blood flow, and this effect may not be reversed with vasopressors.
+
+【53】 Neuraxial anesthesia procedures are contraindicated in patients with severe coagulopathy and/or thrombocytopenia because of increased risk of spinal epidural hematoma.
+
+【54】Hepatic resection can cause new postoperative coagulopathy. Removal of an epidural catheter placed for postoperative pain control may cause epidural blood vessel injury and spinal epidural hematoma. The catheter should not be removed unless the platelet count and coagulation studies are at a level that would allow neuraxial needle insertion.
+
+【55】The precise laboratory values and platelet count necessary to safely perform neuraxial anesthesia is unknown, and practice varies. The decision to perform peripheral nerve blocks in patients with coagulopathy should be individualized; bleeding complications may occur .
+
+【56】Effects of anesthetics on the liver — Anesthetic medications can affect the liver by influencing hepatic blood flow and/or by producing hepatotoxic byproducts. Drugs with high extraction ratios are significantly affected by alteration in hepatic blood flow, which can occur with hemodynamic changes or hepatic inflow clamping during liver resection.
+
+【57】 **Volatile anesthetics** – Halothane, which is used outside the United States, should not be used for patients with liver disease.
+
+【58】The other currently used volatile anesthetics (ie, isoflurane , sevoflurane , and desflurane ) may reduce hepatic blood flow, but are not associated with hepatic toxicity.
+
+【59】• **Hemodynamic effects** – All volatile anesthetics decrease hepatic blood flow (HBF) to a degree. Isoflurane and sevoflurane result in very little reduction of hepatic blood flow at 1 minimum alveolar concentration (MAC) , though at higher doses, isoflurane causes a dose dependent reduction in HBF. Desflurane can decrease HBF by 30 percent at 1 MAC . Halothane (no longer used in the United States) produces a greater reduction in cardiac output (CO) and hepatic oxygen supply than the other volatile anesthetics . The degree to which these hemodynamic changes take place in patients with advanced liver disease has not been well studied.
+
+【60】• **Hepatotoxicity** – As a general rule, the degree of hepatic metabolism of anesthetic agents correlates with the likelihood of a toxic reaction. Of the haloalkanes used in practice, halothane (available outside the United States) has been associated with the greatest risk of hepatotoxicity, including acute, severe hepatitis, "halothane hepatitis." Halothane hepatitis is discussed separately.
+
+【61】The newer anesthetics, isoflurane and desflurane , undergo less metabolism to trifluoroacetyl chloride (TFA), which is thought to be involved in halothane hepatic toxicity, than halothane  . Hepatic injury is extremely rare, if it exists, with isoflurane and desflurane. Sevoflurane does not undergo metabolism to TFA and has not been associated with immune mediated hepatic injury.
+
+【62】Sevoflurane metabolism produces fluoride and hexafluoroisopropanol (HFIP), which are conjugated by the liver and excreted by the kidney. There is no evidence that these metabolites or compound A, another metabolite produced in a reaction with carbon dioxide (CO 2 ) absorbents, cause hepatic injury .
+
+【63】 **Nitrous oxide** **(N** **2** **O)** – N 2 O is not known to cause liver injury, though it may decrease hepatic blood flow mostly by sympathetic stimulation . N 2 O can inhibit methionine synthase even after brief exposure, though the clinical significance of these effects in healthy patients is not clear . Patients with vitamin B12 deficiency, such as some patients with cirrhosis, may be at increased risk for neurotoxicity with exposure to N 2 O .
+
+【64】 **IV anesthetics** – IV anesthetics (eg, propofol , etomidate , midazolam ), when used for induction of anesthesia or for short procedures, do not appear to affect liver function, as long as CO and blood pressure (BP) are maintained.
+
+【65】Effects of liver disease on anesthetic drug administration — Liver disease can affect the pharmacokinetics of anesthetic drugs by changing drug metabolism, protein binding, and volume of distribution. In addition, efficiency of drug removal can be limited by reduction in hepatic blood flow due to portocaval shunting, hemodynamic changes, or reduced hepatic inflow during liver resection.
+
+【66】Selection of drugs and dose adjustments depend on the severity of liver disease. Patients with mild liver disease can usually be treated with a similar choice of drugs as those who are otherwise healthy. Susceptibility to adverse effects increases with worsening liver function due to altered pharmacokinetics and hemodynamic changes. Modifications (eg, dose reduction, titration to effect) should be considered for patients who have developed advanced chronic liver disease (eg, bridging fibrosis on biopsy) or cirrhosis, particularly when accompanied by portal hypertension (such as those with esophageal varices, ascites, or portal gastropathy/colopathy) or renal insufficiency.
+
+【67】In general, metabolism of drugs with high liver extraction ratios (eg, lidocaine , meperidine ) is affected by reduction in hepatic blood flow. Metabolism of drugs with low extraction ratios (eg, midazolam ) is affected more by protein binding and hepatocellular dysfunction.
+
+【68】Sedative hypnotics
+
+【69】 **Induction agents** – In clinical practice, clearance of standard induction doses of propofol , thiopental (outside the United States), etomidate , methohexital , and ketamine are similar in patients with liver disease and healthy patients . Patients with liver disease are more sensitive to the pharmacodynamic effects of induction agents, and clinical recovery times may be prolonged after discontinuation of propofol infusions.
+
+【70】 **Benzodiazepines** – Benzodiazepines are medications with low extraction ratios. Both elimination half-life and free drug are increased in patients with severe liver disease. Enhanced sedation and prolonged duration of action should be anticipated, especially with repeat doses. Reduced doses of midazolam should be administered, and titrated to effect.
+
+【71】 **Dexmedetomidine** – Dexmedetomidine is metabolized primarily in the liver. As a result, clearance is decreased, and half-life of elimination may be prolonged in patients with severe liver disease. Dosing may be limited by bradycardia. Although dexmedetomidine may be associated with decreased delirium and duration of mechanical ventilation, it has not been studied extensively in liver disease patients .
+
+【72】Opioids — Metabolism of opioids is reduced in patients with liver disease, and dosing intervals should be increased to avoid drug accumulation. The elimination of a single IV opioid bolus is less affected than a continuous infusion because of bolus redistribution to storage sites. Modifications of analgesics and pharmacokinetic changes in liver disease are shown in a table .
+
+【73】 **Fentanyl** – Elimination of a bolus dose of fentanyl is not appreciably altered in patients with cirrhosis , though with repeat administration or infusion, prolonged effects can occur.
+
+【74】 **Morphine** – Clearance of morphine may be delayed by 35 to 60 percent in patients with cirrhosis . Morphine should be titrated to effect, with the dose and frequency reduced by 50 percent in patients with severe liver disease.
+
+【75】 **Hydromorphone** – Hydromorphone is metabolized by the liver. Elimination is impaired and the half-life is prolonged in patients with advanced chronic liver disease or cirrhosis. Hydromorphone should be administered in reduced doses, titrated to effect, at increased dosing intervals.
+
+【76】 **Meperidine** – Meperidine should be avoided for patients with cirrhosis or advanced chronic liver disease. The plasma clearance of both meperidine and its neurotoxic metabolite, normeperidine, are reduced after a single IV dose .
+
+【77】 **Remifentanil** – Remifentanil is rapidly hydrolyzed by blood and tissue esterases. The clearance and elimination and recovery from the effects of remifentanil are unchanged in patients with severe liver disease .
+
+【78】Other analgesics — The strategy for perioperative pain control usually incorporates a multimodal opioid sparing approach that may include acetaminophen , antidepressants, and anticonvulsants. Acetaminophen doses of 2 g/day are generally considered safe in patients with liver disease. For short-term use, acetaminophen up to 4 g/day in low risk patients and 2-3 g/day in high risk patients may be considered. Nonsteroidal antiinflammatory drugs (NSAIDs) are considered less safe due to their renal toxicity and bleeding risk , optimal choice of drugs and dose in the surgical setting is not known. Administration of such medications in patients with liver disease in the nonsurgical setting is discussed separately and in a table .
+
+【79】Neuromuscular blocking agents — Liver disease may affect the onset, metabolism, and duration of action of neuromuscular blocking agents (NMBAs). NMBAs should be titrated to effect, and administration should be guided by monitoring with a peripheral nerve stimulator. The reversal agent sugammadex is excreted in the urine unchanged, and there is concern about the possible recurrence of neuromuscular blockade in patients with end-stage kidney disease that may accompany severe liver disease. However, a multicenter retrospective review of 158 surgical patients with end-stage kidney disease who received sugammadex reversal reported no cases of recurrence of neuromuscular blockade .
+
+【80】 **Succinylcholine** – Succinylcholine is metabolized by plasma cholinesterase, an enzyme that may be reduced in patients with advanced liver disease. The duration of action of succinylcholine may be prolonged in such patients , though this is rarely of clinical significance. Mivacurium (no longer available in the United States or Canada) is also metabolized by plasma cholinesterase, and neuromuscular block may be prolonged in patients with advanced liver disease .
+
+【81】 **Rocuronium** **and** **vecuronium** – Both rocuronium and vecuronium are metabolized by the liver. Clearance, elimination, and duration of neuromuscular block are prolonged in patients with advanced liver disease . Despite these changes, resistance to the initial dose of NMBA typically occurs due to elevated gamma-globulin concentrations and an increase in the volume of distribution (due to edema and/or ascites).
+
+【82】 **Atracurium** **and** **cisatracurium** – Atracurium and cisatracurium undergo organ-independent elimination, and their elimination half-life and duration of action are not affected by liver disease .
+
+【83】Hemodynamic management — Goals for hemodynamic management for patients with liver disease include maintenance of hepatic perfusion, and for patients who undergo abdominal surgery, decreasing portal pressure to minimize bleeding.
+
+【84】Goal blood pressure — The goal BP during induction and maintenance of anesthesia should be the patient's baseline. Many patients with liver disease have hyperdynamic circulation, characterized by low systemic vascular resistance (SVR), borderline hypotension, and elevated CO. These patients frequently require vasopressor support to avoid hypotension during induction and maintenance of anesthesia.
+
+【85】Vasopressors — Patients with liver disease have complex circulatory abnormalities including autonomic dysfunction and reduced responsiveness to vasoconstrictors (ie, angiotensin 2, norepinephrine , and vasopressin ) . In addition, patients with severe liver disease may be depleted of endogenous vasopressin . These patients may require higher doses of the vasopressors that are usually administered during anesthesia (eg, phenylephrine or ephedrine ). Norepinephrine and/or vasopressin may be required for BP support.
+
+【86】Intravenous fluids — In patients undergoing abdominal surgery, fluid restriction should be considered, with or without CVP monitoring, in order to lower portal pressures and reduce bleeding. In chronic liver disease, serum albumin function is quantitatively and qualitatively decreased . We use albumin rather than crystalloid for perioperative volume expansion in liver disease patients with ascites or hypoalbuminemia to minimize postoperative edema. Specific indications for albumin include intravascular volume expansion after large-volume  paracentesis, in the presence of spontaneous bacterial peritonitis to prevent worsening renal impairment, and in conjunction with splanchnic vasoconstrictors for type 1 hepatorenal syndrome .
+
+【87】The threshold for red blood cell transfusion for patients with liver disease should be similar to the threshold for other patients, while considering the rate of bleeding and comorbidities (eg, cardiovascular disease).
+
+【88】Ventilation — Lung protective ventilation strategy (low tidal volume with PEEP and intermittent lung volume recruitment) is advocated for all patients by some investigators, and by this author.
+
+【89】Hypoxemia in liver disease patients may be related to ascites, pleural effusion, or atelectasis secondary to these conditions.
+
+【90】Coagulation management — Intraoperative coagulation management is discussed above.
+
+【91】Postoperative care — Patients with severe liver disease, significant comorbidities, or extensive intraoperative blood loss may require postoperative intensive care. Opioids and sedatives should be used cautiously in the postoperative period. IV fluids should be managed carefully to avoid ascites, edema, and/or heart failure .
+
+【92】Postoperative liver abnormalities — Mild elevations of liver enzymes (ie, less than twice normal) occur frequently after surgery, particularly after upper abdominal procedures. When such mild elevations occur, the tests should be repeated; increases are typically transient and of no clinical consequence. The newer volatile anesthetic agents rarely cause postoperative elevations of liver function tests (LFTs) .
+
+【93】LFT elevations more than twice normal suggest hepatocellular injury, which can be the result of hypoxemia, viral or bacterial insult, trauma, or chemical toxicity.
+
+【94】Postoperative jaundice is commonly caused by reabsorption of surgical or traumatic hematomas, or red blood cell transfusion. Massive intraoperative blood transfusion results in a large bilirubin load, which may overwhelm the liver.
+
+【95】ANESTHESIA FOR HEPATIC RESECTION 
+
+【96】Open or laparoscopic liver resection may be performed for a variety of indications, including benign or malignant lesions and donation for transplant.
+
+【97】Hepatic resection is performed with general anesthesia. Important issues for anesthesia for hepatic resection are discussed here.
+
+【98】Hemorrhage — There is always potential for sudden, rapid hemorrhage during hepatic resection, though a minority of patients require transfusion . Blood loss depends partially on the extent of surgery; since the right lobe usually represents two-thirds of the liver mass, right lobe resection is associated with more extensive liver transection, blood loss, and alterations in clotting factor synthesis. A preoperative blood type and screen should be performed. We usually crossmatch 2 to 4 units of packed red blood cells prior to the start of surgery.
+
+【99】We place two large-bore  intravenous (IV) catheters. We also place an intraarterial catheter for continuous blood pressure (BP) monitoring, and to facilitate blood sampling, for most patients who undergo hepatic resection. Additional monitoring is dictated by the patient's medical status.
+
+【100】Intraoperative cell salvage can be considered in patients at high risk of bleeding, though its use is controversial in cases of primary or metastatic malignancy .
+
+【101】Low central venous pressure anesthesia — We aim for euvolemia or mild hypovolemia, and avoid hypervolemia during hepatic resection. IV fluid management during hepatic resection is controversial. A strategy of restrictive fluid administration (with or without administration of vasodilators and/or diuretics), referred to as "low central venous pressure (CVP) anesthesia," has been suggested during these procedures to reduce blood loss. The goal is to lower the CVP during hepatic resection to reduce the pressure in hepatic and portal veins and the vena cava, which are often the sites of bleeding. In most studies, a CVP <5 cm H 2 O is used to define low CVP anesthesia, though CVCs are now rarely used intraoperatively to monitor volume status.
+
+【102】The value and necessity of CVP monitoring and low CVP management in this setting are debated. Retrospective reviews of living related donor hepatectomies have reported that CVP monitoring did not reduce blood loss , and that blood loss did not correlate with CVP level . However, a meta-analysis of 18 randomized trials including 1285 patients found that blood loss and transfusion were less with low CVP management for hepatectomy, compared with standard management .
+
+【103】The optimal methods for achieving a low CVP (eg, fluid restriction, vasodilators, diuretics) and the optimal goal CVP are not clear. The head-up position should not be used to reduce CVP, as the hepatic vein pressure does not change , and the head-up position may increase the risk of venous air embolism with a low CVP.
+
+【104】Pringle maneuver — The vascular inflow to the liver may be interrupted during hepatic transection to prevent or control bleeding. The Pringle maneuver typically consists of intermittent clamping of the hepatic artery and portal vein for periods of 15 to 20 minutes; however, prolonged clamping exceeding 120 minutes has been tolerated . Total vascular exclusion, in which the venous outflow of the liver is occluded in addition to the inflow vessels, is advantageous for minimizing bleeding in resections involving hepatic veins and the inferior vena cava . These maneuvers have the potential to decrease venous return and cardiac output.
+
+【105】Coagulopathy and epidural analgesia — Even patients with normal preoperative coagulation can develop coagulopathy after liver resection, with implications for neuraxial analgesic procedures.
+
+【106】The severity of postoperative coagulopathy correlates with the extent of the resection, peaks on postoperative day 1 to 2, and may take up to five or more days to resolve . For patients who have an epidural catheter placed for postoperative pain control after open hepatic resection, the catheter should not be removed while clotting parameters are abnormal. Catheter removal may cause epidural blood vessel injury and spinal epidural hematoma. At our center, we offer epidural analgesia for postoperative management when the future liver remnant is ≥60 to 70 percent of total liver volume, realizing that the extent of resection may change intraoperatively based upon intraoperative ultrasound.
+
+【107】Alternatives to epidural analgesia for postoperative pain control include intrathecal opioids, single-shot or continuous peripheral nerve blocks and fascial plane blocks .
+
+【108】ANESTHESIA FOR TRANSHEPATIC PORTOSYSTEMIC SHUNT 
+
+【109】Transhepatic portosystemic shunt (TIPS) is a percutaneous angiographic procedure that creates a shunt between the hepatic vein and the intrahepatic portal vein to decompress the portal system. After an internal jugular vein puncture, a needle catheter is passed through the vena cava into the hepatic vein. The needle is extruded and passed through the liver parenchyma to the portal vein. Accessing the portal vein may require multiple attempts, and the procedure may take several hours.
+
+【110】TIPS may be performed with monitored anesthesia care, or with general anesthesia. General anesthesia is preferred for patients who would rather be asleep, and for those who are unable to tolerate the supine position for the duration of the procedure. Since TIPS worsens encephalopathy, most patient who are scheduled for TIPS do not have significant encephalopathy. However, for patients with altered mental status, general anesthesia with endotracheal intubation may be preferred to reduce the risk of aspiration.
+
+【111】Important considerations for anesthesia include the following:
+
+【112】 TIPS is usually performed for patients with severe or end stage liver disease, often with massive ascites.
+
+【113】They may be unable to tolerate lying flat, and are at risk for aspiration with induction of anesthesia or with sedation at a depth that compromises airway protective reflexes. For general anesthesia, rapid sequence induction and intubation is usually indicated.
+
+【114】 These procedures are performed in the angiography suite, and the head of the operating table may be turned away from the anesthesiologist. Access to the airway is limited, with the face under sterile drapes.
+
+【115】 Coagulopathy should be assessed and corrected before the procedure. Goals should be a platelet count >50,000/microL and fibrinogen >150 to 200 mg/dL, without attempts to correct the INR. Viscoelastic testing (ie, thromboelastography or thromboelastometry) may be used to guide therapy, if available. A blood type and screen should be performed prior to TIPS.
+
+【116】 Volume resuscitation may be required prior to TIPS for patients who have had variceal hemorrhage. If large volume paracentesis (ie >5 L ascites removed) is performed prior to the procedure to facilitate portal vein puncture, albumin should be administered, rather than crystalloid, for IV volume repletion.
+
+【117】Either 5 percent or 25 percent albumin may be administered. Twenty five percent albumin is preferred for patients with significant hyponatremia (ie, serum sodium <130), which is common in this patient population, since it contains less sodium than 5 percent albumin. This helps avoid a rapid rise in serum sodium, which is associated with osmotic demyelination syndrome.
+
+【118】 Immediate, intra-procedure complications of TIPS include vascular injury, hemorrhage, pneumothorax, and dysrhythmia.
+
+【119】 TIPS creates a rapid increase in venous return to the heart and can unmask previously undiagnosed cardiac dysfunction or pulmonary hypertension. Rapid hemodynamic deterioration, during the procedure or in the immediate postoperative period, is unusual, but may occur.
+
+【120】 **Preoperative evaluation and management**
+
+【121】• The preoperative history and physical examination for any patient should include the risk factors, signs, and symptoms of liver disease. Routine screening with liver function tests (LFTs) is not recommended.
+
+【122】• Nearly every organ system may be affected by liver disease, with implications for perioperative management.
+
+【123】• Elective surgery should be postponed for patients with acute viral or alcoholic hepatitis and for patients with acute liver failure .
+
+【124】• The prothrombin time (PT) and international normalized ratio (INR) are not good predictors of bleeding in patients with liver disease. In anticipation of surgery, we do not routinely transfuse platelets, fresh frozen plasma or cryoprecipitate. For moderate to high risk procedures, we maintain fibrinogen levels ≥150 to 200 mg/dL and platelets of >50,000/microL.
+
+【125】 **Effects of anesthetics on the liver**
+
+【126】• Anesthetics can affect the liver by reducing hepatic blood flow, or by producing hepatotoxic byproducts.
+
+【127】• The currently used volatile anesthetic agents ( isoflurane , sevoflurane , desflurane ) are not associated with hepatotoxicity. Halothane (used outside the United States) should not be administered to patients with liver disease because of the risk of hepatotoxicity, and reduction in cardiac output and hepatic oxygen supply.
+
+【128】• Intravenous (IV) anesthetics do not appear to affect liver function, as long as cardiac output (CO) and blood pressure (BP) are maintained.
+
+【129】 **Effects of liver disease on pharmacokinetics** – Liver disease can affect the pharmacokinetics of anesthetic drugs by changing drug metabolism, protein binding, and volume of distribution. In general, sedatives and opioids should be administered in small doses and titrated to effect .
+
+【130】• **Benzodiazepines** – The half-life of elimination is increased in patients with liver disease; enhanced sedation and prolonged duration of action should be expected.
+
+【131】• **Opioids** – Metabolism may be reduced in patients with liver disease, particularly for morphine and hydromorphone . Elimination of fentanyl is not appreciably altered in patients with liver disease, unless repeat doses are administered. Elimination and recovery from remifentanil are unchanged by liver disease.
+
+【132】• **Neuromuscular blocking agents (NMBAs)** – Duration of action of succinylcholine may be prolonged in patients with liver disease, but rarely to a clinically relevant degree. Clearance, elimination, and duration of action of rocuronium and vecuronium are prolonged in patients with liver disease. Metabolism of atracurium and cisatracurium are unaffected by liver disease.
+
+【133】 **Hemodynamic management** – Goals for hemodynamic management include maintenance of hepatic perfusion and, for patients who undergo abdominal surgery, decreased portal pressure with restrictive fluid therapy to minimize bleeding. For patients with ascites or hypoalbuminemia, we administer albumin rather than crystalloids for perioperative volume expansion.
+
+【134】Patients with severe liver disease may require higher doses of vasopressors, and may require norepinephrine or vasopressin to maintain BP.
+
+【135】 **Monitoring hemostasis** – During surgery, viscoelastic tests (ie, thromboelastography or thromboelastometry), fibrinogen levels, and platelet count are more useful than the PT/INR for monitoring hemostasis. We maintain a fibrinogen level of ≥150 to 200 mg/dL with administration of cryoprecipitate or fibrinogen concentrate . We also maintain a platelet count ≥50,000/microL for patients who undergo surgery and ≥100,000/microL for active bleeding and during craniotomy.
+
+【136】 **Hepatic resection** – Anesthetic concerns for hepatic resection include the following:
+
+【137】• There is always potential for significant hemorrhage.
+
+【138】• Fluid management: The value and necessity of “low CVP” anesthesia and fluid management for reducing blood loss during hepatic resection are unclear despite meta-analyses showing it is safe and effective. We aim for euvolemia, towards hypovolemia, and avoid hypervolemia during hepatic resection.
+
+【139】• Postoperative coagulopathy may occur after hepatic resection, and may affect the decision to place an epidural catheter for postoperative pain control because of the risk of spinal epidural hematoma. We offer epidural analgesia when the future liver remnant is predicted to be ≥60 to 70 percent of total liver volume.
+
+【140】 **Transhepatic portosystemic shunt (TIPS)** – TIPS may be performed with general anesthesia or monitored anesthesia care. Important anesthetic concerns include the following:
+
+【141】• Patients who undergo TIPS often have massive ascites and are therefore at risk of aspiration. They may be unable to lie flat.
+
+【142】• Preoperative volume resuscitation may be required for patients who have had variceal bleeding. If preoperative large volume paracentesis is performed, fluid replacement should include albumin rather than crystalloids.
+
+【143】• Intra-procedure complications of TIPS include vascular injury, hemorrhage, pneumothorax, and dysrhythmia.
+
+【144】• The increase in venous return to the heart associated with TIPS can unmask cardiac dysfunction or pulmonary hypertension.黄艳玲
+
+====================================================================================================

@@ -1,0 +1,181 @@
+【0】Pathogenesis and causes of spontaneous primary ovarian insufficiency (premature ovarian failure)
+
+【1】INTRODUCTION 
+
+【2】Primary hypogonadism in women is defined as ovarian failure accompanied by high serum follicle-stimulating hormone (FSH) concentrations. Premature ovarian failure (POF), now referred to as primary ovarian insufficiency (POI), is defined as primary hypogonadism in a woman under the age of 40 years.
+
+【3】POI is characterized by loss of oocytes, lack of folliculogenesis and ovarian estrogen production, and infertility. Transient or partial resumption of ovarian activity has been documented in over 50 percent of women with POI based upon hormonal measurements, pelvic ultrasonography, or conception .
+
+【4】There are several known causes of ovarian failure, including chromosomal defects like Turner syndrome and fragile X syndrome premutation carriers, exposure to radiation and certain drugs, and autoimmune disease. The list of mutations that can cause ovarian failure has increased rapidly, as discoveries from the human genome project and next-generation sequencing increase our understanding of the factors involved in ovarian development. Unfortunately, the etiology remains unknown in approximately 75 to 90 percent of cases .
+
+【5】The pathogenesis and causes of POI will be reviewed here ; its evaluation and treatment are discussed separately.
+
+【6】PATHOGENESIS 
+
+【7】Normal ovarian development is dependent on a carefully timed cascade of events; as a result, there are multiple potential etiologies for ovarian dysfunction. Pathophysiologically, these defects can be divided into two major categories:
+
+【8】 Accelerated follicle depletion
+
+【9】 Decreased steroid production without oocyte loss
+
+【10】Other theoretical causes of ovarian failure, including absent germ cell migration or defective ovarian development, have not yet been described, although some genes appear to play a role in normal ovarian development.
+
+【11】ACCELERATED FOLLICLE DEPLETION 
+
+【12】The genetic, autoimmune, and environmental or toxic causes of primary ovarian insufficiency (POI), formerly referred to as premature ovarian failure (POF), often result in accelerated follicle depletion. Complete follicular depletion indicates that there are no remaining primordial follicles in the ovary. For most women, this process is usually complete by approximately age 51 years (the average age of menopause). However, the rate of follicle depletion may be accelerated by a number of genetic disorders and ovarian toxins, resulting in early menopause.
+
+【13】Genetic causes
+
+【14】Common etiology — There is increasing evidence that the genetic cause of POI is heterogeneous . Whole exome or whole genome sequencing can identify the cause of POI in approximately 30 to 35 percent of patients . Additional genetic causes continue to be identified, but no therapies have been developed. Commercially available gene panels do not include all genes likely to be important and thus far, no therapies have become available based upon genetic testing. Therefore, we do not yet recommend routine genetic testing.
+
+【15】X chromosome disorders
+
+【16】Turner syndrome — The lack of a second X chromosome (Turner syndrome) is the most common chromosomal defect in humans, occurring in up to 1.5 percent of conceptions, 10 percent of spontaneous abortions, and 1 of 2500 live births . It is also one of the most common causes of POI.
+
+【17】The ovaries in Turner syndrome characteristically consist of small amounts of connective tissue and no follicles or only a few atretic follicles ("streak gonads"). The initial reported cases had extreme forms of this phenotype with absent pubertal development, primary amenorrhea, and multiple morphologic defects ; however, the degree of ovarian dysfunction and the extent of the defects are variable. While most affected women have no pubertal development and primary amenorrhea, some develop normally and then have secondary amenorrhea, and some have no morphologic defects and normal stature.
+
+【18】Early histologic studies of the ovaries of eight XO fetuses are the basis of the understanding of the gonadal failure in Turner syndrome . These ovaries contained apparently normal numbers of primordial germ cells up to at least 12 weeks of gestation, but at later gestational ages, the numbers of germ cells were decreased and connective tissue was increased, as compared with age-matched normal fetuses. These results indicate that the ovarian failure is more likely caused by accelerated atresia than by abnormal germ cell formation. The diagnosis of Turner syndrome is established by karyotypic analysis. This topic is reviewed in more detail separately.
+
+【19】Other X chromosome deletions/translocations — In addition to X monosomy and deletions in the short arm of the X chromosome causing Turner syndrome, X chromosome deletions, inversions, and duplications and balanced X chromosome-to-autosome translocations are the most common causes of POI. Small deletions and breakpoints in translocated X chromosomes lead to the identification of an X chromosome region critical for ovarian development and function: Xq13 to Xq26 with the exception of Xq22 . Unfortunately, mapping the precise location of these breakpoints has not elucidated genes involved in ovarian function, because a gene was not interrupted or the interrupted gene had no link to ovarian function. The exception is diaphanous ( _DIAPH2_ ), which was identified at a breakpoint in an X chromosome-to-autosome translocation in a woman with secondary amenorrhea . Mutations in the Drosophila melanogaster diaphanous homolog of _DIAPH2_ disrupt oogenesis and spermatogenesis, supporting a role for _DIAPH2_ in ovarian function .
+
+【20】Fragile X syndrome premutation carriers — There is a strong relationship between age at menopause, including POI, and premutations (defined below) for the fragile X syndrome (the fragile X messenger ribonucleoprotein 1 \[ _FMR1_ \] gene) . Fragile X syndrome is an X-linked form of intellectual disability that is one of the most common causes of developmental delay worldwide .
+
+【21】The genetics of the syndrome are complex. Affected subjects have more than 200 CGG repeats in the 5' untranslated region of the _FMR1_ gene; as a result, a full mutation refers to an allele with more than 200 repeats. Alleles with less than 40 CGG are normal, repeat lengths 40 to 55 are intermediate or "gray zone," and repeat lengths of 55 to 200 are relatively unstable and called "premutations." Premutations can expand to a full mutation when transmitted by females with a rate dependent upon the number of repeats. In males, the premutation may stay the same, expand to less than a full mutation, or even regress when transmitted. Of note, the term premutation is defined based on the ability of the repeat to expand to a full mutation in one generation. Some studies suggest that the "gray zone" or intermediate repeat alleles, which may expand to a full mutation over two or more generations, may also be associated with POI .
+
+【22】Carriers of the _FMR1_ gene premutation who have repeat lengths of 55 to 200 were originally thought to be unaffected, as they do not have the severe neurodevelopmental problems associated with the full mutation. However, in addition to POI, premutation carriers, particularly males, can present with fragile X-associated tremor-ataxia syndrome (FXTAS) or mild cognitive and behavioral deficits on the spectrum of those seen in fragile X syndrome .
+
+【23】The percentage of premutation carriers having menopause before the age of 40 years ranges from 12 to 28 percent . The number of CGG repeats within the premutation range appears to influence the timing of menopause . In addition to the large effect of a premutation on ovarian function, common variants associated with the natural age at menopause, as well as rare modifying variants appear to play a role in the risk of POI in these patients .
+
+【24】The mechanism by which a premutation causes ovarian failure is not known. Subjects with premutations appear to have increased _FMR1_ mRNA expression and decreased but not absent FMR1 protein . In comparison, full mutations in subjects with intellectual disability are associated with methylation of the _FMR1_ gene and lack of transcription and protein production.
+
+【25】There is no association between POI and full _FMR1_ mutations. Therefore, since premutation carriers have a normal amount of protein, the increased levels of mRNA are postulated to cause a toxic effect .
+
+【26】Although early menopause occurs in less than one-third of patients with premutations, the remainder exhibit hormonal changes of early ovarian aging while still experiencing regular menstrual cycles. Women who carry the premutation and have children or relatives affected by fragile X syndrome have an earlier menopause compared with control women, and the age of menopause is dependent on the premutation repeat length . This was also illustrated in a study of 11 affected women ages 24 to 41 years and 22 age-matched controls who underwent daily blood samples for gonadotropin, sex steroid, and inhibin levels with the following results :
+
+【27】 Follicular phase length was significantly shorter in the carriers compared with controls .
+
+【28】 Serum estradiol concentrations were not different between the groups, but mean follicular phase follicle-stimulating hormone (FSH) concentrations were higher in the premutation carriers .
+
+【29】 Inhibin B concentrations in the follicular phase and inhibin A and progesterone concentrations in the luteal phase were lower in the premutation carriers compared with controls, changes consistent with ovarian aging.
+
+【30】A separate issue is the frequency of fragile X premutations in women with sporadic or familial POI, which has been addressed in several studies. The prevalence of _FMR1_ premutations ranges from 2 to 5 percent in women with sporadic POI and from 12 to 14 percent in women with POI with at least one family member who also had menopause before age 40 years . The frequency of fragile X premutations in normal women is estimated to be approximately 1 in 259 .
+
+【31】Thus, the American College of Obstetricians and Gynecologists (ACOG) now recommends that women with POI or an elevated FSH level before age 40 years without known cause be screened for _FMR1_ premutations .
+
+【32】Although women with POI have relative infertility, many are still actively trying to conceive when the diagnosis of POI is made. Discovering that she may be a carrier for a developmental delay allele (since premutations are unstable) may help these women resolve their decision to become pregnant with their own oocytes. In addition, identification of carrier status is likely to prompt screening of sisters and cousins who are still fertile, and the discovery of fragile X carrier status may exclude a sister as a potential oocyte donor.
+
+【33】Somatic chromosomal defects
+
+【34】Galactosemia — POI is common in women with galactosemia. Because the hypogonadism cannot be eliminated by early metabolic control, it is thought to be caused by the toxic effects of galactose metabolites , rather than abnormalities in the carbohydrate composition of gonadotropins that reduce their bioactivity .
+
+【35】Even subtle defects in galactose metabolism may have an impact on ovarian function. In a study of 104 normal postmenopausal women, 15 had decreased galactose-1-phosphate uridyl transferase activity and an abnormal transferase allele by gel electrophoresis; these women had a lower mean age at menopause  .
+
+【36】In contrast, in a second report of 58 pre- and postmenopausal women who were heterozygous for the classical galactosemia mutation, there were no differences in serum markers of ovarian aging (FSH, inhibin B, anti-müllerian hormone) or antral follicle count on ultrasound in the 42 premenopausal carriers when compared with a cohort of proven fertile women. In addition, the mean age at menopause in the postmenopausal carriers was 49.7 years, no different from that seen in the general population .
+
+【37】Genes associated with 46,XX gonadal dysgenesis — A number of new genes have been discovered using whole exome sequencing in consanguineous families . These mutations, which appear to be rare, cause primary amenorrhea associated with POI (XX gonadal dysgenesis). The majority of the mutations identified in these consanguineous families in the absence of other syndromic features have been found in genes important for meiosis, homologous recombination, and DNA damage and repair . Interestingly, some of the genes involved overlap with regions of the genome with common variants that are associated with age of menopause in the general population . These include:
+
+【38】 _STAG3_ – A homozygous, recessive base pair deletion in _STAG3_ , a meiosis-specific subunit of the cohesion ring, which is responsible for proper synapsing of sister chromatids. The oocytes in mice with _STAG3_ deletions are arrested at the prophase I stage, unable to complete meiosis, resulting in oocyte loss.
+
+【39】 _SYCE1_ , _MCM8_ , _MCM9_ , _SPIDR_ , _MARF1,_ and _PSMC3IP_ . These genes also play a role in recombination during meiosis I through DNA breaks and repair.
+
+【40】 _BRCA2_ – Compound, heterozygous protein truncating mutations in _BRCA2,_ resulting in reduced protein levels, were identified in sisters with XX gonadal dysgenesis, microcephaly, and early-onset leukemia in one sister . The mutation results in impaired double-strand DNA damage repair.
+
+【41】 _ESR2 –_ A loss-of-function heterozygous missense mutation in the estrogen receptor beta gene ( _ESR2_ ) was identified in a 16-year-old female with XX gonadal dysgenesis and osteoporosis . The mutation (in a co-factor binding domain) disrupted estradiol signaling and demonstrated a dominant negative effect, suggesting a critical role for _ESR2_ in ovarian development.
+
+【42】Other genes
+
+【43】 _FIGLA_ – _FIGLA_ is an oocyte-specific transcription factor that has been demonstrated to carry heterozygous variants affecting gene function in a candidate gene study in 100 women of Han Chinese ethnicity .
+
+【44】 _NOBOX_ – Heterozygous mutations in _NOBOX_ , the homeodomain binding to _NOBOX_ DNA-binding element (NBE), have been demonstrated to cause dominant, negative disruption of DNA binding and are implicated in POI .
+
+【45】 Additional genes have been identified in sporadic or familial cases of POI. A rare heterozygous nonsense mutation in the eukaryotic translation initiation factor 4E nuclear import factor 1 ( _eIF4ENIF1_ ) has been identified in a family with nine women in three consecutive generations who developed menopause at approximately age 30 years, suggesting dominant inheritance . Disruption of the gene affects protein translation and meiosis .
+
+【46】BMP15 — A mutation in bone morphogenic protein-15 ( _BMP15_ ), a regulator of ovulation and folliculogenesis in animal models and a member of the TGF family of growth factors that includes activin and inhibin, was initially identified in two women with POI . In functional assays, the mutant _BMP15_ was processed abnormally, associated with reduced granulosa cell growth, and antagonized the stimulatory effect of wild-type _BMP15_ on granulosa cell proliferation. In a follow-up study of 166 patients with POI who underwent genetic screening, seven  were found to have one of three heterozygous mutations in the _BMP15_ gene. These mutations were not found in control groups of 95 women who had natural menopause after age 50 and 116 subjects from the general population .
+
+【47】Other rare syndromic defects — Several neurologic, cancer, and other syndromic disorders present with POI, pointing to the pleiotropic effects of the genes involved. They include:
+
+【48】 Mutations in the _FOXL2_ gene, which are associated with blepharophimosis/ptosis/epicanthus inversus syndrome (BPES) . BPES type I, but not type II, is associated with POI . In addition, mutations in _FOXL2_ have been described in patients with isolated POI .
+
+【49】 Ataxia telangiectasia presents clinically with unstable gait, progressive motor degeneration, dilated blood vessels (telangiectasias), and germ cell failure. Mutations in ataxia telangiectasia mutated (ATM), a protein kinase that plays a role in the cellular response to genomic damage, are responsible. Mouse models suggest that ATM monitors the normal progression of meiosis .
+
+【50】 Bloom syndrome (BLM) is characterized by growth deficiency, predisposition to malignancy, chromosome instability, and POI . Bloom syndrome results from mutations in RecQ protein-like-3 on chromosome 15, a DNA helicase that plays a role in the response to genomic damage.
+
+【51】 White matter abnormalities on magnetic resonance imaging (MRI) associated with neurologic deficits and ovarian failure are due to mutations in the eukaryotic translation initiation factor 2B ( _EIF2B_ ) . Mutations in three separate _EIF2B_ factors have been identified: _EIF2B2_ , _EIF2B4_ , and _EIF2B5_ .
+
+【52】 Women with progressive external ophthalmoplegia, a mitochondrial disorder, have an increased risk of POI. Recent reports demonstrated segregation of a mutation in DNA polymerase gamma ( _POLG_ ) with POI that occurs in this disorder .
+
+【53】 Perrault syndrome is a disorder of sensorineural deafness and various additional neurologic manifestations . Women with Perrault syndrome have primary amenorrhea caused by POI. A number of gene defects causing Perrault syndrome affect mitochondrial function.
+
+【54】 FSH receptor mutations.
+
+【55】Autoimmune ovarian failure — Autoimmunity was first postulated as a cause of POI when it was noted that some women with adrenal insufficiency also had ovarian insufficiency. These women include many with the type I and type II syndromes of polyglandular autoimmune failure, which are associated with autoantibodies to multiple endocrine and other organs . A possible association between myasthenia gravis and POI has also been reported .
+
+【56】There is strong histologic evidence that POI, when it occurs in association with adrenal autoimmunity, is a specific entity mediated by an intense lymphocytic infiltration of thecal cells . In this disorder, primordial follicles are spared, although there is likely spillover of the inflammatory infiltrate with time. Theoretically, ovarian function might be restored if a safe and effective immunosuppressive regimen could be developed and used early in the course.
+
+【57】In one series, 4 percent of women with 46,XX POI had lymphocytic autoimmune oophoritis and positive antiadrenal antibodies. The frequency of autoimmune oophoritis among women with ovarian failure without coexisting adrenal failure is not known.
+
+【58】Ovarian toxins — Ovarian toxins associated with POI include chemotherapy and radiation therapy. Viral infections have been suspected but not established.
+
+【59】Chemotherapy/radiation therapy — Chemotherapeutic drugs and radiation therapy are the most common causes of toxin-induced ovarian failure .
+
+【60】Viruses — Viruses such as mumps have been associated with orchitis and testicular failure in men and have therefore been presumed to cause oophoritis and ovarian failure in women. However, acute oophoritis is much more difficult to diagnose in women than is orchitis in men, and most of the evidence that viral infections can cause primary hypogonadism in women is circumstantial . Although viral oophoritis has been experimentally induced in cows , few cases of viral infection of the ovaries have been documented histologically in women.
+
+【61】A report described a woman with widespread cytomegalovirus (CMV) infection who had histologic evidence of CMV oophoritis at autopsy; however, she had had no clinical evidence of hypogonadism . While some women with primary hypogonadism can recall a preceding viral illness, a cause-and-effect relationship has not been established.
+
+【62】Other — Other toxins may have more subtle effects on ovarian function. As an example, cigarette smokers reach menopause approximately two years earlier than nonsmokers . Endogenous factors that correlate with age at menopause include weight and socioeconomic status, which increase it, and parity, which decreases it .
+
+【63】PRIMARY HYPOGONADISM WITHOUT FOLLICLE DEPLETION 
+
+【64】Some disorders that are not associated with follicular depletion may present clinically as primary hypogonadism. These disorders are genetic disorders of estradiol precursor production or aromatase function, resulting in decreased estradiol and absence of normal follicle-stimulating hormone (FSH) negative feedback.
+
+【65】There are two major mechanisms of primary hypogonadism without follicle depletion: endogenous mediators of gonadotropin receptor activation and steroidogenic enzyme defects that prevent estradiol production. Secretion of biologically inactive gonadotropins, a cause of secondary hypogonadism, presents in a similar fashion to primary ovarian insufficiency (POI) in that serum immunoreactive gonadotropin concentrations are high.
+
+【66】Intraovarian modulators — Many substances that may serve as paracrine regulators of ovarian responsiveness have been identified. Abnormal ovarian production of any of these modulators could cause primary hypogonadism, either directly or by decreasing cellular responses to gonadotropins. However, only polymorphisms in the alpha subunit of inhibin have been implicated in ovarian failure .
+
+【67】Steroidogenic enzyme defects — Some of the uncommon causes of congenital adrenal hyperplasia are due to genetic defects in the enzymes involved in androstenedione and estradiol biosynthesis in addition to cortisol biosynthesis. These defects result in low estrogen and, therefore, high serum FSH concentrations. Although these disorders are not associated with follicular depletion, patients present with hypergonadotropic hypogonadism.
+
+【68】The reported enzyme defects include mutations in:
+
+【69】 Steroidogenic acute regulatory enzyme (StAR), the enzyme that moves cholesterol from the outer to the inner mitochondrial membrane . Patients with congenital lipoid hyperplasia caused by StAR mutations typically have severe adrenal insufficiency very soon after birth, although they occasionally present later in infancy. In patients treated with steroid replacement early, there is absence of pubertal development .
+
+【70】 Patients with CYP17 deficiency usually present at about the time of expected puberty because of hypertension, hypokalemia, and hypogonadism. Female  patients have primary amenorrhea and absent secondary sexual characteristics.
+
+【71】 Mutations in the aromatase gene also cause absence of estradiol secretion and primary amenorrhea . However, the concomitant deficiency of placental aromatase results in androgenization of the mother and fetus due to the failure to aromatize fetal androgens during pregnancy.
+
+【72】 Mutations of _NR5A1_ (also called steroidogenic factor 1) were first described in four families, causing 46,XY disorders of sex development without adrenal insufficiency and 46,XX primary ovarian failure; the mutation was also identified in 2 of 25 women  with spontaneous ovarian failure, but in no controls (n = 700) . However, in a second study of 358 women with POI, the overall frequency of _NR5A1_ gene mutation rate was only 1.4 percent, suggesting that this is a rare cause of POI . Similar results were seen in a second study .
+
+【73】FSH receptor mutations — Specific receptor defects render the ovaries of some women with POI unresponsive to FSH and luteinizing hormone (LH). Mutations of the gene for the FSH (or LH) receptor that result in production of receptors that either do not bind FSH or cannot transduce the signal normally initiated by the binding of the hormone to the receptor would be expected to cause primary hypogonadism. A mutation of the FSH-receptor gene that results in production of receptors that bind FSH poorly was identified in some young women with POI . The mutation resulted in a single amino acid substitution in the extracellular domain of the FSH receptor that prevents FSH binding. Thus, FSH does not stimulate aromatization of precursors to estradiol, and the women are estrogen deficient. Whether this mutation affects oocyte number and viability remains to be determined. Its effect on male fertility is variable.
+
+【74】A mutation in the LH receptor gene has also been reported . This defect was identified in males who had hypogonadism, and an affected female in the family had secondary amenorrhea with high serum LH but normal FSH concentrations.
+
+【75】Gs alpha subunit gene mutations — In addition to defects in gonadotropin receptors, defects have been described in the guanine nucleotide regulatory protein of adenylate cyclase (G-protein) that is linked to the receptors and via which activated receptors stimulate adenylate cyclase activity. As expected from the multiplicity of receptors activated by the same G-proteins, including parathyroid hormone, FSH, LH, and thyrotropin receptors, affected subjects may have pseudohypoparathyroidism, abnormal gonadal function, and hypothyroidism, among other problems .
+
+【76】Links to society and government-sponsored guidelines from selected countries and regions around the world are provided separately.
+
+【77】INFORMATION FOR PATIENTS 
+
+【78】Here are the patient education articles that are relevant to this topic. We encourage you to print or e-mail these topics to your patients. (You can also locate patient education articles on a variety of subjects by searching on "patient info" and the keyword(s) of interest.)
+
+【79】 Basics topics
+
+【80】 Beyond the Basics topics
+
+【81】 **Advances in diagnosis** – Although many cases of premature ovarian failure (POF), now known as primary ovarian insufficiency (POI), remain idiopathic, the number of known causes and genetic factors is growing rapidly.
+
+【82】Whole exome or whole genome sequencing can identify the cause of POI in approximately 30 to 35 percent of patients. Additional genetics causes are still being identified but thus far, commercial testing does not include all genes likely to be important and there has been no impact on management. Therefore, we do not yet recommend routine genetic testing.
+
+【83】 **X chromosome disorders**
+
+【84】• Turner syndrome, the lack of a second X chromosome , is one of the most common causes of POI. Although their ovaries have a normal complement of primordial germ cells early in gestation, a process of accelerated follicular depletion follows.
+
+【85】• Fragile X syndrome – Women who are carriers of the fragile X messenger ribonucleoprotein 1 ( _FMR1_ ) gene premutation are at increased risk for POI. The prevalence of _FMR1_ premutations is estimated to range from 0 to 3.3 percent in women with sporadic POI and from 12 to 16 percent in women with POI with at least one family member who also had menopause before age 40 years.
+
+【86】 **Somatic chromosome gene defects** – Somatic chromosome gene defects associated with POI include mutations in _FOXL2_ , _eIF4ENIF1_ , _STAG3_ , _NR5A1_ , _BMP15_ , follicle-stimulating hormone (FSH) receptor, Gs alpha, and steroidogenic enzymes. However, the majority of the known genetic factors are not yet known or are very rare and do not warrant widespread genetic screening outside a research setting.
+
+【87】Rare mutations in genes have also been identified that are important for meiosis, homologous recombination, and DNA damage and repair. Some of the genes involved overlap with regions of the genome that are associated with age of menopause in the general population.
+
+【88】 **Autoimmune ovarian failure** – Approximately 4 percent of women with 46,XX POI have lymphocytic autoimmune oophoritis and positive antiadrenal antibodies. The frequency of autoimmune oophoritis among women with ovarian failure without coexisting adrenal failure is not known.
+
+【89】 **Toxins** – Chemotherapeutic drugs and radiation therapy are the most common causes of toxin-induced ovarian failure .焦瀚远
+
+====================================================================================================

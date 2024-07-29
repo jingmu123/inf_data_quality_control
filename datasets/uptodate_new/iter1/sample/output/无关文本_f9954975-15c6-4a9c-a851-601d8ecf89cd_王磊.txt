@@ -1,0 +1,212 @@
+【0】Polysomnography in the evaluation of parasomnias and epilepsy
+
+【1】INTRODUCTION 
+
+【2】Nocturnal behaviors can be complex and potentially injurious, and nocturnal video polysomnography (PSG) with extended electroencephalography (EEG) is often indicated to establish a definitive diagnosis, particularly when such behaviors arise in adulthood or when there is uncertainty about the etiology of the behaviors.
+
+【3】Common etiologies of nocturnal behaviors include non-rapid eye movement sleep (NREM) arousal parasomnias such as sleepwalking and confusional arousals, rapid eye movement sleep (REM) parasomnias, sleep-related seizures, sleep-related psychiatric events, and post-arousal behaviors associated with other primary sleep disorders (eg, obstructive sleep apnea) .
+
+【4】This topic reviews the PSG monitoring techniques used to diagnose REM sleep behavior disorder (RBD), NREM arousal parasomnias, and epileptic seizures during sleep. The clinical features, evaluation, diagnosis, and management of parasomnias in children and adults are presented separately.
+
+【5】Additional considerations on PSG technique in infants and children are also reviewed separately.
+
+【6】TECHNIQUE AND SPECIFICATIONS
+
+【7】Digital specifications and settings — The American Academy of Sleep Medicine (AASM) manual for scoring sleep and associated events outlines the digital specifications for polysomnography (PSG) recordings . The recommended minimal digital resolution is 12 bits per sample (with the exception of the body position channel), and the maximum recommended electrode impedance for electroencephalography (EEG) and electrooculography (EOG) is 5 kilo-ohms. The latter should be re-evaluated when the recording appears artifactual.
+
+【8】Sampling rates and filter settings for these parameters as well as for surface electromyography (EMG), electrocardiography (ECG), airflow, oximetry, transcutaneous partial pressure of carbon dioxide (PCO 2 ), nasal pressure, end-tidal PCO 2 , positive airway pressure (PAP) device flow, body position, snoring, thoracic belt signals, and abdominal belt signals are listed in the scoring manual . Along with these parameters, time-locked video should be recorded.
+
+【9】Higher sampling rates result in improved resolution, especially for EMG (to avoid voltage attenuation), pulse oximetry (to improve artifact evaluation), nasal pressure (to define flattening, plateauing, and fluttering), and snoring (to improve amplitude determination). The suggested ECG filter settings may improve interpretation of the slow portions of the cardiac cycle; however, these are more prone to artifact. Increased high-frequency filter settings as well as higher sampling rates (at least three times the high-frequency filter setting) may improve resolution of epileptiform discharges.
+
+【10】EEG derivations — An EEG channel or derivation is the potential difference between two electrode inputs recorded through a differential amplifier. The recommended EEG electrode placement for PSG utilizes standard scalp locations according to the international 10-20 system  . Of note, EOG placement for PSG monitoring differs from what is shown in the figure.
+
+【11】Standard nomenclature utilizes even numbers for electrode placement on the right side of the head and odd numbers for electrode placement on the left side of the head. By convention, in recorded tracings upward deviation is negative polarity and downward is positive polarity.
+
+【12】Montage refers to the arrangement of the derivations. There are two main types of montages, bipolar and referential. In digital EEG, derivations can be changed and re-montaged for optimal review.
+
+【13】 In a bipolar montage, derivations compare the potential difference from one electrode to the adjacent electrode in an anterior to posterior (longitudinal) or left to right (transverse) fashion.
+
+【14】 In a referential montage, the first electrode is compared to a reference electrode in the second input. In PSG recordings, the second input is often the contralateral mastoid (M1 or M2) or a linked, bilateral mastoid reference (M1, M2).
+
+【15】Sleep staging — To stage sleep, a minimum of three EEG derivations are required, recording the frontal, central, and occipital regions and referenced to the contralateral mastoid region. Recommended derivations include referential montage with F4-M1, C4-M1, and O2-M1. Additional backup electrodes (F3, C3, O1, and M2) should be placed in case of corruption in the recommended electrode derivations. The frontal derivation (F4-M1) should be used to measure delta wave amplitudes.
+
+【16】Acceptable alternate EEG derivations include mixed bipolar and referential montage with Fz-Cz, Cz-Oz, and C4-M1, with backup electrodes over Fpz, C3, O1, and M2 . When using these derivations, delta wave amplitudes should be measured on the E1-Fpz derivation. These alternate derivations may improve intra- and interscorer reliability of non-rapid eye movement (NREM) stage 3 (N3) sleep scoring .
+
+【17】Extended EEG during PSG — Although sufficient for staging sleep, use of four EEG derivations or less is not sufficient to localize seizures or distinguish between epileptic seizures and nonepileptic events. One study demonstrated improved seizure localization and identification when EEG monitoring extended to 7 or 18 derivations compared with 4 derivations . Another study demonstrated improved distinction between nonepileptic events and epileptic seizures with 18 versus 8 derivation montages .
+
+【18】The American Clinical Neurophysiology Society recommends 16 or more derivations in bipolar and referential montages to evaluate epileptic seizures . Similarly, when PSG is used to evaluate for possible seizures during sleep, the montage should include extended EEG monitoring with ≥16 derivations . Increasing the high pass filter to 70 Hz may also improve seizure identification .
+
+【19】EOG derivations — For PSG monitoring, the recommended placement for the right EOG electrode is 1 cm superior and lateral to the right outer canthus. The left EOG electrode is placed 1 cm inferior and lateral to the left outer canthus.
+
+【20】The recommended EOG derivations are E1-M2 and E2-M2. Acceptable alternate derivations include E1-Fpz and E2-Fpz, with EOG electrodes 1 cm lateral and 1 cm inferior to the outer canthus bilaterally .
+
+【21】EMG derivations — The AASM recommends placement of three chin EMG electrodes: 1 cm above inferior edge of the mandible in the midline (ChinZ), 2 cm below inferior edge of the mandible on the left (Chin1), and 2 cm to the right of midline (Chin2). Chin1 or Chin2 can be input 1, reserving the unused electrode as an alternate; ChinZ is input 2. If ChinZ becomes corrupted and cannot be replaced, then Chin1-Chin2 can be used as input 2 . Notch filter should not be used, impedances should be less than 10,000 ohms, ideally less than 5000 ohms, and sensitivities should be between -100 and +100 .
+
+【22】For lower extremity EMG evaluation, two electrodes are placed in tandem, 2 to 3 cm apart or one-third the length of the anterior tibialis (AT) muscles (whichever is shorter). Electrodes are placed in the middle of the muscle and symmetrically on both legs, ideally with a separate derivation for each limb. Activating the AT by flexing the toes towards the head enhances accuracy of EMG lead placement.
+
+【23】Additional EMG electrodes on the bilateral upper extremities are very useful when evaluating for parasomnias or nocturnal seizures . Two electrodes can be placed in tandem in the forearms, either on the extensor digitorum communis muscle (with fingers extended back, not the wrist) or on the flexor digitorum superficialis muscle (with fingers bent at the base, not at distal joints) .
+
+【24】Increased EMG derivations used in the evaluation of REM behavior disorder are discussed below.
+
+【25】Resources and role of technologist — Extended EEG adds time and expense to nocturnal video PSG. This includes increased technologist time during hook-up and increased clinician time for review and interpretation of the video and corresponding EEG . These studies also require increased storage capacity, additional EEG inputs, and the ability to alter epoch duration during review (eg, 10-second versus 30-second epochs) .
+
+【26】When evaluating for parasomnias or nocturnal seizures, the PSG technologist is present throughout the study to provide documentation of events . When nocturnal behaviors occur, the technologist should determine the patient's level of consciousness, response to verbal commands, and capacity to follow commands. Patients should be given a code phrase so that memory recall can be assessed after the event. When patients wake up after an event, they should be asked to recall dream content.
+
+【27】Patient safety — Unexpected motor activity during sleep poses safety risks related to the potential for falls or injury from jumping or falling out of bed. Sleep laboratories must also be prepared for prolonged seizures and other medical emergencies with ready access to age-appropriate resuscitative equipment, staff training, and an established protocol for access to emergency medical services.
+
+【28】We suggest contacting patients prior to the study to confirm emergency contact numbers, review event semiology, and provide a reminder to bring any event-related medications (eg, benzodiazepines for sleep-related seizures, if prescribed) . Bulky, breakable objects should be removed from the room and beds should be lowered to the floor if possible. Seizure precautions should be observed, including situating patients as close as possible to the technologist control room to reduce transit times .
+
+【29】When an event occurs, patients should not be forcibly awoken, as there is a potential for combativeness during events or with forced arousals. Patients who leave the bed should be gently redirected and guided back to bed .
+
+【30】FINDINGS AND INTERPRETATION
+
+【31】NREM parasomnias — Non-rapid eye movement (NREM) parasomnias include the disorders of arousal (sleep terrors, sleepwalking, and confusional arousals) and sleep-related eating disorder, a subtype of sleepwalking. Arousal events typically occur in the first half of the night from N3 or less commonly N2 sleep .
+
+【32】Activation procedures — Activation procedures that can be used to induce NREM arousal parasomnias include sleep deprivation for more than 24 hours and use of ascending 10 dB intensities of 1000 Hz auditory stimuli delivered for three seconds via earphones at one-minute intervals. Stimulation is delivered during N3 sleep during the first two NREM-REM sleep cycles. The combination of auditory stimulation and sleep deprivation greatly enhances the chances of capturing an event in the sleep laboratory .
+
+【33】Event findings — NREM parasomnias share common features on polysomnography (PSG) that represent a mixture of wake-like and sleep-like states in different cortical regions, attributed to dissociation between mechanisms controlling NREM sleep and wake .
+
+【34】The onset of an NREM arousal parasomnia is often marked by tachycardia during N3 sleep; maximum heart rates are observed with sleep terrors or distressed sleepwalking . The electroencephalography (EEG) during an arousal event demonstrates incomplete awakening, with intermixed slower alpha and theta frequencies  . Although rhythmic hypersynchronous delta or theta frequencies  and high-amplitude delta intermixed with alpha or beta frequencies have also been described, these patterns may be not be specific for NREM arousal parasomnias . An increase in delta power may be observed just prior to a parasomnia episode .
+
+【35】PSG findings during a sleep terror episode typically include sudden, incomplete arousal from N3 sleep, often accompanied with a dramatic increase in electromyography (EMG) tone, respirations, and heart rate . While these changes may be difficult to appreciate consistently, the arousal with inconsolable crying and screaming arising out of N3 sleep is often a unique feature that can be observed on time-locked video recording.
+
+【36】Most sleep-related eating disorder events occur out of N2 or N3 sleep, but unlike confusional arousals and sleepwalking, episodes are sometimes associated with partial awareness and memory of events upon awakening. Patients have increased comorbid periodic limb movements in sleep . PSG findings during episodes include repetitive chewing movements, rhythmic masticatory muscle activity, and an awake pattern on EEG; however, persistent N2 sleep has also been reported . One study suggested that people with sleep-related eating disorder have increased reward sensitivity personality traits . This may support the practice of performing recordings in a sleep laboratory with some of the patient's favorite food on a table nearby.
+
+【37】Response to arousal from N3 sleep — In the absence of a discrete event, motor patterns and behaviors that occur in response to arousals from N3 sleep (eg, repositioning, stretching, eye opening, looking afraid or surprised, sitting up) may differ in patients with NREM parasomnia compared with controls.
+
+【38】Such differences could form the basis of video-based behavioral criteria with the potential to improve the sensitivity and specificity of PSG in the evaluation of parasomnias . As an example, a finding of two or more instances of eye opening during an arousal from N3 sleep had a sensitivity and specificity of 94 and 77 percent in one study to distinguish patients with a disorder of arousal from healthy controls and patients with other sleep disorders . Another case series reported a greater degree of tachycardia, vasoconstriction, and deeper, faster respirations preceding motor activity with N3 arousals on PSG in people with sleepwalking and sleep terrors versus controls .
+
+【39】Other findings — Compared with controls, PSG in patients with sleepwalking and/or sleep terrors may show poorer sleep efficiency, decreased N2 sleep, and increased N3 sleep that is fragmented and associated with an increased number of arousals .
+
+【40】Like adults, children with NREM disorders of arousal have an increased slow wave sleep fragmentation index; however, the cutoff index is lower than the index reported in adults . Further studies are needed to validate these measures across varied patient populations.
+
+【41】REM sleep behavior disorder — REM sleep behavior disorder (RBD) manifests with dream enactment behavior during REM sleep, often associated with recall of dream content that mirrors observed behaviors. Episodes typically occur more in the latter half of the night, when REM sleep predominates. A finding of REM sleep without atonia (RWA) on PSG is required to confirm the diagnosis .
+
+【42】According to the American Academy of Sleep Medicine (AASM) sleep scoring manual, RWA is present when one of the following is present in a 30-second epoch of REM sleep  :
+
+【43】 Excessive sustained muscle activity (tonic activity) in the chin EMG. Excessive sustained activity exists when chin amplitude is at least two times greater than the stage R atonia level (or the minimum amplitude during NREM sleep if no stage R atonia is present) for at least half of the epoch.
+
+【44】 Excessive transient muscle activity (phasic activity) in the chin or limb EMG. Excessive transient activity exists when amplitude is at least two times higher than the stage R atonia level (or lowest amplitude in NREM, if no stage R atonia is present) during 0.1- to 5.0-second bursts in at least 5 of 10 3-second mini-epochs.
+
+【45】 At least half of 3-second mini-epochs contain any chin activity with amplitude at least two times greater than the stage R atonia level (or lowest amplitude in NREM, if no stage R atonia is present), without regard to the duration of the activity (including bursts of 5 to 15 seconds).
+
+【46】 At least half of 3-second mini-epochs contain limb activity, defined as bursts of EMG activity 0.1 to 5 seconds in duration and at least two times as high in amplitude as the stage R atonia level (or lowest amplitude in NREM, if no stage R atonia is present).
+
+【47】An RWA index may be reported, which represents the percentage of stage R epochs that meet these criteria .
+
+【48】History or video PSG observations via time-synchronized audio equipment of dream enactment behavior (which may disrupt sustained or excessive transient muscle activity) are also required to confirm the diagnosis . During REM in individuals with RBD, the chin and limb EMG baseline amplitudes are higher and/or variably lost, thus in a tonic EMG state.
+
+【49】Optimally, both upper and lower extremity EMG derivations should be used when evaluating for RBD. In addition, alternate EMG derivations using muscles with the highest rates of phasic EMG activity in RBD may improve sensitivity. One example is the Sleep Innsbruck Barcelona (SINBAR) montage, which uses the mentalis, bilateral flexor digitorum superificialis, and bilateral extensor digitorum brevis muscles . Studies using the SINBAR EMG montage have detected up to 94 percent of the vocal and motor activity occurring in patients with RBD .
+
+【50】Autodetection software can be used to quantify REM sleep atonia in individuals with RBD, although usually as part of a research protocol. Some studies demonstrate similar quantification of REM sleep atonia on autodetection software compared with visual analysis, and suggest that automated scoring may improve efficiency in diagnosing RBD during PSG review . Examples of proposed automated scoring metrics include the REM atonia index , the Frandsen index , the Kempfner index , the computerized SINBAR method , the supra-threshold REM activity metric , and the short/long muscle activity index . Diagnostic efficiency may be improved by viewing video when there is increased phasic EMG activity . An automated model suggests that incorporating increased EMG activity in mentalis and AT muscles during NREM and REM sleep improves RBD identification .
+
+【51】Suggested normative quantitative cut-offs for RWA vary by method and metric. Using the AASM criteria (increased tonic and/or phasic EMG activity combining chin and AT muscles using three-second mini epochs during REM sleep), values above 43 percent may be considered abnormal . For combined mentalis and flexor digitorum superficialis muscles (SINBAR montage) during the entire REM sleep period, thresholds of 32 and 27 percent have been proposed using 3-second and 30-second epochs, respectively .
+
+【52】Isolated RWA is characterized by RWA without video PSG-observed motor activity and/or history of dream enactment behavior. A REM sleep behavior event consists of RWA and increased visible motor activity or vocalizations/movements suggestive of dream enactment on video PSG . Depending on the method, approximately 10 to 15 percent of individuals **without** clinical RBD will have RWA exceeding the above thresholds . Isolated RWA is more common in older adults, in patients taking antidepressants , and possibly in adults following acute SARS-CoV-2 infection . Elevated RWA in the submentalis muscle with or without dream enactment behavior history may be a marker of synucleinopathy in cognitively impaired older adults .
+
+【53】The International RBD Study Group has proposed new guidelines for RBD that include standardized definitions, physiologic recording parameters, and scoring criteria on video PSG based on published studies and expert opinion . Further studies are needed to determine the utility of these proposed guidelines.
+
+【54】Other REM parasomnias — PSG evaluation is not required to diagnose other rapid eye movement (REM) parasomnias; however, frequent awakenings, increased EEG alpha power, and arousal-related behaviors in NREM-REM transitions have been reported in nightmare disorder .
+
+【55】Alpha intrusion in REM sleep prior to an arousal and persistence of REM atonia in wakefulness have been reported in recurrent isolated sleep paralysis .
+
+【56】Sleep-related epilepsy — Most patients referred for PSG who are ultimately diagnosed with sleep-related epilepsy have focal epilepsy arising from the temporal or frontal lobes. Sleep-related epilepsy syndromes include sleep-related hypermotor epilepsy, Landau-Kleffner syndrome, self-limited epilepsy with centrotemporal spikes, early-onset childhood occipital epilepsy (Panayiotopoulos type), and Lennox-Gastaut syndrome.
+
+【57】The spectrum of electrographic findings during video PSG with or without extended EEG monitoring in patients with sleep-related epilepsy will be reviewed below. A more detailed discussion of EEG in the diagnosis of seizures and epilepsy can be found separately.
+
+【58】Epileptiform discharges and seizures — Seizures in patients with focal epilepsy typically have a focal onset with an evolution in frequency, morphology, and amplitude . The pattern may spread to adjacent electrodes or potentially to all head regions (secondary generalization). Seizures in generalized onset epilepsies  have an onset that is synchronous in both hemispheres in the anterior and posterior quadrants with an abrupt onset and offset (eg, absence seizures, myoclonic jerks, bilateral tonic clonic seizures).
+
+【59】Sleep may activate seizures and epileptiform discharges (EDs) in several types of epilepsies, with a higher incidence during NREM sleep. REM sleep is more protective, with decreased focal and generalized seizures and discharges . The EDs during REM sleep tend to have a more restricted field and an increased correlation with the side of the seizure focus. Sleep spindles may be decreased prior to seizures, especially in secondarily generalized seizures and extratemporal lobe seizures .
+
+【60】 Frontal lobe – The most common frontal lobe epilepsy syndrome is sleep-related hypermotor epilepsy (SHE). Most such seizures arise from NREM sleep (more during nighttime sleep than daytime sleep) and consist of stereotyped motor activity in the extremities (often with paroxysmal, violent, and complex activity) lasting less than two minutes. Seizures can occur as often as every other night to several per sleep period. Frequently, the EEG during frontal lobe seizures can be normal due to an ictal focus too deep to record on scalp EEG . In frontal lobe seizures, diurnal and nocturnal seizures have equal rates of secondary generalization .
+
+【61】For people with clinical history and semiology suggestive of SHE, a diagnosis is possible if events are witnessed, probable if recorded on video, and confirmed if an ictal pattern is observed during events on video EEG or video EEG-PSG . Importantly, normal EEG during events does not rule out a diagnosis of epilepsy. Patients with frontal lobe seizures have frequent comorbid arousal parasomnias  and are more likely to manifest with a seizure (usually in N2 sleep) during a PSG than patients with an arousal parasomnia (which typically occurs in N3 sleep during first half of the sleep period) . One study utilized machine learning to help distinguish between these two disorders .
+
+【62】 Temporal lobe – Most seizures arising from the temporal lobe have a diurnal occurrence; however, seizures occurring out of sleep usually arise from N1 or N2 sleep and are more likely to secondarily generalize compared with diurnal temporal lobe seizures . In one study, complex partial seizures were longest in N3 sleep compared with light NREM sleep and wakefulness . Temporal lobe EDs occur with increasing frequency as NREM sleep deepens, most frequently in N3 sleep, and least frequently in REM sleep .
+
+【63】 Benign epilepsy of childhood with centrotemporal spikes (BECTS) – The EDs in BECTS occur most frequently in the centrotemporal region, in the first hour of sleep and with the following frequency: stage N3 >N2 >N1, REM >wake; however, in children without seizures, REM EDs are decreased . The majority of seizures occur during sleep .
+
+【64】 Panayiotopoulos syndrome – Panayiotopoulos syndrome is a childhood epilepsy manifesting with mostly autonomic seizures. The majority of EDs (most of which arise in the occipital region) and seizures occur during sleep .
+
+【65】 Continuous spike and waves during sleep (CSWS) – CSWS presents in children with continuous 1.5-3 Hz spike and waves during the majority of non-REM sleep that develops after seizures manifest. Nocturnal discharges are commonly generalized but can be centrotemporal and frontotemporal. Diurnal discharges are less frequent and can be focal, multifocal, and generalized. Encephalopathy due to neurocognitive decline may begin with the onset of the continuous spike and waves during sleep . Lennox-Gastaut and Landau-Kleffner syndromes may be associated with non-REM EEG patterns similar to those found in CSWS .
+
+【66】 Generalized onset epilepsies – Among the various types of generalized onset seizures, tonic and bilateral tonic-clonic seizures occur more frequently during sleep than other seizure types , which occur mostly while awake. Myoclonic seizures associated with juvenile myoclonic epilepsy and bilateral tonic clonic seizures upon awakening occur in the morning, soon after waking . One study in children with suspected focal epilepsy but generalized EDs demonstrated the most EDs in NREM sleep, followed by wake and then REM sleep .
+
+【67】In between seizures, patients with epilepsy have an increased tendency for epileptiform discharges (EDs ), which are suggestive of underlying cortical irritability with increased potential to generate epileptic seizures . EDs include spikes, sharp waves, train of multiple spikes or sharp waves (polyspikes or polysharp waves), and spike or sharp and slow wave(s) . They may occur as a single discharge, in a complex with an after-going slow wave, or in rhythmic bursts <3 seconds. EDs are defined by four major characteristics:
+
+【68】 Sharply contoured component with a steeper rise to the peak than the return to baseline (spike duration <70 msec; sharp wave duration 70 to 200 msec)
+
+【69】 Abrupt polarity change (usually electronegative)
+
+【70】 Disruption of the background activity
+
+【71】 A field that involves more than one electrode
+
+【72】ED and ictal fields may be focal (localized to one electrode and the adjacent electrodes to a varying degree) , multifocal (more than one distinct foci), or generalized (bilateral electrodes both anterior and posterior to the vertex)  . For focal discharges, the focus can be localized by the polarity or phase reversal in a bipolar montage and the highest amplitude on referential montages ( waveform 1 ). EDs typically maintain epileptiform appearance when viewed in different montages. Additional epileptiform and nonepileptiform discharges seen in the context of epilepsy are discussed in detail separately.
+
+【73】Normal variants — Sharply contoured normal variants that may be misinterpreted as epileptiform discharges on PSG with EEG include positive occipital sharp transients of sleep ( waveform 2 ), vertex sharp waves , saw-tooth waves , small sharp spikes ( waveform 3 ), and wicket spikes ( waveform 4 ) . Common rhythmic variants include rhythmic midtemporal theta of drowsiness ( waveform 5 ) and hypersynchronous theta .
+
+【74】EEG artifacts — A variety of noncerebral artifacts during PSG with or without extended EEG monitoring studies must be distinguished from epileptiform discharges.
+
+【75】 Electrocardiogram (ECG) artifact – ECG artifact in EEG derivations manifests as sharp transients synchronized with QRS complexes on ECG . It variably affects different derivations and montages but is most prominent in a linked-mastoids referential montage . It is more common in individuals with wide, short necks. Computer techniques using Hybrid Adaptive Neuro-Fuzzy Inference System programs may be effective in removing ECG artifact from EEG .
+
+【76】 Electrode pops – Electrode pops due to an abrupt change in impedance manifest as single or multiple sharp waveforms isolated to a single electrode  .
+
+【77】 Eye movement artifacts – The eye is a dipole, with relative negativity near the optic nerve and relative positivity at the cornea. Movements of the eyes cause predictable artifacts in the EEG and electrooculography (EOG), which are used to help stage sleep. Lateral eye movements are more prominent at F7 and F8 , while eye blink artifacts are more prominent in the frontopolar electrodes . At times, a myogenic spike artifact (rectus spike) may be observed at the beginning of an eye movement due to movement of the lateral rectus muscle; this artifact is best observed in a Cz referential montage . If in question, comparison with eye movements during biocalibrations in the beginning of the study may help confirm this artifact. Reading can be associated with lambda waves in the bioccipital regions .
+
+【78】 Glossokinetic artifact – The tongue is also a dipole due to relative negativity at the tip. Variable delta activity caused by tongue movement is occasionally misinterpreted as transient cerebral slowing .
+
+【79】 Movement artifact – Myogenic artifact due to contractions of the frontalis and temporalis muscles manifests as very fast frequencies (much faster than 70 Hz), commonly observed in the frontotemporal regions and reduced when the mouth is opened . Movement disorders such as Parkinson disease and essential tremor can be associated with rhythmic movement artifact in a 4 to 6 Hz sinusoidal pattern that may be misinterpreted as cerebral activity. Other sources of movement artifact include movements of other individuals around the patient, gravity-fed intravenous infusions that produce spikes synchronized to each drop, and automatic electric infusion pumps that produce very brief spikes that may be followed by a slow wave .
+
+【80】 Pulse artifact – Pulse artifact from an EEG electrode placed over an artery manifests as irregular delta waves with a consistent brief delay between the ECG QRS complex and the pulse . Temporarily removing the electrode can confirm the artifact .
+
+【81】 Respiratory artifact – Respiratory artifact is manifest by low-frequency EEG baseline sway that is synchronized with the ventilation cycle. This artifact is typically faster than sweat artifact .
+
+【82】 Sweat artifact – Sweat artifact appears as low-frequency EEG and EOG baseline shifts, which may be high in amplitude . Such artifacts are caused by sodium chloride and lactic acid from sweat reacting with electrode metals, resulting in salt bridge formation. This long-duration artifact often appears in the frontal derivations and may mimic delta frequencies, leading to inaccurate N3 scoring or misinterpretation as focal slowing. Sleep technologist annotations can help confirm the artifact. Cooling the room may alleviate it .
+
+【83】 60 Hz/machine artifact – High-frequency  artifact due to interference from a direct current-powered motor or alternating current-powered source is frequently observed in the intensive care unit and when electrical devices are near the EEG electrodes or wires ( waveform 6A-B ). When possible, turning off or moving the device can resolve the artifact .
+
+【84】Troubleshooting EEG — Computerized digital PSG with or without extended EEG allows for post-acquisition data modification and correlation with synchronized video to aid in interpretation. When suspicious patterns or discharges emerge from the EEG background, there are several steps that can improve interpretation :
+
+【85】 Check electrode impedance and placement (during acquisition).
+
+【86】 Evaluate for external sources in the room that may be contributing to artifact (during acquisition).
+
+【87】 Alter the time base from a 30-second epoch to a 10-second epoch.
+
+【88】 Modify filter settings and sensitivity.
+
+【89】 Change to a different montage and/or review the EEG in multiple montages (eg, longitudinal bipolar, transverse bipolar, and referential). For average reference montages, the frontopolar and mastoid electrodes should be excluded in order to reduce artifact in these montages.
+
+【90】 Review the synchronized video to correlate patient movements or behaviors with the questionable EEG finding.
+
+【91】If the interpretation of EEG findings remains unclear or ambiguous, consultation of a clinical electroencephalographer should be considered .
+
+【92】Limitations — The main limitation of PSG in the characterization of abnormal events during sleep is the chance that the individual does not have a typical event on the night of the study. The so-called "first-night" effect, when sleeping in a new environment, can alter normal sleep stages and, for example, lead to reduced REM sleep. In part for this reason, some laboratories record two consecutive nights in an assessment for a parasomnia. For NREM parasomnias, sleep deprivation and/or auditory stimulation can improve diagnostic yield.
+
+【93】Even when a patient has a typical episode during PSG, the findings may not be definitive. EEG during the spell may be obscured by movement artifact, thus degrading interpretation. An ictal pattern with an evolving generalized rhythmic theta or delta pattern may be misinterpreted as a NREM arousal parasomnia . Conversely, rhythmic movement artifact from NREM arousal parasomnias, sleep-related movement disorders, or psychogenic nonepileptic spells may be misinterpreted as an epileptic seizure . Review of time-locked video recordings and consultation with a clinical electroencephalographer may help avoid misdiagnoses.
+
+【94】Some frontal lobe seizures or seizures with a deep ictal focus do not have an identifiable scalp correlate on EEG. Thus, the absence of an epileptiform correlate does not rule out a seizure diagnosis .
+
+【95】Isolated epileptiform discharges may be seen in individuals without epilepsy (eg, migraines, psychogenic nonepileptic seizures, dementia) and therefore must be interpreted cautiously, within the clinical context .
+
+【96】Links to society and government-sponsored guidelines from selected countries and regions around the world are provided separately.
+
+【97】 **Technique** – Nocturnal video polysomnography (PSG) is useful in the diagnosis of complex nocturnal behaviors, particularly when such behaviors arise in adulthood or when there is uncertainty about the etiology of the behaviors.
+
+【98】• When PSG is used in this setting, extended electroencephalography (EEG) monitoring using ≥16 derivations should be performed.
+
+【99】• In addition to standard chin and lower extremity electromyography (EMG) electrodes, upper extremity electrodes should also be used, ideally with a separate derivation for each limb.
+
+【100】 **Findings and interpretation**
+
+【101】• **Non-rapid eye movement (NREM) parasomnias** – NREM parasomnias (eg, sleep terrors, sleepwalking, and confusional arousals) typically occur in the first half of the night from N3 or less commonly N2 sleep, with an onset often marked by tachycardia. EEG during an arousal event may show intermixed slower alpha and theta frequencies, rhythmic hypersynchronous delta or theta, or high-amplitude delta with intermixed alpha and beta. Sleep deprivation and auditory stimulation can improve the chance of capturing an event during the study.
+
+【102】• **Rapid eye movement (REM) sleep behavior disorder (RBD)** – Increased tonic and/or phasic EMG activity with movements on synchronized video review or history of dream enactment behavior during REM sleep is characteristic of RBD. The use of autodetection software and alternate EMG derivations using muscles with the highest rates of phasic EMG activity in RBD may improve sensitivity.
+
+【103】• **Sleep-related epilepsy** – Most patients referred for PSG who are ultimately diagnosed with sleep-related epilepsy have focal epilepsy arising from the temporal or frontal lobes. Extended EEG in such cases may show a typical seizure out of sleep or an increased number of epileptiform discharges (EDs), especially during NREM sleep. Multiple seizures can occur in a night. Epileptiform discharges should be distinguished from a variety of normal variants as well as noncerebral artifacts. A normal EEG during seizures does not rule out a diagnosis of epilepsy, as some ictal foci may be too deep to record on scalp EEG.
+
+【104】 **Troubleshooting EEG** – When suspicious patterns arise on PSG with EEG, a variety of steps can be used to improve interpretation, including altering the time base, modifying filter settings and sensitivity, and reviewing the EEG in different montages. Review of time-locked video recordings and consultation with a clinical electroencephalographer can be useful if a pattern remains questionable.王磊
+
+====================================================================================================
+文本干净度#无关文本# ( waveform 1 ).#应用全文

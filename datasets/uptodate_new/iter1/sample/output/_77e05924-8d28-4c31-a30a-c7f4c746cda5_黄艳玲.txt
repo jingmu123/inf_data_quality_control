@@ -1,0 +1,157 @@
+【0】The biology of IgE
+
+【1】INTRODUCTION 
+
+【2】The pathogenesis of many allergic diseases involves "allergic" antibody or immunoglobulin E (IgE) . This topic will review the structure, biology, and functions of IgE. A review of the role of IgE in allergic diseases and more general discussions of immunoglobulin structure and function are found elsewhere.
+
+【3】ROLES OF IgE 
+
+【4】IgE is important in defense against parasitic diseases, especially those caused by helminths and some protozoa . However, due in part to the redundancy of the immune system, low or absent levels of IgE do not predispose people to severe parasitic infections . IgE is **not** believed to play an important role in defense against bacterial infections, since it does not activate complement or participate in opsonization . IgE plays a key role in the pathogenesis of allergic diseases, especially mast cell/basophil activation, and in antigen presentation.
+
+【5】STRUCTURE 
+
+【6】IgE is one of five isotypes of human immunoglobulins: IgG, IgA, IgM, IgD, and IgE . All immunoglobulins are composed of two light chains and two identical heavy chains . The heavy chain differentiates the various immunoglobulin isotypes. The heavy chain in IgE is epsilon. IgE is a monomer and consists of four constant regions in contrast with other immunoglobulins that contain only three constant regions. Due to this extra region, the weight of IgE is 190 kDa compared with 150 kDa for IgG.
+
+【7】The C-epsilon-2 constant domain is unique to IgE, while the C-epsilon-3 region binds to the low- and high-affinity IgE receptor. Of note, the anti-IgE monoclonal antibody omalizumab also binds to the C-epsilon-3 region, so the binding of omalizumab to IgE decreases the amount of "free" IgE available for binding to IgE receptor-bearing cells, including mast cells and basophils .
+
+【8】SYNTHESIS 
+
+【9】Antibodies are produced by B cells. These cells are programmed to make IgM by default but undergo "isotype switching" to produce IgE with the same antigenic specificity under certain conditions. This process requires cell surface interactions between B and T cells, as well as soluble factors from various cell types . During isotype switching, genomic deoxyribonucleic acid (DNA) is spliced and rejoined in class-switch recombination.
+
+【10】B cell isotype switching requires two signals:
+
+【11】 The first signal involves the soluble factors interleukin (IL) 4 and IL-13 released by a number of inflammatory cells, including T helper type 2 (Th2) cells, innate lymphoid cells, mast cells, and basophils. Interaction of these cytokines with their respective receptors on B cells activates transcription at the specific epsilon germline locus via signal transducer and activator of transcription (STAT) 6.
+
+【12】 The second signal is the interaction between the B cell CD40 (cluster of differentiation 40, a member of the tumor necrosis factor receptor superfamily) and T cell CD40 ligand (CD154). The second signal results in DNA class-switch recombination and IgE expression triggered by nuclear factor-kappa-B (NFkB). STAT6 and NFkB synergize to activate B cell activator protein, promoting production of IgE. The removal of the unwanted constant regions by splicing and rejoining of the DNA requires activation-induced cytidine deaminase and uracil DNA glycosylase. Accessory signals that amplify IgE production include CD28/CD80-CD86 interactions. In addition, there are negative signals that reduce IgE production: inhibitor of DNA-binding 2 binds to E-box, B cell lymphoma 6 competes with STAT6, and suppressor of cytokine signaling 1 (SOCS-1) also works on STAT6. Interferon gamma can also inhibit IgE production via STAT1-mediated activation of SOCS-1.
+
+【13】Studies suggest that a type 2 memory B cell subset is expanded in patients with allergic diseases. This cell expresses Fc-epsilon-RII, IL-4R-alpha, and germline immunoglobulin heavy constant epsilon ( _IGHE_ ) transcripts, making it primed to differentiate into an IgE-producing plasma cell upon activation by type 2 cytokines .
+
+【14】B cell isotype switching to produce antigen-specific IgE occurs primarily in mucosal lymphoid tissues, with the greatest amounts of antigen-specific IgE production in tonsils and adenoids, although some also occur in peripheral tissues . The newly formed IgE then diffuses through the tissues and into the circulation .
+
+【15】There is some evidence that IgE may be produced outside of the classic Th2 cell-dependent pathway. In T cell-deficient knockout mice, IgE was produced independent of major histocompatibility complex class II cells, possibly due to CD4+ gamma-delta T cells. The exact mechanism of production of IgE stimulated by bacterial superantigens may also result from an atypical pathway. The cross-linking of basophils by IgD is another possible mechanism of nontraditional IgE production . Finally, regulatory follicular helper cells (Tfr) and IL-13-producing Tfh cells (Tfh13) cells are important in the production of low- and high-affinity short-lived IgE plasma cells, respectively .
+
+【16】Localized IgE production — Antigen-specific IgE production occurs locally within the bronchial and nasal mucosa, in addition to the lymphoid tissues and bone marrow, even in patients who are considered nonatopic by skin testing and laboratory tests . One study suggested that more than 99 percent of circulating allergen-specific IgE was produced within the tissues . This phenomenon of local IgE production is termed "entopy" and may underlie some cases of chronic "nonallergic" rhinitis and severe asthma .
+
+【17】There is some evidence that a small number of IgE-producing plasma cells or memory B cells reside in the bone marrow or spleen. Reports of patients acquiring the food or drug allergies of donors following bone marrow transplantation support this concept, although this phenomenon is not consistently observed and may be uncommon .
+
+【18】Regulation of synthesis — The genetic predisposition to develop allergic disease, or atopy, is a complex trait that is not fully understood. Total serum IgE levels and regulation of serum IgE production are strongly influenced by genetic factors. Less is known about other genetic factors important for the development of allergic disease. Genome-wide association studies have identified several loci that may be important for IgE regulation, including loci in the gene encoding the alpha chain of the high-affinity receptor for IgE (FC-epsilon-RI-alpha), STAT6, and in the gene _RAD50_ /IL-13 cluster .
+
+【19】Once an individual is producing IgE to a specific allergen, exposure to that allergen usually boosts production of IgE to it. For example, nasal challenge with allergen on two successive days can boost production of allergen-specific IgE as much as 40 percent . This mechanism underlies the seasonal increases in serum levels of pollen-specific IgE seen in patients with pollen allergy and also explains why drug allergies can resolve if a patient is able to successfully avoid the culprit drug for years.
+
+【20】IgE RECEPTORS 
+
+【21】IgE functions through its high- and low-affinity receptors on mast cells, basophils, and other cells leading to degranulation of mast cells and basophils and antigen presentation . Expression of both receptors is enhanced by IgE binding, so circulating IgE levels are positively correlated with receptor levels.
+
+【22】High-affinity receptor — The high-affinity receptor for IgE is Fc-epsilon-RI. IgE binds to the alpha chain . Fc-epsilon-RI exists in two forms:
+
+【23】 A tetrameric form (alpha-beta-gamma 2 ) of Fc-epsilon-RI is expressed on mast cells and basophils. In the nonactivated state, these cells are coated with Fc-epsilon-RI receptors bound to various antigen-specific IgE molecules. If that multivalent antigen (allergen) enters the cell's environment, it binds to the IgE, causing the Fc-epsilon-RI receptors to cluster on the cell surface and become cross-linked. IgE glycosylation is required for binding to the Fc-epsilon-RI receptor . Cross-linking leads to activation of the cell and release of preformed mediators from cytoplasmic granules (eg, histamine), transcription and release of cytokines, and synthesis of leukotrienes and prostaglandins . The strength of the activation signal depends on the polyvalency of the allergen (ie, number of binding sites for IgE) and the affinity of the IgE for the allergen. The inflammatory mediators released by mast cells and basophils include histamine, tryptases, and tumor necrosis factor alpha, as well as leukotrienes and prostaglandins (LTC 4 and PGD 2 , respectively). These mediators are responsible for the signs and symptoms of immediate hypersensitivity. In addition, production of the T helper type 2 (Th2) cytokines interleukin (IL) 4, IL-5, and IL-13 initiates late-phase inflammation and promotes more IgE production. These mechanisms underlie the clinical manifestations of allergic diseases, such as allergic rhinitis and conjunctivitis, allergic asthma, food allergy, and anaphylaxis. The mediators released by mast cells are reviewed in more detail separately.
+
+【24】 A trimeric form of Fc-epsilon-RI (alpha-gamma 2 ) can be expressed on human Langerhans cells, dendritic cells, and monocytes. In humans, it is theorized that Fc-epsilon-RI on antigen-presenting cells permits the transport of antigens captured by IgE in the tissues into peripheral lymph nodes to initiate immune responses. A truncated, soluble form of Fc-epsilon-RI alpha also exists, which may be released from dendritic cells following cross-linking of cell surface Fc-epsilon-RI by allergen, and can act to bind IgE and allergen/IgE complexes, thus preventing further activation of mast cells and basophils . Thus, soluble form of Fc-epsilon-RI alpha, if present in high enough concentrations, may be a negative regulator of IgE-mediated allergic reactions or a naturally occurring analog of omalizumab as they both compete for the same binding domain on IgE, and evidence suggests that soluble Fc-epsilon-RI can also result in decreased Fc-epsilon-RI alpha expression on allergic and other effector cells.
+
+【25】Low-affinity receptor — The low-affinity IgE receptor, Fc-epsilon-RII (CD23), is present on a variety of cells . The constitutively expressed form, CD23a, is present only on B cells, while the inducible form, CD23b, is present on B cells, T cells, dendritic cells, monocytes, macrophages, neutrophils, eosinophils, intestinal epithelial cells, and platelets .
+
+【26】Functions include regulation of IgE synthesis (binding of IgE to B cell CD23 inhibits IgE synthesis), antigen capture and presentation, and growth and differentiation of B cells. The stalk region on CD23 is critical for IgE binding and can be blocked by anti-IgE antibodies . Epithelial cell CD23 transports IgE allergen complexes from the apical to the basolateral surface of respiratory and gastrointestinal epithelium, bringing inhaled and ingested allergens into contact with mast cells residing in the mucosa . CD23 can be shed from the cell membrane by endogenous proteases, creating a soluble form (sCD23) that may be important for upregulation of IgE synthesis .
+
+【27】MEASUREMENT OF IgE
+
+【28】Total IgE — Total IgE levels are frequently measured by a sandwich-type assay. In this method, anti-IgE antibody is bound to a solid support . Serum from a patient is added, and then unbound protein is washed away. A second labeled anti-IgE antibody is added, and the amount bound to the patient's IgE is measured. Total serum IgE levels are reported as international units or nanograms per milliliter  . IgE assays are calibrated in kU/L against the third World Health Organization IgE International Reference Preparation .
+
+【29】Allergen-specific IgE — The first commercial assay for allergen-specific IgE was the radioallergosorbent test (RAST) . The bound allergen-specific IgE was detected with radioiodinated polyclonal antihuman IgE and quantified with a gamma counter. The term "RAST" is still frequently used to refer to in vitro assays for allergen-specific IgE, although modern methods use enzymes instead of radionucleotides. A number of other technical advances in assay technology have dramatically improved the sensitivity and specificity of allergen-specific IgE measurements. The terms "in vitro IgE antibody assay" or "allergen-specific IgE immunoassay" more accurately characterize the three major IgE antibody assays clinically available in North America :
+
+【30】 The HYTEC-288 is a colorimetric assay using a paper disc solid-phase support. It is being replaced by the Falcon autoanalyzer.
+
+【31】 The ImmunoCAP is a fluoroimmunoassay with a cellulose sponge solid-phase matrix.
+
+【32】 The Immulite chemiluminescent assay has a biotinylated allergen and avidin particle solid phase.
+
+【33】These three autoanalyzers use extracts from different sources immobilized as the antigen capture allergosorbent, and, thus, their results are not interchangeable. Select allergenic components have also been immobilized for use in component-resolved diagnosis. These tests quantify allergen-specific IgE, which confirms sensitization but may or may not correlate with allergic disease or specific symptoms. The use of immunoassays in the diagnosis of allergic disease is reviewed separately.
+
+【34】The lower limit of detection for allergen-specific IgE is lower than that for total IgE. Most laboratories employ a lower limit of approximately 0.1 to 0.35 international units/mL, where 1 international unit = 2.4 ng of IgE. New IgE detection methods are being developed, such as isotype-specific agglutination-PCR (ISAP) and luciferase-linked immunosorbent assay (LuLISA), which can both detect specific IgE in 1 microL of sample .
+
+【35】Effect of omalizumab — Omalizumab , the monoclonal anti-IgE antibody, binds to free serum IgE and forms immune complexes that increase circulating total IgE levels five- to sixfold. The accuracy of most in vitro assays for total serum IgE is compromised by the presence of omalizumab, although one commercially available system (ImmunoCAP) retains reasonable accuracy for both total and allergen-specific IgE measurements in the presence of omalizumab . Note that none of the clinically used total serum IgE assays measure "free" IgE in the presence of omalizumab. Rather, it is the level of total IgE (free and omalizumab bound) that is assessed .
+
+【36】IgE LEVELS
+
+【37】Normal levels — IgE has the lowest serum concentration of all of the immunoglobulins, approximately 150 ng/mL (approximately 62 international units/mL), which is approximately 66,000-fold lower than the serum concentration of IgG (typically 10 mg/mL) . Normal serum levels range from approximately 0 to 100 international units/mL (sometimes expressed in kU/L, depending upon the laboratory). However, a 2014 study of 1376 healthy children and 128 adults in the United States using the ImmunoCAP 1000 instrument found that normal adult levels ranged from 2 to 214 international units/mL . The upper limit of normal in this study was significantly higher than the upper limit of normal established years before and used in most commercial laboratories, although the authors noted that the nonatopic status of these subjects was based solely on self-reported clinical history.
+
+【38】The half-life of free IgE in the serum is approximately two days, although, once IgE has bound to mast cells, the half-life is extended to approximately two weeks due to the high affinity of this interaction .
+
+【39】Childhood levels — IgE is not believed to cross the placenta. Therefore, a female's allergen sensitivities are not passed on directly to her offspring through IgE transfer. However, allergens can be passed transplacentally, and the fetus can produce allergen-specific IgE. Routine allergen-specific IgE immunoassays cannot distinguish infant from maternal IgE, although a highly sensitive investigational microarray technique has demonstrated that infants can have IgE specific to food and inhalant allergens already present at birth .
+
+【40】Levels increase from birth and peak during adolescence  . Preschool levels do not correlate well with those at older ages. Factors associated with increased levels of total IgE include male sex, poverty, increased serum cotinine (reflecting tobacco smoke exposure), less than a 12 th grade education, and obesity . However, the 2014 study did not find sex differences in IgE levels .
+
+【41】In atopic individuals, total serum IgE levels may fluctuate. For example, in pollen-sensitized individuals, serum IgE levels peak four to six weeks after the height of pollen season and subsequently decline until the next pollen season .
+
+【42】Breastfeeding — Human breast milk has negligible amounts of IgE . However, the serum IgE level of a breastfeeding mother appears to influence the serum level of the infant. Children of mothers with high IgE levels who breastfed their children for four months or longer had higher total IgE levels than bottle-fed infants or infants breastfed for less than four months . In contrast, breastfed infants of mothers with low IgE levels were more likely to have lower IgE levels than the bottle-fed or less than four months of breastfeeding infants. Paternal IgE levels did not have a detectable influence on children's IgE levels.
+
+【43】Decreased total IgE — Most assays can only detect IgE levels as low as 2 to 5 international units/mL, with lower levels characterized as undetectable. Accordingly, IgE deficiency had been defined as levels <2.5 international units/mL.
+
+【44】In humans, decreased IgE levels can be associated with low levels of other immunoglobulins with sinopulmonary disease and with an increased prevalence of autoimmune diseases . It is unclear if isolated IgE deficiency in humans is a clinically relevant immunodeficiency or a marker of more general immune dysregulation. The clinical manifestations of selective IgE deficiency are reviewed separately.
+
+【45】Increased total IgE — Increased serum IgE is seen in allergic diseases, some inborn errors of immunity (also known as primary immunodeficiencies), parasitic and viral infections, certain inflammatory diseases, some malignancies, and a few other disorders .
+
+【46】Atopic disorders — Increased serum IgE is associated with allergic and respiratory diseases, such as atopic dermatitis, allergic bronchopulmonary aspergillosis, asthma, persistent wheezing in children, and airway hyperresponsiveness .
+
+【47】Inborn errors of immunity — Several inborn errors of immunity are associated with elevated levels of IgE . It is unclear what pathologic role, if any, the increased IgE level has in these disorders.
+
+【48】 Patients with autosomal dominant hyperimmunoglobulin E syndrome (Job syndrome) caused by variants of the signal transducer and activator of transcription 3 ( _STAT3_ ) gene have increased total IgE, usually ranging from 2000 to >50,000 international units/mL. This form of hyperimmunoglobulin E syndrome is characterized by eczema, retained primary teeth, joint hyperextensibility, characteristic facies, and pathologic fractures. These patients are more susceptible to fungal and _Staphylococcus aureus_ infections of the skin (skin abscesses) and lungs, including pneumatoceles. Autosomal recessive forms of hyperimmunoglobulin E syndrome have also been described including tyrosine kinase 2 ( _TYK2_ ) gene and dedicator of cytokinesis 8 gene ( _DOCK8_ ) deficiencies. The list of variants that can give rise to a hyperimmunoglobulin E syndrome continues to expand, as discussed in greater detail separately.
+
+【49】 Netherton syndrome (cutaneous ichthyosis) is a rare, autosomal recessive disorder due to a deficiency in serum peptidase inhibitor, Kazal type 5 (SPINK5) leading to IgE sensitization via a damaged skin barrier. Total IgE levels may range from 100 to over 10,000 international units/mL. Presentation may be similar to hyperimmunoglobulin E syndrome, except that ichthyosis and bamboo hair ( _Trichorrhexis invaginata_ ) occur in Netherton syndrome.
+
+【50】 Immune dysregulation, polyendocrinopathy, enteropathy, X-linked (IPEX) is a rare, X-linked inborn error of immunity with autoimmunity caused by loss of function of the transcription factor Foxp3 and is composed of a triad of enteropathy, endocrinopathy (diabetes or hypothyroid), and eczema. Patients have increased IgE and IgA with reduced or absent T regulatory cells.
+
+【51】 Wiskott-Aldrich syndrome, a rare, X-linked syndrome due to variants in the Wiskott-Aldrich syndrome protein, is associated with eczema, thrombocytopenia, variable T cell function, and increased IgE levels.
+
+【52】 Omenn syndrome presents with erythroderma, failure to thrive, diarrhea, hepatosplenomegaly, lymphadenopathy, eosinophilia, increased IgE, and decreased IgG, IgA, and IgM. Omenn syndrome is a combined B and T cell immunodeficiency due to hypomorphic variants in recombination-activating gene 1 ( _RAG1_ ), _RAG2_ , or Artemis _,_ altering T cell receptor rearrangement.
+
+【53】 One phenotype of complete DiGeorge syndrome has oligoclonal T cell expansion with elevated IgE levels, in addition to the classic midline deficits (thymic hypoplasia, cardiac defects, parathyroid disease, cleft palate, and classic facies).
+
+【54】Infections — Infections with certain parasites and viruses are associated with an elevated serum IgE. In resource-limited settings, parasitic infection is the most common cause of elevations in IgE .
+
+【55】 A primary role for IgE is combating parasitic diseases. Parasites that are known to increase serum IgE include _Strongyloides_ , _Toxocara_ , _Trichuris_ , _Ascaris_ , _Echinococcus_ , hookworms, filaria, and _Schistosoma_ . Increased IgE levels reflect both parasite-specific IgE and total IgE . Increasing levels of IgE appear associated with increasing tissue invasion . A peripheral blood eosinophilia is usually also present.
+
+【56】 Patients with human immunodeficiency virus (HIV) type 1 have elevated IgE levels as well as increased allergic reactions to drugs or environmental allergens . In adults with HIV, elevated IgE levels may be partially related to various other conditions, such as intravenous drug use and alcohol intake .
+
+【57】 Viral infections associated with elevated IgE levels include Epstein-Barr virus (EBV) and cytomegalovirus. In EBV mononucleosis, IgE levels increase initially and return to baseline within weeks to months .
+
+【58】 Elevated IgE levels may be seen in infections with _Mycobacterium tuberculosis_ .
+
+【59】Inflammatory diseases — Eosinophilic granulomatosis with polyangiitis (Churg-Strauss) features include elevated IgE (up to 5000 international units/mL), as well as necrotizing small- and medium-sized vessel vasculitis and eosinophilia associated with asthma.
+
+【60】Kimura disease is a rare, benign chronic inflammatory disorder with lymphadenopathy and eosinophilic adenitis of the head and neck regions of young males of East Asian descent. In addition to IgE levels greater than 1000 international units/mL, peripheral eosinophilia is present .
+
+【61】Evidence supports a role for pathogenic IgE autoantibodies in a number of antibody-mediated autoimmune diseases. Autoreactive IgE can drive the activation of mast cells, basophils, and other types of Fc-epsilon-RI-bearing cells and may play a role in promoting autoantibody production and other proinflammatory pathways. Disorders in which autoreactive IgE is likely involved in the pathophysiology include systemic lupus erythematosus, bullous pemphigoid, atopic dermatitis, and chronic spontaneous urticaria .
+
+【62】Neoplasms — Neoplasms that have been reported in association with elevations in IgE include Hodgkin and non-Hodgkin lymphoma , especially nodular sclerotic histology, cutaneous T cell lymphoma/Sézary syndrome , and IgE myeloma . IgE myelomas are extremely rare , with serum IgE levels ranging from 0.6 to 63 g/L .
+
+【63】Other disorders
+
+【64】 In patients with bone marrow transplantation, IgE levels can increase up to 2000-fold, even in patients without graft-versus-host disease .
+
+【65】 Nephrotic syndrome associated with different forms of glomerulonephritis is associated with increased levels of IgE that decrease with therapy .
+
+【66】 Cigarette smokers often have increased IgE levels compared with nonsmokers, especially in males .
+
+【67】 Alcohol consumption increases serum IgE levels but does not increase the risk of allergic disease .
+
+【68】ANTI-IgE THERAPY 
+
+【69】Omalizumab is a recombinant humanized monoclonal antibody that binds to the C-epsilon-3 portion of free serum IgE. It is approved for the treatment of perennial moderate-to-severe chronic persistent allergic asthma in patients six and older and for chronic antihistamine-resistant urticaria. It has been shown to be effective for other IgE-mediated diseases as well.
+
+【70】 **Roles of IgE** – Immunoglobulin E (IgE) is important in defense against some parasitic diseases, in mast cell and basophil degranulation, and in antigen presentation. IgE is central to the pathogenesis of many allergic diseases.
+
+【71】 **IgE production** – IgE is produced by plasma cells. Isotype switching of B cells to produce antigen-specific IgE requires interleukin (IL) 4 and IL-13 and interactions between B and T cells. Antigen-specific IgE production primarily takes place in mucosal lymphoid tissues, particularly the tonsils and adenoids.
+
+【72】 **IgE receptors** – IgE functions through its high (Fc-epsilon-RI) and low (Fc-epsilon-RII) affinity receptors on mast cells, basophils, and other cells. Binding of IgE to Fc-epsilon-RI leads to degranulation of mast cells and basophils. Binding to Fc-epsilon-RII is important for antigen presentation, B cell differentiation, and regulation of IgE synthesis. Expression of both receptors is positively correlated to circulating IgE levels.
+
+【73】 **Measurement of IgE** – Total IgE levels are frequently measured by a sandwich-type assay. Most assays can only detect IgE levels as low as 2 to 5 international units/mL, with lower levels characterized as undetectable. Normal serum levels range from approximately undetectable to 100 international units/mL.
+
+【74】 **IgE levels** – IgE is not transferred across the placenta. Levels increase from birth and peak between 16 and 19 years of age . Normal serum levels range from approximately 0 to 100 international units/mL (sometimes expressed in kU/L, depending upon the laboratory).
+
+【75】 **Decreased levels** – IgE deficiency is defined as levels of total IgE <2.5 international units/mL. Decreased IgE levels can be associated with deficiencies of other immunoglobulins and with sinopulmonary disease and autoimmune diseases, although it is unclear if isolated IgE deficiency in humans is a clinically relevant immunodeficiency or a marker of more general immune dysregulation.
+
+【76】 **Increased levels** – Increased total serum IgE is seen in allergic diseases, some inborn errors of immunity (also known as primary immunodeficiencies), parasitic and viral infections, certain inflammatory diseases, some malignancies, and a few other disorders .
+
+【77】 **Anti-IgE therapy** – Treatments aimed at blocking IgE and decreasing IgE receptor expression are important therapeutic strategies in managing allergic disease.黄艳玲
+
+====================================================================================================

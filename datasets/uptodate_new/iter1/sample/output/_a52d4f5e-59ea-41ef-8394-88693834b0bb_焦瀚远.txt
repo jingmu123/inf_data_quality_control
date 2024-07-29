@@ -1,0 +1,217 @@
+【0】Agoraphobia in adults: Epidemiology, pathogenesis, clinical manifestations, course, and diagnosis
+
+【1】INTRODUCTION 
+
+【2】Agoraphobia is defined in the American Psychiatric Association’s Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision (DSM-5-TR) as fear or anxiety about and/or avoidance of situations where help may not be available or where it may be difficult to leave the situation in the event of developing panic-like symptoms or other incapacitating or embarrassing symptoms . Patterns of agoraphobic avoidance may range from just a few situations (eg, driving and crowds) to multiple situations. In severe cases, the individual becomes housebound, rarely leaving the house and, if so, only when accompanied.
+
+【3】Although the likelihood of agoraphobia is increased when panic symptoms are present, agoraphobia can occur alone or concurrently with panic disorder . The unlinking of panic disorder and agoraphobia reflects the current conceptualization that agoraphobia is a distinct disorder that exists independently of the presence or absence of panic disorder . Agoraphobia has also been conceptualized more broadly as a fear of difficulty in escaping .
+
+【4】The presence of agoraphobia is associated with significant impairment in functioning, degree of disability, and unemployment . The disorder is treatable with various forms of cognitive behavioral treatment and antidepressant medication. More severe cases of agoraphobia may pose treatment challenges .
+
+【5】The epidemiology, pathogenesis, clinical manifestations, course, and diagnosis of agoraphobia in adults are reviewed here. Treatment of agoraphobia is reviewed separately. Specific phobia and panic disorder in adults, and phobias in children, are also reviewed separately.
+
+【6】EPIDEMIOLOGY 
+
+【7】Agoraphobia most commonly occurs in conjunction with panic disorder. The lifetime prevalence rate of agoraphobia with panic disorder is 1.1 percent . Lifetime prevalence rate of agoraphobia without panic disorder is lower, estimated at 0.8 percent in a large community survey . However, a prospective longitudinal study targeting an adolescent/young adult sample (representing what is considered to be the high-risk age range for psychopathology development) found a much higher incidence when rules requiring agoraphobia to be diagnosed within the context of panic disorder were not used, compared to when they were  .
+
+【8】Earlier studies reported lower rates of agoraphobia in older adults compared to younger adults . In contrast, a population-based study of adults 65 years and older in France found agoraphobia to be common, with one-month and lifetime prevalence estimates of 10 and 17 percent . Among participants without a prior history, 11 percent reported new onset of agoraphobia over the following four years; its occurrence was frequently associated with severe depression.
+
+【9】A review of epidemiologic studies found that 46 to 85 percent of individuals with agoraphobia did not report panic attacks . However, prevalence of agoraphobia without panic attacks in clinical samples is low , which may be due to the impediments that a patient with the condition (ie, avoidance) faces in seeking treatment. Agoraphobia is more common in women than men .
+
+【10】Risk factors for agoraphobia include the presence of panic disorder, younger age, female gender, and other phobias . Degree of agoraphobic avoidance is a more influential predictor of disability than frequency and severity of panic attacks . In the context of panic disorder, the presence of agoraphobia is associated with increased role impairment, greater panic disorder symptom severity, and increased comorbidity with other mental disorders compared to panic disorder without agoraphobia  including separation anxiety disorder present in both childhood and adulthood .
+
+【11】Agoraphobia is most commonly comorbid with panic disorder but is also highly comorbid with other anxiety disorders , and depressive disorders  . Approximately one-third of individuals with agoraphobia also have a substance use disorder .
+
+【12】PATHOGENESIS 
+
+【13】The pathogenesis of agoraphobia is not known; however, an evolving body of research has led to conceptual models suggesting that the etiology of the disorder involves a complex interaction of biologic, psychologic, and environmental factors.
+
+【14】Genetic factors — Clinical and nonclinical family studies show evidence of familial aggregation in the etiology of agoraphobia . The presence of parental agoraphobia and panic disorder increases the risk for any anxiety disorder rather than for agoraphobia or panic disorder specifically . The heritability estimates of agoraphobia range from 48 to 61 percent . Of the two components of heritability, evidence suggests that moderate genetic influences with nonshared environmental factors are more influential . Shared environmental factors do not appear to have any influence. In twin studies, nonshared environmental factors refer to aspects of the context that the twins do not share such as individualized events and experiences. Shared environmental factors, in contrast, refer to those aspects of the context that the twins do share such as the same home, parents, school, and family traditions. Genetically-based dispositional factors may also play a role.
+
+【15】Neurobiologic factors — Findings support the clinical observation that the anxiety experienced in anticipation of a feared situation is often more severe than that experienced from actually being in the shared situation. For example, a study using functional magnetic resonance imaging to investigate neural correlates of agoraphobia found that patients diagnosed with panic disorder with agoraphobia exhibited stronger activation in the bilateral ventral striatum and left insula when anticipating the presentation of an agoraphobia-specific stimulus (eg, images of public transportation, heights, crowds) compared with neutral images. Matched healthy control participants exhibited no changes in response to stimuli type . No group differences were found in the perception phase of the study when participants were presented with the stimuli. Increased activation in the ventral striatum and left insula may be one factor contributing to and maintaining agoraphobic avoidance through increased detection of salient events, autonomic readiness, and action to address perceived threat.
+
+【16】Personality factors — A number of personality factors have been shown to have a specific association with agoraphobia.
+
+【17】 Neuroticism – Neuroticism is a broad based construct that has been shown to play a developmental role broadly across anxiety and mood disorders . In a longitudinal study including 489 young adults, neuroticism predicted the development of agoraphobia .
+
+【18】 Extroversion/introversion – Extroversion appears to be negatively associated with agoraphobia but not panic disorder. Low extroversion (ie, high introversion) has been associated with increased odds of a lifetime agoraphobia diagnosis,  the presence and severity of situational avoidance  and appears to predict the first onset of agoraphobia . Further studies suggest that the genetic components that influence extroversion also affect the likelihood of a lifetime diagnosis of agoraphobia .
+
+【19】 Anxiety sensitivity – The belief that physical symptoms of anxiety are dangerous (ie, anxiety sensitivity) has been shown to predict panic disorder as well as agoraphobia without panic attacks .
+
+【20】 Dependency – Avoidant, dependent and related personality traits have been found to predict the onset of agoraphobia .
+
+【21】 Other – Lack of perceived control , lack of assertiveness , and low self-efficacy  have also been associated with agoraphobic avoidance and situational fear.
+
+【22】Cognitive factors — Many patients with agoraphobia fear having a panic attack and panic symptoms. Expectations regarding the likelihood and harmfulness of a panic attack as well as beliefs in coping have been shown to play a role in influencing and maintaining avoidant behavior . Information processing biases in attention and memory for physical threat cues may serve to maintain the disorder, but also may have an etiologic influence . In addition, agoraphobia has been associated with deficits in visuospatial working memory (VSWM). In a study comparing visuospatial working memory in 106 individuals with and without agoraphobia, individuals with agoraphobia had reduced VSWM as compared with controls. The virtual reality task (navigating a town square that was either crowded with people or had no people present) required making judgments about buildings (assessment of spatial abilities) . This finding highlights VSWM processes as a potential cognitive marker of agoraphobia.
+
+【23】Presentations of agoraphobia in the absence of panic disorder involve other types of fear-related beliefs that serve to maintain the disorder including:
+
+【24】 Fear of having an illness.
+
+【25】 Bodily preoccupation .
+
+【26】 Fear that they will be trapped or unable to cope due to a physical limitation (eg, postural instability in an individual with prior bouts of vertigo).
+
+【27】 Low self-efficacy (eg, beliefs that they are unable to manage in a feared situation) .
+
+【28】Social/environmental factors — Learning processes may play a significant role in the development of agoraphobia whereby avoidance is negatively reinforced by the reduction of aversive emotional states or symptoms of autonomic arousal . As an example, an individual who experiences anxiety in a grocery store abruptly leaves the situation and finds that leaving results in greatly reduced anxiety. The individual learns that escape is associated with anxiety reduction and thus becomes more likely to escape in future instances of anxiety. The individual learns that this situation is associated with anxiety and may avoid the situation altogether as a means of avoiding the experience of anxiety.
+
+【29】Physical activity — In a meta-analysis of 13 prospective cohort studies including over 75,000 individuals found the presence of high self-reported physical activity was associated with reduced odds of developing agoraphobia (adjusted odds ratio 0.42, 95% CI 0.18-0.98) .
+
+【30】CLINICAL MANIFESTATIONS 
+
+【31】The principal manifestation of agoraphobia is anxiety about and/or avoidance of certain situations. Individuals with agoraphobia will often but not always report fear of panic symptoms and may or may not have a history of panic attacks. Situations avoided are summarized in a table .
+
+【32】Reasons for avoiding situations may vary. In the majority of cases, individuals describe avoiding situations for fear of experiencing panic symptoms and consequent embarrassment or feelings of helplessness. Individuals may fear being overwhelmed by symptoms of anxiety to the point that they lose control or die. Loss of control concerns are specific to the individual and may include fears of loss of bowel or bladder control, vomiting, fainting, “going crazy,” or becoming unable to function. In some instances, individuals may have more difficulty describing the nature of their fear and may report a feeling of general dread or impending doom.
+
+【33】In a study of 41 individuals with a lifetime history of agoraphobia grouped as those with panic disorder and those without panic attacks, the most common reason for avoidance given in both groups was a fear of becoming “suddenly incapacitated” .
+
+【34】It is common for individuals with moderate to severe agoraphobia to describe having a “safe zone” within which they feel comfortable. This may be their house or a certain perimeter around their neighborhood. Leaving this zone of safety may be completely avoided, particularly if travelling alone, or otherwise endured with distress. Individuals with agoraphobia often engage in safety behaviors to reduce their level of anxiety in a particular situation . Safety behaviors are actions an individual takes to prevent a feared outcome from occurring or cope with a perceived threat . In agoraphobia, safety behaviors may be overt (eg, escape, avoidance, being accompanied by a “safe” person) or more subtle (eg, sitting in a location near an exit or carrying an item that is perceived to provide comfort or protection). Safety behaviors may play a role in perpetuating the disorder.
+
+【35】The presence of agoraphobia is associated with significant impairment in functioning, degree of disability, and level of unemployment . Help-seeking in individuals with agoraphobia without panic disorder is much lower than in individuals with panic disorder with or without agoraphobia .
+
+【36】A longitudinal population-based study of 3113 people found a prospective association between the presence of agoraphobia at baseline and subsequent increased inflammation at follow up (an average of 5.5 years) as measured by an increase in high sensitivity C-reactive protein . Panic disorder was not associated with an increase in high sensitivity C-reactive protein, which may be explained by the episodic nature of panic disorder compared with the chronic presence of agoraphobic symptoms. This finding is consistent with another longitudinal study (n = 2981) that found significant associations of small effect size between basal and lipopolysaccharide-induced inflammatory markers and agoraphobic symptoms (while controlling for depression symptoms) that was observed at five assessment points over a nine-year period . The consequences of chronic inflammation associated with agoraphobia require further study but may be associated with increased risk of future coronary heart disease.
+
+【37】ASSESSMENT 
+
+【38】Comprehensive diagnostic interviews that assess agoraphobia include the Structured Clinical Interview  and the Anxiety and Related Disorders Interview Schedule . These instruments are time consuming (approximately two hours in a mental health clinical setting) and may not be practical in a general practice setting. If a setting is focused on assessment and treatment of anxiety disorders, it is recommended that a structured diagnostic interview be used to ensure a thorough diagnostic assessment. Implementation in a team setting is also more feasible as these interviews can be administered by other health care professionals and then findings reviewed by the clinician. The Diagnostic Assessment Research Tool (DART) is a new open access diagnostic interview that is modular and includes an agoraphobia module that can be administered alone for a focused assessment or with other modules for broader coverage .
+
+【39】The agoraphobia subscale of the Fear Questionnaire  is a useful screening tool that can be easily incorporated into routine care. The DART Screener also screens for agoraphobia .
+
+【40】Data suggest that a dimensional view of agoraphobia is more clinically useful than a categorical one, particularly with regard to measuring initial symptom severity and for assessing treatment progress and outcome . The following measures are recommended for treatment planning purposes and assessing treatment response:
+
+【41】 The Mobility Inventory is a useful measure of severity, and lists 26 situations with two subscales assessing degree of avoidance “when alone” and “when accompanied” . A cutoff score of 1.61 or greater on the avoidance alone subscale indicates a diagnosis of agoraphobia .
+
+【42】 The Severity Measure for Agoraphobia is a 10-item self-report scale assessing how often symptoms are present, and the individual’s response to the symptoms (ie, avoidance, coping strategies).
+
+【43】 The Oxford Agoraphobic Avoidance Scale is an eight-item self-report scale that provides clinical cut offs and score ranges for levels of avoidance and distress associated with specific situations (eg, “stand outside your home on your own for five minutes”) .
+
+【44】 The Agoraphobic Cognitions Scale assesses common beliefs characteristic of agoraphobia .
+
+【45】 It can also be helpful to measure level of anxiety sensitivity using the Anxiety Sensitivity Index .
+
+【46】These measures can be completed outside the office and returned with the patient at the next visit. They are easily scored and thus provide the clinician with an objective indicator of symptom severity and treatment response.
+
+【47】COURSE 
+
+【48】Onset of agoraphobia may be sudden after experiencing an unexpected panic attack or it may gradually develop over time. The median age of onset is 20 , and onset before age 55 is most common . Onset in later adulthood is not as uncommon as previously believed . Onset may also be categorized as early or late. A Dutch study examining distribution models of onset in 507 individuals diagnosed with agoraphobia suggests that the illness may be subtyped as early onset when it begins at age 27 or earlier and late onset when it begins after age 27 . Early onset agoraphobia was associated with a family history of anxiety disorder but not with illness severity.
+
+【49】The course of agoraphobia is often chronic and unremitting without treatment. Over a follow-up period of 10 years, agoraphobia without panic attacks was found to be among the most persistent disorders, with complete remission rarely observed . In many studies assessing long-term outcome in panic disorder, the most consistent predictor of poor outcome is the presence of severe agoraphobia, which has been associated with reduced rate of remission, increased risk of relapse, and increased chronicity .
+
+【50】A study comparing long-term outcome in 38 patients with panic disorder and agoraphobia versus 12 patients with agoraphobia without panic disorder found that the patients with agoraphobia alone were less improved than those who also had panic disorder 20 years after receiving inpatient treatment including five to six weeks of exposure therapy and psychodynamic therapy . In a three-month follow-up study exploring natural symptom progression of 56 patients with agoraphobia posthospital stay (mean duration 45.18 days), 70 percent reported significant symptoms over the course of the follow-up period with 86 percent needing therapeutic intervention within six weeks of discharge .
+
+【51】DIAGNOSIS 
+
+【52】A comprehensive psychiatric assessment of a patient with possible agoraphobia should include:
+
+【53】 The focus of the patient’s fear
+
+【54】 The range of feared situations
+
+【55】 Reasons for avoidance
+
+【56】 Factors that influence the nature and intensity of the fear
+
+【57】 Safety behaviors used by the patient
+
+【58】 Careful consideration of alternative or co-occurring medical conditions, including psychiatric disorders
+
+【59】DSM-5-TR criteria for agoraphobia are described below :
+
+【60】 “A. Marked fear or anxiety about two or more of the following situations:
+
+【61】• 1\. Using public transportation (eg, automobiles, buses, trains)
+
+【62】• 2\. Being in open spaces (eg, parking lots, marketplaces, bridges)
+
+【63】• 3\. Being in enclosed places (eg, shops, theaters, cinemas)
+
+【64】• 4\. Standing in line or being in a crowd
+
+【65】• 5\. Being outside of the home alone
+
+【66】 B. The individual fears or avoids these situations because of thoughts that escape might be difficult or help might not be available in the event of developing panic-like symptoms or other incapacitating or embarrassing symptoms (eg, fear of falling in older adults or fear of incontinence).
+
+【67】 C. The agoraphobic situations almost always provoke fear or anxiety.
+
+【68】 D. The agoraphobic situations are actively avoided, require the presence of a companion, or are endured with intense fear or anxiety.
+
+【69】 E. The fear or anxiety is out of proportion to the actual danger posed by the agoraphobic situations and to the sociocultural context.
+
+【70】 F. The fear, anxiety, or avoidance is persistent, typically lasting for six months or more.
+
+【71】 G. The fear, anxiety, or avoidance causes clinically significant distress or impairment in social, occupational, or other important areas of functioning.
+
+【72】 H. If another medical condition (eg, inflammatory bowel disease, Parkinson disease) is present, the fear, anxiety, or avoidance is clearly excessive.
+
+【73】 I. The fear, anxiety, or avoidance is not better explained by the symptoms of another mental disorder and are not related exclusively to:
+
+【74】• A specific situation, as in specific phobia, situational type
+
+【75】• Social situations, as in social anxiety disorder
+
+【76】• Obsessions, as in obsessive-compulsive disorder
+
+【77】• Perceived defects or flaws in physical appearance, as in body dysmorphic disorder
+
+【78】• Reminders of traumatic events, as in posttraumatic stress disorder
+
+【79】• Fear of separation, as in separation anxiety disorder
+
+【80】Note: Agoraphobia is diagnosed irrespective of the presence of panic disorder. If an individual's presentation meets criteria for panic disorder and agoraphobia, both diagnoses should be assigned.”
+
+【81】The presence of panic disorder and a history of panic attacks should be assessed given that agoraphobia often presents concurrently with panic disorder or panic-like symptoms. In addition, the presence of depression should also be assessed given research finding a direct association between agoraphobic symptoms and depression symptoms .
+
+【82】Presence of avoidance across multiple situations that do not meet the threshold of at least two broad situational domains (public transportation, open spaces, enclosed places, standing in line/crowds, alone outside the home) may still be associated with significant symptom severity and impairment and may warrant clinical attention despite not meeting diagnostic threshold for agoraphobia .
+
+【83】DIFFERENTIAL DIAGNOSIS 
+
+【84】The fears and situational avoidance characteristic of agoraphobia overlap with a number of disorders. Careful assessment is needed to complete a differential diagnosis.
+
+【85】Social anxiety disorder — In social anxiety disorder (or social phobia), fears are focused on negative evaluation by others and avoidance is typically limited to social situations. Although fear of social embarrassment from anxiety symptoms may be present in agoraphobia, it is not typically the sole focus of fear. In addition, an individual with agoraphobia will avoid situations whether people are present or not, whereas an individual with social anxiety disorder typically would feel more comfortable entering a situation if no other people were present.
+
+【86】Specific phobia — In the case of multiple specific phobias and agoraphobia, a person may report avoiding a range of situations. Determining the focus of the fear in each situation will assist in distinguishing the two. In multiple specific phobias, fears are typically focused on specific aspects of the situation or object that differ across avoided situations. For example, an individual with multiple specific phobias may avoid elevators for fear of becoming trapped (specific phobia), driving for fear of getting in an accident (situational phobia), and walking in grassy open areas for fear of encountering a snake (specific animal phobia). In agoraphobia, an individual may fear these same situations (elevators, driving, walking in open areas) but the focus of fear is the same across the situations (eg, fear of having panic symptoms, being unable to get help if needed or becoming incapacitated in the situation).
+
+【87】Posttraumatic stress disorder — Examining triggers and the context of avoidance may distinguish posttraumatic stress disorder from agoraphobia. In posttraumatic stress disorder, a history of trauma is present, and avoidance is associated with trauma-specific cues.
+
+【88】Obsessive-compulsive disorder — Obsessive-compulsive disorder may result in significant avoidance that may resemble agoraphobia. Determining the reasons for avoidance assists in distinguishing the disorders. If an individual is avoiding situations for fear of triggering an obsession, then a diagnosis of obsessive-compulsive disorder is likely (eg, avoidance of a range of public situations for fear of contamination).
+
+【89】Separation anxiety disorder — Both agoraphobia and separation anxiety disorder are characterized by situational avoidance. Examining the focus of concern will help to distinguish these disorders. In separation anxiety disorder, fear is focused on separation from home or major attachment figures and harm befalling major attachment figures (eg, a son worries about his mother getting into a car accident). In agoraphobia, the fear is focused on the situation and personal catastrophe that may occur (eg, being overcome by panic or anxiety symptoms, being unable to get help if needed).
+
+【90】Major depressive disorder — Social withdrawal and anhedonia characteristic of major depressive disorder may resemble avoidance characteristics of agoraphobia. Determining the reasons for avoidance is helpful in distinguishing the two disorders. In agoraphobia, individuals often wish they could enter a situation but feel unable to do so because of anxiety. In contrast, individuals with depression describe a lack of interest or energy that results in reduced engagement in activities and avoidance.
+
+【91】General medical conditions — Certain general medical conditions such as irritable bowel syndrome or Crohn disease may be associated with significant anxiety and situational avoidance. If the anxiety and avoidance are confined to fears related to the illness, such as losing control of the bowels in the context of irritable bowel syndrome, the fear/avoidance should be clearly excessive compared to that typically seen with these conditions.
+
+【92】TREATMENT 
+
+【93】There has been little study of treatment for agoraphobia outside of trials in patients with both panic disorder and agoraphobia. Based on current evidence, treatment of agoraphobia independent of panic disorder should follow recommendations for agoraphobia in the context of panic disorder.
+
+【94】Links to society and government-sponsored guidelines from selected countries and regions around the world are provided separately.
+
+【95】 **Agoraphobia** – Agoraphobia is defined as anxiety about and/or avoidance of situations where help may not be available or where it may be difficult to leave the situation in the event of developing panic-like symptoms or other incapacitating or embarrassing symptoms. Commonly feared situations include crowds, shopping malls, driving, public transportation, and being away from home.
+
+【96】Agoraphobia is an independent disorder which may or may not co-occur with panic disorder and with panic attacks. Avoidance in agoraphobia often develops in response to unexpected panic attacks and the person avoids certain situations in an attempt to avoid future attacks and/or to avoid being incapacitated and unable to escape if an attack were to occur. Agoraphobia in the absence of panic symptoms/disorder develops in response to other fears, for example, fears about being incapacitated or unable to cope in particular situations.
+
+【97】 **Epidemiology** – Agoraphobia is more common in women than men. Common comorbid disorders include other anxiety disorders, mood disorders, and substance use disorders.
+
+【98】 **Pathogenesis** – A number of etiologic factors have been implicated in the development of agoraphobia, including biologic, personality, cognitive factors, and social/environmental factors.
+
+【99】 **Clinical manifestations** – There is a range of agoraphobic avoidance. In severe cases, people may become housebound. Individuals may engage in a variety of safety behaviors to manage their anxiety when confronting feared situations including being accompanied by a companion who increases feelings of security, carrying a cell phone or antianxiety medication, and sitting near an exit or door to increase ease of escape if needed .
+
+【100】 **Course** – The median age of onset of agoraphobia is 20. Without treatment, the course of agoraphobia is often chronic and unremitting.
+
+【101】 **Diagnosis** – As part of our comprehensive assessment of agoraphobia, we include assessment of:
+
+【102】• The focus of fear
+
+【103】• The range of situations that are feared
+
+【104】• Reasons for avoidance
+
+【105】• Factors that influence the nature and intensity of the fear
+
+【106】• The presence of safety behaviors
+
+【107】• The presence of panic attacks and panic disorder焦瀚远
+
+====================================================================================================

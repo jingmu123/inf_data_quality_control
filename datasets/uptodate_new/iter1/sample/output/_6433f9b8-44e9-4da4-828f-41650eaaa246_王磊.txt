@@ -1,0 +1,350 @@
+【0】Mebendazole: Pediatric drug information
+
+【1】Contributor Disclosures
+
+【2】For abbreviations, symbols, and age group definitions show table
+
+【3】Brand Names: US
+
+【4】*   Emverm
+
+【5】Brand Names: Canada
+
+【6】*   Vermox
+
+【7】Therapeutic Category
+
+【8】*   Anthelmintic
+
+【9】Dosing: Pediatric
+
+【10】**Note:** Approved uses and ages may vary depending on product/manufacturer; consult labeling for specific information.
+
+【11】_Ancylostoma duodenale_ or _Necator americanus_
+
+【12】_**Ancylostoma duodenale**_ **or** _**Necator americanus**_ **(hookworm):** Children and Adolescents: Limited data available in children <2 years: Oral: 100 mg twice daily for 3 days **or** 500 mg once as a single dose; repeat in 3 weeks if not cured with initial treatment .
+
+【13】Ascariasis
+
+【14】**Ascariasis ( _Ascaris lumbricoides_ ; roundworm):** Children and Adolescents: Oral: 100 mg twice daily for 3 days **or** 500 mg once as a single dose. Treatment can be repeated in 3 weeks if not cured with initial treatment; the 3-day regimen may be preferred in patients who remain infected after initial treatment .
+
+【15】Capillariasis
+
+【16】**Capillariasis ( _Capillaria hepatica_ or _Capillaria philippinensis_ ):** Limited data available: Children and Adolescents: Oral: 200 mg twice daily for 20 days .
+
+【17】Enterobiasis
+
+【18】**Enterobiasis ( _Enterobius vermicularis;_ pinworm):** Children and Adolescents: Limited data available in children <2 years: Oral: 100 mg as a single dose; repeat in 2 weeks .
+
+【19】Toxocariasis
+
+【20】**Toxocariasis (roundworm; ocular or visceral larva migrans):** Limited data available: Children and Adolescents: Oral: 100 to 200 mg twice daily for 5 days; however, longer duration may be necessary; optimal duration of treatment unknown .
+
+【21】Trichinellosis
+
+【22】**Trichinellosis (** _**Trichinella**_ **species):** Limited data available: Children and Adolescents: Oral: 200 to 400 mg 3 times daily for 3 days, then 400 to 500 mg 3 times daily for 10 days; longer duration or repeat courses may be needed if treatment is not initiated promptly .
+
+【23】Trichuriasis
+
+【24】**Trichuriasis ( _Trichuris trichiura;_ whipworm):** Children and Adolescents: Limited data in children <2 years: Oral: 100 mg twice daily for 3 days; repeat in 3 weeks if not cured with initial treatment .
+
+【25】**Dosage adjustment for concomitant therapy:** Significant drug interactions exist, requiring dose/frequency adjustment or avoidance. Consult drug interactions database for more information.
+
+【26】Dosing: Kidney Impairment: Pediatric
+
+【27】There are no dosage adjustments provided in the manufacturer's labeling.
+
+【28】Dosing: Hepatic Impairment: Pediatric
+
+【29】There are no dosage adjustments provided in the manufacturer's labeling; however, undergoes extensive hepatic metabolism and systemic exposure may be increased; use with caution.
+
+【30】Dosing: Adult
+
+【31】_Ancylostoma duodenale_ or _Necator americanus_
+
+【32】_**Ancylostoma duodenale**_ **or** _**Necator americanus**_ **(hookworm):** **Oral:** 100 mg twice daily for 3 days  **or** 500 mg as a single dose . Repeat in 3 weeks if not cured with initial treatment.
+
+【33】Ascariasis
+
+【34】**Ascariasis (roundworm): Oral:** 100 mg twice daily for 3 days **or** 500 mg as a single dose. Repeat in 3 weeks if not cured with initial treatment.
+
+【35】Capillariasis
+
+【36】**Capillariasis (off-label use):** **Oral:** 200 mg twice daily for 20 days .
+
+【37】Echinococcus, cystic
+
+【38】**Echinococcus, cystic (alternative agent) (off-label use):** **Oral:** 40 to 50 mg/kg/day in 3 divided doses for 3 to 6 months .
+
+【39】Enterobiasis
+
+【40】**Enterobiasis (pinworm): Oral:** 100 mg as a single dose ; repeat in 2 weeks .
+
+【41】Toxocariasis
+
+【42】**Toxocariasis (off-label use):** **Oral:** 100 to 200 mg twice daily for 5 days .
+
+【43】Trichinellosis
+
+【44】**Trichinellosis (** _**Trichinella spiralis**_ **) (off-label use): Oral:** 200 to 400 mg 3 times daily for 3 days, followed by 400 to 500 mg 3 times daily for 10 days .
+
+【45】Trichostrongyliasis
+
+【46】**Trichostrongyliasis (off-label use): Oral:** 100 mg twice daily for 3 days .
+
+【47】Trichuriasis
+
+【48】**Trichuriasis (whipworm): Oral:** 100 mg twice daily for 3 days **or** 500 mg as a single dose; repeat in 3 weeks if not cured with initial treatment.
+
+【49】**Dosage adjustment for concomitant therapy:** Significant drug interactions exist, requiring dose/frequency adjustment or avoidance. Consult drug interactions database for more information.
+
+【50】Dosing: Kidney Impairment: Adult
+
+【51】There are no dosage adjustments provided in the manufacturer's labeling.
+
+【52】Dosing: Hepatic Impairment: Adult
+
+【53】There are no dosage adjustments provided in the manufacturer's labeling; however, undergoes extensive hepatic metabolism; use with caution as systemic exposure may be increased.
+
+【54】Adverse Reactions
+
+【55】The following adverse drug reactions and incidences are derived from product labeling unless otherwise specified.
+
+【56】Frequency not defined.
+
+【57】Gastrointestinal: Abdominal pain, anorexia, diarrhea, flatulence, nausea, vomiting
+
+【58】Hepatic: Hepatitis
+
+【59】<1%, postmarketing, and/or case reports: Abnormal hepatic function tests, agranulocytosis, alopecia, anaphylaxis, angioedema, decreased ejaculate volume (Parasitic Infections 2013), dizziness, glomerulonephritis, hepatitis, hypersensitivity reaction, leukopenia (Parasitic Infections 2013), neutropenia, seizure, skin rash, Stevens-Johnson syndrome, toxic epidermal necrolysis, urticaria
+
+【60】Contraindications
+
+【61】Hypersensitivity to mebendazole or any component of the formulation
+
+【62】Warnings/Precautions
+
+【63】**_Concerns related to adverse effects:_**
+
+【64】• Bone marrow suppression: Neutropenia and agranulocytosis have been reported with high doses and prolonged use. Monitor CBC if used at higher doses or for a prolonged duration.
+
+【65】**_Disease-related concerns:_**
+
+【66】• Hepatic impairment: Use with caution; systemic exposure may be increased with hepatic impairment.
+
+【67】Warnings: Additional Pediatric Considerations
+
+【68】There are limited data to support safety of mebendazole in neonates and infants. Seizures have been reported in pediatric patients <1 year of age who received mebendazole, but causality is unclear . In one large prospective trial (n=212; ages: 6 to <24 months) patients received mebendazole 500 mg or placebo every 3 months for a total of 317 mebendazole courses; there was no difference in adverse reactions between mebendazole and placebo groups (Montresor 2002). In a retrospective, uncontrolled study (n= 49; ages: 47 days to 11 months) patients received mebendazole 100 mg twice daily for 3 days prior to cardiac surgery; adverse reactions thought to be possibly related to therapy (watery diarrhea) were reported in 2 patients (ages: 4 months and 10 months) (Kahan 2021). No seizures were reported in either study .
+
+【69】Dosage Forms: US
+
+【70】Excipient information presented when available (limited, particularly for generics); consult specific product labeling.
+
+【71】Tablet Chewable, Oral:
+
+【72】Emverm: 100 mg \[contains corn starch, fd&c yellow #6 (sunset yellow), saccharin sodium\]
+
+【73】Generic Equivalent Available: US
+
+【74】No
+
+【75】Pricing: US
+
+【76】**Chewable** (Emverm Oral)
+
+【77】100 mg (per each): $814.56
+
+【78】**Disclaimer:** A representative AWP (Average Wholesale Price) price or price range is provided as reference price only. A range is provided when more than one manufacturer's AWP price is available and uses the low and high price reported by the manufacturers to determine the range. The pricing data should be used for benchmarking purposes only, and as such should not be used alone to set or adjudicate any prices for reimbursement or purchasing functions or considered to be an exact price for a single product and/or manufacturer. Medi-Span expressly disclaims all warranties of any kind or nature, whether express or implied, and assumes no liability with respect to accuracy of price or price range data published in its solutions. In no event shall Medi-Span be liable for special, indirect, incidental, or consequential damages arising from use of price or price range data. Pricing data is updated monthly.
+
+【79】Dosage Forms: Canada
+
+【80】Excipient information presented when available (limited, particularly for generics); consult specific product labeling.
+
+【81】Tablet, Oral:
+
+【82】Vermox: 100 mg \[contains corn starch, fd&c yellow #6 (sunset yellow), saccharin sodium\]
+
+【83】Prescribing and Access Restrictions
+
+【84】Vermox 500 mg chewable tablets are only available through Johnson & Johnson's Vermox Donation Program to help reduce the burden of soil-transmitted helminths in endemic countries. There are currently no plans to make Vermox 500 mg chewable tablets commercially available.
+
+【85】Administration: Pediatric
+
+【86】Oral: Administer with or without food.
+
+【87】Emverm: Tablets may be chewed, swallowed whole, or crushed and mixed with food.
+
+【88】Vermox (available through donation program): Chew tablets completely prior to swallowing; do not swallow whole. Tablet may also be added to 2 to 3 mL of water on a spoon; within 2 minutes a soft mass with semi-solid consistency will form and can be swallowed.
+
+【89】Administration: Adult
+
+【90】**Oral:**
+
+【91】Emverm: Administer with or without food. Tablets may be chewed, swallowed whole, or crushed and mixed with food.
+
+【92】Vermox (available through donation program): Administer with or without food. Chew tablets completely prior to swallowing; do not swallow whole. Tablet may also be added to 2 to 3 mL of water on a spoon; within 2 minutes a soft mass with semi-solid consistency will form and can be swallowed.
+
+【93】Storage/Stability
+
+【94】Store at 20°C to 25°C .
+
+【95】Use
+
+【96】Treatment of _Ascaris lumbricoides_ (roundworm) and _Trichuris trichiura_ (whipworm) (FDA approved in ages ≥1 year and adults); treatment of _Ancylostoma duodenale_ or _Necator americanus_ (hookworms) and _Enterobius vermicularis_ (pinworms) (FDA approved in ages ≥2 years and adults). Has also been used in the treatment of _Capillaria philippinensis_ (capillariasis), _Trichinella_ species (trichinellosis), and visceral larva migrans (toxocariasis). **Note:** Approval ages and uses may vary depending on product/manufacturer; consult labeling for specific information.
+
+【97】Medication Safety Issues
+
+【98】Sound-alike/look-alike issues:
+
+【99】Mebendazole may be confused with metroNIDAZOLE
+
+【100】Metabolism/Transport Effects
+
+【101】None known.
+
+【102】Drug Interactions  
+
+【103】**Note** : Interacting drugs may **not be individually listed below** if they are part of a group interaction (eg, individual drugs within “CYP3A4 Inducers \[Strong\]” are NOT listed). For a complete list of drug interactions by individual drug name and detailed management recommendations, use the drug interactions program by clicking on the “Launch drug interactions program” link above.
+
+【104】**Note:** Interacting drugs may **not be individually listed below** if they are part of a group interaction (eg, individual drugs within “CYP3A4 Inducers \[Strong\]” are NOT listed). For a complete list of drug interactions by individual drug name and detailed management recommendations, use the drug interactions program
+
+【105】CarBAMazepine: May decrease the serum concentration of Mebendazole. _Risk C: Monitor therapy_
+
+【106】Fosphenytoin-Phenytoin: May decrease the serum concentration of Mebendazole. _Risk C: Monitor therapy_
+
+【107】MetroNIDAZOLE (Systemic): Mebendazole may enhance the adverse/toxic effect of MetroNIDAZOLE (Systemic). Particularly the risk for Stevens-Johnson syndrome or toxic epidermal necrolysis may be increased. _Risk X: Avoid combination_
+
+【108】Nirmatrelvir and Ritonavir: May decrease the serum concentration of Mebendazole. _Risk C: Monitor therapy_
+
+【109】Ritonavir: May decrease the serum concentration of Mebendazole. _Risk C: Monitor therapy_
+
+【110】Food Interactions
+
+【111】Mebendazole serum levels may be increased if taken with food. Management: Administer without regard to meals.
+
+【112】Reproductive Considerations
+
+【113】The World Health Organization recommends preventative therapy with a benzimidazole, such as mebendazole, in females of reproductive potential who live in areas where the baseline prevalence of soil-transmitted helminth infections is ≥20% (WHO 2017).
+
+【114】Pregnancy Considerations
+
+【115】Information following first trimester exposure to mebendazole is limited; however, an increased risk of birth defects has not been observed in the available studies (Gyorkos 2019). Most pregnancy outcome information is available from studies using mebendazole during the second or third trimester .
+
+【116】Untreated soil-transmitted helminth infections during pregnancy are associated with adverse maternal outcomes (eg, maternal iron deficiency anemia, low birth weight, neonatal and maternal death).
+
+【117】The World Health Organization (WHO) recommends preventive therapy with a benzimidazole, such as mebendazole, in pregnant women after the first trimester who live in areas where the baseline prevalence of soil-transmitted helminth infections is ≥20% (WHO 2017). The WHO also recommends treatment of soil-transmitted helminthiases (such as hookworm) in pregnant patients after the first trimester (WHO 1996).
+
+【118】Monitoring Parameters
+
+【119】CBC (when used at higher doses or for prolonged duration); LFTs (as clinically appropriate).
+
+【120】Mechanism of Action
+
+【121】Inhibits the formation of helminth microtubules; selectively and irreversibly blocks glucose uptake and other nutrients in susceptible adult intestine-dwelling helminths
+
+【122】Pharmacokinetics (Adult Data Unless Noted)
+
+【123】Absorption: Oral: Poor; 5% to 10%; increased with food (Dayan 2003)
+
+【124】Distribution: V d : 1 to 2 L/kg
+
+【125】Protein binding: 90% to 95%
+
+【126】Metabolism: Extensively hepatic
+
+【127】Half-life elimination: 3 to 6 hours
+
+【128】Excretion: Primarily feces (as unchanged drug and primary metabolite); urine (<2%)
+
+【129】Pharmacokinetics: Additional Considerations (Adult Data Unless Noted)
+
+【130】Hepatic function impairment: Plasma levels may be increased.
+
+【131】Pediatric: Systemic exposure was higher in children ≤3 years of age as compared to adults after a single oral dose of 500 mg.
+
+【132】Brand Names: International
+
+【133】International Brand Names by Country
+
+【134】For country code abbreviations ( show table )  
+
+*   (AE) United Arab Emirates : Bendazole | Mebanda | Mebex | Mebzol | Vermox | Wormin ;
+*   (AR) Argentina : Mebendazol denver farma | Mebendazol duncan | Mebendazol fabra | Mebendazol hlb | Mebendazol northia | Mebendazol puntanos | Mebendazol richet | Mebendazol vannier | Mebutar | Nemasole | Nemasole ad | Tesical | Tru M ;
+*   (AT) Austria : Pantelmin ;
+*   (AU) Australia : Amcal worm treatment | Apohealth worm treatment | Blooms the chemist worm treatment | Cm endox | Combantrin-1 | Deworm | Pharmacy action worm treatment | Pharmacy care worm treatment | Pharmacy choice worming | Pharmacy health worm treatment | Ridworm | Trust deworm | Tw worming | Vermox | Worm treatment | Worming ;
+*   (BD) Bangladesh : Bendex | Ermox | G-mebendazol | Helmox | Litrax | Meben | Mebendol | Mebentar | Mebrex | Minix | Nemazole | Panamox | Solas | Wormin k ;
+*   (BE) Belgium : Docmebenda | Vermox ;
+*   (BF) Burkina Faso : Carben | Mebendazole ubigen | Vermox | Wormin ;
+*   (BG) Bulgaria : Vermox ;
+*   (BR) Brazil : Belmirax | Bendrax | Divermil | Ductelmin | Eraverm | Geophagol | Helmin | Helmizil | Ibdazol | Kindelmin | Licor de cacau | Lqfex mebendazol | Meben | Mebendazol | Mebental | Mebiozol | Medazol | Menbel | Mentabon | Mentelmin | Moben | Multielmin | Necamin | Neo mebend | Novelmin | Pantelmin | Panverm | Panvermin | Paraverme | Parelmin | Polidazol | Quintelmin | Sirben | Tetrahelmin | Trotil | Vermiben | Vermoplex | Vermoral | Verzol | Zoldaben ;
+*   (CH) Switzerland : Vermox ;
+*   (CI) Côte d'Ivoire : T medazol ;
+*   (CL) Chile : Diacor | Mebendazol | Mensole ;
+*   (CN) China : Vermox ;
+*   (CO) Colombia : Astriun | Briperin | Despar | Gamax | Mebendazol | Mebendazol MK | Medizol | Oxibem | Pantelmin | Parazole | Pharaxis m | Triverenza | Veroxin | Xiurex | Zakor ;
+*   (CZ) Czech Republic : Vermox | Wormin ;
+*   (DE) Germany : Surfont | Vermox ;
+*   (DK) Denmark : Vermox ;
+*   (DO) Dominican Republic : Antipar | Bendamen | Cymazol | Dazolin | Extermin | Fel 6 | Lisoben | Meben | Meben darkey | Mebendazol | Mebendazol Calox | Menzol | Mezolex | Mf | Mindex | Nopar | Pantelmin | Parasitol | Polivermin | Ruzol | Subenzol | Tribendazol | Vermedasole | Vermox | Yntelmin ;
+*   (EC) Ecuador : Benzalmin | Diacor | Mebendazol | Mebendazol MK | Pantelmin | Tridazol ;
+*   (EE) Estonia : Mebendasool | Mebendazol | Mebendazole-rivopharm | Pantelmin | Vermox | Wormin ;
+*   (EG) Egypt : Antiver | Bendax | Mebamox | Mebazole | Pentalmin | Verm 1 | Vermin ;
+*   (ES) Spain : Lomper | Sufil ;
+*   (ET) Ethiopia : Benzolam | Fubenzon | Quemox | Thelmox | Vermorex ;
+*   (FR) France : Vermox ;
+*   (GB) United Kingdom : Ovex | Pripsen mebendazol | Vermox ;
+*   (GR) Greece : Vermox ;
+*   (HK) Hong Kong : Anelmin | Anthelmintic | Bromox | Conquer | Elmetin | Meben | Mebenzole | Mezol | Permax | Vermox ;
+*   (HR) Croatia : Vermox ;
+*   (HU) Hungary : Vermox ;
+*   (ID) Indonesia : Antelmox | Gavox | Indo Obat Cacing | Tismarias | Totamin | Vercid | Vermoran | Vermox ;
+*   (IE) Ireland : Ovex | Vermox ;
+*   (IL) Israel : Vermox ;
+*   (IN) India : Acavom | Eben | Elimin | Helmintol | Idibend | Kit kat | Kreeme hun | Lupimeb | Mebengel | Mebex | Mebidex | Mediworm | Sandin | Sta | Wormin | Zumin ;
+*   (IQ) Iraq : Mebendazole awa ;
+*   (IS) Iceland : Vermox ;
+*   (IT) Italy : Vermox ;
+*   (JO) Jordan : Bendazole | Elmetin | Vermazol | Vermin | Vermox ;
+*   (KE) Kenya : Astazole | Elmin | Minyua | Natoa | Vermisan | Vermox | Wormex | Wormol ;
+*   (KR) Korea, Republic of : Antiox choco | Helmex | Mebendazole A P | Permax | Vermid | Vermox ;
+*   (KW) Kuwait : Mebzol | Vermin | Vermox ;
+*   (LB) Lebanon : Verm 1 | Vermiphar | Vermox ;
+*   (LT) Lithuania : Mebexum | Medamin | Vermox | Vormin ;
+*   (LU) Luxembourg : Docmebenda | Vermox ;
+*   (LV) Latvia : Mebendazole grindeks | Mebexum | Medamin | Vermox | Vormin | Wormin ;
+*   (MA) Morocco : Oxitover | Vermox ;
+*   (MX) Mexico : Amatol | Amycil | Benedaxol | Daben | Diazolen | Edivertin | Exbenzol | Exteny | Fancidazol | Fedal soltric | Hedazol | L ombrix | Lumbicid | Mebendazol | Mebendazol gi serr | Mebendazol Iqfa | Mebendicin | Mebensole | Panvermin | Paranzol | Revapol | Vermidil | Vermin-dazol | Vermox | Vertizole ;
+*   (MY) Malaysia : Calpo | M zole | Mebenzol | Medazole | Primedazol | Quemox | Thelmox | Vermox | Wormaca | Wormazol ;
+*   (NG) Nigeria : Ac mebezole | Chimox | Mebox | Mecure mebendazole | Mentel | Pauco mebendazole | Zunamediks mebendazole ;
+*   (NL) Netherlands : Anti-worm | Boots pharmaceuticals anti-wormtabletten mebendazol | Mebendazol | Mebendazol Actavis | San mebendazol | Vermox | Wormkuur meben | Wormkuurtabletten mebendazol ;
+*   (NO) Norway : Vermox | Vermox forte ;
+*   (NZ) New Zealand : Deworm | Deworm extra strength | Mindol | Pharmacy health worm treatment | Vermox ;
+*   (PE) Peru : Mebendazol | Pantelmin | Parasitex | Penalcol | Vermofree ;
+*   (PH) Philippines : Antiox | Medic aid mebendazole | Zolden ;
+*   (PK) Pakistan : Bendamox | Blomeb | Deworm | Eben | Erizole | Ermox | Mebenzadole | Meskazole | Nemazole | Panamox | Sphinx | Vermin | Vermol | Vermox | Warth | Worcid | Wormizole ;
+*   (PL) Poland : Vermox ;
+*   (PR) Puerto Rico : Emverm | Vermox ;
+*   (PT) Portugal : Mebendazol | Pantelmin | Toloxim | Toloxin ;
+*   (PY) Paraguay : Ascarimol | Azoel | Daxol | M b z | Mebendazol clinipharma | Mebendazol inco | Mebendazol sanifar | Mebenzol | Mebutar | Neomeb | Norsol | Panver | Polybenzol ;
+*   (QA) Qatar : Anthelmin | Bendazole JPM | Mebzol | Vermox | Wormazole ;
+*   (RO) Romania : Vermox ;
+*   (RU) Russian Federation : Helmedazole | Helmindazole | Medamin | Vermox | Vero mebendazole | Vormin | Wormin ;
+*   (SA) Saudi Arabia : Bendazole | Mebzol | Parazole | Vermox | Warmazole | Wormazol ;
+*   (SE) Sweden : Vermox ;
+*   (SG) Singapore : Vermox ;
+*   (SI) Slovenia : Vermox ;
+*   (SK) Slovakia : Vermox ;
+*   (TH) Thailand : Alworm | Antiworm | Benda | Bendazole | Bendosan | Benfu | Benworm | Big-ben 500 tab | Cadatel | Codazole | Damez | Dimos | Drivermide | Drivermide-s | Euga | Exworm | Fob Meben | Fuben | Fuda | Fugacar | Hawkben | Hero Benson | K.B.Bendazone | Lotus | Masaworm-1 | Mebasol | Meben | Mebenda-p | Mebenlax | Mebenzole | Medazole | Menazole | Mentida | Mizola | Noxworm | Pharbendazole | Phiha benzer 500 | Phihabenza | Quemox | Tapben | Thelmicide | V R | Vermaton | Vermox | Warca | Wormaca | Wormadon | Wormex | Wormizole | Wormob | Wormop | Wormox ;
+*   (TN) Tunisia : Vermox ;
+*   (TR) Turkey : Vermasol | Vermazol | Vermox | Versid ;
+*   (TW) Taiwan : Adec | All-verm | Anchen | Anelmin | Anthel | Benzole | Calvamox | Chisom | Chunbik | Congen outworm | Conquer | Cowbalin | Delmint | Elmetin | Goodcide | Hitolin | Kaizole | Karimox | Mebazole | Mebenzole | Mebezol | Medazole | Mekezole | Mezole | Paukunlin | Puko | Romen | Shouca | Sinox | Taminzol | Tatamp | Thelmox | Ticoquer | Tunchow | Vermicide | Vermox | Yiauke ;
+*   (UA) Ukraine : Mebendazol | Vermox | Wormin ;
+*   (UG) Uganda : Agoben | Agobex | Astazole | Cacheworm | Kam bendazole | Mebfil | Mebrone | Natoa | Vermox | X pel ;
+*   (UY) Uruguay : Mebendazol | Mebendazol Lazar | Menzole | Pantelmin | Siuroxol ;
+*   (VE) Venezuela, Bolivarian Republic of : Bendacor | Bendamen | Eprofil | Flemdazole | Mebendazol | Pantelmin | Pival | Tamixan | Vermalon ;
+*   (VN) Viet Nam : Mestad ;
+*   (ZA) South Africa : Adco-wormex | Be-tabs mebendazol | Cipex | D worm | Rioworm | Rolab-anthex | Vermox | Wormgo | Wormstop ;
+*   (ZM) Zambia : Anthalben | Endorm | Helmintol | Mebfil | Tilzole | Vermox | Wormex | Wormgo | Wormin | Wormol | Wormstop ;
+*   (ZW) Zimbabwe : Vermox王磊
+
+====================================================================================================

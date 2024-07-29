@@ -1,0 +1,147 @@
+【0】Tourette syndrome: Pathogenesis, clinical features, and diagnosis
+
+【1】INTRODUCTION 
+
+【2】Tourette syndrome (TS) is a neurologic disorder manifested by motor and phonic tics with onset during childhood. This topic will review the pathogenesis, clinical features, evaluation, and diagnosis of TS. The management of TS is reviewed separately.
+
+【3】Other hyperkinetic movement disorders are discussed elsewhere.
+
+【4】PATHOGENESIS 
+
+【5】TS is thought to result from a complex interaction between social and environmental factors and multiple genetic risk factors.
+
+【6】Pathophysiology — TS likely results from a disturbance in the cortico-striatal-thalamic-cortical (mesolimbic) circuit, which leads to disinhibition of the motor and limbic system . However, the precise anatomic localization for the expression of tics is still uncertain.
+
+【7】Advanced neuroimaging studies have found evidence of structural, functional, and metabolic changes in the brain associated with TS . Reductions in caudate volume are the most commonly reported structural changes . Positron emission tomography (PET) studies have shown variable rates of glucose utilization in the basal ganglia in patients with TS compared with controls . Based on functional magnetic resonance imaging (MRI) studies, the insula plays a key role in premonitory sensations and urges, often preceding motor or phonic tics .
+
+【8】Neuropathologic examinations have detected no consistent brain abnormalities in patients with TS, although one report found a reduction in cholinergic and inhibitory GABAergic interneurons in the striatum of patients with TS compared with controls . Various functional imaging studies have implicated GABAergic impairment in patients with TS .
+
+【9】Although it has been proposed that antibodies to basal ganglia neurons from group A streptococcal infection may contribute to pathogenesis of TS in some patients, there is little or no evidence that pediatric autoimmune neuropsychiatric disorder associated with group A streptococci (PANDAS) plays a role in the development of TS. This issue is discussed separately.
+
+【10】Genetics — Despite a large number of genetic studies, no single or even multiple causative genes for TS have been identified . In some cases a bilineal transmission (inheritance from both parents) is clearly evident .
+
+【11】Although the genetic basis remains elusive, several loci have been identified as candidate susceptibility regions . The discovery of a mutation in the _SLITRK1_ gene on chromosome 13q31.1 was a major advance in the search for the elusive TS gene or genes . The _SLITRK1_ gene is expressed in brain regions previously implicated in TS (cortex, hippocampus, thalamus, subthalamic nucleus, globus pallidus, striatum, and cerebellum) and it appears to play a role in dendritic growth. However, it is not clear how the altered gene product leads to the complex neurobehavioral disorder. This mutation appears to be a rare cause of TS, as it has not been found in hundreds of patients with TS tested.
+
+【12】Another possible rare genetic cause of TS is a mutation in the histidine decarboxylase ( _HDC_ ) gene on chromosome 15q21-q22, as detected in two generations of a family with apparent autosomal dominant inheritance of TS . The _HDC_ gene encodes for L-histidine decarboxylase, which is the rate-limiting enzyme that catalyzes the biosynthesis of histamine from histidine. In the central nervous system, histaminergic neurons are located in the posterior hypothalamus but have widespread axonal connections to other brain regions . These findings suggest the possibility of using pharmacologic manipulation of histaminergic neurotransmission to treat TS . However, it is unknown how histamine abnormalities might cause or contribute to TS symptoms.
+
+【13】EPIDEMIOLOGY 
+
+【14】The estimated global prevalence of TS derived from population-based studies is 0.5 percent . TS affects males more often than females by a ratio of approximately 4:1 . Most but not all reports suggest that the prevalence of TS is similar among different racial and ethnic groups , with the exception that TS appears to be uncommon or rare among African Americans and sub-Saharan Black Africans .
+
+【15】Prenatal maternal smoking may be associated with an increased risk for TS .
+
+【16】CLINICAL FEATURES
+
+【17】Tics — Tics are the clinical hallmark of TS. Tics are sudden, brief, intermittent movements (motor tics) or utterances (phonic tics). Tics have been considered involuntary, but tics can temporarily be voluntarily suppressed. Most patients with TS also have comorbid problems such as attention deficit hyperactivity disorder (ADHD) or obsessive-compulsive disorder (OCD).
+
+【18】Tic classification — The tics in TS can be categorized as motor or phonic (ie, vocal), and as either simple or complex.
+
+【19】 **Motor tics** – Simple motor tics include eye blinking, facial grimacing, shoulder shrugging, and head jerking. Complex motor tics involve sequences of coordinated movements, including bizarre gait, kicking, jumping, body gyrations, scratching, seductive gestures, copropraxia (obscene gestures), and echopraxia (mimicking of gestures). Some motor tics may be dystonic; examples include oculogyric movements, sustained mouth opening, torticollis, and body postures . Other motor tics may be tonic in nature; examples include immobility, staring, and prolonged contraction of abdominal muscles.
+
+【20】Violent or forceful neck tics in patients with TS rarely have been associated with injuries including cervical disc herniation, compressive and noncompressive myelopathy, and cervical artery dissection with stroke . Thus, some experts advocate more aggressive management of severe forceful neck tics, including the use of botulinum toxin injections or even deep brain stimulation.
+
+【21】 **Phonic tics** – Simple phonic tics include grunting, barking, moaning, throat clearing, sniffing, hollering, and other noises. Complex phonic tics include coprolalia (obscene words), echolalia (repetition of words), and palilalia (repetition of a phrase or word with increasing rapidity). Coprolalia occurs in less than 20 percent of cases and is usually in a form of uttering obscenities (foul, repulsive language, often with sexual or scatologic meaning) rather than profanity (cursing or cussing with religious meaning), although some have racist, sexist, or vulgar meaning . The obscene words are often shortened rather than spoken in full.
+
+【22】Tic characteristics — One of the most characteristic features of tics is the presence of premonitory feelings or sensations, which are relieved by the execution of the tic, the irresistible urge before and relief after a tic . Other tic characteristics include the presence of precipitating factors, temporary suppressibility, variable severity, a waxing and waning nature, and evolution of an individual's tic repertoire over time . Some tics will abate, only to be replaced by newer tics or by older tics that had been in remission.
+
+【23】Precipitating or exacerbating factors may include psychosocial stress, anxiety, anger, excitement, fatigue, and illness . Studies are conflicting on whether tic severity differs between males and females .
+
+【24】Onset and natural history — The onset of TS is typically between 2 and 15 years, although the diagnosis may be delayed until 21 years in some cases. The average age at onset is approximately 6 years , and the disorder is manifested by age 11 years in 96 percent of patients . The severity of tics usually reaches a peak between the ages of 10 to 12 years, followed by improvement in the majority during adolescent years and adulthood . A useful approximation suggests that one-third of tics resolve completely, one-third improve, and one-third continue without abatement .
+
+【25】Prospective studies in both tertiary care centers and population-based cohorts largely validate these estimates . Overall, the risk of moderate to severe tics in adults with a history of childhood tic disorder is approximately 20 to 25 percent. Many of the remaining patients continue to experience tics, but they are mild and nondisabling. Risk factors for persistence of moderate to severe tics include psychiatric comorbidities during childhood (eg, OCD, ADHD) and a family history of neuropsychiatric disorders, especially tics and anxiety, in first-degree relatives .
+
+【26】While tics may persist into adulthood, their severity gradually diminishes over time in 40 to 45 percent of cases . The most common cause of "adult-onset" tics is TS that remits after puberty and reappears as tics later in life . Other causes of tics seen in adults are less common .
+
+【27】Comorbidities — Comorbidity in TS is frequent  and imposes a significant additional burden to patients with TS . Most patients with TS have one or more comorbid conditions.
+
+【28】In a large international registry of 3500 patients with TS, comorbid conditions included ADHD , OCD , obsessive-compulsive behavior , learning disorder , and conduct disorder/oppositional defiant disorder  . Patients with more comorbidities were more likely to have behavioral problems such as sleep difficulties, coprolalia, self-injurious behavior, and anger control problems. One study showed that self-injurious behavior is present in approximately 17 percent of patients with TS . Motor and phonic manifestations were more frequent in boys, whereas girls were more likely to have behavioral problems such as OCD. Only 12 percent of patients with TS had no comorbid conditions.
+
+【29】The association of behavior disorders with tics in a community-based study was similar to clinic-based reports. In a study of school children aged 9 to 17 years, OCD, ADHD, anxiety disorders, and mood disorders were significantly more common in children with than without tics and with than without TS .
+
+【30】Attention deficit hyperactivity disorder — ADHD affects 30 to 60 percent of patients with TS . Symptoms of ADHD often emerge two to three years before the onset of tics . The presence of ADHD in TS is associated with difficulties in planning, working memory, visual attention, learning, and school performance, and with diminished functional ability .
+
+【31】ADHD may mediate an increased risk for driving-related accidents in adults with TS compared with the general population . However, motor tics, such as frequent blinking and transient blepharospasm (dystonic tic) and complex limb and truncal tics, may also seriously impair driving abilities of patients with TS . Comorbid ADHD has also been associated with increased likelihood of cigarette smoking, alcohol use, and illegal substance use in adolescents with TS .
+
+【32】Obsessive-compulsive disorder — OCD affects 10 to 50 percent of patients with TS . Symptoms typically emerge a few years after the onset of tics and often become more severe over time . Compulsions or rituals may include repetitive counting, arranging, hoarding, touching, tapping, rubbing, and error checking. Patients may have bizarre thoughts, urges, ruminations, or images of an aggressive, sexual, or religious nature. Individuals without TS who have OCD more commonly have compulsions involving contamination and cleaning.
+
+【33】The expression of OCD in TS can affect the execution of tics so that they occur in a particular manner and order (eg, a certain number of times, being symmetric, involving both sides of the body) and stop only after a particular "just right" feeling is achieved .
+
+【34】Other behavioral and psychosocial problems — In addition to ADHD and OCD, patients with TS are at increased risk for a number of behavioral and psychosocial problems, including:
+
+【35】 **Anxiety disorders** – In a report of 1374 patients with TS, the lifetime prevalence of anxiety disorders was approximately 30 percent .
+
+【36】 **Mood disorders and risk of suicide** – Patients with TS have an increased risk of mood disorders , with a lifetime prevalence of approximately 30 percent in the report of 1374 patients with TS . Mood disorders associated with TS are more prevalent in adolescents and adults compared with children and may be associated with greater tic severity.
+
+【37】In a case-control study, children with TS (n = 1337) had a much higher risk of developing depression compared with matched controls (hazard ratio 4.85, 95% CI 3.46-6.79) . Another case-control study of 7736 patients with TS and chronic tic disorders found that TS was associated with an increased risk of suicide (odds ratio \[OR\] 4.39, 95% CI 2.89-6.67) and attempted suicide (OR 3.86, 95% CI 3.50-4.26) . The risk of suicide was increased among subjects with previous suicide attempts and those with persistence of tics beyond young adulthood.
+
+【38】 **Disruptive behaviors** – Episodes of behavioral outbursts, rage attacks, and aggression are common problems in patients with TS . In the report of 1374 patients with TS, the lifetime prevalence of disruptive behaviors was approximately 30 percent . These episodes, as well as other disruptive behavior associated with TS (eg, obscene language, swearing, cursing or gestures, impulse control problems, inappropriate obsessions), may increase the risk of encountering legal disciplinary action. The occurrence of assault and criminal behavior among patients with TS is rare, but patients are at increased risk compared with the general population .
+
+【39】 **Learning disabilities and poor school performance** – Learning disorders are common among patients with TS . Contributing factors include ADHD, OCD, disruptive tics, and adverse effects of medications . A cohort study from Sweden with over two million individuals found that subjects diagnosed with TS or chronic tic disorder (n = 3590) were more likely to experience academic underachievement across all educational levels, even after adjusting for neuropsychiatric comorbid conditions and other confounding factors .
+
+【40】Sleep disorders — Patients with TS commonly have sleep complaints and comorbid sleep disorders, including insomnia, excessive daytime sleepiness, disorders of arousal (eg, sleepwalking, sleeptalking, sleep terrors, enuresis), and bruxism . Motor tics persist during sleep in the majority of patients, predominantly during rapid eye movement (REM) sleep .
+
+【41】Additional associations — One population-based cohort study reported that adults and children with TS have an increased risk of obesity, type 2 diabetes, and cardiovascular disorders . Limited data suggest that patients with TS have an increased prevalence of migraine, tension-type headache, and cervical spine disorders compared with the general population .
+
+【42】EVALUATION AND DIAGNOSIS
+
+【43】History and examination — The evaluation of a patient with suspected TS should include a careful review of the medical, social, and family histories for tics or tic-related disorders. The clinician should assess tic classification and characteristics by history and by observation, either directly or by video recording, as this is key to the diagnosis. The evaluation should also assess the degree of functional impairment caused by tics and comorbid disorders, as this is essential to the management . Tic severity can be measured using a validated scale, such as the Yale Global Tic Severity Scale .
+
+【44】The neurologic examination in patients with TS is often normal except for the presence of tics. However, some patients have increased rates of normal blinking , subtle oculomotor disturbances related to saccadic eye movements , or other evidence of mild impairment of motor control.
+
+【45】Neuroimaging — Standard anatomic neuroimaging studies such as routine head computed tomography (CT) and brain MRI are unremarkable in patients with TS. However, volumetric MRI studies have found evidence of structural changes in the brain.
+
+【46】Diagnosis — The diagnosis of TS is based on the clinical features of the disease, particularly the presence of multiple motor and phonic tics, with onset before age 18 or 21, depending upon which criteria are used . There is no diagnostic laboratory test . The presence of phonic tics such as grunting is required for the diagnosis.
+
+【47】The diagnosis is often supported by the presence of coexisting behavioral disorders including attention deficit hyperactivity disorder (ADHD) and obsessive-compulsive disorder (OCD) . A family history of similar symptoms also supports the diagnosis of TS.
+
+【48】The mistaken diagnosis of a functional (psychogenic) disorder may occur because of certain characteristics of the tics in patients with TS, including the waxing and waning nature, exacerbation during periods of stress and reduction during mental concentration, and the temporary suppressibility. The presence of an irresistible urge before and relief after a tic-like movement is a feature that helps define the movement as a tic and argues against a functional (psychogenic) disorder . Once thought rare, functional tics have become much more frequent during the coronavirus disease 2019 (COVID-19) pandemic, occurring almost exclusively in girls, partly as a result of exposure to certain influencers on social media.
+
+【49】Diagnostic criteria — There is no confirmatory laboratory test for TS; the diagnosis is based on a set of clinical diagnostic criteria . The Tourette Syndrome Classification Study Group criteria for a definite diagnosis of TS are as follows :
+
+【50】 Both multiple motor tics and one or more phonic tics must be present at some time during the illness, although not necessarily concurrently
+
+【51】 Tics must occur many times a day, nearly every day, or intermittently throughout a period of more than one year
+
+【52】 Anatomic location, number, frequency, type, complexity, or severity of tics must change over time
+
+【53】 Onset of tics before the age of 21 years (the Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition \[DSM-5\] criteria  require onset of tics before age 18 years)
+
+【54】 Involuntary movements and noises must not be explained by another medical condition (or by the physiologic effects of substances as per the DSM-5 )
+
+【55】 Motor tics, phonic tics, or both must be witnessed by a reliable examiner at some point during the illness or be recorded by videotape or cinematography
+
+【56】Evaluation for comorbid conditions — Most patients with TS have comorbid neuropsychiatric disorders. Therefore, patients with TS should be evaluated for common comorbid conditions, particularly ADHD and OCD . Patients should also be screened for anxiety, mood, and disruptive behavior disorders, and questioned about suicidal ideation and suicide attempts.
+
+【57】DIFFERENTIAL DIAGNOSIS 
+
+【58】Although TS is the most common cause of persistent or recurrent tics, there are many potential etiologies in the differential diagnosis . The main entity is transient tics of childhood, which occur in approximately 25 percent of children . Other considerations in the differential include neuroacanthocytosis, drugs such as dopamine receptor blocking agents and cocaine, pervasive developmental disorders, and insults to the basal ganglia resulting from head trauma or stroke; these and others are outlined in the table  .
+
+【59】The ability to temporarily suppress tics and the premonitory sensations that often precede tics are hallmark features of TS that help to differentiate it from other hyperkinetic movement disorders such as chorea, dystonia, athetosis, myoclonus, stereotypies, and paroxysmal dyskinesia .
+
+【60】Complex motor stereotypies usually have an earlier onset than TS and, unlike TS, lack a premonitory urge, are executed in a fixed pattern with a prolonged duration and rhythmic quality, and can be stopped with cueing .
+
+【61】Links to society and government-sponsored guidelines from selected countries and regions around the world are provided separately.
+
+【62】INFORMATION FOR PATIENTS 
+
+【63】Here are the patient education articles that are relevant to this topic. We encourage you to print or e-mail these topics to your patients. (You can also locate patient education articles on a variety of subjects by searching on "patient info" and the keyword(s) of interest.)
+
+【64】 Basics topics
+
+【65】 **Definition** – Tourette syndrome (TS) is a common movement and neurobehavioral disorder in children characterized by multiple motor and phonic tics.
+
+【66】 **Pathogenesis** – TS is thought to result from a complex interaction between social and environmental factors and multiple genetic abnormalities. Several studies suggest a disturbance in the cortico-striatal-thalamic-cortical (mesolimbic) circuit, which leads to disinhibition of the motor and limbic system. The genetic basis of TS remains elusive.
+
+【67】 **Clinical features** – Tics are the clinical hallmark of TS.
+
+【68】• **Tic characteristics** – Tics are sudden, brief, intermittent movements (motor tics) or utterances (phonic tics). Most patients experience premonitory feelings or sensations, described as an irresistible urge to perform a tic, followed by relief after a tic.
+
+【69】• **Onset and natural history** – The onset of TS is typically between ages 2 and 15 years and occurs by 11 years of age in 96 percent of patients. The severity of tics usually reaches a peak between the ages of 10 to 12 years, followed by improvement in the majority during adolescent years and adulthood.
+
+【70】• **Common comorbidities** – Common comorbid conditions in TS include attention deficit hyperactivity disorder (ADHD), obsessive-compulsive disorder (OCD), and other behavioral and psychosocial problems.
+
+【71】 **Diagnosis** – The diagnosis of TS is based on the clinical features, particularly the presence of multiple motor and phonic tics, with onset before age 21. There is no diagnostic laboratory test.
+
+【72】 **Differential diagnosis** – The main entity on the differential diagnosis is transient tics of childhood, which occur in approximately 25 percent of children. Other considerations include neuroacanthocytosis, drugs such as dopamine receptor blocking agents and cocaine, pervasive developmental disorders, and insults to the basal ganglia resulting from head trauma or stroke .焦瀚远
+
+====================================================================================================

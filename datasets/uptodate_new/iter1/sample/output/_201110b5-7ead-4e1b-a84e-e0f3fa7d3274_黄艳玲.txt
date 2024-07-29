@@ -1,0 +1,161 @@
+【0】Hypertrophic cardiomyopathy: Management of patients without outflow tract obstruction
+
+【1】INTRODUCTION 
+
+【2】Hypertrophic cardiomyopathy (HCM) is a genetically determined cardiomyopathy that typically manifests as left ventricular hypertrophy (LVH). LVH results in structural and functional abnormalities that can produce a variety of symptoms that include dyspnea, chest discomfort, palpitations, and syncope.
+
+【3】The treatment of patients with HCM who do not have left ventricular outflow tract (LVOT) obstruction will be reviewed here.
+
+【4】The approach to identifying left ventricular outflow tract obstruction is reviewed elsewhere.
+
+【5】The treatment of patients with LVOT obstruction can be found separately.
+
+【6】The management of other aspects of HCM can be found elsewhere:
+
+【7】The clinical manifestations, diagnosis, prognosis, and pathophysiology of HCM are discussed elsewhere:
+
+【8】IDENTIFICATION OF OUTFLOW OBSTRUCTION 
+
+【9】The definition of left ventricular outflow tract obstruction and its management are described separately.
+
+【10】EVALUATION OF SYMPTOMS
+
+【11】Etiology of symptoms — Given the importance of left ventricular outflow tract (LVOT) obstruction as the predominant mechanism of limiting symptoms in patients with HCM, it is imperative that all patients with HCM undergo assessment for obstruction. Assessment for obstruction typically includes resting echocardiography, and, if obstruction is absent or <50 mmHG at rest, patients should undergo provocation, with exercise echocardiography preferred. The assessment for obstruction and the approach to treatment of symptoms caused by LVOT obstruction are discussed separately.
+
+【12】In patients without LVOT obstruction at rest or with provocation (ie, truly nonobstructive HCM), symptoms of dyspnea, fatigue, chest pain, palpitation, and syncope may be caused by any combination of diastolic dysfunction, mitral regurgitation, "small vessel" ischemia, arrhythmias, or noncardiac diseases including abnormal peripheral vascular responses .
+
+【13】Chest pain — In patients with nonobstructive HCM who have new-onset or worsening chest pain, the evaluation is primarily focused on assessing for signs or symptoms that suggest the presence of epicardial coronary artery disease (CAD). Thus, the initial evaluation of chest pain in patients with nonobstructive HCM includes the following elements:
+
+【14】 History focused on the risk factors, time course, duration, location, and other characteristics of chest pain (eg, exacerbating factors, relieving factors).
+
+【15】 Physical examination to identify new murmurs or signs of cardiac decompensation such as heart failure (HF).
+
+【16】 Electrocardiogram (ECG) or ambulatory monitoring to identify evidence of ischemia, prior myocardial infarction, or any abnormal rhythms associated with chest discomfort (eg, premature ventricular depolarizations).
+
+【17】 Repeat echocardiography with provocation to assess for changes in cardiac structure or function, especially latent LVOT obstruction.
+
+【18】After an initial evaluation, patients with signs or symptoms of obstructive CAD should be appropriately tested. In patients with HCM, the choice of test for obstructive CAD is similar to that in patients without HCM. However, given the relatively high false positive rates with exercise nuclear stress testing, it is reasonable to obtain coronary computed tomographic angiography (CCTA) as the initial test for CAD; CCTA has a high negative predictive value.
+
+【19】In patients with HCM who have no evidence of macrovascular (ie, epicardial) CAD (eg, normal coronary angiogram or CCTA) or who are refractory to appropriate therapies for chest pain, microvascular or small vessel ischemia is likely present. In most patients with suspected microvascular disease, we proceed with therapy for chest pain and only obtain additional testing (eg, positron emission tomography with coronary flow reserve testing) in select individuals in whom the diagnosis is unclear.
+
+【20】Dyspnea and exertional fatigue — There are many causes of dyspnea and exertional fatigue in patients with nonobstructive HCM. The most common causes include:
+
+【21】 Ischemia
+
+【22】 Diastolic or systolic LV dysfunction with attendant HF
+
+【23】 Permanent or paroxysmal atrial arrhythmias
+
+【24】 Noncardiac causes (eg, obesity)
+
+【25】In patients with nonobstructive HCM, the evaluation for the cause of dyspnea and fatigue includes the following:
+
+【26】 History focused on the nature and severity of symptoms.
+
+【27】 Physical examination focused on identifying signs of HF.
+
+【28】 Laboratory studies that include serum creatinine and B-type natriuretic peptide.
+
+【29】 Chest radiography to assess for pulmonary edema or intrinsic lung disease.
+
+【30】 Echocardiography to assess for changes in cardiac structure and function that includes an assessment for the presence of newly identified LVOT obstruction.
+
+【31】 Invasive study with right heart catheterization to directly measure LV filling pressures and cardiac output may be helpful in assessing etiology of symptoms in select patients with HCM in whom the cause of symptoms is uncertain after conventional testing.
+
+【32】In patients with signs or symptoms of ischemia, we obtain an appropriate evaluation for ischemia, as described above.
+
+【33】In patients without a clear cardiac cause for dyspnea or fatigue, other causes of these symptoms should be investigated.
+
+【34】Palpitations, syncope, or other symptoms of arrhythmias — In patients with nonobstructive HCM and syncope, the causes of syncope include atrial fibrillation and, less commonly, ventricular arrhythmias, conduction system disease (eg, atrioventricular block), and neurocardiogenic or vasovagal mechanisms.
+
+【35】For patients with nonobstructive HCM and documented or suspected syncope, the evaluation includes:
+
+【36】 History focused on the circumstances leading to the event, prodrome, presence or absence of loss of consciousness, and immediate effects of the episode (eg, seizure-like activity, postsyncopal symptoms).
+
+【37】 Physical examination with a focus on any changes.
+
+【38】 Serum electrolytes including potassium and magnesium levels.
+
+【39】 ECG.
+
+【40】 Repeat echocardiography to assess for changes in cardiac structure and function that includes assessment for the presence of newly identified LVOT obstruction.
+
+【41】If a rhythm was not recorded during the event, we recommend an ambulatory patch monitor or mobile cardiac outpatient telemetry for most patients.
+
+【42】In rare patients in whom the cause of syncope cannot be established with routine testing, additional testing may be required.
+
+【43】TREATMENT FOR SYMPTOMS
+
+【44】Chest discomfort — In patients with nonobstructive HCM who have chest discomfort without evidence of obstructive coronary artery disease (CAD), we suggest initial treatment with a nondihydropyridine calcium channel blocker (eg, diltiazem or verapamil ) or a beta blocker (eg, metoprolol succinate) rather than with other agents (eg, nitrates, ranolazine ). The typical approach to use of nondihydropyridine calcium channel blocker or beta blocker therapy is to start with a low dose and increase until control of chest pain is satisfactory. In our experience, control of chest pain typically requires a relatively high dose (eg, 360 mg of sustained release verapamil per day) of these agents.
+
+【45】In patients who cannot take a calcium channel blocker or a beta blocker or whose symptoms are not controlled with one of these drugs, we suggest a trial of ranolazine rather than nitrates.
+
+【46】There are limited data to guide the treatment of chest pain in patients with HCM. The approach above reflects our experience. In one trial that compared ranolazine with placebo, ranolazine had no clear effect on chest pain scores or quality of life . Regardless of this result, we consider ranolazine in patients who have not responded to other treatment options.
+
+【47】Heart failure with systolic dysfunction — For patients with nonobstructive HCM, typical New York Heart Association class II to IV HF symptoms, and evidence of LV systolic dysfunction (eg, LV ejection fraction \[LVEF\] <50 percent), the approach to the treatment of HF is similar to the approach used for patients who have other causes HF with reduced LVEF.
+
+【48】Evidence on the optimal approach to such patients is limited, but most experts treat these patients using the standard approach to patients with HF due to systolic dysfunction . In addition, patients who have progressive and severe HF symptoms despite therapy may be candidates for heart transplantation or, less commonly, mechanical circulatory support .
+
+【49】Heart failure with normal ejection fraction — For nonobstructive HCM patients with symptoms of HF (eg, edema, congestion, orthopnea) and LVEF ≥50 percent, treatment consists of appropriate diuresis and management of conditions that may contribute to HF exacerbations. In some patients with HCM who have signs of restriction and LVEF >50 percent, management is more similar to that in patients with restrictive cardiomyopathy (eg, diuretics, evaluation for transplantation) than it is to that in patients with HF with preserved ejection fraction. The management of patients with restrictive cardiomyopathy is discussed separately.
+
+【50】Symptomatic arrhythmias — Patients with HCM who have palpitations, presyncope, or syncope should be managed based on the most likely cause of their symptoms. The management of these rhythms in patients with HCM is covered separately.
+
+【51】Heart failure with extensive apical hypertrophy — In highly selected patients with nonobstructive HCM in whom hypertrophy predominantly affects the mid to distal portion of the LV cavity and who have severe exercise limitation despite medical therapy, apical myectomy at an experienced center may be an option for treatment. Ideal candidates for apical myectomy typically have a small LV cavity size (LV end-diastolic volume <50 mL/m 2 and LV stroke volume <30 mL/m 2 ). In such patients, apical myectomy can increase cavity size, which may increase stroke volume and improve HF symptoms .
+
+【52】Refractory heart failure symptoms — Similar to other patients with advanced HF, transplantation and, rarely, mechanical circulatory support may be an option for some patients with HCM. The approach to these therapies is discussed separately.
+
+【53】MANAGEMENT OF ASYMPTOMATIC PATIENTS
+
+【54】Observation only — Patients with HCM who are asymptomatic can be managed with close clinical observation and do not require pharmacologic therapy. In trials of asymptomatic patients, prophylactic treatment does not appear to alter the natural history of HCM. Major professional societies do not recommend routine pharmacologic therapy for asymptomatic patients .
+
+【55】One trial in asymptomatic or mildly symptomatic patients showed no effect on surrogate outcomes:
+
+【56】 In a randomized trial of 133 patients with HCM who had minimal or no symptoms , patients were randomized to losartan 100 mg daily or placebo (in addition to standard HCM therapy). After 12 months of observation, LV systolic function, left atrial volume, and exercise capacity were similar in the two treatment groups . While apparently safe in patients without LVOT obstruction, losartan had no impact on HCM disease progression and should not be routinely used in the treatment of patients with obstructive HCM.
+
+【57】Treatment for sudden death — Some asymptomatic patients with HCM have clinical or morphologic features that increase the risk of sudden death. The approach to sudden death prevention in patients with HCM is discussed separately.
+
+【58】Links to society and government-sponsored guidelines from selected countries and regions around the world are provided separately.
+
+【59】INFORMATION FOR PATIENTS 
+
+【60】Here are the patient education articles that are relevant to this topic. We encourage you to print or e-mail these topics to your patients. (You can also locate patient education articles on a variety of subjects by searching on "patient info" and the keyword(s) of interest.)
+
+【61】 Basics topic
+
+【62】 Beyond the Basics topic
+
+【63】 **Evaluation of symptoms**
+
+【64】• **Etiology of symptoms** – In patients with nonobstructive hypertrophic cardiomyopathy (HCM), the symptoms of dyspnea, fatigue, chest pain, palpitation, and syncope may be caused by any combination of diastolic dysfunction, mitral regurgitation, "small vessel" ischemia, arrhythmias, or noncardiac diseases including abnormal peripheral vascular responses.
+
+【65】• **Chest pain** – In patients with nonobstructive HCM who have new-onset or worsening chest pain, the evaluation is primarily focused on assessing for signs or symptoms that suggest the presence of epicardial coronary artery disease (CAD).
+
+【66】In patients with HCM, the choice of test for obstructive CAD is similar to patients without HCM and is discussed separately.
+
+【67】• **Dyspnea and exertional fatigue** – There are many causes of dyspnea and exertional fatigue in patients with nonobstructive HCM. The most common causes include ischemia, heart failure (HF), arrhythmias, and noncardiac causes (eg, obesity).
+
+【68】In patients without a clear cardiac cause for dyspnea or fatigue, other causes of these symptoms should be investigated.
+
+【69】• **Palpitations, syncope, or other symptoms** – In patients with nonobstructive HCM and syncope, the causes of syncope include ventricular arrhythmias, high-level conduction disease, and neurocardiogenic or vasovagal mechanisms. If a rhythm was not recorded during the event, we recommend an ambulatory patch monitor or mobile cardiac outpatient telemetry for most patients.
+
+【70】 **Treatments for symptoms or syndromes**
+
+【71】• **Chest discomfort** – In patients with nonobstructive HCM who have chest discomfort without evidence of obstructive CAD, we suggest initial treatment with diltiazem or verapamil rather than with other negative inotropes or other agents typically used to treat chest pain (eg, nitrates, ranolazine ) .
+
+【72】In patients who cannot take diltiazem or verapamil or whose symptoms are not controlled with one of these drugs, we suggest a trial of beta blockers or ranolazine rather than nitrates .
+
+【73】• **Heart failure with systolic dysfunction** – For nonobstructive HCM patients with typical New York Heart Association class II to IV HF symptoms and evidence of left ventricular (LV) systolic dysfunction (eg, LV ejection fraction \[LVEF\] <50 percent), the approach to the treatment of HF is similar to the approach used for patients who have other causes HF with reduced LVEF.
+
+【74】• **Heart failure with normal ejection fraction** – For patients with nonobstructive HCM, symptoms of HF (eg, edema, congestion, orthopnea), and LVEF ≥50 percent, treatment consists of appropriate diuresis and management of conditions that may contribute to HF exacerbations. The treatment of these patients is similar to patients with restrictive cardiomyopathy.
+
+【75】• **Symptomatic arrhythmias** – Patients with HCM who have palpitations, presyncope, or syncope should be managed based on the most likely cause of their symptoms. The management of these rhythms in patients with HCM is covered separately.
+
+【76】• **Severe heart failure symptoms** – Similar to other patients with advanced HF, transplantation and, rarely, mechanical circulatory support may be an option for some patients with HCM. The approach to these therapies is discussed separately.
+
+【77】 **Management of asymptomatic patients**
+
+【78】• **Pharmacologic treatment** – Patients with HCM who are asymptomatic can be managed with close clinical observation and do not require pharmacologic therapy.
+
+【79】• **Treatment to prevent sudden death** – Some asymptomatic patients with HCM have clinical or morphologic features that increase the risk of sudden death. The approach to sudden death prevention in patients with HCM is discussed separately.黄艳玲
+
+====================================================================================================

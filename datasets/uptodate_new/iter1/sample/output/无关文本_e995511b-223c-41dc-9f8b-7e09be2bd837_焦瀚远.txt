@@ -1,0 +1,81 @@
+【0】Nitroxoline: International drug information (concise)
+
+【1】Contributor Disclosures
+
+【2】For abbreviations, symbols, and age group definitions show table
+
+【3】International Brand Names
+
+【4】International Brand Names by Country
+
+【5】For country code abbreviations ( show table )  
+
+*   (CI) Côte d'Ivoire : Nabyol forte ;
+*   (CZ) Czech Republic : 5 Nitrox ;
+*   (DO) Dominican Republic : Nibiol ;
+*   (EE) Estonia : 5 Nitrox | 5 nok | Nitroxolin ;
+*   (EG) Egypt : Nibiol ;
+*   (FR) France : Nibiol ;
+*   (LB) Lebanon : Nibiol ;
+*   (LT) Lithuania : 5 nok | Nitroxolin | Nok ;
+*   (LU) Luxembourg : Nibiol ;
+*   (LV) Latvia : Nitroxolin | Nok ;
+*   (MA) Morocco : Nabyol forte | Nibiol ;
+*   (PL) Poland : 5 Nitrox | Nibiol ;
+*   (RU) Russian Federation : 5 Nitrox | 5-noc | Nitroxolin | Nitroxolin ubf | Nitroxolin-akos | Nok ;
+*   (TN) Tunisia : Nibiol ;
+*   (TW) Taiwan : Lotal | Nibiol | Nice | Nitrolir | Nysin | Sanser | Yuro ;
+*   (UA) Ukraine : 5 Nitrox | Nitroxolin | Nok ;
+*   (ZA) South Africa : Nicene n
+
+【7】Pharmacologic Category
+
+【8】*   Antibiotic, Miscellaneous
+
+【9】Reported Use
+
+【10】Acute and chronic uncomplicated lower urinary tract infection
+
+【11】Dosage Range
+
+【12】Adults: Oral: 400-600 mg/day in divided doses after meals
+
+【13】Product Availability
+
+【14】Product available in various countries; not currently available in the US
+
+【15】Dosage Forms
+
+【16】Tablet: 100 mg
+
+【17】Topic 10476 Version 50.0焦瀚远
+
+====================================================================================================
+文本干净度#无关文本#【1】Contributor Disclosures
+
+【2】For abbreviations, symbols, and age group definitions show table
+
+【3】International Brand Names
+
+【4】International Brand Names by Country
+
+【5】For country code abbreviations ( show table )
+
+(CI) Côte d’Ivoire : Nabyol forte ;
+(CZ) Czech Republic : 5 Nitrox ;
+(DO) Dominican Republic : Nibiol ;
+(EE) Estonia : 5 Nitrox | 5 nok | Nitroxolin ;
+(EG) Egypt : Nibiol ;
+(FR) France : Nibiol ;
+(LB) Lebanon : Nibiol ;
+(LT) Lithuania : 5 nok | Nitroxolin | Nok ;
+(LU) Luxembourg : Nibiol ;
+(LV) Latvia : Nitroxolin | Nok ;
+(MA) Morocco : Nabyol forte | Nibiol ;
+(PL) Poland : 5 Nitrox | Nibiol ;
+(RU) Russian Federation : 5 Nitrox | 5-noc | Nitroxolin | Nitroxolin ubf | Nitroxolin-akos | Nok ;
+(TN) Tunisia : Nibiol ;
+(TW) Taiwan : Lotal | Nibiol | Nice | Nitrolir | Nysin | Sanser | Yuro ;
+(UA) Ukraine : 5 Nitrox | Nitroxolin | Nok ;
+(ZA) South Africa : Nicene n#无
+文本干净度#无关文本#【17】Topic 10476 Version 50.0#无

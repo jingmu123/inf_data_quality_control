@@ -1,0 +1,181 @@
+【0】Prolonged intermittent kidney replacement therapy
+
+【1】INTRODUCTION 
+
+【2】Kidney replacement therapy (KRT) is commonly required in patients with severe acute kidney injury (AKI). Acute KRTs include standard intermittent hemodialysis, peritoneal dialysis, continuous kidney replacement therapies (CKRTs), and hybrid therapies such as prolonged intermittent kidney replacement therapies (PIKRT), still most widely known under the term prolonged intermittent renal replacement therapy (PIRRT).
+
+【3】This topic reviews PIKRT in AKI. CKRTs are discussed elsewhere.
+
+【4】Standard intermittent hemodialysis and peritoneal dialysis for AKI are discussed elsewhere.
+
+【5】DEFINITION AND INDICATIONS FOR PIKRT 
+
+【6】PIKRT is a hybrid treatment that provides KRT for an extended period of time (ie, 6 to 18 hours) but is intermittent (at least three times per week) . PIKRT includes both convective (ie, hemofiltration) and diffusive (ie, hemodialysis) therapies, depending on the method of solute removal .
+
+【7】Other terms used to describe PIKRT include sustained low-efficiency (daily) dialysis (SLED or SLEDD), sustained low-efficiency (daily) diafiltration (SLEDD-f), extended daily dialysis (EDD), slow continuous dialysis (SCD), go slow dialysis, and accelerated venovenous hemofiltration (AVVH) or hemodiafiltration (AVVHDF) .
+
+【8】Indications for PIKRT include the following:
+
+【9】 Dialysis-requiring acute kidney injury (AKI) in a patient who is too hemodynamically unstable to tolerate standard intermittent hemodialysis
+
+【10】 Staff shortages where a dialysis nurse-to-patient ratio of 1:1 in the intensive care unit is unfeasible 
+
+【11】In most institutions, standard intermittent hemodialysis (eg, four hours of hemodialysis, three times weekly) is the preferred modality for hemodynamically stable patients with severe AKI. Continuous KRT (CKRT) is preferred to standard intermittent hemodialysis for hemodynamically unstable patients, particularly in the setting of large, ongoing fluid administration.
+
+【12】PIKRT is an alternative to CKRT for hemodynamically unstable patients, although the evidence is weak . Similar to CKRT, blood pressures are more stable on PIKRT compared with standard intermittent KRT because the rate of solute and fluid removal is slower . One specific system, the GENIUS batch dialysis machine, also contributes to hemodynamic stability by a spontaneous cooling of the dialysate, which mildly decreases body core temperature . Should one choose to utilize cool dialysate for blood pressure support, it can be accommodated by most standard hemodialysis machines used in PIKRT.
+
+【13】Metabolic control is comparable with CKRT , and mortality with PIKRT appears to be comparable with other forms of KRT, including CKRT in critically ill patients with AKI . Moreover, a time-series analysis of three intensive care units (ICUs) from three different countries showed that a change from CKRT to PIKRT was not associated with a change in mortality risk , even when accounting for patient illness severity and underlying trends for improvement in mortality rates of AKI patients over time .
+
+【14】PIKRT is useful if the patient requires multiple procedures that would interrupt CKRT . In order to deliver an adequate dialysis dose, CKRT needs to be operating with as few interruptions as possible over 24 hours. Because PIKRT incorporates scheduled time off dialysis (and off anticoagulation, which is often required for both CKRT and PIKRT) procedures may be performed without compromising the dialysis dose.
+
+【15】In some institutions, PIKRT is used to transition patients from CKRT to standard intermittent hemodialysis as hemodynamic stability improves. PIKRT allows for greater mobilization and rehabilitation of patients because of scheduled time off dialysis .
+
+【16】We use CKRT rather than intermittent hemodialysis, including PIKRT, for patients with acute brain injury or other causes of increased intracranial pressure who have AKI . This is because intermittent hemodialysis is more likely to worsen cerebral edema via a decrease in mean arterial pressure (which causes compensatory cerebral vasodilation) and via a rapid removal of urea resulting in a shift of water to the intracellular space. Limited data, however, suggest that PIKRT is safe for such patients .
+
+【17】One meta-analysis found no statistically significant difference between PIKRT and CKRT with regard to patient-centered outcomes such as mortality, kidney function recovery, dialysis dependence, length of intensive care unit stay, and fluid removal rate . Phosphate removal was, however, higher in PIKRT as compared with CKRT.
+
+【18】DIALYSIS MACHINES AND HEMODIALYZERS 
+
+【19】PIKRT can be performed on most machines that are used for standard intermittent hemodialysis. Machines used for PIKRT should have the capability to run at low blood and dialysate flow rates. Some machines are designed specifically for PIKRT and have specific capabilities for solute removal by convection, diffusion, or both . Modern hemodialysis machines used for PIKRT are one-half to one-third the price of machines specifically designed for continuous KRT (CKRT).
+
+【20】Standard extracorporeal circuit tubing and hemodialyzers are used for PIKRT. We generally use high-flux dialyzers. Other membranes may result in lower clearance .
+
+【21】High-cutoff dialyzers have been studied in PIKRT. High-cutoff dialyzers use a membrane that allows clearance of larger solutes compared with high-flux membranes. PIKRT with high-cutoff membranes may provide better clearance of middle molecules, but the clinical significance of this is not known .
+
+【22】AVAILABILITY 
+
+【23】Prior to the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) pandemic, a survey of dialysis directors of all Veterans Affairs facilities providing inpatient hemodialysis found that over half of the respondents had the capabilities at their facilities to perform PIKRT . During the pandemic, "walkaway" PIKRT, a joint discipline between the intensive care unit (ICU) and nephrology department, experienced even more widespread use . After determination of the treatment goals, the dialysis staff start the treatment and subsequently hand over treatment to the ICU nurse . During hand over, the ICU nurse is instructed on how to adjust the ultrafiltration rate. The dialysis nurse then "walks away" but returns periodically to check on the treatment coordinates. Throughout the treatment, the dialysis staff is reachable and can address problems within a short period of time.
+
+【24】In Europe, popularity of PIKRT increased from the mid-1990s but was curbed by regulatory actions involving the use of citrate anticoagulation with the GENIUS dialysis system . Presently, 36 percent of all the ICUs in Germany perform PIKRT .
+
+【25】In resource poor regions, PIKRT can be performed safely and effectively, with significantly lower cost as compared with continuous kidney replacement therapy (CKRT) .
+
+【26】VASCULAR ACCESS 
+
+【27】A nontunneled or tunneled dialysis catheter in a central vein is the preferred access for PIKRT, even among end-stage kidney disease (ESKD) patients who have an arteriovenous fistula (AVF) or graft (AVG).
+
+【28】We do not routinely use the AVG/AVF for PIKRT, because the prolonged placement of needles during PIKRT increases the risk of bleeding or injury to the AVG/AVF. However, if there is specific training and careful oversight, AVFs and AVGs may be used if central access cannot be obtained or is not feasible (as for a patient who is anticipated to have only a short stay in the intensive care unit \[ICU\]) . Among such patients, the AVF/AVG should be closely monitored to make sure the needles are not dislodged during the prolonged treatment . The use of cutaneous or surface blood detectors over the needles is common when AVFs or AVGs are used in this setting.
+
+【29】PRESCRIPTION 
+
+【30】For each session, the prescription should specify the time on dialysis, the dialysate composition and flow rate, the ultrafiltration goal and rate, the blood flow rate, and the method of anticoagulation, if any.
+
+【31】Session length — PIKRT should be performed at least three times per week to provide an adequate dialysis dose. The time per session ranges from 6 to 18 hours but is typically approximately eight hours. The length of the dialysis session depends on the needs of the patient (usually the volume that needs to be removed) and hemodynamic stability.
+
+【32】The time per individual session is often determined after assessing the patient response to the initial ultrafiltration rate (fluid removal per hour). As an example, for a severely volume-overloaded patient who requires the removal of large amount of fluid but is hemodynamically unstable, the ultrafiltration rate should be set as low as possible initially and gradually increased until the maximum tolerable ultrafiltration rate is determined by trial and error. The ultrafiltration goal (ie, desired amount of fluid to be removed in the session) is divided by the maximum tolerable ultrafiltration rate to determine the session length.
+
+【33】The dialysis time may also be determined by other nondialysis-related factors such as scheduling of procedures.
+
+【34】Dialysate composition — Dialysate for PIKRT is either generated on-line, mixed from prepackaged salts prior to the treatment, or provided by the dialysis company as prepackaged fluid .
+
+【35】The optimal dialysate composition varies based on the anticipated duration of treatment. In general, when the duration of PIKRT is eight hours or more, the dialysate solution generally contains the following:
+
+【36】 Potassium of 4 mEq/L
+
+【37】 Bicarbonate of 24 to 28 mEq/L
+
+【38】 Calcium of 2.5 to 3.0 mEq/L
+
+【39】When the duration of PIKRT is less than eight hours, the dialysate solution generally contains the following:
+
+【40】 Potassium of 3 mEq/L
+
+【41】 Bicarbonate of 28 to 32 mEq/L
+
+【42】 Calcium of 2 to 3.5 mEq/L
+
+【43】Other constituents (such as sodium and glucose) do not change with duration of treatment.
+
+【44】Several vendors produce a commercially available dialysate that uses citrate instead of acetic acid in the acid concentrate, although it is used infrequently. Citrate use has been reported to decrease extracorporeal circuit clotting during intermittent hemodialysis . However, there are insufficient published data to recommend the use of citrate dialysate for this purpose.
+
+【45】Dialysate flow rate — The dialysate flow rate ranges from 100 to 300 mL/min. We use a higher flow rate, at least initially, for patients with severe acidosis or electrolyte abnormalities since a higher dialysis flow rate allows better solute clearance. However, the dialysate flow rate is also adjusted for the anticipated duration of the session since there is a finite amount of dialysate volume available per session (which is preset by the dialysis machine or by the packaging of dialysate fluid).
+
+【46】As an example, we initially use a dialysate flow rate of 300 mL/min for individuals with severe acidosis or hyperkalemia. We decrease the dialysate flow rate to 100 or 200 mL/min if the anticipated session length is increased to ≥8 hours, whereas we continue to use a dialysate flow rate of 300 mL/min if the session is expected to be <8 hours.
+
+【47】As noted, the session time is influenced by tolerance to ultrafiltration, and unstable patients who do not tolerate the initially set ultrafiltration rate often have the session time lengthened after starting PIKRT. In such patients, the dialysate flow rate must be decreased so that there is a sufficient supply of dialysate to last the entire session since some machines allow only 90 liters of dialysate per session . Similarly, a jug of dialysate concentrate will last approximately six hours at a QD of 300 mL/min but 18 hours at a QD of 100 mL/min.
+
+【48】The dialysate flow rates used with PIKRT are lower than those used with standard intermittent hemodialysis (usually approximately 500 mL/min). The rate of solute removal achieved with low dialysate flow rates has been studied in the setting of continuous arteriovenous hemodialysis and to some extent in slow daily hemodialysis . The ratio of dialysate flow rate to blood flow rate is a major determinant of dialysate saturation, such that the lower the ratio, the greater the saturation. This is relevant when dialysate is the scarce commodity. The degree to which dialysate is saturated with urea (expressed as the percentage ratio of dialysate urea nitrogen to blood urea nitrogen \[DUN/BUN\]) determines the efficacy of the treatment. Up to a QD of 30 to 50 mL/min, the DUN/BUN approaches 100 percent, implying complete saturation of dialysate with urea .
+
+【49】At these low flow rates, diffusive urea clearance is numerically equal to, and therefore limited by, dialysate flow. However, increasing QD above these rates leads to proportionally decreasing gains in urea clearance as the DUN/BUN progressively falls, although this is also dependent upon blood flow .
+
+【50】This phenomenon is illustrated in the figure , where urea clearances were studied in an in vitro system of continuous venovenous hemodialysis (CVVHD) under conditions of different blood and dialysate flows. The flattening of the curves describes the conditions where increases in blood flow rate do not enhance clearance. The greater the dialysate flow rate, the less likely the plateau will occur .
+
+【51】Large differences in the technical success or patient outcomes of different dialysate flow rates in PIKRT have not been shown. These prescription variables all interrelate.
+
+【52】Ultrafiltration goal — The ultrafiltration goal is the amount of fluid that the clinician wishes to remove during the treatment session. The ultrafiltration goal generally varies between 0 and 6 L per treatment, with an average of approximately 3 L. The goal is determined by the volume status, the patient's ongoing fluid requirement (eg, enteral or total parenteral nutrition and intravenous antibiotics) and the cumulative fluid accumulation since the intensive care unit (ICU) admission .
+
+【53】Volume overload should be expressed in relative terms (eg, 5 or 10 percent over the body weight on admission) and in absolute terms (eg, +3.7 L). Using absolute terms alone may be misleading since the clinical impact of an absolute volume excess of 3.7 liters would be different in a 120 kg or 42 kg patient.
+
+【54】Volume status is determined in part by physical examination, hemodynamic indices, and with the use of other invasive and noninvasive techniques.
+
+【55】Ultrafiltration rate — The rate is the amount of fluid removed per hour. Ideally, ultrafiltration rate is normalized to weight, such mL/kg/hour.
+
+【56】The rate is determined by hemodynamic stability and the urgency to remove excess fluid. Setting the initial ultrafiltration rate requires clinical judgment. Among hemodynamic unstable patients, we start with a little as 50 mL/hour and increase over time. Among patients who are severely volume overloaded but have a stable blood pressure, we will start with a much higher ultrafiltration rate in order to prevent intubation.
+
+【57】Among volume-overloaded patients, we continue the maximum ultrafiltration rate that is tolerated by the patient and set the treatment time accordingly.
+
+【58】Blood flow — We use the highest blood flow (QB) that the catheter will allow (generally 300 to 400 mL/min). Higher blood flows may prevent clotting of the extracorporeal circuit tubings and hemodialyzers. High blood flows do not worsen hemodynamic instability.
+
+【59】We do not increase the blood flow to increase clearance, particularly if the dialysate flow rate is low. With low dialysate flow rates, increasing the blood flow does not have a large effect on solute clearance, since dialysate is saturated .
+
+【60】Anticoagulation — We generally use anticoagulation to prevent clotting of the extracorporeal system . However some clinicians choose to not use anticoagulation in all patients, at least initially. Better clinical outcomes have not been shown with anticoagulation versus no anticoagulation in PIKRT.
+
+【61】Methods of anticoagulation include systemic unfractionated heparin and regional citrate anticoagulation (RCA). The approach varies among institutions and between the authors of this topic. Both approaches are described:
+
+【62】 **Heparin** – One approach is to use heparin in all patients unless there is a contraindication (generally bleeding). We give heparin 1000 to 2000 unit bolus , followed by an infusion of 500 to 1000 units/hour to keep the activated partial thromboplastin time (aPTT) 10 to 20 seconds above or 1.5 times the upper limit of the normal range .
+
+【63】An alternate approach is to administer an initial bolus of 1000 to 2000 units  followed by a continuous infusion of 2 to 5 units/mL of heparin in 0.9 percent saline solution administered at 7.5 units/kg/hour. The excess fluid administered with this method is accounted for in the total ultrafiltration goal for the dialysis session. With this regimen, we aim for aPTT of 35 to 50 seconds, unless the patient has recurrent clotting. If a patient develops recurrent clotting, then the aPTT goal is gradually increased, to balance the risk of recurrent clotting and bleeding.
+
+【64】If there is a contraindication to heparin, we attempt PIKRT without anticoagulation. If treatments are repeatedly interrupted because of clotting of the extracorporeal system, we use regional citrate anticoagulation .
+
+【65】 Regional citrate anticoagulation **(RCA) –** An alternative approach is to use RCA in all patients. RCA is a safe method of anticoagulation in almost all ICU patients . In a study including 282 patients on PIKRT, citrate anticoagulation using a 30 percent citrate solution was superior to heparin in preventing severe bleeding and circuit clotting . A variety of other citrate solutions also have been used for RCA .
+
+【66】We use low-calcium dialysate  and infuse a 3 or 4 percent sodium citrate solution into the arterial line of the extracorporeal circuit. The citrate infusion is adjusted to target postfilter ionized calcium concentration of 0.5 to 0.7 mmol/L .
+
+【67】There should be routine surveillance of the citrate infusions and routine laboratory monitoring during PIKRT. We check the blood calcium after 30 and 120 minutes and then at hours 4, 8, and 12 during treatment. We give intravenous calcium if the ionized calcium is <0.9 mmol/L.
+
+【68】PIKRT with citrate anticoagulation may cause hypernatremia and metabolic alkalosis. Hypernatremia and metabolic alkalosis can be corrected by lowering the dialysate sodium and bicarbonate concentrations, respectively, by increasing the dialysate flow rate, or adding an infusion of 0.45 percent saline .
+
+【69】DRUG DOSING 
+
+【70】Drug clearance can be considerable with PIKRT . Decisions about dosing and therapeutic drug monitoring need to be made on an individual basis depending on drug characteristics . Only anti-infective drugs have been specifically studied . Other drugs, such as anticancer agents and dabigatran , have only been anecdotally studied .
+
+【71】MONITORING FOR ADEQUACY OF TREATMENT 
+
+【72】We check daily labs including blood urea nitrogen (BUN), creatinine, electrolytes, ionized calcium, and phosphate in order to determine whether an adequate amount dialysis is being delivered.
+
+【73】We generally do not perform urea clearance tests (ie, urea reduction ratio or Kt/V) unless daily labs suggest inadequate dialysis (such as persistently elevated BUN or creatinine despite treatment). The Kt/V may not provide an accurate measure of dialysis adequacy in PIKRT .
+
+【74】Monitoring and adjustment of the dialysis prescription is usually done in collaboration between the nephrologist and intensive care unit (ICU) staff . In one model, PIKRT is prescribed by a nephrologist after discussion of the treatment goals for the day with the intensivist. The treatment is initiated and ended by the dialysis nurse but supervised by both dialysis and intensive care nurses, who also adjust treatment settings such as ultrafiltration rate to the (changing) clinical condition . There are many possible practice models in different institutions, however. Remote monitoring of the machines for PIKRT might provide a new option to facilitate treatment surveillance in the setting of staff shortage .
+
+【75】COMPLICATIONS 
+
+【76】The major complications of PIKRT are hypotension and abnormalities in serum electrolytes, albumin, calcium, and phosphate.
+
+【77】Hypotension — PIKRT is generally well tolerated . In some series, a minor, temporary increase in inotrope dose may occur, particularly in the sickest patients who have been hemodynamically unstable prior to starting dialysis . In the literature as a whole, between 0 and 7 percent of patients were reported to have discontinued hybrid treatment because of intractable hypotension. However, most of these patients were also subsequently unsupportable on continuous kidney replacement therapy (CKRT) .
+
+【78】The most rigorous assessment of hemodynamic stability during hybrid treatments is from a randomized, controlled trial that compared CKRT with PIKRT among 39 critically ill patients . There was no significant difference between treatments in inotrope dose or number.
+
+【79】Abnormalities of electrolytes, calcium, and phosphate — Electrolyte concentrations are usually maintained within normal limits.
+
+【80】Hypophosphatemia commonly occurs with prolonged or frequent PIKRT and requires phosphate supplementation . One study found that the frequency of hypophosphatemia increased after the first through the third PIKRT session . We treat hypophosphatemia with intravenous phosphate. This approach is associated with a decrease of ICU mortality as compared with not substituting phosphate .
+
+【81】PIKRT with regional citrate anticoagulation (RCA) may cause metabolic alkalosis  and hypernatremia.
+
+【82】Albumin and amino acid losses — Albumin removal is negligible during PIKRT. However, amino acid removal, particularly glutamine, may be significant, depending upon the PIKRT regimen  and the dialyzer used for PIKRT . Protein intake may need to be increased during PIKRT.
+
+【83】Links to society and government-sponsored guidelines from selected countries and regions around the world are provided separately.
+
+【84】 **Definition and indications** – Prolonged intermittent kidney replacement therapy (PIKRT) provides intermittent dialysis with long session durations. Solute and fluid removal are slower than with standard intermittent hemodialysis but faster than with continuous kidney replacement therapy (CKRT). PIKRT allows for time for procedures without compromising the dialysis dose. PIKRT also allows greater mobilization and rehabilitation of patients.
+
+【85】 **Dialysis machines** – PIKRT can be performed on most machines that are used for intermittent hemodialysis. Machines used for PIKRT should have the capability to run at low blood and dialysate flow rates.
+
+【86】 **Vascular access** – The preferred access for PIKRT is a dialysis catheter in a central vein. Among patients with end-stage kidney disease, we generally do not use the arteriovenous fistula (AVF) or graft (AVG), even if available, because of the risk of bleeding or injury. However, if there is specific training and careful oversight, AVFs and AVGs may be used, particularly if central access cannot be obtained or is not feasible (as for a patient who is expected to have only a short stay in the intensive care unit \[ICU\]). Cutaneous blood leak monitors over needle placement sites are commonly used to improve safety.
+
+【87】 **Prescription** – PIKRT is performed at least three times per week. The time per session is typically approximately eight hours and ranges from 6 to 18 hours depending on the needs of the patient and tolerance to ultrafiltration. The dialysis time may also be determined by other nondialysis-related factors such as scheduling of procedures. Our prescription is defined above.
+
+【88】 **Monitoring** – To assess that adequate dialysis is being delivered, we check daily labs including blood urea nitrogen (BUN), creatinine, electrolytes, ionized calcium, and phosphate. We do not perform urea clearance tests (ie, urea reduction ratio or Kt/V) unless daily labs suggest inadequate dialysis (such as persistently elevated BUN or creatinine).
+
+【89】 **Complications** – The major complications of PIKRT are hypotension and hypophosphatemia. There may be loss of albumin and amino acids, requiring adjustment of protein intake.王磊
+
+====================================================================================================

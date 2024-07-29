@@ -1,0 +1,293 @@
+【0】Sodium-glucose cotransporter 2 inhibitors for the treatment of hyperglycemia in type 2 diabetes mellitus
+
+【1】INTRODUCTION 
+
+【2】Current treatments for type 2 diabetes have centered on increasing insulin availability (either through direct insulin administration or through agents that promote insulin secretion), improving sensitivity to insulin, delaying the delivery and absorption of carbohydrate from the gastrointestinal tract, or increasing urinary glucose excretion. Sodium-glucose cotransporter 2 (SGLT2) inhibitors reduce blood glucose by increasing urinary glucose excretion.
+
+【3】This topic will review the mechanism of action and therapeutic utility of SGLT2 inhibitors for the treatment of hyperglycemia in type 2 diabetes mellitus. The initial management of hyperglycemia in adults with type 2 diabetes, the factors involved in the selection of medications for the management of persistent hyperglycemia, and the use of SGLT2 inhibitors for the treatment of diabetic kidney disease and the management of heart failure are presented separately. (Related Pathway(s): Diabetes: Initial therapy for non-pregnant adults with type 2 DM and Diabetes: Medication selection for non-pregnant adults with type 2 DM and persistent hyperglycemia despite monotherapy .)
+
+【4】MECHANISM OF ACTION 
+
+【5】The SGLT2 is expressed in the proximal tubule and mediates reabsorption of approximately 90 percent of the filtered glucose load. SGLT2 inhibitors promote the renal excretion of glucose and thereby modestly lower elevated blood glucose levels in patients with type 2 diabetes. The ability to lower blood glucose and glycated hemoglobin (A1C) levels is limited by the filtered load of glucose and the osmotic diuresis that is caused by this therapy. Moreover, although the currently developed SGLT2 inhibitors almost completely block proximal tubular glucose reabsorption, the measured inhibition is less than 50 percent based on urine glucose excretion.
+
+【6】SGLT2 inhibitors only lower plasma glucose levels by blocking reabsorption of filtered glucose, which falls as plasma levels fall. Thus, they do not usually cause hypoglycemia in the absence of therapies that otherwise cause hypoglycemia. SGLT2 inhibitors modestly decrease blood pressure and weight .
+
+【7】SUGGESTED APPROACH TO THE USE OF SGLT2 INHIBITORS
+
+【8】Patient selection — SGLT2 inhibitors are not considered as initial therapy for the majority of patients with type 2 diabetes. Initial therapy in most patients with type 2 diabetes should begin with diet, body weight reduction, exercise, and metformin (in the absence of contraindications).
+
+【9】In patients with comorbid cardiovascular or kidney disease, many SGLT2 inhibitors have demonstrated benefit for cardiovascular and kidney outcomes. However, SGLT2 inhibitors confer only modest improvement in glycemia and are costly, and long-term safety data on the effects of prolonged glucosuria are lacking. In addition, there are insufficient data on cardiovascular outcomes in individuals with diabetes but without overt cardiovascular or kidney disease. All of these factors must be recognized when considering combination therapy for monotherapy failure.
+
+【10】SGLT2 inhibitors have therapeutic utility in the following settings (the specific drugs listed have been demonstrated to have significant beneficial effects in placebo-controlled clinical trials) :
+
+【11】 In patients with overt atherosclerotic cardiovascular disease (CVD) not reaching glycemic goals with metformin and lifestyle modifications ( empagliflozin , canagliflozin , and dapagliflozin , but not ertugliflozin ).
+
+【12】 In patients with heart failure not reaching glycemic goals with metformin and lifestyle modifications ( empagliflozin , canagliflozin , dapagliflozin , and ertugliflozin ).
+
+【13】 To reduce decline in estimated glomerular filtration rate (eGFR) in patients with eGFR <90 mL/min/1.73 m 2 ( canagliflozin , dapagliflozin , empagliflozin , ertugliflozin ).
+
+【14】 As a third-line agent in patients not meeting glycemic goals on two oral agents (eg, metformin and sulfonylurea) if for some reason combination metformin and insulin is not a therapeutic option
+
+【15】 As a third-line agent in patients not meeting glycemic goals on metformin and insulin therapy, in whom glucagon-like peptide 1 (GLP-1) receptor agonists are contraindicated and increasing insulin dosing would lead to weight gain
+
+【16】 As a second agent in patients with inadequate glycemic control on metformin who are unwilling or unable to consider injection therapy and in whom weight gain or risk of hypoglycemia is a significant issue
+
+【17】Regardless of the initial response to therapy, the natural history of most patients with type 2 diabetes is for blood glucose concentrations to rise gradually with time. Thus, most patients require additional therapy . The long-term benefits and risks of using one combination over another are unknown. There is a paucity of high-quality, head-to-head drug comparison trials and trials with important clinical endpoints, such as effects on microvascular and macrovascular complications and mortality . The choice of therapy should be individualized based upon patient characteristics, preferences, and costs .
+
+【18】Contraindications and precautions — SGLT2 inhibitors should not be used specifically for the treatment of hyperglycemia in patients with:
+
+【19】 Type 1 diabetes
+
+【20】 Type 2 diabetes and eGFR <45 mL/min/1.73 m 2 ( ertugliflozin ), or <30 mL/min/1.73 m 2 ( empagliflozin , canagliflozin , dapagliflozin , bexagliflozin )
+
+【21】 Prior diabetic ketoacidosis (DKA)
+
+【22】SGLT2 inhibitors have less glycemic benefit in patients with more severe kidney disease at initiation, and for the **treatment of hyperglycemia** , SGLT2 inhibitors are not recommended for initiation in patients with eGFR thresholds as described immediately above. For the **treatment of kidney disease** , however, some SGLT2 inhibitors have established benefits for kidney protection when initiated below these thresholds . We favor an individualized approach to initiation of SGLT2 inhibitor therapy that weighs the relative benefits of these agents, including their demonstrated kidney protective effects, against the potential risks. Treatment of kidney disease is reviewed in detail separately.
+
+【23】SGLT2 inhibitors have been associated with the following conditions:
+
+【24】 Genitourinary tract bacterial and yeast infections. Patients should be counseled about the signs and symptoms of genitourinary infections and notify their provider at symptom onset. Patients with recurrent, severe, or difficult to treat infections should discontinue SGLT2 inhibitor therapy and avoid future use.
+
+【25】 Bone loss and fracture. SGLT2 inhibitors have been associated with fracture risk in some, but not all, studies. Fracture risk might be a consequence of falls related to SGLT2 inhibitor-mediated reductions in blood pressure rather than a direct impact on skeletal physiology. SGLT2 inhibitors should be used with caution in those at risk for falls and fracture.
+
+【26】 Mild volume loss. Patients should be aware of possible side effects due to volume loss (eg, lightheadedness, dizziness, nausea). Blood pressure and kidney function should be monitored. Proactive modification of blood pressure medications should be considered prior to SGLT2 inhibitor initiation. SGLT2 inhibitors should be withheld during times of volume loss or hypoperfusion (diarrhea, sepsis) and restarted only once the patient has recovered.
+
+【27】 Lower extremity infection and amputation. SGLT2 inhibitors are associated with a small risk of lower extremity infection and amputation. They should be used with caution in patients with risk factors for foot ulceration (eg, neuropathy, foot deformity, vascular disease, and/or history of previous foot ulceration). Patients should be instructed to perform daily foot examination and should undergo routine examination by their provider.
+
+【28】 DKA. SGLT2 inhibitors increase risk of DKA. Patients should be counseled about symptoms of DKA (eg, fatigue, myalgias, nausea, and emesis) and when to perform urine ketone monitoring. SGLT2 inhibitors should be withheld during times of increased DKA risk (eg, infection, hospitalization, or surgery) and restarted only once the patient has recovered. The benefits and risks of therapy should be carefully assessed in individuals with factors predisposing to DKA (eg, ketosis-prone type 2 diabetes, pancreatic insufficiency, drug or alcohol abuse disorder, ketogenic diets), and SGLT2 inhibitors should be avoided in individuals with a history of DKA.
+
+【29】Since SGLT2 inhibitors can cause a mild degree of dehydration, they should be used with caution in conjunction with other medications that predispose to acute kidney injury (nonsteroidal anti-inflammatory drugs \[NSAIDs\], angiotensin-converting enzyme \[ACE\] inhibitors/angiotensin II receptor blockers \[ARBs\], diuretics) and comorbidities that might predispose to acute kidney injury (hypovolemia, heart failure, liver injury).
+
+【30】Choice of therapy — There are many different medications for patients who are not meeting glycemic goals after initial therapy with lifestyle intervention and metformin . The factors involved in the selection of a particular class of medication for combination therapy is reviewed in detail separately. When a decision has been made to use an SGLT2 inhibitor, canagliflozin , dapagliflozin , empagliflozin , ertugliflozin , and bexagliflozin are available options.
+
+【31】 **Patients with atherosclerotic CVD** – When a decision has been made to use an SGLT2 inhibitor in a patient with type 2 diabetes and a prior history of atherosclerotic CVD, we suggest empagliflozin , rather than another SGLT2 inhibitor. This suggestion is based on the results of the empagliflozin and cardiovascular outcomes study . Although canagliflozin also showed cardiovascular benefits, there was an increase in the risk of lower limb amputations and fractures in canagliflozin-treated patients that was not observed in trials of empagliflozin or dapagliflozin .
+
+【32】 **Patients with heart failure or kidney disease** – In patients with type 2 diabetes and heart failure or kidney disease, all SGLT2 inhibitors have shown salutary effects; choice of agent is primarily dictated by provider preference, insurance formulary restrictions, drug-specific labeling regarding use with varying degrees of kidney function, and cost.
+
+【33】 **Patients without cardiovascular or kidney disease** – In patients without cardiovascular or kidney disease, choice of SGLT2 inhibitor is often dictated by cost and insurer formulary preference, as the published trials have not revealed any substantial differences with regard to A1C lowering, weight reduction, or risk for mycotic infections.
+
+【34】There are no trials directly comparing the individual SGLT2 inhibitors. In network meta-analyses, placebo-corrected A1C reductions for monotherapy and dual therapy ranged from approximately 0.6 to 0.9 and 0.3 to 0.6 percentage points, respectively . Canagliflozin 300 mg reduced A1C to a slightly greater extent than dapagliflozin 10 mg or empagliflozin 25 mg (mean difference -0.2 percentage points) .
+
+【35】Pretreatment evaluation — Prior to starting an SGLT2 inhibitor, volume status and kidney function (serum creatinine with eGFR) should be assessed. Hypovolemia should be corrected prior to initiating an SGLT2 inhibitor. Diuretics and blood pressure medications may require dose adjustment prior to the use of SGLT2 inhibitors. Liver function should be assessed prior to initiation of canagliflozin or dapagliflozin . Patients at risk for falls and fracture may benefit from assessment of bone density.
+
+【36】To reduce the risk of hypoglycemia, patients using insulin or insulin secretagogues (sulfonylureas, glinides) may require a dose reduction with initiation of SGLT2 inhibitors.
+
+【37】Dosing — SGLT2 inhibitors have less glycemic benefit in patients with more severe kidney disease at initiation, and for the specific treatment of hyperglycemia, SGLT2 inhibitors are not recommended for initiation in patients with eGFR <30 mL/min/1.73 m 2 ( empagliflozin , canagliflozin , dapagliflozin , bexagliflozin ) or <45 mL/min/1.73 m 2 ( ertugliflozin ).
+
+【38】After initial therapy, the decision to escalate the dose (typically after 4 to 12 weeks) should be based on tolerance, adverse effects, and glycemic assessment (home glucose monitoring and/or A1C).
+
+【39】 **Canagliflozin** – Canagliflozin is taken orally before the first meal of the day . The initial dose is 100 mg once daily, and it can be increased to 300 mg daily to achieve glycemic goals. In patients with moderate kidney impairment (eGFR 30 to 59 mL/min/1.73 m 2 ), the dose should not exceed 100 mg daily. Canagliflozin should not be given to patients with severe hepatic impairment. No dose adjustment is needed in patients with mild or moderate hepatic impairment .
+
+【40】 **Dapagliflozin** – Dapagliflozin  can be taken any time of day with or without food. It is not recommended for use in patients with active bladder cancer . For patients with severely reduced liver function, a starting dose of 5 mg is recommended. There is limited experience in patients with severe hepatic impairment.
+
+【41】 **Empagliflozin** – Empagliflozin is taken orally once daily in the morning with or without food . The initial dose is 10 mg daily, and it can be increased to 25 mg once daily to achieve glycemic goals. In patients taking empagliflozin who have an eGFR 30 to 45 mL/min/1.73 m 2 , the dose should not exceed 10 mg. Empagliflozin may be used in patients with hepatic impairment.
+
+【42】 **Ertugliflozin** – Ertugliflozin is taken once daily in the morning with or without food . The initial dose is 5 mg once daily and may be increased to a maximum dose of 15 mg once daily to achieve glycemic goals. In patients taking ertugliflozin who have a persistent fall in eGFR <45 mL/min/1.73 m 2 , it should be discontinued if hyperglycemia management was the only reason for therapy.
+
+【43】 **Bexagliflozin** – Bexagliflozin  is taken orally in the morning with or without food . It should not be initiated in individuals with an eGFR <30 mL/min/1.73 m 2 or in those with severe hepatic impairment due to lack of clinical data in these populations. No dose adjustments are needed for milder degrees of kidney or liver impairment.
+
+【44】Monitoring — In addition to glycemic indices (A1C, fasting blood glucose), kidney function and volume status (blood pressure) should be monitored during SGLT2 inhibitor treatment. SGLT2 inhibitors may need to be withheld in some settings.
+
+【45】 **Kidney function**
+
+【46】• eGFR >60 mL/min/1.73 m 2 – We measure serum creatinine after three months and, if stable, then annually or as clinically indicated.
+
+【47】• eGFR between 30 and 60 mL/min/1.73 m 2 – We measure serum creatinine every three months or as clinically indicated.
+
+【48】An initial short-term decrease in eGFR (of up to 30 percent) may be seen after starting SGLT2 inhibitor therapy, presumably due to a reduction in glomerular pressure. Following this initial decline, eGFR stabilizes. Greater initial reductions in eGFR warrant discontinuation of SGLT2 inhibitor therapy and evaluation for causes of acute kidney injury.
+
+【49】 **Glycemic indices**
+
+【50】• In patients taking insulin or insulin secretagogues, SGLT2 inhibitors can increase the risk of hypoglycemia. Patients taking insulin or insulin secretagogues should monitor fasting and pre-meal fingerstick glucose for the first few weeks following initiation or dose escalation of SGLT2 inhibitors. Insulin dosing should be decreased by 10 to 20 percent and insulin secretagogue dosing by 50 percent if blood glucose values <80 mg/dL are measured.
+
+【51】• We measure A1C initially every three months until glycemic goals are achieved. We measure A1C at least twice yearly in patients meeting glycemic goals but continue to assess more frequently (quarterly) in patients whose therapy has changed or those who are not meeting glycemic goals.
+
+【52】 **Infection risk**
+
+【53】• Patients taking SGLT2 inhibitors should be monitored for signs and symptoms of genitourinary tract infections and foot ulceration. We discontinue therapy in patients with frequent bacterial urinary tract infections or genitourinary yeast infections.
+
+【54】 **DKA**
+
+【55】• SGLT2 inhibitors can increase the risk of DKA. The absence of substantial hyperglycemia in some individuals delays recognition of the problem by both the patients and the clinicians. Serum ketones should be obtained in any patient with nausea, vomiting, or malaise while taking SGLT2 inhibitors, and patients should be counseled to withhold SGLT2 inhibitor therapy until these symptoms resolve. If a patient develops DKA on SGLT2 inhibitor therapy, we discontinue treatment with this medication class.
+
+【56】• SGLT2 inhibitors also should be held during episodes of acute illness, prolonged fasting, and surgical procedures. An alternative plan for glycemic management should be implemented until the elevated risk of acute kidney injury, organ hypoperfusion, and acidosis subsides.
+
+【57】CLINICAL OUTCOMES
+
+【58】Glycemic efficacy — SGLT2 inhibitors are relatively weak glucose-lowering agents, with mean reductions in A1C compared with placebo ranging between 0.4 to 1.1 percent depending on baseline level of hyperglycemia. They have been studied as monotherapy and in combination with metformin , sulfonylureas, pioglitazone , sitagliptin , and insulin . Dapagliflozin , canagliflozin , ertugliflozin , and empagliflozin are available in Europe and the United States . Bexagliflozin is available in the United States. Other SGLT2 inhibitors are in development.
+
+【59】In meta-analyses of clinical trials comparing SGLT2 inhibitors with placebo or active comparators ( metformin , sulfonylurea, dipeptidyl peptidase 4 \[DPP-4\] inhibitors, insulin), SGLT2 inhibitors compared with placebo reduced A1C by approximately 0.5 to 0.7 percentage points (mean difference versus active comparators -0.06 to -0.13 percent) .
+
+【60】As examples:
+
+【61】 In a 52-week, double-blind trial, 814 patients with type 2 diabetes and inadequate glycemic management with metformin (mean A1C 7.7 percent) were randomly assigned to dapagliflozin or glipizide . The mean reduction in A1C was similar in both groups (-0.52 percentage points). Dapagliflozin reduced body weight (-3.2 versus +1.2 kg with glipizide) and produced fewer severe (requiring assistance) hypoglycemic episodes .
+
+【62】 In another trial, 808 patients with type 2 diabetes mellitus and inadequate glycemic management with insulin and up to two oral agents were randomly assigned to dapagliflozin  or placebo . After 24 weeks, A1C decreased by 0.79 to 0.96 percentage points with dapagliflozin compared with 0.39 percentage points with placebo (mean difference -0.40 to -0.57 percentage points in the 2.5 to 10 mg groups, respectively). Daily insulin dose decreased by 0.63 to 1.95 units with dapagliflozin and increased by 5.65 units with placebo. Dapagliflozin reduced body weight (-0.92 to -1.61 versus +0.43 kg with placebo). The rate of hypoglycemic episodes was higher in the dapagliflozin group .
+
+【63】 In a 52-week, double-blind trial, 755 patients with type 2 diabetes and inadequate glycemic management with metformin plus a sulfonylurea (mean A1C 8.1 percent) were randomly assigned to canagliflozin  or sitagliptin  . The mean reduction in A1C from baseline was greater with canagliflozin than sitagliptin (least squares mean change -1.03 and -0.66 percentage points, respectively). Canagliflozin reduced body weight (-2.5 versus 0.3 percent change from baseline) and systolic blood pressure (-5.1 versus 0.99 mmHg) compared with sitagliptin. Although the overall incidence of adverse events was similar for the two drugs, the frequency of genital fungal infections was almost sixfold higher with canagliflozin. The overall results of this study must be viewed cautiously as almost 40 percent of the subjects did not complete the year-long study.
+
+【64】 In a 52-week, double-blind trial, 1452 patients with type 2 diabetes and inadequate glycemic management with metformin (mean A1C 7.8 percent) were randomly assigned to glimepiride (titrated based upon blood glucose, median dose 5.6 mg daily) or canagliflozin  . The mean reduction in A1C from baseline was similar in the glimepiride and lower-dose canagliflozin groups (-0.81 and -0.82 percentage points, respectively) and better by 0.1 A1C percentage point in the higher-dose canagliflozin group (-0.93 percentage points). The proportion of patients achieving an A1C <7 or <6.5 percent was similar among groups (approximately 56 and 31 percent of patients, respectively). Canagliflozin reduced body weight (-4.2 to -4.4 kg versus +0.8 kg with glimepiride) and caused less frequent severe hypoglycemia (<1 versus 3 percent with glimepiride) but more frequent genital yeast infections in both women and men (in women, 11 to 14 percent versus 2 percent with glimepiride; in men, 7 to 8 percent versus 1 percent with glimepiride).
+
+【65】 In a 52-week trial, patients with type 2 diabetes and inadequate glycemic management on multidose insulin and metformin (mean A1C 8.3 percent) were randomly assigned to empagliflozin  or placebo . The reduction in A1C was greater with empagliflozin (-1.18, -1.21, and -0.81 percentage points for empagliflozin 10 mg, empagliflozin 25 mg, and placebo, respectively). Compared with placebo, empagliflozin reduced insulin doses by 9 to 11 units per day and body weight by 2.4 kg.
+
+【66】 In a 52-week, double-blind trial, 1326 patients with type 2 diabetes and inadequate glycemic management with metformin (mean A1C 7.8 percent) were randomly assigned to ertugliflozin  or glimepiride (titrated based upon blood glucose, median dose 3 mg daily) . The mean reduction in A1C from baseline with ertugliflozin 15 mg daily was noninferior to glimepiride (-0.6 and -0.7 percentage points, respectively). Ertugliflozin caused less frequent severe hypoglycemia (<0.2 compared with 2.3 percent).
+
+【67】 In a 24-week trial, 386 patients with type 2 diabetes inadequately treated with metformin monotherapy (mean A1C 8 percent) were randomly assigned to bexagliflozin  or sitagliptin  . The mean reduction in A1C was comparable in the bexagliflozin and sitagliptin groups (mean change from baseline -0.74 versus -0.82 percentage points, respectively). In a trial in 288 patients with type 2 diabetes, treatment with bexagliflozin monotherapy for 96 weeks led to a greater reduction in A1C than treatment with placebo (-0.55 percentage points versus +0.53 percentage points, respectively) .
+
+【68】Cardiovascular effects
+
+【69】 **Atherosclerotic cardiovascular disease (CVD) and cardiovascular mortality** – Empagliflozin and canagliflozin have been shown to decrease atherosclerotic cardiovascular morbidity and mortality in patients with type 2 diabetes and overt CVD . In the primary analysis, dapagliflozin did not appear to reduce atherosclerotic cardiovascular morbidity or cardiovascular mortality ; however, it decreased cardiovascular outcomes in a subanalysis of the primary trial confined to participants with prior myocardial infarction .
+
+【70】 **Heart failure** – SGLT2 inhibitors as a class reduce risk of hospitalization for heart failure in adults with diabetes and high CVD risk irrespective of a prior diagnosis of heart failure .
+
+【71】The cardiovascular trials to date have been carried out in very high-risk populations to increase the hazard rate for major CVD events and complete the studies in a relatively brief period. Of note, compared with the empagliflozin and canagliflozin trials, the dapagliflozin trial had a lower fraction of participants with established CVD and a greater proportion of patients with multiple risk factors for CVD (multiple risk factors in 60 percent compared with 0 and 34 percent in the empagliflozin and canagliflozin trials, respectively). However, the ertugliflozin cardiovascular trial only included patients with established CVD and did not show superior benefit in the composite outcome (cardiovascular death, nonfatal myocardial infarction, or nonfatal stroke) . These differences in patient populations likely contribute to the discrepant effects of SGLT2 inhibitors on atherosclerotic CVD outcomes across trials. The cardiovascular effects of bexagliflozin are least established, and results from a cardiovascular outcome trial are pending . Several meta-analyses have been performed to better establish the cardiovascular effects of SGLT2 inhibitors as a class .
+
+【72】As examples:
+
+【73】 In meta-analyses of the three major CVD outcome trials ( empagliflozin , canagliflozin , dapagliflozin ), SGLT2 inhibitors compared with placebo reduced the risk of major adverse cardiovascular events  and a composite outcome of CV death or hospitalization for heart failure  . The clinical benefit of the SGLT2 inhibitors for reducing the risk of major cardiovascular events (myocardial infarction, stroke, cardiovascular death) was limited to those patients with established atherosclerotic CVD, with no benefit in those with multiple risk factors for CVD . In contrast to the findings for major adverse cardiovascular events, the meta-analyses showed a reduction in hospitalization for heart failure with use of SGLT2 inhibitors regardless of the presence of established atherosclerotic CVD or heart failure at baseline.
+
+【74】 In a subsequent meta-analysis of five trials comparing an SGLT2 inhibitor ( canagliflozin , dapagliflozin , empagliflozin , ertugliflozin , sotagliflozin ) with placebo in people with diabetes and established CVD, SGLT2 inhibitors reduced the risk of cardiovascular mortality  and heart failure hospitalizations  . SGLT2 inhibitors did not reduce the risk of fatal or nonfatal myocardial infarction  or stroke . Sotagliflozin is a dual SGLT1/SGLT2 inhibitor that has regulatory approval in the United States for cardiovascular risk reduction but not glucose lowering.
+
+【75】Until large, prospective, randomized trials are conducted, it is unknown whether empagliflozin , canagliflozin , or other SGLT2 inhibitors will have similar cardioprotective effects in the majority of persons with type 2 diabetes who do not have overt CVD.
+
+【76】The individual trials included in these meta-analyses are reviewed below.
+
+【77】 **Empagliflozin** – In a trial designed specifically to evaluate cardiovascular morbidity and mortality in patients with type 2 diabetes and established CVD, 7028 patients with type 2 diabetes (mean A1C approximately 8 percent) and CVD were randomly assigned to empagliflozin  or placebo once daily . The majority of patients were taking metformin , antihypertensives, and lipid-lowering agents (equally distributed in both groups) to control blood glucose, blood pressure, and cholesterol, respectively. Approximately 48 percent of patients in each group were taking insulin.
+
+【78】After three years, the primary outcome (a composite of death from cardiovascular causes, nonfatal myocardial infarction, or nonfatal stroke) occurred in fewer patients assigned to empagliflozin than to placebo . The findings were driven by a significant reduction in risk of death from cardiovascular causes . There was no significant difference in the occurrence of the individual components of nonfatal myocardial infarction  or nonfatal stroke . Findings were similar in the individual empagliflozin dose groups.
+
+【79】The rate of hospitalization for heart failure was lower in the empagliflozin group . Compared with patients taking placebo, patients taking empagliflozin had lower A1C levels (mean 7.8 versus 8.2 percent) and reductions in body weight, waist circumference, systolic and diastolic blood pressure (with no increase in heart rate), and uric acid. There were small increases in low-density lipoprotein (LDL) and high-density lipoprotein (HDL) cholesterol in patients taking empagliflozin.
+
+【80】In patients with heart failure with reduced ejection fraction (HFrEF), with or without diabetes, empagliflozin has been shown to reduce cardiovascular mortality and worsening heart failure . Empagliflozin in the treatment of HFrEF is reviewed separately.
+
+【81】 **Canagliflozin** – In two trials designed to assess the effects of canagliflozin on cardiovascular, kidney, and safety outcomes in patients with type 2 diabetes and high cardiovascular risk, 10,142 patients (mean A1C 8.2 percent) were randomly assigned to canagliflozin or placebo . The majority of patients were taking metformin , antihypertensives, and lipid-lowering agents (equally distributed in both groups) to manage blood glucose, blood pressure, and cholesterol, respectively. Approximately 50 percent of patients in each group were taking insulin.
+
+【82】After a mean follow-up of 3.6 years, the primary outcome, a composite of death from cardiovascular causes, nonfatal myocardial infarction, or nonfatal stroke, occurred in fewer patients in the canagliflozin group . The reductions in the occurrence of the individual components of the composite outcome in those randomized to canagliflozin  were not statistically significant. The rate of hospitalization for heart failure was lower in the canagliflozin group .
+
+【83】Compared with patients taking placebo, patients taking canagliflozin had lower A1C levels (mean difference -0.58 percent) and greater reductions in body weight and systolic and diastolic blood pressure.
+
+【84】In a subsequent trial designed to primarily evaluate kidney outcomes in patients with type 2 diabetes and nephropathy (mean eGFR 56.2 mL/min/1.73 m 2 , median urinary albumin-to-creatinine ratio 927 \[mg/g\]), there were similar reductions in cardiovascular events .
+
+【85】Kidney outcomes and the increased risk of amputations in the canagliflozin group are reviewed below.
+
+【86】 **Dapagliflozin** – In a trial designed to assess the effects of dapagliflozin on cardiovascular and kidney outcomes, 17,160 patients with type 2 diabetes (mean A1C approximately 8.3 percent) who had or were at risk for CVD were randomly assigned to dapagliflozin  or placebo once daily . The majority of patients were taking metformin , antihypertensives, and lipid-lowering agents (equally distributed in both groups) to manage blood glucose, blood pressure, and cholesterol, respectively. Approximately 40 percent of patients in each group were taking insulin.
+
+【87】After a median follow-up of 4.2 years, the first primary outcome (a composite of death from cardiovascular causes, nonfatal myocardial infarction, or nonfatal ischemic stroke) occurred in 8.8 and 9.4 percent of patients taking dapagliflozin and placebo, respectively (HR 0.93, 95% CI 0.84-1.03). Participants who received dapagliflozin had a reduction in the second primary outcome (a composite of cardiovascular death or hospitalization for heart failure), primarily driven by the reduction in hospitalization for heart failure . There was no difference between the two groups in death from any cause .
+
+【88】The dapagliflozin trial included enough participants with established cardiovascular disease or multiple risk factors at baseline, randomized to dapagliflozin or placebo, to perform subanalyses within the two groups . Dapagliflozin reduced the two co-primary cardiovascular outcomes in participants with a prior myocardial infarction  but not in those without prior myocardial infarction . In a subsequent exploratory analysis, dapagliflozin also reduced the incidence of atrial fibrillation/atrial flutter adverse events .
+
+【89】In patients with or without diabetes, dapagliflozin has been shown to reduce all-cause mortality and heart failure progression in adults with heart failure with reduced ejection fraction (HFrEF) with New York Heart Association functional class II, III, or IV . Dapagliflozin in the treatment of HFrEF is reviewed separately.
+
+【90】 **Ertugliflozin** – In a trial designed to evaluate lack of inferiority for composite cardiovascular outcomes, 8246 individuals with type 2 diabetes (mean A1C 8.2 percent) and preexisting CVD were randomly assigned to ertugliflozin  or placebo once daily . The majority of participants were taking metformin , and approximately 47 percent of patients were taking insulin. After a mean follow-up of 3.5 years, ertugliflozin treatment did not meet superiority to placebo in the primary composite endpoint of death from cardiovascular causes, nonfatal myocardial infarction, or nonfatal stroke . There was a significant reduction in hospitalization for heart failure with ertugliflozin .
+
+【91】The findings from these studies need to be kept in perspective. The large relative cardiovascular benefit of empagliflozin and canagliflozin , while impressive, was in a very high-risk population with established CVD at baseline. Moreover, the absolute risk reduction is approximately 10 to 15 cases per 1000 patient-years, and the benefit in patients taking canagliflozin, in particular, must be balanced with the increased risk of amputations. The difference in glycemia between the treatment groups was minimal, suggesting that non-glycemic drug effects were responsible for the CVD outcomes. The salutary impact of SGLT2 inhibitors on heart failure outcomes seems to be a class effect.
+
+【92】Microvascular outcomes
+
+【93】Kidney outcomes — SGLT2 inhibitors as a class decrease the risk of kidney disease progression . In a meta-analysis of the three major CVD outcome trials, empagliflozin , canagliflozin , and dapagliflozin reduced progression of diabetic kidney disease, with a similar effect observed in patients with established atherosclerotic CVD or multiple risk factors for CVD .
+
+【94】Although the benefit was present across all estimated glomerular filtration rates (eGFRs) studied, less benefit was apparent in those with more severe kidney disease at baseline. SGLT2 inhibitors are not recommended for initiation specifically for glucose lowering in patients with eGFR <30 or <45 mL/min/1.73 m 2 , with some differences in each medication depending on the labeling.
+
+【95】The mechanism behind the reduction in incident or worsening nephropathy with SGLT2 inhibitors is likely multifactorial but is thought to be largely related to a direct renovascular effect. The relatively brief duration of the studies and modest improvement in glycemia compared with placebo make glucose lowering an unlikely explanation for the reductions in relatively late-stage nephropathy.
+
+【96】There have been reports of acute kidney injury, some requiring hospitalization and dialysis, in patients taking canagliflozin or dapagliflozin .
+
+【97】 **Empagliflozin** – In the empagliflozin trial described above, which was designed specifically to evaluate cardiovascular morbidity and mortality in patients with type 2 diabetes and established CVD, microvascular disease was a prespecified secondary outcome . The composite microvascular endpoint (the initiation of retinal photocoagulation, vitreous hemorrhage, diabetes-related blindness, or incident or worsening nephropathy) occurred in fewer patients in the empagliflozin group .
+
+【98】This reduction was driven entirely by a reduction in incident or worsening nephropathy (defined as progression to macroalbuminuria, doubling of the serum creatinine level, initiation of kidney replacement therapy, or death from kidney disease), which occurred in 12.7 and 18.8 percent of patients in the empagliflozin and placebo groups, respectively (HR 0.61, 95% CI 0.53-0.70) . There were significant reductions in each component of the outcome, except for death from kidney disease. There were three deaths from kidney disease in the empagliflozin group  and none in the placebo group.
+
+【99】 **Canagliflozin** – In the canagliflozin trial (described above) assessing cardiovascular, kidney, and safety outcomes in patients with type 2 diabetes and high cardiovascular risk, progression of albuminuria (a secondary endpoint) occurred less frequently in the canagliflozin group  .
+
+【100】In a post hoc exploratory analysis, the composite outcome (sustained 40 percent reduction in estimated glomerular filtration rate (eGFR), need for kidney replacement therapy, or death from kidney-related causes) occurred less frequently in the canagliflozin than placebo group  .
+
+【101】In a subsequent trial specifically designed to evaluate kidney outcomes, 4401 patients with type 2 diabetes and severely increased albuminuria (mean eGFR 56.2 mL/min/1.73 m 2 , median urinary albumin-to-creatinine ratio 927 \[mg/g\]) were randomly assigned to canagliflozin  or placebo . The majority of patients were taking insulin and/or metformin , with approximately 30 percent taking a sulfonylurea. All patients were receiving an angiotensin-converting enzyme inhibitor or angiotensin receptor blocker. The trial was stopped early for benefit after a median follow-up of 2.6 years. The primary outcome (a composite of end-stage kidney disease \[ESKD\], doubling of serum creatinine, or death from kidney-related or cardiovascular causes) occurred in a smaller proportion of patients taking canagliflozin . The effect size was similar across components of the primary outcome, except for kidney disease-related death, which occurred in few patients (two versus five kidney disease-related deaths with placebo). The kidney protective effect of canagliflozin was most pronounced in those with an eGFR between 45 to 60 mL/min/1.73 m 2 at study onset but was seen with eGFR as low as 30 mL/min/1.73 m 2 .
+
+【102】 **Dapagliflozin** – In the dapagliflozin trial described above assessing cardiovascular and kidney outcomes in patients with type 2 diabetes who had or were at risk for CVD, there was a reduction in the kidney composite outcome (sustained decrease of 40 percent or more in eGFR to <60 mL/min, new ESKD, or death from kidney-related or cardiovascular causes), which occurred in 4.3 and 5.6 percent of the patients in the dapagliflozin and placebo groups, respectively (HR 0.76, 95% CI 0.67-0.87) .
+
+【103】In a subsequent trial designed to assess kidney outcomes, 4304 individuals with eGFR 25 to 75 mL/min/1.73 m 2 and urine albumin-to-creatinine ratio 200 to 5000 mg/g (median, 950 mg/g) were randomly assigned to dapagliflozin  or placebo . After a median follow-up of 2.4 years, the composite primary outcome (sustained decline in eGFR of ≥50 percent, ESKD, or death from kidney-related or cardiovascular causes) occurred in fewer patients in the dapagliflozin group . The benefit was similar across components of the primary outcome, except for kidney disease-related death, which occurred in few patients (two versus six kidney disease-related deaths with placebo).
+
+【104】 **Ertugliflozin** – In the ertugliflozin trial described above assessing cardiovascular outcomes in patients with type 2 diabetes and preexisting CVD, ertugliflozin treatment led to a nonsignificant reduction in the composite kidney endpoint of death from kidney-related causes, kidney replacement therapy, or doubling of the serum creatinine level  . Although not statistically significant, the trend is similar to other drugs in the class despite stricter prespecified kidney endpoints.
+
+【105】Retinopathy outcomes — The impact of SGLT2 inhibitor therapy on retinopathy outcomes remains uncertain. In a post hoc analysis of a cardiovascular outcome trial in 7020 participants with type 2 diabetes, participants who were randomly assigned to empagliflozin treatment did not have a significantly lower risk of the composite retinopathy outcome compared with those assigned to placebo (HR 0.78, 95% CI 0.54-1.12) .
+
+【106】In subsequent meta-analyses of clinical trial data, SGLT2 inhibitors have overall shown no harm for ocular outcomes  and a possible benefit for individuals with shorter diabetes duration (<10 years) . In another meta-analysis, empagliflozin and ertugliflozin reduced the risk of retinopathy and retinal disease, respectively, compared with controls (placebo or active comparator), whereas canagliflozin increased the risk of vitreous disease compared with placebo .
+
+【107】Observational data support the potential protective effects of SGLT2 inhibitors on retinopathy outcomes in individuals with shorter diabetes duration. In a prospective cohort study in patients with newly diagnosed type 2 diabetes, the incidence of sight-threatening retinopathy was lower among patients taking SGLT2 inhibitors than those taking DPP-4 inhibitors  . This protective effect was similar for empagliflozin , dapagliflozin , and canagliflozin . Propensity score matching was used to identify patient pairs, and variables included age, sex, smoking status, diabetes duration, other diabetes pharmacotherapy, and comorbid conditions. A major limitation of this clinical data set analysis was the unavailability of A1C or other metrics of glycemia, underscoring the relatively low quality of these observational data.
+
+【108】All-cause mortality — SGLT2 inhibitors appear to reduce overall mortality in people with diabetes and established CVD or multiple CVD risk factors . In a meta-analysis of five trials comparing an SGLT2 inhibitor ( canagliflozin , dapagliflozin , empagliflozin , ertugliflozin , sotagliflozin ) with placebo in people with diabetes and CVD, SGLT2 inhibitors reduced the risk of all-cause mortality  .
+
+【109】Weight loss — SGLT2 inhibitors decrease body weight . The weight loss appears to be sustained over time. In a meta-analysis of longer-term trials (one to two years), comparing SGLT2 inhibitors with placebo, SGLT2 inhibitors reduced body weight relative to placebo (mean difference at two years -2.99 kg, 95% CI -3.64 to -2.34) .
+
+【110】ADVERSE EFFECTS
+
+【111】Genitourinary tract
+
+【112】 **Infection** – In clinical trials, SGLT2 inhibitors conferred an approximate two- to fourfold increased incidence of vulvovaginal candidiasis, reported in up to 10 to 15 percent of women . Similarly, in meta-analyses of trials, SGLT2 inhibitor use also led to a higher rate of vulvovaginal candidal infections (eg, 9.5 versus 2.6 percent in the control groups) . SGLT2 inhibitors increase the rate of urinary tract infections  . In addition, the US Food and Drug Administration (FDA) has received reports of potentially fatal:
+
+【113】• Urosepsis and pyelonephritis 
+
+【114】• Necrotizing fasciitis of the perineum (Fournier's gangrene) 
+
+【115】 **Bladder cancer** – In clinical trials, 10 cases of bladder cancer were diagnosed among dapagliflozin users, five of which occurred in the first six months of dapagliflozin, a much shorter time interval than would be expected if dapagliflozin promoted tumorigenesis. However, these findings have prompted the FDA to recommend postmarketing surveillance studies . There are no long-term safety data with regard to the effects of chronic glucosuria on the urinary tract.
+
+【116】SGLT2 inhibitor use has been associated with false-positive findings for ethanol on urine toxicology tests, another effect presumably due to glucosuria with microbial catabolism of glucose .
+
+【117】Hypotension — SGLT2 inhibitors cause an osmotic diuresis and intravascular volume contraction. In older patients or in patients taking diuretics, angiotensin-converting enzyme (ACE) inhibitors, or angiotensin receptor blockers (ARBs), SGLT2 inhibitors may cause symptomatic hypotension . Patients should be queried about orthostatic symptoms and instructed to monitor blood pressure, when feasible, during SGLT2 inhibitor initiation. Medications for hypertension might require dose adjustment to reduce risk of hypotension.
+
+【118】Acute kidney injury — There have been postmarketing reports of acute kidney injury (some requiring hospitalization and dialysis) in patients taking canagliflozin or dapagliflozin . Among 101 cases of possible SGLT2-associated acute kidney injury reported to the FDA, approximately one-half occurred within one month of initiating the drug, and most patients improved after the drug was discontinued. Some patients with acute kidney injury may have been volume depleted, hypotensive, or taking other medications that could affect the kidneys. It is unclear whether any of the patients in these reports had preexisting chronic kidney disease.
+
+【119】In a subsequent analysis of SGLT2 users and nonusers in two different cohorts, the risk of acute kidney injury was not increased with SGLT2 inhibitor use . In the canagliflozin trial to assess kidney outcomes described above , an initial decline in eGFR of up to 30 percent could be seen, presumably due to a reduction in glomerular pressure; however, this initial reduction in eGFR stabilizes over time. Furthermore, in trials that were designed to evaluate cardiovascular morbidity and mortality in patients with type 2 diabetes and established cardiovascular disease (CVD), SGLT2 inhibitors reduced the incidence of worsening nephropathy, suggesting a kidney protective effect.
+
+【120】Nevertheless, kidney function should be assessed prior to initiation of SGLT2 inhibitors and monitored during treatment. SGLT2 inhibitors should be used with caution in patients with comorbidities that might predispose to acute kidney injury (eg, heart failure, hypovolemia) and in conjunction with other medications that predispose to acute kidney injury (eg, nonsteroidal anti-inflammatory drugs \[NSAIDs\], ACE inhibitors/ARBs, diuretics). Dose adjustments and more frequent monitoring are required when estimated glomerular filtration rate (eGFR) is <60 mL/min/1.73 m 2 .
+
+【121】Skeletal fragility — In some  studies, the incidence of fractures was higher in patients taking canagliflozin . As an example, in one analysis, there were 1.4 and 1.5 bone fractures per 100 patient-years exposure to canagliflozin 100 mg and 300 mg, respectively, compared with 1.1 per 100 patient-years in the comparator (placebo or active) group . Low trauma fractures have been reported as early as 12 weeks after starting the drug. However, other studies have not found increased fracture risk with SGLT2 inhibitors .
+
+【122】A possible mechanism, particularly for fractures occurring in older individuals after only 12 weeks of therapy, is orthostatic hypotension resulting in postural dizziness and falls. SGLT2 inhibitors may also adversely affect bone density. Bone density studies were performed as part of a two-year, placebo-controlled trial of canagliflozin in 716 older patients. Patients in the canagliflozin compared with control group had progressively greater loss of bone density over time at the total hip (placebo-corrected declines of 0.9 and 1.2 percent for canagliflozin 100 and 300 mg, respectively) and spine (placebo-corrected declines of 0.3 and 0.7 percent, respectively) .
+
+【123】Although fractures have been reported to occur more frequently only in patients taking canagliflozin , based on putative mechanisms, other SGLT2 inhibitors may also reduce bone mass and increase bone fracture risk. A meta-analysis of trials evaluating safety outcomes did not show an increased risk of fracture with dapagliflozin or empagliflozin . The increase in fracture with canagliflozin was not significant (odds ratio \[OR\] 1.15, 95% CI 0.71-1.88).
+
+【124】Diabetic ketoacidosis — SGLT2 inhibitors are associated with an increased risk of diabetic ketoacidosis (DKA) . In a network meta-analysis of 36 trials that evaluated drug therapies for type 2 diabetes, an increased risk of DKA was found only for SGLT2 inhibitors (OR 2.07, 95% CI 1.44-2.98, versus other therapies) . Similarly, in a population-based cohort study from Canada and the United Kingdom (more than 350,000 patients and 500 DKA events), SGLT2 inhibitors ( empagliflozin , dapagliflozin , canagliflozin ) compared with dipeptidyl peptidase 4 (DPP-4) inhibitors were associated with an increased risk of DKA (incidence 2.03 versus 0.75 per 1000 person-years, respectively, \[HR 2.85, 95% CI 1.99-4.08\]) . Among the three SGLT2 inhibitors, canagliflozin was associated with the highest risk (HR 3.58 compared with 1.86 and 2.52 for dapagliflozin and empagliflozin, respectively).
+
+【125】In several studies, "euglycemic" (usually meaning plasma glucose <250 mg/dL) DKA has been reported in patients with type 2 diabetes . In these individuals, the absence of substantial hyperglycemia delays recognition of the problem by both the patients and the clinicians. Serum ketones should be obtained in any patient with nausea, vomiting, or malaise while taking SGLT2 inhibitors, and patients should be counseled to withhold therapy until symptoms resolve. SGLT2 inhibitors should be discontinued if acidosis is confirmed .
+
+【126】The risk of SGLT2 inhibitors with regard to DKA has been uniformly demonstrated in placebo-controlled trials in type 1 diabetes. The increased risk for DKA occurred in these studies even though participants at high risk for DKA were excluded at baseline and substantial efforts to mitigate this risk were implemented. Off-label use in type 1 diabetes is therefore discouraged .
+
+【127】Amputations — Compared with other oral and injectable diabetes agents, SGLT2 inhibitors, particularly canagliflozin , are associated with an increased risk of amputation .
+
+【128】 In two randomized trials evaluating canagliflozin versus placebo in patients with type 2 diabetes and established CVD (or at increased CVD risk) , there was an approximately twofold increased risk of lower limb amputations (predominantly toe and midfoot) in patients taking canagliflozin (amputation incidence 5.9 and 2.8 per 1000 patient-years for patients taking canagliflozin and placebo, respectively, in the first trial, and 7.5 and 4.2 per 1000 patient-years, respectively, in the second trial) . Patients were followed for a mean 5.7 and 2.1 years, respectively. Patients with a history of prior amputation, peripheral vascular disease, and neuropathy were at highest risk for amputation.
+
+【129】 In a pharmacovigilance study of over eight million case safety reports, 79 lower-limb amputations associated with the use of SGLT2 inhibitors were reported since 2013. An increased risk of lower-limb amputations was reported with both canagliflozin (proportional reporting ratio \[PRR\] 7.09, 95% CI 5.25-9.57) and empagliflozin (PRR 4.96, 95% CI 2.89-8.50), although the absolute number of lower-limb amputations reported was quite low  . There was a significant increased risk of toe amputations with canagliflozin, empagliflozin, and dapagliflozin (PRRs 8.91, 6.86, and 2.62, respectively).
+
+【130】 In a trial in adults with type 2 diabetes and either established CVD or elevated CVD risk, participants randomly assigned to bexagliflozin exhibited a higher risk of lower limb amputations than those who received placebo treatment (amputation incidence 8.3 versus 5.1 events per 1000 patient-years, respectively) .
+
+【131】In a post hoc analysis of the empagliflozin cardiovascular trial, however, there was no increased risk of lower limb amputation . Similarly, in the kidney outcomes trial, canagliflozin was not associated with an increased risk of lower extremity amputation (or fracture) . However, the study was terminated early due to benefit, and due to the findings in prior canagliflozin trials, the protocol was amended to employ a risk mitigation strategy in which a foot exam was performed at every study visit and the study medication was stopped if risk factors for amputation were present.
+
+【132】SGLT2 inhibitors should be used with caution in patients at risk for foot amputation, including severe neuropathy (loss of protective sensation), foot deformity, vascular disease, and history of previous foot ulceration. Patients taking SGLT2 inhibitors should be monitored for signs and symptoms of foot ulceration.
+
+【133】Links to society and government-sponsored guidelines from selected countries and regions around the world are provided separately.
+
+【134】INFORMATION FOR PATIENTS 
+
+【135】Here are the patient education articles that are relevant to this topic. We encourage you to print or e-mail these topics to your patients. (You can also locate patient education articles on a variety of subjects by searching on "patient info" and the keyword(s) of interest.)
+
+【136】 Basics topics
+
+【137】 Beyond the Basics topics
+
+【138】 **Mechanism of action** – The sodium-glucose cotransporter 2 (SGLT2) is expressed in the proximal tubule and mediates reabsorption of approximately 90 percent of the filtered glucose load. SGLT2 inhibitors promote the renal excretion of glucose and thereby modestly lower elevated blood glucose levels in patients with type 2 diabetes. They do not usually cause hypoglycemia in the absence of therapies that otherwise cause hypoglycemia. SGLT2 inhibitors decrease blood pressure and weight.
+
+【139】 **Patient selection** – SGLT2 inhibitors are not considered as initial therapy for the majority of patients with type 2 diabetes. In patients with cardiovascular or kidney comorbidities, many SGLT2 inhibitors have demonstrated benefit for cardiovascular and kidney outcomes, and therefore they are appropriate to use in combination with metformin (and/or another oral agent) in this setting.
+
+【140】• **Atherosclerotic cardiovascular disease (CVD)** – When a decision has been made to use an SGLT2 inhibitor in a patient with type 2 diabetes and atherosclerotic CVD, we suggest empagliflozin , rather than another SGLT2 inhibitor . This is based on the results of the empagliflozin and cardiovascular outcomes trial. Although canagliflozin also showed cardiovascular benefits, there was an increase in the risk of lower limb amputations and fractures in canagliflozin-treated patients that was not observed in trials of empagliflozin (or dapagliflozin ). In the primary analysis, dapagliflozin did not appear to reduce atherosclerotic cardiovascular morbidity or cardiovascular mortality; however, it decreased cardiovascular outcomes in a subanalysis of the primary trial. Ertugliflozin was not superior to placebo in reducing the primary composite cardiovascular endpoint.
+
+【141】• **Heart failure or kidney disease** – In patients with type 2 diabetes and heart failure and/or kidney disease, all SGLT2 inhibitors have shown salutary effects; choice of agent is primarily dictated by provider preference, insurance formulary restrictions, kidney function, and cost.
+
+【142】• **Without cardiovascular or kidney disease** – In patients without cardiovascular or kidney disease, SGLT2 inhibitors in general may have a role as a second or third agent in those whom glucagon-like peptide 1 (GLP-1)-based therapies are contraindicated and increasing insulin dosing would lead to weight gain, in those who cannot or will not take insulin, in patients in whom risk of hypoglycemia is high (frail, older adults), or in whom avoidance of weight gain is a priority. The choice of SGLT2 inhibitor is also often dictated by cost and insurer formulary preference.
+
+【143】 **Contraindications and precautions** – We avoid use of SGLT2 inhibitors in patients with a history of diabetic ketoacidosis (DKA). We use them with caution in patients with frequent bacterial urinary tract infections or genitourinary yeast infections, low bone density and high risk for falls and fractures, foot ulceration, or factors predisposing to DKA (eg, pancreatic insufficiency, drug or alcohol abuse disorder, ketogenic diets) because of increased risk while using these agents.
+
+【144】 **Monitoring** – Volume status and kidney function (serum creatinine with estimation of glomerular filtration rate \[eGFR\]) should be assessed prior to starting an SGLT2 inhibitor and periodically thereafter. Patients taking SGLT2 inhibitors should be monitored for signs and symptoms of genitourinary tract infections, foot ulceration, and DKA.
+
+【145】 **Adverse effects** – The most common side effects of SGLT2 inhibitors are vulvovaginal candidal infections and hypotension. Acute kidney injury, urinary tract infections, necrotizing fasciitis of the perineum, euglycemic DKA, increased risk of lower extremity amputation, and bone fractures have also been reported.黄艳玲
+
+====================================================================================================

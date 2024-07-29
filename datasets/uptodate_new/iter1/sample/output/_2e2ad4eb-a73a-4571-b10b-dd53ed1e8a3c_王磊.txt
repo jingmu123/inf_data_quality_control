@@ -1,0 +1,131 @@
+【0】Anorectal fistula: Clinical manifestations and diagnosis
+
+【1】INTRODUCTION 
+
+【2】Anorectal fistulas are sometimes also referred to as "fistula-in-ano." An anorectal fistula is the chronic manifestation of the acute perirectal process that forms an anal abscess . When the abscess ruptures or is drained, an epithelialized track can form that connects the abscess in the anus or rectum with the perirectal skin .
+
+【3】The clinical manifestations and diagnosis of anorectal fistula are discussed here. Surgery is the mainstay of treatment for anorectal fistulas; the treatment options, including all the operative procedures, are described in more detail in a separate topic.
+
+【4】Anorectal fistulas related to Crohn disease require multidisciplinary management and are discussed elsewhere.
+
+【5】EPIDEMIOLOGY 
+
+【6】The true prevalence of anal fistulas is unknown, as anorectal discomfort is often attributed to symptomatic hemorrhoids. The incidence of an anal fistula developing from an anal abscess ranges from 15 to 38 percent . The mean age for presentation of anal abscess and fistula disease is 40 years (range 20 to 60) . Adult males are twice as likely to develop an abscess and/or fistula compared with women .
+
+【7】ETIOLOGIES AND PATHOGENESIS
+
+【8】Cryptogenic — Over 90 percent of anorectal fistulas are cryptogenic. Cryptoglandular fistulas originate from an infected anal crypt gland . There are typically 8 to 10 anal crypt glands, arranged circumferentially within the anal canal at the level of the dentate line. The glands penetrate the internal sphincter and end in the intersphincteric plane. An anorectal fistula is the connection between two epithelial structures and connects the anal abscess from the infected anal crypt glands to the perirectal skin and occasionally to other pelvic organs.
+
+【9】Crohn disease — Anoperineal and anovaginal fistulas are common manifestations of perianal Crohn disease. While the incidence of anovaginal fistula is relatively low (<5 percent after 10 years with disease), anoperineal fistulas are diagnosed in 15 percent after 10 years and in 20 to 30 percent at 20 years after Crohn diagnosis . Anal fistula may be the initial manifestation of Crohn disease or occur after the diagnosis of proximal luminal disease . The incidence of anal fistula increases as the luminal Crohn disease extends distally and is highest in the setting of Crohn proctitis . In Crohn disease, anal fistulas are caused by penetrating inflammation rather than infection of a perianal gland, which warrants a more nuanced and multidisciplinary approach .
+
+【10】Others — Other causes of anorectal fistula include:
+
+【11】 **Obstetric injury** – Anovaginal and rectovaginal fistulas most frequently result from obstetric trauma, especially in undeveloped countries where prolonged obstructed labor can lead to pressure necrosis of the rectovaginal septum.
+
+【12】 **Radiation proctitis** – Patients undergoing pelvic radiation can develop bleeding, rectal pain, and fistulas.
+
+【13】 **Rectal foreign bodies** – A retained rectal foreign body can be a rare cause of an anorectal fistula. An anorectal mucosal laceration is the most common complication from anal insertion of a foreign body and can result in an abscess and fistula formation .
+
+【14】 **Infectious diseases** – Lymphogranuloma venereum is chronic infection in the lymphatic system caused by _Chlamydia trachomatis_ and can cause inflammatory perirectal masses and anal fistula. Anorectal tuberculosis may also cause anal fistula . Primary perianal actinomycosis is a rare condition that can cause a simple fistula-in-ano or an inflamed perirectal mass in immunocompromised individuals . Anal fistula may also be a perianal manifestation of AIDS .
+
+【15】 **Malignancy** – In rare instances, malignant transformation of a Crohn anal fistula may occur . Uncommonly, anal squamous cell carcinoma may fistulize to the vagina .
+
+【16】CLASSIFICATIONS 
+
+【17】The classification of anal fistulas described by Parks, Gordon, and Hardcastle is the most common classification used . This classification accurately describes the anatomic track of the fistula and is useful for predicting the complexity of the operative procedure to treat the fistula.
+
+【18】Anal fistulas are classified in terms of their relationship to the anal sphincter muscles :
+
+【19】 **Intersphincteric** – The fistula begins at the dentate line and ends at the anal verge, tracking along the intersphincteric plane between the internal and external anal sphincters, and terminates in the perianal skin (Parks type 1).
+
+【20】 **Transsphincteric** – The fistula tracks through the external sphincter into the ischiorectal fossa, encompasses a portion of the internal and external sphincter, and terminates in the skin overlying the buttock (Parks type 2).
+
+【21】 **Suprasphincteric** – The fistula originates at the anal crypt and encircles the entire sphincter apparatus, and terminates in the ischiorectal fossa (Parks type 3).
+
+【22】 **Extrasphincteric** – The fistula is usually very high in the anal canal, located proximal to the dentate line. It encompasses the entire sphincter apparatus, including the levators, and terminates in the skin overlying the buttock (Parks type 4). Extrasphincteric fistulas are typically not cryptoglandular in origin but may result from trauma, rectal foreign bodies, Crohn disease, or an iatrogenic injury.
+
+【23】 **Superficial** – Superficial, or submucosal, fistula was not included in the original Parks classification. It does not involve any sphincter muscle.
+
+【24】Intersphincteric  and transsphincteric fistulas  are more common than suprasphincteric , extrasphincteric , and superficial fistulas . Each of these types of fistulas may be associated with one or more extensions, and accessory or adjacent communicating blind tracks .
+
+【25】Anal fistulas may also be classified by complexity :
+
+【26】 **Complex** **anal fistulas** include high transsphincteric fistulas that involve ≥30 percent of the external sphincter; suprasphincteric, extrasphincteric, or horseshoe fistulas; and fistulas associated with Crohn disease, radiation, malignancy, or existing fecal incontinence .
+
+【27】 **Simple** **anal fistulas** do not have any of the above attributes and generally include superficial, intersphincteric, and low transsphincteric fistulas that involve <30 percent of the external sphincter .
+
+【28】Anal fistulas may also be classified anatomically by their origins:
+
+【29】 **Anal fistula** – Fistulas that originate between the anal orifice and the dentate line are referred to as anal fistula.
+
+【30】 **Rectal fistula** – Fistulas that originate above the dentate line are rectal fistulas.
+
+【31】 Less commonly, fistulas can occur between the anal canal or rectum and the vagina or bladder.
+
+【32】The anatomy of the anal region is described elsewhere .
+
+【33】CLINICAL FEATURES
+
+【34】Patient presentation — If drainage persists beyond 6 to 12 weeks after the initial incision and drainage of an anorectal abscess or other septic process, an anorectal fistula should be suspected. Patients with an anorectal fistula usually present with a "nonhealing" anorectal abscess following drainage or with chronic purulent drainage and a pustule-like lesion in the perianal or buttock area . Patients may experience intermittent rectal pain, particularly during defecation, but also with sitting and activity. Patients may also experience intermittent and malodorous perianal drainage and pruritus .
+
+【35】Patients should be questioned about their baseline anal sphincter function; prior anorectal surgery; any associated gastrointestinal, genitourinary, or gynecologic symptoms; and, when appropriate, their risk factors for infectious diseases that have been linked to anal fistula formation.
+
+【36】Physical examination — The internal and external openings of the fistulous tract need to be identified. A digital rectal examination is performed on every patient to assess for an indolent or incompletely drained abscess .
+
+【37】 **External opening** – The perianal skin may be excoriated and inflamed. The external opening may be visualized or palpated as induration just below the skin if the external opening is incomplete or blind-ended. The typical appearance is a small dimpled area of granulation tissue that drains pus or blood on manual compression.
+
+【38】 **Internal opening** – Over 90 percent of anorectal fistulas develop from a cryptoglandular abscess originating from the crypts of Morgagni, which are located between the two layers of the anal sphincter . As such, most internal openings of the fistula are located around the anal glands surrounding the dentate line . The internal opening may be identified by anoscopy with manual compression over the external opening. Proctoscopy is also indicated in the presence of rectal disease, such as Crohn disease or other suppurative conditions. In some cases, the internal opening can be palpated on digital rectal examination.
+
+【39】Most patients will not tolerate even gentle probing of the fistula track in the office setting, so it is best performed under anesthesia.
+
+【40】Imaging studies — Whereas simple fistulas do not require imaging to guide treatment, complex fistulas, especially those associated with perianal Crohn disease, and recurrent fistulas can benefit from imaging studies.
+
+【41】Magnetic resonance imaging (MRI) of the pelvis without and with contrast  and endosonography (EUS)  are the preferred imaging studies to determine the anatomy of the fistula tract and the extent of anal sphincter involvement . Computed tomography (CT) imaging of the pelvis with contrast is inferior to MRI in its ability to discern soft tissue involvement with the fistula. Anal fistulography is rarely used.
+
+【42】DIAGNOSIS 
+
+【43】An anorectal fistula is suspected based upon characteristic findings on history and physical examination: pain, purulent drainage, and a perirectal skin lesion. The diagnosis is confirmed with identification of both an internal and external opening and the track connecting the two with a fistula probe typically at the time of an examination under anesthesia.
+
+【44】Imaging studies are not required for diagnosis of simple fistulas; however, they may be helpful for diagnostic evaluation of complex or recurrent fistulas.
+
+【45】DIFFERENTIAL DIAGNOSIS 
+
+【46】In patients who present with anorectal pain and a perirectal skin lesion, the differential diagnosis includes:
+
+【47】 **Anal abscess** – An anal abscess is the acute manifestation of the infectious perirectal process. Most fistulas are a result of an abscess, and approximately one-third of anorectal abscesses result in a fistula. Abscesses may be associated with fever, but generally not fistulas.
+
+【48】 **Anal fissure** – An acute anal fissure is a superficial linear tear in the anoderm lining of the anal canal caused by local trauma to the anal canal, such as after passage of hard stool. Compared with anal fistula, pain associated with anal fissure is more intense and lasts longer after defecation. Anal fissure usually occurs at either anterior or posterior midline where there is an characteristic "tear" distal to the dentate line sometime accompanied by a sentinel pile .
+
+【49】 **Anal ulcer or sores** – Anal ulcers can be caused by granulomatous diseases (eg, Crohn disease, tuberculosis ) or syphilis .
+
+【50】 **Hidradenitis** – Hidradenitis suppurativa is a chronic follicular occlusive disease involving the intertriginous skin of the axillary, groin, perianal, perineal, and inframammary regions . Hidradenitis suppurativa can occur in the perirectal area and present with purulent drainage, but it is usually and easily distinguished by its typical location in the perineal or inguinal area and also by gentle probing using an anal probe.
+
+【51】 **Pilonidal disease** – Pilonidal disease typically involves the skin and subcutaneous tissue at or near the upper part of the natal cleft of the buttocks . It can typically be diagnosed by physical examination findings of one or more pores (pits) or sinuses in the natal cleft region, rather than the perianal area. There are often a series of pilonidal pits (pores appearing as small dimples) in the midline extending caudad in the natal cleft.
+
+【52】MANAGEMENT 
+
+【53】While most cryptoglandular fistulas are treated surgically, combined medical and surgical therapy is required if the fistula is secondary to Crohn disease. The overall goal of surgery is to eradicate the fistula, preserve anal sphincteric function, and prevent a recurrence. The tremendous variability of patient factors and the heterogeneity of anorectal fistulas require a greater need for surgical "judgment" than in most colorectal diseases ( algorithm 1 ) .
+
+【54】The preoperative evaluation of an anorectal fistula, procedure selection process, intraoperative preparation, operative procedures for simple and complex fistulas, and outcomes are discussed in another topic.
+
+【55】Links to society and government-sponsored guidelines from selected countries and regions around the world are provided separately.
+
+【56】INFORMATION FOR PATIENTS 
+
+【57】Here are the patient education articles that are relevant to this topic. We encourage you to print or e-mail these topics to your patients. (You can also locate patient education articles on a variety of subjects by searching on "patient info" and the keyword(s) of interest.)
+
+【58】 Basics topics
+
+【59】 **Etiologies** – The majority of anorectal fistulas originate from an infected anal crypt gland (cryptoglandular). In Crohn disease, anal fistulas are caused by penetrating inflammation rather than infection of a perianal gland.
+
+【60】 **Classifications** – Anorectal fistulas are classified in relationship to the anal sphincter and include superficial, intersphincteric, transsphincteric, suprasphincteric, and extrasphincteric fistulas . Fistulas can be simple or complex, and thorough knowledge of the pelvic anatomy is essential for surgical management.
+
+【61】 **Clinical manifestations** – Patients with an anorectal fistula usually present with a "nonhealing" anorectal abscess following drainage or with chronic purulent drainage and a pustule-like lesion in the perianal or buttock area.
+
+【62】 **Diagnosis** – An anorectal fistula is suspected based upon characteristic findings on history and physical examination: pain, purulent drainage, and a perirectal skin lesion. The diagnosis is confirmed with identification of both an internal and external opening and the track connecting the two with a fistula probe typically at the time of an examination under anesthesia.
+
+【63】 **Imaging** – Whereas simple fistulas do not require imaging to guide treatment, complex fistulas, especially those associated with perianal Crohn disease, and recurrent fistulas can benefit from imaging studies. Magnetic resonance imaging (MRI) and endosonography (EUS) are the preferred imaging studies to determine the anatomy of the fistula tract and the extent of anal sphincter involvement.
+
+【64】 **Management** – Surgical management is the mainstay of therapy. The goal of surgical therapy is to eradicate the fistula while preserving fecal continence. The surgical approach depends upon the type of fistula and is discussed in another topic.王磊
+
+====================================================================================================

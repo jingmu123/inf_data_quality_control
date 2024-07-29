@@ -1,0 +1,462 @@
+【0】The febrile infant (29 to 90 days of age): Outpatient evaluation
+The febrile infant : Outpatient evaluation
+
+【1】INTRODUCTION 
+
+【2】The outpatient evaluation of febrile infants 29 to 90 days old is discussed in this topic.
+
+【3】For a discussion of the management of febrile infants 29 to 90 days old, the definition of fever in the young infant, the outpatient evaluation and initial management of febrile neonates, and the approach to the ill-appearing infant without fever, refer to the following topics:
+
+【4】FEVER DEFINITION 
+
+【5】We regard a rectal temperature of ≥38°C  as fever in infants 29 to 90 days old. Most studies establishing the risk of serious infections in febrile young infants have relied upon rectal temperatures. Thus, they are the standard for detecting fever in infants ≤90 days old.
+
+【6】Interpretation of other means of temperature measurement and caregiver reports of fever in young infants is discussed in detail separately.
+
+【7】ETIOLOGY
+
+【8】Viral infection — Surveillance for viral infection in the first year of life indicates that it occurs commonly in young infants, and the first infection is often asymptomatic . Viral infection is also the most common cause of fever in young infants. Depending upon the specific pathogen and type of diagnostic testing, viral infections have been documented in up to 58 percent of young febrile infants, while bacterial infections account for 10 to 15 percent of pathogens (although molecular testing may reflect prior asymptomatic disease rather than the causative pathogen for some viruses) . Based upon one study of over 4000 febrile young infants undergoing molecular respiratory virus testing, human rhinovirus is detected most frequently followed by respiratory syncytial virus, influenza, and parainfluenza .
+
+【9】Viruses that can cause serious illness in febrile young infants include:
+
+【10】 Herpes simplex virus (HSV)
+
+【11】 Varicella-zoster virus
+
+【12】 Some enteroviruses
+
+【13】 Influenza virus
+
+【14】 Some adenoviruses
+
+【15】 Respiratory syncytial virus
+
+【16】 Coronavirus disease 2019 (COVID-19)
+
+【17】Infants 29 to 60 days of age with viral infections have a lower risk of invasive bacterial infection (IBI) than febrile infants in this age group without viral infections but remain at significant risk for urinary tract infection (UTI).
+
+【18】Invasive bacterial infection
+
+【19】Definition and risk factors — For this topic, IBI refers to bacteremia or meningitis. Many prior studies of fever in the young infant defined outcomes by the occurrence of "serious bacterial infection" (SBI), which included bacteremia, bacterial meningitis, bacterial pneumonia, skin and soft tissue infections, osteomyelitis, bacterial gastroenteritis, septic arthritis, and UTI . More recent studies focus on the specific type of infection (eg, UTI, bacteremia, or meningitis), which has replaced the general concept of SBI in terms of evaluation and management secondary to the overall decreased prevalence of bacterial infections in the febrile infant and the unique nature of risk attributed to the specific type of infection.
+
+【20】Risk factors for IBI in young infants include the following  :
+
+【21】 **Age** – For well-appearing, low-risk, febrile infants 29 to 90 days of age, the risk of IBI decreases with age. Estimates based upon observational studies of young infants 29 to 60 days old who present to primary care offices and pediatric emergency departments suggest the upper limit of risk for bacteremia is just over 2 percent, and the risk of bacterial meningitis is approximately 0.25 percent . The risk of IBI for well-appearing, low-risk infants 60 to 90 days of age is <1 percent for bacteremia and much lower for meningitis .
+
+【22】The risk of IBI in neonates (≤28 days) is discussed separately.
+
+【23】 **Ill appearance** – Ill appearance has consistently been associated with a higher risk of IBI based upon clinical experience and multiple observational studies . However, a substantial number of previously healthy, well-appearing infants without a focus of infection on physical examination can also have an IBI.
+
+【24】 **Rectal temperature ≥38.6°C ** – The risk for bacterial etiology appears to increase with increasing fever (rectal temperature ≥38°C \[100.4°F\]) .
+
+【25】Although increasing temperatures may increase risk, thresholds merely represent cutoffs described in the literature for the purposes of research; true risk is a continuum. Approximately one-third of IBI occurs in infants with temperatures of 38 to 38.5°C . In addition, height of fever alone is not an independent predictor of IBI in well-appearing febrile infants 29 to 60 days of age if other biomarkers of infection such as procalcitonin and urinalysis are normal and, in these patients, is not an indicator for more aggressive evaluation and treatment such as lumbar puncture, empiric antibiotics, and/or hospitalization .
+
+【26】However, when procalcitonin is not readily available, fever ≥38.6°C  is considered a marker of higher risk of IBI for infants 29 to 60 days old in conjunction with an abnormal urinalysis, CRP >20 mg/L, and an absolute neutrophil count >5200/mm 3 .
+
+【27】Hyperpyrexia (rectal temperature ≥40°C \[104°F\]) is rare among febrile infants younger than three months but is highly associated with IBI when it occurs . As an example, in an observational study of 98 infants younger than 90 days of age, patients with a temperature ≥40°C had a 29 percent absolute increase in the frequency of SBI ; the frequency of IBI (bacteremia or meningitis) was 8 percent .
+
+【28】 **Prematurity (gestational age younger than 37 weeks)** – Because of their immature immune protective mechanisms, former premature infants 29 to 90 days old are at higher risk for IBI. For example, premature infants have rates of sepsis, including late-onset sepsis, that are approximately 10 to 12 times that of term infants. Thus, febrile young infants who are premature should be regarded as being at an increased risk for IBI.
+
+【29】However, excluding any comorbidities, former premature infants, once corrected for post-conceptual age, have similar incidence of bacterial infection when compared with their term-matched controls . As an example, an infant who is 12 weeks  of age but was born at 34 weeks gestation (or six weeks early) is regarded as having a similar risk for IBI as a six-week-old term infant.
+
+【30】 **Comorbidities or chronic illnesses** – Historically, studies of IBI in young infants have excluded patients with the following comorbidities who are considered at higher risk for IBI :
+
+【31】• Infants with a perinatal course that is complicated by surgery, infection, or congenital or chromosomal abnormalities
+
+【32】• Medically fragile patients who are dependent upon technology or specific therapies (eg, home ventilator, home oxygen, or total parenteral nutrition)
+
+【33】 **Received antibiotics within the prior three days** – Because of the longer half-lives of antibiotics in young infants 29 to 90 days of age, administration up to three days prior to evaluation may mask signs and symptoms of IBI.
+
+【34】 **Social barriers to follow-up** – Although it has not been shown to be a direct risk factor for IBI, factors that negatively impact the ability to re-evaluate a young febrile infant on an outpatient basis pose a risk for safe management:
+
+【35】• Limited skills by the caregiver to assess severity of diseases/educational barriers
+
+【36】• Limited access to a medical home for questions and/or follow-up
+
+【37】• Lack of transportation
+
+【38】• Language and other communication limitations
+
+【39】Pathogens and type of infections — _Escherichia coli_ is the most common pathogen causing bacteremia and bacterial meningitis in febrile infants younger than 90 days of age followed by group B _Streptococcus_ (GBS)  _. E. coli_ also causes the majority of UTIs in this age group.
+
+【40】Although _Listeria monocytogenes_ remains a consideration as a cause of bacterial meningitis, its overall prevalence as a pathogen in febrile infants is becoming rare . It is primarily isolated in neonates younger than 28 days of age and premature infants.
+
+【41】Other potential pathogens in febrile young infants include _Staphylococcus_ _aureus_ , _Streptococcus pneumoniae_ , _Salmonella_ species, _Enterococcus faecalis_ , _Enterobacter cloacae_ , _Moraxella catarrhalis_ , _Klebsiella_ species, and _Citrobacter_ species . Of these, _S. aureus_ is the most frequent isolate from skin and soft tissue infections and osteomyelitis.
+
+【42】_Salmonella_ is a consideration in young infants with fever, particularly in those who also have diarrhea or blood in the stool. A relatively small percent of these infants will have associated bacteremia . _Salmonella_ meningitis should be excluded in young infants with _Salmonella_ bacteremia.
+
+【43】UTI accounts for most bacterial infections in infants under 90 days of age, accounting for approximately 80 percent of 440 febrile infants with bacterial infections in one series . Bacteremia, cellulitis, meningitis, and pneumonia constitute other important sources of infection . Additional studies indicate the importance of UTI as a source of infection in febrile young infants as follows:
+
+【44】 In a multicenter study of SBI among 3066 febrile infants three months of age and younger who were evaluated in the primary care office setting rather than the emergency department, UTI occurred much more frequently than bacteremia and meningitis  . These numbers are likely underestimates, as only slightly more than 50 percent of infants had a urine test performed.
+
+【45】 In a prospective, multicenter observational study of 1025 febrile young infants 60 days of age or younger who were evaluated for fever ≥38°C, UTI was diagnosed in 9 percent of patients . UTI was diagnosed in 21 percent of uncircumcised males and was significantly associated with fever ≥39°C.
+
+【46】The risk of UTI in uncircumcised male infants is elevated compared with circumcised males as discussed in detail separately.
+
+【47】EVALUATION 
+
+【48】When evaluating the febrile young infant, the goal is to identify infants who are at high risk for invasive bacterial infection (IBI; ie, bacteremia and/or meningitis) or serious viral infection (eg, herpes simplex virus \[HSV\] infection) and who therefore require comprehensive evaluation , empiric antimicrobial therapy, and hospitalization. The young febrile infant may demonstrate few, if any, interpretable clues to the underlying illness on physical examination despite evaluation by experienced physicians or the use of an observation scale score . However, careful assessment and judicious use of ancillary studies can identify patients at both high and low risk of IBI.
+
+【49】Stabilization — Unstable infants who have respiratory or circulatory compromise (eg, apnea, respiratory distress, or signs of shock \[eg, tachycardia with poor perfusion\]) must be quickly identified and treated .
+
+【50】These ill-appearing patients are at high risk for IBI and warrant a complete evaluation for sepsis  with prompt administration of empiric antimicrobial agents.
+
+【51】In addition to respiratory or circulatory compromise, ill-appearing infants may display irritability, poor tone, or lethargy. A careful physical examination may identify a pattern of clinical features that suggests the etiology of an infant's symptoms and warrants further studies in addition to a sepsis evaluation.
+
+【52】History — A thorough history is an essential component of the assessment of young febrile infants. The physician should first determine if the report of fever represents a true and reliably measured elevation in body temperature. Rectal temperatures are the standard for detecting fever in infants ≤90 days of age.
+
+【53】The physician should also identify findings that may indicate a higher risk for IBI :
+
+【54】 A significant change in behavior (eg, decreased feeding, irritability, lethargy, or increased sleeping) that may represent subtle symptoms of bacterial meningitis or HSV encephalitis
+
+【55】 Documented rectal temperature ≥38.6°C 
+
+【56】 Antibiotic administration in the past three days
+
+【57】 History of prematurity (gestational age younger than 37 weeks)
+
+【58】 Comorbidities or chronic illness including infants whose perinatal course was complicated by surgery, infection, or congenital or chromosomal anomalies; or those who are medically fragile (eg, receiving home ventilator therapy, home oxygen, or total parenteral nutrition)
+
+【59】In addition, the history should assess:
+
+【60】 Associated symptoms (eg, rhinorrhea, cough, wheezing, vomiting, diarrhea, blood or mucus in the stool, or rash \[eg, vesicular rash suggesting HSV infection\])
+
+【61】 Exposures to sick contacts (caregivers, siblings, babysitters, or other children at day care)
+
+【62】 Social barriers to outpatient management (limited caregiver skills or confidence to assess severity or progression of disease, limited access to a medical home, lack of transportation, and language limitations)
+
+【63】Physical examination — All febrile young infants require a complete physical examination and a complete set of vital signs (rectal temperature, respiratory rate, heart rate, and blood pressure) with particular attention to general appearance, degree of fever, tachycardia, tachypnea, perfusion, and signs of focal infection.
+
+【64】Appearance — Clinical appearance is an essential yet subjective assessment during evaluation of febrile infants 29 to 90 days old. Identifying a young infant as well appearing relies heavily upon the clinician's pediatric knowledge and experience. Prior to the development of a reliable social smile at approximately six weeks of age, this task is especially challenging .
+
+【65】In addition to a careful physical examination, observation of febrile young infants over time (eg, one feeding cycle) to ensure that the infant feeds well, remains vigorous, has normal vital signs, and does not develop new findings suggestive of bacterial illness on physical examination (eg, pulmonary rales, focal bone or joint tenderness, abdominal tenderness, petechiae, or purpura) provides additional reassurance.
+
+【66】Degree of fever — For ill-appearing infants and those at increased risk for IBI, the height of the fever does not change further evaluation or management.
+
+【67】However, for well-appearing infants with rectal temperatures ≥38°C  and no obvious source of infection on physical examination, the likelihood of IBI (bacteremia or meningitis) or urinary tract infection (UTI) increases with higher fevers unless urinalysis and procalcitonin results are normal . When procalcitonin is not available, a rectal temperature >38.5°C  is our recommended threshold for performing more comprehensive evaluation for IBI in these patients .
+
+【68】Signs of focal infection — During physical examination, the clinician should look for these manifestations of focal infection in febrile young infants:
+
+【69】 **Focal bacterial infections**
+
+【70】• **Acute suppurative otitis media** – Bulging and inflammation of the tympanic membrane 
+
+【71】• **Pneumonia** – Tachypnea, respiratory distress (including grunting, flaring, and retractions), decreased oxygen saturation, cough, and crackles or decreased breath sounds on auscultation
+
+【72】• **Omphalitis** – Purulent drainage from the umbilical stump, circumferential erythema with tenderness and/or induration around the umbilicus , and/or foul odor
+
+【73】• **Bacterial arthritis** – Swollen, painful, warm, and/or red joint with decreased range of motion 
+
+【74】• **Osteomyelitis** – Decreased movement of a limb with localized swelling or erythema
+
+【75】• **Cutaneous cellulitis or abscess** – Redness, induration, warmth, and drainage from a skin lesion, which is often located in the scalp at the site of monitoring probe insertion
+
+【76】• **Mastitis** – Unilateral breast redness, tenderness, and induration that may have fluctuance or purulent nipple discharge
+
+【77】• **Meningitis** – Irritability, lethargy, decreased or increased tone on examination, bulging fontanelle (late finding), and nuchal rigidity (rare finding in young infants)
+
+【78】 **Serious viral infections**
+
+【79】• **HSV infection** – Clinical findings concerning for HSV infection are most common in neonates but can occur beyond 28 days of age and include:
+
+【80】\- Mucocutaneous vesicles 
+
+【81】\- Seizures, which typically consist of facial automatisms (eg, lip smacking or pursing), eye deviation, or unresponsiveness rather than tonic-clonic motor activity
+
+【82】\- Focal neurologic signs
+
+【83】\- Respiratory distress, apnea, or progressive pneumonitis
+
+【84】\- Conjunctivitis, excessive tearing, or painful eye symptoms
+
+【85】\- Sepsis-like illness (fever or hypothermia, irritability, lethargy, respiratory distress, apnea, abdominal distension, hepatomegaly, or ascites)
+
+【86】• **Bronchiolitis** – Tachypnea, copious nasal discharge, cough, auscultation demonstrating rales and/or wheezing, or apnea
+
+【87】Ancillary studies — In febrile young infants, performance of ancillary studies is based upon the risk of IBI as determined by age and clinical findings. The suggested studies for each risk group are provided below. The evidence supporting the ability of specific tests to identify febrile young infants at lower or higher risk of IBI is discussed separately.
+
+【88】Ill-appearing infants — Regardless of age, febrile and afebrile young infants who are ill appearing are at high risk for IBI and warrant a full evaluation for sepsis  .
+
+【89】In addition to diagnostic testing to identify IBI and UTI, diagnostic testing for viral etiologies is warranted in selected patients:
+
+【90】 **Respiratory syncytial virus (RSV)** – Ill-appearing infants with clinical findings of bronchiolitis warrant rapid testing for respiratory viruses (eg, RSV) to permit proper infection control measures during hospitalization. However, empiric antibiotics are still indicated.
+
+【91】 **Influenza** – During high seasonal prevalence, testing for influenza using highly accurate testing  is helpful for determining the need for continued contact precautions and antiviral treatment in addition to empiric antibiotics. However, laboratory confirmation is **not** necessary before initiation of these measures and should not delay their initiation in patients in whom they are indicated.
+
+【92】 **HSV** – Infants with findings of HSV infection (eg, mucocutaneous vesicles, seizures, or focal neurologic findings) warrant additional blood studies, surface viral cultures, and scraping from skin vesicles or mucous membranes for additional testing as described separately.
+
+【93】 **Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)** – Although SARS-CoV-2 is an uncommon cause of ill appearance in febrile young infants, SARS-CoV-2 viral testing (nasal or nasopharyngeal swab for nucleic acid amplification testing \[NAAT\], which includes polymerase chain reaction \[PCR\] testing) is indicated for infection control in all hospitalized patients.
+
+【94】Other causes of ill appearance in addition to sepsis include child abuse, congenital heart disease, congenital adrenal hyperplasia, inborn errors of metabolism, malrotation with volvulus, and a variety of other conditions. Infants with clinical manifestations suggesting a diagnosis other than or in addition to serious infection warrant additional studies based upon specific findings as discussed separately.
+
+【95】Well-appearing infants with IBI risk factors — Our suggested approach to well-appearing infants with risk factors for IBI  depends upon age:
+
+【96】 ≤60 days – Full sepsis evaluation 
+
+【97】 61 to 90 days – Modified evaluation as described below for well-appearing, low-risk infants 29 to 60 days old 
+
+【98】Patients with risk factors for IBI have been excluded from most studies designed to identify low-risk criteria in well-appearing febrile infants . Thus, evidence does not support using blood inflammatory markers to limit the evaluation and/or treatment.
+
+【99】Low-risk, well-appearing infants — Age and risk factors for IBI are the primary determinants for the evaluation of well-appearing febrile young infants 29 to 90 days old.
+
+【100】29 to 60 days old — The 2021 American Academy of Pediatrics Clinical Practice Guideline (AAP CPG) provides an algorithm for the evaluation and management of low-risk, well-appearing, 29- to 60-day-old febrile infants ( algorithm 2 ) based upon results of urinalysis (UA) and blood inflammatory markers (IM)  . For low-risk, well-appearing infants 29 to 60 days old with fever, similar to the AAP CPG guideline, we suggest a stepwise evaluation for IBI  :
+
+【101】 **Normal UA and IM** – CSF studies are not needed in patients with a normal UA and IM because the risk of meningitis is very low (≤0.025 percent). Due to the low risk of UTI in patients with normal urine results, the AAP CPG also recommends not sending a urine culture . However, it is reasonable for clinicians to send a urine culture obtained by catheterization or SPA in all febrile infants 29 to 60 days old in settings with documented low rates of specimen contamination and with timely specimen processing as false positives are less likely in such settings.
+
+【102】 **Elevated IM and normal UA** – We recommend cerebrospinal fluid (CSF) studies in individuals with elevated IM  because the risk of meningitis is increased . Although evidence that compares the prevalence of meningitis between young infants with elevated versus normal IM is lacking, a combination of IM, including procalcitonin and C-reactive protein whenever rapidly available (eg, within one to two hours), provides superior diagnostic accuracy for IBI. Of note, when procalcitonin is not available, we consider fever >38.5°C  to be another marker of high risk. The white blood cell (WBC) count alone has very poor sensitivity for identifying well-appearing infants at low risk for IBI .
+
+【103】 **Positive UA and either normal or elevated IM** – If the UA is positive (ie, leukocyte esterase or nitrite present on dipstick, >5 WBCs/high-power field \[centrifuged urine\], or >10 WBCs/mm 3 \[uncentrifuged urine\]) and the infant is well-appearing, then we recommend **not** obtaining CSF studies if IM results are normal; we suggest not obtaining CSF studies if IM results are elevated . If a lumbar puncture is planned in a well-appearing infant with signs of a UTI and elevated IM, then the physician should inform the family of the risks and benefits involved with this approach (eg, the benefit of identifying a rare case of meningitis versus the risks of lumbar puncture, including a significant risk for a dry or traumatic tap) and include the family's values and preferences before making the decision to proceed.
+
+【104】In low-risk well-appearing infants >28 days old, a positive UA does not indicate a higher risk for bacterial meningitis . For example, in a secondary analysis of a prospective, observational study of nearly 700 febrile young infants 29 to 60 days old with positive UA, none had bacterial meningitis, including over 200 individuals with elevated procalcitonin results (PCT) or absolute neutrophil counts (ANC) . Furthermore, of 111 infants 29 to 60 days old with a positive UA but normal PCT and ANC, none had IBI. Although C-reactive protein was not measured in this study, it has lower diagnostic accuracy for IBI than PCT. Therefore, this study provides support for not obtaining CSF studies in these infants, regardless of IM results.
+
+【105】Bacterial meningitis is also rare in febrile infants with a documented UTI. For example, in a systematic review and meta-analysis of nearly 3900 infants 29 to 90 days of age , the pooled prevalence of bacterial meningitis in individuals with a UTI was 0.25 percent  . Finally, sterile CSF pleocytosis occurs in up to 29 percent of infants with a UTI, which may complicate hospital management and lead to unnecessary and prolonged antibiotic therapy for patients who undergo a lumbar puncture for this indication .
+
+【106】Clinical prediction rules — Based on several regional and national studies, the prevalence of bacteremia seen in febrile infants 29 to 60 days old is approximately 1.5 to 2 percent, and prevalence of bacterial meningitis is approximately 0.25 percent . Prediction rules that use combinations of blood inflammatory markers such as procalcitonin, C-reactive protein, and absolute neutrophil count (eg, within one to two hours) demonstrate the ability to identify febrile young infants at low risk for IBI:
+
+【107】 **Pediatric Emergency Care Applied Research Network (PECARN) rule** – In the derivation and validation of the PECARN clinical prediction rule in 1820 well-appearing febrile young infants ≤60 days old, patients with a normal urinalysis (ie, negative for leukocyte esterase and nitrite on dipstick and with <5 WBCs per high-powered field), procalcitonin ≤1.7 ng/mL, and absolute neutrophil count ≤4090/mm 3 had a very low risk for IBI (negative predictive value 99.9 percent, 95% CI 99.4-100 percent, prevalence of IBI 1.7 percent) . Sensitivity of the PECARN rule for IBI was 96.7 percent . Reducing the procalcitonin threshold to <0.5 ng/mL and the absolute neutrophil count threshold to <4000/mm 3 did not significantly impact negative predictive value or sensitivity of the rule.
+
+【108】 **Step-by-step rule** – The "step-by-step" approach is based upon prospective observational studies in febrile infants 90 days of age and younger presenting for evaluation to pediatric emergency departments that indicate a low risk for meningitis (<0.2 percent) and bacteremia (<2 percent) when initial evaluation demonstrated a C-reactive protein <20 mg/L, procalcitonin <0.5 ng/mL, absolute neutrophil count ≤10,000/mm 3 , and a normal urinalysis . In a large, multicenter prospective observational study, the sensitivity and specificity of this approach for detecting bacteremia or meningitis were 92 percent  and 46 percent , respectively, with a negative predictive value of 99.3 percent  .
+
+【109】 **Febrile young infant collaborative** – In a multicenter, case-control study of 543 febrile infants ≤60 days old presenting to pediatric emergency departments , absolute neutrophil count <5185/mm 3 , normal urinalysis, height of fever in the emergency department, and age identified febrile infants at low risk for IBI .
+
+【110】Given a baseline prevalence of 0.25 percent for bacterial meningitis in well-appearing febrile infants 29 to 60 days of age and use of a prediction rule with a sensitivity >90 percent, the risk of missed meningitis decreases to ≤0.025 percent among infants identified as low risk. At this level of risk, the number of successful lumbar punctures needed to detect one case of meningitis is 4000 . Thus, lumbar puncture can be safely omitted in selected, well-appearing febrile infants.
+
+【111】61 to 90 days old — For low-risk, well-appearing infants 61 to 90 days old, we suggest urine dipstick or microscopic urinalysis and urine culture. Transurethral bladder catheterization or SPA is the preferred method for obtaining urine cultures. This is especially recommended for females and uncircumcised males based upon the elevated probability of a UTI .
+
+【112】Some experts also recommend complete blood count with differential, inflammatory markers such as C-reactive protein or procalcitonin, and blood culture for infants in this age range, especially in unimmunized infants who have the least protection against _S. pneumococcus_ and _H. influenzae_ type b . We do not routinely obtain these tests in these patients, but we will sometimes perform them when close follow-up is not possible or when there is concern about caregiver ability to identify progression of illness.
+
+【113】Patients with recognizable viral infections — Despite the concern for IBI, most young febrile infants have a viral infection.
+
+【114】Bronchiolitis — Evidence suggests a low prevalence for IBI (<0.01 percent) or UTI  in well-appearing febrile infants 29 to 90 days of age with bronchiolitis . Thus, evaluation for these infections is **not** necessary in these infants unless there is another indication (eg, infants with known or suspected urologic abnormality) ( algorithm 3 ) . These patients should also receive further care based upon the degree of respiratory compromise.
+
+【115】This approach is supported by the following evidence:
+
+【116】 Multiple retrospective and prospective observational studies demonstrate that the incidence of bacterial infection among febrile infants >28 days old with bronchiolitis is lower than in febrile infants without bronchiolitis .
+
+【117】 UTI is the most common bacterial infection seen in febrile infants >28 days old with bronchiolitis. Previous studies had established a prevalence of UTI often exceeding the threshold of 2 percent, used to justify an evaluation for UTI . However, a more recent meta-analysis, which defined UTI by positive rapid urine testing (ie, positive urine dipstick or positive urinalysis) **and** a positive urine culture, demonstrated that the risk of UTI in this age group is well below the threshold for evaluation . Thus, a less aggressive approach to evaluating these patients for UTI may be appropriate if there are no other indications such as a known genitourinary anomaly.
+
+【118】 A systematic review of occult bacterial infection in young infants older than 28 days with clinical or RSV-positive bronchiolitis indicates that bacteremia is uncommon, occurring in only 5 out of 1749 patients . In addition, this systematic review identified no cases of meningitis.
+
+【119】Influenza — Ill-appearing febrile infants 29 to 90 days of age with influenza warrant a full sepsis evaluation.
+
+【120】We suggest that well-appearing, low-risk, febrile infants 29 to 90 days of age with influenza diagnosed by highly accurate influenza testing (eg, PCR or influenza viral RNA or nucleic acid detection ) have urine obtained by transurethral bladder catheterization or SPA for urinalysis and urine culture, but we do not initially recommend inflammatory markers, blood culture, or a lumbar puncture ( algorithm 4 ). Additional testing is determined by the patient's age and urine findings.
+
+【121】Rapid diagnostic tests for the detection of viral neuraminidase or viral antigen are commercially available for influenza A and B viruses and can be used for rapid point-of-care testing. However, test performance is variable and less accurate than PCR or other molecular assays . False-positive results occur and are of particular concern if rapid influenza testing is used to limit further laboratory evaluation in young febrile infants. As a result, the authors of this topic only rely on these tests for guiding evaluation and management of febrile young infants during the time of regional high prevalence for influenza infection because high prevalence will raise the positive predictive value. Furthermore, some experts do not feel that rapid tests using viral neuraminidase or viral antigen detection have sufficient accuracy to guide the evaluation of febrile young infants. Clinicians must consider their own laboratory's method of testing in addition to the seasonality and local prevalence of disease when making decisions regarding influenza as the source of fever.
+
+【122】Evidence suggests that the risk of bacteremia and meningitis is lower in infants with positive rapid influenza testing by methods that have less accuracy than PCR or other molecular assays . For example, in a multicenter trial of 844 febrile infants ≤60 days of age who were tested for influenza, a significantly lower rate of SBI was noted in the 123 infants who were influenza positive compared with the 721 infants who were influenza negative  . The three infants with SBI in the influenza-positive group all had a UTI; none had bacteremia or meningitis. By contrast, SBI in influenza-negative patients included 77 with UTIs, 16 with bacteremia, and six with meningitis. In another study of 218 infants younger than three months of age with laboratory-confirmed influenza, SBI occurred in five infants (four with UTIs \[one also with _E. coli_ bacteremia\] and one with _Salmonella enteritidis_ bacteremia) . If PCR is used, the rate of concomitant bacterial infection would likely be even lower than described in these studies.
+
+【123】COVID-19 — All febrile young infants warrant testing for SARS-CoV-2 regardless of their exposure history as part of the initial evaluation. Furthermore, chest radiographs are indicated for patients with a new or increasing oxygen requirement, tachypnea, or difficulty breathing. However, evidence does not support obtaining markers (eg, D-dimer) that might signal worse coronavirus disease 2019 (COVID-19) in well-appearing patients. These patients should also receive further care based upon the degree of illness and risk of IBI.
+
+【124】Evidence is limited for the risk of IBI in febrile young infants with SARS-CoV-2 infection . In one cohort study of 163 febrile infants ≤60 days old  who were diagnosed with COVID-19 by multiplex viral panel testing, none had invasive bacterial illness (IBI) compared with 0.5 percent of 448 infants with other viral infection on testing (none had meningitis) and 1.3 percent of 320 infants with no viral infection on testing (one with meningitis) . For well-appearing febrile infants 29 to 90 days of age with a positive test for SARS-CoV-2, we suggest, at minimum, urinalysis and urine culture. Given the lack of evidence, it is reasonable to also obtain additional studies as described for well-appearing infants 29 to 60 days with no focus for infection on examination per the AAP Clinical Practice Guideline ( algorithm 2 ).
+
+【125】PCR positive for other viral infections — Testing panels for other viral respiratory pathogens such as human rhinovirus, adenovirus, non-SARS-CoV-2 coronavirus, parainfluenza, and/or human metapneumovirus exist but are not always readily available and may be cost prohibitive depending upon the setting. Evidence suggests that IBI is less common in febrile young infants with positive PCR testing for these respiratory viruses but not to the extent that the evaluation should be less extensive after consideration of age, other risk factors, and (if obtained) inflammatory markers . For example, in a retrospective study of almost 3000 febrile young infants 29 to 90 days of age who underwent respiratory PCR panel testing, the risk of IBI was 4 percent for infants who tested negative for respiratory viruses and 1 to 1.4 percent for those who tested positive . Thus, evidence supports stepwise diagnostic testing for bacterial illness in well-appearing febrile infants 29 to 60 days old  and urinalysis and urine culture in those 61 to 90 days old for whom highly accurate rapid viral testing for viruses other than RSV or influenza is positive.
+
+【126】In addition to being detectable by RT-PCR in the CSF, enterovirus RNA can be detected by RT-PCR in respiratory secretions, urine, and serum in many enterovirus syndromes, and submission of specimens from multiple sites may enhance the likelihood of detection and confirms infection.
+
+【127】The utility of blood RT-PCR for enterovirus in deciding management of febrile infants is discussed separately.
+
+【128】Focal infection — Ill-appearing young infants with fever and focal infections require a full sepsis workup .
+
+【129】We suggest that well-appearing febrile infants 29 to 90 days of age with this focal infection undergo the following evaluation:
+
+【130】 Complete blood count with differential
+
+【131】 Procalcitonin
+
+【132】 C-reactive protein
+
+【133】 Blood culture
+
+【134】 Chest radiograph in patients with signs of respiratory illness (eg, cough, tachypnea, or abnormal breath sounds)
+
+【135】 Culture of abscess drainage or, in infants with mastitis, nipple discharge
+
+【136】In addition, patients with pneumonia, osteomyelitis, or bacterial arthritis warrant the following:
+
+【137】 Urinalysis
+
+【138】 Urine culture (by bladder catheterization or SPA)
+
+【139】We suggest a lumbar puncture with collection of CSF studies for patients that have abnormal blood inflammatory markers  or any one of the following results:
+
+【140】 If obtained, findings of bacterial pneumonia on chest radiograph
+
+【141】 WBC count ≤5000/mm 3 or ≥15,000/mm 3
+
+【142】 Absolute neutrophil count >4000/mm 3 or <500/mm 3
+
+【143】Because these patients will undergo empiric treatment with antibiotics, some experts advocate for a lumbar puncture in all febrile infants 29 to 90 days of age with a focal infection to minimize the risk of missing bacterial meningitis, especially patients with focal infections likely to be caused by group B _Streptococcus_ (GBS), such as septic arthritis or osteomyelitis.
+
+【144】Evidence is lacking regarding the risk of bacteremia and meningitis in well-appearing febrile infants with focal infections. In one retrospective study of 197 nontoxic infants younger than two months of age with a focal infection , a concomitant systemic infection was diagnosed in four patients (three with a UTI caused by _E. coli_ and one with bacteremia caused by _S. pneumoniae_ ) . Of the febrile infants with focal infections, 30 had a lumbar puncture and none had meningitis. The most common focal infections included cellulitis, abscess, impetigo, and acute otitis media.
+
+【145】Evidence also suggests that meningitis in infants <2 months old with mastitis is rare, especially if the patient is afebrile.
+
+【146】The evaluation and diagnosis of mastitis, osteomyelitis, and bacterial arthritis are discussed in greater detail separately:
+
+【147】Acute otitis media — While acute otitis media is a distinct focal infection, our approach differs to that recommended above. Acute otitis media occurs infrequently in very young infants. Visualization of the tympanic membrane can be difficult in this age group. Whenever possible, a provider experienced in the evaluation of infants, such as an experienced pediatrician, otolaryngologist, or pediatric otolaryngologist, should confirm the diagnosis. The two most specific findings are:
+
+【148】 Bulging, erythematous tympanic membrane, especially when purulent fluid is seen behind the tympanic membrane 
+
+【149】 Perforation of the tympanic membrane with acute purulent otorrhea (rare in young infants)
+
+【150】By contrast, middle ear effusion, unlike acute otitis media, is common in young infants but does not reflect a focal infection. Physical examination demonstrates a dull tympanic membrane that may have unclear landmarks, abnormal color (blue or gray is common in infants), and, if performed, decreased mobility to pneumatic otoscopy.
+
+【151】Our approach to young infants with confirmed acute otitis media varies according to age:
+
+【152】 **≤60 days** – The extent of evaluation depends upon whether fever is also present:
+
+【153】• **Febrile** – For low-risk, well-appearing, febrile infants with acute otitis media who are 29 to 60 days of age, we suggest a modified initial evaluation tailored to the baseline risk for IBI with further studies, as needed, for patients with abnormal results .
+
+【154】• **Afebrile** – For well-appearing, afebrile infants with acute otitis media who are 29 to 60 days of age, the appropriate evaluation prior to administration of empiric antibiotics is unclear, and clinical practice varies . For these patients, we suggest obtaining a blood culture before beginning empiric oral antibiotics.
+
+【155】Although, the absence of fever in such patients is reassuring, it does not completely exclude a systemic process. The decision to forego any evaluation in afebrile infants younger than 60 days of age prior to administering empiric antibiotics for acute otitis media should be made with caution. It is important to weigh the risk of masking an IBI and the difficult situation that will arise if the infant subsequently becomes febrile or ill appearing.
+
+【156】 **61 to 90 days** – The expert contributors to this topic differ in their evaluation of well-appearing, healthy, febrile infants 61 to 90 days of age with acute otitis media prior to antimicrobial treatment, and evidence is lacking regarding the best management.
+
+【157】Options include:
+
+【158】• **No testing** – This approach may be most appropriate for infants approaching 90 days of age with rectal temperatures <38.6°C .
+
+【159】• **Urinalysis and urine culture** – This approach may be most appropriate for infants closer to 60 days of age with rectal temperatures ≥38.6°C . Some contributors to this topic also support obtaining a blood culture prior to treatment in these patients to avoid missing bacteremia although the prevalence of IBI is likely similar to the contamination rate in many settings.
+
+【160】The contributors do **not** suggest CSF studies in these patients if they are otherwise well appearing.
+
+【161】Limited evidence suggests that the risk of IBI in infants younger than 90 days of age is **not** increased by the presence of acute otitis media . For example, in a multicenter, retrospective study of 1637 afebrile young infants with acute otitis media (most 57 to 90 days of age), none of the 278 patients with blood cultures had bacteremia , and none of the 102 infants with CSF cultures had meningitis  . The diagnosis of acute otitis media was not routinely verified by subspecialist consultation or tympanocentesis. Two of 645 infants with 30-day follow-up had an adverse event requiring hospitalization. Compared with infants 0 to 28 days of age, infants 29 to 90 days of age were much less likely to undergo diagnostic testing or hospitalization. In another retrospective observational study of 130 patients 60 days of age and younger with acute otitis media confirmed by tympanocentesis, the presence of acute otitis media did **not** predict a higher risk for serious bacterial infection (SBI) in either febrile or afebrile patients . None of the afebrile infants with acute otitis media or the febrile infants who were otherwise determined to be at low risk developed an SBI. On the other hand, 14 percent of high-risk infants with acute otitis media also had an SBI.
+
+【162】Nevertheless, the presence of acute otitis media does not exclude the possibility of a UTI, and the true prevalence of bacteremia in these infants is uncertain.
+
+【163】Recently immunized — Evidence is lacking regarding the best approach to well-appearing febrile infants 42 to 90 days of age who have received immunizations within the previous 48 hours. The expert contributors to this topic vary in their practice. The following options are suggested and assume that the caregiver can identify worsening of condition and adhere to close follow-up:
+
+【164】 No testing with close follow-up to ensure that the fever resolves within 48 hours of vaccine administration – This approach is most applicable to infants older than 60 days of age who are seen <24 hours after immunization and who have a rectal temperature <38.6°C .
+
+【165】 Urine testing including a culture obtained via catheter and subsequent empiric oral treatment for patients in whom preliminary studies suggest a UTI as described above – This approach may be preferred in febrile infants older than 60 days of age who are seen greater than 24 to 48 hours after immunizations.
+
+【166】 Urine and blood testing as described for well-appearing infants 42 to 60 days of age with CSF studies obtained if inflammatory markers are abnormal – This approach is favored by some experts for all immunized infants younger than 60 days who have a rectal temperature ≤38.5°C  but no other risk factors for IBI.
+
+【167】 Full evaluation for sepsis – This approach is favored by some experts for all immunized infants younger than 60 days with a rectal temperature >38.5°C or other risk factor for IBI.
+
+【168】The parents' or other caregivers' values and preferences should be sought as well, given the lack of evidence to identify the optimal approach.
+
+【169】Based upon one retrospective observational study of 213 recently immunized febrile infants 6 to 12 weeks of age, the frequency of UTI within 48 hours of immunization is approximately 3 percent  and within 24 hours of immunization is 0.6 percent  . Bacteremia or meningitis was not found (estimated 95% CI 0-1.5 percent). Thus, restricting evaluation initially to consideration of urine testing appears appropriate for well-appearing febrile infants younger than 60 days of age who are seen within 48 hours of receiving immunizations.
+
+【170】UTILITY OF SPECIFIC ANCILLARY STUDIES
+
+【171】Inflammatory markers — Individual and combined measurements of procalcitonin and C-reactive protein have the best testing characteristics to identify young febrile infants at low risk for invasive bacterial infection (IBI) . However, they should not be used in isolation for this purpose. In large cohort studies of febrile infants evaluated in pediatric emergency departments, the highest-performing prediction rules incorporate procalcitonin, C-reactive protein, or both along with urinalysis and absolute neutrophil count to guide decisions regarding testing for meningitis and hospitalization.
+
+【172】Among the commonly used inflammatory markers, procalcitonin has the best ability to identify IBI in well-appearing febrile infants . For example, in two large, multicenter cohort studies, procalcitonin had the best ability to discriminate febrile young infants with IBI based upon receiver-operator area under the curve :
+
+【173】 Procalcitonin – 0.83 to 0.91
+
+【174】 C-reactive protein – 0.72 to 0.75
+
+【175】 Absolute neutrophil count – 0.61 to 0.63
+
+【176】 White blood cell (WBC) count – 0.48 to 0.58
+
+【177】In nearly 2300 febrile young infants undergoing evaluation in pediatric emergency departments in Spain and Italy, a threshold of procalcitonin ≥0.5 ng/mL had a sensitivity of 85 percent, specificity of 85 percent, positive likelihood ratio of 5.6, and negative likelihood ratio of 0.2 for IBI . Among all patients, a procalcitonin <0.5 ng/mL reduced the post-test probability of IBI to 0.5 percent .
+
+【178】C-reactive protein is more accurate than WBC or absolute neutrophil count for detecting IBI but is inferior to procalcitonin. However, in settings where procalcitonin is not available, C-reactive protein can help identify febrile young infants at more than low risk for IBI . In a prospective observational study of nearly 1000 well-appearing, febrile young infants in Canada from a single center, at the threshold of 20 mg/L, C-reactive protein had a sensitivity of 100 percent  and a negative predictive value of 100 percent  .
+
+【179】In some clinical settings, procalcitonin or C-reactive protein has limited availability or a turnaround time that is too long to influence initial evaluation and treatment. Any evaluation of risk in febrile infants that utilizes procalcitonin must take this availability into account.
+
+【180】Although a mainstay in years past, studies continue to show that the WBC count, absolute neutrophil count, absolute band count, band to neutrophil ratio, and platelet count lack diagnostic accuracy for IBI in healthy, well-appearing, febrile infants .
+
+【181】Host RNA biosignatures — Preliminary results suggest that molecular assays using host RNA biosignatures may outperform traditional blood markers of inflammation when used to identify febrile infants with bacterial infections. In a prospective, multicenter study of 279 infants , 66 classifier genes identified the presence of bacterial infection with a sensitivity of 87 percent  and specificity of 89 percent ; 10 classifier genes distinguished the presence of bacteremia in 111 febrile patients  with a sensitivity of 94 percent  and specificity of 95 percent  . The post-test negative probability for the 279 infants was 0.2 to 0.4 percent for bacteremia (prevalence 2.1 percent) and 0 percent for meningitis (prevalence 0.4 percent). Application of a two-gene signature previously used in children to the data set of infants with definitive bacterial diagnoses and proven viral infections from the above study yielded similar results (sensitivity 89 percent, specificity 94 percent, area under the receiver-operator curve 96 percent) .
+
+【182】Although early results are promising, molecular assays based upon host RNA biosignatures need further validation and studies addressing their integration into emergency department care to delineate best practices before they can be clinically implemented.
+
+【183】Urine examination — Due to the lower risk of urinary tract infection (UTI) in febrile infants with normal urine studies, the 2021 American Academy of Pediatrics Clinical Practice Guideline (AAP CPG) recommends sending a urine culture (obtained by bladder catheterization or suprapubic aspiration \[SPA\]) only when the urinalysis is positive (leukocyte esterase present on dipstick, >5 WBCs/high-power field \[centrifuged urine\], or >10 WBCs/mm 3 \[uncentrifuged urine\]) . Given a reported sensitivity of 94 percent  for a normal urinalysis in febrile young infants, sending the urine culture in this situation may risk inappropriately treating asymptomatic bacteriuria or a contaminated specimen.
+
+【184】However, 6 to 10 percent of confirmed UTIs in young infants occur in individuals with a normal urinalysis (approximately 3 percent of UTIs associated with bacteremia) . Not detecting these UTIs prevents recognition of an associated genitourinary abnormality and potential for renal scarring. Thus, it is reasonable for clinicians to send a urine culture obtained by catheterization or SPA (invasive procedures) in all febrile young infants ≤90 days old in settings with documented low rates of specimen contamination and timely specimen processing.
+
+【185】Urine specimens should be obtained by urethral catheterization or, less commonly, SPA. Diagnostic accuracy is improved when urine testing is performed on catheterized urine rather than urine collected using a bag. Urine cultures from bag urine collections are frequently contaminated and should be avoided .
+
+【186】When UTI is defined as >50,000 colony-forming units/mL on urine culture, the urinalysis, consisting of a dipstick for leukocyte esterase and nitrites and microscopy for WBCs, has high diagnostic accuracy for UTIs in young febrile infants. In a secondary analysis of a prospective observational study of over 4000 febrile infants 60 days of age or younger who were evaluated for UTI (prevalence of UTI 7 percent), a positive urinalysis consisting of any positive leukocyte esterase or nitrites on dipstick or >5 WBC/high-power field on microscopy had a sensitivity of 94 percent and a specificity of 91 percent for UTI  . The positive and negative predictive values were 43 and 100 percent, respectively.
+
+【187】The urinalysis was more likely to be positive in febrile young infants with a UTI and bacteremia. When the threshold for a positive urine culture was lowered to >10,000 colony-forming units/mL, the sensitivity decreased to 87 percent , but the specificity was unchanged. Test performance for urinalysis did not differ significantly between neonates and infants 29 to 60 days of age.
+
+【188】When UTI is defined as >10,000 colony-forming units/mL, other studies have reported lower sensitivities for urinalysis ranging from 48 to 81 percent  and somewhat lower negative predictive values  .
+
+【189】Blood culture — Blood culture does **not** help with the immediate assessment of fever but should be obtained depending upon patient characteristics, including age, risk factors for IBI, and physical findings as described above.
+
+【190】Rapid detection of bacterial pathogens is possible with automated blood culture techniques, permitting the identification of positive culture results often within 24 to 36 hours when the volume of the blood sample is >1 mL and when the patient has not been exposed to antibiotics . This is particularly helpful in infants managed as outpatients .
+
+【191】Cerebrospinal fluid studies — We recommend that a lumbar puncture be performed in febrile infants 29 to 90 days old with any one of the following indications:
+
+【192】 Ill appearance
+
+【193】 Diagnostic evaluation identifies an elevated risk for IBI
+
+【194】 Seizures
+
+【195】Cerebrospinal fluid (CSF) should be sent for cell count, glucose, protein, bacterial culture, and Gram stain.
+
+【196】In addition, viral studies (eg, PCR for herpes simplex virus \[HSV\] and for enterovirus and viral culture) should be sent if the clinical picture suggests viral meningitis or CSF pleocytosis is present.
+
+【197】Several observational studies suggest that infants at low risk for meningitis can be identified without performing a lumbar puncture . In a retrospective study performed during the post-conjugate vaccine era, bacterial meningitis was rare  and did not occur in patients who met low-risk criteria determined by past medical history, physical examination, WBC count, band to neutrophil ratio, blood glucose, urinalysis, and (if obtained) chest radiograph . Based upon these reports, some experts feel that lumbar puncture can be omitted in well-appearing infants older than 22 days of age who meet low-risk criteria for bacterial illness, particularly if the infant has a rectal temperature <38.6°C .
+
+【198】Seizures may be a sign of meningitis, and we recommend that a lumbar puncture be performed in all neonates and young infants who have had a seizure. Appropriate CSF studies to identify possible viral etiologies may be useful diagnostically.
+
+【199】Stool examination — Not all studies of febrile young infants included evaluation of the stool for WBCs in patients with diarrhea. One study found the presence of ≥5 WBCs/high-power field to be a predictor of occult _Salmonella_ infection, including bacteremia . However, a Wright stain of the stool for WBCs may not be readily available (eg, within one to two hours). A stool culture is suggested when there is blood and/or mucus in the stool or for the infant with diarrhea when a Wright stain is not available.
+
+【200】Chest radiograph — Not all studies of febrile young infants have included a chest radiograph as part of the initial evaluation . A chest radiograph is helpful in identifying a source of infection in infants with at least one clinical sign of pulmonary disease . This was illustrated in a meta-analysis of 617 febrile infants younger than three months of age . All 361 infants who had no clinical evidence of pulmonary disease (defined as respiratory rate >50 breaths/minute, rales, rhonchi, retractions, wheezing, coryza, grunting, stridor, nasal flaring, or cough) had normal chest radiographs. By contrast, 85 of 256 infants  with at least one of these signs had an abnormal chest radiograph.
+
+【201】Even when the chest radiograph reveals pneumonia, a viral etiology is most likely, given that nonbacterial pneumonias comprise the majority of cases of pneumonia in children . A bacterial process is more likely if alveolar disease (consolidation and air bronchograms), large pleural effusion, or bronchopneumonia (diffuse bilateral pattern with increased peribronchial markings and small, fluffy infiltrates) is present.
+
+【202】Links to society and government-sponsored guidelines from selected countries and regions around the world are provided separately.
+
+【203】INFORMATION FOR PATIENTS 
+
+【204】Here are the patient education articles that are relevant to this topic. We encourage you to print or e-mail these topics to your patients. (You can also locate patient education articles on a variety of subjects by searching on "patient info" and the keyword(s) of interest.)
+
+【205】 Basics topic
+
+【206】 Beyond the Basics topic
+
+【207】 **Fever definition** – A rectal temperature ≥38°C  is the standard for fever in infants ≤90 days old. When procalcitonin measurements are not available, a temperature >38.5°C  is the recommended threshold for performing more comprehensive evaluation for invasive bacterial infection (IBI) in well-appearing febrile infants 22 to 60 days of age.
+
+【208】 **Evaluation** – Evaluation of the febrile young infant focuses on findings that indicate a high risk for IBI (bacteremia and/or meningitis) or herpes simplex virus (HSV) infection.
+
+【209】• **Stabilization** – The clinician must rapidly identify and treat unstable infants .
+
+【210】• **History** – Key history includes risk factors for IBI  and subtle signs of illness (eg, poor feeding, lethargy, and decreased activity).
+
+【211】• **Physical examination** – Physical examination should focus on appearance and signs of:
+
+【212】\- Focal bacterial infection
+
+【213】\- Bronchiolitis
+
+【214】\- HSV infection
+
+【215】Identifying a young infant as well appearing is difficult, especially before the development of a reliable social smile at six weeks of age. Furthermore, well appearance does not exclude the possibility of IBI.
+
+【216】 **Ancillary studies** – Performance of ancillary studies is based upon the risk of IBI:
+
+【217】• **Increased IBI risk** – We recommend a full sepsis evaluation  for the following febrile young infants:
+
+【218】\- All ill-appearing infants
+
+【219】\- Well-appearing infants 29 to 60 days of age with risk factors for IBI 
+
+【220】\- Any infant with findings suggesting HSV infection upon examination (eg, mucocutaneous vesicles, seizures, or focal neurologic findings), especially those with maternal risk factors for vertical transmission
+
+【221】• **Low IBI risk** – Initial testing of low-risk, well-appearing infants varies by age:
+
+【222】\- 29 to 60 days old – For low-risk, well-appearing infants 29 to 60 days old, we suggest a stepwise evaluation for IBI . In patients with a positive urinalysis (UA) and normal inflammatory markers, we do **not** recommend CSF studies . In patients with a positive urinalysis (UA) and elevated inflammatory markers, we suggest **not** obtaining CSF studies.
+
+【223】\- 61 to 90 days old – For low-risk, well-appearing infants 61 to 90 days old, we suggest urine dipstick or microscopic urinalysis and urine culture by bladder catheterization and no additional studies.
+
+【224】• **Bronchiolitis or influenza** – For well-appearing infants with bronchiolitis or, when diagnosed by highly accurate testing such as polymerase chain reaction (PCR), influenza, we suggest limiting testing to urine studies and urine culture in patients at significant risk for urinary tract infection (UTI) ( algorithm 3 and algorithm 4 ).
+
+【225】• **Coronavirus disease 2019 (COVID-19)** – For well-appearing febrile infants 29 to 90 days of age with a positive test for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), we suggest, at minimum, urinalysis and urine culture. For well-appearing infants 29 to 60 days old, it is reasonable to also obtain additional studies as described above for low-risk, well-appearing infants 29 to 60 days of age.
+
+【226】• **PCR positive for other respiratory virus** – For well-appearing febrile infants who are PCR positive for respiratory viruses by combined testing panels, we suggest testing as described above for low-risk, well-appearing febrile infants 29 to 60 days old and urine culture in those 61 to 90 days old.
+
+【227】• **Focal infection with high risk of bacteremia** – Initial evaluation of febrile young infants with focal infection and high risk of bacteremia depends upon appearance and the specific type of infection as discussed above.
+
+【228】• **Acute otitis media** – The approach to well-appearing febrile infants 29 to 90 days old with acute otitis media depends upon age. For afebrile infants 29 to 60 days old, we suggest obtaining a blood culture before administering oral antibiotics.
+
+【229】• **Immunized patients** – Options for testing recently immunized febrile infants 42 to 90 days of age are provided.焦瀚远
+
+====================================================================================================

@@ -1,0 +1,137 @@
+【0】Thin basement membrane nephropathy (benign familial hematuria)
+
+【1】INTRODUCTION 
+
+【2】Thin basement membrane nephropathy (TBMN; also called thin basement membrane disease) is considered a relatively common disorder . In most patients, the only abnormal finding on kidney biopsy is diffuse thinning of the glomerular basement membranes (GBM) requiring electron microscopy for the diagnosis . Historically, these patients were often described as having benign familial hematuria; however, this terminology is no longer favored and should no longer be used. Some patients given a diagnosis of TBMN also exhibit focal segmental glomerulosclerosis (FSGS) .
+
+【3】TBMN is often familial, with a family history of hematuria being noted in 30 to 50 percent of cases. TBMN seems to account for most cases of what has been called benign familial hematuria. Numerous heterozygous variants in the type IV collagen genes _COL4A3_ and _COL4A4_ have been identified in patients with TBMN, but such variants are not present in all families . Some clinicians, including the author of this topic, consider hematuria and thin GBM associated with _COL4A3_ / _COL4A4_ variants to be autosomal dominant Alport syndrome  and use the term "hematuria with thin glomerular basement membranes" for patients in whom variants in collagen IV genes cannot be identified. A _COL4A5_ variant is always diagnostic of X-linked Alport syndrome, regardless of the dimensions of GBM.
+
+【4】TBMN will be discussed in this topic review. Alport syndrome is presented separately.
+
+【5】EPIDEMIOLOGY 
+
+【6】Studies on kidneys used for kidney transplantation suggest that the frequency of thin glomerular basement membranes (GBM) in the general population may be as high as 5 to 9 percent . However, TBMN is clinically diagnosed in less than 1 percent of the population .
+
+【7】PATHOGENESIS 
+
+【8】It had been suspected that the genetic defect in TBMN would be similar to that in hereditary nephritis (Alport syndrome) since patients with the latter group of disorders also have thin glomerular basement membranes (GBM) early in the course of the disease . This hypothesis was confirmed in families in which TBMN was associated with heterozygous variants in _COL4A3_ or _COL4A4_ , the genes that encode the alpha-3 and alpha-4 chains of type IV collagen, respectively .
+
+【9】Patients with TBMN who have heterozygous _COL4A3/COL4A4_ variants are considered "carriers" of autosomal recessive Alport syndrome by some clinicians since variants in both alleles of _COL4A3_ or _COL4A4_ cause autosomal recessive Alport syndrome . Variants in both alleles can be the same (homozygous) or different (compound heterozygous). Approximately 40 to 50 percent of heterozygous carriers of a _COL4A3_ or _COL4A4_ variant in Alport families exhibit microhematuria . However, since a significant percentage of patients with hematuria and heterozygous _COL4A3/COL4A4_ variants will have progressive kidney disease, some have argued that they should not be described as "carriers." The finding by exome sequencing of unsuspected _COL4A3_ and _COL4A4_ variants in patients with chronic kidney disease/end-stage kidney disease highlights the risk of kidney disease progression associated with variants at these loci .
+
+【10】Although both alleles of _COL4A3_ or _COL4A4_ must be involved to produce autosomal recessive Alport syndrome, TBMN is transmitted in a dominant fashion because the abnormal gene product produces a defect in collagen that is sufficiently severe to interfere with the normal architecture of the GBM, resulting in hematuria. In most cases, however, the heterozygous defect does not provoke the secondary processes that result in the proteinuria, impaired glomerular filtration, and kidney fibrosis observed in patients with Alport syndrome. Genetic modifiers may account for at least some of the variability in outcome in patients with heterozygous _COL4A3_ / _COL4A4_ variants .
+
+【11】Linkage with the _COL4A3_ and _COL4A4_ genes has not been found in all families with TBMN . The underlying defect(s) in these other families are not known. Possibilities include de novo mutations , incomplete penetrance, or novel genetic loci.
+
+【12】CLINICAL CHARACTERISTICS 
+
+【13】TBMN is often familial, with pedigrees exhibiting an autosomal dominant pattern . A family history of hematuria is noted in 30 to 50 percent of cases.
+
+【14】Microscopic hematuria — The characteristic manifestation of TBMN is persistent or intermittent asymptomatic microscopic hematuria incidentally discovered on routine urinalysis . It has been proposed that red cells enter Bowman's space in TBMN by moving through localized, transient ruptures in the glomerular capillary wall . This may represent an exaggeration of the normal process of naturally occurring spontaneous ruptures in the glomerular basement membrane (GBM) . Such ruptures may also account for the small number of red cells excreted in normal urine.
+
+【15】As in other glomerular diseases, dysmorphic red cells and, in some patients, red blood cell casts can be seen on examination of the urine sediment in patients with TBMN . Episodes of macroscopic hematuria may occur.
+
+【16】Gross hematuria and flank pain — Patients with TBMN may have episodes of gross (macroscopic) hematuria. These episodes may be preceded by an upper respiratory tract infection, simulating poststreptococcal glomerulonephritis and immunoglobulin A (IgA) nephropathy .
+
+【17】Gross hematuria in TBMN may be associated with flank (loin) pain, simulating the clinical picture of loin pain-hematuria syndrome . These episodes are often associated with hypercalciuria and/or hyperuricosuria, which are risk factors for both stone formation and hematuria.
+
+【18】These relationships were illustrated in a study of 46 individuals with biopsy-proven TBMN or first-degree relatives with persistent microscopic hematuria in which the following findings were noted :
+
+【19】 Eighteen  had hypercalciuria and/or hyperuricosuria, which are important risk factors for nephrolithiasis, and 25 percent of those with proven disease had a history of previous nephrolithiasis. These values were much higher than in patients with IgA nephropathy or normal controls (eg, 3 percent of IgA nephropathy patients had a history of nephrolithiasis).
+
+【20】 The TBMN patients and microhematuric first-degree relatives with hypercalciuria and/or hyperuricosuria had, when compared with those with normal calcium and uric acid excretion, significantly higher rates of episodes of gross hematuria  and episodes of loin pain .
+
+【21】Thus, renal tubular injury and obstruction may be promoted by the simultaneous presence of red cells and microcrystals in the tubular lumen.
+
+【22】Acute kidney injury — A case report described the development of acute kidney injury and gross hematuria developing after over-anticoagulation with warfarin (international normalized ratio \[INR\] 3.6 versus prior values of 1.7 to 1.8) . Kidney biopsy showed, in addition to thin GBM, distension of many renal tubules by intratubular red cells and tubular cell injury consistent with acute tubular necrosis. The patient required hemodialysis for six weeks, and the serum creatinine had returned to close to baseline levels  at six months.
+
+【23】Acute kidney injury associated with gross hematuria with similar pathologic findings and clinical course have been described in patients with IgA nephropathy independent of warfarin therapy.
+
+【24】Other kidney manifestations — Urinary protein excretion and blood pressure are typically normal in patients with TBMN. However, some patients have minimal to moderate proteinuria (usually less than 1.5 g/day, rarely in the nephrotic range) and/or hypertension . Such patients may have unrecognized Alport syndrome, represent a more severe phenotype of TBMN, or have another gene polymorphism influencing their course.
+
+【25】DIAGNOSIS 
+
+【26】The diagnosis of TBMN is usually inferred from the benign presentation and course, the positive family history of hematuria, and the negative family history of kidney failure. Kidney biopsy is generally **not** performed in patients who present with familial isolated glomerular hematuria, no or minimal proteinuria, normal kidney function, and no family history of kidney failure. The prognosis is excellent in such patients unless the clinical manifestations progress, as occurs in all males and some females with Alport syndrome, as well as many patients with IgA nephropathy.
+
+【27】Indications for kidney biopsy — We suggest that kidney biopsy generally be limited to patients with suspected TBMN who also have proteinuria. There are, however, some settings in which kidney biopsy might be considered in patients with hematuria alone:
+
+【28】 Is the patient being considered as a kidney donor?
+
+【29】 Is conception with another individual with isolated hematuria being planned?
+
+【30】 Is there an issue concerning the purchase of life or disability insurance?
+
+【31】Kidney biopsy reveals diffuse thinning of the glomerular basement membrane (GBM) on electron microscopy (GBM width usually between 150 and 225 nm, versus 300 to 400 nm in normal subjects)  ; notably, normal values for GBM width are age and sex dependent . TBMN requires electron microscopy for histologic diagnosis; it cannot be diagnosed by examination of the biopsy specimen by light microscopy alone.
+
+【32】Differential diagnosis — TBMN must be distinguished from other glomerular causes of isolated hematuria such as IgA nephropathy and C3 glomerulopathy. Clear differentiation between TBMN and Alport syndrome is often difficult, especially in pediatric patients and in patients with heterozygous _COL4A3_ / _COL4A4_ variants. TBMN and IgA nephropathy are considered the most common disorders underlying asymptomatic hematuria, together accounting for 50 percent or more of cases . In these studies, an unknown percentage of patients diagnosed with TBMN may have had Alport syndrome since genetic testing was not routinely performed.
+
+【33】The history and clinical presentation are often helpful in distinguishing between these disorders :
+
+【34】 Patients with IgA nephropathy do not typically have a family history of kidney disease.
+
+【35】 Patients with Alport syndrome frequently have a family history of kidney failure, most often affecting males since most kindreds have X-linked inheritance. The next section reviews this distinction in more detail.
+
+【36】Distinction from Alport syndrome — In view of the similarities in early histologic changes and in pathogenesis, TBMN may be difficult to distinguish from Alport syndrome in many cases. The following clinical and histologic parameters may help in establishing the correct diagnosis:
+
+【37】 Screening first-degree relatives for hematuria often suggests the diagnosis of TBMN. In view of its autosomal dominant inheritance, roughly 50 percent of first-degree relatives should have hematuria . Father-to-son transmission may be present, a finding that is not seen in X-linked Alport syndrome but may occur in autosomal dominant Alport syndrome. Next-generation sequencing studies have indicated that autosomal dominant Alport syndrome is significantly more common than previously thought, and, therefore, the presence of father-to-son transmission does not reliably exclude a diagnosis of Alport syndrome .
+
+【38】 Patients with TBMN rarely have hearing loss, ocular abnormalities, or a prominent family history of kidney failure . With X-linked and autosomal recessive Alport syndrome, hearing loss is often observed in childhood, but ocular abnormalities may not be evident until the third decade of life . The absence of hearing loss and ocular abnormalities does not exclude a diagnosis of Alport syndrome.
+
+【39】 Where available, immunohistology of skin biopsy specimens may be a direct way to distinguish between these disorders . Incubation of the biopsy specimen with a monoclonal antibody directed against the alpha-5 chain of type IV collagen (which is the site of the primary abnormality in X-linked Alport syndrome) shows no staining along the epidermal basement membrane in approximately 80 percent of males with X-linked Alport syndrome, discontinuous staining in 60 to 70 percent of females with X-linked Alport syndrome, and normal staining in individuals with TBMN. Since some patients with X-linked Alport syndrome and all patients with autosomal recessive and autosomal dominant Alport syndrome have normal epidermal basement membrane staining for the alpha-5(IV) chain, this test can confirm a suspected diagnosis of X-linked Alport syndrome, but it cannot by itself exclude the diagnosis of any form of Alport syndrome.
+
+【40】 Although kidney biopsy may reveal thin GBM as the only abnormality in children and women with X-linked Alport syndrome or autosomal recessive Alport syndrome , incubation of kidney tissue with antibodies against the alpha-3, -4, and -5 chains of type IV collagen reveals abnormalities of GBM staining in the majority of patients (but shows normal staining in TBMN) . However, normal immunostaining of GBMs for the alpha-3, -4, and -5 chains of type IV collagen does not exclude a diagnosis of Alport syndrome.
+
+【41】 Molecular testing for _COL4A3_ , _COL4A4_ , and _COL4A5_ variants by next-generation sequencing is a valuable addition to the diagnostic menu for familial hematurias . In some centers, next-generation sequencing is replacing kidney biopsy in the evaluation of possible familial hematuria, especially where insurance coverage does not represent a significant barrier.
+
+【42】Immunostaining may not be necessary in all patients with suspected TBMN. Such staining is not required, for example, in the patient with isolated hematuria and thin GBM who has a positive family history of hematuria but a negative history for kidney failure. By comparison, immunostaining should be considered in sporadic cases (ie, patients who have no relatives with hematuria), in patients with thin GBM and a family history of kidney failure, and in patients with thin GBM and elevated urine protein levels. In patients with suspected TBMN, the normal expression of type IV collagen alpha chains in the GBM provides supportive evidence but cannot entirely exclude Alport syndrome. Again, it should be noted that at some centers, genetic evaluation by next-generation sequencing is replacing kidney biopsy with immunostaining for evaluation of possible familial hematuria.
+
+【43】COURSE 
+
+【44】The long-term prognosis is good in most patients with isolated hematuria and thin glomerular basement membranes (GBM) . However, the presence of a heterozygous _COL4A3_ / _COL4A4_ variant in a patient with hematuria and thin GBM should be considered a risk factor for chronic kidney disease, whether a clinician decides to diagnosis the patient with Alport syndrome or TBMN. Slowly progressive kidney function impairment can occur and is often manifested on kidney biopsy by focal segmental glomerulosclerosis (FSGS) .
+
+【45】It has been unclear whether TBMN was responsible for the progressive glomerular injury or was an incidental finding in patients with underlying FSGS. In one study, for example, the incidence of TBMN in all patients with biopsy-proven FSGS was 5 percent, similar to that in the general population . In addition, some patients with thin GBM and progressive kidney dysfunction actually have Alport syndrome .
+
+【46】However, some data suggest that FSGS is frequently caused by _COL4A3_ / _COL4A4_ variants:
+
+【47】 A study of 116 patients from 13 Greek-Cypriot families identified 20 with biopsy-proven FSGS and TBMN . The 20 patients had chronic kidney disease of varying severity, with some developing end-stage kidney disease. However, kidney dysfunction was not confined to those with FSGS; 11 additional patients with a specific variant in the _COL4A3_ or _COL4A4_ genes but without FSGS also developed chronic kidney disease.
+
+【48】 A study of 70 families with a diagnosis of hereditary FSGS found that 7 families had heterozygous _COL4A3_ / _COL4A4_ variants .
+
+【49】 Collagen IV variants were identified in 38 percent of families with "familial FSGS" and in 3 percent of adults with sporadic FSGS .
+
+【50】These findings are not surprising, since it has long been known that FSGS is a frequent histological finding in Alport patients with proteinuria.
+
+【51】These data suggest that either the presence of proteinuria or a positive family history of chronic kidney disease may portend a less benign prognosis for individuals diagnosed with TBMN .
+
+【52】The great majority of people with isolated hematuria, TBMN, and negative family history for kidney failure maintain normal kidney function and normal urine protein excretion on follow-up. However, in our view, follow-up is essential in order to identify those individuals who, for whatever reason, exhibit a progressive disease course.
+
+【53】The frequency of thin GBM in the general population means that it will often be found as an incidental finding in other kidney diseases such as diabetic nephropathy, lupus nephritis, membranous glomerulopathy, minimal change disease, and IgA nephropathy . In diabetic nephropathy, for example, TBMN may be responsible for otherwise unexplained hematuria . It has been suggested that TBMN may occur with slightly increased frequency in patients with IgA nephropathy, particularly among those with a family history of IgA nephropathy . It is unclear whether there is a true relationship between these disorders or whether thin GBM might increase the severity of concurrent IgA nephropathy. Collagen IV gene sequencing may be indicated in some of these patients since dual nephropathies have been described in some patients with Alport syndrome.
+
+【54】TREATMENT 
+
+【55】One study has shown that angiotensin blockade can delay end-stage kidney disease in patients with heterozygous variants in _COL4A3_ , _COL4A4_ , or _COL4A5_ . Based on these findings and upon benefits observed in patients with proteinuria and other forms of chronic kidney disease, we suggest the administration of an angiotensin-converting enzyme (ACE) inhibitor or angiotensin II receptor blocker in adults with TBMN who also have proteinuria (above 500 to 1000 mg/day), particularly if they also have elevated blood pressure and/or an elevation in serum creatinine or reduction in estimated glomerular filtration rate. Both the proteinuria and blood pressure goals should be the same as those in other forms of proteinuric chronic kidney disease.
+
+【56】As noted above, occasional patients have recurrent episodes of gross hematuria and/or flank pain. The administration of an ACE inhibitor may be beneficial in this setting, perhaps by lowering the intraglomerular pressure . In addition, treating hypercalciuria or hyperuricosuria, if present, has reduced hematuria in other patients .
+
+【57】Links to society and government-sponsored guidelines from selected countries and regions around the world are provided separately.
+
+【58】INFORMATION FOR PATIENTS 
+
+【59】Here are the patient education articles that are relevant to this topic. We encourage you to print or e-mail these topics to your patients. (You can also locate patient education articles on a variety of subjects by searching on "patient info" and the keyword(s) of interest.)
+
+【60】 Basics topic
+
+【61】 Beyond the Basics topics
+
+【62】 **Epidemiology** – Thin basement membrane nephropathy (TBMN) is considered a common disorder. Although thin glomerular basement membranes (GBM) can be seen in 5 to 9 percent of biopsy specimens, it is clinically diagnosed in less than 1 percent of the population.
+
+【63】 **Pathogenesis** – Heterozygous variants in _COL4A3_ or _COL4A4_ , the genes that encode for the alpha-3 and alpha-4 chains of type IV collagen, are responsible for this disorder in 40 to 50 percent of affected families. Patients with these heterozygous variants are considered by some to be "carriers" of autosomal recessive Alport syndrome since variants in both alleles of _COL4A3_ or _COL4A4_ cause autosomal recessive Alport syndrome. Others, including the author of this topic, regard these patients as having autosomal dominant Alport syndrome.
+
+【64】 **Clinical features** – A family history of hematuria is noted in 30 to 50 percent of cases, most commonly with autosomal dominant inheritance. The characteristic manifestation of TBMN is persistent or intermittent asymptomatic glomerular hematuria. Most frequently, urinary protein excretion, blood pressure, and kidney function are normal. Some patients have minimal to moderate proteinuria (usually less than 1.5 g/day, rarely in the nephrotic range) and/or hypertension. The invariable finding on kidney biopsy with TBMN is diffuse thinning of the GBM on electron microscopy. GBM thinning is frequently observed in patients with Alport syndrome, so the finding of thin GBM in and of itself is of limited prognostic utility.
+
+【65】 **Diagnosis** – The diagnosis is usually inferred from the benign presentation and course, the positive family history of hematuria, and the negative family history of kidney failure. Kidney biopsy is generally **not** performed in such patients. However, we suggest the performance of a kidney biopsy in adults with suspected TBMN (eg, glomerular hematuria) **plus** proteinuria (defined as greater than 500 to 1000 mg/day). TBMN must be distinguished from the other common glomerular causes of isolated hematuria: immunoglobulin A (IgA) nephropathy and Alport syndrome.
+
+【66】 **Prognosis** – Long-term prognosis is generally good. However, slowly progressive kidney function impairment can occur and is often manifested on kidney biopsy by focal segmental glomerulosclerosis (FSGS). Follow-up is essential to identify those individuals who exhibit a progressive disease course.
+
+【67】 **Treatment** – Among patients with TBMN **plus** proteinuria (greater than 500 to 1000 mg/day), we suggest the administration of an angiotensin-converting enzyme (ACE) inhibitor or angiotensin II receptor blocker . In such patients, we suggest that both the proteinuria and blood pressure goals should be the same as those in other forms of proteinuric chronic kidney disease. These issues are discussed elsewhere.黄艳玲
+
+====================================================================================================

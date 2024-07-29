@@ -1,0 +1,237 @@
+【0】Poststreptococcal glomerulonephritis
+
+【1】INTRODUCTION 
+
+【2】Poststreptococcal glomerulonephritis (PSGN) is caused by prior infection with specific nephritogenic strains of group A beta-hemolytic streptococcus. The clinical presentation of PSGN varies from asymptomatic, microscopic hematuria to the full-blown acute nephritic syndrome, characterized by red to brown urine, proteinuria (which can reach the nephrotic range), edema, hypertension, and acute kidney injury. The prognosis is generally favorable, especially in children, but in some cases, the long-term prognosis is not benign.
+
+【3】The pathogenesis, clinical manifestations, diagnosis, management, course of disease, and prognosis of PSGN will be reviewed here. Evaluation and causes of other glomerular disease in children are discussed separately.
+
+【4】EPIDEMIOLOGY 
+
+【5】Although PSGN continues to be the most common cause of acute nephritis in children globally, it primarily occurs in resource-limited countries. Of the estimated 470,000 new annual cases of PSGN worldwide, 97 percent occur in regions of the world with poor socioeconomic status, with an annual incidence that ranges from 9.5 to 28.5 per 100,000 individuals .
+
+【6】In more developed and industrialized countries, the incidence has continued to decrease from the 1970s to the 1990s . Based upon data from the Italian Registry of Renal Biopsies, the estimated annual incidence was 0.3 per 100,000 individuals between 1992 and 1994 . The reasons may include the easier access to the treatment of streptococcal infections and the widespread presence of fluoride in water, which decreases virulence factors of _Streptococcus pyogenes_ .
+
+【7】The risk of PSGN is increased in older patients (greater than 60 years of age) and in children between 5 and 12 years of age . PSGN is uncommon in children less than three years of age. PSGN is twice as frequent in males as in females .
+
+【8】PSGN can present as a sporadic case or during an epidemic of group A streptococcal (GAS) infection (ie, skin and throat infections) . The incidence of clinically detectable PSGN in children infected during a GAS epidemic is approximately 5 to 10 percent with pharyngitis and 25 percent with skin infections . For sporadic cases, less than 2 percent of children infected with nephritogenic streptococci strains will develop clinical signs of glomerulonephritis . Therefore, host immune response likely plays a major role in the development of disease.
+
+【9】PATHOGENESIS 
+
+【10】Although the exact mechanisms of glomerular injury in PSGN have not yet been elucidated, they appear to be caused primarily by an autoimmune response to nephritogenic streptococcal antigens. This autoimmune response leads to immune complex formation and activation of the alternate complement pathway, which result in glomerular inflammation and injury. The immunologic mechanisms involved in the pathogenesis of glomerulonephritis are discussed in more detail separately.
+
+【11】 **Nephritogenic streptococcal antigens** – There are two leading candidates for the putative streptococcal antigen(s) responsible for PSGN, nephritis-associated plasmin receptor (NAPlr) and streptococcal pyrogenic exotoxin B (SPE B) . NAPlr and SPE B can activate the alternate complement pathway and are capable of inducing chemotactic (monocyte chemoattractant protein 1) and IL-6 moieties in mesangial cells, promoting enhanced expression of adhesion molecules .
+
+【12】• **NAPlr** – NAPlr is a glycolytic enzyme which has glyceraldehyde-3-phosphate dehydrogenase (GAPDH) activity . NAPlr has a plasmin-like activity which may promote a local inflammatory reaction. An elevated urinary plasmin activity has been observed in patients with acute PSGN . The role of NAPlr in the pathogenesis of PSGN is supported by a study of Japanese patients with PSGN. NAPlr was present in renal biopsy samples obtained within the first 14 days of their disease . Antibodies to NAPlr were also present in the sera of 92 percent of patients with PSGN and 60 percent of patients with uncomplicated GAS infections.
+
+【13】• **SPE B** – SPE B is a cationic cysteine proteinase that has been localized to subepithelial deposits . In a study that included patients from Latin America and Switzerland, SPE B was found in 12 of 17 biopsies. SPE B deposition colocalized with complement deposition and within the subepithelial electron dense deposits (humps) that are characteristic of PSGN  . Antibodies to SPE B were also detected in the convalescent sera in all 53 patients who were tested. In contrast, circulating antibodies to NAPlr were found in only 5 of 47 tested sera, and in only one biopsy sample.
+
+【14】Although the findings from this study support the role of SPE B as the more likely nephritogenic antigen, an alternate explanation is that separate antigens are responsible for PSGN in different parts of the world and/or in patients with varying genetic backgrounds .
+
+【15】 **Immune complex disease** – PSGN appears to be caused by glomerular immune complex disease induced by specific nephritogenic strains of group A beta-hemolytic streptococcus (GAS). Nephritogenic streptococci strains 12, 4, and 1 are associated with PSGN triggered by throat infections, whereas PSGN secondary to skin infections is associated with strains 49, 42, 2, 57, and 60 . The resulting glomerular immune complex disease triggers complement activation and inflammation.
+
+【16】The following are proposed mechanisms for the immunologic glomerular injury induced by GAS infection :
+
+【17】• Deposition of circulating immune complexes with streptococcal antigenic components.
+
+【18】• In situ immune complex formation resulting from deposition of streptococcal antigens within the glomerular basement membrane (GBM) and subsequent antibody binding.
+
+【19】• In situ glomerular immune complex formation promoted by antibodies to streptococcal antigens that cross-react with glomerular components (molecular mimicry).
+
+【20】• Autoantibody formation leading to autoimmune reactivity – A number of autoantibodies have been detected in patients with PSGN :
+
+【21】\- Anti-factor B antibodies – In one study of 34 children with acute PSGN and low complement levels, anti-factor B antibodies of the immunoglobulin G (IgG) one subclass were detected in 31 patients . Anti-factor B antibodies enhance the activity of the C3 convertase of the alternative pathway; their presence was inversely correlated with the levels of C3. In this study, the presence of anti-factor B antibodies had a sensitivity of 95 percent and a specificity of 82 percent for the diagnosis of PSGN.
+
+【22】\- Anti-IgG – Anti-IgG reactivity has been reported in patients with acute PSGN. For example, anti-IgG glomerular deposits have been detected in renal biopsy specimens and anti-IgG activity have been found in eluates from the kidney of patient with a fatal case of the disease . It is postulated that modification by streptococcal neuraminidase may modify immunoglobulins, rendering them autoantigenic. This proposed mechanism is supported by the finding of neuraminidase activity and free sialic acid levels in plasma of patients with PSGN .
+
+【23】\- Anti-DNA antibodies, antineutrophil cytoplasmic antibodies (ANCA), and anticardiolipin antibodies may also be found in some patients . The presence of anti-C1q antibodies has been found to be associated with more severe form and delayed resolution of the disease .
+
+【24】\- Rheumatoid factor (RF) - RF is detected in two-thirds of patients with PSGN.
+
+【25】 **Alternate complement pathway activation –** Activation of the alternate complement pathway is a characteristic finding in PSGN. It is likely caused and enhanced by nephritogenic streptococcal antigens and autoantibodies.
+
+【26】PATHOLOGY
+
+【27】Light microscopy — Light microscopy shows a diffuse proliferative and exudative glomerulonephritis with prominent endocapillary proliferation and numerous neutrophils . Trichrome stain may show small subepithelial hump-shaped deposits. The severity of involvement varies and usually correlates with the clinical findings. Patients who are asymptomatic or have mild disease may have biopsies that show little glomerular involvement, whereas patients with diffuse endocapillary proliferative glomerulonephritis are more likely to have full-blown acute nephritic syndrome (ie, red to brown urine, proteinuria, edema, hypertension, and acute renal failure). Crescent formation is uncommon and is associated with a poor prognosis.
+
+【28】Immunofluorescence microscopy — Immunofluorescence (IF) microscopy reveals a characteristic pattern of deposits of C3 and immunoglobulin G (IgG) distributed in a diffuse granular pattern within the mesangium and glomerular capillary walls  .The granular pattern of C3 deposition in the capillary walls (garland-type deposits) gives a "starry sky" pattern . Other immune reactants (eg, immunoglobulin M \[IgM\], immunoglobulin A \[IgA\], fibrin, and other complement components) may also be detected.
+
+【29】Electron microscopy — The most characteristic feature detected by electron microscopy (EM) are the dome-shaped subepithelial electron-dense deposits that are referred to as humps  . These deposits along with subendothelial deposits are immune complexes and correspond to the deposits of IgG and C3 found on IF .
+
+【30】 Subendothelial immune deposits and subsequent complement activation are responsible for the local influx of inflammatory cells, leading to a proliferative glomerulonephritis, an active urine sediment, and a variable decline in glomerular filtration rate (GFR) .
+
+【31】 Subepithelial "humps" are responsible for epithelial cell damage and proteinuria, similar to that seen in membranous nephropathy .
+
+【32】It has been proposed that the clinical course of PSGN is related to the different rates of clearance of immune complexes at these two sites.
+
+【33】CLINICAL MANIFESTATIONS
+
+【34】Clinical presentation — The clinical presentation varies from asymptomatic, microscopic hematuria to the full-blown acute nephritic syndrome, characterized by red to brown urine, proteinuria (which can reach the nephrotic range), edema, hypertension, and an elevation in serum creatinine . However, most children are asymptomatic, as illustrated by a study of 248 children with group A streptococcal (GAS) infection, of whom 20 developed urinary abnormalities and a transient decrease in serum complement activity, but only one of whom was clinically symptomatic . A course of rapidly progressive ("crescentic") glomerulonephritis occurs in less than 0.5 percent of cases .
+
+【35】There is usually an antecedent history of a GAS skin or throat infection . The latent period between GAS infection and PSGN is dependent upon the site of infection: between one and three weeks following GAS pharyngitis and between three and six weeks following GAS skin infection .
+
+【36】The following symptoms are the most common presenting signs in children :
+
+【37】 Edema − Generalized edema is present in approximately two-thirds of patients due to sodium and water retention. In severe cases, fluid overload leads to respiratory distress due to pulmonary edema.
+
+【38】 Gross hematuria − Gross hematuria is present in approximately 30 to 50 percent of patients. The urine looks smoky, and tea or cola colored.
+
+【39】 Hypertension − Hypertension is present in 50 to 90 percent of patients and varies from mild to severe. It is primarily caused by salt and fluid retention. Hypertensive encephalopathy is an uncommon but serious complication. Magnetic resonance imaging (MRI) may show posterior reversible leukoencephalopathy . These patients require emergent intervention.
+
+【40】 Subclinical cases of PSGN are primarily characterized by microscopic hematuria . Such patients were often detected during epidemics.
+
+【41】 Some patients present with hypertensive encephalopathy or acute pulmonary edema with minor urine abnormalities .
+
+【42】Laboratory findings
+
+【43】Renal function — PSGN is associated with a variable decline in glomerular filtration rate (GFR) that is detected by a rise in serum creatinine. Acute kidney injury develops in approximately 20 percent of cases , but uncommonly requires dialysis
+
+【44】Urinalysis and urinary protein excretion — The urinalysis in patients with PSGN reveals hematuria (some of the red cells are typically dysmorphic) with or without red blood cell casts , varying degrees of proteinuria, and often pyuria. Nephrotic range proteinuria (defined as ≥1000 mg/m 2 per day or 40 mg/m 2 per hour) is uncommon and occurs in approximately 5 percent of cases at presentation . The urinalysis should be performed on a freshly voided specimen.
+
+【45】Complement — In approximately 90 percent of patients, C3 and CH50 (total complement activity) are significantly depressed in the first two weeks of the disease course . As C4 is usually within normal values, low C3 is the result of the activation of the alternative pathway due to the presence of factor B autoantibodies . C4 and C2 levels may be low in some patients, which suggests activation of both classical and alternative pathways . The C3 and CH50 return to normal within four to eight weeks after presentation.
+
+【46】Culture — Because PSGN presents weeks after an antecedent GAS infection, only approximately 25 percent of patients will have either a positive throat or skin culture . In patients with impetigo, there is an increased likelihood of obtaining a positive skin culture .
+
+【47】Serology — Elevated titers of antibodies to extracellular streptococcal products are evidence of a recent GAS infection.
+
+【48】The best markers for PSGN are serum antibody levels to NAPlr or SPEB/zSPEB, but these tests are rarely available .
+
+【49】The streptozyme test, which measures five different streptococcal antibodies, is positive in more than 95 percent of patients due to pharyngitis and approximately 80 percent of those with skin infections . It includes the following antibodies:
+
+【50】 Anti-streptolysin (ASO)
+
+【51】 Anti-hyaluronidase (AHase)
+
+【52】 Anti-streptokinase (ASKase)
+
+【53】 Anti-nicotinamide-adenine dinucleotidase (anti-NAD)
+
+【54】 Anti-DNase B antibodies
+
+【55】These antibodies can also be measured individually. After a pharyngeal infection, the ASO, anti-DNase B, anti-NAD, and AHase titers are commonly elevated. In comparison, only the anti-DNase B and AHase titers are typically increased after a skin infection.
+
+【56】If only the ASO titer is used to screen for GAS infection, it may be falsely low or negative in patients with skin infections . It remains a useful test in patients with PSGN due to GAS pharyngitis but in some cases, the rise in ASO titer may be blunted in patients with pharyngitis who have received antimicrobial therapy.
+
+【57】DIAGNOSIS 
+
+【58】PSGN is usually diagnosed based upon clinical findings of acute nephritis and demonstration of a recent group A beta-hemolytic streptococcal (GAS) infection.
+
+【59】 The clinical findings of acute nephritis include hematuria with or without red blood cell casts, variable degrees of proteinuria, edema, oliguria, and hypertension.
+
+【60】 Documentation of a recent GAS infection includes either a positive throat or skin culture or serologic tests (eg, anti-streptolysin \[ASO\] or streptozyme test).
+
+【61】Although a low C3 and/or CH50 (total complement) level are consistent with a diagnosis of PSGN, these complement components may also be decreased in other forms of glomerulonephritis, including membranoproliferative glomerulonephritis.
+
+【62】A delay in the diagnosis of PSGN is more common in children who do not have a history of an antecedent GAS infection and have microscopic hematuria. This was illustrated in a case series of 57 children with PSGN who had a delay in diagnosis of greater than 24 hours . In most of the patients, presenting findings were due to volume overload and included hypertension, edema, and pulmonary edema. The authors concluded that acute nephritis needs to be considered in any child who presents with symptoms secondary to volume overload and that a urinalysis should be obtained as an initial diagnostic test.
+
+【63】Renal biopsy is not performed in most patients to confirm the diagnosis of PSGN, since the resolution of PSGN typically begins within one week of presentation.
+
+【64】DIFFERENTIAL DIAGNOSIS 
+
+【65】The diagnosis of PSGN is generally straightforward in patients once the diagnosis of acute nephritis is made, there is documentation of a recent group A beta-hemolytic streptococcal (GAS) infection, and the nephritis begins to resolve within one or two weeks of presentation. However, if there is progressive disease beyond two weeks, persistent hematuria or hypertension beyond four or six weeks, or there is not adequate documentation of an antecedent GAS infection, the following causes of glomerulonephritis (GN) need to be considered. A renal biopsy may be needed to differentiate PSGN from these other disorders:
+
+【66】 **C3 glomerulopathy** – The presentation of C3 glomerulopathy may be indistinguishable initially from PSGN. It typically presents with hematuria, hypertension, proteinuria, and hypocomplementemia, which may follow an upper respiratory infection in some patients. However, patients with C3 glomerulopathy continue to have persistent urinary abnormalities and hypocomplementemia beyond four to six weeks and possibly a further elevation in serum creatinine. In contrast, patients with PSGN typically have resolution of their disease and a return of normal C3 and CH50 levels.
+
+【67】 **IgA nephropathy** − Patients with IgA nephropathy often present after an upper respiratory infection, similar to the presentation of patients with PSGN. Potential distinguishing features from PSGN include a shorter time between the antecedent illness and hematuria (less than 5 versus more than 10 days in PSGN) and a history of prior episodes of gross hematuria since recurrence is rare in PSGN.
+
+【68】 **Secondary causes of glomerulonephritis** − Lupus nephritis and IgA vasculitis (IgAV; Henoch-Schönlein purpura \[HSP\]) nephritis share similar features to PSGN. However, extrarenal manifestations of the underlying systemic diseases and laboratory testing should differentiate them from PSGN. Measurement of serum complement may also be helpful. Hypocomplementemia is not observed in patients with IgAV (HSP) and the hypocomplementemia that occurs in lupus nephritis is, as mentioned above, associated with reductions in both C3 and C4, whereas C4 levels are usually normal in PSGN.
+
+【69】Both hepatitis B and endocarditis-associated glomerulonephritis share common features with PSGN and also will present with reductions in C3 and C4.
+
+【70】 **Postinfectious GN due to other microbial agents** − Acute nephritis due to viral and other bacterial agents has been reported . The clinical presentation is similar to that of PSGN except that there is no documentation of an antecedent GAS infection.
+
+【71】ACUTE MANAGEMENT
+
+【72】Antibiotic therapy — If the streptococcal infection is still present at the time of diagnosis, penicillin therapy should be given (or in allergic patients, erythromycin ). Although uncertain, early treatment of streptococcal infection has been reported to prevent or reduce the severity of glomerulonephritis .
+
+【73】Preventive antibiotic treatment may be indicated in case of an epidemic situation or for household members of index cases .
+
+【74】Supportive care — There is no specific therapy for PSGN. Management is supportive and is focused on treating the clinical manifestations of the disease, particularly complications due to volume overload. These include hypertension and, less commonly, pulmonary edema. General measures include sodium and water restriction and loop diuretics.
+
+【75】Loop diuretics generally provide a prompt diuresis with reduction of blood pressure and edema. In our practice, intravenous furosemide is given at an initial dose of 1 mg/kg (maximum 40 mg).
+
+【76】Infrequently, patients have hypertensive encephalopathy due to severe hypertension. These patients should be treated emergently to reduce their blood pressure. Oral nifedipine or parenteral nicardipine are effective, while angiotensin-converting enzyme (ACE) inhibitors should be used with caution due to the risk of hyperkalemia.
+
+【77】Patients with PSGN have variable reductions in renal function, and some patients require dialysis during the acute episode. The management of acute kidney injury in children, including indications for dialysis, is discussed separately.
+
+【78】Patients with evidence of recurrent group A streptococcal (GAS) infection should be given a course of antibiotic therapy.
+
+【79】Indications for referral — Indications for referral to a center with expertise in treating children with significant renal disease (eg, provide dialysis and perform renal biopsy) include:
+
+【80】 Fluid overload that is unresponsive or slow to respond to supportive measures (fluid restriction and diuretic therapy)
+
+【81】 Refractory hypertension
+
+【82】 Evidence of serious renal function compromise (elevated and rising serum creatinine)
+
+【83】Dialysis — For patients with serious renal impairment, indications for dialysis include:
+
+【84】 Life-threatening fluid overload (pulmonary edema, heart failure, and hypertension) that is refractory to medical therapy.
+
+【85】 Hyperkalemia (serum or plasma potassium >6.5 mEq/L) unresponsive to medical therapy.
+
+【86】 Uremia defined as a BUN between 89 to 100 mg/dL.
+
+【87】Renal biopsy — In the acute setting, because it is unusual for patients with PSGN to require dialysis, a renal biopsy is performed in patients with significant renal impairment who require or are progressing towards dialysis treatment to confirm the diagnosis of PSGN. A renal biopsy is also indicated in cases of normal levels of C3 at presentation or when C3 remains low after one month.
+
+【88】Patients with more than 30 percent crescents on renal biopsy are often treated with methylprednisolone pulses, although there is no evidence that aggressive immunosuppressive therapy has a beneficial effect in patients with rapidly progressive crescentic disease .
+
+【89】COURSE AND FOLLOW-UP 
+
+【90】Resolution of the clinical manifestations of PSGN is generally quite rapid, assuming concurrent resolution of the infection. A diuresis typically begins within one week, and the serum creatinine returns to the previous baseline by three to four weeks .
+
+【91】Urinary abnormalities disappear at differing rates. Hematuria usually resolves within three to six months. Proteinuria usually disappears earlier than microscopic hematuria.
+
+【92】In severe cases with nephrotic range proteinuria (defined as ≥1000 mg/m 2 per day or 40 mg/m 2 per hour), this degree of proteinuria may persist for six months or more, long after the hematuria has disappeared .
+
+【93】Indications for renal biopsy — A biopsy is usually performed in patients in whom other glomerular disorders are being considered because their disease courses deviate from that of PSGN or they present late without a clear history of prior streptococcal infection.
+
+【94】 Persistently low C3 levels beyond six weeks are suggestive of a diagnosis of C3 glomerulopathy as C3 levels typically normalize in patients with PSGN by this timeframe.
+
+【95】 Recurrent episodes of hematuria are suggestive of IgA nephropathy and are rare in PSGN.
+
+【96】A persistent or progressive increase in serum creatinine is uncharacteristic of PSGN, but there are occasional patients whose renal function does not fully recover.
+
+【97】Correlation with histologic recovery — The histologic course parallels the improvements seen clinically. There is a marked reduction in the number of inflammatory cells in the glomeruli and the number of immune deposits seen on electron microscopy as the clinical manifestations resolve .
+
+【98】The prolonged resolution of proteinuria compared with the more rapid return of renal function and remission of hematuria probably reflects the slower rate of clearance of subepithelial compared with subendothelial immune complexes.
+
+【99】 Subendothelial immune complexes are rapidly cleared by the inflammatory cells from the systemic circulation, thereby accounting for the resolution of hematuria and renal insufficiency . They may not be seen on renal biopsy unless performed early in the course.
+
+【100】 Subepithelial deposits are separated from circulating inflammatory cells by the glomerular basement membrane, thereby limiting their rate of removal . In general, the degree of proteinuria correlates with the number of subepithelial deposits .
+
+【101】Recurrence — Recurrent episodes of PSGN are rare . This may be due to the long-term persistence of antibodies to nephritis-associated streptococcal antigens .
+
+【102】PROGNOSIS 
+
+【103】Most patients, particularly children, have an excellent outcome . This is true even in patients who present with acute renal failure and may have crescents on the initial renal biopsy . A review of three case series of 229 children with PSGN found that approximately 20 percent had an abnormal urinalysis (proteinuria and/or hematuria), but almost all  had normal or only modestly reduced renal function 5 to 18 years after presentation .
+
+【104】However, the long-term prognosis of PSGN is not always benign . Some patients, particularly adults, develop hypertension, recurrent proteinuria (with a relatively normal urine sediment), and renal insufficiency as long as 10 to 40 years after the initial illness . A study from Australia involved 200 Aboriginal children who had had at least one episode of PSGN, with 27 having had multiple episodes. In this cohort, all PSGN episodes were associated with group A streptococcal (GAS) skin infections, often related to scabies. Five years or later, these patients were three to four times more likely to have significant albuminuria compared with people without a previous history of PSGN .
+
+【105】These late renal complications are associated with glomerulosclerosis on renal biopsy, which is thought to be hemodynamically mediated. According to this hypothesis, some glomeruli are irreversibly damaged during the acute episode and compensatory hyperfiltration in the remaining glomeruli maintains a relatively normal glomerular filtration rate (GFR). However, this adaptive response results in increases in glomerular pressure and size, both of which may then contribute to nonimmunologic glomerular injury and progressive renal dysfunction. It is possible that, in those patients who develop glomerulosclerosis, renal damage can be prevented or ameliorated by antihypertensive therapy (preferentially with an angiotensin-converting enzyme \[ACE\] inhibitor).
+
+【106】 **Epidemiology** – Poststreptococcal glomerular nephritis (PSGN) is the most common cause of acute nephritis worldwide. It primarily occurs in resource-limited countries. The risk of PSGN is greatest in children between 5 and 12 years of age, and in older adults greater than 60 years of age.
+
+【107】 **Pathogenesis** – PSGN is caused by glomerular immune complex disease induced by specific nephritogenic strains of group A beta-hemolytic streptococcus (GAS). The two leading candidates for nephritogenic antigens are nephritis-associated plasmin receptor and streptococcal pyrogenic exotoxin B.
+
+【108】 **Microscopic findings** – The characteristic pathologic features of PSGN are demonstrated by electron microscopy (dome-shaped subepithelial deposits) and immunofluorescence (deposition of immunoglobulin G \[IgG\] and C3 in a diffuse granular pattern in the mesangium and glomerular capillary walls) . The light microscopic findings of cellular infiltration and glomerular proliferation are nonspecific .
+
+【109】 **Clinical presentation** – The most common clinical findings include edema, gross hematuria, and hypertension. However, the presentation of PSGN varies from asymptomatic, microscopic hematuria to the full-blown acute nephritic syndrome (gross hematuria, proteinuria, edema, hypertension, and acute kidney injury).
+
+【110】 **Laboratory findings** – Laboratory findings include an abnormal urinalysis (dysmorphic red blood cells, varying degrees of proteinuria, red blood cell casts, and pyuria), positive serology for antibodies to streptococcal antigens, and hypocomplementemia.
+
+【111】 **Diagnosis** – PSGN is typically diagnosed based upon the findings of acute nephritis (eg, hematuria with or without red blood cell casts and proteinuria) and demonstration of a recent GAS infection (eg, positive throat or skin culture or serologic tests \[anti-streptolysin \[ASO\] or streptozyme test\]).
+
+【112】 **Differential diagnosis** – Although several glomerulonephritides (eg, C3 glomerulonephritis and immunoglobulin A \[IgA\] nephropathy) may have similar presentations to PSGN, specific clinical differences usually can differentiate among them. In cases where the diagnosis is uncertain, a renal biopsy may be needed to identify the specific renal disease.
+
+【113】 **Management** – There is no specific therapy to treat PSGN. Management is supportive and is focused upon treating the volume overload that causes the clinical complications of PSGN. These general measures include sodium and water restriction, and diuretic therapy.
+
+【114】• **Antibiotic therapy** – Antibiotic therapy is given to those who have still have a streptococcal infection at the time of diagnosis.
+
+【115】• **Dialysis** – In patients with acute renal failure, dialysis may be required. The indications for dialysis are discussed separately.
+
+【116】• **Management of hypertension** – In patients with hypertension, we suggest administration of furosemide to provide a prompt diuresis and a reduction of blood pressure . Infrequently, patients may have hypertensive encephalopathy due to severe hypertension and require emergent therapy to reduce their blood pressure.
+
+【117】 **Clinical course and prognosis** – Most patients, particularly children, have complete clinical recovery, and resolution of their disease process begins within the first two weeks. However, there is a small subset of patients who have late renal complications (ie, hypertension, increasing proteinuria, and renal insufficiency).王磊
+
+====================================================================================================

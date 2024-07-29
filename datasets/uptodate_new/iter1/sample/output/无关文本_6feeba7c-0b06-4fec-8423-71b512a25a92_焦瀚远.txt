@@ -1,0 +1,85 @@
+【0】Dextrose and lactated Ringer: Drug information
+
+【1】Contributor Disclosures
+
+【2】For abbreviations, symbols, and age group definitions show table
+
+【3】Pharmacologic Category
+
+【4】*   Electrolyte Supplement, Parenteral
+
+【5】Adverse Reactions
+
+【6】The following adverse drug reactions are derived from product labeling unless otherwise specified. Also see individual agents.
+
+【7】Frequency not defined:
+
+【8】Dermatologic: Rash at injection site
+
+【9】Endocrine & metabolic: Hypervolemia
+
+【10】Local: Burning sensation at injection site, inflammation at injection site, injection site infection, injection site phlebitis, pain at injection site, swelling at injection site, venous thrombosis at injection site
+
+【11】Miscellaneous: Febrile reaction
+
+【12】Dosage Forms: US
+
+【13】Excipient information presented when available (limited, particularly for generics); consult specific product labeling.
+
+【14】Solution, Intravenous:
+
+【15】Generic: Dextrose 5% in Lactated Ringer's ; Potassium chloride 20 MEQ/L  in D5W Lactated Ringer's 
+
+【16】Solution, Intravenous \[preservative free\]:
+
+【17】Generic: Potassium chloride 20 MEQ/L  in D5W Lactated Ringer's 
+
+【18】Generic Equivalent Available: US
+
+【19】Pricing: US
+
+【20】**Solution** (Dextrose in Lactated Ringers Intravenous)
+
+【21】5% (per mL): $0.01
+
+【22】**Disclaimer:** A representative AWP (Average Wholesale Price) price or price range is provided as reference price only. A range is provided when more than one manufacturer's AWP price is available and uses the low and high price reported by the manufacturers to determine the range. The pricing data should be used for benchmarking purposes only, and as such should not be used alone to set or adjudicate any prices for reimbursement or purchasing functions or considered to be an exact price for a single product and/or manufacturer. Medi-Span expressly disclaims all warranties of any kind or nature, whether express or implied, and assumes no liability with respect to accuracy of price or price range data published in its solutions. In no event shall Medi-Span be liable for special, indirect, incidental, or consequential damages arising from use of price or price range data. Pricing data is updated monthly.
+
+【23】Dosage Forms: Canada
+
+【24】Excipient information presented when available (limited, particularly for generics); consult specific product labeling.
+
+【25】Solution, Intravenous:
+
+【26】Generic: Dextrose 5% in Lactated Ringer's 
+
+【27】Use: Labeled Indications
+
+【28】Source of calories, electrolytes, and water for hydration
+
+【29】Medication Safety Issues
+
+【30】Other safety concerns:
+
+【31】Inappropriate use of low sodium or sodium-free intravenous fluids (eg D5W, hypotonic saline) in pediatric patients can lead to significant morbidity and mortality due to hyponatremia (ISMP 2009)
+
+【32】Brand Names: International
+
+【33】International Brand Names by Country
+
+【34】For country code abbreviations ( show table )  
+
+*   (BD) Bangladesh : Dextrolac | Glucohart ;
+*   (FR) France : Ringer lactate et glucose viaflo ;
+*   (JP) Japan : Solulact d ;
+*   (KR) Korea, Republic of : Daihan hartmann's dex | Hartman d | Hartmandex | Hartmandex jw | Hartmann glucose | Hartmann's dex | Inno.n hartmann d ;
+*   (PH) Philippines : Endure Medical Dextrose in Lactated Ringer's ;
+*   (PK) Pakistan : Batalasolate rl & d | Gee sol rld | Macsolate d | Revasol hd | Ringolact d | Visolact d ;
+*   (TR) Turkey : Dekstroz laktatli ringer | Neofleks %5 Dekstroz Laktatli Ringer ;
+*   (TW) Taiwan : Dextrose Lactated Ringer's焦瀚远
+
+====================================================================================================
+文本干净度#无关文本#【32】Brand Names: International
+
+【33】International Brand Names by Country
+
+【34】For country code abbreviations ( show table )#32到34所有内容都为无关文本

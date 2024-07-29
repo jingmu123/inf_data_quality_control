@@ -1,0 +1,436 @@
+【0】Levodopa and benserazide (United States: Not available): Drug information
+
+【1】Contributor Disclosures
+
+【2】For abbreviations, symbols, and age group definitions show table
+
+【3】Brand Names: Canada
+
+【4】*   Prolopa 100-25;
+*   Prolopa 200-50;
+*   Prolopa 50-12.5
+
+【5】Pharmacologic Category
+
+【6】*   Anti-Parkinson Agent, Dopamine Agonist
+
+【7】Dosing: Adult
+
+【8】Parkinson disease
+
+【9】**Parkinson disease: Adults ≥25 years of age:**
+
+【10】**Note:** Dosage should be introduced gradually, individualized, and continued for 3 to 6 weeks before assessing benefit. Available formulations include benserazide 25 mg/levodopa 100 mg, benserazide 50 mg/levodopa 200 mg, and benserazide 12.5 mg/levodopa 50 mg. Benserazide 50 mg/levodopa 200 mg formulations should be used only when maintenance therapy is reached. Benserazide 12.5 mg/levodopa 50 mg formulations should be used to minimize adverse effects when adjusting dose.
+
+【11】**Oral:**
+
+【12】Initiation: Benserazide 25 mg/levodopa 100 mg once or twice daily; increase dose by benserazide 25 mg/levodopa 100 mg every 3 to 4 days or slower (eg, weekly) if problems with tolerance until adequate therapeutic effect without dyskinesias; reduce frequency of dosage adjustments to every 2 to 4 weeks as upper limits of dosing range is approached.
+
+【13】Usual maintenance dosage: Benserazide 100 mg/levodopa 400 mg to benserazide 200 mg/levodopa 800 mg daily given in 4 to 6 divided doses; after maintenance dose of benserazide/levodopa is established, slowly decrease dose of levodopa by 50 mg per month over a few months until a maintenance dose without dyskinesias is achieved.
+
+【14】Maximum: Total daily dose of levodopa during the first year of therapy should not exceed 1,000 mg to 1,200 mg/day. Following first year, the maximum recommended daily dose of levodopa is 600 mg/day.
+
+【15】Restless legs syndrome, intermittent
+
+【16】**Restless legs syndrome, intermittent (alternative agent) (off-label use):**
+
+【17】**Note** : Due to risk of augmentation (worsening symptoms during dopaminergic therapy), limit frequency to 2 to 3 administrations per week. May also be taken as needed prior to specific restless legs syndrome triggers, such as prolonged immobility .
+
+【18】**Oral:** Initial: Benserazide 25 mg/levodopa 100 mg as needed before bedtime; may increase to benserazide 50 mg/levodopa 200 mg based on response and tolerability. Maximum: levodopa 200 mg/day .
+
+【19】**Discontinuation of therapy** : Discontinuation of therapy may result in neuroleptic malignant-like syndrome . Avoid sudden discontinuation or rapid dose reduction; some experts recommend a gradual taper over several weeks or more .
+
+【20】**Dosage adjustment for concomitant therapy:** Significant drug interactions exist, requiring dose/frequency adjustment or avoidance. Consult drug interactions database for more information.
+
+【21】Dosing: Kidney Impairment: Adult
+
+【22】There are no dosage adjustments provided in manufacturer's labeling. Use in decompensated renal disease is contraindicated.
+
+【23】Dosing: Hepatic Impairment: Adult
+
+【24】There are no dosage adjustments provided in manufacturer's labeling. Use in decompensated hepatic disease is contraindicated.
+
+【25】Dosing: Adjustment for Toxicity: Adult
+
+【26】**Patients experiencing dystonia:** There are no specific dosage recommendations provided in the manufacturer’s labeling however a levodopa dose reduction is recommended; may also consider adjusting the dosing frequency. **Note:** Dystonias may appear earlier in benserazide/levodopa therapy than with levodopa alone.
+
+【27】Dosing: Older Adult
+
+【28】Refer to adult dosing.
+
+【29】Adverse Reactions
+
+【30】The following adverse drug reactions and incidences are derived from product labeling unless otherwise specified. Adverse reactions reported in adults. Also see levodopa monograph.
+
+【31】\>10%: Nervous system: Involuntary body movements (≥30%; including athetosis, choreiform movements, dystonia), psychiatric disturbance 
+
+【32】Postmarketing:
+
+【33】Cardiovascular: Angina pectoris, cardiac arrhythmias, ECG changes (nonspecific), edema, flushing, hypertension, orthostatic hypotension, phlebitis
+
+【34】Dermatologic: Alopecia, dark sweat, diaphoresis, pallor, pruritus, skin rash
+
+【35】Endocrine & metabolic: Change in libido (including increased libido with serious antisocial behavior), increased lactate dehydrogenase, increased protein-bound iodine, increased uric acid, weight changes
+
+【36】Gastrointestinal: Abdominal distress, abdominal pain, ageusia, anorexia, bitter taste, bruxism, constipation, diarrhea, discoloration of saliva, duodenal ulcer, dysphagia, epigastric discomfort, epigastric pain, eructation, flatulence, gastrointestinal hemorrhage, hiccups, nausea, oral mucosa changes (discoloration and staining), sialorrhea, staining of tooth, tongue discoloration, vomiting, xerostomia
+
+【37】Genitourinary: Hematuria, nocturia, urinary frequency, urinary incontinence, urinary retention, urine discoloration (including dark urine)
+
+【38】Hematologic & oncologic: Agranulocytosis, hemolytic anemia, leukopenia, positive direct Coombs' test, thrombocytopenia
+
+【39】Hepatic: Increased gamma-glutamyl transferase, increased serum alanine aminotransferase, increased serum alkaline phosphatase, increased serum aspartate aminotransferase, increased serum bilirubin
+
+【40】Nervous system: Abnormal gait, agitation, akinesia (end of dose and akinesia paradoxica), anxiety, asthenia, ataxia, confusion, daytime sedation, delusion, disorientation, dizziness, dopamine dysregulation syndrome, drowsiness, euphoria, fatigue, glosspyrosis, hallucination, headache, Horner syndrome (activation of latent), insomnia, lethargy, malaise, nightmares, numbness, on-off phenomenon, sedated state, seizure, sensation of tightness (mouth, lips, tongue), sense of stimulation, sleep driving, sudden onset of sleep, trismus
+
+【41】Neuromuscular & skeletal: Dyskinesia, lower back pain, lupus-like syndrome (Massarotti 1979), muscle spasm, muscle twitching, musculoskeletal pain, torticollis, tremor of hands (increased)
+
+【42】Ophthalmic: Blepharospasm, blurred vision, diplopia, mydriasis, oculogyric crisis
+
+【43】Renal: Increased blood urea nitrogen
+
+【44】Respiratory: Cough, hoarseness, irregular breathing, post nasal drip
+
+【45】Miscellaneous: Fever
+
+【46】Contraindications
+
+【47】Hypersensitivity to benserazide, levodopa, or any component of the formulation; use with or within 14 days of MAO inhibitors; when administration of a sympathomimetic amine (eg, epinephrine, norepinephrine, isoproterenol) is contraindicated; clinical or laboratory evidence of decompensated cardiovascular, endocrine, renal, hepatic, hematologic, or pulmonary disease; psychiatric diseases with a psychotic component; angle-closure glaucoma; patients <25 years of age; pregnancy or use in women of childbearing potential without adequate contraception
+
+【48】Significant drug interactions exist, requiring dose/frequency adjustment or avoidance. Consult drug interactions database for more information.
+
+【49】Warnings/Precautions
+
+【50】**_Concerns related to adverse effects:_**
+
+【51】• CNS effects: **\[Canadian Boxed Warning\]: Patients have reported falling asleep while engaging in activities of daily living including the driving of a car; in some cases, these events have occurred without significant warning signs.** Monitor for daytime somnolence or preexisting sleep disorder; discontinue if significant daytime sleepiness or episodes of falling asleep occur. Patients must be cautioned about performing tasks which require mental alertness (eg, operating machinery or driving). Use with caution in patients receiving other CNS depressants or psychoactive agents. Effects with other sedative drugs or ethanol may be potentiated.
+
+【52】• Hypersensitivity: Hypersensitivity reactions may occur in susceptible patients.
+
+【53】• Impulse control disorders: Dopamine agonists used for Parkinson disease or restless legs syndrome have been associated with compulsive behaviors and/or loss of impulse control, which has manifested as pathological gambling, libido increases (hypersexuality), and/or binge eating. Causality has not been established, and controversy exists as to whether this phenomenon is related to the underlying disease, prior behaviors/substance use disorders and/or drug therapy. Dose reduction or discontinuation of therapy has been reported to reverse these behaviors in some, but not all cases.
+
+【54】• Increased growth hormone levels: May increase human growth hormone levels.
+
+【55】**_Disease-related concerns:_**
+
+【56】• Cardiovascular disease: Use with caution in patients with cardiovascular disease (MI, atrial, nodal, or ventricular arrhythmias); initiate in a monitored setting. Use is contraindicated in decompensated cardiovascular disease.
+
+【57】• Diabetes: Use with caution in patients with diabetes mellitus; monitor blood glucose frequently. Antidiabetic agents may require dose adjustment.
+
+【58】• Glaucoma: Use with caution in patients with chronic wide-angle glaucoma; monitor IOP carefully. Use is contraindicated in patients with angle-closure glaucoma.
+
+【59】• Hepatic impairment: Use with caution in patients with hepatic impairment. Use is contraindicated in decompensated hepatic disease.
+
+【60】• Peptic ulcer disease: Use with caution in patients with peptic ulcer disease.
+
+【61】• Psychotic disorders: Use with extreme caution in patients with a history of psychotic disorders; observe patients closely for development of depression with concomitant suicidal tendencies. May also cause hallucinations and confusion.
+
+【62】• Renal impairment: Use with caution in patients with renal impairment. Use is contraindicated in decompensated renal disease.
+
+【63】• Seizure disorder: Use with caution in patients with a history of seizure disorder.
+
+【64】**_Special populations:_**
+
+【65】• Older adult: Use with caution in the elderly; may be more sensitive to CNS effects of levodopa.
+
+【66】• Perioperative patients: Continue therapy as close to surgical procedures as possible in patients requiring general anesthesia (excluding halothane-risk of blood pressure fluctuations and/or arrhythmias; discontinue benserazide/levodopa 12 to 48 hours before procedure); resume therapy postoperatively with a gradual increase in dose up to that established preoperatively.
+
+【67】• Young adults: Use is contraindicated in patients <25 years of age. Animal data suggests the possibility of skeletal abnormalities if benserazide is administered before ossification is complete.
+
+【68】**_Other warnings/precautions:_**
+
+【69】• Abuse: May induce dopaminergic dysregulation syndrome resulting in excessive use of benserazide/levodopa beyond prescribed doses, particularly in males with early onset Parkinson disease (Giovannoni 2000); may lead to cognitive and behavioral disturbances. Monitor for excessive use if cognitive/behavioral disturbances develop.
+
+【70】• Appropriate use: Not indicated in management of intention tremor, Huntington's chorea, or drug-induced extrapyramidal symptoms. Administer in careful increments and observe closely for development of abnormal involuntary movements.
+
+【71】• Discontinuation of therapy: Avoid abrupt withdrawal of therapy; dopaminergic agents have been associated with a syndrome resembling neuroleptic malignant syndrome (NMS) on abrupt withdrawal or significant dosage reduction after long-term use. Withdraw therapy gradually and monitor closely; symptomatic patients should be treated appropriately and if necessary resumption of benserazide/levodopa therapy may be considered.
+
+【72】Product Availability
+
+【73】Not available in the United States.
+
+【74】Generic Equivalent Available: US
+
+【75】Dosage Forms: Canada
+
+【76】Excipient information presented when available (limited, particularly for generics); consult specific product labeling.
+
+【77】Capsule, Oral:
+
+【78】Prolopa 100-25: levodopa 100 mg and benserazide 25 mg
+
+【79】Prolopa 200-50: levodopa 200 mg and benserazide 50 mg
+
+【80】Prolopa 50-12.5: levodopa 50 mg and benserazide 12.5 mg
+
+【81】Administration: Adult
+
+【82】**Oral:** Administer with or immediately after a non-protein or low-protein snack (eg, fruit, applesauce, biscuits) to control GI side effects. Capsules should be swallowed whole; do not crush, chew, open, or dissolve in liquid.
+
+【83】Use: Labeled Indications
+
+【84】**Note:** Not approved in the United States.
+
+【85】**Parkinson disease:** Treatment of Parkinson disease (except drug-induced Parkinsonism)
+
+【86】Use: Off-Label: Adult
+
+【87】Parkinsonism (including corticobasal degeneration, dementia with Lewy bodies, drug-induced parkinsonism, multiple system atrophy, and progressive supranuclear palsy); Restless legs syndrome, intermittent
+
+【88】Medication Safety Issues
+
+【89】High alert medication:
+
+【90】The Institute for Safe Medication Practices (ISMP) includes this medication among its list of drug classes (anti-Parkinson agent; contraindicated in pregnancy) which have a heightened risk of causing significant patient harm when used in error (High-Alert Medications in Long-Term Care Settings).
+
+【91】Safety concerns:
+
+【92】**ALERT: Canadian Boxed Warning:** Health Canada-approved labeling includes a boxed warning. See Warnings/Precautions section for a concise summary of this information. For verbatim wording of the boxed warning, consult the product labeling.
+
+【93】Metabolism/Transport Effects
+
+【94】None known.
+
+【95】Drug Interactions  
+
+【96】**Note** : Interacting drugs may **not be individually listed below** if they are part of a group interaction (eg, individual drugs within “CYP3A4 Inducers \[Strong\]” are NOT listed). For a complete list of drug interactions by individual drug name and detailed management recommendations, use the drug interactions program by clicking on the “Launch drug interactions program” link above.
+
+【97】Alfuzosin: May enhance the hypotensive effect of Blood Pressure Lowering Agents. _Risk C: Monitor therapy_
+
+【98】Alizapride: May diminish the therapeutic effect of Anti-Parkinson Agents (Dopamine Agonist). _Risk X: Avoid combination_
+
+【99】Amifostine: Blood Pressure Lowering Agents may enhance the hypotensive effect of Amifostine. Management: When used at chemotherapy doses, hold blood pressure lowering medications for 24 hours before amifostine administration. If blood pressure lowering therapy cannot be held, do not administer amifostine. Use caution with radiotherapy doses of amifostine. _Risk D: Consider therapy modification_
+
+【100】Amisulpride (Injection): May diminish the therapeutic effect of Anti-Parkinson Agents (Dopamine Agonist). _Risk X: Avoid combination_
+
+【101】Amisulpride (Oral): Anti-Parkinson Agents (Dopamine Agonist) may diminish the therapeutic effect of Amisulpride (Oral). Amisulpride (Oral) may diminish the therapeutic effect of Anti-Parkinson Agents (Dopamine Agonist). _Risk X: Avoid combination_
+
+【102】Antipsychotic Agents (First Generation \[Typical\]): Anti-Parkinson Agents (Dopamine Agonist) may diminish the therapeutic effect of Antipsychotic Agents (First Generation \[Typical\]). Antipsychotic Agents (First Generation \[Typical\]) may diminish the therapeutic effect of Anti-Parkinson Agents (Dopamine Agonist). Management: Avoid concomitant therapy if possible. If antipsychotic use is necessary, consider using atypical antipsychotics such as clozapine, quetiapine, or ziprasidone at lower initial doses, or a non-dopamine antagonist (eg, pimavanserin). _Risk D: Consider therapy modification_
+
+【103】Antipsychotic Agents (Second Generation \[Atypical\]): May diminish the therapeutic effect of Anti-Parkinson Agents (Dopamine Agonist). Management: Consider avoiding atypical antipsychotic use in patients with Parkinson disease. If an atypical antipsychotic is necessary, consider using clozapine, quetiapine, or ziprasidone at lower initial doses, or a non-dopamine antagonist (eg, pimavanserin). _Risk D: Consider therapy modification_
+
+【104】Arginine: May enhance the hypotensive effect of Blood Pressure Lowering Agents. _Risk C: Monitor therapy_
+
+【105】Barbiturates: May enhance the hypotensive effect of Blood Pressure Lowering Agents. _Risk C: Monitor therapy_
+
+【106】Biperiden: May enhance the adverse/toxic effect of Levodopa-Foslevodopa. Specifically, the risk of choreic movements or dyskinesias may be increased. _Risk C: Monitor therapy_
+
+【107】Blood Pressure Lowering Agents: May enhance the hypotensive effect of Hypotension-Associated Agents. _Risk C: Monitor therapy_
+
+【108】Blood Pressure Lowering Agents: May enhance the hypotensive effect of Levodopa-Foslevodopa. _Risk C: Monitor therapy_
+
+【109】Brimonidine (Topical): May enhance the hypotensive effect of Blood Pressure Lowering Agents. _Risk C: Monitor therapy_
+
+【110】Brivudine: May enhance the adverse/toxic effect of Anti-Parkinson Agents (Dopamine Agonist). Specifically, the risk of chorea may be increased. _Risk C: Monitor therapy_
+
+【111】Bromopride: May diminish the therapeutic effect of Anti-Parkinson Agents (Dopamine Agonist). _Risk C: Monitor therapy_
+
+【112】Bromperidol: May diminish the hypotensive effect of Blood Pressure Lowering Agents. Blood Pressure Lowering Agents may enhance the hypotensive effect of Bromperidol. _Risk X: Avoid combination_
+
+【113】BuPROPion: Anti-Parkinson Agents (Dopamine Agonist) may enhance the adverse/toxic effect of BuPROPion. _Risk C: Monitor therapy_
+
+【114】Diazoxide: May enhance the hypotensive effect of Blood Pressure Lowering Agents. _Risk C: Monitor therapy_
+
+【115】DULoxetine: Blood Pressure Lowering Agents may enhance the hypotensive effect of DULoxetine. _Risk C: Monitor therapy_
+
+【116】Fosphenytoin-Phenytoin: May diminish the therapeutic effect of Levodopa-Foslevodopa. _Risk C: Monitor therapy_
+
+【117】Glycopyrrolate (Systemic): May decrease the serum concentration of Levodopa-Foslevodopa. _Risk C: Monitor therapy_
+
+【118】Herbal Products with Blood Pressure Lowering Effects: May enhance the hypotensive effect of Blood Pressure Lowering Agents. _Risk C: Monitor therapy_
+
+【119】Hypotension-Associated Agents: Blood Pressure Lowering Agents may enhance the hypotensive effect of Hypotension-Associated Agents. _Risk C: Monitor therapy_
+
+【120】Iron Preparations: May decrease the serum concentration of Levodopa. Only applies to oral iron preparations. Management: Consider separating doses of the agents by 2 or more hours to minimize the effects of this interaction. Monitor for decreased therapeutic effects of levodopa during concomitant therapy, particularly if doses cannot be separated. _Risk D: Consider therapy modification_
+
+【121】Isoniazid: May diminish the therapeutic effect of Levodopa-Foslevodopa. _Risk C: Monitor therapy_
+
+【122】Kava Kava: May enhance the adverse/toxic effect of Anti-Parkinson Agents (Dopamine Agonist). Kava Kava may diminish the therapeutic effect of Anti-Parkinson Agents (Dopamine Agonist). _Risk C: Monitor therapy_
+
+【123】Levodopa-Foslevodopa: Blood Pressure Lowering Agents may enhance the hypotensive effect of Levodopa-Foslevodopa. _Risk C: Monitor therapy_
+
+【124】Lormetazepam: May enhance the hypotensive effect of Blood Pressure Lowering Agents. _Risk C: Monitor therapy_
+
+【125】Macimorelin: Levodopa-Foslevodopa may diminish the diagnostic effect of Macimorelin. _Risk X: Avoid combination_
+
+【126】Methotrimeprazine: May diminish the therapeutic effect of Anti-Parkinson Agents (Dopamine Agonist). Anti-Parkinson Agents (Dopamine Agonist) may diminish the therapeutic effect of Methotrimeprazine. _Risk X: Avoid combination_
+
+【127】Metoclopramide: May diminish the therapeutic effect of Anti-Parkinson Agents (Dopamine Agonist). _Risk X: Avoid combination_
+
+【128】Molsidomine: May enhance the hypotensive effect of Blood Pressure Lowering Agents. _Risk C: Monitor therapy_
+
+【129】Monoamine Oxidase Inhibitors: Levodopa-Foslevodopa may enhance the adverse/toxic effect of Monoamine Oxidase Inhibitors. Of particular concern is the development of hypertensive reactions when levodopa is used with nonselective MAOI. _Risk X: Avoid combination_
+
+【130】Monoamine Oxidase Inhibitors (Type B): Levodopa-Foslevodopa may enhance the orthostatic hypotensive effect of Monoamine Oxidase Inhibitors (Type B). _Risk C: Monitor therapy_
+
+【131】Multivitamins/Fluoride (with ADE): May diminish the therapeutic effect of Levodopa-Foslevodopa. Management: Concurrent use of a multivitamin and levodopa (without carbidopa) should be avoided. _Risk D: Consider therapy modification_
+
+【132】Multivitamins/Minerals (with ADEK, Folate, Iron): May diminish the therapeutic effect of Levodopa. Multivitamins/Minerals (with ADEK, Folate, Iron) may decrease the serum concentration of Levodopa. Only applies to oral iron-containing preparations. Management: Separate doses of these agents by 2 or more hours. Monitor for decreased levodopa effects, particularly if doses cannot be separated. Concurrent use of a multivitamin and levodopa (without carbidopa) should be avoided. _Risk D: Consider therapy modification_
+
+【133】Multivitamins/Minerals (with AE, No Iron): May diminish the therapeutic effect of Levodopa-Foslevodopa. Management: Concurrent use of a multivitamin and levodopa (without carbidopa) should be avoided. _Risk D: Consider therapy modification_
+
+【134】Naftopidil: May enhance the hypotensive effect of Blood Pressure Lowering Agents. _Risk C: Monitor therapy_
+
+【135】Nicergoline: May enhance the hypotensive effect of Blood Pressure Lowering Agents. _Risk C: Monitor therapy_
+
+【136】Nicorandil: May enhance the hypotensive effect of Blood Pressure Lowering Agents. _Risk C: Monitor therapy_
+
+【137】Nitroprusside: Blood Pressure Lowering Agents may enhance the hypotensive effect of Nitroprusside. _Risk C: Monitor therapy_
+
+【138】Obinutuzumab: May enhance the hypotensive effect of Blood Pressure Lowering Agents. Management: Consider temporarily withholding blood pressure lowering medications beginning 12 hours prior to obinutuzumab infusion and continuing until 1 hour after the end of the infusion. _Risk D: Consider therapy modification_
+
+【139】Papaverine: May enhance the hypotensive effect of Levodopa-Foslevodopa. Papaverine may diminish the therapeutic effect of Levodopa-Foslevodopa. _Risk C: Monitor therapy_
+
+【140】Pentoxifylline: May enhance the hypotensive effect of Blood Pressure Lowering Agents. _Risk C: Monitor therapy_
+
+【141】Pholcodine: Blood Pressure Lowering Agents may enhance the hypotensive effect of Pholcodine. _Risk C: Monitor therapy_
+
+【142】Phosphodiesterase 5 Inhibitors: May enhance the hypotensive effect of Blood Pressure Lowering Agents. _Risk C: Monitor therapy_
+
+【143】Prostacyclin Analogues: May enhance the hypotensive effect of Blood Pressure Lowering Agents. _Risk C: Monitor therapy_
+
+【144】Pyridoxine: May diminish the therapeutic effect of Levodopa-Foslevodopa. Management: The concomitant use of pyridoxine and levodopa (in the absence of a dopa decarboxylase inhibitor (DDI)) should be avoided. Use of a DDI (eg, carbidopa) with levodopa will essentially eliminate the risk of this interaction. _Risk D: Consider therapy modification_
+
+【145】Quinagolide: May enhance the hypotensive effect of Blood Pressure Lowering Agents. _Risk C: Monitor therapy_
+
+【146】Reserpine: Levodopa-Foslevodopa may enhance the hypotensive effect of Reserpine. Reserpine may diminish the therapeutic effect of Levodopa-Foslevodopa. Management: Consider alternatives to the coadministration of levodopa and reserpine. If combined, monitor for reduced levodopa efficacy and hypotension. _Risk D: Consider therapy modification_
+
+【147】Sapropterin: May enhance the adverse/toxic effect of Levodopa-Foslevodopa. _Risk C: Monitor therapy_
+
+【148】Silodosin: May enhance the hypotensive effect of Blood Pressure Lowering Agents. _Risk C: Monitor therapy_
+
+【149】Solriamfetol: May enhance the adverse/toxic effect of Anti-Parkinson Agents (Dopamine Agonist). _Risk C: Monitor therapy_
+
+【150】Sulpiride: May diminish the therapeutic effect of Anti-Parkinson Agents (Dopamine Agonist). _Risk X: Avoid combination_
+
+【151】Vesicular Monoamine Transporter 2 (VMAT2) Inhibitors: May diminish the therapeutic effect of Levodopa-Foslevodopa. Management: Consider alternatives to the coadministration of levodopa and vesicular monoamine transporter 2 (VMAT2) inhibitors. If combined, monitor for reduced levodopa efficacy. _Risk D: Consider therapy modification_
+
+【152】Food Interactions
+
+【153】High protein diets have the potential to impair levodopa absorption; levodopa competes with certain amino acids for transport across the gut wall or across the blood-brain barrier. Management: Avoid high protein diets.
+
+【154】Food reduces the extent of levodopa absorption by 15% and peak plasma concentrations by 30%. Management: Administer with or immediately after meals.
+
+【155】Reproductive Considerations
+
+【156】Use is contraindicated in women of childbearing potential not using proper contraception.
+
+【157】Pregnancy Considerations
+
+【158】Use is contraindicated during pregnancy.
+
+【159】Levodopa crosses the placenta and can be metabolized by the fetus and detected in fetal tissue (Merchant 1995). The incidence of Parkinson disease in pregnancy is relatively rare and information related to the use of benserazide/levodopa in pregnant women is limited . The manufacturer recommends that women who become pregnant during therapy gradually taper off therapy; avoid abrupt withdrawal.
+
+【160】Breastfeeding Considerations
+
+【161】Levodopa is present in breast milk (based on a study using carbidopa/levodopa) (Thulin 1998); excretion of benserazide is not known. Breastfeeding is not recommended by the manufacturer.
+
+【162】Dietary Considerations
+
+【163】High-protein diets may decrease effect of levodopa.
+
+【164】Monitoring Parameters
+
+【165】Regular assessment of cardiovascular, hepatic, hematopoietic, and renal function with initiation and during dose stabilization then periodically with extended therapy; blood glucose frequently in patients with diabetes; symptoms of psychosis and dystonia
+
+【166】Mechanism of Action
+
+【167】Symptoms of Parkinson disease are due to a lack of striatal dopamine. Levodopa crosses into the blood-brain barrier (BBB) and is converted to dopamine by striatal enzymes. Benserazide inhibits the peripheral plasma breakdown of levodopa by inhibiting its decarboxylation and therefore increases levodopa availability at the BBB.
+
+【168】Pharmacokinetics (Adult Data Unless Noted)
+
+【169】Absorption: Benserazide: 66% to 74%
+
+【170】Distribution:
+
+【171】Benserazide: Does not cross the blood-brain barrier; mainly concentrated in kidneys, liver, lungs, and small intestine
+
+【172】Levodopa: 57 L; crosses the blood-brain barrier and not bound to plasma proteins
+
+【173】Metabolism:
+
+【174】Benserazide: Hydroxylated in the intestine and liver to trihydroxybenzylhydrazine, a potent inhibitor of decarboxylase
+
+【175】Levodopa: Major pathways: Decarboxylation to dopamine and O-methylation to 3-O-methyldopa; Minor pathways; Transamination and oxidation
+
+【176】Bioavailability: Levodopa: 98% (range: 74% to 112%)
+
+【177】Half-life elimination: Levodopa: 1.5 hours; 3-O-methyldopa (major metabolite): 15 hours
+
+【178】Time to peak, serum: Levodopa: ~1 hour
+
+【179】Excretion: Benserazide: Urine ; feces ; Levodopa: Urine (as metabolites)
+
+【180】Brand Names: International
+
+【181】International Brand Names by Country
+
+【182】For country code abbreviations ( show table )  
+
+*   (AE) United Arab Emirates : Madopar ;
+*   (AR) Argentina : Madopar | Madopar hbs ;
+*   (AT) Austria : Madopar | Madopar cr | Restex ;
+*   (AU) Australia : Madopar ;
+*   (BD) Bangladesh : Benkinson ;
+*   (BE) Belgium : Prolopa ;
+*   (BG) Bulgaria : Madopar | Madopar hbs | Menkart ;
+*   (BR) Brazil : Ekson | Lebens | Levodopa + cloridrato de benserazida | Levrasida | Prolopa | Prolopa hbs ;
+*   (CH) Switzerland : Levodopa/benserazid devatis | Madopar | Madopar dr | Madopar hbs | Madopar LIQ 62.5 ;
+*   (CL) Chile : Levibense | Madozide | Melitase | Prolopa ;
+*   (CN) China : L-dopa+benserazide | Levodopa and benserazide hydrochloride | Madopar ;
+*   (CO) Colombia : Madopar ;
+*   (CZ) Czech Republic : Levodopa benserazide Teva | Madopar | Madopar hbs ;
+*   (DE) Germany : Dopadura B | Levobens Teva | Levodopa Benserazid beta | Levodopa benserazide | Levodopa Benserazide CT | Levodopa comp b | Levodopa plus benserazid AL | Levodopa/benserazid neuraxpharm | Levodopa/Benserazide Devatis | Levopar | Madopar | Madopar Depot | Madopar LT | Pk Levo | Prolopa | Restex ;
+*   (DK) Denmark : Madopar ;
+*   (DO) Dominican Republic : Prolopa ;
+*   (EC) Ecuador : Madopar | Prolopa ;
+*   (EE) Estonia : Aktipar | Madopar | Madopar hbs ;
+*   (ES) Spain : Madopar ;
+*   (FI) Finland : Aktipar | Levodopa/benserazide orifarm | Madopar ;
+*   (FR) France : Levodopa benserazide Teva | Modopar | Modopar lp ;
+*   (GB) United Kingdom : Co-Beneldopa | Madopar ;
+*   (GR) Greece : Levodopa+benserazide/teva | Madopar | Madopar hbs ;
+*   (HK) Hong Kong : Madopar ;
+*   (HR) Croatia : Madopar ;
+*   (HU) Hungary : Madopar ;
+*   (ID) Indonesia : Leparson | Levazide | Levoben | Levopar | Madopar | Madopar dispersible | Pardoz ;
+*   (IE) Ireland : Madopar ;
+*   (IL) Israel : Levopar plus ;
+*   (IN) India : Madopar ;
+*   (IT) Italy : Madopar ;
+*   (JP) Japan : Ec doparl | Madopar | Neodopasol ;
+*   (KR) Korea, Republic of : Madopar | Madopar hbs | Myungdopar | R.b.p ;
+*   (LB) Lebanon : Madopar ;
+*   (LT) Lithuania : Madopar | Madopar hbs ;
+*   (LU) Luxembourg : Prolopa ;
+*   (LV) Latvia : Madopar | Madopar hbs ;
+*   (MA) Morocco : Madopar | Modopar ;
+*   (MX) Mexico : Madopar ;
+*   (MY) Malaysia : Madopar ;
+*   (NL) Netherlands : Levodopa/Benserazide PCH | Madopar | Modopar ;
+*   (NO) Norway : Madopar ;
+*   (NZ) New Zealand : Levodopa/benserazide | Madopar ;
+*   (PE) Peru : Hardal | Levosta | Madopar | Madopar hbs | Madozide ;
+*   (PH) Philippines : Madopar | Madopar hbs ;
+*   (PK) Pakistan : Madopar ;
+*   (PL) Poland : Madopar ;
+*   (PT) Portugal : Madopar | Madopar hbs ;
+*   (PY) Paraguay : Madopar | Madopar hbs | Madozide | Melitase | Prolopa | Prolopa hbs | Seler ;
+*   (QA) Qatar : Madopar ;
+*   (RO) Romania : Levodopa/benserazide teva ;
+*   (RU) Russian Federation : Benziel | Levodopa benserazide | Levodopa/benserazide teva | Madopar | Madopar gss | Madopar hbs ;
+*   (SA) Saudi Arabia : Madopar ;
+*   (SE) Sweden : Levodopa/Benserazid Ebb | Levodopa/benserazid ratiopharm | Levodopa/benserazide 2care4 | Levodopa/benserazide orifarm | Madopar | Madopar Depot | Madopar Quick | Madopar Quick mite | Madopark | Madopark depot | Madopark quick ;
+*   (SG) Singapore : Madopar ;
+*   (SI) Slovenia : Madopar ;
+*   (SK) Slovakia : Madopar | Madopar hbs ;
+*   (TH) Thailand : Levopar | Madopar | Vopar ;
+*   (TN) Tunisia : Modopar ;
+*   (TR) Turkey : Domirpa | Madopar ;
+*   (TW) Taiwan : Bendopa | Bendopar | Madopar ;
+*   (UA) Ukraine : Madopar ;
+*   (UY) Uruguay : Levodopa C | Prolopa | Prolopa hbs | Seler | Tonotil ;
+*   (VE) Venezuela, Bolivarian Republic of : Madopar ;
+*   (VN) Viet Nam : Levobenserazid vmg ;
+*   (ZA) South Africa : Madopar黄艳玲
+
+====================================================================================================

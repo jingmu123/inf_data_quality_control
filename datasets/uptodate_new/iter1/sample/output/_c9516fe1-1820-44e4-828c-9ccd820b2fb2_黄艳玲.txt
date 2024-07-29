@@ -1,0 +1,165 @@
+【0】Etiology and diagnosis of tinnitus
+
+【1】INTRODUCTION 
+
+【2】Tinnitus is a perception of sound in proximity to the head in the absence of an external source. It can be perceived as being within one or both ears, within or around the head, or as an outside distinct noise. The sound is often a buzzing, ringing, or hissing, although it can also sound like other noises.
+
+【3】Tinnitus can be continuous or intermittent. Although both may have a significant impact on the patient, the latter is not usually related to a serious underlying medical problem. The sound may be pulsatile or non-pulsatile. Pulsatile tinnitus raises more concern for underlying significant pathology, though non-pulsatile tinnitus may also be associated with underlying disease.
+
+【4】The epidemiology, pathogenesis, and diagnosis of tinnitus will be reviewed here. The treatment of tinnitus is discussed separately.
+
+【5】EPIDEMIOLOGY 
+
+【6】According to the American Tinnitus Association, an estimated 50 million people in the United States have chronic tinnitus defined as persisting for greater than six months . This translates into approximately 20 percent of adults. For 12 million, it is severe enough to interfere with daily activities and significantly impacts their quality of life. These people are effectively disabled by their tinnitus to varying degrees. Tinnitus can occur in children  (although it is less common than in adults), increases in prevalence with age , and is more common among individuals who smoke .
+
+【7】CLINICAL IMPACT 
+
+【8】The impact of tinnitus varies from one individual to the next. About 25 percent of persons with tinnitus report an increase in severity over time . Chronic tinnitus is unlikely to remit completely but often becomes less bothersome over time .
+
+【9】The impact of tinnitus can be consistently measured by two outcome instruments: the Tinnitus Handicap Inventory ( form 1 )  and the Tinnitus Reaction Questionnaire . Studies indicate that the degree of disability, and the impact of tinnitus on quality of life, does not directly correlate with loudness, type of tinnitus, or length of time with tinnitus . However, concurrent mood disorders can be associated with an increased perception of disability . Increased tinnitus disability also has been demonstrated in patients with insomnia .
+
+【10】PATHOGENESIS 
+
+【11】Tinnitus can be classified as objective or subjective. In objective tinnitus, the sound can be heard by an observer, usually with a stethoscope placed at various positions on and around the temporal bone. The sound, which is typically unilateral, is often generated in vascular structures but may also be produced by musculoskeletal structures.
+
+【12】Subjective tinnitus can be unilateral or bilateral and can be triggered anywhere along the auditory pathway  . Its origin is believed to be from neural networks in the auditory cortex that react to a change in the auditory input.
+
+【13】It is believed that the central nervous system is the source or "generator" of all tinnitus that does not have a somatic origin, even in patients whose associated hearing losses are due to cochlear injury . Current pathogenic theories include loss of cochlear input to the central auditory system , loss of suppressive neural connections like that seen in phantom pain , and abnormalities in serotonin levels in the auditory cortex causing aberrant neural firing . These three theories encompass disruption of normal neural firing patterns along the entire auditory pathway, from the end organ to the auditory cortex. They may explain tinnitus in patients who do not exhibit hearing loss, as well as in patients who recover from temporary hearing loss (eg, noise-induced hearing loss) but develop tinnitus that is persistent .
+
+【14】The majority of patients have tinnitus that is a central reaction to hearing loss or change at the cochlea or cochlear nerve level. The neural networks that typically have a low level of stimulation now react abnormally and begin to be overactive, creating the perceived sounds. The theory of loss of cochlear input is supported by positron-emission tomography (PET) scanning and functional magnetic resonance imaging (MRI) studies indicating that the loss of cochlear input to neurons in the central auditory pathways (such as occurs with cochlear hair cell damage due to ototoxicity, noise trauma, or a lesion of the cochlear nerve) can result in abnormal neural activity in the auditory cortex. Such activity has been linked to the perception of tinnitus . The side of the tinnitus may not always correspond with the side of initial auditory system insult.
+
+【15】A second theory likens tinnitus to phantom pain perception that is thought to arise from a loss of suppression of neural activity . Known neural feedback loops act to help tune and reinforce auditory memory in the central auditory cortex. Disruption of auditory input or the feedback loop may lead to the creation of alternative neural synapses and to loss of inhibition of normal synapses. This mechanism explains why some patients with profound deafness and those who have lost the cochlear nerve or inner ear still can perceive tinnitus.
+
+【16】In support of a third theory, many patients with tinnitus exhibit signs of anxiety and/or depression , and elevated serum serotonin levels have been found in some tinnitus patients . Serotonin and gamma-aminobutyric acid (GABA) receptors are found throughout the auditory system, and neurotransmitter abnormalities may play a role in some patients with tinnitus .
+
+【17】ETIOLOGY
+
+【18】Vascular disorders — Pulsatile tinnitus is most commonly, though not exclusively, vascular in etiology. Some vascular tinnitus, such as venous hums and tinnitus due to atherosclerotic plaque narrowing of vessels, can be nonpulsatile. Vascular tinnitus can be unilateral or bilateral; when bilateral, it is typically louder on the side of the pathology.
+
+【19】In a retrospective review of 84 patients with pulsatile tinnitus seen in a neurology department, 42 percent were found to have a significant vascular disorder (most commonly a dural arteriovenous fistula \[AVF\] or a carotid-cavernous sinus fistula) . In 12 patients , nonvascular disorders such as paraganglioma or intracranial hypertension (due to a variety of causes) explained the tinnitus.
+
+【20】Arterial bruits — Arterial vessels near the temporal bone may transmit sounds associated with turbulent blood flow, especially if the loudness of the sound exceeds the hearing threshold in that ear. The petrous carotid system is the most common source, although other arteries may also be involved . An arterial bruit is not itself a serious condition, although the patient may require an evaluation for underlying atherosclerotic disease.
+
+【21】These patients usually do not have other otologic complaints (eg, hearing loss, vertigo, aural fullness). As with many other causes of tinnitus, their tinnitus is greatest in quiet environments (eg, at night).
+
+【22】Arteriovenous shunts — Congenital arteriovenous malformations (AVMs) are rarely associated with hearing loss or tinnitus. AVFs are more likely to be symptomatic, usually ipsilateral to the fistula. Dural AVFs are often associated with dural venous sinus thrombosis, which may occur spontaneously or be associated with infection, tumor, trauma, or surgery. Large dural AVFs can result in intracranial hemorrhage; early detection and treatment (surgery and/or vascular embolization) can be life-saving for high-grade lesions.
+
+【23】Paraganglioma — Head and neck paragangliomas are highly vascular, typically benign neoplasms arising from cells of the paraganglia that are found around the carotid bifurcation, within the jugular bulb, or along the tympanic arteries in the middle ear. Tympanic paragangliomas, previously known as glomus tympanicum tumors, and jugular bulb paragangliomas, commonly known as glomus jugulare, both commonly cause a loud pulsing tinnitus that may interfere with hearing. The tinnitus is typically unilateral, and the lesion may be visible through the tympanic membrane as a reddish or blue mass or may be palpable in the neck. As the tumor enlarges, it may cause hearing loss because of impingement on the ossicular chain (conductive loss) or the labyrinth or cochlea (sensorineural loss). Other cranial nerves may also be affected (eg, facial nerve or lower cranial nerve palsies). Paragangliomas of the head and neck are discussed separately.
+
+【24】Venous hums — These may be heard in patients with systemic hypertension, increased intracranial pressure (often due to pseudotumor cerebri), or in patients with a dehiscent or dominant jugular bulb (abnormally high placement of the jugular bulb). The latter may also cause a conductive hearing loss. Tinnitus in patients with a venous hum is often described as a soft, low-pitched hum that may decrease or stop with pressure over the jugular vein, a change in head position, or activity . When tinnitus is due to asymmetry in the venous system, the tinnitus can be unilateral, or bilateral but louder on one side.
+
+【25】Neurologic disorders — Pulsatile tinnitus of muscular origin can result from spasm of one or both of the muscles within the middle ear (the tensor tympani and the stapedius muscle). These muscles are innervated by cranial nerves V and VII respectively. Such muscle spasms can occur spontaneously, because of local otologic disease, and also in the presence of neurologic disease such as multiple sclerosis. Patients may also complain of hearing loss or aural fullness associated with these muscle spasms. Tympanometry and otoscopy can be particularly useful in diagnosing middle ear spasmodic activity.
+
+【26】Clicking noises or irregular or rapid pulsations may also result from myoclonus of the palatal muscles that attach to the Eustachian tube orifice. Myoclonus of the palatal muscles most often is caused by an underlying neurologic abnormality, such as multiple sclerosis, microvascular disease affecting the brainstem, or neuropathy related to metabolic or toxic etiology; the history and physical examination should include a search for other neurologic disease.
+
+【27】Tinnitus due to myoclonus can be either unilateral or bilateral; when unilateral, symptoms are ipsilateral to the site of the muscle spasm.
+
+【28】Eustachian tube dysfunction — A patulous (consistently open) Eustachian tube can cause unilateral or bilateral tinnitus, with sounds similar to an ocean roar that may be synchronous with respiration . It most commonly occurs after significant weight loss or after external beam radiation to or near the nasopharynx. The symptoms may disappear when the patient lies down. Patients can also complain of an unusual awareness of their own voice (autophony) and of ear discomfort. The cause of these symptoms is a Eustachian tube that remains abnormally patent, allowing too much and then too little aeration of the middle ear space with respiration.
+
+【29】Other somatic disorders — Somatic nonpulsatile tinnitus is commonly caused by temporomandibular joint (TMJ) dysfunction  and has also been associated with whiplash injuries  and other cervical-spinal disorders . Tinnitus may improve when patients respond favorably to treatment for symptoms of TMJ dysfunction and craniocervical disease. The exact neurophysiologic mechanism for the generation of tinnitus from either the TMJ or the cervical spine is not known but may involve disinhibition of the dorsal cochlear nucleus . In cases of somatic tinnitus, unilateral or bilateral symptoms may occur.
+
+【30】Tinnitus with a machine-like grinding or pulsing character is sometimes associated with intracranial lesions, such as chondrosarcoma, aberrant carotid artery, and endolymphatic sac tumors.
+
+【31】Tinnitus originating from the auditory system — Most tinnitus is due to a sensorineural hearing loss with resulting dysfunction within the auditory system. The auditory system includes the cochlear end organ, the cochlear nerve (with its projections to and from the cochlea), the brainstem (site of the cochlear nuclei), and the primary and secondary auditory cortical projections .
+
+【32】Etiologies of tinnitus generated from within the auditory system are as varied as the types of noises that patients report . The presence of tinnitus is often an early indicator of cochlear hair cell dysfunction or loss, as in the case of prolonged noise exposure , Meniere disease (also characterized by aural fullness and vertigo), or ototoxicity.
+
+【33】Ototoxic medications — Tinnitus is commonly caused by ototoxic medications ; the ototoxicity typically affects both sides, causing bilateral symptoms. Ototoxicity affects the various components of the cochleovestibular end organ. When such structures are damaged, a change in neural firing between the end organ and the remainder of the auditory system can be exhibited by hearing loss, distortions in hearing, or tinnitus.
+
+【34】Presbycusis — Presbycusis (sensorineural hearing loss with aging) or any acquired high-frequency hearing loss is commonly associated with tinnitus (often described as a high-pitched ringing sound, crickets, or bells in the ear) along with the hearing loss. Cochlear hearing losses can be asymmetric, and even when symmetric they can result in unilateral or bilateral tinnitus.
+
+【35】Otosclerosis — This is a condition of abnormal bone repair of the stapes footplate bone (third bone in the ossicular chain) and of the otic capsule. Tinnitus can result when otosclerosis damages cochlear structures. Progressive otosclerosis can result in fixation of the stapes footplate and worsening conductive hearing loss that can be unilateral or bilateral.
+
+【36】Vestibular schwannoma — Tumors compressing or stretching the cochlear nerve can cause tinnitus. In addition, unilateral tinnitus can be the presenting sign of a schwannoma of the vestibular nerve within the cerebellar-pontine angle or the internal auditory canal (acoustic neuroma).
+
+【37】Chiari malformations — Tinnitus, unilateral or bilateral, is one of the auditory signs associated with a symptomatic Chiari malformation and occurs when low-lying cerebellar tonsils causes tension on the auditory nerve . Tinnitus from Chiari malformations can be both unilateral or bilateral.
+
+【38】Other etiologies — Hearing loss due to a variety of causes, including vascular ischemic events, infection, nerve compression, genetic predisposition, congenital hearing loss, or endocrine or metabolic damage to the auditory system, can produce tinnitus to a variable degree.
+
+【39】Tinnitus may occur with barotrauma to the middle or inner ear (often associated with vertigo and hearing loss) and with fluid in the middle ear (eg, with otitis media).
+
+【40】DIAGNOSIS 
+
+【41】Tinnitus is frequently associated with hearing loss or other cochlear injury, and it may be the presenting complaint in a patient with a central nervous system lesion. History and physical examination are the first steps in establishing the etiology of tinnitus. Some patients may also warrant audiology examination, particularly those with unilateral tinnitus; although unilateral symptoms can direct aspects of the workup, it does not necessarily portend more worrisome diagnoses. Other tests, including imaging, are warranted in specific circumstances. Our approach is described in the algorithm ( algorithm 1 ).
+
+【42】History
+
+【43】Initial questions — The history should review medical conditions, including hypertension, atherosclerosis, neurologic illness, and prior surgery. In addition, it should address the following points in order to identify potential causes:
+
+【44】 Hearing loss, previous ear disease, noise exposure, head injury, and symptoms suggesting temporomandibular joint (TMJ) syndrome
+
+【45】 Symptoms of ear drainage or ear pain may suggest infectious, inflammatory, or allergic ear disease 
+
+【46】 Symptoms of vertigo or imbalance may suggest cochlear or retrocochlear disorders such as Meniere disease, acoustic neuroma, or migraine-associated vertigo 
+
+【47】 All medications and supplements
+
+【48】 Symptoms of dizziness, or facial palsy concerning for neurologic conditions
+
+【49】Patients should be specifically asked about depression, anxiety, and insomnia, which can both exacerbate tinnitus and magnify its impact on quality of life.
+
+【50】Tinnitus description — The history should include a description of the tinnitus (episodic or constant, pulsatile or nonpulsatile, rhythmicity, pitch, quality of the sound) as well as inciting or alleviating factors.
+
+【51】Tinnitus that is distinctly pulsing or is described as rushing, flowing, or humming is usually vascular in origin. Patients often describe an increase in frequency and intensity with exercise, and some may recognize a connection with their pulse. Changes in intensity or pitch with head motion or body position (lying down versus sitting or standing) also strongly suggest a vascular tinnitus.
+
+【52】Clicking tinnitus almost always has a physiologic explanation. Myoclonus of the palatal muscles or middle ear structures can occur spontaneously but may also suggest significant neurologic disease. Some patients report a mechanical sounding tinnitus that is not tonal in nature. A diligent investigation searching for vascular or somatic causes is warranted for this rare complaint.
+
+【53】Tonal descriptions of tinnitus can help in the evaluation of a patient for a specific diagnosis or treatment:
+
+【54】 A high-pitched continuous tone is by far the most commonly described type of tinnitus. High-pitched tinnitus is frequently a result of a sensorineural hearing loss or may suggest cochlear injury.
+
+【55】 Low-pitched tinnitus is often seen in patients with Meniere disease, although it also can be idiopathic.
+
+【56】Physical examination — A complete head and neck examination, including cranial nerve examination and evaluation of the tympanic membrane, should be performed in all patients. Palatal myoclonus may be suppressed upon wide jaw opening; thus, its absence on oral examination does not rule out the diagnosis (nasopharyngoscopy may be indicated when suspicion is high).
+
+【57】In patients with suspected vascular tinnitus, auscultation over the neck, periauricular area, temple, orbit, and mastoid should be performed in various positions. The effects of positioning and vascular compression of the neck on the involved side should be noted. Tinnitus of venous origin can often be suppressed by careful pressure on the jugular vein.
+
+【58】Specialized testing and ENT referral
+
+【59】Urgent referral for some patients — Patients with signs concerning for stroke (eg, focal neurologic abnormalities) should be urgently referred to neurology. Patients with continuous pulsatile tinnitus, unilateral tinnitus, sudden hearing loss, dizziness, or ear/facial pain should be urgently referred to ENT.
+
+【60】Further testing not needed for most patients — Patients with infrequent episodes of pulsatile tinnitus, or those with short-duration, mild tinnitus, can be initially observed as symptoms are unlikely to be a result of a clinically significant or life threatening pathology. Follow-up is typically every four to six months to determine if the pulsations are changing.
+
+【61】Suspected vascular tinnitus — Patients with audible pulsations that are always associated with a particular activity, or continuous pulsatile tinnitus, require evaluation by an otolaryngologist or neurologist as these symptoms can herald a potentially life-threatening illness. When physical examination does not reveal a specific vascular or musculoskeletal source in these patients, further investigation to rule out a central nervous system lesion such as a dural arteriovenous fistula (AVF), arteriovenous malformation (AVM) or aneurysm, or a skull base or deep neck tumor should be carried out .
+
+【62】The gold standard for diagnosing intracranial vascular lesions is angiography. These lesions often can also be diagnosed noninvasively with magnetic resonance (MR) angiography  or computed tomography (CT) angiography . High-resolution CT scanning is required to delineate the extent of involvement of the skull base if a paraganglioma is suspected and may be sufficient to evaluate other central nervous system lesions in selected patients. MR imaging (MRI) can diagnose a Chiari malformation, vasculitis, central nervous system tumors, and multiple sclerosis and may indicate the presence of increased intracranial pressure (such as that seen in pseudotumor cerebri) or tumors. Many patients require both contrast MRI and contrast CT because of the varied nature of disorders that cause pulsatile tinnitus. If both of these studies are normal, and suspicion for a vascular lesion remains high, angiography or MR angiography is warranted.
+
+【63】Our protocol involves audiometric testing followed by an extensive history and physical examination, which guides additional diagnostic testing. When an intracranial vascular lesion is suspected, we obtain an MRI with contrast initially, followed by CT/CT angiography and subsequent interventional angiography in appropriate circumstances.
+
+【64】Suspected auditory system tinnitus — For patients with tinnitus associated with hearing loss or a change in hearing, audiometric tests are essential in the evaluation to determine whether the tinnitus originates within the auditory system. Any patient with constant unilateral or bilateral tinnitus persistent for six months or more should also be referred for a formal audiology evaluation .
+
+【65】Initial audiometric tests should include a pure-tone audiogram, tympanometry, auditory reflex testing, determination of speech discrimination abilities, and otoacoustic emissions testing. These tests identify asymmetries between the two ears and indicate abnormalities in the middle ear, cochlea, and brainstem; they can also define the site of abnormality within the auditory system or confirm normal functioning. Such testing is performed in an audiologist's office, ideally one affiliated with an otolaryngology department or practice.
+
+【66】Asymmetry in hearing function, reflex testing, or otoacoustic emissions in patients with no identified otologic abnormality should be followed-up with auditory brainstem response testing (ABR) and imaging studies (eg, MRI) to rule out inner ear anomalies, central nervous system lesions, and neurologic disease. Further workup may involve neurologic or neurosurgical consultation, endocrine evaluation, or angiography.
+
+【67】Links to society and government-sponsored guidelines from selected countries and regions around the world are provided separately.
+
+【68】INFORMATION FOR PATIENTS 
+
+【69】Here are the patient education articles that are relevant to this topic. We encourage you to print or e-mail these topics to your patients. (You can also locate patient education articles on a variety of subjects by searching on "patient info" and the keyword(s) of interest.)
+
+【70】 Basics topic
+
+【71】 Beyond the Basics topic
+
+【72】 **Epidemiology** – Tinnitus affects 50 million people in the United States and interferes with daily activity in a quarter of those affected. Prevalence increases with age.
+
+【73】 **Etiology** – Tinnitus most commonly is a result of abnormalities within the auditory system, often with unexplained etiology. It may be associated with sensorineural hearing loss, ototoxic medications, infection, vascular ischemia, or acoustic neuroma.
+
+【74】 **Pulsatile tinnitus** – Pulsatile tinnitus is most commonly vascular in origin and requires a thorough evaluation.
+
+【75】• Vascular tinnitus can be unilateral or bilateral; when bilateral, it is typically louder on the side of the pathology. Differential diagnosis includes intracranial arteriovenous malformation (AVM), arteriovenous fistula (AVF), arterial bruit, and paraganglioma.
+
+【76】• Clicking pulsatile tinnitus may indicate a neurologic disorder causing myoclonus of palatal muscles or of the muscles in the inner ear. Tinnitus can be either unilateral or bilateral; when unilateral, symptoms are ipsilateral to the site of the muscle spasm.
+
+【77】 **Evaluation**
+
+【78】• Our approach to evaluation is described in the algorithm ( algorithm 1 ).
+
+【79】• Initial evaluation should include a thorough history, an examination including auscultation for bruits in patients with possible vascular tinnitus, and a complete head and neck examination in all patients.
+
+【80】• Patients with pulsatile tinnitus, other than those with infrequent intermittent symptoms, require otolaryngologic investigation and possible contrast computed tomography (CT) scanning, contrast magnetic resonance (MR) scanning, and/or angiography.
+
+【81】• For patients with tinnitus suspected of arising within the auditory system, and for those with unilateral tinnitus, audiometric testing is indicated.黄艳玲
+
+====================================================================================================

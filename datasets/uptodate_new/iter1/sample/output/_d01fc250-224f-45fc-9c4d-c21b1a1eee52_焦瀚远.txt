@@ -1,0 +1,227 @@
+【0】Fidanacogene elaparvovec: Drug information
+
+【1】Contributor Disclosures
+
+【2】For abbreviations, symbols, and age group definitions show table
+
+【3】Brand Names: US
+
+【4】*   Beqvez
+
+【5】Pharmacologic Category
+
+【6】*   Antihemophilic Agent;
+*   Gene Therapy, Adeno-Associated Virus
+
+【7】Dosing: Adult
+
+【8】**Dosage guidance:**
+
+【9】**Safety:** Advise patients to limit alcohol consumption for the first year following fidanacogene elaparvovec administration (alcohol may impact liver enzyme elevation and potentially reduce factor IX activity over time). Do not administer to patients who test positive for adeno-associated virus serotype Rh74var (AAVRh74var), with factor IX inhibitor (≥0.6 Bethesda units), who have a prior history for factor IX inhibitor, or patients with hypersensitivity to factor IX replacement product. Do not administer fidanacogene elaparvovec to patients with either CD4+ cell count <200/mm 3 or viral load ≥20 copies/mL. Administer in a health care setting under the supervision of a provider experienced in the treatment of hemophilia.
+
+【10】**Clinical considerations:** In the clinical studies, a prophylactic dose of factor IX replacement was administered prior to fidanacogene elaparvovec infusion after which prophylactic factor IX replacement was discontinued. Exogenous factor IX or other hemostatic products may be required in case of surgery, invasive procedures, trauma, or bleeds for which fidanacogene elaparvovec-derived factor IX activity is deemed insufficient for adequate hemostasis.
+
+【11】Hemophilia B, moderate to severe
+
+【12】**Hemophilia B, moderate to severe: Note:** Determination of the required "patient dose weight" is based on the patient's BMI. For patients ≤30 kg/m 2 , use the actual body weight. For patients >30 kg/m 2 , determine the dose with the following formula: Dose weight (kg) = 30 kg/m 2 × (height \[m\]) 2 .
+
+【13】**Patients with a BMI ≤30 kg/m 2 : IV:** 5 × 10 11 vector genomes/kg (using actual body weight) as a single one-time dose.
+
+【14】**Patients with a BMI >30 kg/m 2 : IV:** 5 × 10 11 vector genomes/kg (using calculated patient dose weight) as a single one-time dose.
+
+【15】**Fidanacogene Elaparvovec Dose Calculation Examples**
+
+| **Patient weight, height, and BMI**  | **Patient dose weight calculation**  | **Patient dose weight**  | **Patient dose volume (body weight divided by 20) in mL**  |
+| --- | --- | --- | --- |
+| 80 kg, 1.84 m = BMI of 23.6 kg/m 2  | No adjustment  | 80 kg  | 4 mL  |
+| 120 kg, 1.84 m = BMI of 35.4 kg/m 2  | 30 kg/m 2 ×  2  | 101.6 kg  | 5.08 mL  |
+
+【17】Dosing: Kidney Impairment: Adult
+
+【18】There are no dosage adjustments provided in the manufacturer's labeling.
+
+【19】Dosing: Hepatic Impairment: Adult
+
+【20】Hepatic function impairment prior to treatment: Do not administer fidanacogene elaparvovec to patients with current liver-related coagulopathy, hypoalbuminemia, persistent jaundice, or cirrhosis, portal hypertension, splenomegaly, hepatic encephalopathy, hepatic fibrosis, or active viral hepatitis. For radiological liver abnormalities and/or sustained liver enzyme elevations, consider a hepatology consultation to assess eligibility to receive fidanacogene elaparvovec.
+
+【21】Acute hepatotoxicity due to treatment: Transaminase elevation and/or decrease in factor IX activity: Initiate corticosteroid treatment as clinically indicated.
+
+【22】Consider corticosteroid treatment for the following:
+
+【23】A single increase in either ALT or AST ≥1.5 times baseline after screening and prior to fidanacogene elaparvovec infusion even if within the normal range **or** consecutive increases in ALT or AST (or both) on 2 subsequent blood tests even if within the normal range **or** Factor IX activity decrease (in the absence of alternative cause) that could trigger the risk of bleeding **or** Factor IX activity decrease on 2 consecutive blood tests (especially if occurring during the first 4 months post infusion).
+
+【24】Initiate a corticosteroid taper when ALT and/or AST have declined for at least 2 consecutive lab draws and/or the levels had begun to normalize and any decline in factor IX activity had plateaued.
+
+【25】**Recommended Corticosteroid Dosing for ALT, AST Elevation or Factor IX Activity Decrease Following Fidanacogene Elaparvovec Therapy**
+
+| **Schedule**  | **Prednisone/Prednisolone dose**  |
+| --- | --- |
+
+【27】a If there is persistent transaminase elevation while on oral corticosteroids treatment alone, consult with a hepatologist as clinically indicated to discuss use of combined oral and IV corticosteroids (methylprednisolone).
+
+【28】b Maintain 20 mg/day until transaminases return to baseline, then reduce dose by 5 mg/day until a dose of 10 mg/day is achieved, then reduce by 2.5 mg/week up to 5 mg/day.
+
+| Week 1  | 60 to 100 mg/day (depending on body weight)  |
+| --- | --- |
+| Week 2  | 60 mg/day a  |
+| Week 3  | 40 mg/day  |
+| Week 4  | 30 mg/day  |
+| Week 5  | 30 mg/day  |
+| Week 6  | 20 mg/day b  |
+| Week 7  | 15 mg/day  |
+| Week 8  | 10 mg/day  |
+
+【30】Dosing: Adjustment for Toxicity: Adult
+
+【31】**Infusion reaction:** If infusion reaction occurs during administration, the infusion may be slowed or stopped. If the infusion is stopped, restart at a slower rate after the infusion reaction has resolved. Consider management with an antihistamine, corticosteroid, and/or other measures.
+
+【32】Dosing: Older Adult
+
+【33】Refer to adult dosing.
+
+【34】Adverse Reactions
+
+【35】The following adverse drug reactions and incidences are derived from product labeling unless otherwise specified. Adverse reactions reported in adults.
+
+【36】\>10%: Hepatic: Increased serum transaminases (including increased serum alanine aminotransferase, increased serum aspartate aminotransferase)
+
+【37】Contraindications
+
+【38】There are no contraindications listed in the manufacturer's labeling.
+
+【39】Warnings/Precautions
+
+【40】_**Concerns related to adverse effects:**_
+
+【41】• Hepatocellular carcinoma: Liver-targeting AAV vector DNA integration into the genome may carry a theoretical risk of developing hepatocellular carcinoma. Integration of AAV vector DNA into the host cell DNA in other tissues may also occur. Risk factors for hepatocellular carcinoma include hepatitis B or C, nonalcoholic fatty liver disease, chronic alcohol consumption, nonalcoholic steatohepatitis, and/or advanced age. If a secondary malignancy occurs, contact the fidanacogene elaparvovec manufacturer for instructions on collecting patient samples for testing.
+
+【42】• Hepatotoxicity: IV administration of a liver-directed AAV vector could potentially result in transaminase elevations. Transaminase elevations are presumed to occur due to immune-mediated injury of transduced hepatocytes and may reduce the therapeutic efficacy of the AAV vector-based gene therapy, particularly when observed in the first 4 months after fidanacogene elaparvovec administration. In fidanacogene elaparvovec clinical studies, transaminase elevations (defined as ≥1.5 times baseline) occurred in over half of patients. A majority of patients in one study and one-fifth of patients in another study received corticosteroids to manage transaminase elevation and/or a decline in factor IX activity. The mean time to corticosteroid initiation was 45 days and the mean duration of corticosteroid treatment was ~113 days (range: 41 to 276 days). Alcohol consumption may impact liver enzyme elevation and potentially reduce factor IX activity over time. Assess for concurrent use of hepatotoxic medications (may require adjustment based on hepatic status/risk).
+
+【43】• Infusion reactions: Infusion reactions, including hypersensitivity reactions and anaphylaxis, may occur with fidanacogene elaparvovec administration. Symptoms of hypersensitivity may include (although are not limited to) hypotension, palpitation, fever, chills, nausea, vomiting, and/or headache. Closely monitor patients for clinical signs and symptoms of infusion reactions throughout the infusion period and for at least 3 hours after end of infusion.
+
+【44】_**Concurrent drug therapy issues:**_
+
+【45】• Immunizations: Ensure vaccinations are up to date prior to fidanacogene elaparvovec administration. If concomitant corticosteroid administration is needed following fidanacogene elaparvovec infusion, delay administration of live vaccines until after corticosteroids have been tapered off.
+
+【46】_**Other warnings/precautions:**_
+
+【47】• Factor IX inhibitors: Factor IX inhibitors may develop following administration of fidanacogene elaparvovec administration.
+
+【48】• Viral vector shedding: Fidanacogene elaparvovec may be transmitted to persons other than the patient receiving the treatment through patient excretions and secretions. Temporary vector shedding of IV administered AAV-based gene therapies occurs primarily through urine and feces, and to some extent saliva, mucus, and semen. To minimize the risk of transmission to other persons, instruct patients regarding proper hand hygiene when coming into direct contact with patient secretions or excretions. Patients should follow these precautions for 6 months after fidanacogene elaparvovec infusion, particularly if close contacts are pregnant or are immunodeficient.
+
+【49】Dosage Forms Considerations
+
+【50】Each 1 mL of product contains fidanacogene elaparvovec-dzkt 1 x 10 13 vg.
+
+【51】Dosage Forms: US
+
+【52】Excipient information presented when available (limited, particularly for generics); consult specific product labeling.
+
+【53】Suspension Therapy Pack, Intravenous \[preservative free\]:
+
+【54】Beqvez: Fidanacogene elaparvovec-dzkt 4 x 1 mL ; Fidanacogene elaparvovec-dzkt 5 x 1 mL ; Fidanacogene elaparvovec-dzkt 6 x 1 mL ; Fidanacogene elaparvovec-dzkt 7 x 1 mL 
+
+【55】Generic Equivalent Available: US
+
+【56】No
+
+【57】Pricing: US
+
+【58】**Suspension Therapy Pack** (Beqvez Intravenous)
+
+【59】4 x 1 mL (per each): $0.00
+
+【60】5 x 1 mL (per each): $0.00
+
+【61】6 x 1 mL (per each): $0.00
+
+【62】7 x 1 mL (per each): $0.00
+
+【63】**Disclaimer:** A representative AWP (Average Wholesale Price) price or price range is provided as reference price only. A range is provided when more than one manufacturer's AWP price is available and uses the low and high price reported by the manufacturers to determine the range. The pricing data should be used for benchmarking purposes only, and as such should not be used alone to set or adjudicate any prices for reimbursement or purchasing functions or considered to be an exact price for a single product and/or manufacturer. Medi-Span expressly disclaims all warranties of any kind or nature, whether express or implied, and assumes no liability with respect to accuracy of price or price range data published in its solutions. In no event shall Medi-Span be liable for special, indirect, incidental, or consequential damages arising from use of price or price range data. Pricing data is updated monthly.
+
+【64】Administration: Adult
+
+【65】**IV:** Infuse over ~60 minutes (at a rate of ~3 mL/minute). Do not administer as IV push or bolus. Do not infuse via a central line or port. Allow suspension for infusion to equilibrate to ambient temperature prior to infusion. An inline 0.2-micron filter may be used for administration. The infusion set/line should be made of PVC, polybutadiene, polyurethane, or polyethylene. Do not infuse in the same IV line with other medications. After the entire contents of the bag have been infused, flush the infusion line according to local procedures.
+
+【66】Administer in a setting with personnel and equipment immediately available for management of infusion reactions. Closely monitor patients for clinical signs and symptoms of infusion reactions throughout the infusion period and for at least 3 hours after end of infusion. If infusion reaction occurs during administration, the infusion may be slowed or stopped. If the infusion is stopped, restart at a slower rate after the infusion reaction has resolved. Consider management with an antihistamine, corticosteroid, and/or other measures.
+
+【67】Use: Labeled Indications
+
+【68】**Hemophilia B, moderate to severe:** Treatment of moderate to severe hemophilia B (congenital factor IX deficiency) in adults who currently use factor IX prophylaxis therapy or have current or historical life-threatening hemorrhage or have repeated, serious spontaneous bleeding episodes and do not have neutralizing antibodies to adeno-associated virus serotype Rh74var (AAVRh74var) capsid as detected by an approved test.
+
+【69】Medication Safety Issues
+
+【70】Sound-alike/look-alike issues:
+
+【71】Fidanacogene elaparvovec may be confused with etranacogene dezaparvovec, nadofaragene firadenovec, onasemnogene abeparvovec, valoctocogene roxaparvovec, voretigene neparvovec.
+
+【72】Metabolism/Transport Effects
+
+【73】None known.
+
+【74】Drug Interactions  
+
+【75】There are no known significant interactions.
+
+【76】Reproductive Considerations
+
+【77】Fidanacogene elaparvovec is a vector-based gene therapy. Vector DNA was detected in semen and declined to undetectable levels within a mean of 1 to 4 months after infusion. Patients should refrain from donating sperm and be abstinent or use condoms for up to 6 months after receiving fidanacogene elaparvovec.
+
+【78】Pregnancy Considerations
+
+【79】Animal reproduction studies have not been conducted. Fidanacogene elaparvovec is not intended for use in patients who could become pregnant.
+
+【80】Breastfeeding Considerations
+
+【81】It is not known if fidanacogene elaparvovec is present in breast milk.
+
+【82】Monitoring Parameters
+
+【83】**Note:** The use of exogenous factor IX concentrates before and after fidanacogene elaparvovec administration may impede assessment of endogenous, fidanacogene elaparvovec–derived factor IX activity.
+
+【84】_Prior to therapy:_ Test for preexisting neutralizing antibodies to adeno-associated virus serotype Rh74var (AAVRh74var) using an approved diagnostic test. Perform factor IX inhibitor testing prior to (a positive test is ≥0.6 Bethesda units). Perform HIV testing prior to infusion; assess CD4+ count or viral load for serological evidence of HIV-1 or HIV-2 infection. Perform liver health assessments, including LFTs (ALT, AST, alkaline phosphatase, total bilirubin, and albumin). Assess for concurrent use of hepatotoxic medications (may require adjustment following fidanacogene elaparvovec treatment based on hepatic status/risk). Assess for active hepatitis B or C. Assess for liver fibrosis with elastography and/or ultrasound and other laboratory assessments. For evidence of radiological liver abnormalities and/or sustained liver enzyme elevations, consider a hepatology consultation.
+
+【85】_During and following infusion:_ Closely monitor patients for clinical signs and symptoms of infusion reactions throughout the infusion period and for at least 3 hours after end of infusion.
+
+【86】_After therapy:_ Monitor ALT, AST and factor IX activity levels once or twice weekly for at least 4 months according to the table (to confirm adequate endogenous factor IX activity to support discontinuation of pretreatment factor IX prophylactic therapy).
+
+【87】**Recommended** **ALT, AST and Factor IX Activity Monitoring a After Administration**
+
+| **Timeframe**  | **Monitoring frequency**  |
+| --- | --- |
+
+【89】a To minimize the impact of inter-laboratory variability, it is recommended (when possible) to use the same laboratory facility for monitoring over time, particularly during the timeframe for corticosteroid treatment decision making.
+
+| Weeks 1 to 16  | Once or twice weekly  |
+| --- | --- |
+| Weeks 17 and 18  | Weekly  |
+| Weeks 19 to 52 (end of year 1)  | At weeks 24, 32, 42, and 52  |
+| Year 2 to end of year 3 (starting at week 65)  | Quarterly  |
+| Year 4 to end of year 6  | Twice yearly  |
+| After year 6  | Annually  |
+
+【91】Monitor for clinical sign/symptoms and laboratory tests for the development of inhibitors to factor IX after fidanacogene elaparvovec administration; perform an assay that detects factor IX inhibitors if bleeding is not controlled for decreased plasma factor IX activity level decrease (to minimize the impact of inter-laboratory variability, when possible, use the same laboratory consistently for both chromogenic or one-stage assays for factor IX activity monitoring over time, particularly during the timeframe for corticosteroid treatment decision making). Monitor for (and manage) adverse reactions secondary to corticosteroid therapy. Monitor patients with risk factors for hepatocellular carcinoma (eg, hepatitis B or C, nonalcoholic fatty liver disease, chronic alcohol consumption, nonalcoholic steatohepatitis, advanced age) with regular liver ultrasound (eg, annually) and alpha-fetoprotein testing for 5 years following administration of fidanacogene elaparvovec.
+
+【92】Mechanism of Action
+
+【93】Fidanacogene elaparvovec is an adeno-associated virus-based gene therapy which consists of a recombinant viral capsid (AAVRh74var) derived from the AAV serotype (Rh74) containing the human factor IX (FIX) transgene, which is modified to FIX-R338L, a high-specific factor IX activity variant. Fidanacogene elaparvovec is designed to introduce a functional copy of FIX gene encoding (FIX-R338L, hFIX Padua) in the transduced cells. The AAVRh74var capsid is able to transduce hepatocytes, the natural site of factor IX synthesis. A single dose of fidanacogene elaparvovec results in cell transduction and an increase in circulating factor IX activity in patients with hemophilia B.
+
+【94】Pharmacokinetics (Adult Data Unless Noted)
+
+【95】Onset: A majority  of patients reached factor IX activity levels of ≥5% at month 15 post infusion using the one-stage SynthASil assay, and 68% and 71% based on one-stage Actin-FSL assay and chromogenic assay, respectively. At month 24, 82% of patients had factor IX activity ≥5% based on one-stage SynthASil assay, and 64% based on one-stage Actin-FSL assay and chromogenic assay.
+
+【96】Duration: Factor IX activity remained stable over time, with mean factor IX activity (one-stage assay with Actin-FSL reagent) at ~28% at month 15, ~25% at month 24 (n=14), and ~22% at months 48 and 72.
+
+【97】Distribution: Maximum vector DNA concentrations were detected in plasma; also detected in saliva, peripheral blood mononuclear cells, semen, and urine.
+
+【98】Time to peak: Detectable peak concentrations of vector DNA in blood and all shedding matrices observed 1.2 to 7.4 days post administration.
+
+【99】Excretion: Based on a pooled analysis of clinical data, full clearance of vector DNA (defined as 3 consecutive negative results \[below quantification limit\]) from plasma, saliva, and semen within a mean of 1 to 4 months after infusion; peripheral blood mononuclear cells were the slowest for full at a mean of 12 months.
+
+【100】Pharmacokinetics: Additional Considerations (Adult Data Unless Noted)
+
+【101】Race/Ethnicity: There is a trend of higher mean factor IX activity in White patients.
+
+【102】Age and body weight: There is a trend of higher mean Factor IX activity with age and higher BMI.焦瀚远
+
+====================================================================================================

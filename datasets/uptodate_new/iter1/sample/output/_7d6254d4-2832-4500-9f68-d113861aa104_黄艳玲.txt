@@ -1,0 +1,199 @@
+【0】Diagnosis and treatment of Talaromyces (Penicillium) marneffei infection
+
+【1】INTRODUCTION 
+
+【2】_Talaromyces_ _marneffei_ (formerly _Penicillium marneffei_ ) is an important cause of morbidity and mortality in patients with AIDS, as well as other immunocompromised individuals who live in or are from Southeast Asia . On occasion, it can also cause disease in such patients who have had travel-related exposure to this organism. _Penicillium_ _marneffei_ was renamed _Talaromyces marneffei_ in 2015, and the disease, which had been referred to as penicilliosis, is now called talaromycosis.
+
+【3】For individuals with HIV, this systemic fungal infection was commonly diagnosed prior to the era of potent antiretroviral therapy (ART). The widespread use of ART has led to a significant decline of opportunistic infections, including _T. marneffei_ infection, in highly endemic areas. However, despite the widespread availability of ART, _T. marneffei_ infection continues to cause considerable morbidity and mortality in AIDS patients who are unaware of their HIV infection, who do not have access to ART, or who have a suboptimal response to HIV therapy.
+
+【4】The diagnosis and treatment of _T. marneffei_ will be reviewed here. The mycology, epidemiology, and clinical manifestations of _T. marneffei_ are discussed elsewhere.
+
+【5】DIAGNOSIS
+
+【6】Approach to diagnosis — The diagnosis of talaromycosis (formerly called penicilliosis) should be considered in patients who live in or are from Southeast Asia, northern Australia, South Asia (including India), and China who present with fever, weight loss, nonproductive cough, skin lesions, hepatosplenomegaly, and/or generalized lymphadenopathy. Talaromycosis typically occurs in patients who are severely immunocompromised (eg, those with AIDS); however, cases have also been reported in those with other underlying conditions (eg, autoimmune disorders, cancer, diabetes) .
+
+【7】A definitive diagnosis is usually made by culture of the fungus from blood, skin biopsy, bone marrow, or lymph nodes. However, given the need for early treatment, a presumptive diagnosis can be made by demonstrating the characteristic morphologic findings of this fungus in biopsy material or in blood smears of patients with fungemia  . _T. marneffei (_ formerly _P. marneffei)_ appear as oval or elongated yeast-like organisms with a clearly defined central septum. The presence of a centrally located transverse septum (eg, "cross wall") differentiates _T. marneffei_ from _Histoplasma capsulatum_  .
+
+【8】Diagnostic tests
+
+【9】Culture — _T. marneffei_ can be readily isolated from various clinical specimens. Cultures of bone marrow and lymph node biopsies are the most sensitive, followed by cultures of skin lesions and blood (including conventional blood culture systems) . _T. marneffei_ has also been isolated from cultures of stool, urine, cerebrospinal fluid (CSF), and joint fluid .
+
+【10】The organism typically takes about four to seven days to grow; however, on occasion, growth can take a few weeks to occur. Fungal cultures at 25°C on Sabouraud dextrose agar demonstrate characteristic features that include a flat green surface and underlying deep red coloring . Microscopically, the fungus has typical filamentous reproductive structures of the genus _Talaromyces_ . However, _Talaromyces_ species can sometimes be contaminants of clinical specimens; it is important to properly identify the species and to determine whether it is the likely cause of infection. Conventionally, mold-to-yeast conversion is used to confirm that the isolate is _T. marneffei_ . This can be achieved by subculturing the fungus onto brain-heart-infusion agar and incubating it at 37°C. Alternative methods for confirming the diagnosis are through a polymerase chain reaction (PCR) hybridization assay, which can be used to rapidly identify the organism that has been grown in culture , or an exoantigen test  _._
+
+【11】Whenever _T. marneffei_ is suspected, the clinician caring for the patient should alert the microbiology laboratory that _T. marneffei_ infection is of concern so that the laboratory staff can take appropriate biocontainment measures. Exposure to _T. marneffei_ in the laboratory setting can lead to infection of laboratory staff.
+
+【12】Histopathology — In the proper epidemiologic setting, a presumptive diagnosis of _T. marneffei_ infection can be made several days before the cultures are positive by visualizing the organism. The organism can be identified through microscopic examination of any of the following: Wright-stained samples of blood or bone marrow; touch smears of skin or lymph node biopsies; or Giemsa-stained bronchoalveolar lavage fluid .
+
+【13】Wright-stained samples show intracellular and extracellular basophilic, spherical, oval, and elliptical yeast-like organisms. Some of these cells have a clearly defined central septum, which is a characteristic feature of _T. marneffei_ . The cell wall and the cytoplasm of _T. marneffei_ cells cannot be seen well with hematoxylin-eosin staining of tissue sections. Thus, methenamine silver or periodic acid-Schiff (PAS) staining is preferred, and the organisms appear as unicellular round to oval cells within macrophages or histiocytes. Extracellular elongated or sausage-shaped cells with one or two septa may also be seen.
+
+【14】Descriptions of the histologic appearance of _T. marneffei_ include:
+
+【15】 In one study of liver biopsies from 30 patients with HIV and disseminated _T. marneffei_ infection, histopathologic findings were classified into one of three patterns: diffuse, granulomatous, and mixed . The first pattern showed a diffuse infiltration of foamy macrophages that contained numerous _T. marneffei_ organisms. The granulomatous pattern showed multiple granulomata with various degrees of inflammatory cell infiltration. The mixed pattern showed features intermediate between the first two categories.
+
+【16】 Intracellular and extracellular yeast forms with the characteristic cross-septation of _T. marneffei_ have been visualized in specimens obtained by fine needle aspiration of lymph nodes in patients with HIV and lymphadenopathy . This technique is particularly helpful in cases in which there are no skin lesions and enlarged lymph nodes are confined to the deep intra-abdominal region.
+
+【17】Serology — Serologic assays are not widely used because of limited data regarding diagnostic accuracy and restricted availability of the required commercial reagents . Research to assess various methods of serologic testing in both symptomatic and asymptomatic patients is ongoing. Tests that are being investigated include indirect fluorescent antibody tests, enzyme-linked immunosorbent assays (ELISAs), and Western immunoblot tests . Whether serologic testing could enable the identification of asymptomatic individuals who may benefit from pre-emptive treatment is unknown.
+
+【18】Molecular diagnostics — PCR-based techniques using serum or urine are not currently used to diagnose _T. marneffei_ in the clinical setting . However, _T. marneffei_ has been identified using immunohistochemical techniques in tissues and through PCR testing of a skin biopsy specimen using a set of primers specific for the fungus .
+
+【19】Antigen detection — Antigen testing (immunodiffusion, latex agglutination, or ELISA) is not routinely available for diagnosis. However, galactomannan testing, which is primarily used for detection of aspergillosis, can show cross-reactivity with _T. marneffei_ . As an example, in one case series, positive serum galactomannan tests were reported in three patients who had pulmonary infiltrates secondary to culture-proven _T. marneffei_ infection . However, the titers in patients with talaromycosis are lower than those noted in patients with aspergillosis, and this test cannot be relied upon for diagnosis . A more detailed discussion of galactomannan testing is found elsewhere.
+
+【20】New antigen tests, such as the Mp1P ELISA, are in development. This test can detect antigen in plasma and urine, and in one report, the Mp1P ELISA had improved sensitivity and time to diagnosis compared with blood culture .
+
+【21】Evaluation for immunocompromising conditions — For patients diagnosed with talaromycosis and who are not known to be immunocompromised (eg, HIV), we evaluate for immunocompromise by performing a history and physical, age-appropriate cancer screening, and testing for HIV, diabetes, autoimmune diseases, and presence of anti-interferon gamma autoantibody .
+
+【22】DIFFERENTIAL DIAGNOSIS 
+
+【23】The differential diagnosis for an individual with AIDS who is from Southeast Asia, northern Australia, South Asia (including India), or China and presents with skin lesions, cough, and constitutional symptoms includes:
+
+【24】 Tuberculosis – Patients with _Mycobacterium tuberculosis_ and _T. marneffei_ can present with fever, weight loss, cough, and lymphadenopathy. However, skin lesions are uncommon in patients with tuberculosis, whereas they are commonly seen in patients with talaromycosis. These infections are best distinguished by special stains to identify the organism and/or by culture.
+
+【25】 Melioidosis – Both melioidosis (caused by _Burkholderia pseudomallei_ ) and talaromycosis can present with cough and a localized skin infection. Patients with melioidosis can also present with genitourinary symptoms (eg, suprapubic pain, dysuria, difficulty passing urine, or acute urinary retention requiring catheterization), septic arthritis, and/or encephalomyelitis. For both infections, the diagnosis is typically made through microscopy and/or culture.
+
+【26】 Histoplasmosis – Patients with talaromycosis and histoplasmosis often present with fever, night sweats, fatigue, weight loss, and cough . In addition, physical examination may demonstrate hepatosplenomegaly, lymphadenopathy, and skin lesions. Bedside microscopic examination of scrapings from these skin lesions can lead to the correct diagnosis of _T. marneffei_ due to its unique morphology. By contrast, _H. capsulatum_ is often diagnosed through the use of urinary antigen testing. However, the urine antigen test used to diagnose histoplasmosis is often positive in patients with _T. marneffei_ infection because these organisms share similar galactomannan cell wall constituents .
+
+【27】TREATMENT
+
+【28】Indications — Antifungal treatment should be initiated as soon as possible in all patients with talaromycosis. The mortality rate has been reported to be as high as 97 percent if the infection goes untreated or if there is a delay in diagnosis . This is particularly true for patients with moderate or severe disease . The use of antifungal therapy has resulted in clinical and microbiologic resolution of infection in up to 95 percent of patients .
+
+【29】Antifungal therapy — Amphotericin B and itraconazole are the agents typically used to treat _T. marneffei_ infection. For those who cannot take amphotericin B or itraconazole, voriconazole can be used. Fluconazole has poor activity , and there are insufficient clinical data to recommend treatment with an echinocandin.
+
+【30】Treatment approach — The approach to treatment of talaromycosis is the same for individuals with and without HIV and depends upon the severity of disease:
+
+【31】 Severe disease is characterized by multiple organ involvement with respiratory failure or circulatory collapse.
+
+【32】 Moderate disease is characterized by multiple organ involvement without respiratory failure or cardiovascular collapse.
+
+【33】 Mild disease refers to patients who only have skin lesions and no fungemia.
+
+【34】Patients with talaromycosis should receive induction and consolidation therapy followed by long-term maintenance therapy until restoration of cellular immunity. Nonpregnant patients with moderate to severe disease should be treated initially with amphotericin B and then transitioned to itraconazole . Those with mild disease can receive itraconazole for the entire treatment duration. Voriconazole is an alternative agent for those who cannot take amphotericin or itraconazole. In pregnant patients, the approach must be individualized given the risk of teratogenicity with azole agents.
+
+【35】Patients receiving antifungal therapy should be monitored. The type of monitoring depends upon the agent being used.
+
+【36】_T. marneffei_ infection typically occurs in patients with HIV who have a low CD4 count and are not on effective antiretroviral therapy (ART). Such patients should receive ART in addition to antifungal therapy. ART should be initiated within one week of starting antifungal therapy; however, it is important to check for potential drug interactions, especially with azole agents.
+
+【37】For patients with immunocompromising conditions other than HIV, we try to optimize their cellular immunity by treating the underlying condition (eg, diabetes control, optimizing immunosuppressive therapy for autoimmune disease or cancer, etc). Although presence of anti-interferon gamma autoantibodies is common in some areas, no specific treatment is available.
+
+【38】Induction and consolidation therapy — Patients should receive induction therapy for 2 weeks followed by consolidation therapy for 10 weeks. The approach to treatment depends upon the severity of disease.
+
+【39】After induction and consolidation therapy, immunocompromised patients should transition to a maintenance therapy regimen.
+
+【40】Moderate to severe disease — Nonpregnant patients with moderate to severe disease should be treated initially with intravenous therapy and then transitioned to an oral azole-containing regimen. Considerations during pregnancy and patient monitoring during treatment are discussed below.
+
+【41】 **Preferred regimen** – For patients with moderate to severe disease (eg, multiple organ involvement), we recommend induction therapy with amphotericin B for two weeks. We suggest liposomal amphotericin B  rather than amphotericin B deoxycholate . However, amphotericin B deoxycholate  is an alternative when lipid formulations are not available. Although there are no studies comparing liposomal versus conventional amphotericin in patients with talaromycosis, liposomal amphotericin is associated with less toxicity (eg, nephrotoxicity, infusion reactions, anemia) compared with the deoxycholate formulation; in addition, its use for treatment of talaromycosis has been described in case reports . A more detailed discussion of amphotericin B is presented separately.
+
+【42】After completing two weeks of amphotericin B, patients should be transitioned to consolidation therapy with oral itraconazole  for 10 weeks. The oral solution of itraconazole is preferred to the capsule in order to achieve better absorption. When initiating itraconazole, we administer a loading dose of 200 mg three times daily for three days and then reduce to twice daily therapy to help achieve therapeutic levels, although not all experts use a loading dose .
+
+【43】The use of a regimen that includes amphotericin B followed by itraconazole has been supported by several studies . As an example, in an open-label, noncomparative report of 74 patients with HIV (mean CD4 count 64 cells/microL) who received amphotericin B for two weeks followed by oral itraconazole for 10 weeks, 72  responded without serious adverse effects .
+
+【44】The importance of induction therapy with amphotericin B was highlighted in an open-label randomized trial that compared amphotericin B with itraconazole during the first two weeks of therapy . In this trial, 440 patients with AIDS (median CD4 count 10 cells/microL) and talaromycosis received 14 days of induction therapy with either amphotericin B deoxycholate  or itraconazole . All patients then received twice-daily itraconazole for 10 weeks followed by once-daily itraconazole until the CD4 count was >100 cells/microL for at least six months. There was no significant difference in mortality at two weeks (absolute risk difference \[ARD\] 0.9 percent, 95% CI 3.9-5.9); however, by 24 weeks, the risk of death was significantly lower among those who had received amphotericin B . This difference was felt to be due, in part, to faster fungal clearance with amphotericin B. Although patients who received amphotericin B were significantly more likely to have infusion-related reactions and laboratory abnormalities, the number of serious adverse events was similar between the groups.
+
+【45】 **Alternative regimen** – Voriconazole is an alternative treatment for patients with moderate to severe disease who cannot tolerate amphotericin B . Induction therapy with intravenous voriconazole  should be administered for two weeks. If intravenous voriconazole is not available, oral voriconazole can be used . Patients can then be transitioned to consolidation therapy with oral voriconazole  or itraconazole  for an additional 10 weeks. More detailed information on treatment with azole therapy is presented elsewhere.
+
+【46】Mild disease — For nonpregnant patients with mild disease (ie, only skin lesions and no fungemia), we suggest oral itraconazole for 12 weeks without amphotericin B. We administer a loading dose of 200 mg three times daily for three days and then reduce to twice-daily therapy. We prefer the oral solution of itraconazole rather than the capsule.
+
+【47】If itraconazole cannot be used, patients with mild disease can be treated with oral voriconazole . Oral voriconazole should be administered as 400 mg twice per day on day 1 followed by 200 mg twice daily for 12 weeks .
+
+【48】Considerations during pregnancy and monitoring of drug levels during treatment are discussed below.
+
+【49】We prefer induction therapy with itraconazole rather than amphotericin B for patients with mild disease; this approach has been supported by several reports  and reduces the need for admission and parenteral therapy. Although the randomized trial described above found that amphotericin B induction therapy is better than oral itraconazole regardless of disease severity , there was no mortality benefit of amphotericin B at 2 or 24 weeks among those without evidence of fungemia.
+
+【50】Maintenance therapy (secondary prophylaxis)
+
+【51】Indications — For immunocompromised hosts, we recommend maintenance therapy after induction and consolidation therapy have been completed.
+
+【52】In patients with HIV, relapses of _T. marneffei_ infection were common before the introduction of potent ART. In one study, the relapse rate was 50 percent after treatment was discontinued . The efficacy of itraconazole maintenance therapy was illustrated in a randomized trial conducted from 1993 to 1996 that included 71 patients with AIDS (none of whom were taking ART) and disseminated, culture-proven _T. marneffei_ infection . In this trial patients received oral itraconazole  or placebo after successful completion of standard antifungal therapy. The study was terminated after the interim analysis, since all 20 relapses of _T. marneffei_ infection occurred in the placebo group.
+
+【53】On rare occasion, apparently immunocompetent hosts can present with talaromycosis. For such patients, we do not administer maintenance therapy after induction and consolidation therapy have been completed.
+
+【54】Regimen — For nonpregnant patients, we administer itraconazole 200 mg orally (PO) daily. For patients who cannot take itraconazole, voriconazole  can be used; the dose of voriconazole should then be modified based upon serum levels.
+
+【55】Considerations for treatment during pregnancy are discussed below.
+
+【56】Duration — Patients with talaromycosis should receive long-term maintenance therapy until they have had restoration of cellular immunity.
+
+【57】For patients with HIV receiving potent ART, we suggest maintenance therapy be continued until both the HIV viral load is suppressed and the CD4 count is ≥100 cells/microL for a minimum of six months. Secondary prophylaxis should be reintroduced if the CD4 count decreases to <100 cells/microL.
+
+【58】This approach is supported through small case series and retrospective studies. As an example, in a retrospective cohort study of 33 patients with AIDS receiving ART who achieved a CD4 cell count of ≥100 cells/microL for at least six months, no relapses were observed after a median follow-up of 18 months (range 6 to 45 months) . In another study of 26 patients with talaromycosis, 18 patients discontinued maintenance therapy after their CD4 count had increased to a median of 95 cells/microL, and only one patient relapsed after a median follow-up of 35 months, despite this low level of immune reconstitution .
+
+【59】Considerations during pregnancy — The approach to treatment of talaromycosis during pregnancy depends upon fetal maturity and can be complex given the risk of teratogenicity with azole agents and the risk of toxicity with amphotericin B.
+
+【60】 During the first trimester, patients should receive therapy with amphotericin B (even those with mild disease). Therapy with an azole antifungal is contraindicated during the first trimester because of the risk of teratogenicity.
+
+【61】 After the first trimester, the decision to initiate an azole or continue amphotericin B must be determined on a case-by-case basis since the risk of teratogenicity after the first trimester is less clear.
+
+【62】Such patients should be managed in conjunction with a maternal-fetal medicine specialist and an infectious diseases specialist to help balance the risks and benefits of the different treatment options.
+
+【63】Patient monitoring — For patients being treated for talaromycosis, the type of monitoring depends upon the agent being used and the availability of testing. As examples:
+
+【64】 Patients treated with amphotericin B should be monitored for infusion-related adverse reactions, nephrotoxicity, and electrolyte disturbances.
+
+【65】 For patients receiving itraconazole , serum itraconazole levels should be obtained to ensure adequate absorption, especially if potential drug interactions exist . A random serum level should be about 2 mcg/mL performed by high-pressure liquid chromatography.
+
+【66】 If voriconazole is used, serum trough levels should be monitored and maintained between 1 and 5 mcg/mL to help ensure efficacy and avoid the toxicity seen with higher levels.
+
+【67】When to initiate antiretroviral therapy — Antiretroviral therapy (ART) should be initiated in patients with HIV who are not receiving HIV therapy.
+
+【68】ART can be started approximately one week after initiating antifungal treatment . This approach is based upon expert opinion, since there are no data to guide this decision in patients with talaromycosis. A more detailed discussion of when to initiate ART is found in a separate topic review.
+
+【69】When choosing a regimen, it is necessary to check for potential drug interactions between itraconazole or voriconazole and antiretroviral medications, since certain ART agents can either increase or decrease antifungal levels.
+
+【70】Recurrent infection — If a patient has a recurrence of talaromycosis, a complete course of induction and consolidation therapy should be repeated followed by maintenance therapy.
+
+【71】PREVENTION 
+
+【72】The most effective way to prevent talaromycosis is by improving the immune system through the use of antiretroviral therapy (ART) in those living with HIV and/or management of other immunocompromised conditions.
+
+【73】Until some degree of immune recovery is achieved (eg, CD4 count ≥100 cells/microL), the use of antifungal therapy (primary prophylaxis) is indicated for certain patients who are from endemic areas; others should avoid travel to these areas .
+
+【74】Initiating primary prophylaxis — We suggest primary prophylaxis for nonpregnant patients with HIV and a CD4 count <100 cells/microL who:
+
+【75】 Are unable to initiate HIV treatment or have HIV treatment failure without access to effective ART options.
+
+【76】**AND**
+
+【77】 Live in or travel to areas of high endemicity. These areas include rural areas in northern Thailand, Vietnam, and southern China .
+
+【78】For patients residing in endemic areas, we administer itraconazole 200 mg orally (PO) once daily. We prefer itraconazole solution because it is better absorbed. An alternative regimen is fluconazole 400 mg PO once weekly. In one retrospective study, these two regimens demonstrated comparable efficacy for primary prophylaxis .
+
+【79】For individuals who travel to an endemic area, itraconazole can be started three days before travel and continued for one week after leaving the endemic area. If fluconazole is used, it should be started three days before travel and continued once weekly while in the area, and the final dose should be administered after leaving the area.
+
+【80】For pregnant patients, primary prophylaxis is generally not warranted, since all efforts should be focused on initiating ART and there are risks associated with azole therapy.
+
+【81】The use of primary prophylaxis in high-risk populations is based upon the results of a randomized trial in 129 Thai patients with a mean CD4 count of 77 cells/microL . Patients received itraconazole  or placebo; most were not receiving ART during the study. In the intent-to-treat analysis, the proportion of patients who developed a systemic fungal infection was significantly lower in the prophylaxis arm compared with the placebo arm . One patient in the itraconazole arm and four patients in the placebo arm developed _T. marneffei_ infection; however, no survival advantage was observed in the itraconazole arm.
+
+【82】Discontinuation of primary prophylaxis — Primary prophylaxis can be discontinued in patients receiving ART when the CD4 count is ≥100 cells/microL for at least six months. This approach is supported by guideline panels and is based upon data that evaluated discontinuing maintenance therapy .
+
+【83】Links to society and government-sponsored guidelines from selected countries and regions around the world are provided separately.
+
+【84】 **Nomenclature** – _Talaromyces_ _marneffei_ (formerly _Penicillium marneffei_ ) is an important cause of morbidity and mortality in patients with AIDS or other immunocompromising conditions who live in or are from endemic areas (eg, Southeast Asia). _Penicillium_ _marneffei_ was renamed _Talaromyces marneffei_ in 2015, and the disease, which had been referred to as penicilliosis, is now called talaromycosis.
+
+【85】 **Diagnosis**
+
+【86】• **Approach to diagnosis** – The diagnosis of talaromycosis infection should be considered in immunocompromised patients, particularly those with AIDS, who are from Southeast Asia, northern Australia, South Asia (including India), and China. Although talaromycosis typically occurs in patients who are severely immunocompromised, cases have also been reported in those with other underlying conditions (eg, autoimmune disorders, cancer, diabetes).
+
+【87】• **Definitive diagnosis** – A definitive diagnosis is made by culturing the fungus, most commonly from blood, skin biopsy, bone marrow, or lymph nodes.
+
+【88】• **Presumptive diagnosis** – A presumptive diagnosis can be made on histopathology in the appropriate clinical and epidemiologic setting.
+
+【89】• **Evaluation for immunocompromising conditions** – For patients with talaromycosis and no known immunocompromise, we evaluate for immunocompromise by performing a history and physical, age-appropriate cancer screening, and testing for HIV, diabetes, autoimmune diseases, and presence of anti-interferon gamma autoantibody.
+
+【90】 **Approach to treatment** – Antifungal therapy should be initiated as soon as possible in patients with talaromycosis. A high mortality has been reported if the infection goes untreated, or if there is a delay in diagnosis, especially in patients with moderate or severe disease. Patients with talaromycosis should receive an initial course of induction therapy followed by consolidation therapy. Maintenance therapy should be continued in immunocompromised hosts.
+
+【91】• **Induction therapy**
+
+【92】\- For patients with moderate to severe disease (eg, multiple organ involvement), we recommend two weeks of induction therapy with amphotericin B rather than an alternative antifungal agent . We prefer liposomal amphotericin B  rather than amphotericin B deoxycholate to reduce the risk of toxicity (eg, nephrotoxicity, infusion reactions, anemia).
+
+【93】\- For patients with mild infection (ie, only skin lesions and no fungemia), we suggest induction therapy with itraconazole rather than an alternative antifungal agent .
+
+【94】• **Consolidation therapy** – For all patients, we suggest consolidation therapy with itraconazole for 10 weeks . Observation studies suggest that a total of 12 weeks of therapy (induction plus consolidation) is associated with clinical improvement.
+
+【95】• **Maintenance therapy** – For immunocompromised patients, we recommend maintenance antifungal therapy after induction and consolidation therapy . In such patients, maintenance therapy significantly reduces the risk of relapse. The standard regimen is itraconazole 200 mg daily. Maintenance therapy should be continued until restoration of cellular immunity has occurred. For patients with HIV receiving antiretroviral therapy (ART), we continue maintenance therapy until the HIV viral load is suppressed and the CD4 count is ≥100 cells/microL for at least six months.
+
+【96】• **Pregnant individuals** – The approach to treatment of talaromycosis during pregnancy depends upon fetal maturity and can be complex given the potential risk of teratogenicity with azole agents and the risk of toxicity with amphotericin B. Such patients should be managed in conjunction with a maternal-fetal medicine specialist and an infectious diseases specialist to help balance the risks and benefits of the different treatment options.
+
+【97】 **Initiating ART in patients with HIV** – In patients with HIV who are not receiving HIV therapy, ART should be initiated in addition to antifungal therapy. We suggest starting ART approximately one week after initiating antifungal treatment . When choosing an ART regimen, it is necessary to check for potential drug interactions with antifungal agents.
+
+【98】 **Primary prophylaxis** – For nonpregnant patients with HIV and a CD4 count <100 cells/microL who live in or travel to areas of high endemicity and are unable to initiate ART or have virologic failure without access to effective ART options, we suggest primary prophylaxis with itraconazole . For such patients, available data suggest primary prophylaxis decreases the risk of developing infection with _T. marneffei_ .黄艳玲
+
+====================================================================================================

@@ -1,0 +1,605 @@
+【0】Rabeprazole: Drug information
+
+【1】Contributor Disclosures
+
+【2】For abbreviations, symbols, and age group definitions show table
+
+【3】Brand Names: US
+
+【4】*   Aciphex;
+*   AcipHex Sprinkle \[DSC\]
+
+【5】Brand Names: Canada
+
+【6】*   APO-Rabeprazole \[DSC\];
+*   DOM-Rabeprazole EC \[DSC\];
+*   JAMP-RABEprazole;
+*   Pariet;
+*   PMS-Rabeprazole EC;
+*   PRO-Rabeprazole \[DSC\];
+*   RIVA-Rabeprazole EC \[DSC\];
+*   SANDOZ Rabeprazole;
+*   TARO-Rabeprazole;
+*   TEVA-Rabeprazole EC \[DSC\]
+
+【7】Pharmacologic Category
+
+【8】*   Proton Pump Inhibitor;
+*   Substituted Benzimidazole
+
+【9】Dosing: Adult
+
+【10】**Dosage guidance:**
+
+【11】**Clinical considerations:** Avoid coadministration with other antisecretory agents due to decreased acid-inhibitory effects. If another antisecretory agent is needed, allow a sufficient time interval between administration (ie, morning rabeprazole and bedtime H 2 RA) .
+
+【12】Aspiration prophylaxis in patients undergoing anesthesia
+
+【13】**Aspiration prophylaxis in patients undergoing anesthesia (off-label use):**
+
+【14】**Note:** May be considered in patients at high risk for aspiration .
+
+【15】**Oral:** 20 mg given the night before surgery and 20 mg given the morning of surgery .
+
+【16】Barrett esophagus
+
+【17】**Barrett esophagus (off-label use):**
+
+【18】**Oral:** 20 mg once daily; may increase the dose to 20 to 40 mg twice daily if needed to eliminate gastroesophageal reflux disease (GERD) symptoms or heal reflux esophagitis. Long-term maintenance therapy is recommended .
+
+【19】Dyspepsia, functional
+
+【20】**Dyspepsia, functional (off-label use):**
+
+【21】**Note:** For patients who test negative for _H. pylori_ infection or have persistent symptoms following _H. pylori_ eradication .
+
+【22】**Oral:** 20 mg once daily for up to 8 weeks ; can be continued for a longer duration in patients with symptom improvement. Some experts recommend attempting to discontinue every 6 to 12 months to minimize the long-term risk of therapy .
+
+【23】Eosinophilic esophagitis
+
+【24】**Eosinophilic esophagitis (off-label use): Oral:** 20 mg twice daily for an 8-week trial . Once 8-week trial is complete and remission is achieved, the dose may be gradually lowered to an individualized maintenance level . Some experts initiate with 20 mg once daily and increase to twice-daily dosing after 4 weeks if symptoms fail to improve .
+
+【25】Gastroesophageal reflux disease
+
+【26】**Gastroesophageal reflux disease (GERD):**
+
+【27】_Initial therapy:_
+
+【28】_**Mild/intermittent disease (<2 episodes/week) and no evidence of erosive esophagitis:**_
+
+【29】**Note:** Some experts reserve proton pump inhibitors (PPIs) for patients who have residual acid reflux symptoms despite twice-daily H 2 RA .
+
+【30】**Oral:** 20 mg once daily. Where available, may start with 10 mg once daily and increase to 20 mg once daily after 4 to 8 weeks, if necessary. Discontinue once asymptomatic for 8 weeks .
+
+【31】_**Severe and/or frequent symptoms (≥2 episodes/week), and/or erosive esophagitis:**_
+
+【32】**Oral:** 20 mg once daily; once symptoms are controlled, continue for at least 8 weeks . Subsequently, patients without erosive esophagitis or Barrett esophagus can taper to the lowest dose necessary to control symptoms (and/or switch to an H 2 RA blocker), then discontinue acid suppression once asymptomatic. Patients with erosive esophagitis or Barrett esophagus should continue long-term maintenance therapy with 20 mg once daily .
+
+【33】_Residual symptoms despite 20 mg once daily therapy:_
+
+【34】**Note:** Referral to a specialist is recommended.
+
+【35】**Oral:** Options include splitting the dose to 10 mg twice daily, increasing the dose to 20 mg twice daily, or switching to another PPI .
+
+【36】_Helicobacter pylori_ eradication
+
+【37】**_Helicobacter pylori_ eradication:**
+
+【38】**Oral:** 20 or 40 mg twice daily as part of an appropriate combination regimen with antibiotics. Dose depends on selected regimen .
+
+【39】Hypersecretory conditions
+
+【40】**Hypersecretory conditions (including Zollinger-Ellison syndrome): Oral:** Initial: 60 mg once daily. If needed, may titrate upward early in therapy, using divided doses as appropriate; once acid output has been controlled, gradual dose reductions are usually possible; continue as long as clinically indicated . Doses as high as 100 mg once daily and 60 mg twice daily have been used.
+
+【41】NSAID-induced ulcers, primary prevention
+
+【42】**NSAID (including aspirin)-induced ulcers, primary prevention (off-label use):**
+
+【43】**Note:** For select patients at moderate or high risk for GI toxicity. These include patients with a history of GI ulcer, on dual antiplatelet therapy (eg, aspirin plus a P2Y12 inhibitor), on concurrent anticoagulant therapy, or with multiple additional risk factors (eg, corticosteroid use, high nonsteroidal anti-inflammatory drug \[NSAID\] dose, _H. pylori_ infection) . For patients on dual antiplatelet therapy, some experts reserve prophylaxis for those with additional risk factors . If present, _H. pylori_ infection should be treated first .
+
+【44】**Oral:** 20 mg once daily for the duration of high-risk NSAID use. Where available, may consider 10 mg once daily .
+
+【45】Peptic ulcer disease, treatment and secondary prevention
+
+【46】**Peptic ulcer disease, treatment and secondary prevention:**
+
+【47】**Note:** For patients on NSAIDs (including aspirin), the NSAID should be discontinued, if possible . If present, _H. pylori_ infection should be treated first; uncomplicated _H. pylori_ –associated ulcers may not need PPI treatment beyond that included in the eradication regimen .
+
+【48】_Uncomplicated ulcer:_ **Oral:** 20 mg once daily. Duration depends on the size, location, and cause of ulcer and ranges from 4 to 8 weeks. In patients with refractory or recurrent disease, may increase the dose to 20 mg twice daily .
+
+【49】_Complicated ulcer (perforation, penetration, or gastric outlet obstruction) (off-label use):_ **Oral:** 20 mg twice daily for 2 weeks, followed by 20 mg once daily. Duration depends on the location and etiology of ulcer .
+
+【50】_Bleeding ulcer:_
+
+【51】Initial therapy: **Note:** Optimal pre-endoscopic PPI therapy is uncertain. Some experts suggest initiating therapy with a high-dose IV PPI using continuous or intermittent dosing in patients with suspected active upper GI bleed prior to endoscopy . Following endoscopy, for patients with high-risk stigmata of recent bleeding (eg, active bleed, visible vessel, adherent clot), a continuous infusion of an IV PPI for at least 72 hours before transitioning to an oral PPI is recommended . Patients without high-risk stigmata of recent bleeding can be switched to an oral PPI immediately after endoscopy .
+
+【52】Patients with high-risk stigmata of recent bleeding on endoscopy (following IV PPI therapy): **Oral:** 20 mg twice daily to complete 14 days of twice-daily PPI therapy, followed by 20 mg once daily .
+
+【53】Patients with no high-risk stigmata of recent bleeding on endoscopy: **Oral:** 20 mg once daily .
+
+【54】Duration: The total duration of treatment depends on size, location, and cause of the ulcer and ranges from 4 to 12 weeks .
+
+【55】_Maintenance therapy/secondary prevention (off-label use):_
+
+【56】**Note:** For select high-risk patients (eg, idiopathic ulcers, frequently recurrent ulcers, need for continued NSAID use).
+
+【57】**Oral:** 20 mg once daily for 12 to 24 weeks or as long as the NSAID is used ; where available, may consider 5 or 10 mg once daily .
+
+【58】**Discontinuation of therapy:** **Oral:** In patients who have received continuous therapy for >6 months, some experts gradually taper therapy until discontinuation to avoid worsening or rebound GERD symptoms. There is no single agreed upon discontinuation strategy. If the patient is receiving 20 mg once or twice daily, some experts decrease the dose by 50% every week. For patients receiving twice-daily dosing, the first dose reduction can be achieved by decreasing to once-daily AM dosing. Once patients are on the lowest dose for 1 week, discontinue therapy . An alternative strategy is to decrease the dose by 50% over 2 weeks to 4 weeks, then discontinue. If the patient is already on the lowest possible dose, alternate day therapy may be considered . In addition, as-needed therapy with an H 2 RA or an antacid can be used during the taper .
+
+【59】**Dosage adjustment for concomitant therapy:** Significant drug interactions exist, requiring dose/frequency adjustment or avoidance. Consult drug interactions database for more information.
+
+【60】Dosing: Kidney Impairment: Adult
+
+【61】No dosage adjustment necessary.
+
+【62】Dosing: Hepatic Impairment: Adult
+
+【63】Mild-to-moderate impairment (Child-Pugh class A or B): No dosage adjustment necessary.
+
+【64】Severe impairment (Child-Pugh class C): Avoid use; if treatment is necessary, monitor for adverse reactions.
+
+【65】Dosing: Older Adult
+
+【66】Refer to adult dosing. Avoid scheduled use for >8 weeks unless given for high-risk patients (eg, oral corticosteroid or chronic NSAID use), patients with erosive esophagitis, Barrett esophagitis, a pathological hypersecretory condition, or if the patient has demonstrated a need for maintenance therapy (eg, failure of drug discontinuation trial or failure of H 2 blockers) .
+
+【67】Dosing: Pediatric
+
+【68】Gastroesophageal reflux disease, symptomatic
+
+【69】**Gastroesophageal reflux disease, symptomatic:** **Note:** Guidelines recommend a 4- to 8-week treatment course; if improvement seen after 4 to 8 weeks, consider possible wean; if no response after 4 to 8 weeks, reevaluate diagnosis and consider referral to pediatric GI specialist .
+
+【70】Infants: Limited data available: Oral: Sprinkle capsules: 5 to 10 mg once daily; dosing based on a double-blind, placebo-controlled trial which randomized patients aged 1 to 11 months (n=268) with symptomatic GERD to 10 mg, 5 mg, or placebo (n=88, n=90, n=90, respectively); the study found no difference in the degree of improvement with rabeprazole (at any dose) compared to those receiving placebo .
+
+【71】Children ≤11 years: Oral: Sprinkle capsules:
+
+【72】<15 kg: 5 mg once daily; if inadequate response may increase to 10 mg once daily.
+
+【73】≥15 kg: 10 mg once daily; higher doses of 20 mg/day have also been described .
+
+【74】Children ≥12 years and Adolescents: Oral: Tablets: 20 mg once daily.
+
+【75】_Helicobacter pylori_ eradication
+
+【76】_**Helicobacter pylori**_ **eradication:** Limited data available: **Note:** Usual duration of therapy is 14 days as part of triple therapy; use in combination with 2 antimicrobials (eg, clarithromycin, metronidazole, amoxicillin); preferred agents determined by susceptibility. Bismuth may be added to regimens as an alternative if resistance is present or susceptibility is unknown .
+
+【77】Children and Adolescents <16 years: **Note:** Dosing based on a pharmacokinetic modeling study to determine a dose that achieved AUC comparable to adults receiving 20 mg twice daily .
+
+【78】6 to <10 kg: Oral: 10 mg twice daily.
+
+【79】10 to <30 kg: Oral: 15 mg twice daily.
+
+【80】≥30 kg: Oral: 20 mg twice daily.
+
+【81】**Discontinuation of therapy:** Oral: Based on experience in adults, some experts recommend a step-down approach in order to avoid worsening or rebound symptoms. One recommendation is to decrease the dose by 50% over 2 to 4 weeks. If the patient is already on the lowest possible dose, alternate day therapy may be considered. If symptoms worsen during treatment or after discontinuation, patient should be reevaluated .
+
+【82】**Dosage adjustment for concomitant therapy:** Significant drug interactions exist, requiring dose/frequency adjustment or avoidance. Consult drug interactions database for more information.
+
+【83】Dosing: Kidney Impairment: Pediatric
+
+【84】Children and Adolescents: There are no dosage adjustments provided in the manufacturer's labeling; however, pharmacokinetic studies in adults with end-stage renal disease (CrCl ≤5 mL/minute) on hemodialysis showed no clinically significant pharmacokinetic differences.
+
+【85】Dosing: Hepatic Impairment: Pediatric
+
+【86】Children and Adolescents:
+
+【87】Mild to moderate: No dosage adjustments are recommended.
+
+【88】Severe impairment: Avoid use; if treatment is necessary, monitor for adverse reactions.
+
+【89】Adverse Reactions
+
+【90】The following adverse drug reactions and incidences are derived from product labeling unless otherwise specified. As reported for adults unless otherwise specified.
+
+【91】\>10%: Gastrointestinal: Abdominal pain (children: 16%; adolescents and adults: ≤4%), diarrhea (children and adolescents: 5% to 21%; adults: <2%), vomiting (children: 10% to 14%; adolescents: 4%)
+
+【92】1% to 10%:
+
+【93】Cardiovascular: Peripheral edema (<2%)
+
+【94】Gastrointestinal: Constipation , flatulence , nausea (children and adolescents: 2% to 9%), xerostomia (<2%)
+
+【95】Hepatic: Hepatic encephalopathy (<2%), hepatitis (<2%), increased liver enzymes (<2%)
+
+【96】Infection: Infection 
+
+【97】Nervous system: Dizziness (<2%), headache (children and adolescents: 5% to 10%; adults: <2%), pain 
+
+【98】Neuromuscular & skeletal: Arthralgia (<2%), myalgia (<2%)
+
+【99】Respiratory: Pharyngitis 
+
+【100】Postmarketing:
+
+【101】Dermatologic: Acute generalized exanthematous pustulosis, bullous rash, cutaneous lupus erythematous, erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis
+
+【102】Endocrine & metabolic: Hyperammonemia, hypocalcemia, hypokalemia, hypomagnesemia, hyponatremia, increased thyroid stimulating hormone level
+
+【103】Gastrointestinal: _Clostridioides difficile-_ associated diarrhea, colitis (microscopic) (Verhaegh 2016)
+
+【104】Genitourinary: Erectile dysfunction
+
+【105】Hematologic & oncologic: Agranulocytosis, hemolytic anemia, leukopenia, pancytopenia, polyp (fundic gland), thrombocytopenia
+
+【106】Hepatic: Hepatotoxicity (idiosyncratic) (Chalasani 2014), jaundice
+
+【107】Hypersensitivity: Anaphylaxis, angioedema, drug reaction with eosinophilia and systemic symptoms
+
+【108】Nervous system: Coma, delirium, disorientation, vertigo
+
+【109】Neuromuscular & skeletal: Bone fracture, rhabdomyolysis, systemic lupus erythematosus
+
+【110】Ophthalmic: Blurred vision
+
+【111】Renal: Interstitial nephritis (including acute interstitial nephritis), kidney disease (chronic; Lazarus 2016)
+
+【112】Respiratory: Pneumonia (interstitial)
+
+【113】Contraindications
+
+【114】Hypersensitivity (eg, anaphylaxis, anaphylactic shock, angioedema, bronchospasm, acute tubulointerstitial nephritis, urticaria) to rabeprazole, other substituted benzimidazoles, or any component of the formulation; concomitant use with rilpivirine-containing products.
+
+【115】Significant drug interactions exist, requiring dose/frequency adjustment or avoidance. Consult drug interactions database for more information.
+
+【116】Warnings/Precautions
+
+【117】**_Concerns related to adverse effects:_**
+
+【118】• Atrophic gastritis: Long-term omeprazole therapy has caused atrophic gastritis (by biopsy); this may also occur with rabeprazole.
+
+【119】• Carcinoma: No reports of adenomatoid, dysplastic or neoplastic changes of enterochromaffin-like (ECL) cells in the gastric mucosa have occurred.
+
+【120】• _Clostridioides difficile_ \-associated diarrhea (CDAD): Use of proton pump inhibitors (PPIs) may increase risk of CDAD, especially in hospitalized patients; consider CDAD diagnosis in patients with persistent diarrhea that does not improve. Use the lowest dose and shortest duration of PPI therapy appropriate for the condition being treated.
+
+【121】• Cutaneous and systemic lupus erythematosus: Has been reported as new onset or exacerbation of existing autoimmune disease; most cases were cutaneous lupus erythematosus (CLE), most commonly, subacute CLE (occurring within weeks to years after continuous therapy). Systemic lupus erythematosus (SLE) is less common (typically occurs within days to years after initiating treatment) and occurred primarily in young adults up to the elderly. Discontinue therapy if signs or symptoms of CLE or SLE occur and refer to specialist for evaluation; most patients improve 4 to 12 weeks after discontinuation of rabeprazole.
+
+【122】• Dermatologic reactions: Severe cutaneous adverse reactions, including acute generalized exanthematous pustulosis, drug reaction with eosinophilia and systemic symptoms, Stevens-Johnson syndrome, and toxic epidermal necrolysis, have been reported.
+
+【123】• Fractures: Increased incidence of osteoporosis-related bone fractures of the hip, spine, or wrist may occur with proton pump inhibitor (PPI) therapy. Patients on high-dose (multiple daily doses) or long-term therapy (≥1 year) should be monitored. Use the lowest effective dose for the shortest duration of time, use vitamin D and calcium supplementation, and follow appropriate guidelines to reduce risk of fractures in patients at risk.
+
+【124】• Fundic gland polyps: Use of PPIs increases risk of fundic gland polyps, especially with long term use (>1 year). May occur without symptoms but nausea, vomiting, or abdominal pain may occur; gastrointestinal bleeding and/or anemia may occur with ulcerated polyps. Diagnosis of polyps may also increase risk for small intestinal blockage. Use the lowest dose and shortest duration of PPI therapy appropriate for the condition being treated.
+
+【125】• Gastrointestinal infection (eg, _Salmonella_ , _Campylobacter_ ): Use of proton pump inhibitors may increase risk of these infections.
+
+【126】• Hypomagnesemia: Reported rarely, usually with prolonged PPI use of ≥3 months (most cases >1 year of therapy). May be symptomatic or asymptomatic; severe cases may cause tetany, seizures, and cardiac arrhythmias. Hypomagnesemia may lead to or exacerbate hypocalcemia in patients at risk (eg, hypoparathyroidism). Hypomagnesemia may also lead to hypokalemia. Hypomagnesemia and hypocalcemia may be corrected by magnesium/calcium supplementation, although discontinuation of rabeprazole may be necessary.
+
+【127】• Tubulointerstitial nephritis: Acute tubulointerstitial nephritis has been observed in patients taking PPIs; may occur at any time during therapy. Patients may present with symptomatic hypersensitivity reaction to nonspecific symptoms of impaired renal function (eg, anorexia, malaise, nausea); may be diagnosed with biopsy and in the absence of extra-renal manifestations (eg, fever, rash, arthralgia). Discontinue and evaluate patients if acute tubulointerstitial nephritis is suspected.
+
+【128】• Vitamin B 12 deficiency: Prolonged treatment (>3 years) may lead to vitamin B 12 malabsorption and subsequent vitamin B 12 deficiency. The magnitude of the deficiency is dose-related and the association is stronger in females and those younger in age (<30 years of age); prevalence is decreased after discontinuation of therapy (Lam 2013).
+
+【129】**_Disease-related concerns:_**
+
+【130】• Gastric malignancy: Relief of symptoms does not preclude the presence of a gastric malignancy.
+
+【131】• Hepatic impairment: Avoid use in patients with severe hepatic impairment; if treatment is necessary monitor for adverse reactions.
+
+【132】**_Concurrent drug therapy issues:_**
+
+【133】• Clopidogrel: PPIs may diminish the therapeutic effect of clopidogrel, thought to be due to reduced formation of the active metabolite of clopidogrel. The manufacturer of clopidogrel recommends either avoidance of both omeprazole (even when scheduled 12 hours apart) and esomeprazole or use of a PPI with comparatively less effect on the active metabolite of clopidogrel. Avoidance of rabeprazole appears prudent due to potent _in vitro_ CYP2C19 inhibition (Li 2004) and lack of sufficient comparative _in vivo_ studies with other PPIs. In contrast to these warnings, others have recommended the continued use of PPIs, regardless of the degree of inhibition, in patients with a history of GI bleeding or multiple risk factors for GI bleeding who are also receiving clopidogrel since no evidence has established clinically meaningful differences in outcome; however, a clinically significant interaction cannot be excluded in those who are poor metabolizers of clopidogrel .
+
+【134】**_Other warnings/precautions:_**
+
+【135】• Appropriate use: _Helicobacter pylori_ eradication: Short-term combination therapy (≤7 days) has been associated with a higher incidence of treatment failure. The American College of Gastroenterology recommends 10 to 14 days of therapy (triple or quadruple) for eradication of _H. pylori_ (Chey 2017).
+
+【136】Warnings: Additional Pediatric Considerations
+
+【137】Use of gastric acid inhibitors, including proton pump inhibitors (PPIs) and H 2 blockers, has been associated with an increased risk for development of acute gastroenteritis and community-acquired pneumonia in pediatric patients 4 to 36 months of age (Canani 2006). Routine use in preterm infants is not recommended (AAP \[Eichenwald 2018\]).
+
+【138】Gastric acid suppression medications have been associated with an increase in _Clostridioides difficile_ infection (CDI) and recurrent CDI in pediatric patients (Nylund 2014). In a retrospective, observational, case control study of pediatric patients 1 to 18 years old who were hospitalized for diarrhea and abdominal pain, the use of PPIs was significantly higher in patients who tested positive for _C. difficile_ compared to patients who tested negative for _C. difficile_  (Turco 2010). Consider CDI diagnosis in patients with persistent diarrhea that does not improve. Use the lowest dose and shortest duration of PPI therapy appropriate for the condition being treated.
+
+【139】A large retrospective cohort study reviewed records for patients with a low baseline risk for fractures who were initiated on acid suppression therapy in the first year of life and evaluated the fracture risk in the first 5 years of life; a total of 97,286 patients were prescribed acid suppression therapy; 73% were prescribed H 2 blockers, 9% were prescribed PPIs, and 18% were prescribed both. H 2 blocker use alone was not associated with an increased fracture hazard; however, PPI use was associated with a 21% increase and use of PPI plus H 2 blocker was associated with a 30% increase. Longer duration of therapy and earlier age at initiation seemed to also increase the fracture hazard. Study findings do not establish a causal relationship between PPI use and fractures. If acid suppression therapy is necessary in the first year of life, limiting therapy to a single drug and limiting the duration should be considered (Malchodi 2019). A second large cohort study reviewed records for 115,933 children <18 years initiated on a PPI. PPI initiation was associated with a statistically significant 11% relative increase in risk of any fracture in patients ≥6 years. The increased risk also seemed to be more pronounced with a longer cumulative duration of PPI use (Wang 2020).
+
+【140】Dosage Forms: US
+
+【141】Excipient information presented when available (limited, particularly for generics); consult specific product labeling. \[DSC\] = Discontinued product
+
+【142】Capsule Sprinkle, Oral, as sodium:
+
+【143】AcipHex Sprinkle: 5 mg \[DSC\] \[contains carrageenan, fd&c blue #2 (indigo carm) aluminum lake\]
+
+【144】AcipHex Sprinkle: 10 mg \[DSC\] \[contains carrageenan, fd&c yellow #6 (sunset yellow)\]
+
+【145】Generic: 10 mg
+
+【146】Tablet Delayed Release, Oral, as sodium:
+
+【147】Aciphex: 20 mg
+
+【148】Generic: 20 mg
+
+【149】Generic Equivalent Available: US
+
+【150】Pricing: US
+
+【151】**Capsule, sprinkles** (RABEprazole Sodium Oral)
+
+【152】10 mg (per each): $49.67
+
+【153】**Tablet, EC** (Aciphex Oral)
+
+【154】20 mg (per each): $36.93
+
+【155】**Tablet, EC** (RABEprazole Sodium Oral)
+
+【156】20 mg (per each): $10.19 - $11.46
+
+【157】**Disclaimer:** A representative AWP (Average Wholesale Price) price or price range is provided as reference price only. A range is provided when more than one manufacturer's AWP price is available and uses the low and high price reported by the manufacturers to determine the range. The pricing data should be used for benchmarking purposes only, and as such should not be used alone to set or adjudicate any prices for reimbursement or purchasing functions or considered to be an exact price for a single product and/or manufacturer. Medi-Span expressly disclaims all warranties of any kind or nature, whether express or implied, and assumes no liability with respect to accuracy of price or price range data published in its solutions. In no event shall Medi-Span be liable for special, indirect, incidental, or consequential damages arising from use of price or price range data. Pricing data is updated monthly.
+
+【158】Dosage Forms: Canada
+
+【159】Excipient information presented when available (limited, particularly for generics); consult specific product labeling.
+
+【160】Tablet Delayed Release, Oral:
+
+【161】Pariet: 10 mg
+
+【162】Generic: 10 mg
+
+【163】Tablet Delayed Release, Oral, as sodium:
+
+【164】Pariet: 20 mg
+
+【165】Generic: 20 mg
+
+【166】Administration: Adult
+
+【167】**Oral:** May be administered with an antacid.
+
+【168】Capsules: Administer 30 minutes before a meal. Open capsule and sprinkle entire contents on a small amount of soft food  or empty contents into a small amount of liquid (eg, infant formula, apple juice, pediatric electrolyte solution); food or liquid should be at or below room temperature. Do not swallow capsule whole, or chew or crush granules; administer whole dose within 15 minutes of preparation (do not store for future use).
+
+【169】Tablets: Swallow whole; do not crush, split, or chew; may administer with or without food. However, when used for the treatment of duodenal ulcers, administer after a meal; when used for the eradication of _H. pylori_ , administer with the morning and evening meals.
+
+【170】Bariatric surgery: Tablet, delayed release: Some institutions may have specific protocols that conflict with these recommendations; refer to institutional protocols as appropriate. Delayed-release tablet should be swallowed whole. Do not chew or crush. Oral capsule sprinkle formulation is available. If safety and efficacy can be effectively monitored, no change in formulation or administration is required after bariatric surgery; however, for patients with refractory acid reflux, esophagitis, Barrett esophagus, or ulcer, consider switching to the capsule sprinkle formulation that can be opened and administered with food or liquid. If there is inadequate response, consider escalation of therapy to twice a day or conversion to food-independent proton pump inhibitor (omeprazole/sodium bicarbonate or dexlansoprazole).
+
+【171】Administration: Pediatric
+
+【172】Oral: May administer with an antacid.
+
+【173】Sprinkle capsules: Administer 30 minutes before a meal. Open capsule and sprinkle contents on a small amount of soft food (eg, applesauce, fruit- or vegetable-based baby food, yogurt) or empty contents into a small amount of liquid (eg, infant formula, apple juice, pediatric electrolyte solution); food or liquid should be at or below room temperature. Do not swallow capsule whole or chew or crush granules; administer whole dose within 15 minutes of preparation; do not store for future use.
+
+【174】Tablets: May be administered without regard to food; best if taken 30 minutes before a meal when treating GERD . Tablets should be swallowed whole; do not chew, crush, or split.
+
+【175】Medication Guide and/or Vaccine Information Statement (VIS)
+
+【176】An FDA-approved patient medication guide, which is available with the product information and as follows, must be dispensed with this medication:
+
+【177】Use: Labeled Indications
+
+【178】**Gastroesophageal reflux disease (GERD):**
+
+【179】_Treatment of erosive or ulcerative esophagitis :_ Short-term treatment in the healing and symptomatic relief of erosive or ulcerative esophagitis in adult patients.
+
+【180】_Maintenance healing of erosive or ulcerative esophagitis:_ Maintenance of healing of erosive or ulcerative esophagitis and reduction in relapse rates of heartburn symptoms in adult patients.
+
+【181】_Symptomatic GERD:_ Treatment of heartburn and other symptoms associated with GERD in children ≥12 years of age, adolescents, and adult patients .
+
+【182】**_Helicobacter pylori_ eradication  in adults as part of an appropriate combination regiment with antibiotics.
+
+【183】**Pathological hypersecretory conditions :** Long-term treatment of pathological hypersecretory conditions, including Zollinger-Ellison syndrome in adults.
+
+【184】**Peptic ulcer disease, treatment of uncomplicated duodenal ulcers  treatment in the healing and symptomatic relief of duodenal ulcers in adults.
+
+【185】**Note:** Patients diagnosed with a duodenal ulcer should be tested for _H. pylori_ infection and, if positive, offered _H. pylori_ treatment with a defined course of combined antibiotic and proton pump inhibitor therapy (ACG \[Chey 2017\]).
+
+【186】Use: Off-Label: Adult
+
+【187】Aspiration prophylaxis in patients undergoing anesthesia; Barrett esophagus; Dyspepsia, functional; Eosinophilic esophagitis; Nonsteroidal anti-inflammatory drug (including aspirin)–induced ulcers, primary prevention; Peptic ulcer disease, maintenance therapy/secondary prevention; Peptic ulcer disease, treatment of bleeding ulcers; Peptic ulcer disease, treatment of complicated ulcers; Peptic ulcer disease, treatment of uncomplicated gastric ulcers
+
+【188】Medication Safety Issues
+
+【189】Sound-alike/look-alike issues:
+
+【190】AcipHex may be confused with Acephen, Accupril, Aricept, pHisoHex
+
+【191】RABEprazole may be confused with ARIPiprazole, donepezil, lansoprazole, omeprazole, raloxifene
+
+【192】Older Adult: High-Risk Medication:
+
+【193】Beers Criteria: Rabeprazole is identified in the Beers Criteria as a potentially inappropriate medication to be avoided (as scheduled use for >8 weeks) in patients 65 years and older due to its risk of _C. difficile_ infection, pneumonia, GI malignancies, and bone loss/fractures _unless_ given for high-risk patients (eg, oral corticosteroid or chronic NSAID use), patients with erosive esophagitis, Barrett's esophagitis, a pathological hypersecretory condition, or if the patient has demonstrated a need for maintenance therapy (eg, failure of drug discontinuation trial or failure of H 2 blockers) (Beers Criteria \[AGS 2023\]).
+
+【194】Metabolism/Transport Effects
+
+【195】**Substrate** of CYP2C19 (minor), CYP3A4 (minor); **Note:** Assignment of Major/Minor substrate status based on clinically relevant drug interaction potential; **Inhibits** OAT1/3
+
+【196】Drug Interactions  
+
+【197】**Note** : Interacting drugs may **not be individually listed below** if they are part of a group interaction (eg, individual drugs within “CYP3A4 Inducers \[Strong\]” are NOT listed). For a complete list of drug interactions by individual drug name and detailed management recommendations, use the drug interactions program by clicking on the “Launch drug interactions program” link above.
+
+【198】Acalabrutinib: Inhibitors of the Proton Pump (PPIs and PCABs) may decrease the serum concentration of Acalabrutinib. This interaction is only applicable to acalabrutinib capsules. _Risk X: Avoid combination_
+
+【199】Afatinib: Inhibitors of the Proton Pump (PPIs and PCABs) may diminish the therapeutic effect of Afatinib. _Risk C: Monitor therapy_
+
+【200】Amphetamine: Inhibitors of the Proton Pump (PPIs and PCABs) may increase the absorption of Amphetamine. _Risk C: Monitor therapy_
+
+【201】Atazanavir: Inhibitors of the Proton Pump (PPIs and PCABs) may decrease the serum concentration of Atazanavir. Management: Avoid use in treatment-experienced patients. In treatment-naive patients, administer boosted atazanavir 12 hours after the PPI and the PPI dose should not exceed the equivalent of 20 mg omeprazole. Monitor for reduced atazanavir efficacy. _Risk D: Consider therapy modification_
+
+【202】Belumosudil: Inhibitors of the Proton Pump (PPIs and PCABs) may decrease the serum concentration of Belumosudil. Management: Increase the dose of belumosudil to 200 mg twice daily when coadministered with inhibitors of the proton pump (PPIs and PCABs). _Risk D: Consider therapy modification_
+
+【203】Bisphosphonate Derivatives: Inhibitors of the Proton Pump (PPIs and PCABs) may diminish the therapeutic effect of Bisphosphonate Derivatives. _Risk C: Monitor therapy_
+
+【204】Bosutinib: Inhibitors of the Proton Pump (PPIs and PCABs) may decrease the serum concentration of Bosutinib. Management: Consider alternatives to proton pump inhibitors and potassium-competitive acid blockers, such as short-acting antacids or histamine-2 receptor antagonists. Administer alternative agents more than 2 hours before or after bosutinib. _Risk D: Consider therapy modification_
+
+【205】Capecitabine: Inhibitors of the Proton Pump (PPIs and PCABs) may diminish the therapeutic effect of Capecitabine. _Risk C: Monitor therapy_
+
+【206】Cefditoren: Inhibitors of the Proton Pump (PPIs and PCABs) may decrease the serum concentration of Cefditoren. _Risk X: Avoid combination_
+
+【207】Cefpodoxime: Inhibitors of the Proton Pump (PPIs and PCABs) may decrease the serum concentration of Cefpodoxime. _Risk C: Monitor therapy_
+
+【208】Cefuroxime: Inhibitors of the Proton Pump (PPIs and PCABs) may decrease the absorption of Cefuroxime. Management: Avoid concomitant use of oral cefuroxime axetil and proton pump inhibitors (PPIs) or potassium-competitive acid blockers (PCABs) when possible. If combined, ensure oral cefuroxime axetil is taken with food to minimize the magnitude of this interaction. _Risk D: Consider therapy modification_
+
+【209】Clofarabine: OAT1/3 Inhibitors may increase the serum concentration of Clofarabine. _Risk C: Monitor therapy_
+
+【210】Cysteamine (Systemic): Inhibitors of the Proton Pump (PPIs and PCABs) may diminish the therapeutic effect of Cysteamine (Systemic). _Risk C: Monitor therapy_
+
+【211】Dacomitinib: Inhibitors of the Proton Pump (PPIs and PCABs) may decrease the serum concentration of Dacomitinib. Management: Avoid concurrent use of dacomitinib with PPIs and PCABs. Antacids may be used. Histamine H2-receptor antagonists (HR2A) may be used if dacomitinib is given at least 6 hours before or 10 hours after the H2RA. _Risk X: Avoid combination_
+
+【212】Dasatinib: Inhibitors of the Proton Pump (PPIs and PCABs) may decrease the serum concentration of Dasatinib. Management: Antacids (taken 2 hours before or after dasatinib administration) can be used in place of PPIs or PCABs if some acid-reducing therapy is needed. _Risk X: Avoid combination_
+
+【213】Dextroamphetamine: Inhibitors of the Proton Pump (PPIs and PCABs) may increase the absorption of Dextroamphetamine. Specifically, the dextroamphetamine absorption rate from mixed amphetamine salt extended release (XR) capsules may be increased in the first hours after dosing. _Risk C: Monitor therapy_
+
+【214】Dichlorphenamide: OAT1/3 Inhibitors may increase the serum concentration of Dichlorphenamide. _Risk C: Monitor therapy_
+
+【215】Doxycycline: Inhibitors of the Proton Pump (PPIs and PCABs) may decrease the bioavailability of Doxycycline. _Risk C: Monitor therapy_
+
+【216】Enoxacin: Inhibitors of the Proton Pump (PPIs and PCABs) may decrease the absorption of Enoxacin. _Risk C: Monitor therapy_
+
+【217】Erlotinib: Inhibitors of the Proton Pump (PPIs and PCABs) may decrease the serum concentration of Erlotinib. _Risk X: Avoid combination_
+
+【218】Gefitinib: Inhibitors of the Proton Pump (PPIs and PCABs) may decrease the serum concentration of Gefitinib. Management: Avoid use of inhibitors of the proton pump (PPIs or PCABs) with gefitinib when possible. If required, administer gefitinib 12 hours after the PPI/PCAB or 12 hours before the next dose of the PPI/PCAB. Closely monitor clinical response to gefitinib. _Risk D: Consider therapy modification_
+
+【219】Immune Checkpoint Inhibitors (Anti-PD-1, -PD-L1, and -CTLA4 Therapies): Inhibitors of the Proton Pump (PPIs and PCABs) may diminish the therapeutic effect of Immune Checkpoint Inhibitors (Anti-PD-1, -PD-L1, and -CTLA4 Therapies). _Risk C: Monitor therapy_
+
+【220】Indinavir: Inhibitors of the Proton Pump (PPIs and PCABs) may decrease the serum concentration of Indinavir. _Risk C: Monitor therapy_
+
+【221】Infigratinib: Inhibitors of the Proton Pump (PPIs and PCABs) may decrease serum concentrations of the active metabolite(s) of Infigratinib. Inhibitors of the Proton Pump (PPIs and PCABs) may decrease the serum concentration of Infigratinib. _Risk X: Avoid combination_
+
+【222】Itraconazole: Inhibitors of the Proton Pump (PPIs and PCABs) may increase the serum concentration of Itraconazole. This specifically applies to the super bioavailable itraconazole products (eg, Tolsura brand). Inhibitors of the Proton Pump (PPIs and PCABs) may decrease the serum concentration of Itraconazole. This specifically applies to the non-super bioavailable itraconazole products (eg, Sporanox brand and its generics). Management: Exposure to Tolsura brand itraconazole may be increased by PPIs or PCABs ; consider itraconazole dose reduction. Exposure to Sporanox brand itraconazole may be decreased. Give Sporanox brand itraconazole at least 2 hrs before or 2 hrs after PPIs or PCABs. _Risk D: Consider therapy modification_
+
+【223】Ketoconazole (Systemic): Inhibitors of the Proton Pump (PPIs and PCABs) may decrease the absorption of Ketoconazole (Systemic). Ketoconazole (Systemic) may increase the serum concentration of Inhibitors of the Proton Pump (PPIs and PCABs). Management: Administer ketoconazole with an acidic beverage, such as non-diet cola, to increase gastric acidity and improve absorption if concomitant use with proton pump inhibitors or potassium-competitive acid blockers is necessary. _Risk D: Consider therapy modification_
+
+【224】Ledipasvir: Inhibitors of the Proton Pump (PPIs and PCABs) may decrease the serum concentration of Ledipasvir. Management: PPI or PCAB doses equivalent to omeprazole 20 mg or lower may be given with ledipasvir under fasted conditions. Use of ledipasvir with higher doses or with food, or 2 hours after a these agents, may reduce ledipasvir bioavailability. _Risk D: Consider therapy modification_
+
+【225】Levoketoconazole: Inhibitors of the Proton Pump (PPIs and PCABs) may decrease the absorption of Levoketoconazole. Levoketoconazole may increase the serum concentration of Inhibitors of the Proton Pump (PPIs and PCABs). _Risk X: Avoid combination_
+
+【226】Lumacaftor and Ivacaftor: May decrease the serum concentration of Inhibitors of the Proton Pump (PPIs and PCABs). _Risk C: Monitor therapy_
+
+【227】Methotrexate: Inhibitors of the Proton Pump (PPIs and PCABs) may increase the serum concentration of Methotrexate. Management: Consider temporarily interrupting PPI or PCAB therapy in patients receiving high-dose methotrexate. If coadministered, monitor for increased methotrexate toxicity (eg, mucositis, myalgias) and/or delayed methotrexate elimination. _Risk D: Consider therapy modification_
+
+【228】Multivitamins/Minerals (with ADEK, Folate, Iron): Inhibitors of the Proton Pump (PPIs and PCABs) may decrease the serum concentration of Multivitamins/Minerals (with ADEK, Folate, Iron). Specifically, the absorption of iron may be decreased. _Risk C: Monitor therapy_
+
+【229】Mycophenolate: Inhibitors of the Proton Pump (PPIs and PCABs) may decrease the serum concentration of Mycophenolate. Specifically, concentrations of the active mycophenolic acid may be reduced. _Risk C: Monitor therapy_
+
+【230】Nelfinavir: Inhibitors of the Proton Pump (PPIs and PCABs) may decrease serum concentrations of the active metabolite(s) of Nelfinavir. Inhibitors of the Proton Pump (PPIs and PCABs) may decrease the serum concentration of Nelfinavir. Management: Due to potentially significant reductions in nelfinavir exposure, avoid concurrent use of nelfinavir with a PPI or PCAB when possible. If unavoidable, consider PPI or PCAB use for a short duration (less than 30 days) and closely monitor viral load. _Risk D: Consider therapy modification_
+
+【231】Neratinib: Inhibitors of the Proton Pump (PPIs and PCABs) may decrease the serum concentration of Neratinib. Specifically, proton pump inhibitors may reduce neratinib absorption. _Risk X: Avoid combination_
+
+【232】Nilotinib: Inhibitors of the Proton Pump (PPIs and PCABs) may decrease the serum concentration of Nilotinib. Management: Avoid this combination. Histamine H2 receptor antagonists (H2RAs) given 10 hours before or 2 hours after nilotinib, or antacids given 2 hours before or 2 hours after nilotinib are acceptable alternatives. _Risk D: Consider therapy modification_
+
+【233】Nirogacestat: Inhibitors of the Proton Pump (PPIs and PCABs) may decrease the serum concentration of Nirogacestat. _Risk X: Avoid combination_
+
+【234】Octreotide: Inhibitors of the Proton Pump (PPIs and PCABs) may decrease the serum concentration of Octreotide. _Risk C: Monitor therapy_
+
+【235】Palbociclib: Inhibitors of the Proton Pump (PPIs and PCABs) may diminish the therapeutic effect of Palbociclib. Specifically, this has been reported with the use of palbociclib capsules. Inhibitors of the Proton Pump (PPIs and PCABs) may decrease the serum concentration of Palbociclib. Specifically, this may occur with the use of palbociclib capsules, and to the greatest extent when taken without food. Management: Carefully evaluate potential risks and benefits of coadministration of palbociclib capsules and proton pump inhibitors or potassium-competitive acid blockers due to the risk of reduced palbociclib efficacy. Palbociclib capsules should be taken with food. _Risk D: Consider therapy modification_
+
+【236】PAZOPanib: Inhibitors of the Proton Pump (PPIs and PCABs) may decrease the serum concentration of PAZOPanib. _Risk X: Avoid combination_
+
+【237】PEMEtrexed: Inhibitors of the Proton Pump (PPIs and PCABs) may enhance the adverse/toxic effect of PEMEtrexed. Specifically, the risk of hematological toxicities may be increased. _Risk C: Monitor therapy_
+
+【238】Pexidartinib: Inhibitors of the Proton Pump (PPIs and PCABs) may decrease the serum concentration of Pexidartinib. Management: Avoid this combination. If acid-reduction is needed, consider administering an antacid 2 hours before or after pexidartinib, or administer pexidartinib 2 hours before or 10 hours after an H2 receptor antagonist. _Risk X: Avoid combination_
+
+【239】Posaconazole: Inhibitors of the Proton Pump (PPIs and PCABs) may decrease the serum concentration of Posaconazole. Management: Avoid coadministration of PPIs or PCABs and posaconazole oral suspension. Posaconazole delayed-release tablets do not appear to be sensitive to this interaction and do not required dose adjustment if coadministered with PPIs or PCABs. _Risk D: Consider therapy modification_
+
+【240】Rilpivirine: Inhibitors of the Proton Pump (PPIs and PCABs) may decrease the serum concentration of Rilpivirine. _Risk X: Avoid combination_
+
+【241】Riociguat: Inhibitors of the Proton Pump (PPIs and PCABs) may decrease the serum concentration of Riociguat. _Risk C: Monitor therapy_
+
+【242】Risedronate: Inhibitors of the Proton Pump (PPIs and PCABs) may diminish the therapeutic effect of Risedronate. Inhibitors of the Proton Pump (PPIs and PCABs) may increase the serum concentration of Risedronate. This applies specifically to use of delayed-release risedronate. Management: Coadministration of PPIs or PCABs with delayed-release risedronate formulations is not recommended. Limit PPI/PCAB dose and duration during coadministration with risedronate as possible. Patients over age 70 are at higher risk of adverse effects. _Risk D: Consider therapy modification_
+
+【243】Saquinavir: Inhibitors of the Proton Pump (PPIs and PCABs) may increase the serum concentration of Saquinavir. _Risk C: Monitor therapy_
+
+【244】Secretin: Inhibitors of the Proton Pump (PPIs and PCABs) may diminish the diagnostic effect of Secretin. Specifically, use of PPIs may cause a hyperresponse in gastrin secretion in response to secretin stimulation testing, falsely suggesting gastrinoma. Management: Avoid concomitant use of PPIs or PCABs and secretin, and discontinue PPI or PCAB several weeks prior to secretin administration, with the duration of separation determined by the specific acid suppressant. See full monograph for details. _Risk D: Consider therapy modification_
+
+【245】Selpercatinib: Inhibitors of the Proton Pump (PPIs and PCABs) may decrease the serum concentration of Selpercatinib. Management: Coadministration of selpercatinib and PPIs or PCABs should be avoided. If coadministration cannot be avoided, selpercatinib and PPIs or PCABs should be administered simultaneously with food. _Risk D: Consider therapy modification_
+
+【246】SORAfenib: Inhibitors of the Proton Pump (PPIs and PCABs) may decrease the absorption of SORAfenib. _Risk C: Monitor therapy_
+
+【247】Sotorasib: Inhibitors of the Proton Pump (PPIs and PCABs) may decrease the serum concentration of Sotorasib. _Risk X: Avoid combination_
+
+【248】Sparsentan: Inhibitors of the Proton Pump (PPIs and PCABs) may decrease the serum concentration of Sparsentan. _Risk X: Avoid combination_
+
+【249】Sulpiride: Inhibitors of the Proton Pump (PPIs and PCABs) may decrease the serum concentration of Sulpiride. Management: Consider alternatives to this combination due to the possibility of reduced sulpiride absorption and efficacy. If gastric acid suppressing therapy is required, consider use of antacids administered at least 2 hours after sulpiride. _Risk D: Consider therapy modification_
+
+【250】Tacrolimus (Systemic): Inhibitors of the Proton Pump (PPIs and PCABs) may increase the serum concentration of Tacrolimus (Systemic). _Risk C: Monitor therapy_
+
+【251】Technetium Tc 99m Sestamibi: Inhibitors of the Proton Pump (PPIs and PCABs) may diminish the diagnostic effect of Technetium Tc 99m Sestamibi. Management: Consider holding/stopping proton pump inhibitor therapy for at least 3 days prior to the use technetium Tc 99m sestamibi in cardiac imaging procedures. _Risk D: Consider therapy modification_
+
+【252】Technetium Tc 99m Tetrofosmin: Inhibitors of the Proton Pump (PPIs and PCABs) may diminish the diagnostic effect of Technetium Tc 99m Tetrofosmin. _Risk C: Monitor therapy_
+
+【253】Thiazolidinediones: Inhibitors of the Proton Pump (PPIs and PCABs) may enhance the adverse/toxic effect of Thiazolidinediones. Specifically, the risk of osteoporosis or fracture may be increased. _Risk C: Monitor therapy_
+
+【254】Tipranavir: May decrease the serum concentration of Inhibitors of the Proton Pump (PPIs and PCABs). These data are derived from studies with Ritonavir-boosted Tipranavir. _Risk C: Monitor therapy_
+
+【255】Vadadustat: OAT1/3 Inhibitors may increase the serum concentration of Vadadustat. _Risk C: Monitor therapy_
+
+【256】Velpatasvir: Inhibitors of the Proton Pump (PPIs and PCABs) may decrease the serum concentration of Velpatasvir. Management: Sofosbuvir/velpatasvir should be administered with food and taken 4 hours before omeprazole 20 mg. Sofosbuvir/velpatasvir/voxilaprevir can be administered with omeprazole 20 mg. Use with other PPIs or PCABs has not been studied. _Risk D: Consider therapy modification_
+
+【257】Voriconazole: May increase the serum concentration of Inhibitors of the Proton Pump (PPIs and PCABs). Inhibitors of the Proton Pump (PPIs and PCABs) may increase the serum concentration of Voriconazole. _Risk C: Monitor therapy_
+
+【258】Food Interactions
+
+【259】Prolonged treatment (≥2 years) may lead to malabsorption of dietary vitamin B 12 and subsequent vitamin B 12 deficiency (Lam, 2013).
+
+【260】Pregnancy Considerations
+
+【261】Outcome data following use of proton pump inhibitors (PPIs) during pregnancy are available . Based on available studies, an increased risk of adverse pregnancy outcomes has not been observed following maternal use of rabeprazole.
+
+【262】Recommendations for the treatment of gastroesophageal reflux disease in pregnant patients are available. When initiating treatment during pregnancy, a step-up approach, starting with diet and lifestyle modifications, is recommended. Proton pump inhibitors are considered acceptable for use during pregnancy when other medications are not effective .
+
+【263】Breastfeeding Considerations
+
+【264】It is not known if rabeprazole is present in breast milk.
+
+【265】According to the manufacturer, the decision to breastfeed during therapy should consider the risk of infant exposure, the benefits of breastfeeding to the infant, and benefits of treatment to the mother.
+
+【266】Dietary Considerations
+
+【267】Capsules: Take 30 minutes before a meal.
+
+【268】Tablets: When used for the treatment of duodenal ulcers, administer after a meal; when used for the eradication of _Helicobacter pylori_ , administer with the morning and evening meals.
+
+【269】Monitoring Parameters
+
+【270】Magnesium (baseline and periodically thereafter; especially if taking concomitant digoxin, diuretics, or other drugs known to cause hypomagnesemia); calcium (baseline and periodically in patients at risk \[eg, hypoparathyroidism\]); susceptibility testing recommended in patients who fail _H. pylori_ eradication regimen.
+
+【271】Mechanism of Action
+
+【272】Potent proton pump inhibitor; suppresses gastric acid secretion by inhibiting the parietal cell H+/K+ ATP pump
+
+【273】Pharmacokinetics (Adult Data Unless Noted)
+
+【274】Onset of action: Within 1 hour
+
+【275】Duration: 24 hours
+
+【276】Absorption: Oral: Well absorbed within 1 hour; food delayed absorption up to 4 hours or longer
+
+【277】Protein binding: 96.3%
+
+【278】Metabolism: Hepatic via CYP3A and 2C19 to inactive metabolites; CYP2C19 exhibits a known genetic polymorphism due to its deficiency in some subpopulations  which results in slower metabolism
+
+【279】Bioavailability: Tablet: ~52%
+
+【280】Half-life elimination (dose dependent):
+
+【281】Children ≤11 years: 2.5 hours
+
+【282】Children ≥12 years and Adolescents: 20 mg tablet: 0.97 ± 0.19 hours (James 2007)
+
+【283】Adults: 1 to 2 hours
+
+【284】Time to peak, plasma:
+
+【285】Children ≤11 years: Sprinkle capsule: 2 to 4 hours
+
+【286】Children ≥12 years and Adolescents: 20 mg tablet: 4.1 ± 0.45 hours (James 2007)
+
+【287】Adults: Tablet: 2 to 5 hours; Sprinkle capsule: 1 to 6.5 hours
+
+【288】Excretion: Urine ; remainder in feces
+
+【289】Pharmacokinetics: Additional Considerations (Adult Data Unless Noted)
+
+【290】Hepatic function impairment: In mild to moderate hepatic impairment, AUC approximately doubled, total clearance decreased to less than half, and C max increased ~20% (not statistically significant) and elimination half-life was 2- to 3-fold higher.
+
+【291】Older adult: AUC values approximately doubled; C max increased 60%.
+
+【292】Race/ethnicity: AUCs for Japanese men were 50% to 60% higher.
+
+【293】Brand Names: International
+
+【294】International Brand Names by Country
+
+【295】For country code abbreviations ( show table )王磊
+
+====================================================================================================
+文本干净度#无关文本#(Verhaegh 2016)#类似的（ ）类人名，应用全文

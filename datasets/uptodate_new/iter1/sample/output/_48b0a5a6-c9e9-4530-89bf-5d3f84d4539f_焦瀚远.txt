@@ -1,0 +1,175 @@
+【0】Pulmonary hypertension in adults with congenital heart disease: General management and prognosis
+
+【1】INTRODUCTION 
+
+【2】Approximately 3 to 10 percent of patients with congenital heart disease (CHD) develop pulmonary hypertension (termed pulmonary hypertension-congenital heart disease \[PH-CHD\]) .
+
+【3】The general management and prognosis for adults with PH-CHD are discussed here. The clinical manifestations and diagnosis, issues related to contraception and pregnancy, and disease-specific management of PH-CHD are discussed separately.
+
+【4】DEFINITIONS
+
+【5】 **Pulmonary hypertension (PH)** – PH is defined as a mean pulmonary artery pressure (PAP) >20 mmHg at rest . This threshold for diagnosis is lower than the previously used threshold of ≥25 mmHg .
+
+【6】 **Pulmonary hypertension-congenital heart disease (PH-CHD)** – Patients with PH-CHD have a variety of types of PH . In patients with PH-CHD, PH is commonly, but not always, caused by CHD. The most common type of PH-CHD is congenital shunt-related pulmonary arterial hypertension (PAH).
+
+【7】 **Pulmonary arterial hypertension** – PAH is a type of PH diagnosed by demonstration of a mean PAP ≥20 mmHg and a pulmonary vascular resistance (PVR) ≥2 Wood units (WU), along with exclusion of other types of PH . Treatment is reserved for PAH with PVR ≥3 WU since there are insufficient data to support treatment for PVR of 2 to 3 WU. Severe PAH is identified by a PVR ≥5 WU . PAH associated with CHD (PAH-CHD) is one of many types of PAH. Eisenmenger syndrome is the most severe form of congenital shunt-related PAH.
+
+【8】 **Eisenmenger syndrome** – This disorder is the most severe form of congenital shunt-related PAH and is characterized by the triad of large intra- or extracardiac congenital defect with an initial systemic-to-pulmonary shunt (ventricular, atrial, or great artery ), PAH with shunt reversal (right-to-left) or bidirectional shunting, and resulting hypoxemia with cyanosis  . The pulmonary arterial disease in Eisenmenger syndrome is caused by increased pulmonary blood flow and/or elevated PAP.
+
+【9】GENERAL APPROACH 
+
+【10】Patients with PH-CHD should ideally receive clinical care in centers that have shared expertise and training in CHD and PH . These centers provide the optimal combination of clinical expertise, facilities for advanced diagnosis and therapy, structured care, and access to new and evolving therapies.
+
+【11】General care of patients with PH-CHD includes management of issues related to the intracardiac shunt, cyanotic heart disease, PH, and Eisenmenger syndrome. Patient education, behavioral modifications, and awareness of potential medical risk factors are important aspects of management .
+
+【12】ROUTINE FOLLOW-UP 
+
+【13】The following sections describe routine follow-up for adults with PH-CHD. If there is a change in symptoms or functional status, additional clinical assessment and testing are performed.
+
+【14】Clinical follow-up — Patients with CHD and pulmonary arterial hypertension (PAH) should be seen by a PH-CHD trained clinician(s) at least yearly. Key components of follow-up include:
+
+【15】 **Medication review** – All medication changes should be reviewed for potential effect on the systemic blood pressure, loading conditions, intravascular shunting, and renal or hepatic perfusion or function.
+
+【16】 **Evaluation of functional status** – This includes reviewing the patient's history to assess New York Heart Association (NYHA) functional class  and an exercise test for individuals who are able to exercise.
+
+【17】 **Assessment of complications** – Complications of PH include pulmonary artery thrombosis and right heart failure.
+
+【18】Complications of cyanotic congenital heart disease include endocarditis, bleeding, erythrocytosis, cholelithiasis, hyperuricemia/gout, neurologic complications, pheochromocytoma, and paraganglioma.
+
+【19】 **Counseling** – Patients with PH-CHD should be counseled to avoid conditions associated with high risk, such as pregnancy and volume depletion.
+
+【20】Patients with PH-CHD should also be advised to seek prompt attention for medical problems including arrhythmias and infections and to ensure that their PH-CHD care team is notified before they undergo any procedures. Ideally, surgical procedures should be done at referral centers with close follow-up by PH-CHD team.
+
+【21】Routine tests — Routine testing is based upon the severity of PH and the patient’s functional status. Cardiac imaging studies are compared with prior studies (including an initial baseline study) using the same imaging modality.
+
+【22】 **For patients with PH-CHD with mild or moderate PH and NYHA functional class ≤III symptoms** – This group includes patients with PAH with pulmonary vascular resistance (PVR) ≥3 but <5 Wood units (WU). Routine follow-up with a PH-CHD trained clinician is suggested at 6- to 12-month intervals including:
+
+【23】• **At each visit**
+
+【24】\- Pulse oximetry with and without supplemental oxygen therapy. Oxygen-responsive hypoxemia should be investigated.
+
+【25】\- Exercise test (six-minute walk test or submaximal cardiopulmonary exercise test).
+
+【26】• **Yearly** – Electrocardiogram (ECG) and transthoracic echocardiogram (TTE) are performed yearly. TTE may be deferred if deemed unnecessary due to performance of cardiovascular magnetic resonance \[CMR\] imaging).
+
+【27】• **As needed** – Additional tests such as CMR and cardiac catheterization are performed as needed.
+
+【28】 **For patients with PH-CHD with severe PH or NYHA functional class IV symptoms** – This group includes patients with NYHA functional class IV symptoms, severe PH (including those with PAH with PVR ≥5 WU), or Eisenmenger syndrome. Routine follow-up is suggested at three- to six-month intervals with testing as above with the addition of the following laboratory tests: hemoglobin, platelet count, iron studies, creatinine, and uric acid. These patients should also receive review by the transplant team, if they are potential candidates, and/or the palliative care team.
+
+【29】GENERAL MEASURES
+
+【30】Oxygen therapy — Oxygen therapy is used only in selected patients with PH-CHD.
+
+【31】 **Long-term oxygen therapy** – Oxygen therapy may improve symptoms but has not been shown to modify survival . The use of supplemental oxygen therapy, either nocturnal or continuous, is suggested in patients with hypoxemia in whom it produces a consistent increase in arterial oxygen saturation and reduces symptoms . Oxygen may decrease pulmonary vasoconstriction; it is recommended in select patients with hemodynamic confirmation of improved pulmonary blood flow with oxygen therapy.
+
+【32】 **Oxygen for altitude** – Supplemental oxygen is suggested for air travel or ascent to altitude for patients with class III or IV symptoms related to PH-CHD and those with hypoxemia (peripheral arterial oxygen saturation <90 percent). This recommendation is based on the risk of altitude-related hypoxia and the resultant physiologic effects, which include hyperventilation, increased heart rate, and chronic increased red cell production in an attempt to maintain arterial blood oxygen content at or above sea level values . Hypoxic pulmonary vasoconstriction and vascular remodeling place an increased pressure load on the right ventricle. Response to altitude or travel-related hypoxia depends on the rate of ascent to altitude, the severity and duration of exposure, and the underlying disease severity .
+
+【33】Anticoagulation
+
+【34】Indications for anticoagulation — We reserve anticoagulant treatment for patients with PH-CHD who have a specific indication for anticoagulation, such as pulmonary artery thrombosis , confirmed paradoxical embolism, and those with atrial fibrillation .
+
+【35】Oral anticoagulant treatment in PH-CHD/Eisenmenger syndrome is controversial, with limited evidence available to guide use. Most clinicians who care for complex congenital heart disease patients recommend anticoagulation for Eisenmenger patients with pulmonary arterial thrombosis. However, there are no data to support routine anticoagulation in this patient population. Although there is an important risk of pulmonary artery thrombosis and stroke reported in patients with Eisenmenger syndrome, anticoagulation can provoke bleeding, including hemoptysis. In addition, anticoagulation in cyanotic patients requires citrate adjustment for accurate international normalized ratio (INR) quantification. Improper INR monitoring has led to deaths in patients with Eisenmenger syndrome treated with warfarin . The risk-benefit ratio must be assessed on a case-by-case basis.
+
+【36】Pulmonary artery thrombosis management — Pulmonary arterial thrombosis among adults with Eisenmenger syndrome is a common cause for clinical deterioration and is associated with older age, biventricular dysfunction, and slow pulmonary artery blood flow. It does not appear to be related to the degree of cyanosis or coagulation abnormalities . In two reports, significant in situ proximal pulmonary artery thrombus was seen in 21 and 29 percent of patients with Eisenmenger syndrome . Some patients may also have distal arterial thrombosis . Pulmonary parenchymal findings include embolic infarcts .
+
+【37】Structural and functional changes in the pulmonary vasculature probably play a role in the development of in situ pulmonary artery thrombosis. The large arteries dilate and become aneurysmal, contributing to stasis and thrombus formation . In addition, endothelial damage due to increased shear stress, increased blood viscosity, and hypoxemia may all contribute to a prothrombotic state .
+
+【38】The consequences of pulmonary artery thrombosis in Eisenmenger syndrome vary. Massive thrombosis can lead to death and augmented right-to-left shunts by increasing flow resistance , while the presence of more distal thrombosis and intraparenchymal infarction raises concern that pulmonary artery thrombosis may contribute to the progression of pulmonary vascular disease .
+
+【39】Prevention of endocarditis — Patients should maintain good oral hygiene to lessen the magnitude of transient bacteremias associated with routine oral care and reduce the risk of periodontal disease. Oral and other bacterial infections should be treated promptly. Antimicrobial prophylaxis for bacterial endocarditis is indicated for patients at high risk for adverse outcomes with infective endocarditis, including those with any of the following: unrepaired cyanotic CHD; completely repaired congenital heart defect with prosthetic material or device, during the first six months after surgical or transcatheter placement; repaired CHD with residual defect at the site or adjacent to the site of a prosthetic patch or prosthetic device; or a prosthetic heart valve.
+
+【40】Immunizations — Individuals with PH-CHD should receive appropriate immunizations, including pneumococcal vaccine, coronavirus 2019 (COVID-19) vaccine, and annual influenza vaccine.
+
+【41】Management of cyanotic CHD — Management for patients with Eisenmenger syndrome includes measures for management of cyanotic CHD, including addressing the following issues, which are discussed separately:
+
+【42】 **Phlebotomy** – In patients with cyanotic heart disease, phlebotomy is suggested only with expert consultation and in combination with volume repletion for relief of hyperviscosity symptoms , such as blurred vision, neurologic symptoms, confusion, and heart failure. Repeated routine phlebotomies are avoided because of the risk of iron depletion, decreased oxygen-carrying capacity, and stroke .
+
+【43】 **Treatment of iron deficiency** – Iron deficiency with relative anemia should be carefully treated with iron supplementation. Although there are no specific data regarding timing, we institute iron supplementation in anemic patients with evidence of iron deficiency (ie, low ferritin plasma levels) when the mean corpuscular volume is less than 82, since microspherocytes may increase cerebrovascular risk . Iron should be discontinued when the hematocrit begins to rise, usually within 7 to 10 days.
+
+【44】CONDITIONS AND PROCEDURES TO AVOID 
+
+【45】There are a number of conditions or procedures that are associated with increased risk in patients with PH-CHD, particularly those with Eisenmenger syndrome, and should therefore be avoided; these include volume depletion, isometric exercise, high altitude, and pregnancy .
+
+【46】Volume depletion or systemic vasodilation — Given the risk of decompensation with volume depletion or systemic vasodilation (eg, excessive heat, hot tubs, excessive alcohol), euvolemia should be maintained, and precipitants of systemic vasodilation should be avoided in patients with PH-CHD, particularly with Eisenmenger syndrome . A fall in systemic vascular resistance can result in an increase in right-to-left shunt with subsequent reduction in cerebral blood flow and possible cardiovascular collapse due to reduced cardiac output.
+
+【47】Excessive exercise — Patients with moderate or severe PH-CHD, with a mean pulmonary artery pressure >25 mmHg, are counseled to avoid all competitive athletics, with the possible exception of low-intensity (class IA) sports  . Complete evaluation and clinician guidance of exercise training (exercise prescription) are recommended prior to athletic participation; isometric exercise should generally be avoided. Nonisometric and low-intensity activities are encouraged. Benefits of regular exercise include improved walking distance, peak oxygen consumption, quality of life, and functional class; thus, nonmaximal physical activity should be encouraged .
+
+【48】High altitude — Patients with PH-CHD should **avoid** high altitude (particularly an elevation greater than 5000 feet above sea level) because the low oxygen tension leads to pulmonary vasoconstriction and further desaturation .
+
+【49】Limited data suggest that it is safe for Eisenmenger patients to travel in commercial airlines as long as the airplanes are adequately pressurized . Supplemental oxygen should be available, although its efficacy is unproven.
+
+【50】Endocardial pacing — Endocardial pacemaker or implantable cardioverter-defibrillator leads are generally avoided in patients with PH-CHD with persistent intracardiac shunting given the increased risk of systemic thromboembolism. Alternative access for pacing and/or defibrillation (epicardial or subcutaneous) should be considered on an individual basis.
+
+【51】Air emboli — Given the risk of a paradoxical air embolism in Eisenmenger patients (and lesser risk in patients with only transient right-to-left shunts), air bubbles should be excluded from intravenous tubing by meticulous intravenous line care and use of air filters .
+
+【52】Pregnancy — The high maternal and fetal risks of pregnancy in a patient with PH-CHD (particularly with Eisenmenger syndrome), counseling, contraception, and management of pregnancy are discussed separately.
+
+【53】MANAGEMENT OF PROCEDURES 
+
+【54】Any surgical procedure, even if relatively minor, is potentially life-threatening in patients with PH-CHD, particularly those with Eisenmenger syndrome, and is associated with a perioperative mortality of up to 19 percent . The risk is especially high when surgery is performed on an emergency basis, is lengthy, and is associated with hemodynamic instability necessitating large-volume fluid resuscitation .
+
+【55】All elective invasive procedures and procedures requiring sedation (such as cardioversion, cardiac catheterization, and endoscopy) should be performed only at a center with expertise in the management of PH-CHD and Eisenmenger syndrome . In emergency or urgent situations in which transportation is not feasible, caregivers in centers with expertise in the care of patients with Eisenmenger syndrome should be consulted throughout care. A multidisciplinary approach is imperative and should include involvement of a senior cardiac anesthesiologist, an experienced surgeon, and a cardiologist experienced with the care of patients with PH-CHD including Eisenmenger syndrome .
+
+【56】Key management principles include:
+
+【57】 **Optimize hematocrit** – The preoperative clinical assessment should include routine laboratory evaluation. The ideal hematocrit for the Eisenmenger patient undergoing noncardiac surgery is uncertain, but is likely to be less than 65 percent. In patients with higher values, preoperative phlebotomy may improve the coagulation status. The phlebotomized blood should be preserved for potential transfusion.
+
+【58】After surgery, patients should be transfused if the hematocrit is inappropriately low for the oxygen saturation.
+
+【59】 **Maintain volume** – Intravascular volume depletion should be avoided before, during, and after surgery. Preprocedural hydration is generally indicated.
+
+【60】 **Monitor** – Intraoperative and early postoperative cardiac rhythm monitoring is suggested. In most cases, an intraarterial line and pulse oximetry provide sufficient information regarding systemic hemodynamics and oxygenation. Pulmonary artery catheter monitoring is seldom necessary and should be avoided, if possible, because of a high potential for hemorrhagic and other complications .
+
+【61】 **Maintain blood pressure** – A fall in systemic blood pressure should be avoided to prevent an increase in the right-to-left shunt. If the systemic blood pressure does fall, it is generally better managed with volume repletion than vasopressors.
+
+【62】 **Avoid air emboli** – Precautions should be taken against paradoxical air emboli.
+
+【63】 **Prevent deep venous thrombosis** – Early ambulation and perioperative deep venous thrombosis prophylaxis are recommended.
+
+【64】PROGNOSIS 
+
+【65】Adults with PH-CHD face a higher risk of early mortality compared with the broader population of adults with CHD. This was illustrated by a study of 6933 adults with CHD in the Dutch CONgenital CORvitia (CONCOR) registry . The median age of death among adults with CHD was 48.8 years, and presence of PH predicted a threefold increase in all-cause mortality after adjustment for age, sex, and CHD severity .
+
+【66】The mean age at death of patients with Eisenmenger syndrome has been reported to be 37 years or less, although the clinical course varies among individuals and these data precede routine use of pulmonary vasodilators. Although some patients with Eisenmenger syndrome survive into their 60s and beyond , survival is generally limited, as illustrated by a systematic review that included 12 studies of 1131 patients with Eisenmenger syndrome not treated with advanced therapy for pulmonary hypertension . The analysis was adjusted for immortal time bias found in many reports. The mean age was 30 years old and the adjusted 10-year mortality rates ranged between 30 and 40 percent. Although mortality rates in the 1950s and 1960s were worse, similar mortality rates were observed in patients studied from the 1970s to the 2000s.
+
+【67】Prognosis in patients with PH-CHD depends largely on the impact of PH on cardiovascular status. Fatal complications of Eisenmenger syndrome include progressive cardiovascular disease and heart failure, sudden cardiac death, and intrapulmonary hemorrhage due to rupture of a major vessel .
+
+【68】Among patients with PH-CHD, prognostic features include:
+
+【69】 **Clinical characteristics** – Among patients with Eisenmenger syndrome, worse functional class is a predictor of mortality .
+
+【70】Patients with Eisenmenger syndrome with complex CHD may have earlier clinical deterioration (eg, mean age 19 versus 27 years ) and shorter survival (eg, mean age 26 versus 33 years ) than those with simple CHD. In a series of 171 patients with Eisenmenger syndrome, median survival was reduced by approximately 20 years in those with simple underlying lesions and by approximately 40 years in those with complex lesions compared with healthy individuals .
+
+【71】Hemoptysis is common among patients with Eisenmenger syndrome  but may not affect prognosis .
+
+【72】 **Physical examination** – Findings associated with poor prognosis include signs of reduced cardiac output (such as tachycardia, low pulse pressure and hypotension) and features of right heart dysfunction (such as venous pressure elevation) .
+
+【73】 **Electrocardiographic and laboratory findings** – Among patients with Eisenmenger syndrome, clinical arrhythmia, longer QRS duration, and longer QTc interval are associated with increased risk of mortality .
+
+【74】Lower oxygen saturation at rest , low serum albumin, and low potassium levels are also associated with adverse prognosis . Elevated serum natriuretic peptide level (eg, B-type natriuretic peptide) was associated with mortality risk in some studies of patients with PH-CHD  but was not an independent predictor of mortality in a multivariate analysis .
+
+【75】 **Echocardiographic findings** – Echocardiographic features of advanced PH (including right heart dysfunction, dilated inferior vena cava, and the presence of pericardial effusion) are associated with adverse prognosis.
+
+【76】Among patients with Eisenmenger syndrome, the mortality risk is higher with a pretricuspid shunt and presence of pericardial effusion .
+
+【77】 **Cause of PH** – Among patients with PH-CHD, the worst survival has been reported in patients with group 1 pulmonary arterial hypertension (PAH) after defect repair or with small/coincidental defects . Patients with PAH with small/coincidental defects as well as some patients who develop PAH after defect repair may have PAH unrelated to CHD (and their clinical characteristics are similar to idiopathic PAH).
+
+【78】The prognosis for patients with Eisenmenger syndrome appears to be better than for patients with idiopathic PAH with similar hemodynamics . This was illustrated in a report of patients with severe PAH  . Actuarial survival at one and three years among those not receiving transplants was higher in those with Eisenmenger syndrome .
+
+【79】Better survival in patients with Eisenmenger syndrome compared with that in patients with idiopathic PAH may result from preservation of biventricular function in patients with Eisenmenger syndrome, as the right ventricle remains hypertrophied after birth and is therefore better able to accommodate the elevated afterload. The right ventricle is also relieved by the right-to-left shunt, which acts as a "pop-off" valve for the right ventricle .
+
+【80】Links to society and government-sponsored guidelines from selected countries and regions around the world are provided separately.
+
+【81】 **General approach** – Patients with pulmonary hypertension associated with congenital heart disease (PH-CHD) should ideally receive clinical care in centers that have shared expertise and training in adult CHD and PH .General care includes principles of management of cyanotic heart disease, PH, and Eisenmenger syndrome.
+
+【82】 **Follow-up** – Patients with PH-CHD should receive at least yearly routine follow-up including medication review, evaluation of functional status, assessment of complications, counseling, and testing (generally including pulse oximetry, a submaximal exercise test, an ECG, and a transthoracic echocardiogram \[TTE\]). If there is a change in status, additional clinical assessment is performed.
+
+【83】 **Conditions and procedures to avoid** – Conditions and procedures that are associated with an increased risk in patients with PH-CHD (particularly those with Eisenmenger syndrome) and should therefore be avoided include volume depletion, isometric exercise, high altitude, endocardial pacing, air emboli, and pregnancy.
+
+【84】 **Management of procedures** – Any surgical procedure, even if relatively minor, is potentially life-threatening in patients with PH-CHD, particularly those with Eisenmenger syndrome.
+
+【85】All elective invasive procedures and procedures requiring sedation (such as cardioversion, cardiac catheterization, and endoscopy) should be performed at a center with expertise in the management of PH-CHD. In emergency or urgent situations in which transportation is not feasible, caregivers in centers with expertise in the care of patients with Eisenmenger syndrome should be consulted throughout care.
+
+【86】 **Prognosis** – The prognosis for patients with PH-CHD depends on the cause of PH-CHD, the severity of PH, clinical features (particularly cardiovascular status), and response to therapy.焦瀚远
+
+====================================================================================================
