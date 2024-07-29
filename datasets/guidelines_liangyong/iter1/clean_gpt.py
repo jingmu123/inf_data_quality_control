@@ -450,8 +450,8 @@ def clean_text(text,lang):
     """
     step1:删除图片的描述
     step2:页眉页脚的判断
-    step3_1:多于换行
-    step3_2:缺少换行
+    # step3_1:多于换行
+    # step3_2:缺少换行
     step4:目录页判断
     step5:正则替换
     step6:参考页判断
