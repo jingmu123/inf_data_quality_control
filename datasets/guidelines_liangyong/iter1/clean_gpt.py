@@ -477,7 +477,7 @@ def clean_text(text,lang):
 
     for item in result:
         print(item)
-    # duans = sp.step4_is_shortpage(result)
+
     text = split_token.join(result)
     text = sp.is_cankaopage(text, lang)
 
