@@ -194,28 +194,28 @@ class speicalProces:
 
         return text
 
-    def step2_is_pagefoot(self, duans):
+    def step2_is_pagefoot(self, duans,lang):
         # duans是一个列表，取第一段和最后一段进行if判断，判断页眉页脚
+        if lang == "en":
+            first_line = duans[0]
+            last_paragraph = duans[-1]
+            # 提取中间段落
+            middle_duans = duans[1:-1]
+            middle_content = " ".join(middle_duans)
+            middle_content = re.sub(r"【\d+】",r'',middle_content)
+            first_line_score = self.get_score(first_line)
+            last_paragraph_score = self.get_score(last_paragraph)
+            middle_content_score = self.get_score(middle_content)
+            # print(first_line_score,first_line)
+            # print(middle_content_score,middle_content)
+            # print(last_paragraph_score,last_paragraph)
+            if first_line_score > 4000 and not re.search('\|',first_line) and len(first_line) < 150 and re.search(r'[A-Z][a-z]{1,}\s[A-Z][a-z]{1,}',first_line):
+                duans[0] = "疑似页眉" + duans[0]
+            elif first_line_score > 8000 and not re.search("#",first_line) and not re.search('\|',first_line) and len(first_line) < 150 and re.search(r'[A-Z][a-z]{1,}\s[A-Z][a-z]{1,}',first_line):
+                duans[0] = "疑似页眉" + duans[0]
 
-        first_line = duans[0]
-        last_paragraph = duans[-1]
-        # 提取中间段落
-        middle_duans = duans[1:-1]
-        middle_content = " ".join(middle_duans)
-        middle_content = re.sub(r"【\d+】",r'',middle_content)
-        first_line_score = self.get_score(first_line)
-        last_paragraph_score = self.get_score(last_paragraph)
-        middle_content_score = self.get_score(middle_content)
-        # print(first_line_score,first_line)
-        # print(middle_content_score,middle_content)
-        # print(last_paragraph_score,last_paragraph)
-        if first_line_score > 4000 and not re.search('\|',first_line) and len(first_line) < 150 and re.search(r'[A-Z][a-z]{1,}\s[A-Z][a-z]{1,}',first_line):
-            duans[0] = "疑似页眉" + duans[0]
-        elif first_line_score > 8000 and not re.search("#",first_line) and not re.search('\|',first_line) and len(first_line) < 150 and re.search(r'[A-Z][a-z]{1,}\s[A-Z][a-z]{1,}',first_line):
-            duans[0] = "疑似页眉" + duans[0]
-
-        if last_paragraph_score > 4000 and not re.search('\|',last_paragraph) and len(last_paragraph) < 150 and re.search(r'[A-Z][a-z]{1,}\s[A-Z][a-z]{1,}',last_paragraph):
-            duans[-1] = "疑似页脚" + duans[-1]
+            if last_paragraph_score > 4000 and not re.search('\|',last_paragraph) and len(last_paragraph) < 150 and re.search(r'[A-Z][a-z]{1,}\s[A-Z][a-z]{1,}',last_paragraph):
+                duans[-1] = "疑似页脚" + duans[-1]
         return duans
 
     def is_merge_ngram(self,text, next_text):
@@ -450,15 +450,15 @@ def clean_text(text,lang):
     """
     step1:删除图片的描述
     step2:页眉页脚的判断
-    # step3_1:多于换行
-    # step3_2:缺少换行
+    step3_1:多于换行
+    step3_2:缺少换行
     step4:目录页判断
     step5:正则替换
     step6:参考页判断
     """
     # 删除图片描述
     duans = sp.step1_delete_photo_describe(duans)
-    duans = sp.step2_is_pagefoot(duans)
+    duans = sp.step2_is_pagefoot(duans,lang)
     # duans = sp.step3_1_more_linefeed_duannei(duans)
     # duans = sp.step3_2_more_linefeed_duan(duans)
     duans = sp.step4_is_mulupage(duans)
@@ -521,17 +521,17 @@ with open("C:\pycharm\orc识别pdf清洗数据\pdf\clean_json\original_data\guid
             #     lang = "zh"
             # else:
         lang = item['lang']
-        if lang == "en":
-            page_num = item['attr']['page_num']
-            print(page_num)
-            text = item['text']
-            text = clean_text(text,lang)
-            text = post_process(text)
-            # print(context)
-            item["text"] = text
-            item = json.dumps(item, ensure_ascii=False)
-            # print(item)
-            print("*" * 100)
-            fw.write(item + "\n")
+
+        page_num = item['attr']['page_num']
+        print(page_num)
+        text = item['text']
+        text = clean_text(text,lang)
+        text = post_process(text)
+        # print(context)
+        item["text"] = text
+        item = json.dumps(item, ensure_ascii=False)
+        # print(item)
+        print("*" * 100)
+        fw.write(item + "\n")
 
 
