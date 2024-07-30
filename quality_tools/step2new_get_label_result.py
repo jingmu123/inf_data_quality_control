@@ -11,7 +11,7 @@ class ParseLabelResult:
         self.m = 10
         self.Beta = 0.01
         self.term_level={
-            '错别字': 'level1', '缺少字母': 'level1', '数字误用': 'level1', '多余标点': 'level1', '缺少标点': 'level1', '标点错误': 'level1', '多余空格': 'level1', '空格代替标点': 'level1', '缺少空格-中文': 'level1', '换行空格': 'level1', '语句不通顺': 'level2', '缺少空格-英文': 'level2', '页码/数字': 'level2', '特殊符号': 'level2', '重复符号': 'level2', '缺少换行': 'level2', '序号格式不一致': 'level2', '多余换行': 'level3', '表格格式错误': 'level3', '公式格式错误': 'level3', '术语格式错误': 'level3', '无关文本': 'level3', '页眉': 'level3', '页脚': 'level3', '无关链接': 'level3', '语句/字词重复': 'level3', '有用性-轻': 'level3', '导航栏': 'level3', '栏目混乱-轻': 'level3', '数据安全': 'level3', '广告': 'level4', '有用性-重': 'level4', '准确性': 'level4', '侧栏': 'level4', '语义不完整': 'level4', '语义冲突': 'level4', '错误删除': 'level4', '表格正文混乱': 'level4', '完整性': 'level4', '栏目混乱-中': 'level4', '专业性': 'level4', '格式杂乱': 'level5', '乱码': 'level5', '文本碎片化/无意义': 'level5', '栏目混乱-重': 'level5', '违反医德': 'level5', '违法': 'level5', '负面价值观': 'level5', '歧视': 'level5', '政治敏感': 'level5'
+            '错别字': 'level1', '缺少字母': 'level1', '数字误用': 'level1', '多余标点': 'level1', '缺少标点': 'level1', '标点错误': 'level1', '多余空格': 'level1', '空格代替标点': 'level1', '缺少空格-中文': 'level1', '换行空格': 'level1', '语句不通顺': 'level2', '缺少空格-英文': 'level2', '页码/数字': 'level2', '特殊符号': 'level2', '重复符号': 'level2', '缺少换行': 'level2', '序号格式不一致': 'level2', '多余换行': 'level3', '表格格式错误': 'level3', '公式格式错误': 'level3', '术语格式错误': 'level3', '无关文本': 'level3', '页眉': 'level3', '页脚': 'level3', '无关链接': 'level3', '语句/字词重复': 'level3','语句重复': 'level3', '有用性-轻': 'level3', '导航栏': 'level3', '栏目混乱-轻': 'level3', '数据安全': 'level3', '广告': 'level4', '有用性-重': 'level4', '准确性': 'level4', '侧栏': 'level4', '语义不完整': 'level4', '语义冲突': 'level4', '错误删除': 'level4', '表格正文混乱': 'level4', '完整性': 'level4', '栏目混乱-中': 'level4', '专业性': 'level4', '格式杂乱': 'level5', '乱码': 'level5', '文本碎片化/无意义': 'level5', '栏目混乱-重': 'level5', '违反医德': 'level5', '违法': 'level5', '负面价值观': 'level5', '歧视': 'level5', '政治敏感': 'level5'
         }
         self.level_param = {
             "level1": 0.5,
@@ -37,6 +37,8 @@ class ParseLabelResult:
         label_info = []
         penaty = 0
         for label_values in result_info["text"]:
+            if "province" not in label_values:
+                continue
             [p_level1, p_level2] = label_values["province"]
             if p_level2 in ignore_key_list:
                 continue
@@ -66,6 +68,8 @@ class ParseLabelResult:
             if result_info == None:
                 continue
             for label_values in result_info["text"]:
+                if "province" not in label_values:
+                    continue
                 [p_level1, p_level2] = label_values["province"]
                 self.F[p_level2] = self.F.get(p_level2,0) + 1
 
@@ -196,10 +200,12 @@ def computer_ignore_2(ignore_score_sorted):
 
 if __name__ == '__main__':
 
-    pr = ParseLabelResult(base_dir="./", file_name="test_newtemplete")
+    pr = ParseLabelResult(base_dir="../datasets/uptodate_new/iter2/sample", file_name="reclean2_uptodate_new_zh")
     problem_list,score = pr.score_count() # 默认为空，不忽略key
 
     ignore_score_sorted = computer_ignore_1(problem_list)
     computer_ignore_2(ignore_score_sorted)
 
 
+# 各纬度问题频次F={'无关文本': 100, '语义不完整': 13, '语句重复': 2, '多余换行': 4, '多余标点': 4, '缺少标点': 1, '特殊符号': 1}
+# 各纬度问题频次F={'缺少换行': 503, '多余换行': 3, '无关文本': 6, '语义不完整': 23, '完整性': 3, '缺少标点': 6, '多余标点': 10, '多余空格': 1, '标点错误': 1}
