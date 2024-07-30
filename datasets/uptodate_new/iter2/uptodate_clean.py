@@ -22,7 +22,7 @@ pattern_list_zh = [
                     ['关于.*参见.*(\\n.*[：:].*)*', ''],
                     ['\\((\\[?)\\s*#?((\\d+-\\s*\\d+-\\s*\\d+)|(\\d+-\\s*\\d+)|(\\d+(,|，)\\s*\\d+.*)|(\\d+))(\\]?).*?\\)', ''], #1.(23-1-32...) (12,dadada) ([12.医疗数据])
                     ['(.*)学会指南链接(.*)', ''],
-                    ['[^。](见?)([^。]*)专题(.*)', ''],
+                    # ['[^。](见?)([^。]*)专题(.*)', ''],
                     ['更多|总结与推荐|总结|(\\(影像.*?\\))|在线资源和支持组织|信息参见网站|如图所示：', ''], #更多、总结与推荐、总结、在线资源和支持组织、（影像...）、信息参见网站
                     ['●|•|❤️', ''],
                     ['(^\\s*(–|—))|((-|–|—)\\s*$)', ''], #-医疗、医院-
@@ -39,7 +39,12 @@ pattern_list_zh = [
                     [r'^There is a newer version of this topic available in English.*',r''],
                     [r'^该专题有一个更新版本.*',r''],
                     [r'^请阅读本页末的.*',r''],
+                    # 7/29
+                    [r'[^。]*(详[^。]*见|见?[^。]*专题|见附表|见(下|上)文(流程图)?)[^。]*。',r''],
+
+
                      ]
+
 pattern_list_en = [
                     ['\\s*●\\(See.*', ''],
                     ['\\[\\d+([,，、-]\\d+)*\\]', ''], #[1,2] [1.2] [1、2] [1-2]
@@ -63,13 +68,16 @@ pattern_list_en = [
                     ['\\((\\[?)\\s*#?((\\d+-\\s*\\d+-\\s*\\d+)|(\\d+-\\s*\\d+)|(\\d+(,|，)\\s*\\d+.*)|(\\d+))(\\]?).*?\\)', ''], #1.(23-1-32...) (12,dadada) ([12.医疗数据])
 
                     [r'\\\[[\d\s\-,—\\]{0,100}\]',''],
-                    [r'\([^\(\)]{1,50}([fF]igure|NCT|Grade|[pP]icture|FIGURE|PICTURE|[iI]mage|[tT]able)\s[^\(\)]{1,50}\)',''],
+
+                    [r'(\([^\(\)]{1,50}){1,}([fF]igure|NCT|Grade|[pP]icture|FIGURE|PICTURE|[iI]mage|[tT]able)\s([^\(\)]{1,50}\)){1,}',''],  #   ( figure 2 ) ( ( figure 2 ), panels A and C)
                     [r'\(\s+Ref\s+\)',''],
                     [r'\([^\)\(]{1,50}\d{4};[^\)\(]{1,200}\)',''],
 
                     [r'\([^\(\)]{0,100}algorithm\s[^\(\)]{0,100}\)',''],
-                    [r'\(\s?[A-Z][^\(\)]{0,10}\s\d{4}[^\(\)]{0,50}\)',''],
+                    [r'\(\s?[A-Z][^\(\)]{0,20}\s\d{4}[^\(\)]{0,50}\)',''],
                     [r'^Contributor Disclosures',''],
+                    [r'^\s?(Please read the Disclaimer at the end of this page|Links to society and government-sponsored guidelines|Beyond the Basics topics).*',''],
+                    [r'\([^\(\)]{1,50}(waveform|movie|calculator)[^\(\)]{1,50}\)','']
                      ]
 
 
@@ -77,10 +85,10 @@ class speicalProces:
     def __init__(self):
         pass
     def step1_drop_sentenc(self,content):
-        pattern3=r'。?.*见.*详.*?[。]'
-        pattern1=r'。?.*题专.*见.*?[。]'
-        pattern2=r'。.*表附见.*?[。]'
-        pattern4=r'。(图程流)?文(下|上)见.*?[。]'
+        pattern3=r'。?.*见.*详.*?[。，]'
+        pattern1=r'。?.*题专.*见.*?[。，]'
+        pattern2=r'。.*表附见.*?[。，]'
+        pattern4=r'。(图程流)?文(下|上)见.*?[。，]'
         text=content.strip('\n').split("\n")
         for i in range(len(text)):
             text[i] = re.sub(pattern3, '。', text[i][::-1])[::-1]
@@ -106,8 +114,11 @@ class speicalProces:
         introduce_index = []
         Inc = 0
         Inc_index = []
+
+        guidelines = 0
+        guidelines_index = []
         for index, item in enumerate(context):
-            if re.search(r'^(References|参考文献|见参考文献|致谢|REFERENCES|ACKNOWLEDGMENT|The following organizations also provide reliable health information|More on this topic)', item.strip()):
+            if re.search(r'^(References|参考文献|见参考文献|致谢|REFERENCES|ACKNOWLEDGMENT|The following organizations also provide reliable health information|More on this topic|Topic[^\.]*Version|For country code abbreviations|ACKNOWLEGMENT)', item.strip()):
                 references_started = True
             if references_started:
                 item = ""
@@ -126,16 +137,46 @@ class speicalProces:
             if re.search(r'^(引言|简介)', item.strip()) or re.search(r'^INTRODUCTION', item.strip()) or re.search(r'^Please read the Disclaimer at the end of this page',item.strip()):
                 introduce -= 1
                 introduce_index.append(index)
+
+            if re.search(r'^(SOCIETY GUIDELINE LINKS)',item.strip()):
+                guidelines += 1
+                guidelines_index.append(index)
+            if re.search(r'^INFORMATION FOR PATIENT',item.strip()) and guidelines == 0:
+                guidelines += 1
+                guidelines_index.append(index)
+            if re.search(r'^.{,5}(Basics topics|Beyond the Basics topics)', item.strip()):
+                guidelines -= 1
+                guidelines_index.append(index)
+
             new_context.append(item)
 
-        if introduce == 0 and len(introduce_index) == 2:
+        if introduce <= 0 and len(introduce_index) >= 2:
             start_index = introduce_index[0]
-            end_index = introduce_index[1]
-            new_context = new_context[:start_index] + new_context[end_index+1:]
-        if Inc == 0 and len(Inc_index) == 2:
+            end_index = introduce_index[-1]
+            # 循环遍历需要替换的片段
+            for i in range(start_index, end_index + 1):
+                # 将当前索引处的字符替换为你想要的字符，这里以空字符为例
+                new_context[i] = ''
+
+
+        if Inc <= 0 and len(Inc_index) >= 2:
             start_index = Inc_index[0]
-            end_index = Inc_index[1]
-            new_context = new_context[:start_index] + new_context[end_index+1:]
+            end_index = Inc_index[-1]
+            # 循环遍历需要替换的片段
+            for i in range(start_index, end_index + 1):
+                # 将当前索引处的字符替换为你想要的字符，这里以空字符为例
+                new_context[i] = ''
+
+
+
+        if guidelines <= 0 and len(guidelines_index) >= 2:
+            start_index = guidelines_index[0]
+            end_index = guidelines_index[-1]
+            # 循环遍历需要替换的片段
+            for i in range(start_index, end_index + 1):
+                # 将当前索引处的字符替换为你想要的字符，这里以空字符为例
+                new_context[i] = ''
+
         return new_context
     def step4_rm_kongge(self, context):
         context = context.lstrip().rstrip()
@@ -173,10 +214,12 @@ def clean_text(context, lang):
     sp = speicalProces()
 
     # special_process：
-    context = sp.step1_drop_sentenc(context)
+    # context = sp.step1_drop_sentenc(context)
     context = context.split(split_token)
+
     # 7/24uptodata_new修改
     context = sp.step3_reference(context)
+
     for item in context:
         # 1.正则
         for pattern_item in pattern_list:
@@ -215,15 +258,15 @@ def post_process(context):
 
 
 #读jsonl
-fw = open(r"C:\pycharm\orc识别pdf清洗数据\pdf\clean_json\reclean2_uptodate_new_preformat_en.jsonl", "w", encoding="utf-8")
+fw = open(r"C:\pycharm\orc识别pdf清洗数据\pdf\clean_json\reclean2_2_uptodate_new_preformat_en.jsonl", "w", encoding="utf-8")
 with open(r"C:\pycharm\orc识别pdf清洗数据\pdf\clean_json\original_data\uptodate_new_preformat.jsonl", "r", encoding="utf-8") as fs:
     lines = fs.readlines()
 
     # 随机抽取5000条记录
-    sampled_lines = random.sample(lines, 2000)
+    sampled_lines = random.sample(lines, 1000)
     for items in tqdm(sampled_lines):
         item = json.loads(items.strip())
-        # if item["seq_id"] == "e512995f-5230-42c6-bdec-898e020991dc":
+        # if item["seq_id"] == "b8e69327-1e37-48f0-907c-f29090f6c5dc":
         context = item["text"]
         lang = item["lang"]
         if lang == "en":
@@ -234,9 +277,8 @@ with open(r"C:\pycharm\orc识别pdf清洗数据\pdf\clean_json\original_data\upt
             # print(context)
             item["text"] = context
             item = json.dumps(item, ensure_ascii=False)
-            print(item)
+                # print(item)
             fw.write(item + "\n")
-
 
 
 
