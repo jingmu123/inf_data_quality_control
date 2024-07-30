@@ -416,8 +416,8 @@ def process_line(items, sp):
     item = json.dumps(item, ensure_ascii=False)
     return item
 
-fw = open("C:/pycharm/orc识别pdf清洗数据/pdf/clean_json/recleanB2_guidelines_ly_gptpdf.jsonl", "w", encoding="utf-8")
-with open("C:/pycharm/orc识别pdf清洗数据/pdf/clean_json/recleanB_guidelines_ly_gptpdf_label.jsonl", "r", encoding="utf-8") as fs:
+fw = open("/pdf/clean_json/recleanB2_guidelines_ly_gptpdf.jsonl", "w", encoding="utf-8")
+with open("/pdf/clean_json/recleanB_guidelines_ly_gptpdf_label.jsonl", "r", encoding="utf-8") as fs:
     for items in tqdm(fs.readlines()):
         item = json.loads(items.strip())
         # if item["seq_id"] == "86005fe7-ca59-4115-860e-641b357f5f4c":
