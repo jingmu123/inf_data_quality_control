@@ -21,6 +21,7 @@ class ParseLabelResult:
             "level5": 0,
         }
         self.file_path = "{}/{}.jsonl".format(base_dir, file_name)
+
         self.save_dir = "{}/output".format(base_dir)
         if not os.path.exists(self.save_dir):
             os.makedirs(self.save_dir)
@@ -176,7 +177,8 @@ class ParseLabelResult:
         if len(ignore_key_list) == 0:
             print(f"质量分={S2}")
         else:
-            print("忽略 \"{}\" 后质量分：{}".format("#".join(ignore_key_list),S2))
+            #print("忽略 \"{}\" 后质量分：{}".format("#".join(ignore_key_list),S2))
+            pass
         return self.F, S2
 
 def computer_ignore_1(problem_list):
@@ -185,7 +187,7 @@ def computer_ignore_1(problem_list):
         _, score = pr.score_count([key])
         ignore_score[key] = score
     ignore_score_sorted = sorted(ignore_score.items(),key=lambda x:x[1],reverse=True)
-    print(dict(ignore_score_sorted))
+    #print(dict(ignore_score_sorted))
     return ignore_score_sorted
 
 def computer_ignore_2(ignore_score_sorted):
@@ -198,13 +200,18 @@ def computer_ignore_2(ignore_score_sorted):
             key = "#".join(ignore_list)
             ignore_score[key] = score
     ignore_score_sorted = sorted(ignore_score.items(),key=lambda x:x[1],reverse=True)
-    print(dict(ignore_score_sorted))
+    return ignore_score_sorted
+
 
 if __name__ == '__main__':
 
-    pr = ParseLabelResult(base_dir="../datasets/medicalpdfv2/iter0/sample", file_name="reclean1_medicalpdfv2_en")
+    pr = ParseLabelResult(need_details=False,
+                          base_dir="../datasets/medicalpdfv2/iter1/sample",
+                          file_name="reclean1_medicalpdfv2_en")
     problem_list,score = pr.score_count() # 默认为空，不忽略key
 
     ignore_score_sorted = computer_ignore_1(problem_list)
-    computer_ignore_2(ignore_score_sorted)
+    print("推荐解决的单个问题顺序以及收益（供参考）：{}".format(dict(ignore_score_sorted)))
+    ignore_score_sorted = computer_ignore_2(ignore_score_sorted)
+    print("推荐解决的组合问题顺序以及收益（供参考）：{}".format(dict(ignore_score_sorted)))
 
