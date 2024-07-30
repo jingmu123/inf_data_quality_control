@@ -8,7 +8,7 @@ import time
 from tqdm import tqdm
 import sys
 sys.path.append("../../../")
-from inf_data_quality_control.basic_tools import sentence_correct
+from basic_tools import sentence_correct
 import threading
 # 线程安全的队列
 from queue import Queue
