@@ -85,6 +85,7 @@ def sample_data(file, lang_tag, save_file, append_title=False, need_special_spli
 
 
 # <<<<<<< HEAD
+# <<<<<<< HEAD
 file_name = "medical_stage4_surya"
 base_dir = f"../datasets/{file_name}/iter5/sample"
 save_dir = f"../datasets/{file_name}/iter6_2/"
@@ -95,8 +96,14 @@ base_dir = f"../../full_data/{file_name}/"
 save_dir = f"../datasets/{file_name}/iter2/"
 file = f"{file_name}_clean_zh"
 # >>>>>>> fd84715d2d176ac72b546c6039b7eca10cebc99c
+# =======
+file_name = "uptodate_new"
+base_dir = f"../../full_data/{file_name}/"
+save_dir = f"../datasets/{file_name}/iter0/"
+file = f"{file_name}_preformat"
+# >>>>>>> ee78c17f1ae0dc1ff4952d694ec373b73e83e4cc
 # save_file_en = "reclean4_dingxiangyisheng_en_label.jsonl"
-save_file_zh = f"reclean2_{file_name}_zh_label.jsonl"
+save_file_zh = f"reclean0_{file_name}_zh_label.jsonl"
 split_token = "\n\n"
 # 指定参数:
 #   need_special_split=False # 是否需要特殊换行，解决无换行问题
@@ -104,8 +111,12 @@ split_token = "\n\n"
 #   append_title=rue # 是否添加title
 
 # en/zh, 还是不区分，大家根据需要自取
-input=r'C:\Users\Administrator\PycharmProjects\untitled\venv\medicalpdf\reclean4b.jsonl'
-save_file_zh=r'C:\Users\Administrator\PycharmProjects\untitled\venv\reclean4_medicalpdf_zh_label.jsonl'
+# <<<<<<< HEAD
+input=r'C:\Users\Administrator\PycharmProjects\untitled\medicalv2\medicalpdfv2_0724_preformat_zh.jsonl'
+save_file_zh=r'C:\Users\Administrator\PycharmProjects\untitled\medicalv2\1.jsonl'
 sample_data(input, "zh", save_file_zh, append_title=True, need_special_split=False, need_line_num=True)
+# =======
+# sample_data(f"{file}", "zh", save_file_zh, append_title=True, need_special_split=False, need_line_num=True)
+# >>>>>>> ee78c17f1ae0dc1ff4952d694ec373b73e83e4cc
 # sample_data(f"{file}","en",save_file_en,append_title=True,need_special_split=False,need_line_num=True)
 # sample_data(f"{file}","all",save_file_en,append_title=True,need_special_split=False,need_line_num=True)

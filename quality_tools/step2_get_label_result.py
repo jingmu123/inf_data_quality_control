@@ -56,6 +56,7 @@ def get_label_info(result_info):
 # 读取并处理JSON文件
 final_result = {}
 error_list = {}
+<<<<<<< HEAD
 # <<<<<<< HEAD
 base_dir = "../datasets/medicalpdf/iter2/sample"
 file_path = "{}/{}.jsonl".format(base_dir,"reclean2_medicalpdf_zh")
@@ -63,6 +64,10 @@ file_path = "{}/{}.jsonl".format(base_dir,"reclean2_medicalpdf_zh")
 base_dir = "../datasets/medicalpdf/iter2/sample"
 file_path = "{}/{}.jsonl".format(base_dir,"reclean2_medicalpdf_zh")
 # >>>>>>> fd84715d2d176ac72b546c6039b7eca10cebc99c
+=======
+base_dir = "../datasets/medicalpdf/iter5/sample"
+file_path = "{}/{}.jsonl".format(base_dir,"reclean5_medicalpdf_en")
+>>>>>>> ee78c17f1ae0dc1ff4952d694ec373b73e83e4cc
 save_dir = "{}/output".format(base_dir)
 if not os.path.exists(save_dir):
     os.makedirs(save_dir)
