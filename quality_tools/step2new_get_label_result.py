@@ -75,7 +75,9 @@ class ParseLabelResult:
 
     def write_info(self,label_info,user_name,text_info):
         type_all = "#".join(list(set([item.split("#")[1] for item in label_info])))
+        type_all = type_all.replace("/","-")
         file_name = "{}/{}_{}_{}.txt".format(self.save_dir, type_all, text_info["seq_id"], user_name)
+
         with open(file_name, "w", encoding="utf-8") as fw:
             fw.write(text_info["text"])
             fw.write(user_name + "\n")
@@ -164,13 +166,13 @@ class ParseLabelResult:
             else:
                 dirty_count += 1
 
-        S1 = round(clean_count/(clean_count+dirty_count),5)
+        S1 = round(clean_count/(clean_count+dirty_count),5)*100
         S2 = round(sum(self.score_list)/len(self.score_list),5)
 
         if len(ignore_key_list) == 0:
             print(f"干净文本:{clean_count}", f"脏文本:{dirty_count}")
             print(f"各纬度问题频次F={self.F}")
-            print(f"合格率={S1}")
+            print(f"合格率={S1}%")
         if len(ignore_key_list) == 0:
             print(f"质量分={S2}")
         else:
@@ -200,12 +202,9 @@ def computer_ignore_2(ignore_score_sorted):
 
 if __name__ == '__main__':
 
-    pr = ParseLabelResult(base_dir="../datasets/uptodate_new/iter2/sample", file_name="reclean2_uptodate_new_zh")
+    pr = ParseLabelResult(base_dir="../datasets/medicalpdfv2/iter0/sample", file_name="reclean1_medicalpdfv2_en")
     problem_list,score = pr.score_count() # 默认为空，不忽略key
 
     ignore_score_sorted = computer_ignore_1(problem_list)
     computer_ignore_2(ignore_score_sorted)
 
-
-# 各纬度问题频次F={'无关文本': 100, '语义不完整': 13, '语句重复': 2, '多余换行': 4, '多余标点': 4, '缺少标点': 1, '特殊符号': 1}
-# 各纬度问题频次F={'缺少换行': 503, '多余换行': 3, '无关文本': 6, '语义不完整': 23, '完整性': 3, '缺少标点': 6, '多余标点': 10, '多余空格': 1, '标点错误': 1}
