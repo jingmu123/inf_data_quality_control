@@ -182,7 +182,7 @@ class speicalProces:
                     keys[0], keys[1] = keys[1], keys[0]
                     values[0], values[1] = values[1], values[0]
                     res_left = dict(zip(keys, values))
-            # first_key = next(iter2(res_left.keys()))
+            # first_key = next(iter2_new(res_left.keys()))
             for x in res_left.keys():
                 if x < set_x / 3 and res_left[x] >= 4:
                     first_key = x
@@ -200,7 +200,7 @@ class speicalProces:
                     keys[0], keys[1] = keys[1], keys[0]
                     values[0], values[1] = values[1], values[0]
                     res_right = dict(zip(keys, values))
-            # first_key = next(iter2(res_right.keys()))
+            # first_key = next(iter2_new(res_right.keys()))
             for x in res_right.keys():
                 if x > set_x * 2 / 3 and res_right[x] >= 4:
                     first_key = x
