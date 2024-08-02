@@ -66,11 +66,11 @@ pattern_list = [
     r'删除8:<u>\1</u>'
 ],
 [
-    r'([\(]\s?([Tt]able|[sS]ee)[^\)]*?[\)])',
+    r'([\(]\s?[^\(]{0,50}([Tt]able|[sS]ee|见表)[^\)]*?[\)])',
     r'删除9:<u>\1</u>'
 ],
 [
-    r'([\[]\s?([Tt]able|[sS]ee)[^\]]*?[\]])',
+    r'([\[]\s?[^\[]{0,50}([Tt]able|[sS]ee|见表)[^\]]*?[\]])',
     r'删除9:<u>\1</u>'
 ],
 # [
@@ -135,12 +135,16 @@ pattern_list = [
     r'删除22:<u>\1</u>'
 ],
 [
-    r'[^m](<sup>[\d+\s,a-z]{1,}</sup>)',
-    r'删除23:<u>\1</u>'
+    r'([^m])(<sup>[\d+\s,a-z]{1,}</sup>)',
+    r'\1删除23:<u>\2</u>'
 ],
 [
     r'([*]{0,3}\[[^\[\]]{0,50}\d{4}[^\[\]]{0,50}\][*]{0,3})',
     r'删除24:<u>\1</u>'
+],
+[
+    r'(.*中国分类号.*)',
+    r'删除25:<u>\1</u>'
 ]
 ]
 
@@ -220,12 +224,12 @@ class speicalProces:
             # print(middle_content_score,middle_content)
             # print(last_paragraph_score,last_paragraph)
             if first_line_score > 4000 and not re.search('\|',first_line) and len(first_line) < 150 and re.search(r'[A-Z][a-z]{1,}\s[A-Z][a-z]{1,}',first_line):
-                duans[0] = "疑似页眉" + duans[0]
+                duans[0] = "疑似页眉" + rf'<u>{duans[0]}</u>'
             elif first_line_score > 8000 and not re.search("#",first_line) and not re.search('\|',first_line) and len(first_line) < 150 and re.search(r'[A-Z][a-z]{1,}\s[A-Z][a-z]{1,}',first_line):
-                duans[0] = "疑似页眉" + duans[0]
+                duans[0] = "疑似页眉" + rf'<u>{duans[0]}</u>'
 
             if last_paragraph_score > 4000 and not re.search('\|',last_paragraph) and len(last_paragraph) < 150 and re.search(r'[A-Z][a-z]{1,}\s[A-Z][a-z]{1,}',last_paragraph):
-                duans[-1] = "疑似页脚" + duans[-1]
+                duans[-1] = "疑似页脚" + rf'<u>{duans[-1]}</u>'
         return duans
 
     def is_merge_ngram(self,text, next_text):
@@ -245,50 +249,30 @@ class speicalProces:
 
     def is_merge_duannei(self, text, next_text):
         # 定义一个介词列表
-        preposition_list = ['of', 'in', 'and', 'or', 'not', 'the', 'a', 'any', 'for', 'is', 'The', 'A', 'with', '&']
-        if re.search(r'\s\d+\.$', text):  #
+        if re.search(r'^#{0,5}\s?(\d+[\.,\s]?){0,5}$', text) and re.search(r'^#{0,5}\s?[A-Z]',next_text):  # 匹配段落中只有序号且下一段是大写开头的情况 都可以带#
             return True
-        if re.search(r'^([\d+A-Z][\.,]){1,3}$', text) and next_text.lstrip()[0].isupper():  # 匹配段落中只有序号且下一段是大写开头的情况
+        preposition_list = ['of', 'in', 'and', 'or', 'not', 'the', 'a', 'any', 'for', 'is', 'The', 'A', 'with', '&',
+                            'And', 'their', 'his', 'her','that']
+        # 新增条件: 如果 stripped_item 结尾的单词在 preposition_list 中
+        if any(text.rstrip().endswith(" " + prep) for prep in preposition_list) and not re.search("^#",next_text.strip()):
             return True
-        if any(text.rstrip().endswith(" " + prep) for prep in preposition_list) and not re.search(r'^\d+\.',next_text.strip()):  # 匹配同一段中介词结尾的
+        if text and text[-1] in ['-', '"', ',']:
             return True
-        if text.strip() and text[-1] in ['-', '—']:
-            return True
-        if "#" not in text and "*" not in text and re.search(r'[^\.?!]$', text) and re.match(r'^[a-z]',
-                                                                                             next_text.lstrip()):
-            return True
-        if re.search(r'\([^\)]*$|\[[^\]]*$', text) and re.search(r'^[^\(\[]*[\)\]]',
-                                                                 next_text):  # 前一行有一个未对应的左括号，下一行前面有一个与之对应的右括号
-            return True
-        # 可以先注释掉
-        # if ((text.rstrip()[-1].islower() or text.rstrip()[-1] in [',']) and (next_text.lstrip()[0].isupper() or next_text.lstrip()[0] in ['(',')','"','”','“']) and "#" not in text and "#" not in next_text and self.is_merge_ngram(text, next_text)):   # 前一行小写或逗号结尾，下一行大写开头，且与标题无关，加入ngram判断
-        #     return True
-        if re.search(r'^#{1,3}\s?[\d\.]{1,10}$', text) and next_text.lstrip()[0].isupper():
-            return True
-        if len(text.strip()) == 1 and text.strip() in ['.', '·', '•', '○', '.']:
-            return True
-        if text and next_text and re.search(r'^#', text) and next_text[0].isupper() and len(next_text) < 20:
+        if text.strip() and next_text.strip() and text.strip()[-1].islower() and next_text.strip()[0].islower():
             return True
         return False
 
     def is_merge_duan(self, stripped_item, next_item):
         # 定义一个介词列表
-        preposition_list = ['of', 'in', 'and', 'or', 'not', 'the', 'a', 'any', 'for', 'is', 'The', 'A', 'with', '&']
+        if re.search(r'^#{0,5}\s?(\d+[\.,\s]?){0,5}$', stripped_item) and re.search(r'^#{0,5}\s?[A-Z]',next_item):  # 匹配段落中只有序号且下一段是大写开头的情况 都可以带#
+            return True
+        preposition_list = ['of', 'in', 'and', 'or', 'not', 'the', 'a', 'any', 'for', 'is', 'The', 'A', 'with', '&',
+                            'And', 'their', 'his', 'her','that']
         # 新增条件: 如果 stripped_item 结尾的单词在 preposition_list 中
-        if any(stripped_item.rstrip().endswith(" " + prep) for prep in preposition_list):
+        if any(stripped_item.rstrip().endswith(" " + prep) for prep in preposition_list) and not re.search("^#", next_item.strip()):
             return True
         if stripped_item and stripped_item[-1] in ['-', '"', ',']:
             return True
-        if re.search(r'Figs?\.$', stripped_item):
-            return True
-        if re.search(r'\([^\)]*$|\[[^\]]*$', stripped_item) and re.search(r'^[^\(\[]*[\)\]]', next_item):
-            return True
-        if len(stripped_item) == 1 and stripped_item in ['.', '·', '•', '○']:
-            return True
-        if re.search(r'^#', stripped_item) and next_item[0].isupper() and len(next_item) < 20 and next_item.strip():
-            return True
-        # if next_item[0].islower() and self.is_merge_ngram(stripped_item, next_item):
-        #     return True
         return False
 
     def step3_1_more_linefeed_duannei(self, context):
@@ -300,7 +284,7 @@ class speicalProces:
             # print(item_sections)
             section_index = 0
             while section_index < len(item_sections) - 1:  # 确保不会越界
-                if self.is_merge_duannei(item_sections[section_index], item_sections[section_index + 1]) and item_sections[section_index] and item_sections[section_index + 1]:
+                if self.is_merge_duannei(item_sections[section_index],item_sections[section_index + 1]):
                     item_sections[section_index] += "|删除段内换行|" + item_sections[section_index + 1].lstrip()
                     del item_sections[section_index + 1]
                 else:
@@ -310,100 +294,19 @@ class speicalProces:
             item = '\n'.join(item_sections)
             new_context.append(item)
         return new_context
-
-    def step3_2_more_linefeed_duan(self, context):
+    def step3_2_more_linefeed_duan(self,context):
         index = 0
         while index < len(context):
             item = context[index]
 
             # 合并以小写字母或特定标点符号开头的段落
             stripped_item = item.strip()
-            # print(stripped_item)
             if index >= 0:
-                if index > 0 and stripped_item and context[index - 1][-1] not in ['.', '!', '?', '|',
-                                                                                  ':'] and not re.search('#',
-                                                                                                         stripped_item) and (
-                        stripped_item[0].islower() or stripped_item[0] in ["(", "[", ")", "]", "."]) and not re.search(
-                    '^[a-z]\s?\.', stripped_item.lstrip()):
-                    """
-                    遇到小写开头的段 1.上一段没有#直接连上去 2.上一段有#但是不止一行，切上一段的最后一行和当前的第一行，使用模型判断该不该连 3.上一段有#但是只有一行，去上上段切最后一行和当前的第一行，模型判断该不该连
-                    """
-                    # 上一段不能出现#，出现#证明是标题段
-                    if not re.search(r'#', context[index - 1]):
-                        # 合并到前一个 item
-                        context[index - 1] = context[index - 1].rstrip() + "|删除段之间换行-1|" + item.lstrip()
-                        # 删除当前 item
-                        del context[index]
-                        # 继续检查当前索引位置的元素
-                        index = index - 1
-                        continue
-                    elif len(re.split(r'\n', context[index - 1])) >= 2:
-                        # 上一段有标题也有正文，分割context[index-1]最后一行，分割stripped_item的第一行
-                        previous_paragraph_lines = re.split(r'\n', context[index - 1])
-                        last_line_of_previous = previous_paragraph_lines[-1].strip()
-                        first_line_of_current = stripped_item.splitlines()[0].strip()
-                        if self.is_merge_ngram(last_line_of_previous, first_line_of_current):
-                            # 合并到前一个 item
-                            context[index - 1] = context[index - 1].rstrip() + "|删除段之间换行-2|" + item.lstrip()
-                            # 删除当前 item
-                            del context[index]
-                            # 继续检查当前索引位置的元素
-                            index = index - 1
-                            continue
-                    elif len(re.split(r'\n', context[index - 1])) == 1:
-                        if index - 2 and len(re.split(r'\n', context[index - 2])) > 1 and context[index - 2][
-                            -1] not in ['.', '!', '?']:
-                            previous_paragraph_lines = re.split(r'\n', context[index - 2])
-                            last_line_of_previous = previous_paragraph_lines[-1].strip()
-                            first_line_of_current = stripped_item.splitlines()[0].strip()
-                            if self.is_merge_ngram(last_line_of_previous, first_line_of_current):
-                                # 合并context[index - 2]
-                                context[index - 2] = context[index - 2].rstrip() + "|删除段之间换行-3|" + item.lstrip()
-                                # 删除当前 item
-                                del context[index]
-                                # 继续检查当前索引位置的元素
-                                index = index - 1
-                                continue
-                if index + 1 < len(context) and re.search(r'\([^\)]*$|\[[^\]]*$', stripped_item) and re.search(
-                        r'^[^\(\[]*[\)\]]', context[index + 1]):
-                    # 前一段有左半边括号，后一段有右半边括号，连接两段
-                    if index + 1 < len(context) and "#" not in context[index + 1] and not re.search(r'^[Ff]ig', context[
-                        index + 1].lstrip()):
-                        # 合并到下一个 item
-                        context[index] = item.rstrip() + "|删除段之间换行-6|" + context[index + 1].lstrip()
-                        # 删除下一个 item
-                        del context[index + 1]
-                        # 不增加 index, 继续检查当前索引位置的元素
-                        index = index - 1
-                        continue
-                elif index + 1 < len(context) and re.search(r'\([^\)]*$|\[[^\]]*$', stripped_item) and not re.search(
-                        r'^[^\(\[]*[\)\]]', context[index + 1]):
-                    # 前一段有左半边括号，后一段没有与之对应的括号，说明左括号后半段不完整，直接把左括号以后删掉
-                    context[index] = re.sub(r'[^\(\)\[\]]\(.*$', r'', item)
-                    index = index - 1
-                    continue
-                elif index + 1 < len(context) and self.is_merge_duan(stripped_item,
-                                                                     context[index + 1]) and stripped_item is not None:
-                    if index + 1 < len(context) and "#" not in context[index + 1] and not re.search(r'^[Ff]ig', context[
+                if index + 1 < len(context) and self.is_merge_duan(stripped_item,context[index + 1]) and stripped_item is not None:
+                    if index + 1 < len(context) and not re.search(r'^[Ff]ig', context[
                         index + 1].lstrip()):
                         # 合并下一个 item
-                        context[index] = item.rstrip() + "|删除段之间换行-4|" + context[index + 1].lstrip()
-                        # 删除下一个 item
-                        del context[index + 1]
-                        # 不增加 index, 继续检查当前索引位置的元素
-                        index = index - 1
-                        continue
-
-                elif index + 1 < len(context) and re.search(r'^[\d\.]{1,10}$', stripped_item) and re.search(r'#',
-                                                                                                            context[
-                                                                                                                index + 1].lstrip()):
-                    # 上一段只有一个序号下一段是标题    例  【1】1.  【2】 ## 标题     把序号插在 #和标题中间 形成 ## 1.标题
-                    match = re.match(r"(#+)\s+(.*)", context[index + 1].lstrip())
-                    if match:
-                        part1 = match.group(1)  # 获取 ## 部分
-                        part2 = match.group(2)  # 获取标题内容部分
-                        # 合并下一个 item
-                        context[index] = "删除段之间换行-7" + part1 + " " + stripped_item + " " + part2
+                        context[index] = item.rstrip() + "|删除段之间换行|" + context[index + 1].lstrip().lstrip()
                         # 删除下一个 item
                         del context[index + 1]
                         # 不增加 index, 继续检查当前索引位置的元素
@@ -413,7 +316,7 @@ class speicalProces:
             # print(context)
 
         return context
-    def step4_is_mulupage(self,duans):
+    def step5_is_mulupage(self,duans):
         """
         目录页的特点:
         1.文章前几页
@@ -440,16 +343,101 @@ class speicalProces:
                 if re.search('\.{8,10}',line) or re.search('^([·]|[\d\.\s]{1,10})',line.strip()):
                     catalogue1_num += 1
 
-                # if zeroshot_classifier(line,classes_verbalized,hypothesis_template=hypothesis_template,multi_label=False)["labels"][0] == "catalogue":
-                #     catalogue2_num += 1
 
-        # print(catalogue1_num,catalogue2_num,lines_num)
         if catalogue1_num > lines_num * 0.5:
             duans.insert(0, "(本页删除)本页使用特征判断为目录页")
-        # if catalogue2_num > lines_num * 0.5:
-        #     duans.insert(0, "(本页删除)本页使用模型判断为目录页")
+
         return duans
 
+    def get_person_idx(self, item):
+        doc = nlp(item)
+        person_block = []
+        person_num = 0
+        # print(doc.ents)
+        for ent in doc.ents:
+            if ent.label_ == "PERSON":
+                if len(person_block) == 0:
+                    person_block.append([ent.start_char, ent.end_char])
+                elif ent.end_char - person_block[-1][-1] > 5:
+                    person_block.append([ent.start_char, ent.end_char])
+                else:
+                    person_block[-1][-1] = ent.end_char
+                person_num += 1
+        return person_block, person_num
+
+    def step4_rm_cite(self, item):
+        cite_tag = []
+        cite_index = 1 if len(re.findall(r'\[\d+\]', item)) > 0 else 0
+        cite_year = 1 if len(
+            re.findall(r'\[\d\d\d\d\]', item) or re.findall(r'\.\s?\b\d{4}\b', item) or re.findall(r'\b\d{4}\b\s?[;\.]',
+                                                                                                   item)) else 0  # 年份，比如 . 2010 、 2010;
+        cite_page = 1 if len(re.findall(r'\d+\s?:\d+\s?[–-]\s?\d+', item)) else 0
+        cite_page2 = 1 if len(re.findall(r'[\.,]\s?\d+\s?[–-]\s?\d+[\.,]', item)) else 0
+        cite_J = 1 if len(re.findall(r'\[[Jj]\]', item)) else 0
+        cite_doi = 1 if " doi " in item else 0
+        cite_etal = 1 if (" et al" in item or 'et\u00A0al' in item or 'et al' in item) else 0
+        cite_vol = 1 if (" vol. " in item or " Vol " in item or " Vol. " in item or " vol " in item) else 0
+        cite_pp = 1 if (re.search("\s[Pp]{1,2}(\.)?\s",item)) else 0
+        # cite_page = 1 if len(re.search(r'\.\s?\b\d{4}\b',item)) else 0
+        cite_phonenum = 1 if re.search(r" [Pp]hone:|Fax:", item) else 0
+        mulu = 1 if re.search(r'[\.\s]{15,}', item) else 0
+        cite_tag = [cite_index, cite_year, cite_J, cite_doi, cite_etal, cite_page, cite_vol, cite_phonenum, cite_pp,cite_page2]
+        # if sum(cite_tag) > 1 and '|' not in item:
+        #     return "参考删除-0:<u>{}</u>".format(item)
+        person_block, person_num = self.get_person_idx(item)
+        # 超过5个人名
+        person_block_lens = [block_item[1] - block_item[0] for block_item in person_block]
+        person_lens = sum(person_block_lens)
+        if len(item) > 0 and person_lens / len(item) > 0.5 and len(item) > 100:
+            return "参考删除-1:<u>{}</u>".format(item)
+        # 只有个名字数量
+        elif person_num > 5 and '|' not in item and len(item) < 200:
+            return "参考删除-2:<u>{}</u>".format(item)
+        elif sum(cite_tag) > 0 and person_num > 0 and len(item) < 500:
+            # print(item)
+            return "参考删除-3:<u>{}</u>".format(item)
+        elif mulu:
+            return "目录删除:<u>{}</u>".format(item)
+        else:
+            return item
+
+    def step4_removepage(self, context):
+        # context 是一个列表，每个 item 是一段内容
+        context_lens = len(context)
+        # 用于统计有多少个段落中出现了人名
+        num = 0
+        mulu_num = 0
+        new_context = []
+        references_started = False
+        for item in context:
+            # 返回的item是已经被重写过的item
+            # if item.strip() in ["##References","## References","## Suggested Readings","##Suggested Readings"]:
+            if re.search(r'^#{1,3}\s?(Reference|Suggested Reading|参考文献)s?',item.strip()):
+                references_started = True
+            if references_started:
+                item = "参考删除-4:<u>{}</u>".format(item)
+            else:
+                item = self.step4_rm_cite(item)
+            # 新的item重新加入一个新的列表
+            new_context.append(item)
+            # 判断item是否被判定未参考文献
+            if re.search(r'参考删除',item):
+                # 如果当前段落中有人名且符合参考文献的特征
+                num += 1
+            elif re.search(r'目录删除',item):
+                mulu_num += 1
+        # print(new_context)
+        # 对整页的一个判断
+        if context_lens >= 4 and num >= context_lens * 0.5 and not references_started:
+            new_context.insert(0, "(本页删除)本页在超过一半的段落中发现人名且符合参考文献的特征")
+            # return []
+        elif mulu_num > 0:
+            new_context.insert(0, "(本页删除)本页发现目录的特征")
+            # return []
+        # else:
+        #     # 删除 new_context 中被标记为参考删除的 item
+        #     new_context = [item for item in new_context if not re.search(r'参考删除', item)]
+        return new_context
 def clean_text(text,lang):
     sp = speicalProces()
 
@@ -469,9 +457,11 @@ def clean_text(text,lang):
     # 删除图片描述
     duans = sp.step1_delete_photo_describe(duans)
     duans = sp.step2_is_pagefoot(duans,lang)
-    # duans = sp.step3_1_more_linefeed_duannei(duans)
-    # duans = sp.step3_2_more_linefeed_duan(duans)
-    duans = sp.step4_is_mulupage(duans)
+    duans = sp.step3_1_more_linefeed_duannei(duans)
+    duans = sp.step3_2_more_linefeed_duan(duans)
+    duans = sp.step4_removepage(duans)
+    duans = sp.step5_is_mulupage(duans)
+
     # 正则替换
     if duans and len(duans) > 0 and duans is not None:
         for item in duans:
@@ -502,7 +492,8 @@ def post_process(context):
     context = re.sub(r'\n +\n', "\n\n", context)
     # 去掉过多\n的情况
     context = re.sub("\n{2,}", "\n\n", context)
-
+    context = re.sub(r'[。，\.](\s?[。，\.：；]){1,5}',r'。',context)
+    context = re.sub(r'[,\.](\s+[,\.]){1,5}',r'\.',context)
     # context = re.sub("[li][\.,]" , '1.' ,context)
     return context
 
@@ -516,32 +507,32 @@ def process_line(items, sp):
     item = json.dumps(item, ensure_ascii=False)
     return item
 
-# fw = open("C:/pycharm/orc识别pdf清洗数据/pdf/clean_json/reclean1_guidelines_ly_gptpdf.jsonl", "w", encoding="utf-8")
+fw = open("C:/pycharm/orc识别pdf清洗数据/pdf/clean_json/reclean2_guidelines_ly_gptpdf.jsonl", "w", encoding="utf-8")
 with open("C:\pycharm\orc识别pdf清洗数据\pdf\clean_json\original_data\guidelines_ly_gptpdf_preformat.jsonl", "r", encoding="utf-8") as fs:
     lines = fs.readlines()
 
     # 随机抽取5000条记录
     sampled_lines = random.sample(lines, 2000)
-    for items in tqdm(lines):
+    for items in tqdm(sampled_lines):
         item = json.loads(items.strip())
-        if item["seq_id"] == "0960b554-f506-4942-8576-30213e8d4686":
-            # print(item)
-            # print(detect(item['text']))
-            # if detect(item['text']) == "zh-cn":
-            #     lang = "zh"
-            # else:
-            lang = item['lang']
+        # if item["seq_id"] == "9194c2a8-809d-4632-ab5a-6358c172cb02":
+        # print(item)
+        # print(detect(item['text']))
+        # if detect(item['text']) == "zh-cn":
+        #     lang = "zh"
+        # else:
+        lang = item['lang']
 
-            page_num = item['attr']['page_num']
-            print(page_num)
-            text = item['text']
-            text = clean_text(text,lang)
-            text = post_process(text)
-            # print(context)
-            item["text"] = text
-            item = json.dumps(item, ensure_ascii=False)
-            # print(item)
-            # print("*" * 100)
-        # fw.write(item + "\n")
+        page_num = item['attr']['page_num']
+        print(page_num)
+        text = item['text']
+        text = clean_text(text,lang)
+        text = post_process(text)
+        # print(context)
+        item["text"] = text
+        item = json.dumps(item, ensure_ascii=False)
+        # print(item)
+        # print("*" * 100)
+        fw.write(item + "\n")
 
 
