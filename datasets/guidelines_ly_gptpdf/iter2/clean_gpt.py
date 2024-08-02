@@ -13,8 +13,13 @@ import kenlm
 from nltk.tokenize import word_tokenize
 import fasttext
 from collections import defaultdict
+<<<<<<< HEAD
 model = kenlm.LanguageModel(r"C:\Program Files\lk\4k_gram.klm")
 fasttext_model = fasttext.load_model(r'C:\Program Files\lk\fenlei_model.bin')
+=======
+model = kenlm.LanguageModel(r"C:\Users\Administrator\Desktop\4k_gram.klm")
+fasttext_model = fasttext.load_model('fenlei_model.bin')
+>>>>>>> e70b814393e43ed40fc465efff2c1152128b7d1d
 # -*- coding: utf-8 -*-
 from modelscope.pipelines import pipeline
 from modelscope.utils.constant import Tasks
@@ -83,21 +88,37 @@ pattern_list = [
 #     r'删除10:<u>\1</u>'
 # ],
 [
+<<<<<<< HEAD
     r'([\(（][\d\s,\.\-–]{2,50}[\)）])',
     r'删除11:<u>\1</u>'
 ],
 [
     r'(\[\s?\d{1,4}(\s{0,3}[\-–—，,\.]+\s{0,3}\d{1,4}){0,20}\s?\]\s?\*?)',
     r'删除12:<u>\1</u>'
+=======
+    r'(\([\d\s,\.\-–]{1,50}\))',
+    r'删除11:<u>\1</u>'
+],
+[
+    r'([^\d])(\[\s?\d{1,4}(\s{0,3}[\-–—,\.]\s{0,3}\d{1,4}){0,20}\s?\])',
+    r'\1删除12:<u>\2</u>'
+>>>>>>> e70b814393e43ed40fc465efff2c1152128b7d1d
 ],
 [
     r'([^\d])([1-9][0-9]{1,4}(\s{0,3}[\-–,\.]\s{1,3}[1-9][0-9]{1,4}){1,20})([^\d]?)',
     r'\1删除13:<u>\2</u>\4'
 ],
+<<<<<<< HEAD
 # [
 #     r'(\[\s?(\d{1,3}\s?[-,，]?\s?)+\d?\s?\]\s?\*?)',
 #     r'删除14:<u>\1</u>'
 # ],
+=======
+[
+    r'(\[\s?(\d{1,3}\s?[-,，]?\s?)+\d?\s?\]\s?\*?)',
+    r'删除14:<u>\1</u>'
+],
+>>>>>>> e70b814393e43ed40fc465efff2c1152128b7d1d
 [
     r'(\(\s?[IⅡⅢⅣⅤⅥⅦⅧⅨⅩⅪⅫa-zA-Z]?\s?[a-zA-Z]?\s?,\s?[a-zA-Z]\s?\)\s?)[。\.]',
     r'删除15:<u>\1</u>'
@@ -540,7 +561,11 @@ with open("C:\pycharm\orc识别pdf清洗数据\pdf\clean_json\original_data\guid
             # print(context)
             item["text"] = text
             item = json.dumps(item, ensure_ascii=False)
+<<<<<<< HEAD
             print(text)
+=======
+            # print(item)
+>>>>>>> e70b814393e43ed40fc465efff2c1152128b7d1d
             # print("*" * 100)
         # fw.write(item + "\n")
 
