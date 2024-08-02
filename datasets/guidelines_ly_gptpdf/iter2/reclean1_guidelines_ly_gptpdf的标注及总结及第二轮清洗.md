@@ -106,3 +106,5 @@ def is_merge_duan(self, stripped_item, next_item):
 
 ai改动文本的频次很高
 
+序号格式不一致、栏目混乱、表格格式和一些无特殊特征的有用性未解决
+
