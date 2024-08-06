@@ -127,7 +127,7 @@ pattern_list = [
 #     r'<u>\1替换为-</u>'
 # ]
 [
-    r'(\^\d+([\s,\-\d+]{0,6})+\^)',
+    r'(\^\d+([ ,\-\d]{0,8})+\^?)',
     r'删除21:<u>\1</u>'
 ],
 [
@@ -153,6 +153,10 @@ pattern_list = [
 [
     r'([\(（] *(\d+[\-,]?[A-Za-z]+) *[\)）])',
     r'删除27:<u>\1</u>'
+],
+[
+    r'((\\+\[\d+[ ,\-\d]*\\+\])|\*+)',
+    r'删除28:<u>\1</u>'
 ]
 ]
 
@@ -517,7 +521,7 @@ def process_line(items, sp):
 
 # fw = open("C:\\Program Files\\lk\\projects\\pdf\\guidelines_ly_gptpdf\\guidelines_ly_gptpdf_preformat.jsonl", "w", encoding="utf-8")
 with open("C:\\Program Files\\lk\\projects\\pdf\\guidelines_ly_gptpdf\\guidelines_ly_gptpdf_preformat.jsonl", "r", encoding="utf-8") as fs:
-    lines = fs.readlines()[26493:26494]
+    lines = fs.readlines()[38830:38831]
 
     # 随机抽取5000条记录
     # sampled_lines = random.sample(lines, 2000)
