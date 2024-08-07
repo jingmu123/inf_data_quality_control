@@ -13,8 +13,8 @@ import kenlm
 from nltk.tokenize import word_tokenize
 import fasttext
 from collections import defaultdict
-model = kenlm.LanguageModel(r"C:\Program Files\lk\4k_gram.klm")
-fasttext_model = fasttext.load_model(r'C:\Program Files\lk\fenlei_model.bin')
+model = kenlm.LanguageModel(r"C:\Users\Administrator\Desktop\4k_gram.klm")
+fasttext_model = fasttext.load_model('fenlei_model.bin')
 # -*- coding: utf-8 -*-
 from modelscope.pipelines import pipeline
 from modelscope.utils.constant import Tasks
@@ -53,7 +53,7 @@ pattern_list = [
     r'删除4:<u>\1</u>'
 ],
 [
-    r'(👍|▶|●|©|®|([^\n]*↑[^\n]*)|†|¶|║|§|∧|™|■|❏|□|✓|✔|❍|😃|�|∑|✦|❤️|❤|★|☆)',
+    r'(👍|▶|●|©|®|([^\n]*↑[^\n]*)|†|¶|║|§|∧|™|■|❏|□|✓|✔|❍|😃|�|∑|✦|❤️|❤|☆|★)',
     r'删除5:<u>\1</u>'
 ],
 [
@@ -66,11 +66,11 @@ pattern_list = [
     r'删除8:<u>\1</u>'
 ],
 [
-    r'([\(]\s?[^\(]{0,50}([Tt]able|[sS]ee|见表)[^\)]*?[\)])',
+    r'([\(]\s?[^\(]{0,50}([Tt]able|[sS]ee|见表|图)[^\)]*?[\)])',
     r'删除9:<u>\1</u>'
 ],
 [
-    r'([\[]\s?[^\[]{0,50}([Tt]able|[sS]ee|见表)[^\]]*?[\]])',
+    r'([\[]\s?[^\[]{0,50}([Tt]able|[sS]ee|见表|图)[^\]]*?[\]])',
     r'删除9:<u>\1</u>'
 ],
 # [
@@ -83,21 +83,21 @@ pattern_list = [
 #     r'删除10:<u>\1</u>'
 # ],
 [
-    r'([\(（][\d\s,\.\-–]{2,50}[\)）])',
+    r'(\([\d\s,\.\-–]{1,50}\))',
     r'删除11:<u>\1</u>'
 ],
 [
-    r'(\[\s?\^?\d{1,4}(\s{0,3}[\-–\^—，,\.]+\s{0,3}\d{1,4}){0,20}\s?\]\s?\*?)',
-    r'删除12:<u>\1</u>'
+    r'([^\d])(\[\s?[\dA-Za-z]{1,4}(\s{0,3}[\-–\^~—,\.]\s{0,3}[\dA-Za-z]{1,4}){0,20}\s?\])',
+    r'\1删除12:<u>\2</u>'
 ],
 [
-    r'([^\d\.])([1-9][0-9]{1,4}(\s{0,3}[\-–,\.]\s{1,3}[1-9][0-9]{1,4}){1,20})([^\d\%]?)',
+    r'([^\d])([1-9][0-9]{1,4}(\s{0,3}[\-–,\.]\s{1,3}[1-9][0-9]{1,4}){1,20})([^\d\%]?)',
     r'\1删除13:<u>\2</u>\4'
 ],
-# [
-#     r'(\[\s?(\d{1,3}\s?[-,，]?\s?)+\d?\s?\]\s?\*?)',
-#     r'删除14:<u>\1</u>'
-# ],
+[
+    r'(\[\s?(\d{1,3}\s?[-,，]?\s?)+\d?\s?\]\s?\*?)',
+    r'删除14:<u>\1</u>'
+],
 [
     r'(\(\s?[IⅡⅢⅣⅤⅥⅦⅧⅨⅩⅪⅫa-zA-Z]?\s?[a-zA-Z]?\s?,\s?[a-zA-Z]\s?\)\s?)[。\.]',
     r'删除15:<u>\1</u>'
@@ -127,7 +127,7 @@ pattern_list = [
 #     r'<u>\1替换为-</u>'
 # ]
 [
-    r'(\^\d+([ ,\-\d]{0,8})+\^?)',
+    r'(\^\d+([\s,\-\d+]{0,6})+\^?)',
     r'删除21:<u>\1</u>'
 ],
 [
@@ -147,16 +147,33 @@ pattern_list = [
     r'删除25:<u>\1</u>'
 ],
 [
+    r'([。！？]{1,3}\s?)(\d+([\-—，]\d+){0,3})([。！？\s]{0,3})$',   # 匹配在段落结尾出现的  \d+。或 。\d+
+    r'\1删除26:<u>\2</u>\4'
+],
+# 27 28一定要分开只能一边有中文，否则会将中文中间的数字都删掉，且这里的标点只能是表示句子结束的标点，半句出现数字是常见的
+[
+    r'([。！？]\s?)(\d+([\-—，,]\d+){0,3})([。！？\u4e00-\u9fa5])',    # 匹配[。！？,]\d+[。！？,\u4e00-\u9fa5]
+    r'\1删除27:<u>\2</u>\4'
+],
+[
+    r'([。！？\u4e00-\u9fa5]\s?)(\d+([\-—，,]\d+){0,3})([。！？])',  # 匹配[。！？,\u4e00-\u9fa5]\d+[。！？,]
+    r'\1删除28:<u>\2</u>\4'
+],
+[
     r'([\u2070-\u2079\u2080-\u2089¹]+)',
-    r'删除26:<u>\1</u>'
+    r'删除29:<u>\1</u>'
 ],
 [
     r'([\(（] *(\d+[\-,]?[A-Za-z]+) *[\)）])',
-    r'删除27:<u>\1</u>'
+    r'删除30:<u>\1</u>'
+],
+[
+    r'(^\d$)',
+    r'删除31:<u>\1</u>'
 ],
 [
     r'((\\+\[\d+[ ,\-\d]*\\+\])|\*+)',
-    r'删除28:<u>\1</u>'
+    r'删除32:<u>\1</u>'
 ]
 ]
 
@@ -167,8 +184,6 @@ context_pattern = [
 
 # nlp = spacy.load("en_core_web_trf")
 nlp = spacy.load("en_core_web_sm")
-# 增加最大长度限制
-# nlp.max_length = 10000000  # 将最大长度增加到200万字符（根据需要调整）
 
 class speicalProces:
     def __init__(self):
@@ -215,9 +230,10 @@ class speicalProces:
             text = re.sub(r'【\d+】', '', text)
             label = fasttext_model.predict(text.strip().replace('\n', ''))
             print(label[0][0])
-            if label[0][0] in ['__label__mulu', '__label__cankao']:
-                text = "(本页删除)本页被模型判断为参考页或目录页" + text
-
+            if label[0][0] in ['__label__cankao'] and not re.search(r'参考删除-4', text):
+                text = "(本页删除)本页被模型判断为参考页" + text
+            if label[0][0] in ['__label__mulu']:
+                text = "(本页删除)本页被模型判断为目录页" + text
         return text
 
     def step2_is_pagefoot(self, duans,lang):
@@ -328,38 +344,6 @@ class speicalProces:
             # print(context)
 
         return context
-    def step5_is_mulupage(self,duans):
-        """
-        目录页的特点:
-        1.文章前几页
-        2.可能存在多个\.的情况(参考文献处理中已经把\.多的页给删掉了)
-        3.循环context，item长度短数量多
-        :param context: 文本信息
-        :param page_num: 页码
-        :return: context
-        """
-        # 对文本进行分类判断
-        # hypothesis_template = "The format of this text belongs to {}"
-        # classes_verbalized = ["Text content", "catalogue"]
-
-        short_item_num = 0
-        lines_num = 0
-        catalogue1_num = 0
-        catalogue2_num = 0
-        for item in duans:
-            # if len(item.strip()) <= 200:
-            #     short_item_num += 1
-            lines = re.split(r"\n", item.strip())
-            for line in lines:
-                lines_num+=1
-                if re.search('\.{8,10}',line) or re.search('^([·]|[\d\.\s]{1,10})',line.strip()):
-                    catalogue1_num += 1
-
-
-        if catalogue1_num > lines_num * 0.5:
-            duans.insert(0, "(本页删除)本页使用特征判断为目录页")
-
-        return duans
 
     def get_person_idx(self, item):
         doc = nlp(item)
@@ -392,7 +376,7 @@ class speicalProces:
         cite_pp = 1 if (re.search("\s[Pp]{1,2}(\.)?\s",item)) else 0
         # cite_page = 1 if len(re.search(r'\.\s?\b\d{4}\b',item)) else 0
         cite_phonenum = 1 if re.search(r" [Pp]hone:|Fax:", item) else 0
-        mulu = 1 if re.search(r'[\.\s]{15,}', item) else 0
+        mulu = 1 if re.search(r'[\.\s]{15,}', item) and not re.search("|",item) else 0
         cite_tag = [cite_index, cite_year, cite_J, cite_doi, cite_etal, cite_page, cite_vol, cite_phonenum, cite_pp,cite_page2]
         # if sum(cite_tag) > 1 and '|' not in item:
         #     return "参考删除-0:<u>{}</u>".format(item)
@@ -400,12 +384,12 @@ class speicalProces:
         # 超过5个人名
         person_block_lens = [block_item[1] - block_item[0] for block_item in person_block]
         person_lens = sum(person_block_lens)
-        if len(item) > 0 and person_lens / len(item) > 0.5 and len(item) > 100:
+        if len(item) > 0 and person_lens / len(item) > 0.5 and len(item) > 100 and len(item) < 400:
             return "参考删除-1:<u>{}</u>".format(item)
         # 只有个名字数量
         elif person_num > 5 and '|' not in item and len(item) < 200:
             return "参考删除-2:<u>{}</u>".format(item)
-        elif sum(cite_tag) > 0 and person_num > 0 and len(item) < 500:
+        elif sum(cite_tag) > 0 and person_num > 0 and len(item) < 400:
             # print(item)
             return "参考删除-3:<u>{}</u>".format(item)
         elif mulu:
@@ -424,11 +408,11 @@ class speicalProces:
         for item in context:
             # 返回的item是已经被重写过的item
             # if item.strip() in ["##References","## References","## Suggested Readings","##Suggested Readings"]:
-            if re.search(r'^#{1,3}\s?(Reference|Suggested Reading|参考文献)s?',item.strip()):
+            if re.search(r'^#{1,3}\s?(Reference|Suggested Reading|参考文献|Acknowledgment|致谢)s?',item.strip()):
                 references_started = True
             if references_started:
                 item = "参考删除-4:<u>{}</u>".format(item)
-            else:
+            elif not re.search("[\u4e00-\u9fa5]",item):
                 item = self.step4_rm_cite(item)
             # 新的item重新加入一个新的列表
             new_context.append(item)
@@ -443,8 +427,8 @@ class speicalProces:
         if context_lens >= 4 and num >= context_lens * 0.5 and not references_started:
             new_context.insert(0, "(本页删除)本页在超过一半的段落中发现人名且符合参考文献的特征")
             # return []
-        elif mulu_num > 0:
-            new_context.insert(0, "(本页删除)本页发现目录的特征")
+        # elif mulu_num > 0:
+        #     new_context.insert(0, "(本页删除)本页发现目录的特征")
             # return []
         # else:
         #     # 删除 new_context 中被标记为参考删除的 item
@@ -472,7 +456,7 @@ def clean_text(text,lang):
     duans = sp.step3_1_more_linefeed_duannei(duans)
     duans = sp.step3_2_more_linefeed_duan(duans)
     duans = sp.step4_removepage(duans)
-    duans = sp.step5_is_mulupage(duans)
+    # duans = sp.step5_is_mulupage(duans)
 
     # 正则替换
     if duans and len(duans) > 0 and duans is not None:
@@ -486,8 +470,8 @@ def clean_text(text,lang):
                 item = re.sub(pattern_item[0], pattern_item[1], item)
             result.append(item)
 
-    # for item in result:
-    #     print(item)
+    for item in result:
+        print(item)
     # duans = sp.step4_is_shortpage(result)
     text = split_token.join(result)
     text = sp.is_cankaopage(text, lang)
@@ -519,32 +503,31 @@ def process_line(items, sp):
     item = json.dumps(item, ensure_ascii=False)
     return item
 
-# fw = open("C:\\Program Files\\lk\\projects\\pdf\\guidelines_ly_gptpdf\\guidelines_ly_gptpdf_preformat.jsonl", "w", encoding="utf-8")
-with open("C:\\Program Files\\lk\\projects\\pdf\\guidelines_ly_gptpdf\\guidelines_ly_gptpdf_preformat.jsonl", "r", encoding="utf-8") as fs:
-    lines = fs.readlines()[38830:38831]
+fw = open("C:/pycharm/orc识别pdf清洗数据/pdf/clean_json/reclean3_guidelines_ly_gptpdf.jsonl", "w", encoding="utf-8")
+with open("C:\pycharm\orc识别pdf清洗数据\pdf\clean_json\original_data\guidelines_ly_gptpdf_preformat.jsonl", "r", encoding="utf-8") as fs:
+    lines = fs.readlines()
 
     # 随机抽取5000条记录
-    # sampled_lines = random.sample(lines, 2000)
-    for items in tqdm(lines):
+    sampled_lines = random.sample(lines, 2000)
+    for items in tqdm(sampled_lines):
         item = json.loads(items.strip())
-        # if item["seq_id"] == "9194c2a8-809d-4632-ab5a-6358c172cb02":
-        # print(item)
-        # print(detect(item['text']))
-        # if detect(item['text']) == "zh-cn":
-        #     lang = "zh"
-        # else:
+        # if item["seq_id"] == "799e44e5-a4f4-4b89-b7e3-ffab2d3846f0":
+            # print(item)
+            # print(detect(item['text']))
+            # if detect(item['text']) == "zh-cn":
+            #     lang = "zh"
+            # else:
         lang = item['lang']
-        print(item["text"], '\n-------------------')
         page_num = item['attr']['page_num']
         print(page_num)
         text = item['text']
         text = clean_text(text,lang)
         text = post_process(text)
-        print(text)
+        # print(context)
         item["text"] = text
         item = json.dumps(item, ensure_ascii=False)
         # print(item)
         # print("*" * 100)
-        # fw.write(item + "\n")
+        fw.write(item + "\n")
 
 
