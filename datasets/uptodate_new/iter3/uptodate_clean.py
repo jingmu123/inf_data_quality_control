@@ -40,10 +40,6 @@ pattern_list_zh = [
                     [r'^There is a newer version of this topic available in English.*',r''],
                     [r'^该专题有一个更新版本.*',r''],
                     [r'^请阅读本页末的.*',r''],
-
-
-
-
                      ]
 
 pattern_list_en = [
@@ -238,8 +234,8 @@ def clean_text(context, lang):
             continue
 
         result.append(item)
-    for item in result:
-        print(item)
+    # for item in result:
+    #     print(item)
     # 整合
     context = split_token.join(result)
 
@@ -261,27 +257,23 @@ def post_process(context):
 
 
 #读jsonl
-fw = open(r"C:\pycharm\orc识别pdf清洗数据\pdf\clean_json\reclean3_uptodate_new_preformat_zh.jsonl", "w", encoding="utf-8")
-with open(r"C:\pycharm\orc识别pdf清洗数据\pdf\clean_json\original_data\uptodate_new_preformat.jsonl", "r", encoding="utf-8") as fs:
-    lines = fs.readlines()
-
-    # 随机抽取5000条记录
-    sampled_lines = random.sample(lines, 1000)
-    for items in tqdm(sampled_lines):
+fw = open("../../../../full_data/uptodate_new/uptodate_new_clean.jsonl", "w", encoding="utf-8")
+with open("../../../../full_data/uptodate_new/uptodate_new_preformat.jsonl", "r", encoding="utf-8") as fs:
+    for items in tqdm(fs.readlines()):
         item = json.loads(items.strip())
         # if item["seq_id"] == "aecebefc-b489-471e-82ee-a9b12fb2ee91":
         context = item["text"]
         lang = item["lang"]
-        if lang == "zh":
-            if re.search("Links to related guidelines are provided separately", context):
-                continue
-            context = clean_text(context, lang)
-            context = post_process(context)
-            # print(context)
-            item["text"] = context
-            item = json.dumps(item, ensure_ascii=False)
-            print(item)
-            fw.write(item + "\n")
+        # if lang == "zh":
+        if re.search("Links to related guidelines are provided separately", context):
+            continue
+        context = clean_text(context, lang)
+        context = post_process(context)
+        # print(context)
+        item["text"] = context
+        item = json.dumps(item, ensure_ascii=False)
+        # print(item)
+        fw.write(item + "\n")
 
 
 

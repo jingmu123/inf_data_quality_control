@@ -84,12 +84,12 @@ def sample_data(file, lang_tag, save_file, append_title=False, need_special_spli
         fw_label.write(item)
 
 
-file_name = "uptodate_new"
+file_name = "aiaiyi_zhenliaozhinan"
 base_dir = f"../../full_data/{file_name}/"
 save_dir = f"../datasets/{file_name}/iter0/"
 file = f"{file_name}_preformat"
 # save_file_en = "reclean4_dingxiangyisheng_en_label.jsonl"
-save_file_zh = f"reclean0_{file_name}_zh_label.jsonl"
+save_file_zh = f"reclean0_{file_name}_label.jsonl"
 split_token = "\n\n"
 # 指定参数:
 #   need_special_split=False # 是否需要特殊换行，解决无换行问题
@@ -97,6 +97,6 @@ split_token = "\n\n"
 #   append_title=rue # 是否添加title
 
 # en/zh, 还是不区分，大家根据需要自取
-sample_data(f"{file}", "zh", save_file_zh, append_title=True, need_special_split=False, need_line_num=True)
+sample_data(f"{file}", "all", save_file_zh, append_title=True, need_special_split=False, need_line_num=True)
 # sample_data(f"{file}","en",save_file_en,append_title=True,need_special_split=False,need_line_num=True)
 # sample_data(f"{file}","all",save_file_en,append_title=True,need_special_split=False,need_line_num=True)
