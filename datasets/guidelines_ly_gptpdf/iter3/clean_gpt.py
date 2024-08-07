@@ -175,8 +175,6 @@ pattern_list = [
     r'((\\+\[\d+[ ,\-\d]*\\+\])|\*+)',
     r'删除32:<u>\1</u>'
 ]
-
-
 ]
 
 context_pattern = [
@@ -236,8 +234,6 @@ class speicalProces:
                 text = "(本页删除)本页被模型判断为参考页" + text
             if label[0][0] in ['__label__mulu']:
                 text = "(本页删除)本页被模型判断为目录页" + text
-
-
         return text
 
     def step2_is_pagefoot(self, duans,lang):
@@ -348,7 +344,6 @@ class speicalProces:
             # print(context)
 
         return context
-
 
     def get_person_idx(self, item):
         doc = nlp(item)
@@ -523,7 +518,6 @@ with open("C:\pycharm\orc识别pdf清洗数据\pdf\clean_json\original_data\guid
             #     lang = "zh"
             # else:
         lang = item['lang']
-
         page_num = item['attr']['page_num']
         print(page_num)
         text = item['text']
