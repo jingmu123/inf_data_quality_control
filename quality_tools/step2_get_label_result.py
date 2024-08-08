@@ -18,6 +18,8 @@ def get_label_info(result_info):
     for label_name, label_values in result_info.items():
         if label_name == "type0": continue
         if label_name in ["startTime","endTime","cost"]:continue
+        print(label_name)
+        print(label_values)
         level_name = level_mapping[label_name]
         if label_values==None:
             label_values = ""
@@ -56,8 +58,8 @@ def get_label_info(result_info):
 # 读取并处理JSON文件
 final_result = {}
 error_list = {}
-base_dir = "../datasets/medicalpdf/iter5/sample"
-file_path = "{}/{}.jsonl".format(base_dir,"reclean5_medicalpdf_en")
+base_dir = "../datasets/medicalpdfv2/iter2/sample"
+file_path = "{}/{}.jsonl".format(base_dir,"reclean2_medicalpdfv2_zh")
 save_dir = "{}/output".format(base_dir)
 if not os.path.exists(save_dir):
     os.makedirs(save_dir)
@@ -91,10 +93,10 @@ with open(file_path, "r", encoding="utf-8") as fs:
             continue
         # 获取文本
         # yema_info = extract_text(yema_info,text_info)
-        #print(yema_info)
+        # print(yema_info)
         # 获取标注结果
         label_info = get_label_info(result_info)
-        print(label_info)
+        # print(label_info)
 
         final_result[ids] = {
             "seq_id": "null" if "seq_id" not in text_info else text_info["seq_id"],
