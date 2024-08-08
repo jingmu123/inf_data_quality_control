@@ -10,36 +10,18 @@ from tqdm import tqdm
 
 url_pattern = r"(https?:\/\/)?(www\.)?([\da-z\.\-@]+)\.([a-z\.]{2,6})([\/\w \.-]+)?\/?"
 pattern_list_zh = [
-    [r'文中有.*具体指导。', ''],
-    ['\\((基础篇|高级篇|Beyond the Basics|见下文|附视频)\\)', ''],  #（基础篇）、（高级篇）、（Beyond the Basics）、（见下文）、（附视频）
-    [r'\(参见[^\(\)]*(\([^\(\)]*\)[^\(\)]*){0,5}\)', ''], #（参见...）  （参见（...）{0,5}）7/24uptodata_new修改
-    ['(((基础|高级)篇)?(\\(参见.*\\))?)|(患者教育\\s*[：:—-].*(\\(基础篇\\))?)|(Patient education:.*)', ''], # 1、基础篇参见...2、...患者教育：...3、...患者教育-...4、...患者教育—...5、Patient education:...
-    ['\\((流程图|figure|NCT|Grade|视频|计算器|波形|表|表格|图|图片|图表)\\s*\\d+.*?\\)', ''],  #（流程图 1）、（figure 1）等
-    ['\\d{3}-\\d{3}-\\d{4}', ''], #232-432-4122
-    ['(<sup>)?(\\\\)?(\\[|［)(\\d+|(\\d+[,.、~～-]\\s*\\d+.*))(\\\\)?(\\]|］)(</sup>)?', ''],   #[1,2] [1.2] [1、2] [1-2] \[1.2\] <sup>\[1.2\]</sup>
-    # ['\\(参见\\s*[^（]+(\\([^)]*\\))?[^)]*\\)', ''],#（参见（...））
-    ['参见网页\\(here\\)', ''],
-    ['关于.*参见.*(\\n.*[：:].*)*', ''],
-    # ['\\((\\[?)\\s*#?((\\d+-\\s*\\d+-\\s*\\d+)|(\\d+-\\s*\\d+)|(\\d+(,|，)\\s*\\d+.*)|(\\d+))(\\]?).*?\\)', ''], #1.(23-1-32...) (12,dadada) ([12.医疗数据])
-    ['(.*)学会指南链接(.*)', ''],
-    # ['[^。](见?)([^。]*)专题(.*)', ''],
-    ['更多|总结与推荐|(\\(影像.*?\\))|在线资源和支持组织|信息参见网站|如图所示：', ''], #更多、总结与推荐、总结、在线资源和支持组织、（影像...）、信息参见网站
-    ['●|•|❤️', ''],
-    ['(^\\s*(–|—))|((-|–|—)\\s*$)', ''], #-医疗、医院-
-    [r'[^。]*(详[^。]*见|见?[^。]*专题|见?附表|见(下|上)文(流程图)?|附图)[^。]*。',r''],  # 7/30
-    ['[^。](参见附图|详见).*', ''],
-    ['.*见?参考文献.*', ''],
-    ['.*the website.*', ''],
-    ['致谢.*', ''],
-    ['(，|。)。','。'],
-    # 7/24uptodata_new修改
-    [r'\\\[[\d\s\-,—\\]{0,100}\]',''],
-    [r'\([^\(\)]{1,50}(流程图|figure|NCT|Grade|视频|计算器|波形|表|表格|图|图片|图表|影像)[^\(\)]{1,50}\)',''],
-    # 7/25
-    [r'^由 UpToDate 的医生.*',r''],
-    [r'^There is a newer version of this topic available in English.*',r''],
-    [r'^该专题有一个更新版本.*',r''],
-    [r'^请阅读本页末的.*',r''],
+    [r'([\*\\]*[^\n\.。]*(点击下载|完整版?下载|下载地?址?：|相关专题链接：|点击查看原文：|\*下载)[^\n]+)', r'删除1:<u>\1</u>'],  # 下载、链接提示
+    [r'(\\?\[[\d\s\-,～~，;；—\\]{0,100}\])', r'删除2:<u>\1</u>'],  # \[2\]、\[3\]
+    [r'([\(（](流程图|[Ff]igure|[Ff]ig\.|计算器|见表|表|表格|图|图片|图表|见图) *\d+([\s，,\-–\d]{0,20})[\)）])', r'删除3:<u>\1</u>'],  # （见表1）、（表3）
+    # [r'([^:：\?？,，;；\./\*。\-—\s\dA-Za-z分])(\d+([\s，,\-–\d]{0,20}) *)([,，;；\.。][^\dA-Za-z]{2})', r'\1删除4:<u>\2</u>\4'],  # 标点前的无关数字
+    [r'(\\*[\(\[（][^\(\)\[\]（）]*(\set[\s\xa0]{1,3}al|\d{4})[^\(\)\[\]（）]*[\)\]）])', r'删除5:<u>\1</u>'],  # 参考删除，只删除带括号的参考文献和年份信息
+    [r'(\*+相关阅读\*+[\w\W]*\*+指南下载\*+[\w\W]*)', r'删除6:<u>\1</u>'],  # 相关阅读-指南下载
+    [r'([,，;；.。])([\?？])', r'\1删除7:<u>\2</u>'],  # 1.句子标点后多余标点？?
+    [r'(\**[  ]*(https?:\/\/)?(www\.)?([\da-z\.\-@]+)\.([a-z\.]{2,6})([\/\w \.-]+)?\/?)', r'删除9:<u>\1</u>'],
+
+
+    # （这条正则最好放最后一条）
+    [r'((\\\*)+)', r'删除8:<u>\1</u>']  # 正文中的\*\*
 ]
 
 pattern_list_en = [
@@ -71,7 +53,7 @@ pattern_list_en = [
     [r'^\s?(Please read the Disclaimer at the end of this page|Links to society and government-sponsored guidelines|Beyond the Basics topics).*',''],
     [r'\([^\(\)]{1,50}(waveform|movie|calculator)[^\(\)]{1,50}\)', ''],
     # 8.06补充
-    [r'([\*\\]*[^\*\\\n]*(点击下载|完整版?下载|下载：)[^\n]+)', ''],  # 下载提示
+    [r'([\*\\]*[^\*\\\n]*(点击下载|完整版?下载|下载：|相关专题链接：)[^\n]+)', ''],  # 下载提示
     [r'(\**[  ]*(https?:\/\/)?(www\.)?([\da-z\.\-@]+)\.([a-z\.]{2,6})([\/\w \.-]+)?\/?)', ''],  # 网址
     [r'( *[\(（](\d+([\s,，\-–\d]{0,100}))[\)）])([,，;；.。])', r'\4'],  # 句末序号
     [r'([\(（][^\(\)（）]*(\set[\s\xa0]{1,3}al|\d{4})[^\(\)（）]*[\)）])', ''],  # （Smith et al, 2006）、（Snowden et al 2011）
@@ -205,11 +187,10 @@ def clean_text(context, lang):
     if split_token not in context:
         split_token = "\n"
 
-
     if lang == "zh":
-        pattern_list= pattern_list_zh
-    elif lang=='en':
-        pattern_list= pattern_list_en
+        pattern_list = pattern_list_zh
+    elif lang == 'en':
+        pattern_list = pattern_list_en
     else:
         pattern_list = pattern_list_en+pattern_list_zh
 
@@ -262,7 +243,7 @@ def post_process(context):
 
 
 #读jsonl
-fw = open(r"C:\Program Files\lk\projects\pdf\aiaiyi_zhenliaozhinan\aiaiyi_zhenliaozhinan_preformat_en_clean1.jsonl", "w", encoding="utf-8")
+fw = open(r"C:\Program Files\lk\projects\pdf\aiaiyi_zhenliaozhinan\aiaiyi_zhenliaozhinan_preformat_zh_clean1.jsonl", "w", encoding="utf-8")
 with open(r"C:\Program Files\lk\projects\pdf\aiaiyi_zhenliaozhinan\aiaiyi_zhenliaozhinan_preformat.jsonl", "r", encoding="utf-8") as fs:
     lines = fs.readlines()
 
@@ -272,12 +253,12 @@ with open(r"C:\Program Files\lk\projects\pdf\aiaiyi_zhenliaozhinan\aiaiyi_zhenli
         context = item["text"]
         # print(context, '\n-------------------')
         lang = item["lang"]
-        if lang == 'en':
+        if lang == 'zh':
             context = clean_text(context, lang)
             context = post_process(context)
             # print(context)
             item["text"] = context
-            # print(item["text"])
+            print(item["text"])
             item = json.dumps(item, ensure_ascii=False)
             fw.write(item + "\n")
 
