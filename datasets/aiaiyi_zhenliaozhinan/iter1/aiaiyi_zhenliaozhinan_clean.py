@@ -2,7 +2,7 @@ import json
 import os
 import re
 import random
-
+import wordninja
 import jieba
 from langdetect import detect
 from langdetect import detect_langs
@@ -10,18 +10,19 @@ from tqdm import tqdm
 
 url_pattern = r"(https?:\/\/)?(www\.)?([\da-z\.\-@]+)\.([a-z\.]{2,6})([\/\w \.-]+)?\/?"
 pattern_list_zh = [
-    [r'([\*\\]*[^\n\.。]*(点击下载|完整版?下载|下载地?址?：|相关专题链接：|点击查看原文：|\*下载)[^\n]+)', r'删除1:<u>\1</u>'],  # 下载、链接提示
+    [r'([^\n\.。）]*[\*\\]*(点击下载|完整版?下载|下载地?址?：|相关专题链接：|点击查看原文：|\*下载)[^\n]+)', r'删除1:<u>\1</u>'],  # 下载链接提示
     [r'(\\?\[[\d\s\-,～~，;；—\\]{0,100}\])', r'删除2:<u>\1</u>'],  # \[2\]、\[3\]
     [r'([\(（](流程图|[Ff]igure|[Ff]ig\.|计算器|见表|表|表格|图|图片|图表|见图) *\d+([\s，,\-–\d]{0,20})[\)）])', r'删除3:<u>\1</u>'],  # （见表1）、（表3）
     # [r'([^:：\?？,，;；\./\*。\-—\s\dA-Za-z分])(\d+([\s，,\-–\d]{0,20}) *)([,，;；\.。][^\dA-Za-z]{2})', r'\1删除4:<u>\2</u>\4'],  # 标点前的无关数字
-    [r'(\\*[\(\[（][^\(\)\[\]（）]*(\set[\s\xa0]{1,3}al|\d{4})[^\(\)\[\]（）]*[\)\]）])', r'删除5:<u>\1</u>'],  # 参考删除，只删除带括号的参考文献和年份信息
+    [r'(\\*[\(\[（][^\(\)\[\]（）]*(\set[\s\xa0]{1,3}al|\d+[:：] *\w+([\-\.]\d+)?)[^\(\)\[\]（）]*[\)\]）])', r'删除5:<u>\1</u>'],  # 参考删除，只删除带括号的参考文献
     [r'(\*+相关阅读\*+[\w\W]*\*+指南下载\*+[\w\W]*)', r'删除6:<u>\1</u>'],  # 相关阅读-指南下载
     [r'([,，;；.。])([\?？])', r'\1删除7:<u>\2</u>'],  # 1.句子标点后多余标点？?
-    [r'(\**[  ]*(https?:\/\/)?(www\.)?([\da-z\.\-@]+)\.([a-z\.]{2,6})([\/\w \.-]+)?\/?)', r'删除9:<u>\1</u>'],
+    [r'(\**[  ]*(https?:\/\/)?(www\.)?([\da-z\.\-@]+)\.([a-z]{2,6})([\/\w\?= \.-]+)?\/?)', r'删除9:<u>\1</u>'],
 
 
     # （这条正则最好放最后一条）
-    [r'((\\\*)+)', r'删除8:<u>\1</u>']  # 正文中的\*\*
+    # [r'((\\\*)+)', r'删除8:<u>\1</u>'],  # 正文中的\*\*
+    [r'((\*){2,})', r'删除10:<u>\1</u>'],  # 正文中的**
 ]
 
 pattern_list_en = [
@@ -53,14 +54,13 @@ pattern_list_en = [
     [r'^\s?(Please read the Disclaimer at the end of this page|Links to society and government-sponsored guidelines|Beyond the Basics topics).*',''],
     [r'\([^\(\)]{1,50}(waveform|movie|calculator)[^\(\)]{1,50}\)', ''],
     # 8.06补充
-    [r'([\*\\]*[^\*\\\n]*(点击下载|完整版?下载|下载：|相关专题链接：)[^\n]+)', ''],  # 下载提示
-    [r'(\**[  ]*(https?:\/\/)?(www\.)?([\da-z\.\-@]+)\.([a-z\.]{2,6})([\/\w \.-]+)?\/?)', ''],  # 网址
-    [r'( *[\(（](\d+([\s,，\-–\d]{0,100}))[\)）])([,，;；.。])', r'\4'],  # 句末序号
-    [r'([\(（][^\(\)（）]*(\set[\s\xa0]{1,3}al|\d{4})[^\(\)（）]*[\)）])', ''],  # （Smith et al, 2006）、（Snowden et al 2011）
-    [r'(([\(（][^\(\)（）]{0,50})([fF]igure|NCT|Grade|[pP]icture|FIGURE|PICTURE|[iI]mage|[tT]able) *([^\(\)（）]{0,50}[\)）]))', ''],  # ( figure 2 ) ( ( figure 2 ), panels A and C)
-    [r'([,，;；.。] *)(\d+([\s，,\-–\d+]{0,20}) *)([A-Za-z])', r'\1\4'],  # 句首8-17、8、2，3等
-    [r'(\\?\[[\d\s\-,，—\\]{0,100}\])', ''],  # 句末\[1, 2\]、\[3–22\]、\[4\]等
-
+    [r'([^\n\.。）]*[\*\\]*(点击下载|完整版?下载|下载地?址?：|相关专题链接：|点击查看原文：|\*下载)[^\n]+)', r'删除1:<u>\1</u>'],  # 下载链接提示
+    [r'(\**[  ]*(https?:\/\/)?(www\.)?([\da-z\.\-@]+)\.([a-z]{2,6})([\/\w\?=\.-]+)?\/?)', r'删除2:<u>\1</u>'],  # 网址
+    [r'( *[\(（](\d+([\s,，\-–\d]{0,100}))[\)）])([,，;；.。])', r'删除3:<u>\1</u>\4'],  # 句末序号
+    [r'(\\*[\(\[（][^\(\)\[\]（）]*(\set[\s\xa0]{1,3}al|\d+[:：] *\w+([\-\.]\d+)?)[^\(\)\[\]（）]*[\)\]）])', r'删除4:<u>\1</u>'],  # （Smith et al, 2006）、（Snowden et al 2011）
+    [r'(([\(（][^\(\)（）]{0,50})([fF]igure|NCT|Grade|[pP]icture|FIGURE|PICTURE|[iI]mage|[tT]able) *([^\(\)（）]{0,50}[\)）]))', r'删除5:<u>\1</u>'],  # ( figure 2 ) ( ( figure 2 ), panels A and C)
+    [r'([^\d][,，;；.。] *)(\d+(([\s，,\-–]\d+){0,20}) *)([A-Z])', r'\1删除6:<u>\2</u>\5'],  # 句首8-17、8、2，3等
+    [r'(\\?\[[\d\s\-,～~，;；—\\]{0,100}\])', r'删除7:<u>\1</u>'],  # 句末\[1, 2\]、\[3–22\]、\[4\]等
 
 ]
 
@@ -182,6 +182,18 @@ class speicalProces:
             return first_content + final_content
         return first_content + " " + final_content
 
+    def step5_sentence_segment(self, context):
+        patter = r'([A-Za-z]{15,})'
+        if re.search(patter, context):
+            word_list = re.findall(patter, context)
+            for wordl in word_list:
+                # 使用 wordninja 进行分词
+                words = wordninja.split(wordl)
+                output_string = " ".join(words)
+                words_escape = re.escape(wordl)
+                context = re.sub(rf'{words_escape}', output_string, context)
+        return context
+
 def clean_text(context, lang):
     split_token = "\n\n"
     if split_token not in context:
@@ -213,8 +225,8 @@ def clean_text(context, lang):
             # print(pattern_item)
             # print(re.findall(src, item))
             item = re.sub(src, tgt, item)
-        # if lang == "zh":
-        #     item = sp.step4_rm_kongge(item)
+        if lang == "en":
+            item = sp.step5_sentence_segment(item)
         # if "url:" not in item and sp.step2_endding_filter(item):
         #     # print(item)
         #     continue
@@ -243,7 +255,7 @@ def post_process(context):
 
 
 #读jsonl
-fw = open(r"C:\Program Files\lk\projects\pdf\aiaiyi_zhenliaozhinan\aiaiyi_zhenliaozhinan_preformat_zh_clean1.jsonl", "w", encoding="utf-8")
+fw = open(r"C:\Program Files\lk\projects\pdf\aiaiyi_zhenliaozhinan\aiaiyi_zhenliaozhinan_preformat_en_clean1B.jsonl", "w", encoding="utf-8")
 with open(r"C:\Program Files\lk\projects\pdf\aiaiyi_zhenliaozhinan\aiaiyi_zhenliaozhinan_preformat.jsonl", "r", encoding="utf-8") as fs:
     lines = fs.readlines()
 
@@ -253,7 +265,7 @@ with open(r"C:\Program Files\lk\projects\pdf\aiaiyi_zhenliaozhinan\aiaiyi_zhenli
         context = item["text"]
         # print(context, '\n-------------------')
         lang = item["lang"]
-        if lang == 'zh':
+        if lang == 'en':
             context = clean_text(context, lang)
             context = post_process(context)
             # print(context)
