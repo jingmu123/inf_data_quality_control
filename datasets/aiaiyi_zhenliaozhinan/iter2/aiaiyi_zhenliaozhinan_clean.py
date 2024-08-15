@@ -28,48 +28,31 @@ pattern_list_zh = [
     [r'( +（\d）)(。)', r'\1删除17:<u>\2</u>'],
 
 
-
     # （这条正则最好放最后一条）
     # [r'((\\\*)+)', r'删除8:<u>\1</u>'],  # 正文中的\*\*
     [r'((\*){2,})', r''],  # 正文中的**
 ]
 
 pattern_list_en = [
-    ['\\s*●\\(See.*', ''],
-    ['\\*\\s*urn:lims:.*?•?\\s*No\\s*', ''],#*   urn:lims:b498:s2691415 No
-    [' ?View Patient Education', ''],
-    ['\\((picture|figure|table)\\s*.*\\)', ''], #(picture1) (figure 2-1xxx)
-    [r'[\s•\\-]{0,5}\((See|see|ESMO|ESC|ASCO)[^\(\)]*(\([^\(\)]*\)[^\(\)]*){0,}\)', ''],#(see table...)    7/25修改
-    ['\\(show table.*\\)', ''], #(show table...)
-    ['(.*)(for|For) additional information(.*)', ''],
-    ['(.*)See individual agents(.*)', ''],
-    ['(.*)Reference Range(.*)', ''],
-    ['(.*)Consumer Information Use and Disclaimer(.*)', ''],
-    ['(.*Last Reviewed Date.*)|(SUMMARY AND RECOMMENDATIONS)|SUMMARY|ACKNOWLEDGMENTS|(SOCIETY GUIDELINE LINKS)', ''],#...Last Reviewed Date...、SUMMARY AND RECOMMENDATIONS、SUMMARY、ACKNOWLEDGMENTS、SOCIETY GUIDELINE LINKS
-    ['\\(参见.*\\)', ''],
-    ['(.*)见(.*)专题(.*)', ''],
-    # ['(.*\\(第\\d+版\\))|(.*专家(共识|建议)(\\(\\d+.*版\\))?)|(.*(临时|防控)指南)(专题)?|(学会指南链接：.*)|(Society guideline links:.*)', ''], #...(第1版)、...专家共识、...指南、学会指南链接：...、Society guideline links:...
-    ['(More on this topic)|(Patient education:.*)', ''],
-    ['(👍|▶|●|©|®|†|¶|║|§|∧|™|■|❏|□|✓|✔|❍|😃|�|∑|✦|❤️|❤)', ''],
-    ['(^\\s*(–|—))|((-|–|—)\\s*$)', ''], #-patient、doctor-
-    ['\\((\\[?)\\s*#?((\\d+-\\s*\\d+-\\s*\\d+)|(\\d+-\\s*\\d+)|(\\d+(,|，)\\s*\\d+.*)|(\\d+))(\\]?).*?\\)', ''], #1.(23-1-32...) (12,dadada) ([12.医疗数据])
 
-    [r'\(\s+Ref\s+\)',''],
-    [r'\([^\)\(]{1,50}\d{4};[^\)\(]{1,200}\)',''],
-
-    [r'\([^\(\)]{0,100}algorithm\s[^\(\)]{0,100}\)',''],
-    [r'\(\s?[A-Z][^\(\)]{0,20}\s\d{4}[^\(\)]{0,50}\)',''],
-    [r'^Contributor Disclosures',''],
-    [r'^\s?(Please read the Disclaimer at the end of this page|Links to society and government-sponsored guidelines|Beyond the Basics topics).*',''],
-    [r'\([^\(\)]{1,50}(waveform|movie|calculator)[^\(\)]{1,50}\)', ''],
+    # ['(\\((\\[?)\\s*#?((\\d+-\\s*\\d+-\\s*\\d+)|(\\d+-\\s*\\d+)|(\\d+(,|，)\\s*\\d+.*)|(\\d+))(\\]?).*?\\))', r'删除84:<u>\1</u>'], #1.(23-1-32...) (12,dadada) ([12.医疗数据])
+    # [r'(\([^\)\(]{1,50}\d{4};[^\)\(]{1,200}\))', r'删除85:<u>\1</u>'],
+    # [r'(\(\s?[A-Z][^\(\)]{0,20}\s\d{4}[^\(\)]{0,50}\))', r'删除86:<u>\1</u>'],
+    [r'([\.。？\?][  ]*)((\*\*)?(《[^《》]+》)(内容预览))', r'\1\n增加换行:\2'],  # 增加换行
     # 8.06补充
-    [r'([^\n\.。）]*[\*\\]*(点击下载|完整版?下载|下载地?址?：|相关专题链接：|点击查看原文：|\*下载)[^\n]+)', r'删除1:<u>\1</u>'],  # 下载链接提示
-    [r'([\(（]?\**[  ]*(https?:\/\/)?(www\.)?([\da-z\.\-@]+)\.([a-z]{2,6})([\/\w\?=\.-]+)?\/?[\)）]?)', r'删除2:<u>\1</u>'],  # 网址
+    [r'(\*+点击下载[^\n]+)', r''],
+    [r'([^\n\.。？]*[\*\\]*(点击下载|完整版?下载|下载地?址?：|相关专题链接：|点击查看原文：|\*[  ]*下载)[^\n]+)', r'删除1:<u>\1</u>'],  # 下载链接提示
+    # [r'([\(（]?\**[  ]*(https?:\/\/)?(www\.)?([\da-z \.\-@]+)\.([a-z]{2,6})([\/\w\?=\.-]+)?\/?[\)）]?)', r'删除2:<u>\1</u>'],  # 网址
     [r'( *[\(（](\d+([\s,，\-–\d]{0,100}))[\)）])([,，;；.。])', r'删除3:<u>\1</u>\4'],  # 句末序号
-    [r'(\\*[\(\[（][^\(\)\[\]（）]*(\set[\s\xa0]{1,3}al|\d+[:：] *\w+([\-\.]\d+)?)[^\(\)\[\]（）]*[\)\]）])', r'删除4:<u>\1</u>'],  # （Smith et al, 2006）、（Snowden et al 2011）
-    [r'(([\(（][^\(\)（）]{0,50})([fF]igure|NCT|Grade|[pP]icture|FIGURE|PICTURE|[iI]mage|[tT]able) *([^\(\)（）]{0,50}[\)）]))', r'删除5:<u>\1</u>'],  # ( figure 2 ) ( ( figure 2 ), panels A and C)
-    [r'([^\d][,，;；.。] *)(\d+(([\s，,\-–]\d+){0,20}) *)([A-Z])', r'\1删除6:<u>\2</u>\5'],  # 句首8-17、8、2，3等
-    [r'(\\?\[[\d\s\-,～~，;；—\\]{0,100}\])', r'删除7:<u>\1</u>'],  # 句末\[1, 2\]、\[3–22\]、\[4\]等
+    [r'(\\*[\(\[（][^\(\)\[\]（）]*(\set[\s\xa0]{1,3}al|\d+(\(\d+\))?[:：] *\w+([\-\.]\d+)?|ICD)[^\(\)\[\]（）\n]*[\)\]）]?)', r'删除4:<u>\1</u>'],  # （Smith et al, 2006）、（Snowden et al 2011）
+    [r'([\(（]([fF]ig|NCT|Grade|[pP]icture|FIGURE|PICTURE|[iI]mage|[tT]able|[Ss]ee|[Rr]efer|Appendix|Dr|NICE) *([^\(\)（）]*[\)）]))', r'删除5:<u>\1</u>'],  # ( figure 2 ) ( ( figure 2 ), panels A and C)
+    [r'([^\d][,，;；.。] *)(\d+(([\s，,\-–]+\d+){0,20}) *)([A-Z])', r'\1删除6:<u>\2</u>\5'],  # 句首8-17、8、2，3等
+    [r'(\\?\[[\d\s\-,～~，;；–—\\]{0,100}\])', r'删除7:<u>\1</u>'],  # 句末\[1, 2\]、\[3–22\]、\[4\]等
+    [r'([^。\.\n]+\d{4}[;；]\w+[:：]\w+[^\nA-Z]+)', r'删除8:<u>\1</u>'],
+    [r'(See pages 31–33 for the updated information\.|See Table 1\.|\*\*《2014BSG Barrett食管诊断和治疗指南》\*\*|as summarized in Table1\.)', r'删除11:<u>\1</u>'],
+    [r'((Professor Alan B\.R\.)[\w\W]*?(\n\n))', r'删除10:<u>\1</u>'],
+    [r'([^\n\.。？\?\(\)（）]+Appendix[^\n\.。？\?\(\)（）]+?\.)', r'删除12:<u>\1</u>'],
+
 
 ]
 
@@ -203,6 +186,28 @@ class speicalProces:
                 context = re.sub(rf'{words_escape}', output_string, context)
         return context
 
+    def step6_unrelated_text(self, context):
+        split_token = "\n"
+        result = []
+        context = context.split(split_token)
+        patter1 = r'([^A-Za-z]([A-Z][a-z]?\.)+ ?[A-Za-z]{,20})'
+        patter2 = r'([\(（]\**[  ]*(https?:\/\/)?(www\.)?([\da-z \.\-@]+)\.([a-z]{2,6})([\/\w\?=\.-]+)?\/?[\)）]|\**[  ]*(https?:\/\/)?(www\.)?([\da-z \.\-@]+)\.([a-z]{2,6})([\/\w\?=\.-]+)?\/?)'
+        patter3 = r'(MD|Professor)'
+        patter4 = r'(Fax|mail|calling)'
+        for item in context:
+            if len(re.findall(patter1, item)) > 4 or len(re.findall(patter3, item)) > 4 or (len(re.findall(patter3, item)) > 2 and len(item) < 500):
+                item = "(此段删除)无关文本-1：" + item
+            website_list = re.findall(patter2, item)
+            # print(website_list)
+            if len(website_list) > 2 or len(re.findall(patter4, item)) > 2:
+                item = "(此段删除)无关文本-2：" + item
+            for web in website_list:
+                if len(re.findall(r'\.', web[0])) >= 2:
+                    item = re.sub(re.escape(web[0]), rf'删除2:<u>{web[0]}</u>',item)
+            result.append(item)
+        context = split_token.join(result)
+        return context
+
 def clean_text(context, lang):
     split_token = "\n\n"
     if split_token not in context:
@@ -225,24 +230,20 @@ def clean_text(context, lang):
         # print(pattern_item)
         # print(re.findall(src, item))
         context = re.sub(src, tgt, context)
-    # special_process：
-    # context = sp.step1_drop_sentenc(context)
-    context = context.split(split_token)
 
-    # 7/24uptodata_new修改
-    # context = sp.step3_reference(context)
+    # special_process
+    # context = sp.step1_drop_sentenc(context)
+
+    context = context.split(split_token)
 
     for item in context:
 
         if lang == "en":
             item = sp.step5_sentence_segment(item)
-        # if "url:" not in item and sp.step2_endding_filter(item):
-        #     # print(item)
-        #     continue
+            item = sp.step6_unrelated_text(item)
 
         result.append(item)
-    # for item in result:
-    #     print(item)
+
     # 整合
     context = split_token.join(result)
 
@@ -263,7 +264,7 @@ def post_process(context):
 
 
 #读jsonl
-fw = open(r"C:\Program Files\lk\projects\pdf\aiaiyi_zhenliaozhinan\aiaiyi_zhenliaozhinan_preformat_zh_clean2.jsonl", "w", encoding="utf-8")
+fw = open(r"C:\Program Files\lk\projects\pdf\aiaiyi_zhenliaozhinan\aiaiyi_zhenliaozhinan_preformat_en_clean2.jsonl", "w", encoding="utf-8")
 with open(r"C:\Program Files\lk\projects\pdf\aiaiyi_zhenliaozhinan\aiaiyi_zhenliaozhinan_preformat.jsonl", "r", encoding="utf-8") as fs:
     lines = fs.readlines()
 
@@ -273,7 +274,8 @@ with open(r"C:\Program Files\lk\projects\pdf\aiaiyi_zhenliaozhinan\aiaiyi_zhenli
         context = item["text"]
         # print(context, '\n-------------------')
         lang = item["lang"]
-        if lang == 'zh':
+        if lang == 'en':
+            # context = post_process(context)
             context = clean_text(context, lang)
             context = post_process(context)
             # print(context)
