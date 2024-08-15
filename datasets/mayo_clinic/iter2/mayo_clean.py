@@ -75,6 +75,9 @@ class speicalProces:
         question = 0
         question_index = []
         for index,item in enumerate(context):
+            if re.search('\.\s?In their editorial and administrative roles',item):
+                question_index.append(index)
+                question += 1
             if re.search(r'^In their editorial and administrative roles',item):
                 question_index.append(index)
                 question += 1
@@ -89,6 +92,9 @@ class speicalProces:
             print(start_index, end_index)
             # 循环遍历需要替换的片段
             for i in range(start_index, end_index + 1):
+                if re.search('\.\s?In their editorial and administrative roles',new_context[start_index]):
+                    new_context[start_index] = re.sub('(\.\s?)(In their editorial and administrative roles.*)',r'\1间距删除-1:<u>\2</u>',new_context[start_index])
+                    continue
                 # 将当前索引处的字符替换为你想要的字符，这里以空字符为例
                 new_context[i] = "间距删除-1:<u>{}</u>".format(new_context[i])
         return new_context
@@ -169,7 +175,7 @@ with open(r"C:\pycharm\orc识别pdf清洗数据\pdf\clean_json\original_data\may
     # sampled_lines = random.sample(lines, 1000)
     for items in tqdm(lines):
         item = json.loads(items.strip())
-        # if item["seq_id"] == "bcad4f0a-052b-433b-b4c1-a85442218620":
+        # if item["seq_id"] == "23086ae2-e49d-462e-91f1-748ec11675fd":
         context = item["text"]
         lang = item["lang"]
         title = item["title"]

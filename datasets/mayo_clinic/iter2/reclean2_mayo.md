@@ -49,28 +49,34 @@ re.search(r'\*\s+(Google|View Large Image|Download|et al\.|Open table in a new t
 加入之前些的方法对某个间距内的内容进行删除，从In their editorial and administrative roles关于作者的介绍到\*\*Question的描述
 
 ```
-def step3_Spaced_delete(self, context):
-    new_context = []
-    question = 0
-    question_index = []
-    for index,item in enumerate(context):
-        if re.search(r'^In their editorial and administrative roles',item):
-            question_index.append(index)
-            question += 1
-        if re.search(r'^\*\*Question',item):
-            question_index.append(index)
-            question -= 1
-        new_context.append(item)
-    print(question_index)
-    if question <= 0 and len(question_index) >= 2:
-        start_index = question_index[0]
-        end_index = question_index[-1]
-        print(start_index, end_index)
-        # 循环遍历需要替换的片段
-        for i in range(start_index, end_index + 1):
-            # 将当前索引处的字符替换为你想要的字符，这里以空字符为例
-            new_context[i] = "间距删除-1:<u>{}</u>".format(new_context[i])
-    return new_context
+    def step3_Spaced_delete(self, context):
+        new_context = []
+        question = 0
+        question_index = []
+        for index,item in enumerate(context):
+            if re.search('\.\s?In their editorial and administrative roles',item):
+                question_index.append(index)
+                question += 1
+            if re.search(r'^In their editorial and administrative roles',item):
+                question_index.append(index)
+                question += 1
+            if re.search(r'^\*\*Question',item):
+                question_index.append(index)
+                question -= 1
+            new_context.append(item)
+        print(question_index)
+        if question <= 0 and len(question_index) >= 2:
+            start_index = question_index[0]
+            end_index = question_index[-1]
+            print(start_index, end_index)
+            # 循环遍历需要替换的片段
+            for i in range(start_index, end_index + 1):
+                if re.search('\.\s?In their editorial and administrative roles',new_context[start_index]):
+                    new_context[start_index] = re.sub('(\.\s?)(In their editorial and administrative roles.*)',r'\1间距删除-1:<u>\2</u>',new_context[start_index])
+                    continue
+                # 将当前索引处的字符替换为你想要的字符，这里以空字符为例
+                new_context[i] = "间距删除-1:<u>{}</u>".format(new_context[i])
+        return new_context
 ```
 
 title是CORRECTIONS或CORRECTION直接跳过
