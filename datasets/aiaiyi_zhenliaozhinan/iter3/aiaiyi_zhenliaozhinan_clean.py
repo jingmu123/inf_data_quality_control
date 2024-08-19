@@ -40,36 +40,44 @@ pattern_list_zh = [
 
 # reclean2_aiaiyi_zhenliaozhinan_zh.jsonl
 '''
-采样量: 300
-干净文本:212 脏文本:88
-[300, {'多余换行': 8, '语义不完整': 6, '无关文本': 109, '多余标点': 12, '缺少换行': 3, '特殊符号': 2, '标点错误': 4, '错别字': 2, '页码/数字': 4, '错误删除': 3, '语句/字词重复': 1, '缺少标点': 1}] ,
-各纬度问题频次F={'多余换行': 8, '语义不完整': 6, '无关文本': 109, '多余标点': 12, '缺少换行': 3, '特殊符号': 2, '标点错误': 4, '错别字': 2, '页码/数字': 4, '错误删除': 3, '语句/字词重复': 1, '缺少标点': 1}
-合格率=70.667%
-质量分=81.34668
-推荐解决的单个问题顺序以及收益（供参考）：{'无关文本': 96.24682, '语义不完整': 82.33939, '多余换行': 82.2155, '错误删除': 81.87195, '多余标点': 81.77308, '页码/数字': 81.51773, '标点错误': 81.49921, '缺少换行': 81.46483, '特殊符号': 81.43654, '错别字': 81.41478, '缺少标点': 81.37745, '语句/字词重复': 81.34668}
-推荐解决的组合问题顺序以及收益（供参考）：{'无关文本#语义不完整': 97.37785, '无关文本#多余换行': 97.11565, '语义不完整#多余换行': 83.20822}
+采样量: 284
+干净文本:229 脏文本:55
+各纬度问题频次F={'无关文本': 52, '多余换行': 8, '页码/数字': 19, '语义不完整': 7, '多余标点': 2, '错误删除': 6, '标点错误': 2, '语句不通顺': 2}
+合格率=80.634%
+质量分=90.43047
+推荐解决的单个问题顺序以及收益（供参考）：{'无关文本': 96.29281, '语义不完整': 91.56036, '多余换行': 91.19232, '页码/数字': 91.17063, '错误删除': 91.12585, '语句不通顺': 90.5179, '标点错误': 90.48852, '多余标点': 90.45318}
+推荐解决的组合问题顺序以及收益（供参考）：{'无关文本#语义不完整': 97.43817, '无关文本#多余换行': 97.05465, '语义不完整#多余换行': 92.3222}
 '''
 
 
 pattern_list_en = [
-
+    [r'。', r'\.'], [r'，', r','], [r'；', r';'],
     # ['(\\((\\[?)\\s*#?((\\d+-\\s*\\d+-\\s*\\d+)|(\\d+-\\s*\\d+)|(\\d+(,|，)\\s*\\d+.*)|(\\d+))(\\]?).*?\\))', r'删除84:<u>\1</u>'], #1.(23-1-32...) (12,dadada) ([12.医疗数据])
     # [r'(\([^\)\(]{1,50}\d{4};[^\)\(]{1,200}\))', r'删除85:<u>\1</u>'],
     # [r'(\(\s?[A-Z][^\(\)]{0,20}\s\d{4}[^\(\)]{0,50}\))', r'删除86:<u>\1</u>'],
-    [r'([\.。？\?][  ]*)((\*\*)?(《[^《》]+》)(内容预览))', r'\1\n增加换行:\2'],  # 增加换行
+    [r'([\.。？\?][  ]*)((\*\*)?(《[^《》]+》)(内容预览))', r'\1\n\n增加换行:\2'],  # 增加换行
+    [r'([a-z\)）])(\s{3,}([(（]\d+[)）]|(\\?\[[\d\s\-,～~，;；–—\\]{0,100}\]))?)( ?[a-z])', r'\1 删除1换行\5'],
+    [r'([a-z\)）])(\s{3,}([(（]\d+[)）]|(\\?\[[\d\s\-,～~，;；–—\\]{0,100}\]))?)( ?[,，;；.。])', r'\1删除2换行\5'],
+    [r'([a-z\)）])(\-\s{3,}([(（]\d+[)）]|(\\?\[[\d\s\-,～~，;；–—\\]{0,100}\]))?)( ?[a-z])', r'\1删除3换行\5'],
     # 8.06补充
     [r'(\*+点击下载[^\n]+)', r''],
-    [r'([^\n\.。？]*[\*\\]*(点击下载|完整版?下载|下载地?址?：|相关专题链接：|点击查看原文：|\*[  ]*下载)[^\n]+)', r'删除1:<u>\1</u>'],  # 下载链接提示
+    [r'([^\n\.。？]*[\*\\]*(点击下载|完整版?下载|下载地?址?：|相关专题链接：|点击查看原文：|\*[  ]*下载)[^\n]*)', r'删除1:<u>\1</u>'],  # 下载链接提示
     # [r'([\(（]?\**[  ]*(https?:\/\/)?(www\.)?([\da-z \.\-@]+)\.([a-z]{2,6})([\/\w\?=\.-]+)?\/?[\)）]?)', r'删除2:<u>\1</u>'],  # 网址
-    [r'( *[\(（](\d+([\s,，\-–\d]{0,100}))[\)）])([,，;；.。])', r'删除3:<u>\1</u>\4'],  # 句末序号
-    [r'(\\*[\(\[（][^\(\)\[\]（）]*(\set[\s\xa0]{1,3}al|\d+(\(\d+\))?[:：] *\w+([\-\.]\d+)?|ICD)[^\(\)\[\]（）\n]*[\)\]）]?)', r'删除4:<u>\1</u>'],  # （Smith et al, 2006）、（Snowden et al 2011）
-    [r'([\(（]([fF]ig|NCT|Grade|[pP]icture|FIGURE|PICTURE|[iI]mage|[tT]able|[Ss]ee|[Rr]efer|Appendix|Dr|NICE) *([^\(\)（）]*[\)）]))', r'删除5:<u>\1</u>'],  # ( figure 2 ) ( ( figure 2 ), panels A and C)
-    [r'([^\d][,，;；.。] *)(\d+(([\s，,\-–]+\d+){0,20}) *)([A-Z])', r'\1删除6:<u>\2</u>\5'],  # 句首8-17、8、2，3等
-    [r'(\\?\[[\d\s\-,～~，;；–—\\]{0,100}\])', r'删除7:<u>\1</u>'],  # 句末\[1, 2\]、\[3–22\]、\[4\]等
+    [r'( *[\(（](\d+([\s,，\-–\d]{0,100}))[\)）])([,，;；\\\.。])', r'删除3:<u>\1</u>\4'],  # 句末序号
+    [r'(\\*[\(\[（][^\(\)\[\]（）]*(\set[\s\xa0]{1,3}al|\d+(\(\d+\))?[:：] *\w+([\-\.]\d+)?|ICD)[^\(\)\[\]（）\n]*[\)\]）])', r'删除4:<u>\1</u>'],  # （Smith et al, 2006）、（Snowden et al 2011）
+    [r'([\(（]([fF]ig|NCT|Grade|[pP]icture|FIGURE|PICTURE|[iI]mage|[tT]able|[Ss]ee|[Rr]efer|[Aa]ppendix|NICE|[Bb]ox|Kannel|Bordley|Giorgi2004) *([^\(\)（）]*[\)）]))', r'删除5:<u>\1</u>'],  # ( figure 2 ) ( ( figure 2 ), panels A and C)
+    [r'([^\d][,，;；.。] *)(\d+(([\s，,\-–]+\d+){0,20}) *)([A-Zabeih])', r'\1删除6:<u>\2</u>\5'],  # 句首8-17、8、2，3等
+    [r'(\\?\[[\w\s\-,～~，;；–—\\]{0,100}\])', r'删除7:<u>\1</u>'],  # 句末\[1, 2\]、\[3–22\]、\[4\]等
     [r'([^。\.\n]+\d{4}[;；]\w+[:：]\w+[^\nA-Z]+)', r'删除8:<u>\1</u>'],
-    [r'(See pages 31–33 for the updated information\.|See Table 1\.|\*\*《2014BSG Barrett食管诊断和治疗指南》\*\*|as summarized in Table1\.)', r'删除11:<u>\1</u>'],
-    [r'((Professor Alan B\.R\.)[\w\W]*?(\n\n))', r'删除10:<u>\1</u>'],
-    [r'([^\n\.。？\?\(\)（）]+Appendix[^\n\.。？\?\(\)（）]+?\.)', r'删除12:<u>\1</u>'],
+    [r'(©|See pages 31–33 for the updated information\.|See Table 1\.|\*\*《2014BSG Barrett食管诊断和治疗指南》\*\*)', r'删除11:<u>\1</u>'],
+    # [r'((Professor Alan B\.R\.|The development of this framework|Douglas P\.|A\. John Camm|To help you)[\w\W]*?(\n\n))', r'删除10:<u>\1</u>'],
+    [r'([,\.][^\n\.,。？\?\(\)（）]+([Aa]ppendix|in [Tt]able|on pages?)[^\n\.,。？\?\(\)（）]+?[\.,])', r'.'],
+    [r'([A-Za-z\d）\)](?<! and) ?)([\(\[（](\d+(([\s，,\-––]+\d+){0,20}))[\)\]）])', r'\1删除13:<u>\2</u>'],
+    [r'((Professor Alan|We are grateful to|The development of this framework|Douglas P\.|A\. John Camm|To help you)[\w\W]+?(\n[  ]*\n))', r'删除14:<u>\1</u>'],
+    [r'de(\?)bril', ''],
+    [r'((ó 2011 European|Perth:|Date written:|Final submission:|Author:|Stack A|For more detailed|Footnote:|See the NICE|Entries to MEDLINE|From the National|CREST wishes|Dr Mark Gibson|Experts of the guideline|Copies of the full-text)[^\n]+)', r'删除15:<u>\1</u>'],
+    [r'((\\\*Refer to)[\w\W]*)', r'删除16:<u>\1</u>'],
+    [r'(et al\. )([\(（]\d+[\)）] *)', r'\1删除16:<u>\2</u>'],
 
 
 ]
@@ -205,25 +213,26 @@ class speicalProces:
         return context
 
     def step6_unrelated_text(self, context):
-        split_token = "\n"
-        result = []
-        context = context.split(split_token)
+        # split_token = "\n"
+        # result = []
+        # context = context.split(split_token)
         patter1 = r'([^A-Za-z]([A-Z][a-z]?\.)+ ?[A-Za-z]{,20})'
         patter2 = r'([\(（]\**[  ]*(https?:\/\/)?(www\.)?([\da-z \.\-@]+)\.([a-z]{2,6})([\/\w\?=\.-]+)?\/?[\)）]|\**[  ]*(https?:\/\/)?(www\.)?([\da-z \.\-@]+)\.([a-z]{2,6})([\/\w\?=\.-]+)?\/?)'
         patter3 = r'(MD|Professor)'
         patter4 = r'(Fax|mail|calling)'
-        for item in context:
-            if len(re.findall(patter1, item)) > 4 or len(re.findall(patter3, item)) > 4 or (len(re.findall(patter3, item)) > 2 and len(item) < 500):
-                item = "(此段删除)无关文本-1：" + item
-            website_list = re.findall(patter2, item)
-            # print(website_list)
-            if len(website_list) > 2 or len(re.findall(patter4, item)) > 2:
-                item = "(此段删除)无关文本-2：" + item
-            for web in website_list:
-                if len(re.findall(r'\.', web[0])) >= 2:
-                    item = re.sub(re.escape(web[0]), rf'删除2:<u>{web[0]}</u>',item)
-            result.append(item)
-        context = split_token.join(result)
+        # for item in context:
+        website_list = re.findall(patter2, context)
+        # print(website_list)
+        for web in website_list:
+            if len(re.findall(r'\.', web[0])) >= 2:
+                context = re.sub(re.escape(web[0]), rf'删除2:<u>{web[0]}</u>',context)
+        if len(re.findall(patter1, context)) > 4 or len(re.findall(patter3, context)) > 4 or (
+                len(re.findall(patter3, context)) > 2 and len(context) < 500):
+            context = "(此段删除)无关文本-1：" + context
+        if len(website_list) > 2 or len(re.findall(patter4, context)) > 2:
+            context = "(此段删除)无关文本-2：" + context
+        # result.append(item)
+        # context = split_token.join(result)
         return context
 
 def clean_text(context, lang):
@@ -241,19 +250,11 @@ def clean_text(context, lang):
     # 分解处理
     result = []
     sp = speicalProces()
-    # 1.正则
-    for pattern_item in pattern_list:
-        src = pattern_item[0]
-        tgt = pattern_item[1]
-        # print(pattern_item)
-        # print(re.findall(src, item))
-        context = re.sub(src, tgt, context)
 
     # special_process
     # context = sp.step1_drop_sentenc(context)
 
     context = context.split(split_token)
-
     for item in context:
 
         if lang == "en":
@@ -261,9 +262,16 @@ def clean_text(context, lang):
             item = sp.step6_unrelated_text(item)
 
         result.append(item)
-
     # 整合
     context = split_token.join(result)
+
+    # 1.正则
+    for pattern_item in pattern_list:
+        src = pattern_item[0]
+        tgt = pattern_item[1]
+        # print(pattern_item)
+        # print(re.findall(src, item))
+        context = re.sub(src, tgt, context)
 
     return context
 
@@ -282,7 +290,7 @@ def post_process(context):
 
 
 #读jsonl
-fw = open(r"C:\Program Files\lk\projects\pdf\aiaiyi_zhenliaozhinan\aiaiyi_zhenliaozhinan_preformat_zh_clean3.jsonl", "w", encoding="utf-8")
+fw = open(r"C:\Program Files\lk\projects\pdf\aiaiyi_zhenliaozhinan\aiaiyi_zhenliaozhinan_preformat_en_clean3.jsonl", "w", encoding="utf-8")
 with open(r"C:\Program Files\lk\projects\pdf\aiaiyi_zhenliaozhinan\aiaiyi_zhenliaozhinan_preformat.jsonl", "r", encoding="utf-8") as fs:
     lines = fs.readlines()
     count = 0
@@ -294,14 +302,10 @@ with open(r"C:\Program Files\lk\projects\pdf\aiaiyi_zhenliaozhinan\aiaiyi_zhenli
         if "目录：" in context:
             context = "(本页删除)本页发现目录的特征:\n" + context
             # continue
-
-        # ll = ['zh', 'en']
-        # if lang not in ll:
-        #     count += 1
-        #     print(lang)
-        #     print(context, '\n-------------------')
-
-        if lang == 'zh':
+        if "The  American Heart Association" in context:
+            context = "(本页删除)本页信息有用性为无:\n" + context
+            # continue
+        if lang == 'en':
             # context = post_process(context)
             context = clean_text(context, lang)
             context = post_process(context)
