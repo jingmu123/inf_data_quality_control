@@ -46,7 +46,7 @@ pattern_list_zh = [
     [r'[。\u4e00-\u9fa5A-Za-z] *(\d{1,2} *\.)(?! *[\d])', r'\n\1'],#序号换行
     [r'[。\u4e00-\u9fa50-9A-Za-z] *?([一二三四五六七八九十]+[\.、])', r'\n增加换行9:\1'],#[。\u4e00-\u9fa50-9A-Za-z] *?([一二三四五六七八九十]+[\.、])
     # -------增加换行：(7)
-    [r'([ ;；。！，,\.] ?)([\(（] *\d+ *[）\)] ?)', r'\1\n\2'],
+    [r'([ ;；。！，,\.] ?)([\(（] *\d{1,2} *[）\)] ?)', r'\1\n\2'],
     [r'([。！？] ?)(【[\u4e00-\u9fa5]*?】)', r'\1\n增加换行2:\2'],
     [r'[^#\s] ?([\(（] ?[—一二三四五六七八九十-]+ ?[\)）][^。])', r'\n增加换行3:\1'],
     [r'([\u4e00-\u9fa5)）])([A-E] ?\. ?[\u4e00-\u9fa5])',r'\1\n\2'],
@@ -69,7 +69,7 @@ pattern_list_zh = [
     [r'(\( ?[\-–]\d+ ?\))',r'删除32:<u>\1</u>'],
     [r'([\(（] ?\d{2,} ?[\)）]\n)', r'删除33:<u>\1</u>'],
     [r'(\b([a-zA-Z] ){3,}[a-zA-Z]?\b)', r'删除34:<u>\1</u>'],
-    [r'(?<=\n)((##)? ?[A-Za-z.\-@]{1,3}|[\u4e00-\u9fa5])(?=\n|$)|(?<=^)((##)? ?[A-Za-z.\-@]{1,3}|[\u4e00-\u9fa5])(?=\n|$)',r'删除35:<u>\1\3</u>'],
+    [r'(?<=\n)((##)? ?[A-Za-z.\-@मे&]{1,3}|[\u4e00-\u9fa5])(?=\n|$)|(?<=^)((##)? ?[A-Za-z.\-@मे&]{1,3}|[\u4e00-\u9fa5])(?=\n|$)',r'删除35:<u>\1\3</u>'],
     [r'(?<=。|\.)( ?\(\d+\))(?=\n|$)',r'删除36:<u>\1</u>'],
     [r'(?<=^)([A-Za-z ]*[Ff]i[Gg](ures?)?[A-Za-z 0-9]*\.?[0-9 ]*?)(?=\n|$)|(?<=\n|。|\.)([A-Za-z ]*[Ff]i[Gg](ures?)?[A-Za-z 0-9]*\.?[0-9 ]*?)(?=\n|$)',r'删除37:<u>\1\3</u>'],
     [r'(?<=^)([\(（【\[]\d+[\.-]\d+[\)）】\]])(?=\n|$)|(?<=\n)([\(（【\[]\d+[\.-]\d+[\)）】\]])(?=\n|$)',r'删除38:<u>\1\2</u>'],#(15.52) (16-12)
@@ -842,11 +842,11 @@ def process_line(items, sp):
     return item
 sp=speicalProces()
 fw = open(r'F:\zeroshots\reclean9_medicalpdfv2_preformat_zh.jsonl', 'w', encoding='utf-8')
-with open(r'F:\zeroshots\medicalpdfv2_0724_preformat_zh.jsonl', "r", encoding="utf-8") as file:
+with open(r'F:\zeroshots\2.jsonl', "r", encoding="utf-8") as file:
     for item in tqdm(file.readlines()):
 
         item=process_line(item,sp)
         # with open(r'F:\zeroshots\reclean7_medicalpdfv2__preformat_zh.jsonl', 'a', encoding='utf-8') as f:
-        fw.write(item+'\n')
+        # fw.write(item+'\n')
 
 

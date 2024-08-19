@@ -46,7 +46,7 @@ pattern_list_zh = [
     [r'[。\u4e00-\u9fa5A-Za-z] *(\d{1,2} *\.)(?! *[\d])', r'\n\1'],#序号换行
     [r'[。\u4e00-\u9fa50-9A-Za-z] *?([一二三四五六七八九十]+[\.、])', r'\n\1'],#[。\u4e00-\u9fa50-9A-Za-z] *?([一二三四五六七八九十]+[\.、])
     # -------增加换行：(7)
-    [r'([ ;；。！，,\.] ?)([\(（] *\d+ *[）\)] ?)', r'\1\n\2'],
+    [r'([ ;；。！，,\.] ?)([\(（] *\d{1,2} *[）\)] ?)', r'\1\n\2'],
     [r'([。！？] ?)(【[\u4e00-\u9fa5]*?】)', r'\1\n\2'],
     [r'[^#\s] ?([\(（] ?[—一二三四五六七八九十-]+ ?[\)）][^。])', r'\n\1'],
     [r'([\u4e00-\u9fa5)）])([A-E] ?\. ?[\u4e00-\u9fa5])',r'\1\n\2'],
@@ -820,11 +820,11 @@ def process_line(items, sp):
     return item
 sp=speicalProces()
 fw = open(r'F:\zeroshots\reclean10_medicalpdfv2_preformat_zh.jsonl', 'w', encoding='utf-8')
-with open(r'F:\zeroshots\medicalpdfv2_0724_preformat_zh.jsonl', "r", encoding="utf-8") as file:
+with open(r'F:\zeroshots\2.jsonl', "r", encoding="utf-8") as file:
     for item in tqdm(file.readlines()):
 
         item=process_line(item,sp)
         # with open(r'F:\zeroshots\reclean7_medicalpdfv2__preformat_zh.jsonl', 'a', encoding='utf-8') as f:
-        fw.write(item+'\n')
+        # fw.write(item+'\n')
 
 
