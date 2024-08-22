@@ -1,0 +1,86 @@
+【0】一文了解中枢性色盲
+文：周晨光 郑州大学第五附属医院神经内科
+
+【1】**本文为作者授权医脉通发布，未经允许请勿转载。**
+
+【2】我们生活在一个明暗交织，五彩斑斓的世界，人类视网膜的视锥细胞感受强光和色彩识别，视锥细胞感受暗光。赤橙黄绿青蓝紫，七彩世界，色彩鲜明。很遗憾有部分人感受到的世界与你并不太一样。我们从不会吃青色的草莓，不会吃白色的西瓜，红灯来了要停，绿灯我们可以通行，这些都依赖于我们获取的颜色信息和感知颜色的能力。
+
+【3】大家对色盲的概念并不陌生，色盲，又称[色觉<sup><img></sup>](http://tagClicked/29259)辨认障碍，是指看见颜色及辨别颜色的能力减退的状况。色盲是首先由英国化学家道尔顿发现，又称道尔顿病。色盲会对部分人在选择专业，职业方面造成影响。色盲以红绿色盲最常见，其次是蓝黄色盲以及全色盲。红绿色盲病人常难以辨认红绿色调，是一种X[染色体<sup><img></sup>](http://tagClicked/26257)隐性遗传病，男性多于女性。全色盲病人只能区分灰白黑三种颜色，极为少见。色盲成因主要是一组或以上的视锥细胞发育时有问题（注：视锥细胞大致可分为三组，分别能感应红（R）、绿（G）、蓝（B），三组细胞组合可以感受不同的颜色）。色觉的障碍并不只是来源先天遗传基因的缺陷，也可以见于后天眼睛、视神经等获得性疾病。 那么脑部损伤会不会造成色盲呢？在脑部有色觉信息处理加工的脑区，该区域病变也会造成患者的色觉障碍，这种现象被称为中枢性色盲（Central Achromatopsia/Dyschromatopsia），Achromatopsia一词通常指全色盲，而Dyschromatopsia一词主要指部分色觉障碍，不全色盲，或对某种颜色识别障碍。我们谈中枢性色盲之前，必须得强调中枢性色盲（cannot see colour）需要与以下综合症区分开来：（1）颜色命名障碍(Anomina ); （2）失认症（Agnosia）颜色失认,患者可以感知颜色信息（can see colour），可以命名颜色，但是丢失了物体颜色（固有的存储属性）的知识，也就是一种失连接综合征，不能将颜色与对应物体的形状大小结合起来。
+
+【4】视觉皮层中枢，是指大脑皮层中主要负责处理视觉讯息的部分，位于大脑后部的枕叶。视觉皮层包括初级视皮层，又视称纹状区（V1区，对应Brodmann17区，主要为距状沟周围的皮质区，包括楔回的底面和后端舌回的顶面；见图1）以及纹外皮层（例如V2，V3，V4，V5等；这些主要对应Brodmann18区、19区，包括梭状回、舌回前端、楔状回大部，见图1）。纹状区接受来自外侧膝状体传来的视觉冲动，刺激性病变可导致闪光，暗影，色彩等视幻觉；缺损性病变根据损伤的范围常造成偏盲、象限盲，双侧可出现全盲。纹外皮层病变（纹状区周围病变），非失明，但优势侧会出现面容物体失认等。
+
+【5】图1 来自维基百科，Brodmann分区
+
+【6】  
+
+【7】一个视野内的物体的信息包括大小，形状，结构，颜色等信息。那么大脑哪些结构损伤会导致颜色获知障碍导致色盲呢？机体处理颜色信息和其他的视野特征息（大小，形状等）是相互独立分开的吗？
+
+【8】1888年，瑞士的一名眼科医生描述了第一例中枢性色盲的病人，该病人丧失了识别右半视野中物体颜色的能力，但是不包括形状的识别，尸检发现左侧梭状回和舌回的病变，首次提示了这些区域与颜色识别有关。之后陆续有文献报道中枢性色盲的病例，但是许多研究者并不认可在视纹状区外存在单独处理颜色信息的解剖结构存在。原因主要是当时缺乏精确的颜色能力评估手段和部分病例缺乏病理信息；再加上部分人认为轻度视野缺损仅仅表现为更容易探知的色觉识别能力下降，并认为与颜色缺损相关的区域与视野缺损一样，在视纹区或视放射。1974年Meadows通过对之前报道的14例中枢性色盲的病人进行回顾发现，这些中枢性色盲的病人如果合并视野缺损，总是合并上象限视野缺损，从没有一例合并下象限的病人，这极大地提示了枕叶腹侧皮层是色觉处理中枢的可能（颜色处理中枢靠近下纹状区，才会容易合并上象限视野缺损）。Short and Graff-Radford（2001）描述了一偏侧色盲（右侧）的病例，该患者几周前有过[房颤<sup><img></sup>](http://tagClicked/25887)引发的急性心源性[卒中<sup><img></sup>](http://tagClicked/30518)，之后发现记忆和阅读障碍。再次医疗评估时，发现患者把右侧视野中明亮的色彩（红，绿，蓝，黄）都认为是灰色的，不能辨别颜色，影像发现之前的左侧大脑半球[梗死<sup><img></sup>](http://tagClicked/31741)病灶波及到了大范围的梭状回和舌回，并累及少许[海马<sup><img></sup>](http://tagClicked/18563)旁回和海马，继发于卒中的皮层色盲被考虑。作者总结了文献报道的11例病人中，5例双侧中枢性色盲，1例左侧，5例右侧；病因当中9例梗死，1例创伤，1例肿瘤。
+
+【9】  
+
+【10】另外一篇日本的文献报道了一个病例，影像学相对典型，（见图2）。文献报道的皮层色盲的病灶位置均位于枕颞叶腹侧皮层，与既往公认的纹外V4区，色彩等脑功能MRI成像提示（fMRI）的BOLD活跃区域一致或接近，主要涉及梭状回和舌回等腹侧纹外区域（见图3）。尽管梭状回是颜色重要的中枢处理结构得到公认，但是精准的部位和功能区仍然是有争议的。2008年Murphey等人在一名[癫痫<sup><img></sup>](http://tagClicked/25903)患者中，将电极植入右侧大脑半球梭状回(枕叶和颞极之间，见图2 Midfusiform color area)的更头端区域。在这一区域记录到的电活动在彩色刺激下大于非彩色刺激，而且与特定色度相关。在没有视觉刺激的情况下，通过电极的电刺激会引起人工的彩色感知。因此，这个中梭回的区域似乎与患者对颜色的有意识体验直接相关，该区域也被Murphey等人称为中梭回颜色中心。太复杂了，我们暂且不再讨论精确的位置或者精确的功能，看一下文献的总结吧（见图3）。我们只需要知道机体对颜色的处理是多阶段的就行了，在脑部主要涉及梭状回。色觉信息从视网膜中L、M和S锥体细胞的活动开始，到外侧膝状核，V1，到V2和V4等，再到最后的与认知有关的高级皮层区域。
+
+【11】图2  既往研究中与颜色处理相关的区域（来源于文献3）
+
+【12】  
+
+【13】图3 一中枢性色盲病人核磁DWI序列影像，箭头指示舌回，长箭指示梭状回，影像来源于文献4  
+
+【14】  
+
+【15】梭状回是颞叶与枕叶一部分，也被称作“枕颞内侧回”。位于颞下回与海马旁回之间（见图4），这条“潜藏”的脑回除与颜色信息处理有关，还有以下重要的功能：与人脸面孔及身体识别相关；与文字识别和分类辨识相关。所谓的脸盲症与最强大脑中那些辨识能力极强的高手，可能区别就在与梭状回的[强弱<sup><img></sup>](http://tagClicked/28910)吧。
+
+【16】绿色区域：梭状回                红色区域：舌回  
+
+【17】  
+
+【18】总结一下 ：（1）中枢性色盲是指皮层损伤后病人“看见”颜色的能力下降，可以是全色盲也可以是不全色盲；伴或不伴视野缺损，多见于[脑梗死<sup><img></sup>](http://tagClicked/30471)。（2）梭状回和部分舌回是处理颜色信息的重要结构。
+
+【19】参考文献：
+
+【20】\[1\] 维基百科视皮层及色盲相关章节.
+
+【21】\[2\] 神经病学 人民卫生出版社
+
+【22】\[3\] Bartolomeo P , Bachoud-Lévi, Anne-Catherine, Michel T D S . The anatomy of cerebral achromatopsia: A reappraisal and comparison of two case reports\[J\]. Cortex, 2014, 56:138-144.
+
+【23】\[4\] Kwon J S , Yoon D Y , Han H J , et al. Cerebral Achromatopsia After Posterior Cerebral Artery Infarction\[J\]. 2013.
+
+【24】\[5\] Orrell R W , James-Galton M , Stevens J M , et al. Cerebral achromatopsia as a presentation of Trousseau\\"s syndrome.\[J\]. Postgraduate Medical Journal, 1995, 71(831):44-46.
+
+【25】\[6\] Short RA, Graff-Radford NR. Localization of hemiachromatopsia. Neurocase 2001;7:331-7
+
+【26】\[7\] Murphey DK, Yoshor D, and Beauchamp MS. Perception matches selectivity in the human anterior color center. Current Biology 18 (3): 216-220, 2008.
+
+【27】\[8\] Miceli G , Fouch E , Capasso R , et al. The dissociation of color from form and function knowledge\[J\]. Nature Neuroscience, 2001, 4(6):662-667.王磊
+
+====================================================================================================
+文本干净度#无关文本#文：周晨光 郑州大学第五附属医院神经内科
+
+【1】本文为作者授权医脉通发布，未经允许请勿转载。#无
+文本干净度#无关文本#【5】图1 来自维基百科，Brodmann分区#无
+文本干净度#无关文本#（见图2）#（见xx）应用全文
+文本干净度#无关文本#见图2 #无
+文本干净度#无关文本#【11】图2  既往研究中与颜色处理相关的区域（来源于文献3）
+
+【12】
+
+【13】图3 一中枢性色盲病人核磁DWI序列影像，箭头指示舌回，长箭指示梭状回，影像来源于文献4#无
+文本干净度#无关文本#【19】参考文献：
+
+【20】[1] 维基百科视皮层及色盲相关章节.
+
+【21】[2] 神经病学 人民卫生出版社
+
+【22】[3] Bartolomeo P , Bachoud-Lévi, Anne-Catherine, Michel T D S . The anatomy of cerebral achromatopsia: A reappraisal and comparison of two case reports[J]. Cortex, 2014, 56:138-144.
+
+【23】[4] Kwon J S , Yoon D Y , Han H J , et al. Cerebral Achromatopsia After Posterior Cerebral Artery Infarction[J]. 2013.
+
+【24】[5] Orrell R W , James-Galton M , Stevens J M , et al. Cerebral achromatopsia as a presentation of Trousseau\"s syndrome.[J]. Postgraduate Medical Journal, 1995, 71(831):44-46.
+
+【25】[6] Short RA, Graff-Radford NR. Localization of hemiachromatopsia. Neurocase 2001;7:331-7
+
+【26】[7] Murphey DK, Yoshor D, and Beauchamp MS. Perception matches selectivity in the human anterior color center. Current Biology 18 (3): 216-220, 2008.
+
+【27】[8] Miceli G , Fouch E , Capasso R , et al. The dissociation of color from form and function knowledge[J]. Nature Neuroscience, 2001, 4(6):662-667.#无
