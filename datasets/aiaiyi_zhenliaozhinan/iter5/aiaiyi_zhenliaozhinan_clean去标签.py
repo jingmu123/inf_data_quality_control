@@ -8,7 +8,7 @@ from langdetect import detect
 from langdetect import detect_langs
 from tqdm import tqdm
 
-url_pattern = r"(https?:\/\/)?(www\.)?([\da-z\.\-@]+)\.([a-z\.]{2,6})([\/\w \.-]+)?\/?"
+
 pattern_list_zh = [
 
     [r'([\.。？\?][  ]*)((\*\*)?(《[^《》]+》)(内容预览))', r'\1\n\n\2'],
@@ -199,9 +199,8 @@ def post_process(context):
 
 
 #读jsonl
-fw = open(r"C:\Program Files\lk\projects\pdf\aiaiyi_zhenliaozhinan\aiaiyi_zhenliaozhinan_preformat_zh_clean5.jsonl", "w", encoding="utf-8")
+fw = open(r"C:\Program Files\lk\projects\pdf\aiaiyi_zhenliaozhinan\aiaiyi_zhenliaozhinan_preformat_all_clean.jsonl", "w", encoding="utf-8")
 with open(r"C:\Program Files\lk\projects\pdf\aiaiyi_zhenliaozhinan\aiaiyi_zhenliaozhinan_preformat.jsonl", "r", encoding="utf-8") as fs:
-    num = 88
     lines = fs.readlines()# [num-1:num]
     for items in tqdm(lines):
         item = json.loads(items.strip())
@@ -217,15 +216,14 @@ with open(r"C:\Program Files\lk\projects\pdf\aiaiyi_zhenliaozhinan\aiaiyi_zhenli
                 break
         if exit_flag:
             continue
-        if lang == 'zh':
-            # context = post_process(context)
-            context = clean_text(context, lang)
-            context = post_process(context)
-            # print(context)
-            item["text"] = context
-            print(item["text"], "\n--------------------------------------------------")
-            item = json.dumps(item, ensure_ascii=False)
-            fw.write(item + "\n")
+
+        context = clean_text(context, lang)
+        context = post_process(context)
+        # print(context)
+        item["text"] = context
+        print(item["text"], "\n--------------------------------------------------")
+        item = json.dumps(item, ensure_ascii=False)
+        fw.write(item + "\n")
 fw.close()
 
 
