@@ -10,24 +10,21 @@ import jieba
 from tqdm import tqdm
 
 pattern_list = [
-    [r'。', r'\.'], [r'，', r','], [r'；', r';'],
-    [r'\|', ''],
 
-    [r'(<[\/\w]+>)+', ''],
-    [r'([^,\.;\n] +)([\(（][\d\-,～~，;；–—、\s_]+[\)）])', r'\1删除1:<u>\2</u>'],
-    [r'(\n[  \t]*(Author Information)[\w\W]*)', r'删除3:<u>\1</u>'],
-    [r'([\(（][^\(\)（）\n]*(Figure|Table|Appendix|[Nn]o\.|\d{4})[^\(\)（）\n]*[\)）])', r'删除4:<u>\1</u>'],
-    [r'(\n[  \t]*\**(Figure|Table|Appendix)[^\n]*)', r'删除5:<u>\1</u>'],
-    [r'([^\.\n]*(((Figure|Table|Appendix)[\d\-～~–—\. _]+shows?)|( in (Figure|Table|Appendix) \d))[^\.\n]*\.)', r'删除5-1:<u>\1</u>'],
-    [r'([\w\W]*)(\n[  \t]*(Abstract|Background)\n(\-{7,}))', r'删除6:<u>\1</u>(以上都删除)\2'],
-    [r'((Author contributions:|Author Affiliations:)[^\n]*)', r'删除7:<u>\1</u>'],
-    [r'((Acknowledgments|References|Author Information)\n(\-{7,})[\w\W]*)', r'以下都删除1:<u>\1</u>'],
-    [r'((Members of the CDC Brazil Investigation Team:|\n[  \t]*Top|\*+Public Health and pharmacy:|### Box\.|On This Page)[^\n]*)', r'删除8:<u>\1</u>'],  # 一些特定无关段落
-    [r'((\n[  \t]*(Drs?|M[sr]|Prof|Col\. G|Hanna Y)\.? )[^\n]+)', r'删除9:<u>\1</u>'],  # 人物介绍
-    [r'([^,\.;\n] +)(\\?\[[\d\-,～~，;；–—、\s\\_]+\])', r'\1删除10:<u>\2</u>'],
-    [r'(\n[  \t]*(Related Pages)[\w\W]*)', r'以下都删除2:<u>\1</u>'],
+    # [r'。', r'\.'], [r'，', r','], [r'；', r';'],
+    [r'(<[\/\w]+>,? ?)+', ''],
+    [r'(\n[  \t\*\.\w#]*([Ff]unding)[\w ]*\n[\w\W]*?\n)([^\n]+\n(\-{7,})|To read this article in full)', r'删除5:<u>\1</u>\3'],
+    [r'(\n[  \t\*]*(This article is available free|To read this article in full|Authors?’? contributions|Contributors|Article info|Appendix|The following are the supplementary|GBD 2016 Neurology Collaborators|Supplementary Material)[\w\W]*)', r'以下都删除1:<u>\1</u>'],
+    [r'([\(（][^\(\)（）\n]*([Ss]ee|[Ff]ig|[Tt]able|[Aa]ppendix|[Nn]o\.|pp? \d+|panel|[Ss]upplementary|[Ll]ink)[^\(\)（）\n]*[\)）])', r'删除2:<u>\1</u>'],
+    [r'(\\?\[[\d\-,～~;–—、\s\\_]+\])', r'删除3:<u>\1</u>'],
+    [r'(\n[  \t\*]*(This online publication|Copyright|View|Figure|Download|Show full caption|Open table)[^\n]*)', r'删除4:<u>\1</u>'],
+    [r'(\\?\[(see|e\.g\.)[^\[\]]+\])', r'删除6:<u>\1</u>'],
+    [r'([\(（][ ,]*[\)）])', r'删除7:<u>\1</u>'],
+    [r'(This trial is registered[^\n]*)', r'删除8:<u>\1</u>'],
+    [r'([^\n]*(declare[\w ]*no|no[\w ]*declare)[^\n]*)', r'删除9:<u>\1</u>'],
 
-    [r'([\-]{3,})', ''],
+
+
 ]
 
 
@@ -36,18 +33,19 @@ class speicalProces:
         pass
 
     def step1_del_wuguan(self, context):
+        count = 0
         patter2 = r'([\(（][^\(\)（）\n]*(https?:\/\/)?(www\.|[Ee]?-?mail:)?([\da-z \.\-@]+)\.([a-z]{2,6})([\/\\\w\?=\.-]+)?\/?[^\(\)（）\n]*[\)）]|\s*(https?:\/\/)?(www\.|[Ee]?-?mail:)?([\da-z \.\-@]+)\.([a-z]{2,6})([\/\\\w\?=\.-]+)?\/?)'
-        # patter3 = r'(Dr\.? |[Pp]rofessor |[Uu]niversity | is a |research(er)? )' # (Dr\.? [A-Za-z’ ]+ is an? |[Pp]rofessor |[Uu]niversity |research(er)? )
         website_list = re.findall(patter2, context)
         for web in website_list:
             if len(re.findall(r'(\.|:|\/\/)', web[0])) >= 2:
+                count += 1
                 if re.findall(r'([\(\)（）])', web[0]):
-                    context = re.sub(re.escape(web[0]), rf'删除2:<u>{web[0]}</u>', context)
+                    context = re.sub(re.escape(web[0]), rf'删除1:<u>{web[0]}</u>', context)
                 else:
-                    context = re.sub(r'([^\n\.]*' + re.escape(web[0]) + r'[^\n\.]*\.?)', r'删除2-1:<u>\1</u>', context)
-        # if len(re.findall(patter3, context)) >= 3:
-        #     context = "(此段删除)无关文本-1:" + context
-        #     # context = ""
+                    context = re.sub(r'([^\n\.]*' + re.escape(web[0]) + r'[^\n\.]*\.?)', r'删除1-1:<u>\1</u>', context)
+        if count >= 3:
+            context = "(此段删除)无关文本-1:" + context
+            # context = ""
         return context
 
 
@@ -91,7 +89,7 @@ def post_process(context):
 
 def wuguan_ye(context):
     exit_flag = False
-    wuguan = ["COMMENTARY_PCD_ s First", "“Antimicrobial Resistance of _"]
+    wuguan = ["_Baselga J,", ]
     for txt in wuguan:
         if txt in context:
             # context = "(本页删除)本页文本质量太差:\n" + context
@@ -131,16 +129,16 @@ def main(lines, fw):
 
 if __name__ == "__main__":
     #读jsonl
-    fw = open("C:/Program Files/lk/projects/pdf/cdc/cdc_preformat_clean1-2.jsonl", "w", encoding="utf-8")
-    with open("C:/Program Files/lk/projects/pdf/cdc/cdc_preformat.jsonl", "r", encoding="utf-8") as fs:
-        num = 2141
-        lines = fs.readlines()#[num-1:num]
+    fw = open("C:/Program Files/lk/projects/pdf/lancet/lancet_preformat_clean1.jsonl", "w", encoding="utf-8")
+    with open("C:/Program Files/lk/projects/pdf/lancet/lancet_preformat.jsonl", "r", encoding="utf-8") as fs:
         start_time = time.time()
+        num = 3229
+        lines = fs.readlines()#[num-1:num]
         new_list = random.sample(lines, 300)
         main(new_list, fw)
         end_time = time.time()
         print(end_time - start_time)
-        # for items in tqdm(new_list):
+        # for items in tqdm(lines):
         #     item = json.loads(items.strip())
         #     context = item["text"]
         #     # print(context, '\n-------------------')
@@ -149,7 +147,7 @@ if __name__ == "__main__":
         #     context = post_process(context)
         #     # print(context)
         #     item["text"] = context
-        #     # print(item["text"], "\n--------------------------------------------------")
+        #     print(item["text"], "\n--------------------------------------------------")
         #     item = json.dumps(item, ensure_ascii=False)
         #     fw.write(item + "\n")
     fw.close()
