@@ -3,7 +3,8 @@ import os
 import re
 import random
 import threading
-
+import time
+from multiprocessing import Pool
 import wordninja
 import jieba
 from tqdm import tqdm
@@ -99,56 +100,59 @@ def wuguan_ye(context):
     return exit_flag
 
 def run_process(context):
-    if wuguan_ye(context):
-        return ''
-    context = post_process(context)
+    # if wuguan_ye(context):
+    #     return ''
+    # context = post_process(context)
     context = clean_text(context)
     context = post_process(context)
     return context
 
-def process_item(item, fw):
+def process_item(item):
     # 去除可能的空白字符
     item = json.loads(item.strip())
     # 处理文本
     context = run_process(item["text"])
+    print(context, "\n--------------------------------------------------")
     # 更新字典
     item["text"] = context
     # 将字典转换回JSON字符串
-    item = json.dumps(item, ensure_ascii=False) + "\n"
-    # 写入文件
-    fw.write(item)
+    return json.dumps(item, ensure_ascii=False) + "\n"
 
-def threaded_process(items, fw):
-    # 创建线程列表
-    threads = []
-    # 为每个项目创建并启动一个线程
-    for item in items:
-        thread = threading.Thread(target=process_item, args=(item, fw))
-        threads.append(thread)
-        thread.start()
-    # 等待所有线程完成
-    for thread in threads:
-        thread.join()
+def main(lines, fw):
+    # 设置进程池大小
+    with Pool(6) as pool:
+        # 使用tqdm显示进度
+         results = pool.map(process_item, lines)
 
-#读jsonl
-fw = open("C:/Program Files/lk/projects/pdf/cdc/cdc_preformat_clean1.jsonl", "w", encoding="utf-8")
-with open("C:/Program Files/lk/projects/pdf/cdc/cdc_preformat.jsonl", "r", encoding="utf-8") as fs:
-    num = 2141
-    lines = fs.readlines()#[num-1:num]
-    new_list = random.sample(lines, 300)
-    for items in tqdm(new_list):
-        item = json.loads(items.strip())
-        context = item["text"]
-        # print(context, '\n-------------------')
-        context = post_process(context)
-        context = clean_text(context)
-        context = post_process(context)
-        # print(context)
-        item["text"] = context
-        # print(item["text"], "\n--------------------------------------------------")
-        item = json.dumps(item, ensure_ascii=False)
-        fw.write(item + "\n")
-fw.close()
+    # 将结果写入文件
+    for item in results:
+        fw.write(item)
+
+
+if __name__ == "__main__":
+    #读jsonl
+    fw = open("C:/Program Files/lk/projects/pdf/cdc/cdc_preformat_clean1-2.jsonl", "w", encoding="utf-8")
+    with open("C:/Program Files/lk/projects/pdf/cdc/cdc_preformat.jsonl", "r", encoding="utf-8") as fs:
+        num = 2141
+        lines = fs.readlines()#[num-1:num]
+        start_time = time.time()
+        new_list = random.sample(lines, 300)
+        main(new_list, fw)
+        end_time = time.time()
+        print(end_time - start_time)
+        # for items in tqdm(new_list):
+        #     item = json.loads(items.strip())
+        #     context = item["text"]
+        #     # print(context, '\n-------------------')
+        #     context = post_process(context)
+        #     context = clean_text(context)
+        #     context = post_process(context)
+        #     # print(context)
+        #     item["text"] = context
+        #     # print(item["text"], "\n--------------------------------------------------")
+        #     item = json.dumps(item, ensure_ascii=False)
+        #     fw.write(item + "\n")
+    fw.close()
 
 
 
