@@ -14,8 +14,8 @@ class clean_pattern:
             [r'(^[\*#]{0,4}(NEWSLETTER|Get the Crohn|Tips from experts|Stay Up-to-Date|Sign up for the latest coronavirus news|You can find more information at|See also|Adapted by|For more information).*)',r'通用删除3(英):<u>\1</u>'], # 开头固定这种情况较多这种固定开头后面都能添加 (时事通讯|获取克罗恩资讯|专家提示|了解最新动态|注册获取最新冠状病毒新闻|你可以寻找更多消息在...|另请参见...|改编自...|更多信息)
             [r'((?<![\d+m\s])|^)(<sup>(<a>)?[a-z\d\s\-\–—,\(\)\[\]]{1,20}(</a>)?</sup>)', r'\1通用删除4(英):<u>\2</u>'],     # 特殊数字  排除可能出现的次幂情况
             [r'(.*(doi|DOI)\s?:.*)', r'通用删除5(英):<u>\1</u>'],  # 存在有DOI描述的句子
-            [r'((\\)?\[[a-z\d\s\-\–—]{1,20}(\\)?\])', r'通用删除6(英):<u>\1</u>'],  # 带有方括号的数字引用
-            [r'((\\)?\([a-z\d\s\-\–—]{1,20}(\\)?\))', r'通用删除7(英):<u>\1</u>'],  # 带有圆括号的数字引用
+            [r'((\\)?\[[\d\s,\-\–—]{1,}(\\)?\])', r'通用删除6(英):<u>\1</u>'],  # 带有方括号的数字引用
+            [r'((\\)?\([\d\s,\-\–—]{1,}(\\)?\))', r'通用删除7(英):<u>\1</u>'],  # 带有圆括号的数字引用
         ]
         return pattern_en
 
@@ -30,6 +30,8 @@ class clean_pattern:
             [r'(.*利益冲突.*)',r'通用删除6(中):<u>\1</u>'],    # 文章末利益冲突
             [r'(^[\*#]{0,4}详见.*)',r'通用删除7(中):<u>\1</u>'],    # 详见...
             [r'(^[\*#]{0,4}阅读更多.*)',r'通用删除8(中):<u>\1</u>'],  # 阅读更多...
+            [r'((\\)?\[[\d\s,\-\–—]{1,}(\\)?\])', r'通用删除9(中):<u>\1</u>'],  # 带有方括号的数字引用
+            [r'((\\)?\([\d\s,\-\–—]{1,}(\\)?\))', r'通用删除10(中):<u>\1</u>'],  # 带有圆括号的数字引用
         ]
         return pattern_zh
 
@@ -40,6 +42,7 @@ class clean_pattern:
             [r'[#\*]{0,4}\s?(Reference|Funding and Disclosures|Polls on Public)s?'],
             [r'^(Ethics Statement|Ethics?|Ethics Approval|Ethical Approval|Statement of Ethics|Ethics Approval and Informed Consent|Funding|Consent for publication|Author Contributions|Compliance with Ethical Standards|Study Approval Statement|Ethical Consideration)[$\n]'],
             [r'^[#\*]{0,4}参考文献'],
+            [r'^(Abbreviations)s?']
 
         ]
         return ending_starts
