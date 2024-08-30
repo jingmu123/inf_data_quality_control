@@ -84,12 +84,12 @@ def sample_data(file, lang_tag, save_file, append_title=False, need_special_spli
         fw_label.write(item)
 
 
-file_name = "aiaiyi_zhenliaozhinan"
-base_dir = f"../../full_data/{file_name}/"
-save_dir = f"../datasets/{file_name}/iter0/"
-file = f"{file_name}_preformat"
+file_name = "cdc"
+base_dir = f"C:/Program Files/lk/projects/pdf/{file_name}/"
+save_dir = f"../datasets/{file_name}/iter2/"
+file = f"{file_name}_preformat_clean2"
 # save_file_en = "reclean4_dingxiangyisheng_en_label.jsonl"
-save_file_zh = f"reclean0_{file_name}_label.jsonl"
+save_file_zh = f"reclean2_{file_name}_label.jsonl"
 split_token = "\n\n"
 # 指定参数:
 #   need_special_split=False # 是否需要特殊换行，解决无换行问题
