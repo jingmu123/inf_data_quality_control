@@ -10,24 +10,33 @@ import jieba
 from tqdm import tqdm
 
 pattern_list = [
-    [r'。', r'\.'], [r'，', r','], [r'；', r';'],
-    [r'\|', ''],
+    # [r'。', r'\.'], [r'，', r','], [r'；', r';'],
+    # [r'\|', ''],
 
     [r'(<[\/\w]+>)+', ''],
-    [r'([^,\.;\n] +)([\(（][\d\-,～~，;；–—、\s_]+[\)）])', r'\1删除1:<u>\2</u>'],
-    [r'(\n[  \t]*(Author Information)[\w\W]*)', r'删除3:<u>\1</u>'],
-    [r'([\(（][^\(\)（）\n]*(Figure|Table|Appendix|[Nn]o\.|\d{4})[^\(\)（）\n]*[\)）])', r'删除4:<u>\1</u>'],
-    [r'(\n[  \t]*\**(Figure|Table|Appendix)[^\n]*)', r'删除5:<u>\1</u>'],
-    [r'([^\.\n]*(((Figure|Table|Appendix)[\d\-～~–—\. _]+shows?)|( in (Figure|Table|Appendix) \d))[^\.\n]*\.)', r'删除5-1:<u>\1</u>'],
+    [r'([^,\.;\n] +)([\(（][\d\-,\\～~;–—、−\s_]+[\)）])', r'\1删除1:<u>\2</u>'],
+    [r'(et al\.|spp\.)( *[\(（][\d\-,\\～~;–—、−\s_]+[\)）])', r'\1删除1-1:<u>\2</u>'],
+    [r'([\(（][\d\-,～~;–—、−\s_]+[\)）])([\.,;])', r'删除1-2:<u>\1</u>\2'],
+    [r'(\d[\d\-,～~;–—、_]*)(\n)', r'删除1-3:<u>\1</u>\2'],
+    # [r'(\n[  \t]*(Author Information)[\w\W]*)', r'删除3:<u>\1</u>'],
+    [r'([\(（][^\(\)（）\n]*(strain|TOX|comm\.|Figure|Table|Appendix|[Nn]o\.|[Ss]ee|Video)[^\(\)（）\n]*[\)）])', r'删除4:<u>\1</u>'],
+    [r'(\n[  \t\*#]*(Figure|Table|Appendix|Footnotes|Video)[^\n]*)', r'删除5:<u>\1</u>'],
+    [r'(^\**(Figure|Table|Appendix)[^\n]*)', r'删除5-2:<u>\1</u>'],
+    [r'([^\n\.]*?((\d\.\d)[^\n\.]*?)*((Figures?|Tables?|Appendix)[\d\-～~–—\. _]+(shows?|reports?)| (in|from)[\w ]+(Figures?|Tables?|Appendix) \d)[^\n]*?\.)([ \n])', r'删除5-1:<u>\1</u>\9'],
     [r'([\w\W]*)(\n[  \t]*(Abstract|Background)\n(\-{7,}))', r'删除6:<u>\1</u>(以上都删除)\2'],
-    [r'((Author contributions:|Author Affiliations:)[^\n]*)', r'删除7:<u>\1</u>'],
+    [r'(\n[  \t\*#]*(Author contributions:|Author Affiliations:|COVID-19 Registries Study Group members:|Sources:)[^\n]*)', r'删除7:<u>\1</u>'],
     [r'((Acknowledgments|References|Author Information)\n(\-{7,})[\w\W]*)', r'以下都删除1:<u>\1</u>'],
-    [r'((Members of the CDC Brazil Investigation Team:|\n[  \t]*Top|\*+Public Health and pharmacy:|### Box\.|On This Page)[^\n]*)', r'删除8:<u>\1</u>'],  # 一些特定无关段落
-    [r'((\n[  \t]*(Drs?|M[sr]|Prof|Col\. G|Hanna Y)\.? )[^\n]+)', r'删除9:<u>\1</u>'],  # 人物介绍
+    [r'(\n[  \t\*#]*(Members of the CDC Brazil Investigation Team:|Top|Public Health and pharmacy:|Box\.|On This Page|Dial |CAS#:|Image source:)[^\n]*)', r'删除8:<u>\1</u>'],  # 一些特定无关段落
+    [r'([^\n]*(\n[  \t\*]*(Drs?|M[sr][sr]?|Prof|Col\. G|Hanna Y|Carmen C.H)\.?[^,\.]* is )[^\n]+)', r'删除9:<u>\1</u>'],  # 人物介绍
     [r'([^,\.;\n] +)(\\?\[[\d\-,～~，;；–—、\s\\_]+\])', r'\1删除10:<u>\2</u>'],
-    [r'(\n[  \t]*(Related Pages)[\w\W]*)', r'以下都删除2:<u>\1</u>'],
-
-    [r'([\-]{3,})', ''],
+    [r'(\n[  \t\*#]*(Fast Facts\n\nFirearm|[a-z]+ icon\n|Bibliography|Appendix\n|ADDITIONAL RESOURCES|Safety & Health Outcomes)[\w\W]*)', r'以下都删除2:<u>\1</u>'],
+    [r'(\n[  \t#]*(Acknowledgments|References?|Author Information)[  \t]*\n[\w\W]*)', r'以下都删除3:<u>\1</u>'],
+    [r'([\w\W]*\n[  \t]*(Author\(s\):|Pages:|_Suggested citation for this article:_|Price:)[^\n]+)', r'<u>\1</u>\n(以上都删除2)'],
+    [r'(Back to top)', r'删除11:<u>\1</u>'],
+    [r'([^\n]*((was|are) supported (in part )?by )[^\n]*)', r'删除12:<u>\1</u>'],
+    [r'(\\?\[[^\[\]]*(Source:|[Ff]igure)[^\[\]]*\])', r'删除13:<u>\1</u>'],
+    [r'(It is almost worth buying[^\n]*)',  r'删除14:<u>\1</u>'],
+    # [r'([\-]{3,})', ''],
 ]
 
 
@@ -91,47 +100,53 @@ def post_process(context):
 
 def wuguan_ye(context):
     exit_flag = False
-    wuguan = ["COMMENTARY_PCD_ s First", "“Antimicrobial Resistance of _"]
+    wuguan = ["COMMENTARY_PCD_ s First", "“Antimicrobial Resistance of _", "\n_CDC Yellow Book:", "In the article “Identifying Supports","Several test orders", "Two funding sources were inadvertently"]
     for txt in wuguan:
         if txt in context:
-            # context = "(本页删除)本页文本质量太差:\n" + context
+            context = "(本页删除)本页文本质量太差:\n" + context
             exit_flag = True
             break
-    return exit_flag
+    return context
 
 def run_process(context):
     # if wuguan_ye(context):
     #     return ''
-    # context = post_process(context)
+    context = wuguan_ye(context)
     context = clean_text(context)
     context = post_process(context)
     return context
 
 def process_item(item):
-    # 去除可能的空白字符
     item = json.loads(item.strip())
-    # 处理文本
     context = run_process(item["text"])
-    print(context, "\n--------------------------------------------------")
-    # 更新字典
+    # print(context, "\n--------------------------------------------------")
     item["text"] = context
-    # 将字典转换回JSON字符串
     return json.dumps(item, ensure_ascii=False) + "\n"
 
-def main(lines, fw):
-    # 设置进程池大小
-    with Pool(6) as pool:
-        # 使用tqdm显示进度
-         results = pool.map(process_item, lines)
 
-    # 将结果写入文件
-    for item in results:
-        fw.write(item)
+def main(lines, fw):
+    with Pool(6) as pool:
+        # 创建一个用于存储AsyncResult对象的列表
+        results = []
+        # 使用tqdm显示进度
+        for item in tqdm(lines, desc="Processing"):
+            # 异步地将 process_item 函数应用到每个数据项上
+            async_result = pool.apply_async(process_item, (item,))
+            # 将AsyncResult对象添加到结果列表中
+            results.append(async_result)
+
+        # 使用tqdm显示写入进度
+        with tqdm(total=len(lines), desc="Writing") as pbar:
+            # 等待所有任务完成并写入结果
+            for async_result in results:
+                result = async_result.get()  # 获取任务结果
+                fw.write(result)
+                pbar.update()
 
 
 if __name__ == "__main__":
     #读jsonl
-    fw = open("C:/Program Files/lk/projects/pdf/cdc/cdc_preformat_clean1-2.jsonl", "w", encoding="utf-8")
+    fw = open("C:/Program Files/lk/projects/pdf/cdc/cdc_preformat_clean2.jsonl", "w", encoding="utf-8")
     with open("C:/Program Files/lk/projects/pdf/cdc/cdc_preformat.jsonl", "r", encoding="utf-8") as fs:
         num = 2141
         lines = fs.readlines()#[num-1:num]
