@@ -10,13 +10,6 @@ import sys
 import transformers
 sys.path.append("../../../")
 
-import spacy
-import jieba
-
-# import torch.nn.functional as F
-# from transformers import AutoModelForSequenceClassification, AutoTokenizer
-# f7f8c3e1-218e-4792-92e4-5b096bfaa2c0
-
 pattern_list_en = [
     [r'(\\?[(（[][^\d\n][^()（）\[\]\n%=]+\d{4}[^()（）\[\]\n%= ]{0,2} *\\?[)）\]])',r''],#( WHO 2011 ),人物+年份  ([(（][^()（）\n]*\d{4}[^()（）\n]*[)）])
     [r'(?<=\n)([# ]+(?:Search methods for identification of studies|Electronic searches) *(?:.*\n?.*)*)',r''],#Search methods for...及一下内容删除
@@ -52,10 +45,7 @@ class speicalProces:
     def __init__(self):
         pass
 
-
-
 def clean_text(context, lang, sp):
-    # print("-"*10)
     split_token = "\n\n"
     if split_token not in context:
         split_token = "\n"
@@ -63,29 +53,7 @@ def clean_text(context, lang, sp):
     context = re.sub(r'\xa0', r' ', context)
 
     for pattern_item in pattern_list:
-        # context = context.lstrip(" ").rstrip(" ")
         context = re.sub(pattern_item[0], pattern_item[1], context)
-    # context=sp.step1_rm_reference(context)
-    # 分解处理
-    # result = []
-    # for idx, item in enumerate(context.split(split_token)):
-    #     print(item)
-    #
-    #
-    #     for pattern_item in pattern_list:
-    #         item = item.lstrip(" ").rstrip(" ")
-    #         item = re.sub(pattern_item[0], pattern_item[1], item)
-    #
-    #     for replace_item in context_pattern:
-    #         item = re.sub(replace_item[0], replace_item[1], item)
-    #     print(item)
-    #     result.append(item)
-
-    # 整合
-
-    # print(context)
-    # context = split_token.join(result)
-    # print(context)
 
     return context
 
@@ -125,9 +93,7 @@ fw = open(r'C:\Users\Administrator\PycharmProjects\untitled\cochrane\reclean2_co
 with open(r'C:\Users\Administrator\PycharmProjects\untitled\cochrane\cochrane_preformat.jsonl', "r", encoding="utf-8") as file:
 
     for item in tqdm(file.readlines()):
-
         item=process_line(item,sp)
-        # with open(r'F:\zeroshots\reclean7_medicalpdfv2__preformat_zh.jsonl', 'a', encoding='utf-8') as f:
         fw.write(item+'\n')
 
 
