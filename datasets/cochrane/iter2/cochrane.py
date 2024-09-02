@@ -73,11 +73,8 @@ def post_process(context):
 def process_line(items, sp):
     try:
         item = json.loads(items.strip())
-        # item=sp.step1_drop_Pagefooter(item)
-
         context = item["text"]
         lang = item["lang"]
-
         context = clean_text(context, lang, sp)
         context = post_process(context)
         item["text"] = context
