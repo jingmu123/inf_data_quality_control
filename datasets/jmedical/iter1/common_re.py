@@ -8,7 +8,7 @@ class clean_pattern:
     # 通用英文正则
     def clean_pattern_en(self):
         pattern_en = [
-            [r'(\(\s?[^\(\)]*([Ff]igs?(ure)?|F\s?IGS?(URE)?|Table|See|For more|panel|http|www|NCT\d+|NO\.|version)s?[\s\.][^\(\)]*\))',r'通用删除1(英):<u>\1</u>'],  # 固定格式  带有（）的图片表格描述 附录描述 协议描述 无关网址描述
+            [r'(\(\s?[^\(\)]*([Ff]igs?(ure)?|F\s?IGS?(URE)?|Table|See|For more|panel|http|www|NCT\d+|NO\.|version)s?[\s\.:][^\(\)]*\))',r'通用删除1(英):<u>\1</u>'],  # 固定格式  带有（）的图片表格描述 附录描述 协议描述 无关网址描述
             [r'(.*,\s?et[\s\xa0]{1,3}al.*)', r'通用删除2(英):<u>\1</u>'],     # , et al   et al一版在一些人名后面，一定要加逗号，如果没有逗号可能会造成一些误删
             [r'^\b(\w+(\s\w+){0,})\s+(\1)\b', r'\1'],  # 解决句首出现的单词重复的问题
             [r'(^[\*#]{0,4}(NEWSLETTER|Get the Crohn|Tips from experts|Stay Up-to-Date|Sign up for the latest coronavirus news|You can find more information at|See also|Adapted by|For more information).*)',r'通用删除3(英):<u>\1</u>'], # 开头固定这种情况较多这种固定开头后面都能添加 (时事通讯|获取克罗恩资讯|专家提示|了解最新动态|注册获取最新冠状病毒新闻|你可以寻找更多消息在...|另请参见...|改编自...|更多信息)
