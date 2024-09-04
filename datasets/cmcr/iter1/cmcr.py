@@ -8,10 +8,11 @@ pattern_list = [
     [r'(^[\*#]{0,4}图\s?\d+.*)',r'删除1:<u>\1</u>'],
     [r'(（\s{0,}）)',r'删除2:<u>\1</u>'], # 空括号里面什么都没有
     [r'(（详见[^（）]*）)',r'删除3:<u>\1</u>'],   # 详见...
-    [r'((视频))',r'删除4:<u>\1</u>'],  # 单行只有一个视频
+    [r'(^(视频).*)',r'删除4:<u>\1</u>'],  # 单行只有一个视频
     [r'(（请扫描文章首页左下角二维码）)',r''],
     [r'本病例选自.*',r''],
     [r'([，。]见(图|表)\d+[^，。]*)',r'删除5:<u>\1</u>'],   # 见图/表1...
+    [r'(（[^（）]*视频[^（）]*）)',r'删除6:<u>\1</u>'],    # 带有（）的...视频
 ]
 
 pattern_page_ending = [
@@ -123,7 +124,7 @@ with open(r"C:\pycharm\orc识别pdf清洗数据\pdf\clean_json\original_data\cmc
     lines = fs.readlines()
     for items in tqdm(lines):
         item = json.loads(items.strip())
-        # if item["seq_id"] == "b6b962d3-1e34-4488-806a-482f291e8582":
+        # if item["seq_id"] == "0103327b-63de-4496-b426-2bda1b1e26d9":
         context = item["text"]
         lang = item["lang"]
         title = item["title"]
