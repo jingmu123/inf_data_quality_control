@@ -51,7 +51,7 @@ class clean_pattern:
             [r'[#\*]{0,4}\s?(Reference|Funding and Disclosures|Polls on Public)s?'],
             [r'^(Ethics Statement|Ethics?|Ethics Approval|Ethical Approval|Statement of Ethics|Ethics Approval and Informed Consent|Funding|Consent for publication|Author Contributions|Compliance with Ethical Standards|Study Approval Statement|Ethical Consideration)[$\n]'],
             [r'^[#\*]{0,4}参考文献'],   # 中文参考文献
-            [r'^(Abbreviations)s?'],   # 缩写词 类似于文言文下面的词语注释
+            # [r'^(Abbreviations)s?'],   # 缩写词 类似于文言文下面的词语注释
 
 
         ]
