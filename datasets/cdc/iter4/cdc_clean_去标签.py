@@ -10,13 +10,17 @@ import jieba
 from tqdm import tqdm
 
 pattern_list = [
+    [r'([\w\W]*)(\n[  \t#]*(Abstract|(LTAS )?Background)\n)', r'\2'],
+    [r'([\w\W]*\n[  \t]*(Author\(s\):|Pages:|_Suggested citation for this article:_|Price:)[^\n]+)', r''],
+    [r'(\n[  \t\*#]*(Fast Facts\n\nFirearm|[a-z]+ icon\n|Bibliography|Appendix\n|ADDITIONAL RESOURCES|Safety & Health Outcomes)[\w\W]*)', r''],
+    [r'(\n[  \t#]*(Acknowledgments|References?|Author Information|More Information|Diagnostic References:|Additional Resources)[  \t]*\n[\w\W]*)', r''],
 
     [r'(<[\/\w]+>)+', ''],
     [r'([^,\.;\n] +)([\(（][\d\-,\\～~;–—、−\s_]+[\)）])', r'\1'],
     [r'(et al\.|spp\.)( *[\(（][\d\-,\\～~;–—、−\s_]+[\)）])', r'\1'],
     [r'([\(（][\d\-,～~;–—、−\s_]+[\)）])([\.,;])', r'\2'],
     [r'( \d[\d_]*)(\n)', r'\2'],
-    [r'([\(（][^\(\)（）\n]*(TOX|comm\.|[Nn]o\.|Video|\.gov )[^\(\)（）\n]*[\)）])', r''],
+    [r'([\(（][^\(\)（）\n]*(TOX|comm\.|[Nn]o\.|Video|\.gov |unpub\. data)[^\(\)（）\n]*[\)）])', r''],
     [r'([\(（][  \t\*]*(E\. |online|http:|toll|[Ss]ee|[Ff]ig|[Tt]able|[Aa]ppendix|Technical)[^\(\)（）\n]*[\)）])', r''],
     [r'([\(（][^\(\)（）\n]*?)(([,;] *([Ss]ee |[Ff]ig|[Tt]able|[Aa]ppendix|Technical)[^\(\)（）\n,;]*)+)([^\(\)（）\n]*[\)）])', r'\1\5'],
     # [r'([\(（][^\(\)（）\n]*?)(([,;] *([Ss]ee|[Ff]ig|[Tt]able|[Aa]ppendix|Technical)[^\(\)（）\n,;]*)+)([^\(\)（）\n]*[\)）])', r'\1删除4-2:<u>\2</u>\5'],
@@ -24,15 +28,14 @@ pattern_list = [
     # [r'(\n[  \t\*#]*(Figure|Table|Appendix|Footnotes|Video)[^\n]*)', r'删除5:<u>\1</u>'],
     [r'(^\**(On This Page|Figure|Table|Appendix)[^\n]*)', r''],
     # [r'([^\n\.]*?((\d\.\d)[^\n\.]*?)*((Figures?|Tables?|Appendix)[\d\-～~–—\. _]+(shows?|reports?)| (in|from)[\w ]+(Figures?|Tables?|Appendix) \d)[^\n]*?\.)([ \n])', r'删除5-1:<u>\1</u>\9'],
-    [r'([\w\W]*)(\n[  \t#]*(Abstract|(LTAS )?Background)\n)', r'\2'],
+
     [r'(\n[  \t\*#]*(Author contributions:|Author Affiliations:|COVID-19 Registries Study Group members:|Sources:)[^\n]*)', r''],
     # [r'((Acknowledgments|References|Author Information)\n(\-{7,})[\w\W]*)', r'以下都删除1:<u>\1</u>'],
     [r'(\n[  \t\*#]*(Of 107 manuscripts|Members of the CDC Brazil Investigation Team:|Top[ \n$]|Public Health and pharmacy:|On This Page|Dial |CAS#:|Image source:|Members of the Spanish Fusariosis|94\\. Flexner S . Experimental)[^\n]*)', r''],  # 一些特定无关段落
     [r'([^\n]*(\n[  \t\*]*(Drs?|M[sr][sr]?|Miss|Prof|Col\. G|Hanna Y|Carmen C\.H|S\.C\.A\.C)\.? (\w+\.)?[^\.]* ?(is|received|[Rr]esearch(ers)?|works?|qualified|directs) )[^\n]+)', r''],  # 人物介绍
     [r'(\\?\[[\d\-,～~，;\*–—、\s\\_]+\])', r''],
-    [r'(\n[  \t\*#]*(Fast Facts\n\nFirearm|[a-z]+ icon\n|Bibliography|Appendix\n|ADDITIONAL RESOURCES|Safety & Health Outcomes)[\w\W]*)', r''],
-    [r'(\n[  \t#]*(Acknowledgments|References?|Author Information|More Information|Diagnostic References:|Additional Resources)[  \t]*\n[\w\W]*)', r''],
-    [r'([\w\W]*\n[  \t]*(Author\(s\):|Pages:|_Suggested citation for this article:_|Price:)[^\n]+)', r''],
+
+
     [r'(Back to top)', r''],
     [r'([^\n\.]*((was|are) supported (in part )?by )[^\n\.]*)', r''],
     [r'(\\?\[[^\[\]]*(Source:|[Ff]igure)[^\[\]]*\])', r''],
@@ -40,7 +43,7 @@ pattern_list = [
     [r'(CHC \d+, team leader)', r''],
     [r'(\nTop$)', r''],
     [r'([^\n]*\(4 5\/16 × 3 7\/16 in\/11 × 8\.7 cm\)[^\n]*)', r''],
-    [r'(\()([\d\-,\\～~;–—、−\s_\*]+)([^\(\)]+\))', r'\1\3']
+
 
 ]
 
@@ -164,7 +167,7 @@ def main(lines, fw):
 
 if __name__ == "__main__":
     #读jsonl
-    fw = open("C:/Program Files/lk/projects/pdf/cdc/cdc_preformat_clean4.jsonl", "w", encoding="utf-8")
+    fw = open("C:/Program Files/lk/projects/pdf/cdc/cdc_preformat_clean4B.jsonl", "w", encoding="utf-8")
     with open("C:/Program Files/lk/projects/pdf/cdc/cdc_preformat.jsonl", "r", encoding="utf-8") as fs:
         num = 6795
         lines = fs.readlines()#[num-1:num]
