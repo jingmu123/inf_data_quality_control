@@ -16,7 +16,7 @@ class clean_pattern:
             [r'(.*,\s?et[\s\xa0]{1,3}al.*)', r'通用删除2(英):<u>\1</u>'],     # , et al   et al一版在一些人名后面，一定要加逗号，如果没有逗号可能会造成一些误删
             [r'^\b(\w+(\s\w+){0,})\s+(\1)\b', r'\1'],  # 解决句首出现的单词重复的问题
             [r'(^[\*#]{0,4}(NEWSLETTER|Get the Crohn|Tips from experts|Stay Up-to-Date|Sign up for the latest coronavirus news|You can find more information at|See also|Adapted by|For more information).*)',r'通用删除3(英):<u>\1</u>'], # 开头固定这种情况较多这种固定开头后面都能添加 (时事通讯|获取克罗恩资讯|专家提示|了解最新动态|注册获取最新冠状病毒新闻|你可以寻找更多消息在...|另请参见...|改编自...|更多信息)
-            [r'(?<![\dm\s])(\s{0,}<sup>(<a>)?[\d\s\–—,\(\)\[\]]{1,20}(</a>)?</sup>)', r'通用删除4(英):<u>\1</u>'],     # 特殊数字  排除可能出现的次幂情况
+            [r'(?<![\dm\s])(\s{0,}<sup>(<a>)?\s{0,}\d+[\d\s\–—,\(\)\[\]]{1,20}(</a>)?</sup>)', r'通用删除4(英):<u>\1</u>'],     # 特殊数字  排除可能出现的次幂情况
             [r'(.*(doi|DOI)\s?:.*)', r'通用删除5(英):<u>\1</u>'],  # 存在有DOI描述的句子
             [r'((\\)?\[[\d\s,，-\–—]{1,}(\\)?\])', r'通用删除6(英):<u>\1</u>'],  # 带有方括号的数字引用
             [r'((\\)?\([\d\s,，\-\–—]{1,}(\\)?\))', r'通用删除7(英):<u>\1</u>'],  # 带有圆括号的数字引用
@@ -70,6 +70,7 @@ class clean_pattern:
 
         ]
         return ending_starts
+
     # 通用删除从文章开头到某一段
     def delete_page_start(self, context, end, is_add):
         """
@@ -135,9 +136,10 @@ class clean_pattern:
                 # context[i] = ""
         return context
 
+    # 解决多余换行问题
     def more_line_feed(self, context, Line_feed_rules):
         """
-        本方法是实现换行操作。需要传入一个列表，列表中的元素为：
+        本方法是实现有多余换行的连接操作。需要传入一个列表，列表中的元素为：
         1. 仅有 [current_line_rule]，只需要匹配当前行；
         2. 包含 [current_line_rule, next_line_rule]，需要同时匹配当前行和下一行。
         :param context: 段落内容列表
@@ -177,3 +179,29 @@ class clean_pattern:
                 # 如果没有匹配任何规则，才增加 index
                 index += 1
         return context
+
+    # 解决缺少换行问题
+    def lack_line_feed(self, context, line_feed_rules):
+        """
+        本方法是实现缺少换行的添加操作。需要传入一个列表，列表中的元素为：
+        [current_line_rule, complete_rule]，需要传入当前的内容规则和修改后的内容规则。
+        :param context: 段落内容列表
+        :param line_feed_rules: 缺少换行的规则列表，每个规则包含当前行匹配的规则和修改后的内容规则
+        :return: 处理后的 context
+        """
+        index = 0
+        while index < len(context):
+            item = context[index]
+            stripped_item = item.strip()
+            # 遍历每个换行规则
+            for line_feed_rule in line_feed_rules:
+                current_line_rule = line_feed_rule[0]
+                complete_rule = line_feed_rule[1]
+                # 如果当前行符合 current_line_rule，则根据 complete_rule 进行处理
+                if re.search(current_line_rule, stripped_item):
+                    # 根据 complete_rule 插入换行操作，可以是换行符或其它格式
+                    context[index] = re.sub(current_line_rule, complete_rule, stripped_item)
+            # 继续处理下一段
+            index += 1
+        return context
+
