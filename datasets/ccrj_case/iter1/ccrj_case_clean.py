@@ -17,8 +17,6 @@ class speicalProces:
             context = cp.delete_page_ending(context, start)
 
 
-        context = cp.delete_page_ending(context, start)
-
         end_pattern = [
             [r'(^[#\s]*(Abstract|Clinical Image Description)\s*(\n|$))', 0],
             ]
