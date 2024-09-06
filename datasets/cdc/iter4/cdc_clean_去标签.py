@@ -12,8 +12,8 @@ from tqdm import tqdm
 pattern_list = [
     [r'([\w\W]*)(\n[  \t#]*(Abstract|(LTAS )?Background)\n)', r'\2'],
     [r'([\w\W]*\n[  \t]*(Author\(s\):|Pages:|_Suggested citation for this article:_|Price:)[^\n]+)', r''],
-    [r'(\n[  \t\*#]*(Fast Facts\n\nFirearm|[a-z]+ icon\n|Bibliography|Appendix\n|ADDITIONAL RESOURCES|Safety & Health Outcomes)[\w\W]*)', r''],
-    [r'(\n[  \t#]*(Acknowledgments|References?|Author Information|More Information|Diagnostic References:|Additional Resources)[  \t]*\n[\w\W]*)', r''],
+    [r'(\n[  \t\*#]*(Fast Facts\n\nFirearm|[a-z]+ icon\n|Bibliography|ADDITIONAL RESOURCES|Safety & Health Outcomes)[\w\W]*)', r''],
+    [r'(\n[  \t#]*(Appendix|Acknowledgments|References?|Author Information|More Information|Diagnostic References:|Additional Resources)[  \t]*\n[\w\W]*)', r''],
 
     [r'(<[\/\w]+>)+', ''],
     [r'([^,\.;\n] +)([\(（][\d\-,\\～~;–—、−\s_]+[\)）])', r'\1'],
@@ -31,7 +31,7 @@ pattern_list = [
 
     [r'(\n[  \t\*#]*(Author contributions:|Author Affiliations:|COVID-19 Registries Study Group members:|Sources:)[^\n]*)', r''],
     # [r'((Acknowledgments|References|Author Information)\n(\-{7,})[\w\W]*)', r'以下都删除1:<u>\1</u>'],
-    [r'(\n[  \t\*#]*(Of 107 manuscripts|Members of the CDC Brazil Investigation Team:|Top[ \n$]|Public Health and pharmacy:|On This Page|Dial |CAS#:|Image source:|Members of the Spanish Fusariosis|94\\. Flexner S . Experimental)[^\n]*)', r''],  # 一些特定无关段落
+    [r'(\n[  \t\*#]*(This appendix is available for|Of 107 manuscripts|Members of the CDC Brazil Investigation Team:|Top[ \n$]|Public Health and pharmacy:|On This Page|Dial |CAS#:|Image source:|Members of the Spanish Fusariosis|94\\. Flexner S . Experimental)[^\n]*)', r''],  # 一些特定无关段落
     [r'([^\n]*(\n[  \t\*]*(Drs?|M[sr][sr]?|Miss|Prof|Col\. G|Hanna Y|Carmen C\.H|S\.C\.A\.C)\.? (\w+\.)?[^\.]* ?(is|received|[Rr]esearch(ers)?|works?|qualified|directs) )[^\n]+)', r''],  # 人物介绍
     [r'(\\?\[[\d\-,～~，;\*–—、\s\\_]+\])', r''],
 
@@ -44,7 +44,7 @@ pattern_list = [
     [r'(\nTop$)', r''],
     [r'([^\n]*\(4 5\/16 × 3 7\/16 in\/11 × 8\.7 cm\)[^\n]*)', r''],
 
-
+    [r'([\-]{7,})', ''],
 ]
 
 
@@ -66,8 +66,8 @@ class speicalProces:
         return context
 
     def step2_del_paragraph(self, context):
-        patter1 = r'(\n[  \t#]*(Acknowledgments|References?|Author Information|More Information|Diagnostic References:|Additional Resources)[  \t]*\n[\w\W]*)(\n[  \t#]*Tables[  \t]*\n)'
-        patter2 = r'(\n[  \t\*#]*(Fast Facts\n\nFirearm|[a-z]+ icon\n|Bibliography|Appendix\n|ADDITIONAL RESOURCES|Safety & Health Outcomes)[\w\W]*)(\n[  \t#]*Tables[  \t]*\n)'
+        patter1 = r'(\n[  \t#]*(Appendix|Acknowledgments|References?|Author Information|More Information|Diagnostic References:|Additional Resources)[  \t]*\n[\w\W]*)(\n[  \t#]*Tables[  \t]*\n)'
+        patter2 = r'(\n[  \t\*#]*(Fast Facts\n\nFirearm|[a-z]+ icon\n|Bibliography|ADDITIONAL RESOURCES|Safety & Health Outcomes)[\w\W]*)(\n[  \t#]*Tables[  \t]*\n)'
         patter3 = r'(\n[  \t\*#]*(Figure|Appendix|Footnotes|Video)[^\n]*)'
         patter4 = r'(\n[  \t\*#]*(Figure|Table|Appendix|Footnotes|Video)[^\n]*)'
         if len(re.findall(r'\|', context)) >= 7 and re.search(r'(\n[  \t#]*Tables[  \t]*\n)', context):
@@ -167,9 +167,9 @@ def main(lines, fw):
 
 if __name__ == "__main__":
     #读jsonl
-    fw = open("C:/Program Files/lk/projects/pdf/cdc/cdc_preformat_clean4B.jsonl", "w", encoding="utf-8")
+    fw = open("C:/Program Files/lk/projects/pdf/cdc/cdc_preformat_clean4C.jsonl", "w", encoding="utf-8")
     with open("C:/Program Files/lk/projects/pdf/cdc/cdc_preformat.jsonl", "r", encoding="utf-8") as fs:
-        num = 6795
+        num = 2510
         lines = fs.readlines()#[num-1:num]
         start_time = time.time()
         new_list = random.sample(lines, 300)
