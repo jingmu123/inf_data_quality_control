@@ -19,7 +19,7 @@ pattern_list = [
     [r'([\(（][\d\-,～~;–—、−\s_]+[\)）])([\.,;])', r'删除1-2:<u>\1</u>\2'],
     [r'( \d[\d_]*)(\n)', r'删除1-3:<u>\1</u>\2'],
     # [r'(\n[  \t]*(Author Information)[\w\W]*)', r'删除3:<u>\1</u>'],
-    [r'([\(（][^\(\)（）\n]*(TOX|comm\.|[Nn]o\.|Video|\.gov |unpub\. data)[^\(\)（）\n]*[\)）])', r'删除4:<u>\1</u>'],
+    [r'([\(（][^\(\)（）\n]*(TOX|comm\.|[Nn]os?\.|Video|\.gov |unpub\. data)[^\(\)（）\n]*[\)）])', r'删除4:<u>\1</u>'],
     [r'([\(（][  \t\*]*(E\. |online|http:|toll|[Ss]ee|[Ff]ig|[Tt]able|[Aa]ppendix|Technical)[^\(\)（）\n]*[\)）])', r'删除4-1:<u>\1</u>'],
     [r'([\(（][^\(\)（）\n]*?)(([,;] *([Ss]ee |[Ff]ig|[Tt]able|[Aa]ppendix|Technical)[^\(\)（）\n,;]*)+)([^\(\)（）\n]*[\)）])', r'\1删除4-2:<u>\2</u>\5'],
     # [r'([\(（][^\(\)（）\n]*?)(([,;] *([Ss]ee|[Ff]ig|[Tt]able|[Aa]ppendix|Technical)[^\(\)（）\n,;]*)+)([^\(\)（）\n]*[\)）])', r'\1删除4-2:<u>\2</u>\5'],
@@ -31,11 +31,11 @@ pattern_list = [
     [r'(\n[  \t\*#]*(Author contributions:|Author Affiliations:|COVID-19 Registries Study Group members:|Sources:)[^\n]*)', r'删除7:<u>\1</u>'],
     # [r'((Acknowledgments|References|Author Information)\n(\-{7,})[\w\W]*)', r'以下都删除1:<u>\1</u>'],
     [r'(\n[  \t\*#]*(This appendix is available for|Of 107 manuscripts|Members of the CDC Brazil Investigation Team:|Top[ \n$]|Public Health and pharmacy:|On This Page|Dial |CAS#:|Image source:|Members of the Spanish Fusariosis|94\\. Flexner S . Experimental)[^\n]*)', r'删除8:<u>\1</u>'],  # 一些特定无关段落
-    [r'([^\n]*(\n[  \t\*]*(Drs?|M[sr][sr]?|Miss|Prof|Col\. G|Hanna Y|Carmen C\.H|S\.C\.A\.C)\.? (\w+\.)?[^\.]* ?(is|received|[Rr]esearch(ers)?|works?|qualified|directs) )[^\n]+)', r'删除9:<u>\1</u>'],  # 人物介绍
+    [r'([^\n]*(\n[  \t\*]*(Drs?|M[sr][sr]?|Miss|Prof|Col\. G|Hanna Y|Carmen C\.H|S\.C\.A\.C)\.? (\w+\.)?[^\.]* ?(was|is|received|[Rr]esearch(ers)?|works?|qualified|directs) )[^\n]+)', r'删除9:<u>\1</u>'],  # 人物介绍
     [r'(\\?\[[\d\-,～~，;\*–—、\s\\_]+\])', r'删除10:<u>\1</u>'],
     [r'(\n[  \t\*#]*(Fast Facts\n\nFirearm|[a-z]+ icon\n|Bibliography|ADDITIONAL RESOURCES|Safety & Health Outcomes)[\w\W]*)', r'(以下都删除3，若有表格已保留):<u>\1</u>'],
     [r'(\n[  \t#]*(Appendix|Acknowledgments|References?|Author Information|More Information|Diagnostic References:|Additional Resources)[  \t]*\n[\w\W]*)', r'(以下都删除4，若有表格已保留)<u>\1</u>'],
-    [r'([\w\W]*\n[  \t]*(Author\(s\):|Pages:|_Suggested citation for this article:_|Price:)[^\n]+)', r'<u>\1</u>\n(以上都删除2)'],
+    [r'([\w\W]*\n[  \t#]*(Author\(s\):|Pages:|_Suggested citation for this article:_|Price:)[^\n]+)', r'<u>\1</u>\n(以上都删除2)'],
     [r'(Back to top)', r'删除11:<u>\1</u>'],
     [r'([^\n\.]*((was|are) supported (in part )?by )[^\n\.]*)', r'删除12:<u>\1</u>'],
     [r'(\\?\[[^\[\]]*(Source:|[Ff]igure)[^\[\]]*\])', r'删除13:<u>\1</u>'],
