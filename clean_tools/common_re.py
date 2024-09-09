@@ -18,13 +18,13 @@ class clean_pattern:
             [r'(^[\*#]{0,4}(NEWSLETTER|Get the Crohn|Tips from experts|Stay Up-to-Date|Sign up for the latest coronavirus news|You can find more information at|See also|Adapted by|For more information).*)',r'通用删除3(英):<u>\1</u>'], # 开头固定这种情况较多这种固定开头后面都能添加 (时事通讯|获取克罗恩资讯|专家提示|了解最新动态|注册获取最新冠状病毒新闻|你可以寻找更多消息在...|另请参见...|改编自...|更多信息)
             [r'(?<![\dm\s])(\s{0,}<sup>(<a>)?\s{0,}\d+[\d\s\–—,\(\)\[\]]{1,20}(</a>)?</sup>)', r'通用删除4(英):<u>\1</u>'],     # 特殊数字  排除可能出现的次幂情况
             [r'(.*(doi|DOI)\s?:.*)', r'通用删除5(英):<u>\1</u>'],  # 存在有DOI描述的句子
-            [r'((\\)?\[[\d\s,，-\–—]{1,}(\\)?\])', r'通用删除6(英):<u>\1</u>'],  # 带有方括号的数字引用
+            [r'((\\)?\[[\d\s,，\–\-—]{1,}(\\)?\])', r'通用删除6(英):<u>\1</u>'],  # 带有方括号的数字引用
             [r'((\\)?\([\d\s,，\-\–—]{1,}(\\)?\))', r'通用删除7(英):<u>\1</u>'],  # 带有圆括号的数字引用
             [r'((\\)?\[\s?[^\[\]]*([Ff]igs?(ure)?|F\s?IGS?(URE)?|Table|[sS]ee|For more|panel|http|www|NCT\d+|NO\.|version)s?[^\[\]]*(\\)?\])',r'通用删除8(英):<u>\1</u>'],   # 固定格式  带有[]的图片表格描述 附录描述 协议描述 无关网址描述
             [r'(^Full size.*)', r'通用删除9(英):<u>\1</u>'],  # Full size image/table 原文这里应该是一个图/表没识别出图形
             [r'(\([^\(\)]*(arrow|←|→)[^\(\)]\))', r''],  # ...箭头 描述图里面不同颜色的箭头
 
-            # 第二次添加
+            # 9.4继续添加
             [r'(^Full size.*)', r'通用删除10(英):<u>\1</u>'],  # Full size image/table 原文这里应该是一个图/表没识别出图形
             [r'(\([pP]\.?\d+[^\(\)]*\))', r'通用删除11(英):<u>\1</u>'],  # 带有括号的([Pp]. ...)第几页
             [r'(\([^\(\)]*Additional file[^\(\)]*\))', r''],  # 附加文件带括号
@@ -50,7 +50,7 @@ class clean_pattern:
             # [r'((\\)?\([\d\s,\-\–—]{1,}(\\)?\))', r'通用删除10(中):<u>\1</u>'],  # 带有圆括号的数字引用
             [r'(?<![\dm\s])(\s{0,}<sup>(<a>)?[\d\s\–—,\(\)\[\]]{1,20}(</a>)?</sup>)', r'通用删除11(中):<u>\1</u>'],  # 特殊数字  排除可能出现的次幂情况
 
-            # 第二次添加
+            # 9.4继续添加
             [r'(（\s{0,}）)', r'通用删除12(中):<u>\1</u>'],  # 空括号里面什么都没有
             [r'(（详见[^（）]*）)', r'通用删除13(中):<u>\1</u>'],  # 中文括号详见...
             [r'([，。]见(图|表)\d+[^，。]*)', r'通用删除14(中):<u>\1</u>'],  # 半句到前后的标点处截至 见图/表1...
@@ -60,11 +60,11 @@ class clean_pattern:
 
     def ending_starts(self):
         ending_starts = [
-            [r'^[#\*]{0,4}\s?Availability of data and materials'],
-            [r'^[#\*]{0,4}\s?(To read this article in full you will need to make a payment|Call your doctor for|Other side effects not listed may also occur in some|Supplemental Online Material|### Footnotes|Article info|Acknowledgments?|Trial Registration|Files in this Data Supplement|Potential Competing Interests|Closing)s?'],
-            [r'^[#\*]{0,4}\s?(Reference|Funding and Disclosures|Polls on Public)s?[#\*]{0,4}\s{0,}($|\n)'],
-            [r'^(Ethics Statement|Ethics?|Ethics Approval|Ethical Approval|Statement of Ethics|Ethics Approval and Informed Consent|Funding|Consent for publication|Author Contributions|Compliance with Ethical Standards|Study Approval Statement|Ethical Consideration)[$\n]'],
-            [r'^[#\*]{0,4}参考文献'],   # 中文参考文献
+            r'^[#\*]{0,4}\s?(Availability of data and materials|AVAILABILITY OF DATA AND MATERIALS?)',
+            r'^[#\*]{0,4}\s?(To read this article in full you will need to make a payment|Call your doctor for|Other side effects not listed may also occur in some|Supplemental Online Material|### Footnotes|Article info|Acknowledgments?|Trial Registration|Files in this Data Supplement|Potential Competing Interests|Closing)s?',
+            r'[#\*]{0,4}\s?(Reference|Funding and Disclosures|Polls on Public|Conflict of [Ii]nterest|Declaration|Important Point)s?[#\*]{0,4}\s{0,}($|\n)',
+            r'^(Ethics Statement|Ethics?|Ethics Approval|Ethical Approval|Statement of Ethics|Ethics Approval and Informed Consent|Funding|Consent for publication|Author Contributions|Compliance with Ethical Standards|Study Approval Statement|Ethical Consideration)[$\n]',
+            r'^[#\*]{0,4}参考文献'   # 中文参考文献
             # [r'^(Abbreviations)s?($|\n)'],   # 缩写词 类似于文言文下面的词语注释
 
 
@@ -108,7 +108,6 @@ class clean_pattern:
                 # item = ''
             new_context.append(item)
         return new_context
-
     # 通用句中某一部分的删除
     def delete_page_middle(self, context, start, end, is_add):
         """
@@ -164,20 +163,20 @@ class clean_pattern:
                         context[index] = item.rstrip() + "|删除段之间换行|" + context[index + 1].lstrip()
                         # 删除下一段
                         del context[index + 1]
-                        # 不增加 index，继续检查当前索引位置的元素
+                        index = index-1
                         break
+
                 # 如果规则长度为 1，只需要匹配当前行
                 elif len(line_feed_rule) == 1:
-                    if re.search(current_line_rule, stripped_item):
+                    if index + 1 < len(context) and re.search(current_line_rule, stripped_item):
                         # 合并当前段和下一段
                         context[index] = item.rstrip() + "|删除段之间换行|" + context[index + 1].lstrip()
                         # 删除下一段
                         del context[index + 1]
-                        # 不增加 index，继续检查当前索引位置的元素
+                        # index = index-1
                         break
-            else:
-                # 如果没有匹配任何规则，才增加 index
-                index += 1
+
+            index += 1
         return context
 
     # 解决缺少换行问题
