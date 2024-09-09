@@ -3,8 +3,8 @@
 1.Abstract、Clinical Image Description以上无关段落。
 ```
 end_pattern = [
-    [r'(^[#\s]*(Abstract)\s*(\n|$))', 0],
-    ]
+            [r'(^[#\s]*(Abstract|Clinical Image Description)\s*(\n|$))', 0],
+            ]
 ```
 
 2.Conflict of Interest、Declarations、Important Points及以下无关段落补充删除。
