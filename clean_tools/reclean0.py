@@ -8,10 +8,14 @@ class speicalProces:
     def step0_common_clean(self,context,cp,lang):
         result = []
 
+        # ending_starts = cp.ending_starts()
+        # for ending_start in ending_starts:
+        #     start = ending_start[0]
+        #     context = cp.delete_page_ending(context, start)
+        # 这里优化掉一个for循环
         ending_starts = cp.ending_starts()
-        for ending_start in ending_starts:
-            start = ending_start[0]
-            context = cp.delete_page_ending(context, start)
+        combined_ending_startsss = '|'.join(ending_starts)
+        context = cp.delete_page_ending(context, combined_ending_startsss)
 
         pattern_en = cp.clean_pattern_en()
         pattern_zh = cp.clean_pattern_zh()
