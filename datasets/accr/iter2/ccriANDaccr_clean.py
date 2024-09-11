@@ -32,7 +32,14 @@ pattern_en = [
     # 以上为通用正则库
     # ========================================================================================
     # 以下补充对此组数据清洗的特定正则
-
+    [r'(^[ \\]*(Correspondence：|OPEN ACCESS|E-mail|Copyright).*)', r'删除1:<u>\1</u>'],
+    [r'(^#*\s?([Ff]igs?(ure)?|F\s?IGS?(URE)?).*)', r''],  # 删除开头为Figure的描述
+    [r'(^[ \\]*(([A-Z][a-z]+( \w+){0,2})[,，] ?){2,}([A-Z][a-z]+( \w+){0,2})[ \\]*.*)', r'删除3:<u>\1</u>'],
+    [r'(?<!of|in|to)( [\d,，\-\–—]+)(\.($| ))',  r'删除4:<u>\1</u>\2'],
+    [r'([a-z])([\d,，\-\–—]+)(\.($| ))',  r'\1删除4-1:<u>\2</u>\3'],
+    [r'^([\d,，\-\–— \.]+)$', r'删除5:<u>\1</u>'],
+    [r'(^\d+\\?\..*\d{4}[;；]\d+(\(\d+\))?[:：]?[\w\-]+.*)', r'删除6:<u>\1</u>'],
+    [r'(^(Received|Accepted|Published) Date：.*)', r'删除7:<u>\1</u>']
 
 
     ]
@@ -64,6 +71,12 @@ pattern_zh = [
 
     ]
 
+pattern_more_line_feed = [
+    [r'[^|]{50,}\s?[a-zA-Z][^\.,!?|#]\s?#*$', r'^#*[\(a-z\d]'],        # 上一段非标点结尾，下一段小写开头
+    [r'\s(of|in|and|or|not|the|a|any|some|for|is|are|The|A|with|&|And|their|his|her|from|on)\s?#*$'],   #  上一段结尾是A或者The 下一段一定要连上
+    [r'[^|]{100,}[a-z]#*$', r'^#*(?!Table)[A-Z][^|]{100,}']
+]
+
 class clean_pattern:
     def __init__(self):
         pass
@@ -79,19 +92,23 @@ class clean_pattern:
         """
         # 避免重复加标签，特征最好合并为1-2条，当段保留一条，当段删除一条。
         end_pattern = [
-            [r'(^[#\s]*(Abstract|Background)\s*$)', 0],
-            # [r'(^[  \t#]*(Pages?:).*)', 1],
+            [r'(^[ #]*(Abstract|Background)[ #]*(\n|$))', 0],
+            [r'(^[ #]*(Introduction)[ #]*(\n|$))', 0],
 
         ]
         end_index = 0
+        flag = False
         for end in end_pattern:
             for index, item in enumerate(context):
                 if re.search(end[0], item):
                     end_index = index + end[1]
+                    flag = True
             if end_index > 0:
                 for i in range(0, end_index):
-                    context[i] = "通用开头删除-1:<u>{}</u>".format(context[i])
-                    # context[i] = ""
+                    # context[i] = "通用开头删除-1:<u>{}</u>".format(context[i])
+                    context[i] = ""
+            if flag:
+                break
         return context
 
     # 通用删除从某一个段开始到文章结束
@@ -104,18 +121,18 @@ class clean_pattern:
         """
         # 避免重复加标签，特征最好合并为1-2条，当段保留一条，当段删除一条。
         ending_starts = [
-            [r'^[#\*]{0,4}\s?(Reference|Funding and Disclosures|Polls on Public|Ethics Approval|Authors?\'? Contribution|Acknowledge?ment)s?[#\*]{0,4}\s{0,}($|\n)'],
-
+            [r'^[ #]*(Reference|Funding and Disclosures|Polls on Public|Ethics Approval|Authors?\'? ?Contribution|Acknowledge?m ?ent|Funding|Funding Sources|Research Funding|Pseudomembranous Tracheobronchitis)s?[ #]*($|\n)'],
+            # [r'(^1\\\. )']
         ]
 
-        for start in ending_starts:
+        for ii, start in enumerate(ending_starts):
             references_started = False  # 定义一个删除reference的开关  只要出现固定格式的表述就对后面的内容进行删除
             for index, item in enumerate(context):
                 if re.search(start[0], item.strip()):
                     references_started = True
                 if references_started:
-                    context[index] = "通用结尾删除-1:<u>{}</u>".format(context[index])
-                    # context[index] = ''
+                    # context[index] = "通用结尾删除-1:<u>{}</u>".format(context[index])
+                    context[index] = ''
         return context
 
     # 通用句中某一部分的删除
@@ -130,7 +147,8 @@ class clean_pattern:
         """
         start_to_end = [
             # 样例
-            # [r'funding|...', r'Acknowledgments', 1],
+            [r'(^[\\ #]*(OPEN ACCESS)[\\ #]*$)', r'(^[\\ #]*([A-Z][a-z]+( [A-Z][a-z]+)?)[\\ #]*$)|(.{250,})', 0],
+            [r'(^[\\ #]*(Correspondence：|Citation：))', r'(^[\\ #]*([A-Z][a-z]+( [A-Z][a-z]+)?)[\\ #]*$)|(.{250,})', 0],
         ]
         for middle in start_to_end:
             delete_line_index = []
@@ -242,8 +260,9 @@ def clean_text(context, lang):
 
     # 若有需要再补充正则并调用，正则在对应的函数里补充
     context = cp.delete_page_start(context)
+    context = cp.delete_page_middle(context)
     context = cp.delete_page_ending(context)
-    # context = cp.delete_page_middle(context)
+
 
 
     final_results = []
@@ -261,6 +280,7 @@ def clean_text(context, lang):
                 item = re.sub(src, tgt, item)
         final_results.append(item)
 
+    final_results = cp.more_line_feed(final_results, pattern_more_line_feed)
     context = split_token.join(final_results)
 
     return context
@@ -282,19 +302,20 @@ def post_process(context):
 
 
 
-fw = open(r"C:\pycharm\orc识别pdf清洗数据\pdf\clean_json\reclean0_nhs.jsonl", "w", encoding="utf-8")
-with open(r"C:\pycharm\orc识别pdf清洗数据\pdf\clean_json\original_data\nhs_preformat.jsonl", "r", encoding="utf-8") as fs:
-    lines = fs.readlines()
+fw = open(r"C:/Program Files/lk/projects/pdf/accr/accr_preformat_clean2.jsonl", "w", encoding="utf-8")
+with open(r"C:/Program Files/lk/projects/pdf/accr/accr_preformat.jsonl", "r", encoding="utf-8") as fs:
+    number = 299
+    lines = fs.readlines()#[number-1:number]
     for items in tqdm(lines):
         item = json.loads(items.strip())
-        # if item["seq_id"] == "5a9815c6-c389-410a-884d-86bd79e6dc56":
         context = item["text"]
         lang = item["lang"]
         title = item["title"]
         context = re.sub(r'\xa0', r' ', context)
+        context = re.sub(r'([\*\_]+)', r'', context)
         context = clean_text(context, lang)
         context = post_process(context)
-        # print(context)
+        print(context, "\n--------------------------------------------------")
         item["text"] = context
         item = json.dumps(item, ensure_ascii=False)
         # print(item)
