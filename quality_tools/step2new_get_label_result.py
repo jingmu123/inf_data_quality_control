@@ -207,7 +207,7 @@ def computer_ignore_2(ignore_score_sorted):
 
 if __name__ == '__main__':
 
-    pr = ParseLabelResult(need_details=False,
+    pr = ParseLabelResult(need_details=True,
                           base_dir="../datasets/guidelines_ly_gptpdf/iter3/sample/",
                           file_name="reclean3_guidelines_ly_gptpdf")
     problem_list,score = pr.score_count() # 默认为空，不忽略key
