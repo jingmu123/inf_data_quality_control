@@ -26,7 +26,7 @@ pattern_list_en = [
 
 
     # [r'([a-z，,0-9’:：;()/] ?)(\n+)([a-z0-9‘)][^.][^.])',r'\1 删除换行 \3'],
-    [r'([a-z，,0-9’:：;()/] *(?:>|<|\+|\–|%|\'|≥|=|≤|-)* *)(\n+)( *(?:>|<|\+|:|%|\'|≥|=|≤|-)* *([“,，./a-z‘)][^.]|\d+[^.][^.]|\d+\.\d)|\(.{3,}\))',r'\1 删除换行1 \3'],
+    [r'([a-z，,0-9’;()/] *(?:>|<|\+|\–|%|\'|≥|=|≤|-)* *)(\n+)( *(?:>|<|\+|:|%|\'|≥|=|≤|-)* *([“,，./a-z‘)][^.]|\d+[^.][^.])|\(.{3,}\))',r'\1 删除换行1 \3'],
     [r'((?:i\.e\. *)|(?:e\.g\. *)|F[iI][gG][sS]?(?:ures?|URES?)?\. *)(\n+)( *(?:>|<|\+)* *[./a-zA-Z0-9‘()])',r'\1 删除换行2 \3'],
     [r'((?:>|<|\+)* *[./a-zA-Z0-9‘(),] *)(\n+)( *(?:i\.e\. *)|(?:e\.g\. *))',r'\1 删除换行2 \3'],
     [r'(?<=\n)(.*\([^\n()]*)(\n+)([^\n()]*\).*)',r'\1 删除换行3 \3'],
@@ -87,7 +87,7 @@ pattern_list_en = [
     [r'(●+)(?:\n|$)',r'删除31：<u>\1</u>'],
     [r'(?:\n|^)(> Courtesy of Dr. Mae Melvin, Centers for Disease Control and Prevention\.?|> Reproduced, with permission, from USMLERx.com\.?|FAITH, VALUES AND CULTURE|Faith, Values and Culture|Kimberly L. DiMaria|Children’s Hospital Colorado, Aurora, CO, USA|QaQ一?|Type V|Type IV|Typel|[\.■]*m+|Orthopaedics?|TRAUMA AND ORTHOPAEDICS|Ty\.|RAYNAUD’S SYNDROME, BUERGER’S|Ists|Ce Wang|Red dot)(?:\n|$)',r'删除个例：<u>\1</u>'],
     [r'(?:\n|^)(Clinical Case Studies for the Family Nurse Practitioner， First Edition. Edited by Leslie Neal-Boylan|@ 2011 John Wiley & Sons， Inc. Published 2011 by John Wiley & Sons， Inc.*|Rigler’s double wall sign229)',r'删除个例：<u>\1</u>'],
-    [r'(?:\n|^)([-\']? *(?:!|\.|;|。|\}|\)))', r'删除26：<u>\1</u>'],
+    [r'(?:\n|^)([-\']? *(?:!|\.|;|【|。|\}|\)))', r'删除26：<u>\1</u>'],
     [r'(?:\n|^)( *CCFC\d{4} *)',r'删除18：<u>\1</u>'],
     [r'(?:\n|^)(References?\n*(?:\d+\..*\n*)+)',r'删除19：<u>\1</u>'],
     [r'(?:\n)((?:(?:.*((?:\d{4}(?: *.{0,9} *\d*)?[;；:：])|(?:[:：;；,，] *\d{4}))\d*(\([0-9A-Z]+\))?[:：]?[0-9A-Za-z]*(?:-\d+)*)[^\n)\]]{0,15}(\n{1,}|$)){2,})',r'删除20：<u>\1</u>'],
