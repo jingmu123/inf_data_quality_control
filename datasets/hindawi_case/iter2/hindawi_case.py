@@ -289,8 +289,8 @@ def post_process(context):
 
 
 
-fw = open(r"C:\pycharm\orc识别pdf清洗数据\pdf\clean_json\reclean2_hindawi_case.jsonl", "w", encoding="utf-8")
-with open(r"C:\pycharm\orc识别pdf清洗数据\pdf\clean_json\original_data\hindawi_case_preformat.jsonl", "r", encoding="utf-8") as fs:
+fw = open(r"/pdf/clean_json/reclean2_hindawi_case.jsonl", "w", encoding="utf-8")
+with open(r"/pdf/clean_json/original_data/hindawi_case_preformat.jsonl", "r", encoding="utf-8") as fs:
     lines = fs.readlines()
     for items in tqdm(lines):
         item = json.loads(items.strip())
