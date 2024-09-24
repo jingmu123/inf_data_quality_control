@@ -29,6 +29,9 @@ pattern_en = [
     [r'^.{0,3}(Editor.s note|To learn more about).*', r'通用删除14(英):<u>\1</u>'],  # 从段落头开始 编辑信息 更多信息
     [r'(^(You can find more|About this video).*)', r'通用删除15(英):<u>\1</u>'],  # 段落开头 你可以找到更多/关于本视频
 
+    #09.23继续添加
+    [r'(^#*\s?([Ff]igs?(ure)?|F\s?IGS?(URE)?).*)', r'通用删除16(英):<u>\1</u>'],  # 删除开头为Figure的描述
+
     # 以上为通用正则库
     # ========================================================================================
     # 以下补充对此组数据清洗的特定正则
@@ -79,8 +82,8 @@ class clean_pattern:
         """
         # 避免重复加标签，特征最好合并为1-2条，当段保留一条，当段删除一条。
         end_pattern = [
-            [r'(^[#\s]*(Abstract|Background)\s*$)', 0],
-            # [r'(^[  \t#]*(Pages?:).*)', 1],
+            [r'(^[#\s]*(Abstract|ABSTRACT)：?\s*)', 0],
+            [r'(^[#\s]*(Background|Introduction)：?\s*)', 0],
 
         ]
         end_index = 0
@@ -104,7 +107,7 @@ class clean_pattern:
         """
         # 避免重复加标签，特征最好合并为1-2条，当段保留一条，当段删除一条。
         ending_starts = [
-            [r'^[#\*]{0,4}\s?(Reference|Funding and Disclosures|Polls on Public|Ethics Approval|Author[s\' ]*Contribution|Acknowledge?ment|Conflicts? of Interest|Source of (Support|Funding))s?[#\*]{0,4}\s{0,}($|\n)'],
+            [r'^[#\*]{0,4}\s?(References?：?|Funding( Sources| Statement| and Disclosure)?|Polls on Public|Ethics Approval|Author[s\' ]*Contribution|Acknowledge?ment|Conflicts? of [Ii]nterest|Source of (Support|Funding))s?[#\*]{0,4}\s{0,}($|\n)'],
 
         ]
 
@@ -294,9 +297,9 @@ with open(r"C:\pycharm\orc识别pdf清洗数据\pdf\clean_json\original_data\nhs
         context = re.sub(r'\xa0', r' ', context)
         context = clean_text(context, lang)
         context = post_process(context)
-        # print(context)
+        # print(context, '\n-------------------')
         item["text"] = context
         item = json.dumps(item, ensure_ascii=False)
         # print(item)
         fw.write(item + "\n")
-
+fw.close()
