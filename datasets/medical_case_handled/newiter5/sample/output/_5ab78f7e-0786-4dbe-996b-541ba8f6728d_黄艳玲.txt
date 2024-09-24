@@ -1,0 +1,76 @@
+【0】Case Files® Microbiology, Third Edition    
+
+【1】CASE 23
+-------
+
+【2】A 35-year-old woman presents to the emergency department with a 2-day history of severe diarrhea and vomiting. Her symptoms started shortly after returning from a mission trip that she took with her church to a rural area in central Africa. She recalls eating shrimp that seemed undercooked. Her symptoms started abruptly, with watery diarrhea followed by vomiting. She has not had a fever and denies abdominal pain. On examination, her temperature is 98.9 <sup>° </sup> F (37.2 <sup>° </sup> C), pulse is 115 beats/minute, and blood pressure is 80/50 mm Hg. Her mucous membranes are dry, and her eyes appear sunken. Her skin is dry and tents when lightly pinched. Her abdomen has hyperactive bowel sounds but is soft and nontender. Her stool is watery and tests negative for blood. A complete blood count shows an elevated white blood cell count and an elevated hematocrit level. A metabolic panel shows hypokalemia, low serum bicarbonate, and prerenal azotemia. You assess this patient to be in hypovolemic shock and metabolic acidosis and institute appropriate therapy.
+
+【3】 What organism is most likely to be identified on stool culture?
+
+【4】 What is the cause of this patient’s diarrhea?
+
+【5】### ANSWERS TO CASE 23:
+
+【6】#### Vibrio cholerae
+
+【7】Summary: A 35-year-old woman recently traveled to Africa and developed diarrhea causing hypovolemic shock and metabolic acidosis. She remembers eating undercooked shrimp.
+
+【8】• Most likely etiologic agent: Vibrio cholerae .
+
+【9】• Cause of the diarrhea: Hypersecretion of water and electrolytes into the intestinal lumen caused by cholera toxin.
+
+【10】### CLINICAL CORRELATION
+
+【11】The first priorities as with any patient are the “ABCs”: airway, breathing, and circulation. This patient is in hypovolemic shock, meaning insufficient circulation to maintain tissue perfusion needs. The most important step in intervention is volume repletion, usually with intravenous isotonic saline solution. A likely therapy would be 3 L of normal saline intravenously.
+
+【12】Vibrio species are found in saltwater and infections usually occur in the spring and summer. Transmission is by either consumption of contaminated shellfish or traumatic injury associated with infected water. The disease cholera is caused by toxigenic strains of V. cholerae (01 and 0139 serotypes). V. cholerae is spread by ingestion of contaminated water or food. The organism is sensitive to gastric acid; therefore, the dose required to cause an infection is high. Conditions that reduce gastric acid, such as antacid medications or achlorhydria, increase the risk of infection.
+
+【13】The hallmark of cholera is severe watery diarrhea with mild to severe dehydration because of production of toxin by the organism. In cases of severe dehydration, patients have a nonpalpable pulse and very low blood pressure. Fever is usually not present. Patients may become obtunded with sunken eyes and dry mucous membranes.
+
+【14】V. parahaemolyticus is associated with gastroenteritis that is self-limited even though patients present with explosive watery diarrhea, with abdominal pain and with fever. The disease rarely progressed to the severity of dehydration of V. cholerae. V. vulnificus is more often associated with wound infections, ie, cellulitis, rather than gastroenteritis. In patients who abuse alcohol or those with other underlying liver disease, the organism can become disseminated and be associated with a high mortality rate.
+
+【15】### APPROACH TO:
+
+【16】#### Suspected Vibrio Infection
+
+【17】### OBJECTIVES
+
+【18】1\. Know the structure, physiology, and virulence factors of V. cholerae .
+
+【19】2\. Know the reservoirs and mechanisms of spread of V. cholerae and the mechanism of action of the cholera toxin in causing disease.
+
+【20】### DEFINITIONS
+
+【21】AZOTEMIA: Buildup in the blood of nitrogenous end products of protein metabolism
+
+【22】OBTUNDED: Loss or dulling of sensations
+
+【23】### DISCUSSION
+
+【24】Characteristics of Vibrio
+
+【25】Vibrio species are motile, curved, gram-negative bacilli with a single polar flagellum. They are facultative anaerobic organisms. Their natural environment is saltwater, where they can multiply freely, and they have been found in shellfish and plankton. The major human pathogens are V. parahaemolyticus, V. vulnificus , and V. cholerae .
+
+【26】More than 200 serotypes of V. cholerae have been identified, based on their O antigen serogroup. Serotype O1 has been responsible for the major cholera pandemics of the past 200 years, but serotype O139 has been identified as contributing to disease since 1992.
+
+【27】The major virulence of this organism is its enterotoxin. The toxin consists of 5 B subunits, which bind to mucosal cell receptors and allow for release of the single A subunit into the cell. The A subunit activates adenyl cyclase, resulting in the hypersecretion of water, sodium, potassium, chloride, and bicarbonate into the intestinal lumen.
+
+【28】Bacteria that survive transit through the stomach can colonize the upper small intestine. Colonization pili facilitate attachment to the intestinal mucosa. The volume of the secreted fluid and electrolytes can overwhelm the gastrointestinal tract’s ability to reabsorb them, resulting in large volumes of watery diarrhea. The loss of an isotonic, bicarbonate-containing fluid results in dehydration, hypovolemia, metabolic acidosis, hemoconcentration, and hypokalemia.
+
+【29】### DIAGNOSIS
+
+【30】The presumptive diagnosis of Vibrio disease can be made after history of association with saltwater either involving trauma or consumption of raw shellfish. The watery diarrhea associated with V. parahaemolyticus cannot be easily distinguished clinically from other forms of bacterial gastroenteritis. Cellulitis caused by V. vulnificus should be diagnosed rapidly to avoid mortality. History of recent exposure to seawater is helpful in making a presumptive diagnosis.
+
+【31】The diagnosis of cholera should be suspected in those with severe diarrheal illness who live in or have traveled to an endemic area. Diagnosis of Vibrio infection can be confirmed by culturing stool or wound samples. Gram stain of wound or blood cultures may demonstrate a characteristic curved appearance to the gram-negative bacilli.
+
+【32】Most of the Vibrio species require salt for growth and therefore specialized media, such as thiosulfate citrate bile salts sucrose (TCBS) agar. Most of the Vibrio species will grow on blood agar and may appear β-hemolytic, but poor growth is seen on MacConkey agar. V. cholerae appear as yellow colonies, and V. parahaemolyticus and V. vulnificus appear as green colonies on TCBS agar.
+
+【33】### TREATMENT AND PREVENTION
+
+【34】The treatment of cholera involves volume replacement with isotonic, bicarbonate-containing fluids, either using oral rehydration solutions in mild to moderate dehydration or intravenous fluids, such as Ringer lactate, in the profoundly dehydrated or those unable to tolerate oral intake. Oral antibiotics can be given to kill the bacteria and decrease the duration of the illness, but they do not take away the need for appropriate rehydration therapy. The most commonly administered antimicrobial is doxycycline.
+
+【35】Treatment with antimicrobials is not usually needed for gastroenteritis caused by V. parahaemolyticus . Wound infections or bacteremia caused by V. vulnificus require rapid administration of antimicrobials such as tetracycline or a quinolones. Prevention of cholera includes improvement of hygienic practices, including treatment of the potable water supply with either heat or chlorine and ensuring thorough cooking of seafood. Research is ongoing to perfect a vaccine to prevent cholera.
+
+【36】###黄艳玲
+
+====================================================================================================

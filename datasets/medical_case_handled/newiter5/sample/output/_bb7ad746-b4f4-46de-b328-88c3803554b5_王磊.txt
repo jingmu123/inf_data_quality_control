@@ -1,0 +1,19 @@
+【0】Question: A 29-year-old woman presents to the obstetrician-gynecologist with complaints of amenorrhea for the past two months. She notes that she is sexually active with her boyfriend of six months, and they do not use any form of contraception. She is worried about pregnancy, despite several negative home pregnancy tests a few days ago. She also complains about feeling increasingly anxious, “hot all the time,” and weight loss, but she attributes these symptoms to increased stress at work, where she was recently promoted to a project manager position. On physical examination, the physician finds fine hair growth on her face and extremities, with body mass index of 16.5 kg/m <sup class="calibre40">2 </sup> . Which of the following autoantibodies is responsible for this woman’s condition?
+
+【1】> (A) Antimicrosomal antibodies
+
+【2】> (B) Thyrotropin receptor inhibitory antibodies
+
+【3】> (C) Thyrotropin receptor stimulatory antibodies
+
+【4】> (D) Thyrotropin-releasing hormone receptor inhibitory antibodies
+
+【5】> (E) Thyrotropin-releasing hormone receptor stimulatory antibodies
+
+【6】 Answer: The correct answer is C . Graves disease is caused by autoantibodies to the thyrotropin (thyroid-stimulating hormone) receptor. The autoantibodies activate the receptor, stimulating thyroid hormone synthesis and secretion and growth of the thyroid gland. Hence, Graves disease most commonly presents with the signs and symptoms of hyperthyroidism, including heat intolerance, sweating, weight loss, tremor, anxiety, weakness, and diarrhea as well as exophthalmos and pretibial myxedema.  
+Answer A is incorrect . Antimicrosomal antibodies are present in >90% of patients with Hashimoto thyroiditis and in 50%-80% patients with silent thyroiditis.  
+Answer B is incorrect . Thyrotropin (thyroid-stimulating hormone) receptor inhibitory autoantibodies lead to Hashimoto thyroiditis and thus signs and symptoms consistent with hypothyroidism.  
+Answer D is incorrect . Graves disease does not involve thyrotropin-releasing hormone receptor inhibitory antibodies, but rather is a result of stimulatory autoantibodies to the thyrotropin (thyroid-stimulating hormone) receptor.  
+Answer E is incorrect . Graves disease does not involve thyrotropin-releasing hormone receptor stimulatory antibodies, but rather is a result of stimulatory autoantibodies to the thyrotropin (thyroid-stimulating hormone) receptor.王磊
+
+====================================================================================================

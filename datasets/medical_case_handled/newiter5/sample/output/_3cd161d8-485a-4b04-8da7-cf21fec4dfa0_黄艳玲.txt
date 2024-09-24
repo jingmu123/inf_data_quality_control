@@ -1,0 +1,25 @@
+【0】Question: A 19-year-old college student developed sore throat, palatal petechiae, splenomegaly, fever, and generalized lymphadenopathy after she began dating her first serious boyfriend. The symptoms were self-limiting and lasted approximately two-three weeks. Upon presentation at the campus health clinic, a blood sample tests positive for heterophil antibodies and she is diagnosed with symptomatic primary Epstein-Barr virus (EBV) infection. Which of the following innate immune cell types plays a direct and important role in controlling the early stages of the systemic response to EBV infection?
+
+【1】> (A) Eosinophils
+
+【2】> (B) Mast cells
+
+【3】> (C) Megakaryocytes
+
+【4】> (D) Microglia
+
+【5】> (E) Natural killer cells
+
+【6】> (F) Plasma cells
+
+【7】> (G) Regulatory T lymphocytes
+
+【8】 Answer: The correct answer is E . Natural killer (NK) cells are a component of the innate immune system. These cells have a battery of germline-encoded activating and inhibitory receptors that can detect and distinguish virally infected cells from uninfected cells. For example, virally infected cells often express less major histocompatibility complex class I on their surface, and this absence is detected by the NK cell. Detection of a virally infected cell signals the NK cell to release cytotoxic granules onto the infected cell; thus they play a direct and important role in controlling the early stages of systemic response to viral infection. NK cells express CD16 and CD56 among other markers. It should be noted that individuals with defective NK cell function are particularly susceptible to herpes virus infection. This suggests that NK cells play an important, non-redundant physiologic function in the control of this family of viral infections. EBV binds to CD21 on B lymphocytes, which become infected. In addition to the NK cell-mediated response, CD8+ T lymphocytes mediate the main cellular immune response to this infection.  
+Answer A is incorrect . Eosinophils are important effector cells in host defense against parasites.  
+Answer B is incorrect . Mast cells control the early inflammatory response by release of potent vasoactive granules.  
+Answer C is incorrect . Megakaryocytes are resident bone marrow cells that give rise to platelets.  
+Answer D is incorrect . Microglia are tissue macrophages located within the CNS and do not play as direct a role in the control of systemic viral infections as natural killer cells do.  
+Answer F is incorrect . Plasma cells are antibody-producing B lymphocytes and an important component of the adaptive immune system.  
+Answer G is incorrect . Regulatory T lymphocytes are components of the adaptive immune response that suppress effector T-lymphocyte functions in both an antigen-specific and antigen-nonspecific manner.黄艳玲
+
+====================================================================================================

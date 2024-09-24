@@ -1,0 +1,138 @@
+【0】CASE FILES®: Internal Medicine, Fourth Edition   
+
+【1】### CASE 43
+
+【2】An 18-year-old woman is brought to the emergency room by her mother because the daughter seems confused and is behaving strangely. The mother reports the patient has always been healthy and has no significant medical history, but she has lost 20 lb recently without trying and has been complaining of fatigue for 2 or 3 weeks. The patient had attributed the fatigue to sleep disturbance, as recently she has been getting up several times at night to urinate. This morning, the mother found the patient in her room, complaining of abdominal pain, and she had vomited. She appeared confused and did not know that today was a school day.
+
+【3】On examination, the patient is slender, lying on a stretcher with eyes closed, but she is responsive to questions. She is afebrile, and has a heart rate 118 bpm, blood pressure 125/84 mm Hg, with deep and rapid respirations at the rate of 24 breaths per minute. Upon standing, her heart rate rises to 145 bpm, and her blood pressure falls to 110/80 mm Hg. Her funduscopic examination is normal, her oral mucosa is dry, and her neck veins are flat. Her chest is clear to auscultation, and her heart is tachycardic with a regular rhythm and no murmur. Her abdomen is soft with active bowel sounds and mild diffuse tenderness, but no guarding or rebound. Her neurologic examination reveals no focal deficits.
+
+【4】Laboratory studies include serum Na 131 mEq/L, K 5.3 mEq/L, Cl 95 mEq/L, CO <sub>2 </sub> 9 mEq/L, blood urea nitrogen (BUN) 35 mg/dL, creatinine 1.3 mg/dL, and glucose 475 mg/dL. Arterial blood gas reveals pH 7.12 with PCO <sub>2 </sub> 24 mm Hg and PO <sub>2 </sub> 95 mm Hg. Urine drug screen and urine pregnancy test are negative, and urinalysis shows no hematuria or pyuria, but 3+ glucose and 3+ ketones. Chest radiograph is read as normal, and plain film of the abdomen has nonspecific gas pattern but no signs of obstruction.
+
+【5】 What is the most likely diagnosis?
+
+【6】 What is your next step?
+
+【7】### APPROACH TO:
+
+【8】#### Suspected Diabetic Ketoacidosis
+
+【9】#### DEFINITIONS
+
+【10】DIABETIC KETOACIDOSIS: A syndrome of hyperglycemia, anion gap metabolic acidosis, and ketone bodies in the serum, caused by insufficient insulin levels.
+
+【11】KUSSMAUL RESPIRATIONS: Deep and rapid breathing; represent hyperventilation in an attempt to generate a respiratory alkalosis to compensate for the metabolic acidosis.
+
+【12】#### CLINICAL APPROACH
+
+【13】Diabetic ketoacidosis is a clinical syndrome that results when the triad of anion gap metabolic acidosis, hyperglycemia, and ketosis is present and is caused by a significant insulin deficiency. It is a medical emergency, with an overall mortality rate less than 5% if patients receive prompt and appropriate medical treatment. The majority of episodes are preventable, and many of the deaths also are preventable with proper attention to detail during management.
+
+【14】##### Pathophysiology
+
+【15】In the normal physiologic state, there is a fine balance between anabolic and catabolic hormones. In the fed state, anabolic actions of insulin predominate. Glycogenesis, lipogenesis, and protein synthesis all are increased. This results in storage of energy reserves in the form of triglycerides and glycogen.
+
+【16】In the fasting state, insulin serves to inhibit lipolysis, ketogenesis, gluconeogenesis, glycogenolysis, and proteolysis. These effects are critical in controlling the rate of breakdown of energy stores under the influence of catabolic hormones. Glucagon is the most important catabolic hormone. In the fasting state, it maintains normal glucose levels by stimulating hepatic gluconeogenesis and glycogenolysis.
+
+【17】Diabetes is the condition of relative or absolute insulin deficiency. When there is a severe insulin deficiency and a relative excess of glucagon, lipolysis is enhanced, causing release of free fatty acids. Oxidation of the fatty acids produces ketones, such as acetoacetate and beta-hydroxybutyrate, which are organic acids and often referred to as ketoacids . The excess of these ketoacids can produce a life-threatening metabolic acidosis. In addition, hyperglycemia produces an osmotic diuresis, which causes severe volume depletion, and electrolyte deficiencies by washing extracellular sodium, potassium, magnesium, phosphate, and water out of the body. The combination of acidosis, hypovolemia, and electrolyte deficiencies can lead to cardiovascular collapse, the most common cause of death in DKA .
+
+【18】##### Clinical Presentation
+
+【19】Patients with diabetes have an underlying impairment in glucose metabolism and, when challenged by a stress, an increase in insulin requirements. If they are unable to meet these insulin requirements, DKA may result. The most common precipitating events are infections such as pneumonia or urinary tract infection, vascular disorders such as myocardial infarction, or other stressors such as trauma. Diabetic ketoacidosis may be the presentation of new-onset diabetes, or it can occur in patients with established diabetes because of failure to use insulin for whatever reason or because of use of other medications (eg, glucocorticoids) that interfere with insulin action.
+
+【20】An episode of DKA evolves over a short period of time, typically less than 24 hours. The patient with DKA has the signs and symptoms of hyperglycemia, acidosis, and dehydration. Polyuria, polydipsia, weight loss, visual blurring, and decreased mental status are related to hyperglycemia and osmotic diuresis. Nausea, vomiting, abdominal pain, fatigue, malaise, and shortness of breath may be related to the acidosis.
+
+【21】Typical signs include reduced skin elasticity, dry mucous membranes, hypotension, and tachycardia related to volume depletion. Kussmaul respirations , deep and rapid breathing, represent hyperventilation in an attempt to generate a respiratory alkalosis to compensate for the metabolic acidosis. One may also note the fruity breath odor typical of ketosis.
+
+【22】##### Laboratory Diagnosis
+
+【23】Laboratory values show hyperglycemia (usually >250 mg/dL), acidosis (pH <7.3), anion gap (usually >15 mmol/L), and ketonemia. The most important laboratory parameters are the degree of acidosis, the anion gap, and the serum potassium level.
+
+【24】Patients with a very low pH (<7.0) are severely acidotic and have a worse prognosis. The lower pH is a result of the higher concentration of ketoacids, which are estimated using the anion gap. The first step in evaluating any patient with metabolic acidosis should be calculation of the anion gap . This concept is based on the principle of electrical neutrality, that is, all the cations must equal all the anions. The anion gap estimates those negatively charged particles that are not routinely measured and can be calculated using the following calculation:
+
+【25】The normal anion gap is 10 to 12 mmol/L. When it is elevated, there is an excess of unmeasured anions, which typically occurs because of one of the four causes, which are listed in Table 43–1 .
+
+【26】Lactic acidosis can be a result of severe tissue hypoxia, as in septic shock or carbon monoxide poisoning, or a result of hepatic failure and subsequent inability to metabolize lactate. Ketoacidosis most commonly occurs as an acute complication of uncontrolled diabetes, but it also can be seen in starvation and alcoholism (discussed later). The ingested toxins may be organic acids themselves, such as salicylic acid, or have acidic metabolites, such as formic acid from methanol. Renal failure leads to an inability to excrete organic acids as well as inorganic acids such as phosphates (often without an anion gap).
+删除4：<u>Table 43–1 • CAUSES OF HIGH ANION CAP METABOLIC ACIDOSIS</u>
+
+【27】Lactic acidosis
+
+【28】Ketoacidosis
+
+【29】• Diabetic
+
+【30】• Alcoholic
+
+【31】• Starvation
+
+【32】Toxins
+
+【33】• Ethylene glycol
+
+【34】• Methanol
+
+【35】• Salicylates
+
+【36】通用删除2(英):<u>Renal failure (acute or chronic) 删除换行1 删除10：<u>(Reproduced, with permission, from DuBose TD. Acidosis and alkalosis. In: Braunwald E, Fauci AS, Kasper KL, et al. eds . Harrison’s Principles of Internal Medicine. 16th ed. New York, NY: McGraw-Hill; 2005:265.)</u></u>
+
+【37】In patients with DKA, total body potassium stores are depleted because of urinary losses, and potassium replacement will always be necessary. Initially, the measured serum potassium levels may be high despite the total body potassium deficit because of acidosis resulting in movement of potassium from the intracellular to the extracellular compartment. As the acidosis is corrected and with the administration of insulin, which drives potassium intracellularly, serum potassium levels will fall rapidly .
+
+【38】The serum sodium level can be variable. Hyperglycemia causes water to move extracellularly, which can lead to hyponatremia. Similarly, phosphate levels can be variable in the presence of body store deficits with the extracellular movement of phosphate caused by catabolic state. Blood urea nitrogen (BUN) and creatinine levels are elevated, reflecting dehydration. Serum acetoacetate may cause a false elevation in serum creatinine level because of interference with the assay.
+
+【39】##### Management
+
+【40】The goal of treatment is restoration of metabolic homeostasis with correction of precipitating events and biochemical deficits, which consists of the following:
+
+【41】1\. Replacement of fluid losses with improvement of circulatory volume
+
+【42】2\. Correction of hyperglycemia and, in turn, plasma osmolality
+
+【43】3\. Replacement of electrolyte losses
+
+【44】4\. Clearance of serum ketones
+
+【45】5\. Identification and treatment of precipitating cause and complications
+
+【46】Close monitoring of the patient is important. A flow sheet recording vital signs, input and output, insulin dosage, and metabolic progress is important. Serum glucose concentration should be measured every 1 hour, and levels of serum electrolytes and phosphate must be assessed every 3 to 5 hours. Urinalysis, urine and blood cultures, ECG, and chest x-ray should be obtained to identify precipitating factors and complications. Other investigations should be pursued as symptoms and signs warrant.
+
+【47】##### Fluids
+
+【48】All patients with DKA are volume depleted as a consequence of osmotic diuresis as well as from other ongoing losses, such as vomiting. Hydration improves renal perfusion and cardiac output, facilitating glucose excretion. Rehydration may also diminish insulin resistance by decreasing levels of counterregulatory hormones and hyperglycemia. Sudden reduction in hyperglycemia can lead to vascular collapse with shift of water intracellularly. To avoid this, initial replacement fluid should be isotonic normal saline (NS) to correct circulatory volume deficit. Over the first hour, 1 to 2 L of NS should be infused. Following this, total body water deficit is corrected at the rate of 250 to 500 mL/h, depending on the state of hydration. The composition of fluid should be tailored according to serum sodium and chloride measurements.
+
+【49】Hydration should be gentler in patients with congestive heart failure or end-stage renal disease because such patients can easily get fluid overload.
+
+【50】##### Insulin
+
+【51】The goal of therapy is a glucose reduction of 80 to 100 mg/dL/h. Use of continuous low-dose intravenous infusion of insulin is recommended because it reduces episodes of hypoglycemia and hypokalemia, and it allows a more controlled reduction of serum glucose and osmolality. Intramuscular and subcutaneous routes can be used if tissue perfusion is adequate.
+
+【52】Insulin treatment may be initiated as an intravenous bolus of 0.1 to 0.15 U/kg. This should be followed by a continuous infusion of 0.1 U/kg/h with hourly serum glucose determinations . If blood glucose fails to decline at the desired rate, volume status should be reassessed, and insulin infusion should be titrated. The rate of infusion should be decreased to 0.05 U/kg/h when the blood glucose level decreases to 250 to 300 mg/dL. Glucose levels fall more quickly than ketosis resolves. Insulin is necessary for resolution of the ketoacidosis and can be coad-ministered with a glucose infusion until the anion gap is resolved. A 5% to 10% dextrose solution should be added to the hydrating solution when plasma glucose is less than 300 mg/dL. One can judge the resolution of ketoacidosis when the bicarbonate is more than 18 mEq/L, the anion gap is less than 12, the patient feels better, and the vital signs are stabilized. Serial determination of serum ketone levels is not clinically useful in measuring response to therapy. Laboratory tests measure acetoacetate and acetone, but not beta-hydroxybutyrate. With the administration of insulin, betahydroxybutyrate is first oxidized to acetoacetate, so measured ketone levels may actually increase with effective therapy. Instead, one should be guided by normalizing the anion gap when making decisions about the rate of insulin infusion. Subcutaneous insulin should be given approximately 30 minutes before stopping insulin infusion to avoid rebound acidosis.
+
+【53】##### Bicarbonate
+
+【54】Bicarbonate therapy is controversial and should not be given to ketoacidotic patients unless their arterial pH is less than 7.0 or other indications, such as cardiac instability or severe hyperkalemia, are present. Bicarbonate therapy can cause worsening hypokalemia, paradoxical central nervous system acidosis, and delay in ketone clearance.
+
+【55】##### Electrolytes
+
+【56】In DKA, there is deficit of total body potassium, phosphate, and magnesium . Patients frequently have hyperkalemia as a result of acidosis, insulin deficiency, and hypertonicity that cause a shift of potassium extracellularly. During treatment, plasma potassium concentration will fall as the metabolic abnormalities are corrected. Potassium should be added to initial intravenous fluids once the concentration is less than 5 mEq/L. Once adequate urine output is established, 20 to 40 mEq of potassium should be added to each liter of fluid. The goal is to maintain potassium in the range of 4 to 5 mEq/L. Cardiac monitoring is recommended in the presence of hypokalemia or hyperkalemia.
+
+【57】Phosphate replacement should be given to patients with serum phosphate concentrations less than 1 mg/dL and to patients with moderate hypophosphatemia with concomitant hypoxia, anemia, or cardiorespiratory compromise. Careful monitoring of the serum calcium level is necessary with phosphate administration.
+
+【58】Magnesium and calcium can be supplemented as needed.
+
+【59】##### Precipitating Causes
+
+【60】It is important to correct precipitating factors in order to restore metabolic balance. Identifiable sources of infection should be treated aggressively. Possible presence of ischemia and infarction should be evaluated and treated appropriately with help from specialists as needed.
+
+【61】##### Complications
+
+【62】Cerebral edema, acute respiratory distress syndrome, thromboembolism, fluid overload, and acute gastric dilatation are rare, but serious, complications of DKA.
+
+【63】##### Prevention
+
+【64】The major precipitating factors in the development of DKA are inadequate insulin treatment and infection. These events can be prevented by patient education and effective communication with a health-care team. Sick-day management regarding dosing of insulin, blood glucose monitoring, avoiding prolonged fasting, and preventing dehydration should be addressed. Socioeconomic barriers contribute to the high rates of admission for DKA. Appropriate allocation of health-care resources toward preventive strategies is needed.
+
+【65】Other metabolic complications of deranged carbohydrate metabolism deserve mention at this point. The first is hyperosmolar nonketotic diabetic coma . This condition occurs mainly in patients with type 2 diabetes who become profoundly dehydrated because of osmotic diuresis. However, these patients have sufficient insulin action to prevent the development of ketoacidosis. They may present with glucose levels more than 1000 mg/dL, serum osmolarity more than 320 to 370 Osm, and neurologic symptoms ranging from confusion to seizures to coma. Compared to patients with DKA, they have a much larger fluid deficit, and therapy is primarily volume resuscitation with NS. Insulin is also used to reverse hyperglycemia but usually is given in lesser doses than is required for clearance of ketosis in DKA.
+
+【66】Alcoholic ketoacidosis develops in chronic alcoholics who are malnourished and have depleted glycogen stores, and is often seen in the setting of binge drinking, which may shift the ratio of the reduced form of nicotinamide adenine dinucleotide (NADH) to nicotinamide adenine dinucleotide (NAD), inhibiting gluconeogenesis. They develop an anion gap metabolic acidosis as a result of ketoacidosis and lactic acidosis. They present with the same symptoms of acidosis as do DKA patients, for example, abdominal pain, nausea, and vomiting, but with low, normal, or slightly elevated glucose levels (in contrast to DKA, in which the glucose level usually is markedly elevated). Treatment is administration of volume in the form of NS and glucose solution. Insulin administration typically is unnecessary.
+
+【67】####王磊
+
+====================================================================================================

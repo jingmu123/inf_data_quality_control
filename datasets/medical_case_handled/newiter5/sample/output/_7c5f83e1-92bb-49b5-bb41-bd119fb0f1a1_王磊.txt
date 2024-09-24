@@ -1,0 +1,47 @@
+【0】17.1 A 44-year-old man who is HIV infected is hospitalized because of a 1-week history of progressive weakness of the left lower extremity and an inability to walk. He has also had a rapid loss of weight， night sweats， and frequent low-grade fever. His CD4 cell count at the time of diagnosis was 88/pL. On physi-cal examination he appears cachectic and chronically ill. His temperature is38.1℃(100.6F). Other significant findings included the presence of oral thrush， splenomegaly， bilateral lower extremity weakness， and hyperreflexia. An LP is performed and examination of his CSF shows the following： open-ing pressure normal； leukocyte count 21/pL with 98% lymphocytes and 2%neutrophils； erythrocyte count 1/pL； protein 85 mg/dL， and glucose 55 mg/dL. The India ink stain， cryptococcal antigen test， and culture for fungi were nega-tive. The PCR was positive for polyomavirus JC and negative for EBV virus. Which of the following is the most likely diagnosis?
+
+【1】A. Cerebral lymphoma
+
+【2】B.Cerebral toxoplasmosis
+
+【3】C. Cryptococcal meningitis
+
+【4】D. Progressive multifocal leukoencephalopathy
+
+【5】E.Tuberculosis
+
+【6】17.2 A 25-year-old man is evaluated in the ED for fever， headache， and mental status changes of 4 hours’ duration. He underwent a cadaveric kidney trans plantation 10 months ago， and his immunosuppressive regimen includes pred-nisone and azathioprine. He has no allergies. On physical examination， his temperature is 38.7℃ (101.6F)， heart rate is 115 beats/minute， respiratory rate is 25 breaths/minute， and blood pressure is 100/60 mm Hg. He is ori ented as to the year and his name but cannot recall the month. His neck is supple， and Kernig and Brudzinski signs are absent. The neurologic examina tion is normal. His peripheral leukocyte count is 20，000/pL. A CT scan of the head shows no sign of hemorrhage， hydrocephalus， mass effect， or midline shift. An LP is performed and examination of the CSF shows leukocyte count2000/pL (60% neutrophils， 40% lymphocytes)，erythrocyte count 20/pL， glu-cose 25 mg/dL， protein 150 mg/dL， and a negative Gram stain. The open ing spinal pressure is normal. Results of blood， urine， and CSF cultures are pending. Which of the following is the most appropriate empiric antibiotic therapy?
+
+【7】A. Ampicillin and ceftriaxone
+
+【8】B.Ampicillin，ceftriaxone， and vancomycin
+
+【9】C. Ceftriaxone and moxifloxacin
+
+【10】D. Ceftriaxone and vancomycin
+
+【11】E.Moxifloxacin
+
+【12】ANSWERS TO QUESTIONS
+
+【13】17.11 D. The most likely diagnosis is PML. PML is an opportunistic infection caused by polyomavirus JC， leading to demyelination of the CNS that causes gradually progressive neurologic deficits. Radiographically， there is no mass effect. The lesions are generally bilateral， asymmetric， nonenhancing， and peri-ventricular or subcortical in distribution. This late-stage HIV infection is based on a CD4 cell count <100/pL The presence of thrush in this patient has a high-risk status for AIDS-related opportunistic infections. He also has focal neurologic signs and an MRI that shows multiple white matter lesions without mass effect involving the right lateral frontal， right frontoparietal， and left frontal lobes and cerebellum. A PCR analysis is positive for polyomavirus JC. The gold standard for diagnosis of PML is a brain biopsy but with the prepon-derance of evidence supporting a diagnosis of PML， a biopsy can be deferred. If HAART is administered， 50% of AIDS patients will survive PML. Neurologic deficits typically persist in survivors. In patients with HIV infection and CD4cell counts <200/pL， localized or focal encephalitis is the most common pre sentation of toxoplasmosis and is the most common CNS system mass lesion. A negative serologic test for toxoplasma-specific IgM would add additional support to the exclusion of toxoplasmic encephalitis. CNS lymphoma occurs in approximately 2% to 12% of HIV-infected individuals. It is strongly associ-ated with Epstein-Barr virus infection. In patients with AIDS， lymphoma was second only to toxoplasmosis as the most common CNS mass lesion.
+
+【14】17.2B. Risk factors for listerial meningitis include immunosuppression， neonatal status or age >50 years， alcoholism， malignancy， diabetes mellitus， hepatic failure， renal failure， iron overload， CVDs， and HIV infection. The most appropriate empiric therapy is ampicillin (the drug of choice for Listeria)， with ceftriaxone and/or vancomycin. The CSF fluid supports a diagnosis of men-ingitis. Empiric vancomycin and ceftriaxone are recommended for the treat-ment of meningitis in patients 2 to 50 years of age. This covers S. pneumoniae and N. meningitidis， the most common organisms responsible for meningitis in this age group. The analysis of CSF in patients with listerial meningitis often fails to reveal typical gram-positive rods with characteristic“tumbling motil-ity”in wet mount preparations， but often shows pleocytosis and may demon-strate a significant number of lymphocytes in addition to neutrophils. Patients usually have 1 CSF protein levels；J CSF glucose levels are found less com-monly and less profoundly with listerial meningitis. The fluoroquinolones may be effective but do not penetrate the CNS well. Gentamicin is synergistic with ampicillin despite poor CNS penetration.
+
+【15】CLINICAL PEARLS
+
+【16】Meningitis has a high morbidity and mortality rate， especially in high-risk patients.
+
+【17】LP and CNS imaging are central to the diagnosis of meningitis and encephalitis.
+
+【18】Each year 20，000 cases ofencephalitis occur in the United States， with the predominant sporadic cause being HSV and the most common epidemic cause being WNV.
+
+【19】PML is caused by polyomavirus JC， with demyelination of the CNS and neurologic deficits.
+
+【20】If HART is administered， 50% of patients with AIDS and PML will survive the latter disease.
+
+【21】HSV is the most common cause of fatal sporadic encephalitis in the United States.
+
+【22】HSV encephalitis has fever， headache， seizures， focal neurologic signs， and impaired multiple sclerosis (MS).王磊
+
+====================================================================================================

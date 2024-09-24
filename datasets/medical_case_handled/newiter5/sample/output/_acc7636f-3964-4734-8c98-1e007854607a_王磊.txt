@@ -1,0 +1,60 @@
+【0】CASE 86: A PRURITIC ANNULAR RASH AND FAMILY
+
+【1】INVOLVEMENT
+
+【2】History
+
+【3】A 37-year-old healthcare assistant presents to the dermatology clinic with a pruritic eruption over her right knee. The lesion had started as a small erythematous papule and then  删除换行1 spread out very gradually to form a scaly, ring-shaped lesion. The itching is not intense  删除换行1 but she does find herself scratching. She has no history of previous skin problems. Her  删除换行1 7-year-old son has eczema and a dry scaly scalp. She has used some of her son’s cortisone  删除换行1 ointment on the lesion, which seemed to reduce the itching and scaling but the lesion  删除换行1 has continued to expand.
+Examination
+
+【4】There is an annular lesion 9 cm in diameter with a raised edge over the right knee  删除换行1 删除33：<u></u>. Marked hyperpigmentation, erythema and multiple papules and pustules are  删除换行1 seen at the raised edge. Her scalp and nails are normal, as is the rest of her skin. She has  删除换行1 brought her son with her to the clinic; he has a very scaly scalp with patches of alopecia  删除换行1 and occipital lymphadenopathy.
+
+【5】Mycology scrapings from the edge of the right knee lesion were examined by microscopy  删除换行1 (fungal hyphae were seen), and tissue culture (result: Trichophyton tonsurans)
+
+【6】Mycology brushings from the son’s scalp were examined by tissue culture (result: T. tonsurans)
+
+【7】INVESTIGATIONS
+
+【8】删除3：<u>Figure 86.1</u>
+
+【9】Questions
+
+【10】• What is the diagnosis?
+
+【11】• From whom did the patient acquire the  删除换行1 infection?
+
+【12】• How would you treat the mother and  删除换行1 child?
+ANSWER 86
+The healthcare assistant has a cutaneous fungal infection caused by the dermatophyte  删除换行5 Trichophyton tonsurans. The patient had used a cortisone ointment on the fungal infection  删除换行1 which altered the cutaneous appearance. This phenomenon is so-called ‘tinea incognito’  删除换行1 (steroid-modified tinea), whereby the fungal infection continues to spread outwards but  删除换行1 the scale is reduced and small papules and pustules may appear at the growing margin.
+
+【13】T. tonsurans is the main cause of tinea capitis  删除换行1 (scalp ‘ringworm’) in children living in urban areas.
+The fungus is anthropophilic – that is, passed  删除换行1 between humans. The usual cutaneous manifestation of tinea corporis (i.e. not treated with topical  删除换行1 corticosteroid) is shown in Figure 86.2. The classic  删除换行1 presentation includes annular lesions that are scaly  删除换行1 at the edge with central clearing; the eruption is  删除换行1 mildly pruritic.
+
+【14】The patient’s son had tinea capitis, which is the  删除换行1 most likely source of the infection. T. tonsurans is  删除换行1 likely to spread to adults when the infected child’s  删除换行1 head comes into direct contact with the adults’ skin,  删除换行1 usually on the neck / anterior chest where a child’s  删除换行1 head rests whilst sitting on their lap. If an adult  删除换行1 presents with a T. tonsurans, ask about contact  删除换行1 with children.
+Samples for mycology are very easy to take and results are useful in guiding treatment.
+Skin scrapings can be taken using a blunt scalpel blade from the active edge of the  删除换行1 lesions. Samples should be sent to the laboratory in folded coloured paper. Scalp brushings can be taken using plastic sterile disposable travel toothbrushes, using brisk brushing  删除换行1 movements back and forth across the scalp. Brush siblings and parents.
+删除3：<u>Figure 86.2
+
+【15】Clues to the diagnosis of tinea corporis !</u>
+
+【16】• The skin site affected – fungi often prefer the flexures (groin/axillae)
+• The eruption will often be asymmetrical – unlike many inflammatory dermatoses  删除换行1 such as psoriasis and eczema
+
+【17】• Concomitant fungal nail infection – onychomycosis
+
+【18】• Underlying diseases – such as diabetes, immunosupression
+
+【19】• Others at home are affected – especially children with tinea capitis
+
+【20】• Worsening with use of topical steroid
+
+【21】T. tonsurans is an endothrix fungus, which means that the fungal spores reside inside the  删除换行1 hair shaft; consequently, scalp infections need to be managed with systemic antifungal  删除换行1 medications. In the past, griseofulvin was used to treat tinea capitis in children at a dose  删除换行1 of 10 mg/kg daily for 6–8 weeks, however one month of terbinafine is equally effective  删除换行1 and better tolerated at a daily dose depending on the child’s weight:  20 kg, 62.5 mg;  删除换行1 20–40 kg, 125 mg;  40 kg, 250 mg. Tinea corporis can be managed with topical terbinafine 1% cream used twice daily for 4-6 weeks. Alternatives are oral terbinafine 250 mg  删除换行1 daily for 2 weeks or oral itraconazole 400 mg daily for 1 week.
+ KEY POINTS
+
+【22】• A cutaneous fungal infection should be suspected in a patient with isolated scaly  删除换行1 annular lesions.
+
+【23】• Classical signs of tinea can be altered by topical steroid use or secondary bacterial  删除换行1 infection.
+
+【24】• Tinea capitis in urban areas is most frequently caused by endothrix fungal species that  删除换行1 require systemic therapy.删除6：<u>This page intentionally left blank 193</u>王磊
+
+====================================================================================================

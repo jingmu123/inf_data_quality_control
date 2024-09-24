@@ -1,0 +1,19 @@
+【0】Question: A 1-year-old child whose parents just emigrated from Mexico presents to the emergency room with stridor. The child is in obvious distress and is drooling. Examination of the pharynx reveals a cherry-red mass at the base of the tongue. The vaccine that could have prevented this child’s illness contains two parts: purified bacterial capsule and mutant diphtheria toxoid. Which of the following characteristics of the causative organism makes necessary the addition of the diphtheria toxoid to the vaccine?
+
+【1】> (A) Attachment pili
+
+【2】> (B) Gram-negative rod
+
+【3】> (C) IgA protease
+
+【4】> (D) Polyribitol-ribose phosphate capsule
+
+【5】> (E) Protein A
+
+【6】 Answer: The correct answer is D. This child is suffering from acute epiglottitis, caused by Haemophilus influenzae type B (HiB). The incidence of this illness has decreased drastically in recent years because of immunization efforts. The HiB vaccine consists of two parts: the bacterial capsule antigen and diphtheria toxoid protein. Because the bacterial capsule is a polysaccharide, it alone will not generate a sufficient immune response. Therefore, a protein (the toxoid) is added to the vaccine in order to generate an antibody response.  
+Answer A is incorrect. Whereas attachment pili are an important virulence factor of H influenzae , they are not the reason why the vaccine must contain a toxoid protein.  
+Answer B is incorrect. Whereas H influenzae is a gram-negative rod, its Gram stain characteristics do not play a role in the body’s ability to generate antibodies against it.  
+Answer C is incorrect. IgA protease is an important virulence factor in H influenzae . It functions to cleave IgA, which allows the bacteria to colonize the mucosa. It does not, however, play a role in vaccination.  
+Answer E is incorrect. H influenzae does not generate protein A. This is a virulence factor found in Staphylococcus aureus that binds the Fc portion of IgG and thus helps prevent opsonization.黄艳玲
+
+====================================================================================================

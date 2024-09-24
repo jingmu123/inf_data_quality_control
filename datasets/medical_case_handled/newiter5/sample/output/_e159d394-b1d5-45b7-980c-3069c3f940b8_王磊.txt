@@ -1,0 +1,67 @@
+【0】Case 1 ClassicalGalactosemia
+
+【1】A 4-month-old male child presents with the history of repeated loss of consciousness and refusal to feed specially milk and milk containing diet. On examination， baby was found to be mild icteric and bilateral cataract\ was detected. Liver was palpable below costal margin.
+
+【2】Following are the results of various laboratory investigations：
+
+【3】·Blood sugar： 72 mg/dl (normal random blood glucose=80-140 ng/dl)
+
+【4】·Plasma-free galactose： 129 mg/dl (normal = <20 mg/dl)
+
+【5】· Serum uric acid： 8.4 mg/dl (normal=2.5-7.2 mg/dl)
+
+【6】·Blood lactic acid： 4.8 mmol/L (N = 0.5 mmol/L to 1.0 mmol/L)
+
+【7】·RBC galactose-1-phosphate level： 54 mg/dl (normal = <1 mg/dl)
+
+【8】·RBC galactose-1-phosphate uridyltransferase activity was absent
+
+【9】QUESTIONS
+
+【10】Q.1. What is the probable diagnosis in this case? What is the biochemical defect in this disease?
+
+【11】Q.2. Explain the biochemical reason for above clinical signs and symptoms.
+
+【12】Q.3. What is the treatment regime suggested for this child?
+
+【13】Explanations
+
+【14】A.1. This child is suffering with classical galactosemia which is due to deficiency of enzyme： 'Galactose-1-phosphate uridyltransferase' (GaliPUT). This enzyme is responsible for conversion of galactose-1-phosphate to glucose-1-phosphate. It is an autosomal recessive disorder. The pathway of galactose metabolism is illustrated in Fig.1.
+
+【15】A.2. Biochemical explanation of clinical signs and symptoms is as follows：
+
+【16】a. Hepatomegaly\： Lack of this enzyme impairs galactose metabolism and results in 删除换行1 accumulation of galactose-1-phosphate in liver which results in hepatomegaly.
+
+【17】b. Recurrent hypoglycemic attack： Accumulated galactose-1-phosphate inhibits glycogen phosphorylase enzyme which is manifested as recurrent hypoglycemic
+
+【18】Glucose-6-phosphate
+
+【19】删除3：<u>Fig. 1： Biochemical pathway involved in galactose metabolism 删除换行1 lig. 2： Key manifestation of classical galactosemia 删除换行1 episoden. Thin in due to the fact that glycogen phosphorylase is the keye the liver to supply glucose in blood by glycogenolysis at the tima ofnoadOnce teholbiuedt，itts enayme does not run the ghycogenoly ats ane enu cofneed.c</u>
+
+【20】Cataract\； Cataract in the baby is due to reduction of the le unnsme ofta thboe elizeyed ineal pacoltosyole i pnathway， where aldol reductase conveiverrttss galactose to 删除换行1 galactitol which initiates cataract formation. Cataract is bilateral and most of the cases cataract is mild and transient and it is reversible provided dietary treatment with lactose- and galactose-free diet starts early within 20 davs of life.
+
+【21】A.3. Treatment of this child is lactose and galactose-free diet. This regime should be started within 10 days of life. Delay in starting the treatment results in organ damage and low IQ. Despite adequate treatment from an early age， children with classic galactosemia remain at increased risk for developmental delays， speech problems and motor dysfunction.
+
+【22】Childhood apraxia\ of speech and dysarthria\ require expert speech therapy. Cataract may require surgery. If left untreated，galactosemic babies are prone to develop E. coli infection and may land up in sepsis and death.
+
+【23】Other important points related to this case：
+
+【24】Food to Avold in Galactosemla
+
+【25】Following food items need to be avoided in galactosemic baby. Breast milk， cow milk， casein and whey containing food， medications having galactose and lactose to be avoided in galactosemia.
+
+【26】Prenatal genetic diagnosis is possible in cultured amniotic fluid for galactose-1-phosphate uridyltransferase enzyme assay， 删除换行6 删除16：<u>Bibllography
+
+【27】1\. Casa RD， Ungaro C， Acampora E et al. A case of galactosemia misdiagnosed as cow's milk intolerance. Ital j Pediatr 2012；38：47. 删除9：<u>https：//doi.org/10.1186/1824-7288-38-47</u>
+
+【28】2\. Singh R， Kaur G， Thapa BR， Prasad R， Kulkarni K. A case of classical galactosemia： identification and characterization of 3 distinct mutations in galactose-1-phosphate uridyl transferase (GALT) gene in a single family. Indian J Pediatr， 2011 Jul；78通用删除7(英):<u>(7)</u>：874-6. doi：10.1007/s12098-010-0348-y. Epub 2010 Dec 28. Erratum in： Indian J Pediatr， 2011 Jul；78通用删除7(英):<u>(7)</u>：894. Kulkarni， Ketan \[added\] PMID： 21188552， 删除换行6 Word Meaning
+
+【29】Hepatomegaly： Enlargement of liver.
+
+【30】Cataract： A disease which causes dense and cloudy lens of eye which impairs vision.
+
+【31】Apraxia： Inability to perform certain task.
+
+【32】Dysarthria： Difficulty in articulation of speech.</u>王磊
+
+====================================================================================================

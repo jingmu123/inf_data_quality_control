@@ -1,0 +1,97 @@
+【0】Case 15
+
+【1】A 36-year-old man has had an increasing numbness of his thumb， his index finger， and the long finger on his right hand for the past 6 months. He was referred by his primary physician to a physiatrist for an elec-tromyography (EMG) study， which showed slowed conduction in the median nerve at the carpal tunnel. He was then referred to a hand sur-geon for carpal tunnel release as an outpatient.
+
+【2】The patient's medical history is negative except for diet-controlled diabetes. He has had no previous operations， and thus has no history of previous anesthetics， nor a family history of problems with anesthesia. He has no allergies to medications， does not smoke， and consumes alco-hol occasionally at social events. His laboratory results and physical examination by his internist were normal as well. The patient has had nothing to eat or drink since he went to bed last night. He wishes to leave the Surgicenter as quickly as possible after the operation.
+
+【3】On examination， the patient weighs 225 lb and is 5 ft， 8 in tall. His neck appears to be thick and only slightly mobile. His Mallampati clas-sification is a reassuring class I.
+
+【4】What type of anesthetic options could be considered for this Drocedure?
+
+【5】 What are the indications for i.v. regional anesthesia?
+
+【6】What are the risks of i.v. regional anesthesia?
+
+【7】ANSWERS TO CASE 15：
+
+【8】Outpatient Anesthesia for Carpal Tunnel Release
+
+【9】Summary： A 36-year-old man with numbness in the distribution of the median nerve presents for carpal tunnel release. His past medical history is remarkable for diet-controlled diabetes mellitus. His laboratory results and physical exam-ination are normal except for morbid obesity and a BMI of 35 kg/m.
+
+【10】\> Anesthetic options： General， intravenous regional， peripheral nerve block， or local with sedation
+
+【11】\> Indications for i.v. regional anesthesia： Extremity surgery of brief duration(<90 minutes)
+
+【12】\> Risks of IV regional anesthesia： Local anesthetic toxicity， injury from tourniquet compression， block failure due to tourniquet pain requiring con-version to general anesthesia
+
+【13】ANALYSIS
+
+【14】Objectives
+
+【15】1\. Understand the options for outpatient orthopedic anesthesia.
+
+【16】2\. Describe the indications for intravenous regional anesthesia.
+
+【17】3\. Recognize the risks of intravenous regional anesthesia.
+
+【18】4\. Describe the technical approach to performing intravenous regional anesthesia.
+
+【19】Considerations
+
+【20】This patient is undergoing a minor surgical procedure followed shortly there-after by discharge from the facility. A carpal tunnel repair can easily be per-formed using intravenous (i.v.) regional anesthesia， thus allowing the patient to remain fully awake or lightly sedated during the procedure. There is no need for a general anesthetic， so his cognitive functions will remain intact， and he will experience little or no nausea or vomiting.
+
+【21】In addition to the i.v. inserted routinely for the surgery， a small， distal i.v. catheter is inserted into the extremity undergoing surgery. Next the operative extremity is exsanguinated with an Esmarch bandage as the arm is elevated， and a proximal tourniquet is applied. A large dose of local anesthesia (typi-cally 50 mL of 0.5% lidocaine) is then injected through the catheter， quickly rendering the limb insensitive to pain and unable to move. Once the opera-tion is complete， the tourniquet is deflated， the remaining local anesthetic passes into the systemic circulation， and the limb's functions promptly return.
+
+【22】In a comparison of 126 patients undergoing hand surgery (excluding carpal tunnel release and ganglion excision) only 51% of the patients who received intravenous regional required postoperative analgesics compared to 85% of those who received general anesthesia.
+
+【23】Many orthopedic cases， ranging from minor procedures such as a carpal tun-nel repair to more complex cases such as arthroscopic rotator cuff repair are typically performed on an ambulatory basis. Since the patient is to be dis-charged on the same day as the surgical procedure， the primary goals of the anesthetic necessitate a rapid recovery to normal mentation， minimal side effects， and adequate pain control for discharge. Modern general anesthetics provide these conditions quite effectively.
+
+【24】Yet when compared to peripheral nerve blockade， general anesthetics are associated with higher postoperative nausea and pain scores anda greater need for post-anesthesia care unit time. However， the difference in overall time to discharge has not been reliably reproduced. (It was， however， noted that the discharge process may be sufficiently long as to mask any difference between these two procedures.).
+
+【25】CLINICAL APPROACH
+
+【26】Indications for Intravenous Regional Anesthesia
+
+【27】Intravenous regional anesthesia was first introduced by German surgeon August Gustav Bier in 1908， and is often known as the “Bier block." Dr. Bier had an interest in the use of exsanguinating bandages to provide a bloodless surgical field. He found that by introducing procaine into a cut down periph-eral vein distal to a tourniquet， anesthesia would quickly occur in the extrem-ity， and that once the tourniquet was released， anesthesia would rapidly resolve. However， peripheral nerve blockade did not gain significant popular-ity until the 1960s， when a series of 30 patients receiving intravenous regional anesthesia appeared in The Lancet.
+
+【28】Today， i.v. regional anesthesia remains a popular choice for upper extrem-ity surgery including foreign body removal， arthroscopies， carpal tunnel release， de Quervain disease， amputations， plastic surgeries， and synovec-tomies. In addition to providing anesthesia for surgery， this technique has also for the treatment of palmar hyperhydrosis involving the injection of botu-linum toxin， as well as for the treatment of complex regional pain syndrome.
+
+【29】Anesthesia from the i.v. regional technique results from the exposure of small nerve endings and， to some extent， larger peripheral nerves， to local 删除换行1 anesthetics thus blocking nerve transmission. Ischemia of the extremity also contributes to the slowing nerve conduction. Unfortunately， the intercostal brachial nerve is not anesthetized because of its origin relative to the tourni-quet. This nerve， as well as unmyelinated C-fibers under the tourniquet， are also responsible for the pain related to prolonged tourniquet inflation.
+
+【30】Contraindications
+
+【31】Few absolute contraindications exist for i.v. regional anesthesia. Sickle cell disease is contraindicated， since the use of a tourniquet could potentially trig-ger a sickle crisis. An allergy to local anesthetics， or presence of infection or the inability to place an intravenous catheter at the site of placement also pre-cludes the use of this technique. Or， patients may simply refuse. Relative con traindications include untreated seizure disorders (since a lidocaine bolus may rapidly enter the systemic circulation)， high-grade heart block， bleeding disor-ders， and hepatic failure.
+
+【32】Risks of Intravenous Regional Anesthesia
+
+【33】Intravenous regional anesthesia has been lauded for its extremely high-safety profile. Early authors proposed that this technique could be used readily by non-anesthesiologists， including in the emergency department for the man-agement of a variety of injuries. However， given the amount of localanes-thetic involved， any practitioner utilizing this technique must be familiar with all aspects of local anesthetic toxicity and amply prepared for its management.
+
+【34】Local anesthetic toxicity often initially presents with symptoms period of nervous system excitability culminating in grand mal1profoundSseizure. Cardiovascular toxicity can follow， with significant arrhythmias and the potential for cardiovascular collapse. The tourniquet should have functioning alarms to alert the anesthesiologist of a sudden loss in tourniquet pressure， which could lead to the sudden systemic distribution of a large dose of local anesthetic. After a period of time， usually around 20 minutes， the local anes-thetic molecules become fixed to the tissues of the extremity. At this point， deflation of the tourniquet no longer results in a large quantity of the anes-thetic being released into the systemic circulation.
+
+【35】Other risks emanate from injury to structures compressed by the tourni-quet. The tourniquet for upper extremity surgery tends to be placed well above the antecubital region， but compression of peripheral nerves against bony prominences can lead to prolonged nerve ischemia and subsequent injury. Inattention to the placement of padding around the tourniquet can also contribute to skin injury. Lastly， if the duration of the operation exceeds expectations， the patient may begin to develop an almost uncon-trollable tourniquet pain that is not very responsive to analgesics， and which may require deepening the sedation， or even the induction of gen-eral anesthesia.
+
+【36】The choice of local anesthetic is relatively straightforward. The duration of action of the local anesthetic in this anesthetic approach is primarily deter-mined by duration of the tourniquet. Therefore， the use of short-acting local anesthetics has been advocated due to the lower risks of serious， persistent cardiovascular complications in the setting of a tourniquet failure. Procaine and lidocaine are the most common choices.
+
+【37】Technique for Intravenous Regional Anesthesia
+
+【38】The patient is prepared for anesthesia as all patients are prepared and accord-ing to the guidelines of the ASA. A preoperative evaluation must be per-formed； patients should have fasted in the usual fashion； appropriate monitors including the standard ASA monitors (pulse oximetry， noninvasive blood pressure， ECG) should all be applied. Standard emergency medications as well as a functioning bag-mask system or anesthesia machine should be available.
+
+【39】Intravenous catheters are placed in both extremities. In the operative extremity， the catheter should be placed as distal as possible and not in the operative field if at all possible. Small doses of premedication may be given for anxiolysis. Some authors promote routine use of benzodiazepines to raise the seizure threshold in the event of systemic vascular uptake of local anesthetic， though excessive premedication may contribute to a prolonged recovery room stay. Infiltration of the intercostal brachial nerve may be performed at this time with 3 to 5 mL of local anesthetic.
+
+【40】Next， a double tourniquet should be placed above the antecubital fossa on the operative extremity. The tourniquet should be padded and carefully inspected to verify absence of any pressure points. Wider tourniquets may be better tolerated， due to the greater surface area of tissue bearing the impact of the tourniquet. The electronic monitoring of the tourniquets must have passed their initial self-check and appear to function appropriately. Most authors rec-ommend an extremity pressure of 250 mm Hg， or at least 100 mm Hg above sys-temic pressure. The extremity should then be raised above the heart for a few minutes， and an Esmarch bandage applied to exsanguinate the extremity. Once the exsanguination is complete， the proximal tourniquet should be raised.
+
+【41】Once satisfactory inflation of the tourniquet has been achieved， the injec-tion of local anesthetic into the operative extremities intravenous catheter is undertaken. A typical volume of 50 mL of 0.5% lidocaine， or approximately3 mg/kg， is injected slowly to prevent an excessive intravenous pressure which can overcome the tourniquet’s pressure. During the injection， the patient is ques-tioned for signs of local anesthetic toxicity such as numbness around the mouth， ring- ing in the ears， headache， or a general sense of feeling bad. The injection should take approximately 90 seconds to complete. The limb will remain almost white in color， and become rapidly insensitive to pain and lose the ability to move. If the limb's color becomes either dark red or blue， the tourniquet is leaking and local anesthetic could be rapidly absorbed into the circulation if the injection is continued.
+
+【42】After approximately 25 to 45 minutes of anesthesia， the patient may begin to complain of tourniquet pain. At this time， the distal cuff (which is over an area anesthetized by the lidocaine) may be inflated and the proximal cuff deflated. Prior to performing this maneuver， it is useful to pause to reconsider the procedure. This reflation-deflation technique may allow for an additional15 to 20 minutes of operative time.
+
+【43】At the completion of the operation， the surgeon should be encouraged to infiltrate the wound with local anesthetic to minimize the need for postoper-ative analgesics in the recovery room. The cuff may then be released briefly(5-10 seconds) and then reinflated for 30 seconds for several iterations 通用删除7(英):<u>(3-6)</u>. This may allow for a lower maximum dose of local anesthetic released as a sin-gle bolus. If the patient complains of symptoms consistent with local anes-thetic toxicity， it may be reasonable to prolong the reinflation period.
+
+【44】Local Anesthetic Toxicity
+
+【45】Signs： Light headedness， tinnitus， headache， circumoral numbness or tin-gling， metallic taste in the mouth
+
+【46】Symptoms： Muscle twitching， loss of consciousness， grand mal seizure， vas-cular collapse
+
+【47】Treatment：(“Airway， breathing， circulation").Oxygen， support ventilation if necessary (local anesthetic toxicity is exacerbated by hypercarbia)， anti-convulsants such as a benzodiazepine or thiopental， support the circulation. Intubation may be necessary to protect the airway. Bretylium or cardioversion is given for ventricular arrhythmias， intralipid for bupivacaine toxicity.王磊
+
+====================================================================================================

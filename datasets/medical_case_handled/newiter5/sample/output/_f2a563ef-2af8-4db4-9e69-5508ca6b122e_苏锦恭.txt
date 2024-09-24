@@ -1,0 +1,19 @@
+【0】Question: A 53-year-old man with a long-standing history of allergic rhinitis and asthma presents with uveitis, mild hearing loss, numbness and tingling in his right hand, and diffuse joint pain for the past 10 days. Physical examination shows weak to absent left knee patellar reflexes (right knee reflex strong and intact). Laboratory studies show a markedly elevated eosinophil count. A diagnosis is made, and the patient is treated with cyclophosphamide. Further laboratory studies show elevated serum levels of the most common autoantibody associated with this condition. What structure is primarily targeted by the autoantibodies that are most likely elevated in this patient’s serum?
+
+【1】> (A) Acetylcholine receptors
+
+【2】> (B) Neutrophils
+
+【3】> (C) Oligodendrocytes
+
+【4】> (D) RBCs
+
+【5】> (E) Thyroid-stimulating hormone receptors
+
+【6】 Answer: The correct answer is B . This patient has Churg-Strauss syndrome (also known as allergic granulomatosis and angiitis), which is one of a trio of diseases (Wegener granulomatosis and microscopic polyangiitis being the others) that are commonly referred to as the ANCA (antineutrophil cytoplasmic antibody)-associated vasculitides (ie, diseases causing inflammation of blood or lymphatic vessels). Fifty to seventy percent of patients with Churg-Strauss syndrome have elevated levels of ANCA, usually the perinuclear pattern of staining type (P-ANCA). Pulmonary vasculature involvement is common and patients often have preexisting asthma and allergic rhinitis. They also present with markedly elevated eosinophil counts and mononeuritis multiplex (simultaneous deficits of two or several peripheral nerves in different areas of the body). Other symptoms includeuveitis, conductive hearing loss, and muscle/joint pain. An eosinophilic gastroenteritis may precede the onset of the other symptoms.  
+Answer A is incorrect . Autoantibodies to acetylcholine receptors are not particularly associated with Churg-Strauss syndrome. Myasthenia gravis is characterized by an autoimmune attack on the acetylcholine receptors of the neuromuscular junction between motor neurons and skeletal muscle fibers.  
+Answer C is incorrect . Autoantibodies to oligodendrocytes are not particularly associated with Churg-Strauss syndrome. There is evidence suggesting that multiple sclerosis may be partially caused by autoimmune antibody attack on CNS myelin-secreting oligodendrocytes.  
+Answer D is incorrect . Autoantibodies to RBCs, which may be found in certain cases of immune hemolytic anemia, are not particularly associated with Churg-Strauss syndrome.  
+Answer E is incorrect . Autoantibodies to thyroid-stimulating hormone (TSH) receptors are not particularly associated with Churg-Strauss syndrome. Graves disease is a disorder resulting from IgG-type autoantibodies to the TSH receptor.苏锦恭
+
+====================================================================================================

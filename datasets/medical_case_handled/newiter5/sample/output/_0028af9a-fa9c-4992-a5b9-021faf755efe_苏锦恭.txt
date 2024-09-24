@@ -1,0 +1,62 @@
+【0】Case 20
+A 35-year-old woman notices a milky discharge from both nipples. She under-went a bilateral tubal ligation after the birth of her last child， and a pregnancy test is negative. She has not had a menstrual period for the last 8 months. She complains of intermittent headaches and some difficulty with her peripheral vision.
+
+【1】What is the most likely diagnosis?
+
+【2】What is the best diagnostic test?
+
+【3】ANSWERS TO CASE 20： PROLACTIN ADENOMA
+
+【4】Summary： A 35-year-old woman has bilateral nipple discharge， headache， and visual abnormalities.
+
+【5】Most likely diagnosis： Prolactin adenoma.
+
+【6】Diagnostic tests： Basal prolactin levels and magnetic resonance imaging (MRI) of the pituitary with gadolinium or computed tomography (CT) imaging.
+
+【7】CLINICAL CORRELATION
+
+【8】This 35-year-old woman complains of headache， difficulty with her peripheral vision， amenorrhea， and galactorrhea. This symptom complex is consistent with hyperprolactinemia caused by a prolactin-secreting adenoma. The pitu-itary tumor impinges on the optic chiasm， leading to headache and bitemporal hemianopia. The elevated prolactin level causes milk production in the breast and also inhibits gonadotropin-releasing hormone at the level of the hypothal-amus. Thus， gonadotropin levels fall， and the ovaries become quiescent. The patient is in a hypoestrogenic state. Prolactin levels in this patient probably would demonstrate a marked elevation. Imaging of the sella turcica with MRI probably would show an adenoma. Medical therapy is generally the first option with these tumors.
+
+【9】APPROACHTO ANTERIOR PITUITARY PATHOLOGY
+
+【10】Objectives
+
+【11】Know the most common pituitary adenoma.
+
+【12】● Describe the visual defect associated with a pituitary adenoma.
+
+【13】 Describe the common causes of hyperprolactinemia.
+
+【14】Definitions
+
+【15】Pituitary tumors： Neoplastic growths that are classified by the type of hor-mone they produce and by their size： Microadenomas are less than 1 cm in diameter， and macroadenomas are more than 1 cm in diameter.
+
+【16】Hyperprolactinemia： Increased levels of prolactin (higher than 20 ug/L) caused by a prolactin adenoma， physiologic hyperprolactinemia in preg-nancy， nipple stimulation， damage to the dopaminergic neurons of the hypothalamus， and trauma or drugs blocking dopamine receptors.
+
+【17】Hypopituitarism： Decreased secretion of pituitary hormones ensuing from diseases of the hypothalamus or the pituitary； it can be a congenital or acquired abnormality. Most cases are due to destructive processes such as tumors， ischemic necrosis of the pituitary， and the empty sella syndrome.
+
+【18】DISCUSSION
+
+【19】The pituitary gland is located in the sella turcica at the base of the brain. It is a small gland that measures approximately 1 cm in diameter and weighs approx-imately 0.5 g. The pituitary has two lobes： the anterior lobe， which is derived from the Rathke pouch， and the posterior lobe. Its proximity to the optic chiasm causes the typical visual symptoms (bitemporal hemianopia) 删除33：<u></u>. Histologically， the anterior pituitary contains eosinophilic cells (growth hor-mone and prolactin)， basophilic cells (gonadotropins， adrenocorticotropic hor-mone， melanocyte-stimulating hormone， and thyroid-stimulating hormone) and chromophobic cells. The anterior pituitary hormones， except prolactin， are con-trolled by releasing hormones from the hypothalamus that pass through the hypophyseal portal system. The posterior pituitary or neurohypophysis stores oxytocin and vasopressin， hormones that are made by the hypothalamus. These hormones then are released by exocytosis into the systemic circulation.
+
+【20】Prolactinomas
+
+【21】Prolactinomas are the most common pituitary adenoma， accounting for approximately 30 to 40 percent. They are composed of lactotrophic cells(eosinophilic and chromophobic cells). Even the smallest tumor can secrete enough prolactin for hyperprolactinemia to occur. Prolactinoma causes galac-torrhea and amenorrhea in women， and men may experience decreased libido， impotence， and， rarely， gynecomastia and galactorrhea.
+
+【22】删除3：<u>Figure 20-1. Pituitary adenoma and its relationship to the optic chiasm.</u>
+
+【23】Hyperprolactinemia
+
+【24】Numerousconditions can cause elevation1offtthe prolactinlevel. Hypothyroidism， pregnancy， medications， and pituitary adenomas are the most common causes. Thyrotropin-releasing hormone (TRH) actsas a prolactin-releasing hormone； its elevation in hypothyroidism is thought to be the mechanism of hyperprolactinemia. Correction of the hypothyroidism usu-ally leads to normalization of the prolactin level. Drugs that may produce a hyperprolactinemic state include neuroleptic drugs (dopamine receptor antag-onists) and reserpine (inhibits dopamine storage). Other causes include estro-gens， renal failure， stress， and herpes zoster of the chest wall.
+
+【25】Hypopituitarism
+
+【26】Ischemic necrosis of the pituitary gland is a significant cause of hypopitu-itarism， causing damage to more than 75 percent of the gland. Infarction of the anterior lobe may be seen in Sheehan syndrome as a result of hemorrhage or shock occurring postpartum. The presenting sign may be inability to lactate， amenorrhea， and symptoms of adrenal insufficiency.
+
+【27】Another cause of hypopituitarism may be pituitary adenomas， by direct destruction or compression of the pituitary or by impaired blood supply result-ing from pituitary stalk compression.
+
+【28】Treatment
+
+【29】As first-line treatment for prolactin-secreting adenomas， bromocriptine or cabergoline (dopamine agonists) should be used， even if the patient exhibits visual disturbances， because it decreases the size of the adenoma 25 to 50 per-cent. Transsphenoidal resection of the adenoma is an alternative treatment.苏锦恭
+
+====================================================================================================

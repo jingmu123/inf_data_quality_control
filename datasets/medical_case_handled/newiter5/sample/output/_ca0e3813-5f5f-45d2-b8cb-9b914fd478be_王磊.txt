@@ -1,0 +1,43 @@
+【0】CASE 92: STIFFNESS OF THE SKIN DEVELOPING AFTER BONE
+
+【1】MARROW TRANSPLANTATION
+
+【2】History
+
+【3】A 37-year-old man presents with a rash and diarrhoea to the haematology out-patient  删除换行1 team. Six months previously he had developed red patches on his skin, which then  删除换行1 became pale and gradually felt firm and tight. He describes stiffness of his elbow and  删除换行1 knee joints, such that he is having trouble straightening his limbs. One year previously  删除换行1 he had undergone a matched, unrelated, allogenic bone marrow transplant for acute myeloid leukaemia. He is taking multiple medications including aciclovir, co-trimoxazole,  删除换行1 penicillin V, itraconazole and omeprazole.
+
+【4】Examination
+
+【5】He has extensive skin changes over his trunk and limbs with erythematous patches with  删除换行1 hypopigmented centres 删除33：<u></u>. There is mottled hyperpigmentation and generalized  删除换行1 thickening of the skin, which appears waxy and feels tight. Also, fixed flexion deformities  删除换行1 are present over his elbows and knees.
+
+【6】删除3：<u>Figure 92.1</u>
+
+【7】Questions
+
+【8】• What is the diagnosis?
+
+【9】• What other systems can be involved?
+
+【10】• How would you manage this patient?
+ANSWER 92
+
+【11】This patient was diagnosed with chronic graft-versus-host disease (GVHD). Skin changes  删除换行1 characterized by thickening and tightening after bone marrow transplantation are  删除换行1 referred to as sclerodermoid GVHD.
+
+【12】GVHD is an immune disorder that commonly follows bone marrow transplantation. It  删除换行1 is less common after solid organ transplantation and, rarely, has also been reported in  删除换行1 patients after blood transfusion and by maternal–fetal transfusion. GVHD results from a  删除换行1 reaction of incompatible, immunocompetent donor cells against the tissue of an immunocompetent host. Acute and chronic disease are described both of which increase the  删除换行1 patient’s susceptibility to infection.
+
+【13】Chronic GVHD is said to occur more than 100 days after transplantation. Patients may  删除换行1 have had acute GVHD (usually between 14 and 21 days post-transplantation) or it arises  删除换行1 de novo. Cutaneous disease has different morphological types. These include lichenoid,  删除换行1 sclerodermoid and eczematous types. Lichenoid disease is characterized by flat-topped  删除换行1 violaceous ‘lichen–planus’-like papules and plaques, which manifest initially on the  删除换行1 extremities but can become generalized. Mucosal disease is also seen. Sclerodermoid disease occurs predominantly over the trunk and upper lower limbs and the skin is described  删除换行1 as ‘hardening’ or ‘tight’. This disease can also become generalized leading to joint contractures. Hair loss is also a common feature, which is usually permanent.
+
+【14】GVHD may also affect the eyes, mouth, joints, gastrointestional tract (diarrhoea), liver  删除换行1 (transaminitis) and respiratory system.
+
+【15】Prevention of GVHD is the mainstay of treatment. Chronic GVHD carries a high morbidity and mortality. It is commonly associated with recurrent and occasionally fatal bacterial infections, which are the main cause of death in patients with GVHD. Patients are  删除换行1 immunosuppressed with a variety of medication including ciclosporin, mycophenolate  删除换行1 and tacrolimus with or without prednisone.
+Managing skin GVHD is dependent on the extent and affected site. For limited disease  删除换行1 topical therapy with potent corticosteroids can be of benefit. For more extensive disease the aim is to treat GVHD before life-threatening sepsis occurs. High-dose systemic  删除换行1 corticosteroids are usually added to the immunosuppressant regime. Phototherapy with  删除换行1 psoralen–UVA and high-dose long-wave ultraviolet (UV) radiation (UVA1) may reduce  删除换行1 the severity of the cutaneous skin problems. In addition, to reduce the amount of immunosuppression required, extracorporeal photophoresis can be effective.
+
+【16】 KEY POINTS
+
+【17】• Graft-versus-host disease (GVHD) is an immune disorder that may occur after bone  删除换行1 marrow transplantation.
+
+【18】• Acute and chronic forms of GVDH have been described.
+
+【19】• Different types of cutaneous GVHD include lichenoid, sclerodermoid and eczematous.王磊
+
+====================================================================================================

@@ -1,0 +1,57 @@
+【0】CASE 1: POLYURIA AND POLYDIPSIA 
+
+【1】A 45-year-old woman with a history of hypothyroidism presents to her GP with a 3-month  删除换行1 history of urinary frequency, up to three times per night. She finds that her constant desire to  删除换行1 drink fluids, particularly cold water, and her frequent need to visit the toilet interfere with her  删除换行1 job as a teacher. She has no other health problems and has no regular medications.
+Examination 
+
+【2】The patient looks well, with no evidence of dehydration. Examination of her heart, lungs  删除换行1 and abdomen is unremarkable. Neurologic examination is normal. Urine dipstick is negative.
+INVESTIGATIONS 
+
+【3】Haemoglobin 13.5 
+
+【4】White cells 8.3 
+
+【5】Platelets 325 
+
+【6】Sodium 144 
+
+【7】Potassium 4.2 
+
+【8】Urea 6.5 
+
+【9】Creatinine 100 
+
+【10】Fasting glucose 6.0 
+
+【11】Corrected calcium 2.25 
+
+【12】A water deprivation test is performed, as shown in Figure 1.1. 
+
+【13】删除3：<u>Figure 1.1 A water deprivation test.</u>
+QUESTIONS 
+
+【14】1. What is the differential diagnosis, and what further tests are required?
+2. What is the principle of a water deprivation test, and how do you interpret her  删除换行1 results?
+3. Discuss the pathophysiology of the likely diagnosis and suggest how the patient  删除换行1 may be treated.
+通用删除5(英):<u>DOI: 10.1201/9781003242697-</u>
+ANSWERS
+
+【15】This woman presents with polyuria, nocturia and polydipsia. These symptoms have four  删除换行1 important differential diagnoses: 通用删除7(英):<u>(1)</u> diabetes mellitus; 通用删除7(英):<u>(2)</u> diabetes insipidus, which may  删除换行1 either be central or nephrogenic in origin; 通用删除7(英):<u>(3)</u> hypercalcaemia, which may present like the  删除换行1 above in an acute setting; and 通用删除7(英):<u>(4)</u> primary polydipsia (PP). Therefore, investigations need to  删除换行1 be directed at elucidating one of the above diagnoses.
+Diabetes insipidus is a relatively rare disease characterised by the excretion of large volumes of dilute urine as a result of either a deficiency of or a resistance to the actions of  删除换行1 the posterior pituitary hormone, antidiuretic hormone (ADH), also known as arginine  删除换行1 vasopressin (AVP). ADH is released into the circulation from the posterior pituitary  删除换行1 gland in response to an increase in serum osmolality and acts to increase reabsorption of water by inserting aquaporin-2 (AQP2) channels into the apical membrane of  删除换行1 the distal parts of the nephron. Deficiency of ADH leads to central diabetes insipidus  删除换行1 (CDI), while failure of the kidney to respond to its actions causes nephrogenic diabetes  删除换行1 insipidus (NDI).
+Diagnosis of diabetes insipidus includes basic laboratory investigations and a fluid deprivation test. Hypernatraemia may be found secondary to dehydration, while urinalysis may  删除换行1 show a low specific gravity (<1.005). Serum osmolality is increased due to excess free water  删除换行1 loss. It may be formally measured or estimated using the formula: 2 × [Na+] + [urea] + [glucose], which would be around 300 mOsm/kg in this patient. Similarly, urine osmolality will  删除换行1 be low, generally less than 200 mOsm/kg, due to inadequate reabsorption of water from the  删除换行1 distal parts of the nephron.
+When the diagnosis is equivocal, a fluid deprivation test may be performed. Patients are  删除换行1 deprived of fluid intake for a period of 8 hours, with hourly measurement of body weight, urine  删除换行1 volume and urine osmolality. After allowing a sufficient time for dehydration, desmopressin  删除换行1 (synthetic ADH) is administered subcutaneously, and a final urine sample is taken 1 hour afterwards to measure urine osmolality.
+The essence of the test is that with CDI, urine will become more concentrated once the  删除换行1 deficient ADH is replaced, whereas with NDI, the inability of the kidney to respond to ADH 
+
+【16】means that any further replacement by ADH has no effect.
+CDI is commonly idiopathic. However, autoantibodies against ADH-secreting cells of the  删除换行1 hypothalamus may be detected, especially if the patient exhibits other autoimmune conditions, such as hypothyroidism, as in this case. Other causes of CDI include brain tumours,  删除换行1 such as germinomas and craniopharyngiomas; neurosurgery; head injury; and infiltrative  删除换行1 conditions, such as Langerhans cell histiocytosis. There are also genetic forms of the disease,  删除换行1 with the majority being inherited in an autosomal dominant fashion with mutations in the 
+
+【17】ADH gene.CDI responds well to ADH replacement, usually via the synthetic analogue desmopressin  删除换行1 (DDAVP). High-dose DDAVP may be used for mild cases of NDI, but treatment of NDI  删除换行5 requires management of the underlying cause (e.g. correcting metabolic abnormalities, discontinuing any offending drugs). In any case, treatment is required only if the patient is suffering from severe dehydration, with urine volumes >4 L per day. Case 1: Polyuria and Polydipsia 5 
+
+【18】KEY POINTS 
+
+【19】• Causes of polyuria and polydipsia include diabetes mellitus, diabetes insipidus,  删除换行1 hypercalcaemia and PP.
+• Diabetes insipidus is due either to inadequate central production of ADH or failure of the kidneys to respond to ADH.
+• Central diabetes insipidus is frequently idiopathic and managed with synthetic 
+
+【20】ADH (desmopressin).黄艳玲
+
+====================================================================================================

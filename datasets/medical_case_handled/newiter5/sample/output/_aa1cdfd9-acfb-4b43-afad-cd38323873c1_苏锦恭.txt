@@ -1,0 +1,23 @@
+【0】CASE 76
+-------
+
+【1】Linear IgA bullous dermatosis
+-----------------------------
+
+【2】QUESTION 76
+
+【3】A 74-year-old woman with a history of chronic obstructive pulmonary disease presents to the hospital with fever, cough and shortness of breath. A chest X-ray demonstrates multifocal pneumonia and she is started on broad-spectrum antibiotics including vancomycin and piperacillin–tazobactam. During her hospitalization, she develops a bullous eruption on the trunk and dermatology is consulted. On examination, there are many tense vesicles and bullae on an erythematous base filled with serous fluid, some arranged in an arcuate pattern ( 76a ).
+
+【4】i. Based on this patient’s history and clinical presentation, what is the diagnosis and what test should be used to confirm your suspicion?
+
+【5】ii. What is the treatment for this condition?
+
+【6】Answer 76
+
+【7】i. The patient has linear IgA bullous dermatosis (LABD), an immune-mediated bullous disorder characterized by subepidermal blisters and linear deposition of IgA along the basement membrane zone seen on direct immunofluorescence ( 76b ). To confirm the diagnosis, a skin biopsy should be completed and sent for hematoxylin and eosin (H&E) stain as well as direct immunofluorescence. In adults, LABD is commonly drug induced. One of the most common culprit medications is vancomycin. Other drugs that have been identified in association with LABD are penicillins, cephalosporins, captopril and non-steroidal anti-inflammatory drugs (NSAIDs). LABD can also be idiopathic or seen in association with other disease processes including gastrointestinal disorders such as gluten-sensitive enteropathy and ulcerative colitis, infections and malignancies. There is a childhood form, known as chronic bullous disease of childhood, which is identical histologically to LABD but has a unique clinical presentation and has been associated with Crohn’s disease but not medications or malignancy.
+
+【8】Clinically, LABD presents as subepidermal bullae arranged in a herpetiform or annular pattern. There are often clusters of smaller vesicles that are described as a ‘crown of jewels’ and new blisters tend to arise in a ring around older lesions, known as the ‘string of beads’ sign. In adults, the bullae often first present on the extremities and over time can progress to other sites. In children, the bullae classically involve the genital region initially but can spread to involve the face, lower trunk, hands and feet. Mucous membrane involvement is observed in up to 50% of patients.
+
+【9】ii. In patients with drug-induced LABD, the first step is to remove the offending agent. Most patients with LABD will respond further to oral dapsone therapy within 2–3 days. It is important to check the glucose-6-phosphate dehydrogenase (G-6-PD) level and adjust the dose accordingly. Sulfapyridine has also been used in place of dapsone. Oral prednisone up to 40 mg daily can also be used as an adjunctive treatment for disease control. Children usually respond to dapsone at a dose of 1–2 mg/kg daily.苏锦恭
+
+====================================================================================================

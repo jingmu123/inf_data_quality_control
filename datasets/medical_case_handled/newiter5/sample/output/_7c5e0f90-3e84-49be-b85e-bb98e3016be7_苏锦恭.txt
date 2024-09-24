@@ -1,0 +1,96 @@
+【0】Case Files™ Neurology, Second Edition    
+
+【1】### CASE 24
+
+【2】A 24-year-old graduate student was studying late at night for an examination. As he looked at his textbook, he realized that his left arm and left leg were numb. He dismissed the complaint, recalling that 6 or 7 months ago he had similar symptoms. He rose from his desk and noticed that he had poor balance. He queried whether his vision was blurred, and remembered that he had some blurred vision approximately 1 to 2 years earlier, but that this resolved. He had not seen a physician for any of these previous symptoms. He went to bed and decided that he would seek medical consultation the next day.
+
+【3】 What is the most likely diagnosis?
+
+【4】 What is the next diagnostic step?
+
+【5】 What is the next step in therapy?
+
+【6】### APPROACH TO: Multiple Sclerosis
+
+【7】#### DEFINITIONS
+
+【8】MULTIPLE SCLEROSIS : MS is a chronic disease, usually beginning in young adults, characterized by relapsing, remitting, or progressive neurologic deficits. These deficits reflect lesions in scattered areas of the central nervous system that appear and can resolve over time.
+
+【9】#### CLINICAL APPROACH
+
+【10】##### Epidemiology
+
+【11】MS is the most common cause of neurologic disability in young adults, affecting over 1 million individuals worldwide. There are between 250,000 and 500,000 patients with MS in the United States. MS is more common in northern climates in Europe and the United States, with a prevalence of approximately 1 per 1000 people in these areas. It is more common in women than men by a ratio of 2:1, with a peak incidence of 24 years. Symptoms usually begin between the ages of 10 and 60 years. Onset of symptoms outside this range should cause suspicion of disease other than MS. Seventy percent of patients with MS develop their symptoms between ages 21 and 40 years; 12% develop symptoms between ages 16 and 20; 13% develop symptoms between ages 41 and 50.
+
+【12】Research studies reveal that the risk of MS is increased in individuals born or living in temperate zones, but that people born or migrating to low-risk areas (ie, non temperate zones) prior to 15 years of age have decreased risk. This suggests that exposure to some factor prior to age 15 is important in the genesis of MS. Migration, ethnic, and twin studies suggest that MS is related to genetic as well as environmental factors. If one member of an identical twin pair has MS, there is a 30% chance the other twin will have MS. Siblings of MS patients have a 2.6% risk of MS, parents 1.8%, and children 1.5%.
+
+【13】##### Etiopathogenesis
+
+【14】MS is restricted to the CNS and spares the peripheral nervous system from injury. The pathologic hallmark of MS is focal demyelination within the brain and spinal cord. In MS, discrete areas of damaged myelin, termed plaques, are embedded within normal-appearing tissue. Within each plaque, damaged myelin is associated with inflammatory infiltrates of lymphocytes and macrophages, antibody and complement deposition, activated microglia, and oligodendroglial cell loss. Because of this pathologic association with inflammation and demyelination, MS is considered an autoimmune disease. It is not known whether the immune response observed in MS plaques is a primary process or secondarily caused by other etiologies, such as infectious, toxic, or metabolic injury. The resulting demyelination and subsequent degeneration of axons account for the disability of patients with MS. Early investigations indicated that disease progression was driven by CD4+ effecter cells infiltrating the blood–brain barrier and expressing proinflammatory cytokines that help to activate microglia and other immune cells. New areas of research in experimental autoimmune encephalomyelitis (the experimental model of MS) and human MS have identified previously unknown contributions to diseases pathogenesis, including interleukin-17 producing T helper 17 cells, B cells, CD8+ T cells, and both CD4+ and CD8+ T-regulatory cells. Research into the respective mechanisms of action of these cells has identified novel therapeutic targets to combat this devastating disease.
+
+【15】#### CLINICAL COURSE
+
+【16】There are different clinical patterns or types of MS:
+
+【17】1\. Benign, comprising approximately 20% of cases , is the least severe type of MS. It includes a few, mild early attacks with complete clearing of symptoms. There is minimal or no disability in this condition.
+
+【18】2\. Relapsing–remitting MS, accounting for approximately 25% of cases , is characterized by sudden onset (over hours or days) of neurologic symptoms that usually last several weeks and then resolve, often leaving few or no deficits. The frequencies of these relapses are highly variable but averages about one in every 2 years. Some degree of disability is usually present.
+
+【19】3\. Secondary progressive, comprising approximately 40% of diagnosed cases , is characterized by an initial relapsing–remitting course followed by increasing attacks, with fewer and less complete remissions after each attack. The MS can continue to worsen for many years and then level off with moderate-to-severe disability.
+
+【20】4\. Primary progressive, accounting for approximately 15% of cases , is the most disabling form of MS. The onset is quite severe, and the course is slowly progressive without any clearing of symptoms. Fortunately, it is the least common of the types of MS.
+
+【21】5\. Progressive relapsing is rare and is characterized by progressive disease punctuated by acute relapses.
+
+【22】6\. Clinically isolated syndrome is characterized by the first demyelinating event that is suggestive of MS. It places the patient at risk for further relapses. Some patients will go on to develop relapsing–remitting MS and suffer from multiple attacks, whereas others will have no further evidence of demyelinating disease. It is difficult to predict whether a given individual will develop MS following symptom onset; however, natural history studies show that risk of having a second attack after 14 years of follow-up is 88% if any lesions are present on the initial brain MRI and only 19% if the brain MRI is normal.
+
+【23】##### Clinical Features
+
+【24】The onset of MS symptoms usually occurs over several days and is seldom sudden. The initial symptoms often relate to motor dysfunction. Patients may complain of weakness in the legs and, less commonly, their arms. They may also complain of limb or foot drop, causing difficulty walking, or causing them to trip on sidewalks or curbs. Weakness and stiffness in MS can reflect compromise of the corticospinal tract, which can occur in 30% to 40% of the initial attacks of MS patients and is present in 60% of MS patients with chronic symptoms.
+
+【25】MS patients can also have sensory symptoms, such as tingling, pins and needle sensations, numbness, or a sensation of a band around the torso. Fifty to seventy percent of MS patients will have sensory complaints some time during their illness. Patients can also have cerebellar symptoms. Fifty percent of MS patients have cerebellar signs sometime during the course of their illness. These patients can have limb tremor, ataxia, scanning speech (ie, cerebellar dysarthria), and titubation of the head or trunk. Charcot’s triad, consisting of intention tremor, dysarthria, and nystagmus, is a well-recognized syndrome in MS but occurs rarely.
+
+【26】Optic neuritis and retrobulbar neuritis , both of which can cause blurred vision, scotomas, and decreased color perception, can also occur in MS. Optic neuritis is the presenting symptom in 14% to 23% of patients with MS. Diplopia, exhibited in 12% to 22% of patients, is generally a result of brainstem compromise. Trigeminal neuralgia, also caused by brainstem compromise, is characterized by very brief, severe, lancinating maxillary or mandibular pains, and occurs in 1% of MS patients. Trigeminal neuralgia can be due to causes other than MS, but when these symptoms occur in a young adult, MS should be highly suspected.
+
+【27】Another brainstem-related symptom is facial myokymia , a wormlike movement of muscles that the patient feels but is difficult for an observer to see. This frequently involves the orbicularis oculi muscles. Vertigo occurs in 14% of MS patients and can be associated with diplopia, also caused by brainstem compromise.
+
+【28】Patients with MS may complain of sensations of electricity running down their spine, sometimes extending into the limbs (Lhermitte sign). This symptom is often aggravated by flexing the cervical spine and should raise suspicion of MS or other compromise of the upper cervical spinal cord. Mood disorders, including depression, bipolar illness, and dysphoria occur in one-third to one-half of MS patients. There is disagreement whether these emotional/behavioral disturbances reflect the primary process of MS or the patient’s reaction to his or her disease, or both. Regardless, these symptoms need to be addressed and appropriately treated. MS patients can experience sudden and transient neurologic deterioration if their body temperature is elevated. This can occur with fever, increased physical exertion, or taking a hot bath.
+
+【29】#### DIAGNOSIS
+
+【30】The criteria for diagnosing MS is constantly changing, in part because of increasingly sophisticated brain imaging and immunologic investigations. Although the diagnosis of MS relies on recognition of clinical pattern of disease, several laboratory studies are useful in confirming the diagnosis. Briefly, if a patient has symptoms reflecting two or more separate brain lesions over time, and this is confirmed on MRI brain imaging, MS should be suspected. MRI imaging of the brain and spinal cord, especially with gadolinium infusion, helps to diagnose MS. The brain MRI is abnormal in 95% to 99% of cases of Relapsing/Remitting MS. Typical MS lesions are bright lesions on T2-weighted imaging, especially in the corpus callosum and periventricular regions 删除33：<u></u>. These lesions are usually linear or ovoid and at right angles to the ventricular surface, which are named Dawson fingers after the Scottish pathologist who described similar findings at autopsy. MRI brain lesions larger than 5 mm or lesions inferior to the tentorium, especially in the cerebellar peduncle, help confirm the diagnosis of MS.
+
+【31】通用删除2(英):<u>删除3：<u>Figure 24–1 . T2-weighted MRI brain in multiple sclerosis. 删除10：<u>( Reproduced, with permission, from Kasper DL, et al . Harrison’s Principles of Internal Medicine, 16th ed. New York, NY: McGraw-Hill Publishers, 2004:2465 .)</u></u></u>
+
+【32】T1-weighted images are usually less sensitive in detecting demyelinating plaques than are T2-weighted images. Newer techniques of brain imaging, such as fluid-attenuated inversion recovery (FLAIR) provide increased sensitivity and specificity for MS white matter lesions. FLAIR images detect two to three times the number of lesions observed on T2-weighed images. N-acetylaspartate (NAA) also assists in detecting MS lesions. NAA, a marker for neuronal and axonal function, can be measured by magnetic resonance (MR) spectroscopy. NAA levels are decreased in MS plaques and can also be decreased in seemingly unaffected areas of white matter, suggesting axonal damage.
+
+【33】Analysis of CSF also helps in diagnosing MS . In cases where the MRI is normal or shows a pattern that is consistent with other disease processes, such as microvascular ischemia or infection, CSF analysis is indicated. CSF is abnormal in 85% to 90% of patients with MS. Elevated IgG index, presence of two or more oligoclonal bands, and increased myelin basic protein support the diagnosis. Oligoclonal bands occur in more than 90% of patients with MS, but they also occur in 30% of CNS inflammatory and infectious disease patients, and in 5% to 10% of other noninflammatory neurologic diseases. Presence of oligoclonal bands in CSF or increased IgG synthesis rate is not specific for MS and by themselves do not diagnose MS. MS is a clinical diagnosis that can be supported by brain imaging and CSF investigations. Increased CSF white cells can be seen in MS; however, CSF leukocyte counts greater than 50 mm <sup class="calibre11">3 </sup> of CSF are rare in MS and should prompt the physician to consider other diagnoses.
+
+【34】Electrophysiological studies of the visual pathways and spinal cord dorsal columns are sometimes useful in documenting involvement of these pathways when imaging studies or physical findings do not support the clinical impression. Visual-evoked responses, in which a patient views repeated reversal of light and dark checkerboard stimuli while a computer averages scalp electrode potentials, is useful in evaluating patients for MS. Prolongation of the P100 wave occurs in more than 75% of MS patients. This disturbance reflects compromise of the pathway between the optic nerve and the brain.
+
+【35】The differential diagnosis of MS is broad . Many different conditions can mimic MS because of primary or secondary demyelination of CNS pathways. However, the clinical history, physical examination, and diagnostic studies are fundamental in distinguishing these conditions from MS.
+删除4：<u>Table 24–1 • DIFFERENTIAL DIAGNOSIS OF MULTIPLE SCLEROSIS</u>
+
+【36】#### TREATMENT
+
+【37】Treatment of patients with MS needs to be individualized for each specific patient, depending on particular problems and needs. The treatment should be focused on the disease itself and on associated symptoms.
+
+【38】The primary treatment can consist of intravenous steroids , primarily employed during acute attacks. Steroids have not been shown to decrease the risk of future attacks , or change the natural history of disease, but are indicated to hasten recovery from the acute attack. Immunomodulating agents or disease-modifying therapies can be used to modify the course of MS, and thus are used on a chronic, ongoing basis. These include interferon β-1a (Avonex, Rebif), interferon β-1b (Betaseron), a synthetic polypeptide of myelin basic protein, glatiramer acetate (Copaxone), monoclonal antibody Natalizumab (Tysabri) , which prevents autoreactive T-cells from crossing the blood–brain barrier, and Gilenya (Fingolimod) , a structural analogue of sphingosine, which targets receptors for sphingosine-1-phosphate and hinder the migration of lymphocytes from secondary lymphoid organs to the periphery.
+
+【39】Interferons may work by altering T cells and sealing the blood–brain barrier against their entry into the CNS while Copaxone may prevent activation and differentiation of myelin-targeting T cells. Interferons are injected subcutaneously or intramuscularly and are usually well tolerated. Common side effects include flu-like symptoms and injection-site reactions. Copaxone is injected subcutaneously and side effects include a lump at the injection site, fever, chills, and aches, which subside within 30 minutes. Tysabri is administered intravenously every 28 days. The most serious adverse effect reported with Tysabri is an opportunistic viral infection causing progressive multifocal leukoencephalopathy (PML).
+
+【40】Fingolimod is the first oral disease-modifying drug approved by the Food and Drug Administration (FDA) for selected patients with highly active, relapsing–remitting MS. In limited clinical trials, Fingolimod was generally safe and well tolerated. However, further clinical experience is required to fully determine the long-term safety profile of fingolimod, particularly with regard to any potentially serious or life-threatening adverse events.
+
+【41】These agents can impact the relapse rate, slow progression of disability and prevent the accumulation or burden of MRI lesions. Moreover, two formulations of interferon-beta delayed conversion into clinically definite MS in patients with clinically isolated syndromes suggestive of MS. Since axonal damage leading to irreversible neurologic disability is already present early at the onset of the disease, immunomodulatory therapy should start as soon as possible.
+
+【42】Vitamin D insufficiency has been shown to be associated with increased susceptibility to MS, but until recently, it was unclear if vitamin D status also influences the prognosis of the disease. In experimental autoimmune encephalomyelitis, a mouse model of MS, the administration of vitamin D reduces the severity of the disease. More recently, studies of pediatric-onset and adult MS have demonstrated that among those with established MS, those with lower vitamin D levels are at higher risk for subsequent relapse. These observational data provide strong support for randomized controlled trials of vitamin D supplementation in MS.
+
+【43】Intravenous Mitoxantrone (Novantrone) , an antineoplastic immunomodulatory agent, also has been shown to improve neurologic disability and delayed progression of MS in patients with worsening relapsing–remitting or secondary progressive disease; however, its therapeutic role has been limited due to its cardiotoxicity and myelosuppressive effect. Other immunosuppressive agents, including cyclophosphamide, methotrexate, rituximab and cyclosporine, have been shown to be of clinical benefit in patients with worsening disease.
+
+【44】##### Symptomatic Therapy
+
+【45】Symptomatic therapy for MS can include physical and emotional rest, physical therapy, amantadine, or modafinil for fatigue, anticholinergic medication for bladder dysfunction, baclofen or tizanidine for spasticity, selective serotonin reuptake inhibitors (SSRIs) for mood disorders, and clonazepam or valproic acid for cerebellar tremor.
+
+【46】####苏锦恭
+
+====================================================================================================

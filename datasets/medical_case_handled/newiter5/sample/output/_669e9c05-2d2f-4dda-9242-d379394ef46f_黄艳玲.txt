@@ -1,0 +1,50 @@
+【0】Question: 39.1 A 65-year-old cigarette smoker with a history of hypertension and mild congestive heart failure presents to the emergency room with worsening cough, fever, and dyspnea at rest. The illness began 1 week ago with fever, muscle aches, abdominal pain, and diarrhea, with nonproductive cough developing later that week and rapidly becoming worse. Therapy for which of the following atypical organisms must be considered in this case?
+
+【1】A. Chlamydia pneumoniae
+
+【2】B. Mycoplasma pneumoniae
+
+【3】C. Legionella pneumophila
+
+【4】D. Coccidiomycosis
+
+【5】E. Aspergillus fumigatus
+
+【6】Answer: 39.1 C. Legionella typically presents with myalgias, abdominal pain, diarrhea, and severe pneumonia.
+
+【7】Question: 39.2 An 85-year-old nursing home resident with a history of congestive heart failure has dementia such that she requires assistance in all activities of daily life. She has a 3-day history of fever and productive cough. Chest x-ray reveals a right middle lobe consolidation. Which of the following is the most appropriate initial antibiotic choice?
+
+【8】A. Oral amoxicillin
+
+【9】B. Intravenous linezolid
+
+【10】C. Intravenous cefepime
+
+【11】D. Oral azithromycin
+
+【12】Answer: 39.2 C. This nursing home resident would be considered to have a nosocomial rather than community-acquired infection, with a higher incidence of gramnegative infection. Her age and comorbid medical conditions place her at high risk, requiring hospitalization for intravenous antibiotics such as a third-generation cephalosporin.
+
+【13】Question: 39.3 A 56-year-old man is brought into the emergency room intoxicated with alcohol. He has repeated bouts of emesis and is found choking. Lung examination reveals some crackles in the right lung base. Which of the following is the most appropriate management?
+
+【14】A. Initiate azithromycin.
+
+【15】B. Initiate corticosteroid therapy.
+
+【16】C. Initiate haloperidol therapy.
+
+【17】D. Observation with follow-up chest radiograph.
+Answer: 39.3 D. Antibiotic therapy is generally not indicated for aspiration pneumonitis, but patients need to be observed for clinical deterioration.
+
+【18】CLINICAL PEARLS
+
+【19】 It is difficult to reliably distinguish clinically between typical and atypical causes of pneumonia. Therefore, diagnosis and empiric treatment of pneumonia are based upon the setting in which it was acquired (community-acquired or health-care associated) and the immune status of the host.
+
+【20】 Clinical criteria, such as patient age, vital signs, mental status, and renal function, can be used to risk stratify patients with pneumonia to decide who can be treated as an outpatient and who requires hospitalization.
+
+【21】 Although initial antibiotic therapy is empiric, the etiologic agent frequently can be identified based on chest radiography, blood cultures, or sputum Gram stain and culture.
+
+【22】 Aspiration pneumonitis is a noninfectious chemical burn caused by inhalation of acidic gastric contents in patients with a decreased level of consciousness, such as seizure or overdose.
+
+【23】 Aspiration pneumonia is pulmonary infection caused by aspiration of colonized oropharyngeal secretions and is seen in patients with impaired swallowing, such as stroke victims.黄艳玲
+
+====================================================================================================

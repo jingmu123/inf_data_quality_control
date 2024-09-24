@@ -1,0 +1,144 @@
+【0】221 ANAEMIA
+
+【1】PATIENT1
+
+【2】INSTRUCTION
+
+【3】Would you like to ask this anaemic patient a few questions?
+
+【4】SALIENT FEATURES
+
+【5】History
+
+【6】●Ask about the following：
+
+【7】●Blood loss such as bleeding per rectum， melaena， haematemesis
+
+【8】●Menstrual blood loss： duration of periods， the occurrence of clots and the number of sanitary towels or tampons used
+
+【9】· Drug history： NSAIDs， phenytoin， chloramphenicol
+
+【10】●Associated symptoms such as weight loss， shortness of breath， chronic diarrhoea
+
+【11】Diet： in vegans， alcoholics， elderly patients
+
+【12】Past history of gastrectomy
+
+【13】Family history.
+
+【14】DIAGNOSIS
+
+【15】This patient's anaemia is caused by severe melaena， which indicates bleeding in the upper GI tract and is probably the result of peptic ulcer or bleeding varices (aetiology). The patient isScurrently receiving a blood transfusion， indicating that the anaemia was severe (functional status).
+
+【16】PATIENT 2INSTRUCTION
+
+【17】Would you like to examine this anaemic patient?
+
+【18】SALIENT FEATURES
+
+【19】Examination
+
+【20】Examine：
+
+【21】· nails for koilonychia or iron-deficiency anaemia and (rarely) for club-bing of infective endocarditis
+tongue for pallor， atrophic glossitis and angular stomatitis of vitamin B12 deficiency 删除38：<u>(</u>mouth for angular stomatitis of severe malnutrition and ulcers of neutropenia
+●lymph nodes in the neck， axillae and groin (secondaries， lymphopro-liferative disorders)
+
+【22】●：skin for bruising associated with bone marrow depression， seen in leukaemia and aplastic anaemia 删除换行1 abdomen for hepatomegaly， splenomegaly and other masses 删除换行1 legs for ulcers seen in haemoglobinopathies.
+
+【23】● Comment on the pallor of the face and conjunctiva， looking for the lemon-yellow hue of pernicious anaemia.
+
+【24】Comment on the ethnic origin (thalassaemia).
+
+【25】Tell the examiner that you would like to：
+
+【26】· do a rectal examination and inspect the stool for occult blood
+
+【27】· do an FBC including a peripheral smear and ESR.
+
+【28】DIAGNOSIS
+
+【29】This patient has koilonychia and anaemia indicating an iron-deficiency anaemia. I would like to exclude a GI cause for the blood loss(aetiology).
+
+【30】QUESTIONS
+
+【31】Mention a few causes of anaemia
+
+【32】●With a low mean corpuscular volume (MCV)：
+
+【33】● Iron-deficiency anaemia
+
+【34】Thalassaemia
+
+【35】●Sideroblastic anaemia.
+
+【36】●With a high MCV：
+
+【37】●Vitamin Bi2 deficiency： perniciouss anaemia。 vegans， alcoholics， coeliac disease
+
+【38】●Folate deficiency： pregnancy， phenytoin， sprue， coeliac disease， malignancy， haemoly gdsis
+
+【39】●Other： myxoedema， liver disease， alcoholics.
+
+【40】With a normal MCV：
+
+【41】Uraemia
+
+【42】Malignancy
+
+【43】Rheumatoid arthritis
+
+【44】Aplastic anaemia： myelofibrosis， chloramphenicol， phenylbutazone， gold， anticancer drugs.
+
+【45】What do you know about the Paterson-Kelly syndrome?
+
+【46】It comprises iron-deficiency anaemia and dysphagia from oesophageal webs in middle-aged women. The clinical significance of this syndrome is uncertain. It is also known as Plummer-Vinson syndrome.
+
+【47】What are the common causes of iron-deficiency anaemia?
+
+【48】Occult GI bleeding from the following：
+
+【49】●Peptic ulcer
+
+【50】Carcinoma located anywhere in the GI tract
+
+【51】Excessive anticoagulation
+
+【52】Hereditary haemorrhagic telangiectasia
+
+【53】Angiodysplasia of the colon.
+
+【54】How would you investigate microcytic anaemia?
+
+【55】●FBC
+
+【56】Serum ferritin
+
+【57】● Faecal occult blood
+
+【58】Upper GI endoscopy
+
+【59】●Barium enema， colonoscopy
+
+【60】●International normalized ratio (INR)， prothrombin time and platelet count
+
+【61】●Haemoglobin electrophoresis in susceptible ethnic groups (Asians， Afro-Caribbeans).
+
+【62】How would you investigate macrocytic anaemia?
+
+【63】● Peripheral smear
+
+【64】Vitamin Bi2 and red-cell folate and serum folate concentrations
+
+【65】Serum ferritin， plasma iron and total iron-binding capacity (for associ-ated iron deficiency)
+
+【66】●Schilling test
+
+【67】●Gastric parietal cell and intrinsic factor antibodies
+
+【68】·Upper GI endoscopy
+
+【69】●Reticulocyte count 删除38：<u>(</u>a high MCV could be present when the reticulocyte count is >50%
+● Bone marrow examination.王磊
+
+====================================================================================================

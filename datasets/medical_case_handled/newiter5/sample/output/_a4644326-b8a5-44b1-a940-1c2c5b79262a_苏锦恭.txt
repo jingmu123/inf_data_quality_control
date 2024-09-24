@@ -1,0 +1,48 @@
+【0】Question: 13.1 A 16-year-old girl presents to your office without her parents. She reports that she had recently had unprotected sex with her boyfriend. She is concerned she may have gonorrhea. She does not want her parents to know that she is requesting sexually transmitted infection screening because “they will kick me out of the house if they knew.” What is your obligation to her in most states in regard to patient confidentiality?
+
+【1】A. You are unable to perform any testing without permission from her parents because she is a minor.
+
+【2】B. You perform the sexually transmitted infection testing due to the duty to warn (as she may be spreading gonorrhea to other partners).
+
+【3】C. You perform the sexually transmitted infection testing due to exceptions of the duty to inform legal guardians in the care of a minor.
+
+【4】Answer: 13.1 C. Most states allow for adolescents to be screened for sexually transmitted infections without the consent of their legal guardians. This exception is to encourage adolescents to be screened for sexually transmitted infections.
+
+【5】Question: 13.2 You are a psychiatrist and one of your patients was recently fired from his job. At your last visit, you were concerned about his mental stability. During previous visits, you have established that your patient is an avid hunter and has easy access to a gun. In the mail today, you find a letter where he describes a detailed plan to kill his former boss along with himself. You believe the threat is credible and the former boss is at risk. What is your obligation in regard to patient confidentiality?
+
+【6】A. You contact the authorities immediately as you believe the threat is credible, and the duty to warn supersedes patient confidentiality in this situation.
+
+【7】B. You are upset but unable to contact the authorities because there is no situation that warrants breaking patient confidentiality.
+
+【8】C. You call the patient to have him come in to discuss his current mental status.
+
+【9】Answer: 13.2 A. The duty to warn has been established in cases where there is a possibility of serious harm to a nonpatient. As long as you feel the threat to a nonpatient is credible, it is your duty to contact the authorities or the possible victim.
+
+【10】Question: 13.3 A 38-year-old man presents to your clinic. He is a long-distance truck driver. He admits that he abuses alcohol and typically drinks at least 6 beers a day. He reports that he experiences withdrawal symptoms if he does not drink. You are concerned about his safety because he is frequently driving his truck while under the influence. What is you obligation in regard to patient confidentiality?
+
+【11】A. You develop a plan to treat him for alcoholism and advise him that it is against the law to drive a motor vehicle under the influence.
+
+【12】B. You develop a plan to treat him for alcoholism and advise him that it is against the law to drive a motor vehicle under the influence. You also contact the authorities to report that he is not able to safely operate a motorized vehicle in his current medical condition.
+
+【13】C. You develop a plan to treat him for alcoholism and advise him that it is against the law to drive a motor vehicle under the influence. You also contact his wife to let her know that he is not able to safely operate a motorized vehicle in his current medical condition.
+
+【14】Answer: 13.3 B. Most states have laws requiring or allowing the report of patients who are unable to safely operate a motorized vehicle. Until this patient’s alcoholic dependence is adequately treated, he is not able to safely operate a motorized vehicle and the proper authorities should be notified.
+
+【15】Question: 13.4 A 26-year-old woman presents to your office with complaints of hand pain that she attributes to an injury that occurred at her work while operating a machine. Radiographs are obtained, and a care plan is developed. A representative from her place of employment contacts your office a few days after the visit. Your patient has filed a workers’ compensation claim due to the hand injury. The representative would like copies of your office visit and radiologic findings. What is your obligation to your patient in regard to patient confidentiality?
+
+【16】A. You inform the representative from her place of employment that you are unable to give any copies of her medical record because doing so violates her confidentiality.
+
+【17】B. You inform the representative that you are going to fax her entire medical record today.
+
+【18】C. You inform the representative that you are going to fax only the portions of the medical record relevant to the hand injury.
+Answer: 13.4 C. Under the HIPAA Privacy Rule, medical records can be disclosed to process workers’ compensation claims. To protect your patient’s confidentiality, only medical records related to the claim should be disclosed.
+
+【19】KEY POINTS
+
+【20】 The physician–patient relationship must be protected by protecting patient confidentiality.
+
+【21】 The legal implications of patient confidentiality have been established by common law, state law, and federal law including under the HIPAA federal regulations.
+
+【22】 There are exceptions to patient confidentiality that include the duty to warn, the duty to report reportable conditions, and the duty to inform legal guardians of the care of minors.苏锦恭
+
+====================================================================================================

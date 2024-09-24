@@ -1,0 +1,115 @@
+【0】Case 2.1 Hypersensitivity masquerading as sepsis
+
+【1】A 57-year-old Caucasian male was seen in the emergency department (ED) late on 6/9/15 with fever， chills， fatigue， and body aches. His symptoms had started on that day， less than 12 hours before. His temperature at home was as high as 104°F. He was brought to the ED by his wife for further evaluation. An air-line pilot， he had flown in from the West Coast of the United States back home to the Gulf Coast of Mississippi that same day. Because of his history of interna-tional travel， the initial suspicion was for some exotic viral infection. The physical examination was in general unremarkable. He had no jaundice and no rash.
+
+【2】His initial labs showed a WBC of 2.8， H/H 14.3 and 43.7， respectively. MCV was normal at 87.5， but platelet count was low at 86，000. The comprehensive metabolic profile， including liver tests and renal function tests， was unremark-able.
+
+【3】The past history was significant for the following： known aortic stenosis with systolic murmur， allergic rhinitis， and various surgical procedures that included colonoscopy x3， left Achilles tendon repair， left upper jaw dental implant， ton-sillectomy and appendectomy in childhood， as well as right orchiectomy for seminoma in 1978， treated and cured following radiation therapy. He had allergy to penicillin： rash， noted in childhood years.
+
+【4】The family and epidemiologic history were significant for the following： a pilot with an international airline， he was married and had two grown daughters in their late 20s. He did not smoke or drink. No member of the family was ill. For the last 2-3 years he had been flying from a US city to Lagos， Nigeria， typically weekly， 3-4 times a month. These weekly flights are non-stop and he would stay overnight in Nigeria， at an international hotel with air conditioning， and would leave the next day on the trip back to the US. He left on 5/27/15 from Lagos on his last trip back home， 12 days before the ED visit.
+
+【5】· What differential diagnoses would you contemplate in this patient?
+
+【6】He was required to take malaria prophylaxis， and had been prescribed daily atovaquone-proguanil. However， he admitted taking the last dose of this drug I year earlier， in June 2014.
+
+【7】Following initial evaluation， blood cultures ×2 were done， along with other labs， including malaria smears， thick and thin smears by Giemsa stain.
+
+【8】A presumptive diagnosis of malaria was made and the patient was prescribed an antimalarial agent. Fortunately， he already had some atovaquone-proguanil at home， left over from his previous prescription for prophylaxis. Although he was clinically stable， it was important to start antimalarial therapy as soon as possible. Typically， antimalarial drugs are not usually available on demand at the local pharmacies. However， he was able to start his antimalarial therapy within a few hours of leaving the ED. He was prescribed 3 days of four tablets of atovaquone-proguanil daily， which he completed. He started feeling much better within 24-48 hours of starting the medication.
+
+【9】I spoke with the ED physician and the patient's primary care physician later， and with the patient， to confirm that he was doing well. I reviewed the Giemsa malaria smears (thin smears) shown in Figs 5.3a and 5.3b. The smears show the ring forms (early trophozoites) in normal-sized RB’s， as well as two ring form trophozoites in a single RBC.
+
+【10】We requested follow-up malaria smears， to document clearance of the para-sitemia.
+
+【11】One week later， the patient was off on vacation with his family， already back to his baseline healthy status.
+
+【12】删除3：<u>Figure 5.3a A. Peripheral blood malaria stain (Giemsa， thin smear) done on 6/9/15 showing intracellular ring forms in normal-sized red cells. B. Segmented PMN noted for size comparison. </u>
+
+【13】删除3：<u>Figure 5.3b Peripheral blood malaria stain (Giemsa， thin smear)， 6/9/15， showing intracellular ring forms in normal-sized red cells. One RBC had two ring forms， suggesting P. falciparum.</u>
+
+【14】Follow-up visit and post-treatment course
+
+【15】The peripheral smears were reviewed later， confirming the result as compatible with malaria， likely falciparum malaria， especially with two ring forms in a single normal-sized RBC.
+
+【16】The follow-up Giemsa smear done 6 days later on 6/15/15 (before his vaca-tion trip) showed no malaria parasites. The platelet count had recovered back to normal at 202，000. The WBC was 4.4 (up from 2.8). The comprehensive metabolic profile was still normal， including the liver and renal function tests.
+
+【17】He was seen 3 weeks later in the office on 7/2/15 for a scheduled follow-up visit. He was completely asymptomatic. He admitted that he had not taken the prescribed prophylaxis for malaria. There had been no unusual exposures that he was aware of， including to mosquitoes， but he did spend some brief time in Nigeria outside his air-conditioned hotel room.
+
+【18】His physical exam was generally unremarkable， except for a systolic ejection murmur， grade 3/6， consistent with the known aortic stenosis. He was well-built and fit. He had no jaundice and no rash. His neurologic exam was normal.
+
+【19】Results of the Plasmodium species PCR test (done at a reference laboratory) were received just before the scheduled office visit. The test confirmed that P fal-ciparum was positive， while the test was negative for the other species： P. knowlesi， P. malariae， P. ovale， and P. vivax. This was compatible with the clinical impression and the Giemsa thin smear findings previously described.
+
+【20】We did not order a G6PD test on the patient and he did not receive any additional therapy， such as primaquine， because for P. falciparum， the atovaquone-proguanil therapy was adequate， with no need for a "radical cure"of the liver phase infection.
+
+【21】·Final diagnosis： Uncomplicated P. falciparum malaria.
+
+【22】The patient had appropriate antimalarial therapy， and responded as expected. He did not require admission to the hospital.
+Comparison of the characteristics of five patients with malaria seen between 1998 and 2015 删除换行5 Table 5.3a is a comparison of the characteristics of five patients with malaria seen between 1998 and 2015.
+
+【23】Case discussion
+
+【24】All five patients presented here had high fever (maximum temperature above103°F) with chills， in association with head and body aches. They were all rela-tively young people who had undertaken recent travel， except for case #2， who had left the region of infection acquisition 8-9 months earlier. He did not com-plete his malaria prophylaxis appropriately. In fact， two of these five patients did not take any antimalarial medication at all (patients #1 and #4)， while patients #2and #3 took the prescribed prophylactic antimalarial medication inappropriately or incompletely. Case #5 was an airline pilot who did frequent trips to Nigeria， in West Africa. He had not taken any antimalarial prophylaxis since June 2014， for I year before the onset of his febrile illness with malaria.
+
+【25】Plasmodium falciparum was found in the two patients who acquired their infec-tion from Central America or the Caribbean， while two of those acquiring their infection from West-Central Africa likely had non-falciparum malaria. All of these patients recovered without sequelae， and responded appropriately to antimalar-ial medication. Thrombocytopenia resolved rapidly in all five patients within a few days to 1 week of starting appropriate antimalarial medication.
+
+【26】All five cases of malaria were considered imported into the United States， while two of three cases acquired from Africa were both imported and possibly relapsing or recrudescent. Case #5 was uncomplicated acute acquired P. falci-parum malaria， imported from West Africa. This patient had not taken the pre-scribed atovaquone-proguanil in I year.
+
+【27】The patient seen in 2006 (case #4) acquired her malaria while vacationing in the Dominican Republic， and became ill after return to the USA. Her illness was complicated by iatrogenic septic thrombophlebitis (methicillin-resistant Staph. aureus positive blood culture 4 days after admission) related to contaminated
+
+【28】Table 5.3a Comparison of five cases of malaria seen between 1998 and 2015
+
+| Characteristic  | Case 1 (Case 5.1)  | Case 2 (Case 5.2)  | Case 3  | Case 4  | Case 5 (Case 5.3)  |
+| --- | --- | --- | --- | --- | --- |
+| Dates ot  | 10/28-11/2/98  | 5/15-5/17/99  | 5/3-5/8/01  | 4/23-4/29/06  | 6/9/15  |
+| hospitalization  | (5 days)  | (2 days)  | (5 days)  | (6 days)  | (0 day)： seen in  |
+| (days)  |  |  |  |  | ED only  |
+| Age (years)/sex  | 15/male  | 23/male  | 43/male  | 39/female  | 57/male  |
+| Major symptoms  | Fever， chills， rigors， dry  | Nausea， vomiting，  | Splitting headache，  | Fever， chills， head and  | Fever， chills，  |
+|  | cough， headache  | fever， chills， sweats，  | fever， chills， rigors，  | body aches； some  | fatigue， body aches  |
+|  |  | head and body ache  | body aches， dry cough  | nausea， fatigue， and  |  |
+|  |  |  |  | malaise  |  |
+| Duration of symptoms  | 6 days  | 6 days  | 2-3 weeks?  | 2-3 days  | One day  |
+| before admission  |  |  |  |  |  |
+| Max. temperature  | 104.4  | 103.5  | 104.5  | 103.2  | 103.7  |
+| recorded (F)  |  |  |  |  |  |
+| Lowest platelet count  | 31，000  | 32，000  | 96，000  | 22，000  | 86，000  |
+| notec  |  |  |  |  |  |
+| Region where  | Central America  | West-Central Africa  | West-Central Africa  | Caribbean (Dominican  | Nigeria， West Africa  | 删除换行3 | infection was acquirec  |  |  |  | Republic)  |  |
+| Time from  | 13-19 days  | Probably 8-9 months  | 2-4 weeks  | 18 days (2-3 weeks)  | 2-4 weeks  |
+| presumptive exposure  | (2-3 weeks)  |  |  |  |  |
+| to illness onset  |  |  |  |  |  |
+| (estimate)  |  |  |  |  |  |
+
+【30】Table 5.3a (Continued)
+
+| Characteristic  | Case 1 (Case 5.1)  | Case 2 (Case 5.2)  | Case 3  | Case 4  | Case 5 (Case 5.3)  |
+| --- | --- | --- | --- | --- | --- |
+| Plasmodium sp.  | P falciparum  | Non-falciparum  | Likely non-falciparum  | P. falciparum  | P falciparum  |
+| incriminated  |  |  |  |  |  |
+| Chemoprophylaxis  | None  | Inconsistent or  | Inconsistent or  | None  | None  |
+| taken  |  | incomplete  | sporadic  |  |  |
+| Mode of acquisition  | Imported  | Imported or relapsing  | Imported/relapsing/or  | Imported  | Imported  |
+|  |  |  | recrudescent  |  |  |
+| Outcome/treatment  | Survived/chloroquine  | Survived/quinine and  | Survived/quinine and  | Survived/chloroquine  | Survived/  |
+|  |  | doxycycline  | doxycycline  |  | atovaquone-proguanil  |
+| Other comments  | Patient responded  | Because the  | A merchant marine：  | Her illness was  | Malaria was  |
+|  | rapidly to Rx.  | Plasmodium species  | made several trips to  | complicated with  | uncomplicated. He  |
+|  | Chloroquine therapy  | was uncertain， he  | malarious areas over  | thrombophlebitis 4  | cleared the  |
+|  | was adequate  | received additional  | vears. Also received  | days after admission  | parasitemia rapidly.  |
+|  | because P falciparum  | therapy with  | additional therapy  | (+ BC for MRSA)，  | There was no need for  |
+|  | was confirmed， and  | primaquine  | with primaquine  | requiring additional Rx  | G6PD test or use ot  |
+|  | there was no  |  |  |  | primaquine  |
+|  | chloroquine resistance  |  |  |  |  |
+
+【32】in the region
+
+【33】BC， blood culture； ED， emergency department； G6PD， glucose-6-phosphate dehydrogenase； MRSA， methicillin-resistant Staph. aureus.
+
+【34】删除3：<u>Figure 5.4a Nineteen cases of malaria， including four among travelers， were reported as acquired on the island of Great Exuma in the Bahamas in May-June 2006. Source： 删除9：<u>www.cdc.gov/mmwr/preview/mmwrhtml/mm5537al.htm，</u> accessed February 26， 2016.</u>
+
+【35】percutaneous venous access. This complication prolonged her period of fever， even after appropriate chloroquine therapy. She made a complete recovery.
+
+【36】In 2006， malaria (P. falciparum) was confirmed in travelers to Great Exuma， Bahamas， and Kingston， Jamaica， areas where malaria transmission typically did not occur 通用删除6(英):<u>\[1\]</u>. Our 2006 patient (case #4) was in the region (Dominican Republic) vacationing during that same time period 删除33：<u></u>. P falciparum causes 99% of malaria in Hispaniola (Haiti and Dominican Republic)， and has remained sensi-tive to chloroquine 通用删除6(英):<u>\[1\]</u>.
+
+【37】Only two of three patients who acquired their malaria in Africa were given primaquine， an agent that is active against P. vivax and P. ovale， species that have exoerythrocytic or liver stages of the Plasmodium life cycle 通用删除6(英):<u>\[2\]</u>. This 14-day treat-ment， typically given after eradication of the blood parasite， is designed to clear the liver phases of the parasite， and is considered a "radical cure" treatment. This treatment is designed to prevent a relapse of malaria months later， as may have occurred in our patient #2， who became ill with malaria 8-9 months after return to the United States. The patient who had P. falciparum malaria (case #5) did not need or require primaquine treatment after treatment of the acute malaria删除33：<u></u>.王磊
+
+====================================================================================================

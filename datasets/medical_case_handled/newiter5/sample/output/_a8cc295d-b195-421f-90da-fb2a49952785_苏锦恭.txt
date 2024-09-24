@@ -1,0 +1,20 @@
+【0】CASE 20
+
+【1】A 60-year-old man with a 30-year smoking history presents to his physician with complaints of cough， fatigue， and a recent 9.1-kg (20-lb) weight loss. X-ray of the chest reveals a 2-cm hilar mass that is identified on biopsy as small cell lung cancer. On physical examination， the patient has some cachexia
+
+| A 60-year-old man with a 30-year smoking history presents to his physician with complaints of cough，fatigue， and a recent 9.1-kg (20-lb) weight loss. X-ray of the chest reveals a 2-cm hilar mass that isidentified on biopsy as small cell lung cancer. On physical examination， the patient has some cachexiabut normal skin turgor， no edema or jugular venous distention， and no orthostatic hypotension. Relevant laboratory findings are as follows： Serum： Urine： Sodium： 128 mEg/L Sodium： Normal Potassium： 4 mEg/L Osmolality： 610 mOsm/kg H，O Blood urea nitrogen (BUN)： 8 mg/dL Glucose： 90 mg/dL  |
+| --- |
+| What is the most likely diagnosis?Hyponatremia.  |
+| How is the etiology of this condition determined? Volume status is assessed first. Although sodium loss can cause hyponatremia， excessive retention of wateris usually the cause. A thorough history and pfelhysical examination can help correlate the patient's volumestatus to a cause of hyponatremia， and laboratory values can be used to confirm volume status. The causeof fluid loss can be determined by history (eg， vomiting， diuretics， diarrhea) and physical findings of lowvolume (eg， decreased skin turgor， low jugular venous pressure). Signs of excessive fluid retention includeperipheral edema.  |
+| What laboratory findings can help determine a patient's volume status?Serum and urine osmolarity and sodium concentration can help confirm a patient's volume status. Mosthyponatremic patients have a decreased serum osmolarity； however， renal failure and hyperglycemia aretwo important causes of hyponatremia that accompany normal or increased serum osmolarity.In patients with low plasma osmolarity， urine osmolarity can differentiate primary polydipsia (low/normal urine osmolarity) from impaired water excretion (high urine osmolarity， as in the majority of patients). In patients with hypo-osmolar serum and hyperosmolar urine， urinary sodium can then distinguish betweenhyponatremia caused by circulating volume depletion (eg， from heart failure， cirrhosis， hypovolemia leadingto decreased urinary sodium) and euvolemic hyponatremia (eg， syndrome of inappropriate secretion ofantidiuretic hormone \[SIADH\] leading to normal urinary sodium).  |
+| In this case， what is the most likely etiology of the patient's volume status?This patient's small cell lung tumor raises the likelihood of SIADH (a paraneoplastic syndrome for small celllung cancer). Physical findings and lab values are also consistent with SIADH.  |
+| What are the major causes of this condition? ·Ectopic ADH production by a tumor， particularly · A wide range of drugs. small cell (oat cell) carcinoma of the lung. Major surgery， pain. Intracranial pathology， such as trauma， stroke， HlV infection. tumors， or infection. ●SIADH may also be idiopathic.  |
+| What is the mechanism of action of ADH? ADH is the main regulator of serum osmolality. ADH causes water channels (eg， aquaporin-2) of theprincipal cells of the kidney's collecting ducts to translocate to the cell membrane， thereby allowing morewater to be reabsorbed. Its release from the posterior pituitary is stimulated by hyperosmolarity and by decreased effective circulating volume.  |
+
+【3】decreased effective circulating volume.
+
+【4】What are the appropriate treatments for this condition?
+
+【5】Treatment consists of tumor resection. If evidence of SIADH persists or resection is not possible， treatment involves restriction of free water intake or use of hypertonic saline with loop diuretics or demeclocycline.苏锦恭
+
+====================================================================================================

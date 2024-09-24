@@ -1,0 +1,74 @@
+【0】##### CDMR from a public health perspective
+
+【1】In a world of finite resources, we might question the ethics ( distributive justice ) of promoting CDMR as a standard of care to endorse women’s autonomy when millions of citizens do not have access to even basic health coverage. If healthcare resources are diverted to increased Cesarean deliveries, theoretically such resources will not be available to others. Should individual women therefore bear financial responsibility for their CDMR just as they do for other “non-medically” indicated procedures such as cosmetic surgery? Limiting CDMR to women able to afford the extra cost of surgery, however, creates another inequality in healthcare access. How would this model take into account the percentage of women who ended up with an urgent, complicated, and costly unplanned Cesarean delivery after a failed trial of labor and delivery?
+
+【2】Finally, how do we anticipate the true cost of CDMR when most studies assessing such costs compare vaginal deliveries with all cesarean sections, including those with sicker women and/or babies? Taken to an extreme, if all women who wanted CDMR obtained it, the need for labor and delivery rooms, and the incidence of lengthy failed labors, urgent instrumental or cesarean deliveries would significantly decline, potentially being replaced by a less costly obstetrical practice. Although cesarean section without labor would seem to be more expensive than uncomplicated vaginal delivery, studies attempting to compare such costs are often methodologically flawed, involve few randomized trials, are plagued by inadequate power, and often omit important considerations including costs accruing to patients.
+
+【3】Other societal issues not directly related to costs include the medicalization of childbirth and a paradoxical transfer of power from women to the medical profession if CDMR becomes the norm.
+
+【4】##### CDMR from the anesthesiologist’s perspective
+
+【5】The anesthesiologist probably would not have been directly involved in the patient’s and obstetrician’s decisions regarding mode of delivery. However, one of the reasons cited by women choosing CDMR is fear of pain during labor and delivery, and adequate information and access to optimal labor analgesia may be crucial in shaping this discussion. Anesthesiologists are obliged to inform women that early neuraxial analgesia is safe and available. For women who fear loss of control, access to low-dose neuraxial labor analgesics with patient-controlled epidural analgesia (PCEA) may be one way to “avoid” a CDMR. Pain during and after Cesarean section is a major concern for women, and these issues also need to be addressed.
+
+【6】At minimum, the following information regarding general anesthesia should be discussed with Jane and Jim:
+
+【7】###### Maternal risks of general anesthesia
+
+【8】Anesthesia-related maternal mortality, though low, has been associated with difficult airway management and aspiration during induction of anesthesia and recovery.通用删除4(英):<u> <sup>12 </sup></u> However, these risks are clearly increased when patients are obese and surgery is unplanned and urgent, mitigating this concern when it is applied to elective surgery.
+
+【9】###### Risk of pain after Cesarean delivery
+
+【10】A woman who requests a general anesthetic to avoid all pain and discomfort during Cesarean section should be informed that the gold standard for post-Cesarean analgesia, neuraxial opioids, cannot be administered. The clear association of severe acute post-delivery pain, post-partum depression, and chronic pain must also be disclosed.
+
+【11】###### Risk of awareness during general anesthesia
+
+【12】Although the risk of awareness is low, this potentially traumatic and devastating outcome must be disclosed to women who are seeking the utmost comfort and stress-free experience when choosing a CDMR under general anesthesia.
+
+【13】###### Fetal risks of general anesthesia
+
+【14】A recent study in a cohort of very preterm infants comparing neonatal mortality after epidural, spinal and general anesthesia for cesarean reported no increased risk after general anesthesia when controlling for gestational age.通用删除4(英):<u> <sup>13 </sup></u> However, a large population-based study reported higher neonatal risks with general anesthesia even in scheduled cesarean sections.通用删除4(英):<u> <sup>14 </sup></u> Women therefore need to be informed that the risk for neonatal resuscitation and intubation are potentially higher after general anesthesia than after regional anesthesia.
+
+【15】Long-term effects of general anesthesia on the developing brain have been of growing concern,通用删除4(英):<u> <sup>15 </sup></u> but further studies are necessary before firm conclusions can be drawn regarding the adverse effect of short perinatal exposure to general anesthetics.
+
+【16】###### Alternative regional anesthesia
+
+【17】In order to make an informed choice the risks of alternatives, including regional anesthesia must also be discussed, including hypotension, inadequate anesthesia requiring conversion to general anesthesia, severe headache, nerve damage, epidural abscess or meningitis, epidural hematoma, and severe injury including paralysis. Benefits such as being awake to bond with the baby, and the opportunity for postoperative neuraxial analgesia should also be presented.
+
+【18】##### Can the anesthesiologist refuse to participate in CDMR?
+
+【19】Examples of refusal by physicians to provide anesthesia when it conflicts with their personal beliefs include abortions and care of Jehovah’s Witnesses undergoing scheduled surgery. The NICE guidelines give doctors the right to decline a request for a Cesarean section in the absence of an identifiable reason. However, Camman argues that unlike terminations of pregnancies or refusal of blood transfusion by Jehovah’s witnesses, elective Cesarean sections do not have a religious or moral component, since Cesarean section is an accepted medical intervention that does not intentionally result in harm or loss of life.通用删除4(英):<u> <sup>16 </sup></u> Refusal to provide anesthesia based on beneficence and nonmaleficence arguments are therefore stronger than those based on moral objection, although Gass, in a counter to Camman, has argued that there are moral grounds for refusal to participate in CDMR based on the utilitarian need to maximize societal benefit.
+Conscientious objections could be applied to any treatment where the doctor might have personal beliefs that conflict with the patient’s. But rights of physicians to invoke conscientious objection is limited by the (usually) overriding duties to provide patient care. In the UK, the General Medical Council has stated the following通用删除4(英):<u> <sup>18 </sup></u> :
+
+【20】> You must make the care of your patient your first concern .
+> 
+> You must treat your patients with respect, whatever their life choices and beliefs .
+> 
+> You must not unfairly discriminate against patients by allowing your personal views to affect adversely your professional relationship with them or the treatment you provide or arrange .
+> 
+> If carrying out a particular procedure or giving advice about it conflicts with your religious or moral beliefs, and this conflict might affect the treatment or advice you provide, you must explain this to the patient and tell them they have the right to see another doctor. You must be satisfied that the patient has sufficient information to enable them to exercise that right. If it is not practical for a patient to arrange to see another doctor, you must ensure that arrangements are made for another suitably qualified colleague to take over your role .
+> 
+> You must not express to your patients your personal beliefs, including political, religious or moral beliefs, in ways that exploit their vulnerability or that are likely to cause them distress .
+> 
+> 
+
+【21】With regards to the choice of anesthetic, there is no difference between CDMR and any other Cesarean section. It is generally accepted that regional anesthesia is safer and better than general anesthesia. However, there may be cases, such as when the parturient’s anxiety and fear are so great – even if irrational – that her interests are best served by undergoing a general anesthetic.
+
+【22】The authors would personally be agreeable to Jane and Jim’s request to perform a Cesarean section as soon as fetal lung maturity has been established (or at 39 weeks), preferably under regional anesthesia. When the desires of a pregnant woman are in conflict with usual medical indications for treatment or with the best interests of the baby, the following key points should be kept in mind:
+
+【23】#### Key points
+
+【24】• The principle of respect for patient autonomy supports a pregnant woman’s rights to refuse recommended medical treatments, even if such refusal may be detrimental to her or to her fetus. Physicians generally are ethically obliged to honor these rights.
+
+【25】• The obligations of physicians to accede to requests for nonrecommended treatments are less straight forward.
+
+【26】• Principles of beneficence and nonmaleficence require that consideration be given to the maternal benefits against the maternal harms, as well as benefits and harms for the fetus.
+
+【27】• When patients request unnecessary interventions, additional ethical considerations include issues of distributive justice (does CDMR divert healthcare resources away from more basic needs to fulfill the wishes of a few privileged persons, or does it have the potential to reduce health care costs overall by avoiding the costs of complications of more traditional care?).
+
+【28】• Some patient care situations allow physicians to withdraw out of conscientious objection based in personal religious or moral beliefs, but refusing to provide requested and accepted (albeit unnecessary) therapies are better supported by arguments using principles of beneficence and nonmaleficence.
+
+【29】• When a physician objects to providing medical services that are acceptable within the standard of care, they have obligations to transfer the care of such patients to a suitably qualified colleague who can provide such care.
+
+【30】####焦瀚远
+
+====================================================================================================

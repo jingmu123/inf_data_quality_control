@@ -1,0 +1,132 @@
+【0】Case 41: Abdominal Pain
+
+【1】History
+
+【2】A 44-year-old woman presents to her general practitioner (GP) complaining of pain in her  删除换行1 epigastrium radiating into her back. The pain developed 18 hours earlier and has become  删除换行1 progressively more severe. She has not eaten for the last 24 hours and has vomited altered  删除换行1 food and then fluid but no blood on 4 occasions. She has had some looseness of her bowel  删除换行1 motions.
+
+【3】She feels feverish and increasingly unwell. She has no pain on passing urine and no urinary  删除换行1 frequency. Her last menstrual period was 2 weeks ago.
+
+【4】She had similar but much milder pains lasting 2–3 days 3–4 months ago. She has no other  删除换行1 significant past medical history.
+
+【5】She smokes 15–20 cigarettes per day, drinks around half a bottle of wine each night. She has  删除换行1 not used any recreational drugs.
+
+【6】Examination
+
+【7】She looks unwell. Her temperature is 38.8°C. Her pulse rate is 110/min, and blood pressure  删除换行1 102/64mmHg. In the respiratory system there is some dullness to percussion at the left base.
+She is tender to palpation in the epigastrium and the centre of the abdomen. There is some  删除换行1 guarding, and rebound tenderness around the umbilicus. There is a suggestion of some skin  删除换行1 discolouration in the flanks. Bowel sounds are sparse. Rectal examination is normal; there is  删除换行1 some brown poorly formed stool on the examination glove.
+
+【8】INVESTIGATIONS
+
+【9】Normal
+
+【10】Haemoglobin 15.3g/dL 11.7–15.7g/dL
+
+【11】White cell count 15.2 × 109/L 3.5–11.0 × 109/L
+
+【12】Platelets 412 × 109/L 150–440 × 109/L
+
+【13】Sodium 140mmol/L 135–145mmol/L
+
+【14】Potassium 3.5mmol/L 3.5–5.0mmol/L
+
+【15】Urea 9.3mmol/L 2.5–6.7mmol/L
+
+【16】Creatinine 82μmol/L 70–120μmol/L
+
+【17】C-reactive protein (CRP) 192mg/L <5mg/L
+
+【18】Urinalysis: trace protein; trace blood; nitrites negative
+
+【19】Chest X-ray: small left-side pleural effusion
+
+【20】Abdominal X-ray: normal
+
+【21】Questions
+
+【22】•	 What is the diagnosis?
+
+【23】•	 How would you assess and manage this patient?
+
+【24】ANSWER 41
+
+【25】The most likely diagnosis is acute pancreatitis. This most commonly presents with central or  删除换行1 epigastric pain which radiates to the back. A posteriorly perforating duodenal ulcer may produce a similar pattern of pain. Nausea, vomiting and fever are common and fluid loss leads  删除换行1 to haemodynamic instability and shock. The tachycardia, low blood pressure and haemoconcentration suggest fluid depletion. On examination there are signs of peritonitis. In severe  删除换行1 cases of acute pancreatitis haemorrhage may produce blood staining in the skin of the flanks  删除换行1 (Grey–Turner’s sign) or around the umbilicus (Cullen’s sign). Pleural effusions may occur  删除换行1 especially on the left, or pulmonary oedema. The raised white count and high CRP reflect the  删除换行1 associated severe inflammation in acute pancreatitis.
+
+【26】The most common precipitating causes of acute pancreatitis are excessive alcohol use and  删除换行1 gallstones together, which account for 75% of cases. Other less common causes are hypercalcaemia, hyperlipidaemia, abdominal trauma, drugs such as corticosteroids, diuretics, pentamidine, azathioprine, infections such as mumps, coxsackie virus and cytalomegalovirus.
+
+【27】Diagnosis is based on the clinical picture and raised levels of serum amylase or lipase.
+Elevations of amylase can occur also in mesenteric ischaemia and other acute abdominal conditions but an amylase more than 3 times the upper limit of normal with typical clinical features is diagnostic. Imaging such as CT scan can show inflammation in the pancreas but is not  删除换行1 usually necessary. Ultrasound may show underlying biliary tract disease but is less sensitive  删除换行1 in the setting of acute pancreatitis. Magnetic resonance cholangiopancreatography (MRCP) 删除换行1 can also be used in the diagnosis of suspected biliary and pancreatic duct obstruction.
+
+【28】Various staging criteria have been used to grade the severity of acute pancreatitis. The Ransom  删除换行1 criteria are widely used for alcohol induced disease, applied up to 48 hours after onset:
+
+【29】on admission:
+
+【30】•	 > 55 years
+
+【31】•	 WBC count >16 × 109 删除换行1 /L
+
+【32】•	 Blood glucose >10mmol/L
+
+【33】•	 Serum LDH >350 IU/L
+
+【34】•	 AST level >250 IU/L
+
+【35】up to 48 hours:
+
+【36】•	 Hematocrit fall >10%
+
+【37】•	 Urea increased >1.8mmol/L
+
+【38】•	 Serum calcium <2.0mmol/L
+
+【39】•	 PaO2 <8.0 kPa
+
+【40】•	 Base deficit >4mEq/L
+
+【41】•	 Estimated fluid sequestration >600mL
+
+【42】With one point for each item, a score of >2 is predictive of severe pancreatitis and warrants admission to the intensive care unit. Alternative scores such as the Glasgow criteria are often used.
+
+【43】Management is largely related to fluid replacement and analgesia while keeping the patient  删除换行1 nil by mouth. There is often considerable fluid loss retro- and intraperitoneally. Antibiotic  删除换行1 treatment is still uncertain and is not generally used routinely.
+
+【44】Systemic complications may be related to inflammation and fluid loss, acute respiratory  删除换行1 distress syndrome, multiple organ dysfunction, or pancreatic damage producing diabetes. Case 41: Abdominal Pain
+
+【45】Hypocalcameia may occur as calcium is involved in saponification (soap formation) of fats  删除换行1 retroperitoneally. Local complications are related to pancreatic necrosis, secondary infection  删除换行1 and development of pancreatic pseudocysts.
+ Differential diagnosis of acute pancreatitis
+
+【46】Other conditions to consider are
+
+【47】•	 Pancreatic pseudocyst
+
+【48】•	 Pancreatic dysfunction (diabetes mellitus; malabsorption due to exocrine failure)
+
+【49】•	 Pancreatic cancer
+
+【50】Although these are common symptoms, they are not always present. Simple abdominal  删除换行1 pain may be the sole symptom. The most common causes are
+
+【51】•	 Alcohol
+
+【52】•	 Gallstones
+
+【53】•	 Metabolic disorders: hereditary pancreatitis, hypercalcemia, hyperlipidemia, malnutrition
+
+【54】•	 Abdominal trauma
+
+【55】•	 Penetrating ulcers
+
+【56】•	 Malignancy
+
+【57】•	 Drugs: steroids, sulfonamides, furosemide, thiazides
+
+【58】•	 Infections: mumps, coxsackie virus, mycoplasma pneumoniae, ascaris, clonorchis
+
+【59】•	 Structural abnormalities: choledochocele, pancreas divisum.
+
+【60】KEY POINTS
+
+【61】•	 The common causes of acute pancreatitis are alcohol and gallstone disease.
+
+【62】•	 The diagnosis of acute pancreatitis relies on the clinical picture and serum amylase  删除换行1 or lipase.
+
+【63】•	 Adequate fluid replacement is an important part of management.苏锦恭
+
+====================================================================================================

@@ -1,0 +1,140 @@
+【0】Subchapter 15.1
+
+【1】Do Bumblebees Have B cells? A Case of Insect Immunity 通用删除6(英):<u>\[1\]</u>
+===========================================================
+
+【2】Introduction
+------------
+
+【3】Your immune system is made up of two parts that work together to limit the damage caused when a foreign cell, virus, or other pathogen enters your body. The innate immune system is your first line of defense. It is made up of a class of cells called leukocytes (neutrophils, macrophages, and mast cells) that control infections by physically removing the invading pathogen through the process of phagocytosis . Should the infection overwhelm the leukocytes, a different class of immune cells, the lymphocytes (B cells and T cells), will become activated. Lymphocytes are part of the adaptive immune system .
+
+【4】The adaptive immune system functions differently than the innate immune system. One way the adaptive immune system is different, is the ability of the lymphocytes to produce antibody proteins . Antibody proteins recognize and bind with high specificity to antigens on the surface of foreign cells. The molecules that make up the surface features of a cell (proteins, glycoproteins, polysaccharides, etc.) are all potential antigens. Antibodies bind to specific antigens. Antibodies act as a kind of cellular “red flag,” which signals other immune cells to remove the pathogen either by phagocytosis or cell-mediated killing. This means that only cells carrying that antigen will be targeted for destruction. Another important difference is the ability of the cells of the adaptive immune system to remember. The ability of the immune system to “remember” previous encounters with pathogens means that the immune response to subsequent exposures can occur more quickly and more efficiently, saving the organism from damage or disease.
+
+【5】For humans, vaccinations (immunizations) provide protection from diseases by introducing nonlethal versions of a pathogen to an individual’s immune system. Let us use the example of a vaccination against influenza virus (the flu). Your body reacts to the presence of the injected flu virus as if it were capable of causing the disease. Lymphocytes that can produce antibodies specific to the surface antigens of the virus are activated and will begin to remove the virus from your body. A subpopulation of these activated lymphocytes will not participate in the removal of the virus. Instead, these cells are stored in your body as memory cells . Later, if you again get exposed to the actual flu virus, these memory cells will rapidly produce the antibodies needed to quickly target and destroy the virus, protecting you from getting sick.
+
+【6】Although it is easy to think of this sophisticated type of immune response as an exclusive feature of higher animals like humans, the pathogens of the world do not discriminate between phyla. However, controversy exists as to whether invertebrates possess a type of adaptive immune system that provides the same specificity and long-term protection that are the hallmarks of your immune system.
+
+【7】▪ What happens to a bacterial cell after it is internalized by a macrophage through the process of phagocytosis?
+
+【8】▪ How can an antibody protein “recognize” and bind specifically to a particular antigen?
+
+【9】▪ Outline the roles and relationships between each of the following cells in the adaptive immune response: dendritic cells, T helper cells, cytotoxic T cells, B cells, plasma cells, and memory cells.
+
+【10】▪ Propose an explanation for why you need annual flu vaccines, but not annual polio vaccines.
+
+【11】Background
+----------
+
+【12】Bumblebees ( Bombus terrestris ) are social insects that live in colonies. This means that bees are in constant, close proximity to other bees and are therefore exposed to any pathogens carried by other members of the colony. Pathogens known to infect bees include the Gram-negative bacterium Pseudomonas fluorescens and the Gram-positive bacteria Paenibacillus alvei and Paenibacillus larvae. In a high concentration, these pathogens are capable of killing the bees.
+
+【13】Bumblebees, like other insects, have an open circulatory system , which transports hemolymph through the bee’s body, where it can come into direct contact with tissues and any invading pathogens. In addition to the oxygen-carrying molecule hemocyanin, hemolymph contains proteins and cells called granulocytes and plasmatocytes that function as part of an innate immune response by encapsulating, phagocytosing, and killing pathogens. Insects are not known to produce antibodies. The following experiment sought to determine whether prior exposure to a pathogen provided specific, long-term protection in bumblebees.
+
+【14】▪ What types of antigens might be present on the surface of a bacterium?
+
+【15】▪ How would the surface features of a bacterium vary if it is Gram-negative versus Gram-positive?
+
+【16】▪ Outline the steps involved in phagocytosis of a pathogen.
+
+【17】▪ Would it be possible for an organism to have an adaptive immune response in the absence of antibodies? Explain your answer.
+
+【18】Methods
+-------
+
+【19】### Insects
+
+【20】All animals used in this study were of the species B. terrestris . Worker bumblebees were obtained from healthy colonies set up from queens collected in northwestern Switzerland in the spring of 2005. Immature workers were removed from the colony, maintained in isolation, and randomly assigned to one of the experimental groups 5 days after emergence from their pupal case. For each experiment, treatments were fully repeated in each of the colonies used. All colonies and individual bees were kept at 28 ± 2°C under red light with pollen and sugar water provided ad libitum. All injections took place between 2 p.m. and 6 p.m. and treatments carried out on a particular day were randomly assigned.
+
+【21】### Bacteria
+
+【22】P. fluorescens 删除10：<u>(DSM 50090)</u>, P. alvei (DSM 29), and P. larvae 删除10：<u>(DSM3615)</u> were used. These bacteria were cultured in the appropriate media at 30°C prior to use. Immediately before use, bacterial cells were washed three times in Ringer saline solution by centrifugation. Cell concentrations were determined and adjusted to the appropriate dosage level; 5 × 10 <sup>4 </sup> cells/mL for initial injections and 2.5 × 10 <sup>6 </sup> cells/mL for lethal injections. Bacterial clearance from the hemolymph was tested using an intermediate dose of 1.5 × 10 <sup>6 </sup> cells/mL. Bacteria or saline solution were injected into the abdomen of worker bees that had been anesthetized by chilling.
+
+【23】### Exposure combinations and survival
+
+【24】Individual bees received an initial dose of one of the three bacterial species or saline 5 days after emerging from their pupal case. At 8 or 22 days after initial exposure, the bees received a second higher dose injection, of one of three bacteria to achieve four possible exposure combinations. The “Ringer” group contained individuals that had previously received an injection with saline. The “heterologous” group received combinations of P. fluorescens with either P. alvei or P. larvae . The “related heterologous” group received combinations of P. alvei with P. larvae. The “homologous” group contained individuals receiving the same bacterial species twice. After the second exposure, survival was recorded every 4 h for 7 days.
+
+【25】### Exposure combinations and bacterial clearance
+
+【26】Injection combinations were carried out as described earlier, except that second bacterial challenges consisted of an intermediate dose of 1.5 × 10 <sup>6 </sup> cells/mL. Twenty four hours after second exposure, individuals were chilled on ice and all hemolymph was removed with a chilled glass microcapillary needle. The hemolymph was added to 100 μL of chilled bacterial media. The solution was further diluted by two sequential 10× dilutions. Ten microliters of each of the solutions, were spread onto plates containing agar media and incubated for 24 h. Bacterial colonies were counted and the number of bacteria per bee, was calculated taking into account the initial volume of hemolymph and the dilution factors. It was assumed that each differentiated bacterial colony originated from a single cell.
+
+【27】▪ Why were immature worker bumblebees maintained in isolation?
+
+【28】▪ What variables are being addressed in the description of the insects provided in the “Methods” section?
+
+【29】▪ Explain the difference between heterologous and related heterologous.
+
+【30】▪ Create a table/matrix outlining all the possible exposure combinations for the Ringer, heterologous, related heterologous, and homologous groups.
+
+【31】▪ Suggest a reason for using an intermediate dose of bacteria in the hemolymph clearance experiments.
+
+【32】▪ Assume 15 μL of hemolymph is collected from a bee and placed into 100 μL of bacterial media (tube 1). What volume would you need to transfer from tube 1 to tube 2 in order to make a 1:10 dilution if tube 2 contains 90 μL?
+
+【33】▪ You transfer 10 μL of media from tube 2 onto an agar plate. After a 24 h incubation you count 72 colonies on the plate. Calculate the original concentration of bacteria in the hemolymph sample in units of cells per milliliter.
+
+【34】▪ The “Methods” section of this chapter does not indicate the temperature used to incubate the hemolymph dilution plates. Based on your knowledge, what temperature would you guess would be appropriate. Justify your answer.
+
+【35】▪ Hemolymph is known to contain granulocytes and other eukaryotic cells. Predict what conditions would be required in order to grow insect cells in culture.
+
+【36】Results
+-------
+
+【37】▪ Which of the bacterial strains shown in Table 15.1.1 are the most lethal for bumblebees?
+
+【38】▪ Interpret the data for the effect of a 5 ×  10 <sup>4 </sup> cells/mL injection of P. fluorescens on the survival of a worker bumblebee.
+
+【39】▪ What biological process could account for the 0 values in the final column of Table 15.1.1 ?
+
+【40】▪ Which of the treatment groups had the highest mortality 8 days after initial exposure?
+
+【41】▪ Which of the treatment groups demonstrates the best survival 8 days after initial exposure?
+
+【42】▪ What was the purpose of injecting some individuals with Ringer saline in the first injection?
+
+【43】▪ Summarize how worker bumblebee survival changes with a 22 days lag between the first and second bacterial exposures 删除33：<u></u>.
+
+【44】▪ Estimate the proportion of bees that survived 48 h following injection with the lethal dose (2.5 ×  10 <sup>6 </sup> cells/mL) of homologous bacteria 8 and 22 days after initial, sublethal exposure. Compare your estimates with the values reported in Table 15.1.1 for single injections of each of the bacterial strains used in this case study. What can you conclude from the comparison?
+
+【45】▪ Explain what is meant by “clear hemolymph” in Figure 15.1.2 .
+
+【46】▪ Binomial distribution refers to an experiment where there are only two possible outcomes. Describe what the two outcomes are for the experiment in Figure 15.1.2 .
+
+【47】▪ Summarize the conclusion supported by the data in Figure 15.1.2 .
+
+【48】▪ Connect the data in Figure 15.1.2 to the data in Figure 15.1.1 . How are these two experiments related?
+
+【49】▪ Why is Figure 15.1.2 , a bar graph, while Figure 15.1.1 is a line graph?
+
+【50】▪ Suggest a reason the Ringer population of worker bumblebees had such a limited clearing of their hemolymph.
+
+【51】▪ Propose an explanation for why the ability of the bumblebee to “clear” a related pathogen (related heterologous) would be better than its ability to clear an unrelated pathogen (heterologous), but not as good as the response to the same pathogen (homologous)?
+
+【52】▪ The normal lifetime of a worker bumblebee is about 28 days. Based on your interpretation of the data, does prior exposure to a pathogen provide long-term and specific immune protection for bumblebees?
+
+【53】▪ Develop a hypothesis to explain the biological basis of long-term protection against pathogens observed in bumblebees.
+
+【54】▪ Propose an experiment that would test your hypothesis.
+
+【55】Table 15.1.1
+
+【56】Preliminary Results of Pathogen Exposure to Bombus terrestris Workers
+
+| Injection Type | Dose of 2 μL Injection (Cells/mL) | Proportion of Bees Surviving 24 h (±95% Confidence Interval) | Proportion of Bees Surviving 48 h (±95% Confidence Interval) | Mean Counts of Bacteria in the Hemolymph 48 h after Injection ( n \= 12) |
+| --- | --- | --- | --- | --- |
+| Ringer saline | NA | 1.0 | 1.0 | 0 |
+| Bacillus thuringiensis | 5 × 10 4 | 0.33 ± 0.13 | 0.11 ± 0.09 | – |
+|  | 2.5 × 10 | 0.11 ± 0.09 | 0 | – |
+| Serratia marcescens | 5 × 10 4 | 0 | 0 | – |
+|  | 2.5 × 10 6 | 0 | 0 | – |
+| P. fluorescens | 5 × 104 | 1.0 | 1.0 | 0 |
+|  | 2.5 × 10 6 | 0.91 ± 0.06 | 0 | – |
+| Paenibacillus alvei | 5 × 10 4 | 1.0 | 1.0 | 0 |
+|  | 2.5 × 10 6 | 0.88 ± 0.09 | 0 | – |
+| P. larvae | 5 × 10 4 | 1.0 | 1.0 | 0 |
+|  | 2.5 × 10 6 | 0.88 ± 0.09 | 0 | – |
+
+【58】A “low” dose is 5 × 10 <sup>4 </sup> cells/mL and a “high” dose is 2.5 × 10 <sup>6 </sup> cells/mL. If all bees survived to 48 h, hemolymph was checked to determine if the bacteria had been cleared. The results obtained determined the bacterial species used in the main study.
+
+【59】删除3：<u>Figure 15.1.1 Survival of worker bumblebees after secondary exposure to bacteria.Survival curves of workers after exposure to lethal bacterial doses either 8 (a) or 22 (b) days following an initial sublethal injection. Groups refer to the initial injection and its relatedness to secondary bacterial exposure: individuals receiving an initial injection of Ringer saline (circle, n \= 42 for 8 days lag, n \= 40 for 22 days lag) or individuals previously injected with a heterologous (square, n \= 56, n \= 51), related heterologous (diamond, n \= 28, n \= 23), or homologous (triangle, n \= 41, n \= 41) bacterial strain.</u>
+
+【60】删除3：<u>Figure 15.1.2 Clearance of bacterial cells 24 h after injection into the hemolymph of worker bumblebees.Worker bumblebees were injected with an intermediate dose (1.5 × 10 <sup>6 </sup> cells/mL) of bacteria 8 days (a) or 22 days (b) following injection with Ringer saline or a sublethal concentration of bacteria. Groups refer to the relatedness of the two exposures. Worker bumblebees were injected with Ringer saline (Ringer; n \= 36 for 8 days lag, n \= 36 for 22 days lag), heterologous ( n \= 47, n \= 42), related heterologous ( n \= 21, n \= 21), or homologous ( n \= 36, n \= 32) bacterial strain. Error bars refer to 95% confidence intervals for binomial distributions.</u>苏锦恭
+
+====================================================================================================

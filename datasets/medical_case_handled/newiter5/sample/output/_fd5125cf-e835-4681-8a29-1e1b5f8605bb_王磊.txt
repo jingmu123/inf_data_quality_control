@@ -1,0 +1,50 @@
+【0】Question: 26.1 A 27-year-old man has been rushed to the emergency department following his sudden collapse and entry into a state of unconsciousness. Examination of personal belongings revealed the patient is an insulin-dependent diabetic. A rapid decline in which of the following humoral factors likely triggered the sudden collapse of the patient?
+
+【1】A. Insulin
+
+【2】B. Glucagon
+
+【3】C. Fatty acids
+
+【4】D. Glucose
+
+【5】E. Triglyceride
+
+【6】Answer: 26.1 D . Glucose is the primary source of energy for the central nervous system. A sudden decrease in circulating glucose levels will therefore impair ATP generation, in turn impeding cognitive function. If hypoglycemia persists, then the patient will slip into a coma and eventually die. This unfortunately common complication in people with type 1 diabetes is a consequence of oversupplementation with insulin. By contrast, a sudden decrease in circulating insulin, glucagon, fatty acids, or triglyceride would have little immediate effect on cognitive function.
+
+【7】Question: 26.2 Which of the following is the least likely to contribute to the hyperglycemia associated with uncontrolled type 1 diabetes?
+
+【8】A. Decreased skeletal muscle glucose uptake
+
+【9】B. Decreased adipose lipogenesis
+
+【10】C. Increased adipose lipolysis
+
+【11】D. Increased hepatic gluconeogenesis
+
+【12】E. Increased skeletal muscle glycogenolysis
+
+【13】Answer: 26.2 E . Unlike the liver, skeletal muscle cannot export glucose into the circulation. Once glucose enters the myocyte, it is destined for use by that cell. Thus, intramyocellular glycogen is used as a fuel source by skeletal muscle and therefore cannot contribute to the hyperglycemia observed in uncontrolled type I diabetes. In contrast decreased insulin-mediated glucose utilization by skeletal muscle and adipose will contribute to hyperglycemia, as will decreased insulin-mediated suppression of hepatic glucose output. Decreased insulin-mediated suppression of lipolysis will indirectly contribute to hyperglycemia, by providing alterative, nonglucose fuels (fatty acids and ketone bodies) for organs such as skeletal muscle and the liver.
+
+【14】Question: 26.3 Which of the following changes in hepatic metabolism best explains the increased incidence of ketoacidosis observed in type 1 diabetes?
+
+【15】A. Increased glucose uptake
+
+【16】B. Increased protein synthesis
+
+【17】C. Increased lipoprotein synthesis
+
+【18】D. Increased β-oxidation
+
+【19】E. Increased glycogen breakdown
+Answer: 26.3 D . Decreased circulating insulin signals a need to increase hepatic glucose production. This is an energetically demanding process, driven by β-oxidation of fatty acids. However, acetyl-CoA, the major end product of β-oxidation, cannot be used for glucose production. Instead, acetyl-CoA is shunted into the pathway of ketone body synthesis (ketogenesis). By contrast, carbon from intrahepatic glycogen will contribute less to ketone body synthesis in uncontrolled type 1 diabetes mellitus. Net glucose uptake, protein synthesis, and lipoprotein synthesis are decreased, as opposed to increased, during uncontrolled type 1 diabetes.
+
+【20】BIOCHEMISTRY PEARLS
+
+【21】 The liver uses 2 mechanisms for endogenous glucose production, the mobilization of intracellular glycogen (glycogenolysis) and the synthesis of glucose from noncarbohydrate precursors (gluconeogenesis).
+
+【22】 Flux of carbon through the pathways of hepatic glucose metabolism described above is strongly influenced by the hormones insulin, glucagon, and epinephrine.
+
+【23】 Lack of insulin, in the face of elevated glucagon and epinephrine, leads to high rates of hepatic glucose output, driven by β-oxidation of fatty acids. The latter results in an excessive production of ketone bodies and subsequent ketoacidosis.王磊
+
+====================================================================================================

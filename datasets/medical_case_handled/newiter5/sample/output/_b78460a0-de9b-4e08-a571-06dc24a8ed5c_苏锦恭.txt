@@ -1,0 +1,42 @@
+【0】CASE 2: NUTRITION
+
+【1】History
+
+【2】A 54-year-old man has been admitted into the Intensive Care Unit with severe gallstone  删除换行1 pancreatitis, complicated by acute kidney injury and acute respiratory distress syndrome  删除换行1 (ARDS). He is currently intubated and ventilated, and requires haemofiltration. He will likely  删除换行1 require a prolonged hospital admission.
+
+【3】The intensive care consultant asks you to ‘take care of his nutrition’.
+
+【4】Questions
+
+【5】1. What are the causes of nutritional disturbance?
+
+【6】2. How can nutrition be assessed?
+
+【7】3. What are the options for optimising nutrition? Name some complications.
+
+【8】DISCUSSION
+
+【9】Nutrition is an important part of every patient’s care and should be optimised with the help  删除换行1 of a dietician, in parallel with treating his or her underlying pathology. It should be assessed  删除换行1 soon after admission as it is estimated that around a quarter of hospital inpatients are inadequately nourished. This may be due to increased nutritional requirements (e.g. in sepsis or  删除换行1 post-operatively), nutritional losses (e.g. malabsorption, vomiting, diarrhoea) or reduced intake  删除换行1 (e.g. sedated patients).
+
+【10】Signs of malnutrition include a body mass index (BMI) under 20 kg/m2, dehydration, reduced  删除换行1 tricep skin fold (fat) and indices such as reduced mid-arm circumference (lean muscle) or  删除换行1 grip strength. Low serum albumin is sometimes quoted as a marker of malnutrition, but this  删除换行1 is not an accurate marker in the early stages as it has a long half-life and may be affected by  删除换行1 other factors including stress.
+
+【11】The body’s predominant sources of energy are fat (approximately 9.3 kcal/g of energy),  删除换行1 glucose (4.1 kcal/g) and protein (4.1 kcal/g). The recommended daily intake of protein is  删除换行1 around 1 g/kg; nitrogen 0.15 g/kg; calories 30 kcal/kg/day. A patient’s basal energy expenditure is doubled in head injuries and burns. The major nutrient of the small bowel is amino  删除换行1 acid glutamine, which improves the intestinal barrier thereby reducing microbe entry. The  删除换行1 fatty acid butyrate is the major source of energy for cells of the large bowel (colonocytes).
+
+【12】There are two options for nutrition, namely enteral (through the gut) and parenteral (intravenous). Enteral feeding can be administered by different routes including oral, nasogastric (NG) 删除换行1 tube, nasojejunal (NJ) tube and percutaneous endoscopic gastrostomy (PEG)/jejunostomy  删除换行1 (PEJ). Enteral nutrition is generally preferred to parenteral nutrition as it keeps the gut barrier healthy, reduces bacterial translocation and has less electrolyte and glucose disturbances.
+Feeding through the mouth is the ideal scenario as it is safe and provides adequate nutrition.
+Before abandoning oral intake, patients should be tested on semi-solid or puree diets and  删除换行1 reassessed for risk of aspiration (e.g. in stroke).
+
+【13】When comparing NG and NJ tube feeding, NG tubes are advantageous in terms of being  删除换行1 larger in diameter and less likely to block, whereas NJ tubes are better if a patient is at risk  删除换行1 of lung aspiration as they bypass the stomach. NJ tubes are also used in pancreatitis as they  删除换行1 bypass the duodenum and pancreatic duct, which reduces pancreatic enzyme release that  删除换行1 would have exacerbated pancreatic inflammation. NG/NJ feeds should be built up gradually,  删除换行1 and if the patient experiences diarrhoea or distention, the feed can be slowed down. Patients  删除换行1 on a feed should undergo initially daily blood tests for re-feeding syndrome, which causes  删除换行1 deficiencies in potassium, phosphate and magnesium.
+
+【14】Total parenteral nutrition (TPN) is composed of lipids (30% of calories), protein (20% of  删除换行1 calories) and carbohydrates (50% of calories in the form of dextrose), as well as water, electrolytes, vitamins and minerals. TPN is indicated in patients who have inadequate gastrointestinal absorption (short bowel syndrome), or where bowel rest is needed (e.g. gastrointestinal  删除换行1 fistula or bowel obstruction). The disadvantage of TPN compared to enteral nutrition is that  删除换行1 it is more expensive, contributes to gut atrophy if prolonged and exacerbates the acute phase  删除换行1 response. Other complications of TPN include intravenous line infection or insertion complication, re-feeding syndrome, fatty liver, electrolyte and glucose imbalance and acalculous  删除换行1 cholecystitis.
+Case 2: Nutrition
+
+【15】Key Points
+
+【16】• Nutrition should be optimised in all patients, in parallel with treating their underlying pathology. A dietician should be involved especially where critical care input  删除换行1 or prolonged inpatient stay is predicted.
+
+【17】• There are two types of nutrition, enteral and parenteral. If it is safe and provides  删除换行1 adequate nutrition, oral intake is the preferred option.
+
+【18】• NG/NJ/TPN feeding all have complications including re-feeding syndrome, which  删除换行1 can cause hypophosphatemia, hypokalaemia and hypomagnesaemia.删除9：<u>http://taylorandfrancis.com9</u>苏锦恭
+
+====================================================================================================

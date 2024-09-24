@@ -1,0 +1,18 @@
+【0】Question: A 40-year-old woman presents with a persistent cough of two months’ duration. She reports a 6.8-kg (15-lb) unintentional weight loss and general loss of appetite. She says she drinks wine occasionally but has never smoked cigarettes. X-ray of the chest reveals a subpleural mass. Which of the following is the most likely diagnosis?
+
+【1】> (A) Adenocarcinoma of the lung
+
+【2】> (B) Carcinoid tumor of the lung
+
+【3】> (C) Metastases to lung from a primary tumor from another tissue type
+
+【4】> (D) Small-cell carcinoma of the lung
+
+【5】> (E) Squamous cell carcinoma of the lung
+ Answer: The correct answer is A . Critical points to consider in this question are first, that the patient is a nonsmoker; second, that the lesion is localized peripherally (subpleural mass); and third, that the patient is a woman. About 95% of all lung cancers can be classified into one of two categories: small cell lung cancers make up 13%, and non-small cell lung cancers (consisting of adenocarcinoma, squamous cell carcinomas, and other histologic types) make up the rest. Adenocarcinoma is the most prevalent type of lung cancer, representing 38% of all diagnosed cases. Relative to squamous cell carcinoma (the second most prevalent subtype), adenocarcinoma is more often seen in non-smokers than in smokers (62% vs 18%), and more often seen in women than in men irrespective of smoking status. Treatment interventions differ by type. Because adenocarcinomas are typically peripherally located (75%), they often are more amenable to surgical removal than other tumor types, although the success of treatment depends more on the stage of the tumor than the type. Adenocarcinoma often, but not always, presents as multiple masses.  
+Answer B is incorrect . Carcinoid tumors are found in major bronchi and may cause carcinoid syndrome (flushing due to excessive histamine release). They are of neuroendocrine origin and have no link with smoking.  
+Answer C is incorrect . Although metastases from other organs arise more commonly than primary lung tumors, they are most often multifocal, not a single peripheral nodule. Metastases to lung principally arise from primary tumors of the breast, colon, and kidney.  
+Answer D is incorrect . Small cell carcinoma of the lung is an undifferentiated tumor usually present in a central location. There is a strong association with smoking and it is more often seen in men. Small cell carcinoma metastasizes early and may secrete hormones such as ADH and ACTH. Small cell lung cancer is rarely resectable and is most often treated with combination chemotherapy and radiation.  
+Answer E is incorrect . Squamous cell carcinoma of the lung often presents as a centrally located hilar mass. This lung cancer subtype is more common in men, and it exhibits the strongest link to smoking.王磊
+
+====================================================================================================

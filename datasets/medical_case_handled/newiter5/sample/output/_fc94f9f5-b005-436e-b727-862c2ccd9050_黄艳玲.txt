@@ -1,0 +1,27 @@
+【0】CASE 12
+
+【1】A 5-year-old girl is brought to the clinic with a 3-month history of worsening vision and behavioral difficulty in school. She immigrated to the United States from Guatemala with her mother and a younger sibling 2 years previously. Her mother received no prenatal care and， through a translator， reports that the patient was delivered without complication at home. As an infant， the girl had a "wartlike" perioral maculopapular rash and three or four recurrent right-sided ear infections. Physical examination reveals that the girl is in the 30th percentile for weight and the 35th percentile for height. Additional observations include fundi that are notable for nummular keratitis， prominent notching of her upper two incisors and molars， and outward bowing of the tibia bilaterally.
+
+【2】What is the most likely diagnosis?
+
+【3】Congenital syphilis. This infection is one of the so-called ToRCHeS infections (Toxoplasmosis， other infections， Rubella， Cytomegalovirus， Herpes simplex virus， Syphilis)， the most common causes of congenital infection.
+
+【4】What is the causative microorganism in this condition?
+
+【5】Treponema pallidum.
+
+【6】What symptoms are commonly found in patients with this condition?
+
+【7】Congenital syphilis is a cause of hydrops fetalis， or stillbirth due to fluid accumulation in the fetus. If the newborn survives， it can develop various abnormalities， including the classic facial anomalies (tooth abnormalities known as Hutchinson incisors and mulberry molars， saddle nose， frontal bossing， and short maxilla)， as well as recurrent ear infections and interstitial keratitis， leading to vision problems.
+
+【8】In the newborn， what tests can help confirm the diagnosis?
+
+【9】Serum rapid plasma reagin (RPR) test： Umbilical cord blood may show false-positive results because of maternal titers but remains the best screening tool for detecting syphilis infection.
+
+【10】Serum analysis and lumbar puncture can be performed for Venereal Disease Research Laboratory (VDRL) testing. VDRL testing detects anticardiolipin antibodies that are produced by patients with syphilis. The serum VDRL is used for screening pur etposes. VDRL testing from cerebrospinal fluid (CSF) samples is used todetect central nervous system involvement of the disease， known as neurosyphilis. Other CSF findings such as pleocytosis (increased number of cells) and elevated protein levels also suggest infection. The presence of anticardiolipin antibodies is not specific to syphilis and can return false-positive results in patients with Epstein-Barr virus， systemic lupus erythematosus， rheumatoid arthritis， and other autoimmune or inflammatory conditions.
+
+【11】What are the appropriate treatments for this condition?
+
+【12】Benzathine penicillin G for 10-14 days is the first-line treatment for syphilis.黄艳玲
+
+====================================================================================================

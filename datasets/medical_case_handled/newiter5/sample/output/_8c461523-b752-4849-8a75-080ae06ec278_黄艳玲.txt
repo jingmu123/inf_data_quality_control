@@ -1,0 +1,181 @@
+【0】TUBEROUS SCLEROSIS(BOURNEVILLE'S OR 删除换行3 PRINGLE'S DISEASE)
+
+【1】INSTRUCTION
+
+【2】Look at thispatientwho has a history ofseizuresandmental retardation.
+
+【3】SALIENT FEATURES
+
+【4】History
+
+【5】● Familyy history(autosomaldominantinheritance withvariable penetrance)
+
+【6】Seizures
+
+【7】Psychomotor retardation in childhood
+
+【8】● Reddened nodules (adenoma sebaceum) on the face since childhood.
+
+【9】Examination
+
+【10】●Angiofibromas (adenoma sebaceum) distributed in a butterfly pattern over the cheeks (Shagreen patches： leathery thickenings in localized patches over the lumbosacral region
+
+【11】●Ash-leaf patches： hypopigmented areas Subungual fibromas Examine the fundus (retinal glial hamartomas).
+
+【12】DIAGNOSIS
+
+【13】This patient has adenoma sebaceum (lesions) caused by tuberous sclerosis. I would like to know his IQ and elicit a history of seizures to determine his functional status.
+
+【14】ADVANCED-LEVEL QUESTIONS
+
+【15】What other lesions may be present?
+
+【16】●Hamartomas within the CNS occurring as cortical tubers and subepen-dymal hamartomas
+
+【17】Renal angiomyolipomas
+
+【18】Hypopigmented macules(ash-leat pattem).
+
+【19】Cardiac rhabdomyomas and pulmonary myomas
+
+【20】Cysts in the liver， kidney and pancreas.
+
+【21】Give some examples of the appearance of clinical manifestations at distinct developmental points
+
+【22】● Hypopigmented macules (formerly known as ash-leaf spots) are usually detected in infancy or early childhood.
+
+【23】●Shagreen patch is identified with increasing frequency after the age of5 years.
+
+【24】● Ungual fibromas characteristically appear after puberty and may develop in adulthood.
+
+【25】● Facial angiofibromas (formerly called adenoma sebaceum) may be detected at any age but are generally more common in late childhood or adolescence.
+
+【26】Cortical tubers and cardiac rhabdomyomas form are typical findings in infancy because they form during embryogenesis.
+
+【27】● A subependymal giant cell tumour of the brain may develop in child-hood or adolescence.
+
+【28】Renal cysts can be detected in infancy or early childhood.
+
+【29】Angiomyolipomas develop in childhood， adolescence or adulthood.
+
+【30】Pulmonary lymphangiomyomatosis is found in adolescent girls or women
+
+【31】What is the prevalence of tuberous sclerosis?
+
+【32】Population-based studies in UK estimate a frequency of 1 in 12 000 to 1 in14 000 in children <10 years of age. Improved methods of determination have detected individuals who are not severely affected by tuberous 删除换行1 sclerosis， increasing the estimates of its frequency： the disorder has a birth rate of 1 in 6000. It is estimated to be at 8 per 10 000 in Wessex UK 删除10：<u>(Lancet1998；351：1490)</u>.
+
+【33】What are the diagnostic criteria for tuberous sclerosis?
+
+【34】Major and minor criteria exist to diagnose tuberous sclerosis 删除10：<u>(J Child Neurol 1998； 13：624-8)</u>. The diagnosis is made when two major features， or one major and two minor ones， can be shown. In one series of patients >90% had skin lesions， about 90% had symptoms of cerebral pathology， 70-90% had renal abnormalities and about 50% had retinal hamartomas.
+
+【35】Major features：
+
+【36】Facial angiofibromas or forehead plaque pits in dental enamel
+
+【37】Non-traumatic ungula or periungual fibroma
+
+【38】Hypomelanotic macules (three or more)
+
+【39】Shagreen patch (connective tissue nevus) migration lines
+
+【40】NMultiple retinal nodular hamartomas
+Cortical tuber
+
+【41】Subependymal nodule
+
+【42】●Subependymal giant cell astrocytoma
+
+【43】● Cardiac rhabdomyoma， single or multiple
+
+【44】·Lymphangiomyomatosis， renal angiomyolipoma， or both.
+
+【45】Minor features：
+Multiple， randomly distributed lesions
+
+【46】Hamartomatous rectal polyps
+
+【47】Bone cysts
+
+【48】·CCerebral white matter radial
+
+【49】●Gingival fibromas
+
+【50】Non-renal hamartoma
+
+【51】C Retinal achromic patch
+·Confetti-like skin lesions
+
+【52】Multiple renal cysts.
+
+【53】How would you manage such patients?
+
+【54】Symptomatically， withanticonvulsanttherapyforseizuresS 2 and genetic counselling. When severe epilepsy and mental retardation is present， the prognosis for life beyond the third decade is poor. Death is usually from seizures， associated neoplasms or intercurrent illness.
+
+【55】Long-term follow-up includes the monitoring of lesion growth. No conclusive guidelines for surveillance have been established. The growth of angiomyolipomas or subependymal giant cell tumours requires regular follow-up. Periodic imaging of the brain and abdomen to monitor the growth of lesions in the brain and kidney should occur at least every 3 years and more often in patients with lesions that have progressive growth. Annual MRI of the brain is suggested until patients are at least 21 years of age， and then MRI should be done every 2 to 3 years both to diagnose and to monitor subependymal giant cell tumours. Annual ultrasonography， MRI or CT is indicated in patients with multiple angiomyolipomas or a single lesion that is progressive.
+
+【56】Lymphangiomyomatosis： yearly pulmonary function testing may be useful to monitor lung function； some patients may require more fre-quent assessments.
+
+【57】200Tuberous sclerosis (Bourneville's or Pringle's disease)
+
+【58】●Electroencephalography can determine background cerebral activity and characterize patterns such as hypsarrhythmia in infantile spasms.
+
+【59】● Regular dermatologic evaluation is required since facial angiofibromas can cause cosmetic disfiguration and ultimately the lesions will require laser therapy or surgical removal.
+
+【60】Are you aware of any therapies currently being evaluated?
+
+【61】●The discovery of upregulation of the 'mammalian target of rapamycin'(mTOR) pathway in tumours associated with tuberous sclerosis presents new possibilities for therapy. Interferon-y and interferon-o interact with mTOR， leading to deactivation of the translational repressor 4E-BP1， which could be beneficial for therapy.
+
+【62】Sirolimus therapy causes the dysregulated mTOR pathway to return to normal in cells that lack hamartin or tuberin (encoded by the genes TSC1 or TSC2， respectively). Sirolimus is effective in diminishing the volume of lesions in patients with renal angiomyolipomas， subependy-mal giant cell astrocytomas and sporadic lymphangio leiomyomatosis. However， angiomyolipomas increased in volume after the sirolimus was discontinued， and some patients taking sirolimus experienced serious adverse events. Another concern is that sirolimus therapy may restore the cell’s ability to activate AKT， suggesting that long-term treatment may increasethe risk of malignanttumourslinntthese patients.
+
+【63】Genetic counselling should be recommended to patients to aid with family planning. It is an autosomal dominant disorder； therefore， those affected should be advised that the risk of having an affected child is approximately 50%
+
+【64】Do you know on which chromosome the gene is localized?
+
+【65】Tuberous sclerosis is an autosomal dominant disorder， although two-thirds of patients have sporadic mutations. The genes in which abnormali-ties are found are called TSC1 and TSC2. Both have been studied by multigenerational linkage analysis and have been localized to chromo-some 9 (TSC1) 删除10：<u>(Science 1997；277：805-8)</u> and chromosome 16 (TSC2) 删除10：<u>(Cell1993；75：1305-15)</u>.
+
+【66】What do you know about the benign metastasis hypothesis? The ‘benign metastasis' hypothesis for the pathogenesis of lymphangi-omyomatosis proposes that histologically benign cells with mutations in TSC1 or TSC2 may have the ability to travel to the lungs from angiomyol-ipomas in the kidney.
+
+【67】What do you know about the pathogenesis of tuberous sclerosis?
+
+【68】Several downstream protein cascades from tuberin and hamartin might be affected， for example the mTOR pathway， which detects signals of nutrient availability， hypoxia or growth factor stimulation. The mTOR pathway is stimulated by a small G-protein of the Ras superfamily RHEB (Ras homo-logue enriched in brain). Rheb is active when bound to GTP. Tuberin and hamartin form intracellular complexes that activate GTPase， thus reducing the stimulation of mTOR. Whether Rheb is the sole downstream effector or whether mTOR is the only clinically relevant target of Rheb remains to be characterized.
+删除36：<u>DM Bourneville 通用删除7(英):<u>(1840-1909)</u>， a French neurologist described tuberous sclerosis in 1880 删除10：<u>(Bourneville， DM. Sclerose tubereuse des circonvolutions cerebrales. Arch Neurol 1880：1：81-91)</u>.
+
+【69】JJ Pringle 通用删除7(英):<u>(1855-1922)</u>， an English dermatologist who was also the editor of the British Journal of Dermatology.
+
+【70】</u>The Eker rat is an animal model of tuberous sclerosis.
+
+【71】删除6：<u>This page intentionally left blank</u>
+
+【72】The fundus Examination of the fundus
+
+【73】Examination
+
+【74】1\. Tell the patient， Look straight ahead with your right or left (R/L) eye while I look into your L/R eye. (The candidate need not remove his or her spectacles while the fundus is being examined.) The candidate should use his or her own R/L eye to examine the patient’s R/L eye K/L eye.
+
+【75】2\. Look at the eye from a distance of at least 50 cm and check for the red reflex. The presence of a red reflex indicates that the media in front of the retina is transparent and that the retina is firmly in apposition with the underlying choroid. Red reflex may be absent when there is a lens opacity， vitreous haemorrhage or retinal detachment.
+
+【76】3\. Look systematically at the following：
+
+【77】●The optic discs (comment on the colour， contour， cup and lamina cribrosa)
+
+【78】The macula (one or two disc diameters away from and a little below the temporal margin of the optic disc)； it appears darker than the surrounding retina， and in young individuals has a central yellow point called the fovea centralis 删除33：<u></u>
+
+【79】●The nasal and temporal halves of the fundus
+
+【80】The retinal vessels (remember that the retinal artery has four main branches and the normal ratio of the artery to the vein is 2：3)； assess the transparency of the vessels (the arteries usually have a shiny central reflex stripe)， the presence of pressure effects such as AV nicking， the presence of focal narrowing of arteries as well as theVtortuosity of the venule.
+
+【81】Note：
+
+【82】Lesions in the fundus are measured using the disc diameter as the refer-ence size.
+
+【83】Elevation of any lesion is measured by noting the difference between lens powers that focus clearly on the top of the lesion and an adjacent normal area of the fundus. Elevation of 3-dioptres lens changes is approximately equal to 1 mm in actual elevation.
+
+【84】CLINICOPATHOLOGIC CORRELATIONS OF RETINAL HAEMORRHAGES AND EXUDATES
+
+【85】The location of the haemorrhage within the retina determines its appear-ance by ophthalmoscopy. The retinal nerve fibre layer is oriented parallel to the internal limiting membrane. Haemorrhages here appear to be flame shaped. The deeper retinal layers are oriented perpendicular to the internal limiting membrane and haemorrhages here appear as dots.
+
+【86】Exudates from leaky retinal vessels accumulate in the outer plexiform iayer.
+删除14：<u>A</u>删除14：<u>B</u>
+删除3：<u>Fig.VIIl.1 (A) Normal fundus with macula encompassed by major vascular arcades. (B) The components， from centre to periphery， of the macula. 删除10：<u>(With permission from Yanoff， Duker 2008.)</u></u>黄艳玲
+
+====================================================================================================

@@ -1,0 +1,72 @@
+【0】19.1Which of the following medications is commonly used in social anxiety that is associated with performance situations， shortly before exposure to a phobic stimulus?
+
+【1】A. Atenolol
+
+【2】B. Prazosin
+
+【3】C. Sertraline
+
+【4】D. Buspirone
+
+【5】E.Clomipramine
+
+【6】19.2 Which of the following is an area of the brain which appears to be most closely related to anxiety based on functional imaging studies?
+
+【7】A. Nucleus accumbensBC
+
+【8】Left prefrontal cortex
+
+【9】Pituitary gland
+
+【10】D. Amygdala
+
+【11】E.删除38：<u>(</u>Corpus callosum
+19.3 A 35-year-old man is being seen in the office because "I'm afraid to give pre-sentations and I'm going to lose my job. He stated that ever since he could remember， he has had a fear of speaking in public or being the center of atten-tion. He feels awkward in social situations and does not know what to say. During these times， he reports that his heart races and he sweats profusely. Which of the following would be most effective in treating his condition?
+
+【12】Cognitive behavioral therapy
+删除14：<u>TMS</u>
+ABC  Haloperidol
+
+【13】D. Clozapine
+
+【14】E.SSt. John's wort
+
+【15】ANSWERS
+
+【16】19.1 A. Beta-adrenergic blocking agents like atenolol and propranolol taken just before the event have been shown to be effective in treating anxiety associated with performance situations. Prazosin (answer B) is used to treat nightmares associated with posttraumatic stress disorder. Sertraline (answer C) and 删除换行1 buspirone (answer D) are therapeutic agents used for treatment of anxiety disorders with regular daily dosing. Clomipramine (answer E) is a tricyclic antidpressant (TCA) that can be used in the long-term treatment of anxiety disorders.
+
+【17】19.2 D. Functional imaging studies have consistently showed the amygdala playing a central role in the area of anxiety. The amygdala is an almond-shaped mass of gray matter that is part of the limbic system. Answer A (nucleus accum-bens) is considered to be the reward center of the brain. Answer B (prefrontal cortex) is thought to be associated with personality development. Answer C(pituitary) is a master endocrine gland that helps regulate many of the endo-crine functions of the body. Ans wer E (corpus callosum) allows signals from the two sides of the brain to communicate.
+
+【18】19.3 A. This patient likely has social anxiety disorder based on the fear of speaking in public and social situations. CBT is a specific psychotherapy that has the greatest and most accepted evidence base behind it supporting its utility in anxiety disorders. Although other treatments may also be useful， this should be the psychotherapy of first choice in the area of anxiety. There is some emerging studies on the use ofTMS for social anxiety disorder； however， this treatment has not been established as definitively efficacious (answer B). The other answer choices (C， Haloperidol； D， Clozapine； or E， St. John's wort) have not shown efficacy.
+
+【19】CLINICALPEARLS
+
+【20】Social anxiety disorder is one of the most common anxiety disorders， with a 12-month prevalence of 7% of the general population.Onset usu-ally occurs in late childhood or early adulthood， and the course is often chronic.
+
+【21】Anxiety disorders have a high degree of comorbidity.
+
+【22】CBT， a form of psychotherapy， is the treatment of choice for social phobia.
+
+【23】DSM-5 criteria for social anxiety disorder include a duration criterion of typically 6 months or longer.
+
+【24】Beta-blockers such as propranolol and atenolol are the agents of choice for the short-term treatment of anxiety provoked by performance situa-tions. SSRIs and SNRIs may be useful for longer-term treatment.
+
+【25】Panic attacks can be part of the presentation of social phobia， but this does not mean an individual has panic disorder.
+
+【26】GAD patients tend to be anxious about a whole host of other worries (not just social situations).
+删除20：<u>Bas-Hoogendam JM， van Sreenbergen H， Tissier R， Houwing-Duistermaat JJ， Westenberg PM， van der Wee N. Subcortical brain volumes， cortical thickness and cortical surface area in families genetically enriched for social anxiety disorder—a multiplex multigenerational neuroimaging study. EBioMedicine.2018；36：410-428.
+
+【27】Hansen RA， Gaynes BN， Gartlehner G， Moore CG， Twari R， Lohr KN. Efficacy and tolerability of second-generation antidepressants in social anxiety disorder. Int Clin Psychopharmacol. 2008；23通用删除7(英):<u>(3)</u>：170-179.
+
+【28】Jorstad-Srein EC， Heimberg RG. Social phobia： an updare on treatment. Psychiatr Clin North Am.2009；32：642-663.
+
+【29】Sadock BJ， Sadock VA， Ruiz P. Kaplan and Sadocks Comprehensive Textbook of Psychiatry. 10th ed. Philadelphia， PA： Wolters Kluwer； 2017.
+
+【30】Sreenen SA， van Wijk AJ， van der Heijden GJ， van Westrhenen R， de Lange J， de Jongh A. Propranolol for the treatment of anxiety disorders： systematic review and meta-analysis. J Psychopharmacol.2016；30通用删除7(英):<u>(2)</u>：128-139.
+
+【31】Thibaut F. Anxiety disorders： a review of current literature. Dialogues Clin Neurosci. 2017；19通用删除7(英):<u>(2)</u>：87-88.
+
+【32】</u>删除6：<u>This page intentionally left blank</u>苏锦恭
+
+====================================================================================================
+格式规范性#序号格式不一致#BC#无

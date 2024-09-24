@@ -1,0 +1,69 @@
+【0】CASE 85: SUDDEN DETERIORATION IN A TERM BABY
+
+【1】History
+The midwife finds a 3-day-old male baby on the postnatal ward to be very lethargic and  删除换行1 breathing fast. The baby is taken to the neonatal unit for further evaluation. He was born  删除换行1 at term by emergency caesarean section for undiagnosed breech presentation. There was no  删除换行1 prolonged rupture of membranes. The pregnancy had been unremarkable to that point and  删除换行1 all antenatal scans had been normal. Mother’s blood group is O+, had negative HIV, hepatitis B  删除换行5 and syphilis serology and was rubella immune. The delivery was attended by a paediatrician  删除换行1 but the baby cried immediately and needed no resuscitation. His birth weight was 3.5  kg  删除换行1 (50th centile) and the first-day check was unremarkable. He has been breast-fed and although  删除换行1 there were problems latching on initially, he fed well on day 2. He seems rather sleepy and has  删除换行1 had frequent non-bilious vomits today. His mother is a 23-year-old woman from Pakistan  删除换行1 who speaks good English and this is her first baby.
+
+【2】Examination
+
+【3】The baby’s temperature is 36.3°C, his heart rate is 160 beats/min and his respiratory rate is  删除换行1 70 breaths/min. Oxygen saturation is 99 per cent in air, capillary refill is 2–3 s and blood pressure is 60/40 mmHg. There is subcostal and mild sternal recession. He responds to vigorous  删除换行1 stimulation and pain, but otherwise is very lethargic. The chest is clear, heart sounds and  删除换行1 femoral pulses are normal and the abdomen is normal. The fontanelle is normotensive. He  删除换行1 has a strong odour, which is slightly unpleasant.
+
+【4】Investigations
+
+【5】 Normal
+
+【6】 Venous blood gas analysis 删除换行1  pH 6.98 7.35–7.42
+
+【7】 Pco2 2.62 4.7–6.0 kPa
+
+【8】 Base excess −25.5 +2.5 to −2.5 mmol/L
+
+【9】 Lactate 2.1 1.0–1.8 mmol/L
+
+【10】 Glucose 5.2 2.2–4.4 mmol/L
+
+【11】Urinalysis
+
+【12】 Glucose Negative Negative
+
+【13】 Protein Negative Negative
+
+【14】 Ketones +++ Negative
+
+【15】Questions
+
+【16】• What are the possible causes of this type of presentation?
+
+【17】• How do you interpret the blood gas analysis?
+
+【18】• What is the most likely cause in this case?
+
+【19】• What is the emergency management?
+
+【20】ANSWER 85
+
+【21】The history describes a term neonate who became very ill over a short period of time. The  删除换行1 important diagnoses to consider are discussed in Case 10.
+ Approach to blood gas interpretation
+
+【22】In this case
+
+【23】Look at the pH pH <7.35, acidosis
+
+【24】Look at the Pco2 Pco2 < 4.7 kPa, respiratory compensation
+
+【25】Look at the base excess Lower than −2.5, metabolic acidosis
+
+【26】The blood gas analysis shows a severe metabolic acidosis with unsuccessful respiratory compensation. This fits with the clinical picture of a tachypnoeic baby.
+
+【27】Important points to note are the absence of risk factors for sepsis, the absence of signs of  删除换行1 circulatory compromise, a lethargic baby with a strong odour, ketonuria and a severe metabolic acidosis without significant hyperlactataemia or hypoglycaemia. These findings point  删除换行1 to an inborn error of metabolism, where excess acid is accumulating in the blood due to a  删除换行1 metabolic defect. Possible causes include propionic, methylmalonic and isovaleric acidaemias. Remembering the names is less important than recognizing this type of presentation.
+
+【28】Emergency management consists of stopping feeds and starting an infusion of 10 per cent  删除换行1 dextrose. Whilst sepsis is unlikely to be the sole cause of the illness, it could be a contributing factor and antibiotics should be administered. The baby needs to be assessed promptly by  删除换行1 an experienced paediatrician as he is likely to require intubation and ventilation if he starts  删除换行1 to tire or cannot protect his airway. It is likely that sodium bicarbonate would be beneficial  删除换行1 to partially correct the acidosis, and the case should be discussed urgently with the regional  删除换行1 paediatric metabolic centre, as specific therapies may be recommended even before a certain  删除换行1 diagnosis is available. To assist in making a diagnosis, blood should be sent for ammonia,  删除换行1 plasma amino acid profile, and urine for amino and organic acid profiles.
+
+【29】This baby had consanguineous parents (first cousins), increasing the risk of an autosomal  删除换行1 recessive inborn error of metabolism. He required intubation and ventilation until the acidosis was corrected and he was then transferred to the regional metabolic unit. The diagnosis  删除换行1 turned out to be isovaleric acidaemia.
+
+【30】Key Points
+
+【31】• Metabolic disease can present as a sudden deterioration in the neonatal period.
+
+【32】• Metabolic disease is rare and management must be discussed with an expert.苏锦恭
+
+====================================================================================================

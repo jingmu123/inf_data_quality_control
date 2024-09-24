@@ -1,0 +1,88 @@
+【0】删除1：<u>© Springer Nature Switzerland AG 2019
+
+【1】Jashin J. Wu (ed.) Clinical Cases in Psoriasis Clinical Cases in Dermatology 删除9：<u>https://doi.org/10.1007/978-3-030-18772-9\17</u></u>
+
+【2】17. 47-Year-Old Given BCG Vaccine as a Child
+============================================
+删除2：<u>Michael P. Lee通用删除4(英):<u> <sup><a>1 </a></sup></u> , Kevin K. Wu通用删除4(英):<u> <sup><a>2 </a></sup></u> and Jashin J. Wu <sup><a>3</a><a><span class="ContactIcon"></span></a></sup>
+
+【3】通用删除7(英):<u>(1)</u>
+
+【4】Eastern Virginia Medical School, Norfolk, VA, USA
+
+【5】通用删除7(英):<u>(2)</u>
+
+【6】Frank H. Netter MD School of Medicine at Quinnipiac University, North Haven, CT, USA
+
+【7】通用删除7(英):<u>(3)</u>
+
+【8】Founder and CEO, Dermatology Research and Education Foundation, Irvine, CA, USA
+
+【9】Jashin J. Wu
+
+【10】</u>
+### Keywords
+
+【11】Psoriasis BCG vaccine Tuberculosis
+
+【12】Case
+----
+
+【13】47-year-old male, with an extensive history of psoriasis on his whole body for many years, presented with persistent erythematous plaques on bilateral lower legs. He had previously been on multiple medications for his psoriasis including methotrexate and acitretin. For the past 2–3 years, patient had been on etanercept 50 mg twice weekly. His psoriasis had mildly improved, but he continued to experience lesions on the legs, arms, and trunk. His last etanercept injection was the previous week. Patient had no history of psoriatic arthritis or injection site reactions. He denied any fevers, chills, night sweats, cough, hemoptysis, shortness of breath, leg edema, weakness, or numbness in the extremities. Of note, patient is Filipino and received the BCG vaccine as a child.
+
+【14】On physical examination , a total body skin check was performed with erythematous, scaly indurated papules and plaques visualized mostly on the bilateral lower legs and some on arms and trunk. The affected body surface area was approximately 6%.
+
+【15】Based on the clinical case description, what is the best treatment recommendation for this patient?
+
+【16】1.  1.
+    Start adalimumab
+2.  2.
+    Start topical steroids
+3.  3.
+    Start rifampin and isoniazid
+4.  4.
+    Start topical calcineurin inhibitor
+5.  5.
+    Continue etanercept
+
+【17】Treatment
+---------
+
+【18】Start adalimumab
+
+【19】Discussion
+----------
+
+【20】TNF-alpha is an inflammatory cytokine that plays an important role in the pathogenesis of psoriasis and is often the target of therapy in the treatment of moderate to severe psoriasis involving more than 5% body surface area 通用删除6(英):<u>\[ 1 \]</u>. TNF-alpha is also crucial in inhibiting viral replication and maintaining granulomas in tuberculosis (TB) infections 通用删除6(英):<u>\[ 2 \]</u>. While TNF inhibitors have been successful in treating psoriasis, careful testing for latent and active tuberculosis infections is necessary, as incidence of TB infections have gone up with TNF inhibitor use 通用删除6(英):<u>\[ 3 \]</u>.
+
+【21】Mycobacterium tuberculosis is responsible for the transmission of TB infections through aerosolized inhalation. An inadequate pulmonary immune response that is unable to clear the mycobacterium via macrophages results in infection. The CDC estimates that one fourth of the world is infected with 1.7 million TB related deaths each year. In 2016, the United States experienced 9272 new TB cases, a 3.6% decrease from 2015.
+
+【22】Patients with latent TB infection are mostly asymptomatic as Mycobacterium are contained within granulomas, which prevents further replication of the bacteria and disease progression 通用删除6(英):<u>\[ 4 \]</u>. Reactivation of latent TB from decreased host defenses can lead to extrapulmonary spread of the bacterium to multiple organ systems including the vertebra and kidney 通用删除6(英):<u>\[ 4 \]</u>. Risk factors for reactivation are multifactorial and include age, bacterial load, and immune compromise. TNF-alpha works on increasing phagocytic activity of macrophages and the formation of granulomas. Thus, use of TNF inhibitors can increase the risk of TB infections 通用删除6(英):<u>\[ 3 \]</u>.
+
+【23】All TNF inhibitors increase the risk of tuberculosis, although adalimumab and infliximab confer the highest risk 通用删除6(英):<u>\[ 5 , 6 \]</u>. Prior to initiating a TNF inhibitor for psoriasis treatment, a thorough history and physical exam should be performed to rule out any TB infection. Epidemiologic risk factors should be taken into consideration along with performing a purified protein derivative (PPD) skin test or interferon gamma release assay (IGRA) 通用删除6(英):<u>\[ 7 \]</u>. Patients with a positive PPD or IGRA should be followed up with a chest plain film to rule out active TB 通用删除6(英):<u>\[ 7 \]</u>.
+
+【24】Patients with a positive PPD or IGRA and negative plain film reading have a diagnosis of latent TB infection (LTBI) . Those with epidemiologic risk factors of TB exposure such as birth or travel to endemic area, occupation in homeless shelter or prison, occupation in healthcare settings, or contact with a patient with known active TB should be tested initially using IGRA as recommended by the CDC 通用删除6(英):<u>\[ 8 \]</u>. Patients that have received BCG vaccine should also be initially tested with IGRA 通用删除6(英):<u>\[ 8 \]</u>. IGRA is preferred as initial screening test, as it is more sensitive and can be completed in one visit. It is also unnecessary to know a patient’s Bacille Calmette-Guérin (BCG) vaccine history, which can cause a false positive PPD. Interestingly, there have been a few reported cases of patients developing psoriatic skin lesions following BCG vaccine 通用删除6(英):<u>\[ 9 , 10 \]</u>. For patients without risk factors for TB exposure and have not received the BCG vaccine, PPD skin test is a reasonable alternative test 通用删除6(英):<u>\[ 8 \]</u>.
+
+【25】Treatment
+---------
+
+【26】Patients with latent or active TB must be properly treated prior to initiating biologic therapy. For LTBI, 9 months of isoniazid in conjunction with vitamin B6, 4 months of rifampin, or 12 weeks of isoniazid plus rifapentine are the recommended treatments by the CDC 通用删除6(英):<u>\[ 11 \]</u>. Those with active TB must defer biologic therapy and be referred to a specialist for treatment using standard multidrug therapy of rifampin, isoniazid, pyrazinamide, and ethambutol (RIPE).
+
+【27】Without proper screening or treatment of TB infections, potentially life threatening infections can occur for patients treated with TNF inhibitors. Adalimumab, etanercept, and infliximab all contain black box warnings for risk of disseminated and extrapulmonary tuberculosis. From 1998 to 2002 there were 54 cases per 100,000 people of infliximab associated TB infection and 28 cases per 100,000 people of etanercept associated TB infections in the United States 通用删除6(英):<u>\[ 12 \]</u>. Regarding adalimumab, a 5-year observational registry study demonstrated 18 cases of TB infection with 3 being active TB 通用删除6(英):<u>\[ 13 \]</u>. These cases highlight the importance of thorough evaluation for TB risk factors and appropriate screening for LTBI. Patients with LTBI should not be started on TNF inhibitor therapy without receiving TB prophylaxis.
+
+【28】There are alternative treatments that are safe in the setting of TB infection. Narrowband ultraviolet B (NB-UVB) has been demonstrated to be effective for psoriasis affecting more than 10% body surface area and is not associated with TB reactivation 通用删除6(英):<u>\[ 14 \]</u>. Screening for TB is therefore unnecessary and therapy can be administered safely. Other topical medications including corticosteroids, vitamin D analogs, and calcineurin inhibitors have also not been shown to increase risk of TB reactivation, although these treatments may be difficult to use in patients with psoriasis affecting more than 10% body surface area 通用删除6(英):<u>\[ 14 \]</u>.
+
+【29】Ustekinumab , an immunomodulator that works by blocking IL-12/IL-23, can also be considered as low risk for reactivation of TB. Safety data from five studies using ustekinumab showed 167 of 3177 patients having latent TB infection, but no cases of active TB were reported while patients were simultaneously receiving ustekinumab and isoniazid treatment 通用删除6(英):<u>\[ 15 \]</u>. Ixekizumab and secukinumab , which act through inhibiting IL-17, have also not been shown to increase the risk of TB reactivation as seen from multiple studies 通用删除6(英):<u>\[ 15 – 17 \]</u>. However, both of these medications have been mandated by the FDA to include warnings of TB infection as cytokines play a vital role in immune response.
+
+【30】The patient from the clinical scenario previously received the BCG vaccine as a child. He was thoroughly examined and screened for history of tuberculosis and risk factors. Given his persistent psoriatic lesions on etanercept, treatment was switched to adalimumab 40 mg every other week. He was counseled to go to the emergency department if he experienced any symptoms of fever, cough, and hemoptysis.
+
+【31】Key Points
+----------
+
+【32】   Immunosuppressive therapy such as TNF inhibitors increase the risk of tuberculosis infection.
+   Patients should be screened for latent tuberculosis infection with a PPD skin test or IGRA. Those who have previously received BCG vaccine should have an IGRA due to the chance of false positives.
+   Patients diagnosed with latent TB and are at high risk of reactivation should either begin TB treatment prior to starting any immunosuppressive therapy or consider other safer forms of psoriasis treatment.
+
+【33】###王磊
+
+====================================================================================================

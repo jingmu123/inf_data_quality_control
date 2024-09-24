@@ -1,0 +1,69 @@
+【0】Case Files® Microbiology, Third Edition    
+
+【1】CASE 47
+-------
+
+【2】A 4-year-old girl is brought to the physician’s office by her mother because of anal itching. The mother has noticed her daughter scratching and rubbing her anal area frequently for the past few days. Her anal area has been getting red and raw from all the scratching. Her mother has used some petrolatum (petroleum jelly) and hydrocortisone cream, but it has not helped much. The child has not had any obvious skin rashes and is not scratching any other part of her body. She has not had diarrhea. She takes no medications and has no significant medical history. She attends day care 4 days a week. On examination, she is a well-appearing child. Her vital signs and general examination are normal. Examination of her perianal area reveals some erythema and excoriation from scratching. You perform a microscopic examination of a sample collected by touching the perianal region with a piece of clear cellophane tape.
+
+【3】 What diagnostic finding are you likely to see on this microscopic examination?
+
+【4】 What is the organism responsible for this infection?
+
+【5】### ANSWERS TO CASE 47:
+
+【6】#### Enterobiasis or Pinworm Infection
+
+【7】Summary: A 4-year-old girl has perianal pruritus. The diagnosis is made by microscopic examination of a sample collected by touching the perianal region with a piece of clear cellophane tape.
+
+【8】• Diagnostic finding likely to see on this microscopic examination: Thin-walled, ovoid eggs flattened on one side and contain a nematode larva.
+
+【9】• Organism responsible for this infection: Enterobius vermicularis .
+
+【10】### CLINICAL CORRELATION
+
+【11】E. vermicularis , commonly called the pinworm, is the most common cause of helminthic infections in the United States and is endemic around the world. Humans are the only known host for E. vermicularis , but other vertebrates can be infected with different species of this nematode. Adult worms, approximately 1 cm in length, white and thread-like in appearance, inhabit the large intestine. Gravid females migrate to the perianal and perineal regions at night to lay eggs that are immediately infective. Infection is more common in children than adults and is often asymptomatic. However, a variety of symptoms are ascribed to pinworms. Atypically, worms are sometimes found in an inflamed appendix, and there are rare reports of worms reaching the genital tract and producing vaginitis. By far the most common signs of infection occur in children and include restless sleep and tiredness during the day. However, more common symptoms consist of anal or perianal itching because of the adult worms crawling on the skin. The eggs can also cause local itching, which may be more intense in secondary infections as a result of allergic reactions to their antigenic coating. Frequent scratching results in transfer to the hands and areas under the fingernails. Eggs are frequently transferred to clothing, bedding, toys, and dust, where they can survive for several weeks. Through hand-to-mouth transmission, the eggs are ingested and hatch in the duodenum. Larvae released from eggs reside in the cecum and reach adult stage in about a month. Infections are acute, generally lasting 4 to 8 weeks. Considering the relatively short duration of a single infection, chronic enterobiasis is caused by reinfection.
+
+【12】### APPROACH TO:
+
+【13】#### The Suspected Enterobius Infection
+
+【14】### OBJECTIVES
+
+【15】1\. Learn the life cycle of E. vermicularis and the epidemiology and clinical course of infection.
+
+【16】2\. Describe 3 basic aspects of infection: transmission, diagnosis, and treatment/prevention.
+
+【17】### DEFINITIONS
+
+【18】PINWORM: Common name for E. vermicularis
+
+【19】CERVICAL ALAE: An extension of a lateral cuticular protuberance or lateral line on the body surface of the pinworm that extends to the head region and appears microscopically as a “flared” region or collar. Adult worms are identified, in part, by the presence of cervical alae, which are prominent structures when examined microscopically
+
+【20】NOCTURNAL MIGRATION: Refers to the tendency of pinworms to migrate at night from the colon, out the anus, to the perianal and perineal regions to deposit eggs
+
+【21】LARVATED EGG: Refers to eggs that contain a larval stage and are deposited by pinworms on the skin
+
+【22】### DISCUSSION
+
+【23】Characteristics of Enterobiasis That Impact Transmission
+
+【24】A patient acquires infection by ingesting the pinworm eggs containing infective larvae. Ingested eggs hatch in the small intestine, releasing larvae that migrate to the cecal area and mature into adult male and female worms that are free or insecurely attached to the mucosa. The period between ingestion of eggs to maturation takes approximately 3 to 4 weeks. Following copulation, the female pinworms produce eggs. Rather than release eggs in the bowel, the female worms migrate out the anus onto the surrounding skin and release eggs. Worm migration usually occurs at night. Each female will lay thousands of microscopic, larvated eggs. Pinworm eggs are infective within a few hours after being deposited on the skin. They can survive up to 2 weeks on clothing, bedding, or other objects. Individuals can become infected after accidentally swallowing infective pinworm eggs from contaminated surfaces or fingers. The duration of a single infection is 4 to 8 weeks.
+
+【25】### DIAGNOSIS
+
+【26】Although Enterobius is an intestinal parasite, eggs are rarely found during laboratory examinations of stools. If a person is suspected of having pinworms, then the so-called “scotch tape test” should be used to identify the parasite. Transparent adhesive tape, sometime attached to the end of tongue depressor or “pinworm paddle,” is pressed in the anal region. This procedure involves the help of a patient or parents of suspected children. The tape is then transferred to a glass slide, sticky side down. The slide should then be examined microscopically for eggs. Pinworm eggs are approximately 20 × 50 μm and are characteristically flattened on one side and usually contain an active larva. Because bathing or having a bowel movement may remove eggs, the scotch tape impression should be made on awakening in the morning. In children, samples taken from under the fingernails may also contain eggs because scratching of the anal area is common.
+
+【27】A definitive diagnosis may also be made on recovery and identification of adult worms seen directly in bed sheets or around the anal area. The female pinworm has a sharply pointed tail and anterior cervical alae that form a collar-like structure around the mouth. The female worm is about 1 cm long with a diameter of approximately 0.5 mm. In female worms that are gravid, the uterus filled with easily identifiable eggs is a common feature.
+
+【28】### TREATMENT AND PREVENTION
+
+【29】Highly effective drugs in the treatment of enterobiasis are mebendazole (first line) and pyrantel pamoate, which is preferred in pregnancy, given as a single dose, with a repeat dose administered 2 weeks later. Mebendazole is a broad-spectrum antinematode agent with a high therapeutic index. Close family contacts of infected individuals should also be treated. If reinfection occurs, then the source of the infection should be identified. Therefore, playmates, schoolmates, close contacts outside the house, and household members should be considered. Each infected person should receive the 2-dose treatment and, if necessary, more than 2 doses. In short, the importance of determining infection in the entire family and contacts should be explained in terms of the life cycle of the worm. Personal and group hygiene should be stressed.
+
+【30】### SYNPNOSIS
+
+【31】The synopsis of enterobiasis is presented in Table 47-1 .
+删除4：<u>Table 47-1 • SYNOPSIS OF ENTEROBIASIS</u>
+
+【32】###黄艳玲
+
+====================================================================================================

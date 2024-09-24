@@ -1,0 +1,22 @@
+【0】Chapter 13
+
+【1】Cell Cycle
+==========
+
+【2】Summary
+-------
+
+【3】Cellular life encompasses a repeated pattern of growth and reproduction. The cell cycle categorizes these phases into the discrete stages G1, S, G2, and M. The ability of a cell to progress from one stage of the cell cycle to the next is regulated by the interactions between cyclin proteins and cyclin-dependent protein kinases . “Now You See It, Now You Don’t: The Discovery of Cyclin” is a case study based on the original paper by T. Evans, E.T. Rosenthal, J. Youngblom, D. Distel, and T. Hunt 删除10：<u>(Cyclin: a protein specified by maternal mRNA in sea urchin eggs that is destroyed at each cleavage division. Cell. 1983;33:389–396)</u> that first identified cyclins. Cyclins control a cell’s entry into mitosis. Identification of the specific cyclin responsible for initiating nuclear envelope breakdown is examined in the case study, “Sorting out Cyclins” based on the work of D. Gong, J.R. Pomerening, J.W. Myers et al. 删除10：<u>(Cyclin A2 regulates nuclear-envelope breakdown and the nuclear accumulation of cyclin B1. Curr Biol. 2007;17:85–91)</u>. Formation of the mitotic spindle requires the presence of two centrosomes, each containing a pair of centrioles. The work of K.R. Lacey, P.K. Jackson, and T. Stearns 删除10：<u>(Cyclin-dependent kinase control of centrosome duplication. Proc Natl Acad Sci USA. 1999;96:2817–2822)</u> is used in the case study, “Of Centriole Separation and Cyclins” to examine the role of cyclins in controlling centriole replication and migration. While mitosis is a very dynamic phase of the cell cycle, the transition from G1 to S phase is arguably more important. The function of the protein Rb and the transcription factor E2F in controlling the G1/S transition is explored in the case study, “The Path to S Phase is Paved With Phosphorylation,” drawn from the work of J.W. Harbour, R.X. Luo, A. DeiSanti, A.A. Postigo, and D.C. Dean 删除10：<u>(Cdk phosphorylation triggers sequential intramolecular interactions that progressively block Rb functions as cells move through G1. Cell. 1999;98:859–869)</u>.
+
+【4】Keywords
+--------
+
+【5】cyclin 删除换行1 cyclin-dependent protein kinase 删除换行1 mRNA
+
+【6】siRNA
+
+【7】nuclear envelope breakdown 删除换行1 centriole 删除换行1 centrosome
+删除14：<u>Rb</u>删除14：<u>E2F</u>
+S phase王磊
+
+====================================================================================================

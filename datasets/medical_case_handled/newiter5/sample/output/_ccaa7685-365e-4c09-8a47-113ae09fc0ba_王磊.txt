@@ -1,0 +1,59 @@
+【0】Case Files®: Anatomy, Third Edition    
+
+【1】CASE 54
+-------
+
+【2】A 9-year-old boy is brought to the pediatrician because of severe headaches over the past week. The headaches were initially present only in the morning but over the last 48 h have become constant, lasting all day long. The child has also been vomiting and complains of problems “seeing.” On examination, his temperature is 98°F and his heart rate is 80 beats/min. The child appears to be lethargic and is sensitive to the lights in the room. He has some neck rigidity, and his gait seems to be unsteady. Otherwise the examination is normal. A CT scan of the head is performed urgently and reveals bilateral enlargement of the frontal horns of the lateral ventricles and the third ventricle.
+
+【3】 What is the most likely diagnosis?
+
+【4】 Where is the obstruction most likely located?
+
+【5】### ANSWER TO CASE 54 :
+
+【6】#### Hydrocephalus
+
+【7】Summary: This is a 9-year-old child with progressive headache over 1 week, vomiting, and visual disturbances. On examination, the child has lethargy, photosensitivity, neck rigidity, and an unsteady gait. CT imaging shows lateral and third ventricle enlargement.
+
+【8】• Most likely diagnosis: Hydrocephalus
+
+【9】• Obstruction: Most likely the aqueduct of Sylvius leading to bilateral lateral ventricle and third ventricle enlargement.
+
+【10】### CLINICAL CORRELATION
+
+【11】Hydrocephalus is the accumulation of cerebrospinal fluid in the brain. This increased CSF can be due to increased production, disturbance in flow, or altered absorption. Symptoms depend on the age of the patient and the rapidity of development. In this case, the child has an acute onset (less than 1 week) leading to more dramatic symptoms. If the hydrocephalus developed slowly such as over months, the only symptoms may be a vague headache and memory problems. With acute hydrocephalus, the most common complaint is headache. Children often are lethargic or have insomnia; if these symptoms are significant, they can also lead to vomiting. This child also has mild sensitivity to light (photophobia) and neck stiffness (rigidity), which are indications of meningeal irritation. Acute meningitis or blood in the CSF can also cause these symptoms. A brain tumor is another possibility; imaging of the brain is important to rule out the condition. In this case, significant hydrocephalus is identified on the CT scan. Because the lateral ventricles and the third ventricle are dilated, the most likely location of the obstruction is at the aqueduct of Sylvius. The treatment is to relieve the CSF accumulation, which usually involves a shunt placement procedure; a ventriculoperitoneal route is most commonly used. Surgical relief of the obstruction may also be attempted.
+
+【12】### APPROACH TO:
+
+【13】#### Ventricular System of the Brain
+
+【14】### OBJECTIVES
+1\. Be able to describe the location of the ventricles and circulation of CSF 删除换行5 2\. Be able to identify the choroid plexus in the lateral, third and fourth ventricles, and the arachnoid granulations in the superior sagittal sinus.
+
+【15】### DEFINITIONS
+
+【16】CHOROID PLEXUS: A structure in the ventricles of the brain where cerebrospinal fluid (CSF) is produced. The choroid plexus consists of modified ependymal cells.
+
+【17】ARACHNOID GRANULATIONS: Protrusions of arachnoid mater through the dura mater into the venous sinuses of the brain, allowing CSF to exit the subarachnoid space and return to the venous system. Most of the arachnoid granulations can be found in the superior sagittal sinuses.
+
+【18】### DISCUSSION
+
+【19】There are four ventricles in the brain. The lateral ventricles are located within the cerebral hemispheres. The third ventricle is located between the diencephalons, and the fourth ventricle is located between the brainstem and the cerebellum 删除33：<u></u>.
+
+【20】删除3：<u>Figure 54-1. (a) Three-dimensional lateral view of the ventricles of the brain; (b) location and circulation of the cerebrospinal fluid (CSF). 删除10：<u>删除33：<u>(Reproduced, with permission, from Morton DA, Foreman KB, Albertine KH. The Big Picture: Gross Anatomy. New York: McGraw-Hill Medical, 2011)</u></u></u>
+
+【21】The paired lateral ventricles are the largest in the ventricle system of the brain and are each composed of one body and three horns: the anterior or frontal horn extends into the frontal lobe, the posterior or occipital horn extends into the occipital lobe, and the lateral or temporal horn extends into the temporal lobe. The body of the lateral ventricle is the central portion and is found in the parietal lobe just posterior to the frontal horn. The inner surface of the lateral ventricles is covered by a thin epithelial membrane called the ependyma . In the central portion and temporal horns of the ventricle, the ependyma is folded into the cavity with capillaries to form the choroid plexus , which produces CSF. CSF produced in the lateral ventricles flows into the third ventricle through interventricular foramen of Monro.
+
+【22】The third ventricle is a narrow, slitlike space. The choroid plexus is found in the superior part of this ventricle close to the interventricular foramen. The cerebral aqueduct of Sylvius conducts CSF from the third ventricle to the fourth ventricle.
+
+【23】The fourth ventricle has a tentlike configuration. The rhomboid fossa of the brainstem forms the floor, and the superior and inferior medullary velum of the cerebellum form the roof of this ventricle. The choroid plexus is found in the inferior part of this ventricle. From the fourth ventricle, CSF flows into the subarachnoid space through the foramina of Magendie and Luschka.
+
+【24】After the CSF circulates into the subarachnoid space and surrounds the brain and spinal cord, it is drained into the venous sinuses via the arachnoid granulations located mostly in the superior sagittal sinus 删除33：<u></u>.
+
+【25】删除3：<u>Figure 54-2. Flowchart showing circulation of CSF in the subarachnoid space.</u>
+
+【26】Increasing production of CSF, decreasing the absorption of CSF, or blocking the flow of CSF will cause it to accumulate in the ventricles, leading to hydrocephalus.
+
+【27】###王磊
+
+====================================================================================================

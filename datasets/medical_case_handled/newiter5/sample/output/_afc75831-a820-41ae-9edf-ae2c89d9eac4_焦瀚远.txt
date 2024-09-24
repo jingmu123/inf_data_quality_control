@@ -1,0 +1,18 @@
+【0】Question: A 12-year-old boy who recently emigrated from Nigeria presents with a six-month history of intermittent fever, fatigue, and night sweats. He has a large mass on his right mandible. Biopsy of the mass shows an interspersed pattern of macrophages with sheets of lymphoblasts. The pathogen associated with this patient’s presentation also is associated with which of the following conditions?
+
+【1】> (A) Cervical adenocarcinoma
+
+【2】> (B) Gastric adenocarcinoma
+
+【3】> (C) Hepatocellular carcinoma
+
+【4】> (D) Heterophile-negative mononucleosis
+
+【5】> (E) Nasopharyngeal carcinoma
+ Answer: The correct answer is E . Endemic African Burkitt lymphoma frequently manifests as masses involving the mandible (and less often the kidneys, ovaries, and adrenals). Affected lymph nodes show a classic “starry-sky” pattern of neoplastic lymphoblasts and non-neoplastic “tingible body” macrophages. The neoplastic cells typically show a translocation of the c-myc gene on chromosome 8 onto the immunoglobulin heavy-chain gene on chromosome 14. It is more common in African children and is associated with the Epstein-Barr virus (EBV). EBV also is associated with heterophile-positive mononucleosis, oral hairy leukoplakia in patients infected with HIV, lymphoproliferative disorders in immunocompromised hosts (including Hodgkin and non-Hodgkin lymphomas), and nasopharyngeal carcinoma. Interestingly, nonendemic Burkitt lymphoma presents as an abdominal mass and is associated with HIV, not EBV.  
+Answer A is incorrect . Cervical adenocarcinoma is associated with human papillomavirus.  
+Answer B is incorrect . Gastric adenocarcinoma may be associated with Helicobacter pylori , but not EBV. Gastric carcinomas, 90% of which are adenocarcinomas, are more common in developing countries than in industrialized countries; they rarely occur before age 40 years; and incidence peaks in the seventh decade with a male:female ratio of 2:1. Gastric carcinoma also is associated with atrophic gastritis, post-gastrectomy states, achlorhydria, pernicious anemia, Ménétrier’s disease, and adenomatous polyps.  
+Answer C is incorrect . Hepatocellular carcinoma is associated with chronic HBV and HCV infections. Other noninfectious associations with hepatocellular carcinoma include cirrhosis (secondary to alcohol, or cryptogenic), hemochromatosis, aflatoxin ingestion, and α1 \-antitrypsin deficiency.  
+Answer D is incorrect . Heterophile-negative mononucleosis is associated with cytomegalovirus, acute HIV, toxoplasmosis, and human herpesvirus types 6 and 7. Although heterophile-negative mononucleosis may present with similar symptoms of fever and lymphadenopathy without pharyngitis (as in this case), these infectious agents typically would not result in the large mass on the right mandible. Heterophile-positive mononucleosis is associated with EBV.焦瀚远
+
+====================================================================================================

@@ -1,0 +1,19 @@
+【0】Question: An infant boy experiences multiple bacterial, viral, and fungal infections during his first year of life. He has also been suffering diarrhea since birth. Tests are performed to determine the likely cause of his symptoms. Serum calcium levels are normal, and the patient’s white blood cells change nitroblue tetrazolium from clear to bright blue; however, his B- and T-lymphocyte counts are very low. What is a possible mechanism accounting for his symptoms?
+
+【1】> (A) Defective interleukin-2 receptors
+
+【2】> (B) Failure of the third and fourth pharyngeal pouches to descend
+
+【3】> (C) Inability of helper T lymphocytes to switch classes
+
+【4】> (D) Lack of NADPH oxidase activity
+
+【5】> (E) X-linked tyrosine kinase defect
+
+【6】 Answer: The correct answer is A. Severe combined immunodeficiency can be caused by multiple factors: failure to synthesize major histocompatibility complex II antigens, defective interleukin-2 receptors, or adenosine deaminase deficiency. This defect in early stem cell differentiation results in a lack of T and B lymphocytes. Without T and B lymphocytes, patients are at significantly increased risk of bacterial, viral, and fungal infections. Treatment includes bone marrow transplantation.  
+Answer B is incorrect. Failure of the third and fourth pharyngeal pouches to descend is known as DiGeorge syndrome, and results in no thymus or parathyroid glands. Chromosome 22q 11 deletions are associated with DiGeorge syndrome. Tetany from hypocalcemia and viral and fungal infections are common due to the lack of T lymphocytes, while normal B lymphocytes are present.  
+Answer C is incorrect. A CD40 ligand defect causes hyper-IgM syndrome, because the CD4 T-helper cells are unable to switch classes from IgM. Although these patients present with multiple infections such as pneumonia, sinusitis, infectious diarrhea, and central nervous system (CNS) infections, the most common laboratory finding is neutropenia, not low levels of lymphocytes.  
+Answer D is incorrect. The lack of reduced NADPH oxidase activity results in chronic granulomatous disease. Staphylococcus aureus, Escherichia coli , and Aspergillus are common pathogens. The nitroblue tetrazolium dye reduction test shows no activity in these patients. Because the question stem says that the nitroblue tetrazolium dye test turned blue, this patient must have normal NADPH oxidase activity, and thus cannot have chronic granulomatous disease.  
+Answer E is incorrect. An X-linked tyrosine kinase defect causes Bruton agammaglobulinemia, resulting in decreased levels of all immunoglobulin molecules. Infections begin to occur after the maternal IgG antibodies decline, typically after six months of life.焦瀚远
+
+====================================================================================================

@@ -1,0 +1,98 @@
+【0】CASE27
+
+【1】A 45-year-old man with a 15-year history of ulcerative colitis (UC) is evaluated in the outpatient office because of chronic bloody diarrhea over the past 6 weeks. The patient's vital signs are normal. His hemoglobin level is 11.0 g/dL. His current medications consist of prednisone and mesalamine (a 5-aminosalicylate deriva-tive)， and he recently completed a course of cyclosporine therapy 2 months ago for another bout of disease flare-up. The patient has been unable to maintain full-time employment as an accountant over the past year because of UC exacerba-tions. Previous colonoscopy has shown that his disease extends from the rectum to the cecum.
+
+【2】What should be your next step?
+
+【3】What is the best therapy?
+
+【4】ANSWERS TO CASE27：
+
+【5】Ulcerative Colitis
+
+【6】Summary： A 45-year-old man with pancolonic chronic UC that has become refrac-tory to medical management and is causing him significant disability.
+
+【7】Next step： The option of surgical therapy should be presented to this patient. The discussion should explain the benefits， risks， and limitations of surgery versus those of continued medical therapy.
+
+【8】Best therapy： Proctocolectomy with ileal pouch-anal anastomosis.
+
+【9】ANALYSIS
+
+【10】Objectives
+
+【11】1\. Learn with the clinical presentation， natural history， medical management， and complications of UC.
+
+【12】2\. Learn the indications for urgent and elective operations for the treatment of UC.
+
+【13】3\. Describe the surgical options and their outcomes for the treatment of UC.
+
+【14】Considerations
+
+【15】UC is a chronic disease with variability in severity and anatomic involvement. The symptoms associated with UC often respond to medicated enemas and systemic pharmacologic therapies. In this case， a 45-year-old man presents with a 15-year history of pancolitis that is producing disabling symptoms that appear to be refrac-tory to medical therapy. The discussion regarding treatment should include medical treatment options as well as surgical options. Surgical resection of diseased colon and rectal segments would drastically improve the gastroinstestinal (GI) symptoms associated with UC. However， the operation would result in permanent changes in bowel functions and body image. It is essential to convey to the patient that surgi-cal removal of the bowel may improve some ofthe extraintestinal manifestations of UC， especially erythema nodosum， arthritis， and eye changes. Another important reason to consider surgical resection in this patient has to do with reducing the risk of colorectal cancer (CRC). The risk of CRC increases with the extent of UC involvement as well as the duration of disease. Proctocolectomy with ileal pouch reconstruction is an operation that would improve this patient’s quality of life and reduce his risk for CRC development.
+
+【16】FULMINANT COLITIS AND TOXICMEGACOLON：Fulminant colit is is a con-dition characterized by abdominal pain， fever， and sepsis that develops in the setting of UC but may also occur with Crohn colitis and pseudomembranous colitis. Toxic megacolon occurs when these clinical findings are associated with radiographic evidence of significant colonic distension (transverse colon >8 cm diameter). The cecum is the most frequent site of involvement. Patient can become extremely ill with clinical signs of sepsis， and this condition is highly lethal if not promptly rec-ognized and treated. When identified with either condition， the patient requires prompt fluid resuscitation， broad-spectrum antibiotics administration， and maxi-mal supportive therapy. Roughly one-third of the patients affected will go on to require colectomies.
+
+【17】EXTRACOLONIC MANIFESTATIONS ASSOCIATED WITH UC：：The 删除换行1 extracolonic manifestations may include skin， joints， eyes， and liver. Skin-erythema nodosum and pyoderma gangrenosum are the two most common， and others include psoriasis stomatitis. Joint-peripheral and axial arthritis can occur. Type I peripheral arthropathy is acute and flares with the colitis. Type 2 arthropathy is chronic and typically involves more than six joints and can be migratory. Axial arthropathy manifestation includes ankolysing spondylitis and sacroiliitis， and these conditions can lead to decreased mobility and chronic disability. GI-primary sclerosing chol-angitis，autoimmune hepatitis，and pancreatitis can occur. Eyes-uveitis，scleritis，and optic neuritis.
+
+【18】DYSPLASIA： A premalignant transformation of the mucosa caused by chronic UC. The risk of cancer associated with dysplasia varies depending on the severity of the dysplastic changes. Roughly 40% of the patients with high-grade dysplasia harbor synchronous cancers， and 20% of patients with low-grade dysplasia harbor synchronous cancers.
+
+【19】DYSPLASIA ASSOCIATED LESIONS OR MASS (DALM)： This is a sessile pseudopolyp arising from dysplastic mucosa affected by chronic UC. Fifty percent of patients with DALM have carcinomas within these lesions. Patients with these findings should be recommended to undergo proctocolectomy.
+
+【20】PANCOLITIS： This refers to UC involvement extending from the rectum to the distal small bowel. Patients with this disease pattern have a significantly greater risk of developing cancers in comparison to individuals with shorter segments of colonic involvement. Prophylactic proctocolectomies are generally recommended for patients with pancolitis of significant durations.
+
+【21】UC SURVEILLANCE RECOMMENDATIONS： The current recommendation from the American Gastroenterological Association recommends that patients with at least one-third of their colon involved with UC undergo initial screening 删除换行1 colonoscopy and multiple quadrants biopsies 8 years after disease diagnosis， fol-lowed by subsequent surveillance colonoscopies with biopsies every 1 to 3 years.
+
+【22】ILEAL-J-POUCH： A neorectum constructed from the terminal ileum in the shape of a J. This pouch can then be attached to the anus to form an ileal-j-pouch to anal anastomosis.
+
+【23】CONTINENT ILEOSTOMY(KOCH POUCH)：This is a surgical reconstruction option following total proctocolectomy when there is no remaining anus or rectal sphincters left remaining. The terminal ileum is fashioned to create a pouch with500 to 1000 mL capacity and invagination of the ileum just below the fascia is constructed to provide continence. The pouch is emptied with the placement of a drainage catheter. Because the drainage mechanisms are prone to failure in a high percentage of patients， this procedure is rarely done today.
+
+【24】TOTAL PROCTOCOLECTOMY WITH ILEAL-RECTAL ANASTOMOSIS：The resection involves removal of the entire colon and the majority of the rectum except for the last few cm segment of the distal rectum. The procedure has the advantage of being technically easier to reconstruct； however， the major disadvan-tage is that cancer-prone mucosa is left behind and requires close surveillance.
+
+【25】POUCHITIS： Idiopathic inflammatory process involving the ileal pouch that can develop following J-pouch formations. Patients may present with any number of symptoms， including increased stool frequencies， fecal urgency， fecal incontinence， watery diarrhea， bleeding， abdominal cramps， fever， and malaise. Bacterial over-growth can be a contributing factor for pouchitis. Therefore， most patients with pouchitis improve with a course of antibiotic treatment. Approximately 50% of patients following ileal-pouch reconstructions will have at least one episode of pou-chitis， and 10% to 15% of patients will develop chronic pouchitis.
+
+【26】UC is a chronic， inflammatory condition of unknown etiology. Patients typically present with bloody diarrhea， abdominal pain， urgency， and tenesmus of varying severity with episodes of remissions and flare-ups. Gastrointestinal infections，non-steroidal inflammatory drugs (NSAIDs)，and antibiotics have all been implicated in the development of UC. Enteric infections by Salmonella or Campylobacter species have been shown to correlate with disease development. Similarly， the chronic use ofNSAIDs in women is associated with increased risk ofUC. Antibiotic exposure， particularly tetracyclines， has also been linked to UC development. UC appears to follow a familial distribution； however， the risk of first-degree relatives of a patient with UC developing the disease is only 10%to 25%. Unlike Crohn disease， cigarette smoking appears to confer a protective effect against UC development， and smok-ing cessation seems to be associated with disease development. Histologically，UC differs from Crohn disease in that the disease is limited to the mucosa as opposed to transmural in Crohn disease.
+
+【27】The diagnosis of UC is based on typical symptoms and endoscopic evidence of continuous colonic inflammation beginning in the rectum. Occasionally， UC may
+
+| Table 27-1·UCDISEASE SEVERITY  |  |
+| --- | --- |
+| Disease severity  | Clinical picture  |
+| Mild  | <4 stools/day； no systemic signs； normal inflammatory markers  |
+| Moderate  | \>4 but <6 stools/day； minimal signs of toxicity  |
+| Severe  | \>6 but <10 stools/day； demonstrates systemic signs of toxicity；elevated inflammatory markers  |
+| Fulminant  | \>10 stools/day； with clinical signs of toxicity；abdominal distension；blood transfusion requirement； dilated colon by imag ing  |
+
+【29】Infammatory markers： Erythrocyte sedimentation rate， C-reactive protein. Systemic toxicity： Fever， tachycardia， anemia， and elevated infammatory markers.
+
+【30】present with skipped areas of inflammation in the colon. The anatomic extent of UC can be described as proctitis (rectal involvement only)，proctosigmoiditis (rec-tum and sigmoid colon)， left-sided disease (disease does not extend beyond the splenic flexture)， extensive colitis (disease extends beyond the splenic flexture)，and pancolitis (disease extends all the way to the ileal-cecal valve). See Table 27-1for description of severity of UC.
+
+【31】Treatment ofUC
+
+【32】Treatments generally follow a"step-up"approach that is similar to that described for Crohn disease treatment. Patients with mild-to-moderate disease are often treated with 5-ASA by oral， rectal， or both routes. Flare-ups or bouts of disease exacer-bations can be controlled with short courses of corticosteroids treatment (induc-tion therapy)， with transition to nonsteroidal agents once the patient’s disease is under control. Immunosuppressive agents such as thiopurines and anti-TNF anti-body (infliximab) are also effective in inducing and maintaining remissions. Recent observations suggest that the combination of infliximab and azathioprine may be more effective than either agent alone.
+
+【33】Patients who present with fulminant colitis associated with UC need to be closely monitored in hospital settings and treated with intravenous steroids. Gen-erally two-third of the patients will respond to this treatment； however， for the one-third of patients who do not respond to intravenous steroids， rescue therapy with infliximab， intravenous cyclosporine， or surgical resection will need to be expeditiously implemented.
+
+【34】UC is a chronic inflammatory disease that is typically treated with medical man-agement； however， 10% to 15% of patients with the disease may require colectomy either due to refractory disease or complications. Operative treatments for patients under these circumstances generally consist of total abdominal colectomy with end ileostomy formation， and with the removal of significant portions of the dis-eased burden. The patients conditions generally improve. Preservation of the rec-tal segment during the initial operation gives patients the opportunity to undergo completion proctectomy and ileal-anal J-pouch reconstruction when the patients conditions stabilizes. See Table 27-2 for surgical options.
+
+| Table 27-2·SURGICALOPTIONS FOR ULCERATIVE COLITIS  |  |  |  |
+| --- | --- | --- | --- |
+| Surgical Procedure  | Indication  | Advantages  | Disadvantages  |
+| Abdominal colectomywith ileostomy  | Acute toxic colitis：less frequently forother indications  | Less morbidity underurgent settings  | Cancer risk in rectumup to 15%-20% at25-30y  |
+| Abdominal colectomywith ileorectal anastomosis  | For intractability orcancer or dysplasia  | Preservation of bowelfunctions with acceptable results in patients with limited rectaldisease  | Cancer risk in rectumup to 15%-20% at 25-30 y；patients can have continuedsymptoms  |
+| Total proctocolectomywith permanentileostomy  | For intractability orcancer or dysplasia  | All colorectal diseasesremoved with symptom resolution  | Permanent ileostomy  |
+| Total proctocolectomywith ileal pouch-analanastomosis  | For intractability orcancer or dysplasia  | All colorectal diseasesremoved with symptom resolutionand maintenance of transanal continence  | 4-12 bowel movementsper day；some haveday or nighttime incontinence： pouchitis (7%-40%)  |
+| Total proctocolectomywith continent ileostomy  | For intractability orcancer or dysplasia  | All colorectal diseasesremoved with symptomresolution； patients donot require external stoma appliance  | High malfunction rate associated with thenipple valve requiringrevision or urgent can-nulation for drainage  |
+
+【36】Selective Adhesion Molecule Inhibitors
+
+【37】In 2014， the Food and Drug Administration (FDA) approved the use of vedoli-zumab for use in patients with moderate to severe UC when standard treatments fail. Vedolizumab is the first selective adhesion molecule inhibitor developed. It blocks leukocyte migration that， which is believed to be a cause of inflammation associated with UC. Early observations suggest that this drug is associated with few adverse reactions and does not lead to the increase in infectious risks.
+
+【38】Colorectal Cancer Risks Associated with UC
+
+【39】Patients with long-segment UC have increased risks of developing adenocarci-noma of the colon and rectum. These cancers are different from the usual colorec-tal cancers in that these cancers generally do not develop from polyps. A patient with a UC history for more than 8 years should undergo initial surveillance colo-noscopy with biopsies from multiple quadrants， and subsequent surveillance colo-noscopies every 1 to 3 years. If a surveillance program is not instituted or not feasible， then a prophylactic proctocolectomy should be considered. The classic report of colorectal cancer risks associated with UC stated up to 5%to 10% risk at20 years， and up to 12%to 30%risk after 30 to 35 years of disease； however， recent data suggests that the risks have been generally over-estimated. Factors associated with an increased risk of CRC include diagnosis of UC prior to age 15， duration of disease， anatomic extent of disease， family history of colorectal cancers， history of sclerosing cholangitis， male sex， shortened colon， and the presence of strictures or pseudopolyps.
+
+【40】Surgery for UCPatients
+
+【41】The main indications for surgical therapy in UC are for treatment of fulminant coli-tis or toxic megacolon， the treatment of dysplasia and cancers， and the treatment of medically refractory disease. The most commonly performed operation for the treatment of fulminant colitis is total abdominal colectomy with end ileostomy for-mation. This operation gives patients the opportunity to recover from their acute disease， with the possibility for a second operation where completion proctectomy with ileal-anal J-pouch reconstruction can restore continence. If a patient does not have functional nalsphincters， permanent end ileostomy or continent-ileostomy(Koch Pouch) are the remaining long-term options. Following proctocolectomy and J-pouch reconstruction， most patients experience 4 to 6 bowel movements a day and have occasional minor soilage. Preoperative patient counseling and patient education， and proper patient selection are critical factors for long-term patient satisfaction.黄艳玲
+
+====================================================================================================

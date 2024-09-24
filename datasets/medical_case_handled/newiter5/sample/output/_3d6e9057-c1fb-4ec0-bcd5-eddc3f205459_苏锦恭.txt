@@ -1,0 +1,78 @@
+【0】Case 17
+A 13-year-old African American male patient presents to the emergency depart-ment with pain in his left knee after falling on his side during a soccer game. He is unable to ambulate and is in significant discomfort. His mother states that he has been experiencing several weeks of pain in his left knee before his fall， but x-rays and repeated exams of his knee at his primary care physician’s office had failed to demonstrate any pathology. The patient has no known past medical history. He denies fevers， chills， and recent illness， and he recalls no history of traumatic injury to his left lower extremity. On examination， the child is obese and is com-fortable after administration of appropriate analgesia. His left lower extremity is held in slight external rotation. His knee is without effusion and has a full range of painless motion. Motion at the hip， however， is painful， especially with passive internal/external rotation. He is neurovascularly intact throughout his bilateral extremities. Exam of the right lower extremity is unremarkable. Laboratory studies are significant for a thyroid-stimulating hormone (TSH) level of 7.3 mlU/mL(normal 0.6-5.5 mlU/mL). An anteroposterior (AP) pelvis and bilateral frog-leg lateral views are shown in Figures 17-1 and 17-2， respectively.
+
+【1】What is the most likely diagnosis?
+
+【2】What aspects of this patient’s history put him at risk for this injury?
+
+【3】What is the next step in the management of this patient?
+
+【4】删除3：<u>Figure 17-1. AP radiograph of the pelvis.</u>
+
+【5】删除3：<u>Figure 17-2. Frog-leg lateral radiograph of the pelvis.</u>
+
+【6】ANSWERS TO CASE 17：Slipped Capital Femoral Epiphysis (SCFE)
+
+【7】Summary： A 13-year-old obese， African American male presents with several weeks of left lower extremity pain， exacerbated by a recent fall. Exam demonstrates left hip pathology that is referred to the knee. Additionally， the patient has previously undiagnosed hypothyroidism.
+
+【8】·Most likely diagnosis： Left slipped capital femoral epiphysis.
+
+【9】· Historical risk factors： Obesity， male， African American， adolescence， with concomitant endocrinopathy (hypothyroidism).
+
+【10】· Next appropriate step： Percutaneous screw fixation.
+
+【11】ANALYSIS
+
+【12】Objectives
+
+【13】1\. Recognize the presentation of SCFE.
+
+【14】2\. Understand the workup for SCFE and patient population.
+
+【15】3\. Be familiar with the treatment for SCFE and its potential long-term complications.
+
+【16】Considerations
+
+【17】This is an overweight， African American male adolescent with a history of pain in his left knee. Up to 46% of patients with SCFE will present initially with complaints of distal thigh or knee pain. It is essential to recognize that hip pathology can often be referred to the distal thigh or knee. Complaints of knee pain should warrant complete and thorough physical exam， and typically radiographic evaluation， of the ipsilateral hip. Patients with SCFE typically present with an externally rotated， subtly foreshortened lower extremity， with a markedly decrease range of painful internal rotation.
+
+【18】Hip x-rays should include， at a minimum， an AP view of the pelvis as well as lateral views of each femoral head and neck， typically achieved through a frog-leg lateral view. Although this patient's SCFE is clearly visible on both AP and lateral films， early SCFE lesions are often subtle and are generally apparent on lateral views before they are obvious on the AP.
+
+【19】Patients with newly diagnosed SCFE lesions should be immediately made non-weightbearing on the effected extremity. Complete workup for SCFE secondary to underlying medical conditions should be performed， including initial labora-tory testing for TSH， a complete metabolic panel， and a complete blood count. Patients undergoing potential operative fixation should always receive blood type and screening and coagulation (prothrombin time/partial thromboplastin time) studies.
+
+【20】APPROACH TO：Slipped Capital Femoral Epiphysis (SCFE)
+
+【21】DEFINITIONS
+
+【22】OSTEONECROSIS： The cellular death of bone， typically resulting from a pro-longed disruption of blood supply.
+
+【23】STABLE SCFE： Defined simply by the patient's ability to ambulate， even with crutch assistance. Less than 10% of patients with a stable SCFE develop osteonecrosis.
+
+【24】UNSTABLE SCFE： Defined as SCFE in patients who are unable to ambulate. These patients have a high incidence of osteonecrosis， upward of 50%.
+
+【25】SCFE (often pronounced“skiffy") is a disorder of adolescence in which a fracture or， technically， a disruption-occurs through the growth plate of the femoral head. The epiphysis， or region of developing bone above the growth plate (physis)， is therefore mobile and tends to“slip”from the neck of the femur under the repetitive loading of body weight. The“slipping”process is actually a misnomer， however， as it is not technically the epiphysis that slips from the femur， but rather the femur that displaces from the anatomically stable epiphysis.
+
+【26】Epidemiology
+
+【27】SCFE typically affects children between 10 and 17 years of age， occurring at an average of 13.4 years for boys and 12.2 years for girls. Its prevalence in the United States is 10 in 100，000 people annually. SCFE has a slight male-to-female predomi-nance of 3：2 and occurs at increased incidences of 2.2 in patients of African ances-try， 4.5 in those of Pacific Islander ancestry， and 0.1 for North African and Indian subcontinental ancestry， versus 1.0 for white controls. Racial differences are closely related to average adolescent body weights.
+
+【28】Pathogenesis
+
+【29】As stated， SCFE is a failure of the physis， with separation of the epiphysis from the proximal femoral metaphysis. Biomechanical factors such as obesity， femoral retro-version (increased posterior angulation of the femoral neck)， and increased physeal obliquity (an increasingly angulated growth plate that is vulnerable to shearing forces when body weight is loaded) all contribute to physeal weakening. In younger chil-dren， the physis is protected by a perichondral ring that resists shearing forces. This protective ring weakens in adolescence， however， and increases the risk of SCFE. SCFE occurs during puberty， when rapid cellular expansion is occurring at the physeal zone of hypertrophy. Failure is thought to occur at this slightly weakened zone of rapid， immature expansion. Finally， hormonal and endocrine changes are associated with SCFE， but the mechanisms by which they contribute to the disease process are not fully understood. There are data to show that hypothyroidism， growth hormone supplementation， and hypogonadism increase one's risk of SCFE.
+
+【30】Radiology
+
+【31】The direction of a typical“slip”causes the femur to fall into varus， extension， and external rotation. Typically， the epiphysis tends to move posteriorly first， a trans-lation that is most apparent on frog-leg lateral views. With the femurs externally rotated， abducted， and flexed， an unobstructed lateral view of the femoral neck shows early posterior displacement of the epiphysis. For this reason， frog-leg lateral images are considered most sensitive for the diagnosis.
+
+【32】Several radiographic measurements can be made to diagnose and grade SCFE. The Klein line， or a line drawn parallel to the superior femoral neck， should inter-sect the epiphysis in normal individuals. In patients with advanced slips， however， the Klein line contacts the edge of， or is superior to， the migrating epiphysis. The metaphyseal blanch sign of Steel is a blurring of the proximal femoral metaphysis that may be visualized on an AP pelvis film. This is caused by overlapping of the normal metaphysis with the posteriorly displaced epiphysis.
+
+【33】Although several classification schemes exist， the most practical and prognosti-cally relevant classification divides the disease into stable and unstable SCFE. SCFE stability is defined simply by whether or not the patient is able to tolerate weightbearing on the affected extremity. Stability includes those who are able to partially weight bear with crutches. Patients with unstable SCFE are so uncom-fortable with movement of the hip that they refuse to ambulate. Up to 50% of patients with unstable SCFE have an incidence of osteonecrosis of the femoral head.
+
+【34】Intervention should occur as soon as the diagnosis is made. For patients with mild or moderate stable disease， in situ fixation is the method of choice. Attempts to forcefully reduce the deformity are not recommended； however， sometimes the slip will spontaneously reduce or improve when the patient is positioned for surgery. Regardless， the goal or treatment is to stabilize the slipped epiphysis， as remodeling often occurs and patients cntS Can tolerate a certain degree of residual external rota- tion. Single-screw percutaneous fixation is the most common mode of treatment， although double-screw fixation techniques are sometimes performed. For single-screw fixation， the goal is to place the screw through the middle of the epiphy-sis and perpendicular to the growth plate. Patients with stable slips are typically allowed to bear weight after fixation. Bilateral fixation may be indicated in patients with underlying endocrinopathies， even if the contralateral hip is asymptomatic and without radiographic evidence of the disease. Although controversial， some authors also advocate for the prophylactic pinning of the contralateral hip in children less than 10 years of age with unilateral SCFE or in those with open triradiate cartilage. The impetus behind prophylactic fixation of the unaffected hip stems from the elevated rates at which young children and patients with endo-crinopathies develop bilateral disease.
+
+【35】In patients with unstable SCFE， there is significant controversy over whether reduction manipulations should be employed versus in situ SUs 1fixation， whether cap-sulotomy or arthrocentesis should be performed versus no joint decompression， and whether single- versus multiple-screw fixation techniques should be used. Most sur-geons advocate relatively urgent treatment in these patients， as greater than 24 hours between acute injury and fixation may be associated with increased risk of osteo-necrosis. A common treatment regimen for unstable SCFE involves single-screw fixation after joint aspiration to relieve intracapsular pressure and promote vascular perfusion. These patients are generally made nonweightbearing with crutches for6 to 8 weeks postoperatively.
+
+【36】Complications
+
+【37】Osteonecrosis is a severe， debilitating complication， for which risk is increased with unstable SCFE， delayed surgical fixation of acute unstable SCFE， attempted reduc-tion manipulations， and improper placement of pins， specifically in the posterior-superior femoral neck， leading to disruption of vasculature. Osteonecrosis is initially managed with nonweightbearing， nonsteroidal anti-inflammatory drugs， and gentle range-of-motion exercises. When severe， however， reconstructive intervention may be necessary. Slip progression after initial fixation is another potential complica-tion that， fortunately， occurs in only 1% to 2% of patients after single-screw fixa-tion. Although double-screw fixation may theoretically reduce this complication， elevated potential risks of osteonecrosis with multiple-screw fixation favors single-screw techniques for most surgeons.苏锦恭
+
+====================================================================================================

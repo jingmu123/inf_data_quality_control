@@ -1,0 +1,19 @@
+【0】Question: A woman comes to the physician because of profuse vomiting and watery, non-bloody diarrhea that developed five hours after she had eaten tuna salad. She is diagnosed with food poisoning. Which of the following is the most likely cause of her symptoms?
+
+【1】> (A) A β-hemolytic, gram-positive rod
+
+【2】> (B) A gram-positive, catalase-positive, coagulase-positive coccus
+
+【3】> (C) A pre-formed enterotoxin
+
+【4】> (D) A pre-formed superantigen
+
+【5】> (E) An invasive gram-negative rod
+
+【6】 Answer: The correct answer is C . The rapid onset of vomiting and diarrhea associated with Staphylococcus aureus food poisoning is not due to the bacterium itself but rather to ingestion of pre-formed enterotoxin. Mayonnaise and egg products are common sources.  
+Answer A is incorrect . Bacillus cereus is a gram-positive, β-hemolytic rod that is often associated with food poisoning from reheated rice. Much like S aureus , it can produce a pre-formed toxin that can result in food poisoning.  
+Answer B is incorrect . Gram-positive, catalase-positive, coagulase-positive bacteria include S aureus , which is likely the source of the preformed enterotoxin. However, the preformed enterotoxin is responsible for this patient’s symptoms of food poisoning.  
+Answer D is incorrect . S aureus can also produce the superantigen TSST-1, which mediates toxic shock syndrome. This patient is not exhibiting symptoms of toxic shock syndrome, which include fever, rash, and shock.  
+Answer E is incorrect . Raw or undercooked seafood is a common cause of Vibrio parahaemolyticus or V vulnificus infection. These pathogens cause disease by direct invasion of the intestinal mucosa. The incubation period from ingestion to illness is about three days; S aureus toxin causes illness within hours of ingestion.苏锦恭
+
+====================================================================================================

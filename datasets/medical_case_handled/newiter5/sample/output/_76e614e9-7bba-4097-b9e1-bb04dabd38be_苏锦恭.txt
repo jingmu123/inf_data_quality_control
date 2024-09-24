@@ -1,0 +1,54 @@
+【0】Question: 51.1 Which of the following is true regarding testing for WNV infections?
+
+【1】A. CSF analysis will provide definitive confirmation.
+
+【2】B. Blood cultures will provide definitive confirmation
+
+【3】C. IgM testing is usually helpful, but may have a false-positive result.
+
+【4】D. There is no useful test for WNV.
+
+【5】E. Changes in the brain seen on computed tomography (CT) and magnetic resonance imaging (MRI) are diagnostic.
+
+【6】Answer: 51.1 C. Although CSF analysis may show patterns suggestive of viral infection, it is not diagnostic. IgM testing in the serum and CSF is useful clinically; however, any flavirus may lead to false-positive results. CT and MRI may show certain changes, but these patterns are not pathognomonic for WNV infections.
+
+【7】Question: 51.2 A 54-year-old woman presents to you, along with her family, which consists of her healthy adult husband and healthy teenage children, because her grandmother recently was diagnosed with WNV encephalitis and has had serious complications. Two days ago several members of her immediate family experienced myalgias, arthralgias, and subjective fevers. Which of the following should be offered to minimize complications and provide treatment?
+
+【8】A. Empiric broad spectrum antibiotics to prevent bacterial superinfection
+
+【9】B. Antivirals to reduce the severity of illness and prevent further dissemination
+
+【10】C. H1N1 and influenza vaccination administration
+
+【11】D. Supportive care only
+
+【12】E. Refer to the emergency department
+
+【13】Answer: 51.2 D. For most healthy patients, supportive care is sufficient. Empiric antibiotics and antivirals have no evidence in terms of reducing the severity of illness, duration of illness, or prevention of other sequelae. Persons with infection should be taught hand hygiene and advised to avoid large groups to people to avoid further spread. Sending people who are otherwise well but have mild WNV infection to the emergency department would only cause spread of illness to other ill persons. Annual influenza vaccination now includes H1N1 vaccination and is recommended for nearly all persons annually during flu season. However, administration of this vaccination during an acute illness does not treat the current illness.
+
+【14】Question: 51.3 Which of the following persons are most likely to develop complications of WNV?
+
+【15】A. Elderly persons older than 75 years of age
+
+【16】B. Pregnant women
+
+【17】C. Patients on chemotherapy
+
+【18】D. Patients with lupus, kidney disease, heart disease on steroids and multiple medications
+
+【19】E. All of the above
+Answer: 51.3 E. Patients with multiple medical conditions, immunosuppressed patients, pregnant patients, and geriatric patients are at highest risk for complications.
+
+【20】MICROBIOLOGY PEARLS
+
+【21】 WNV is a member of the Flavivirus genera (eg, yellow fever, dengue, St. Louis encephalitis, Japanese encephalitis).
+
+【22】 WNV primarily results in asymptomatic or mild infection characterized by fever, headache, fatigue, nausea, lymphadenopathy and possible skin rash.
+
+【23】 Less than 1% of infections cause severe fever, mental confusion, and encephalitis; most severe infection symptoms occur in immune suppressed persons (eg, elderly, pregnant women).
+
+【24】 Treatment is supportive; no vaccine is available for use in humans.
+
+【25】 Prevention involves vector control by eliminating mosquito breeding grounds (standing water), prevention of mosquito biting (insecticide use and wearing of protective clothing), and the monitoring of infection/death rates in animal and bird species in urban areas.苏锦恭
+
+====================================================================================================

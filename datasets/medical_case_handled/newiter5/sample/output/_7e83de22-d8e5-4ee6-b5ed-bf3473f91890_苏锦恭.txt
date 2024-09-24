@@ -1,0 +1,112 @@
+【0】Chapter 36： Still jaundiced.
+
+【1】Dr Nilesh Agrawal and Dr Mithilesh Lal
+Max is a full term male infant with a birth weight of 3388 grams who was noted to have continuing jaundice on day 19 of life. He was born via a normal vaginal delivery to a primiparous Caucasian mother whose blood group is O+. Maternal records do not indicate any antenatal problems and he received intramuscular vitamin K at birth 删除换行5 Jaundice was first reported by midwives on day 5 when the newborn blood spot screening was performed. He was said to be breast feeding well and his current weight is 3600 grams.On examination his temperature is 36.7C， heart rate 130/minute， and respiratory rate 40/minute. He appears well， with visible jaundice of his skin and conjunctiva. His liver was just palpable， but there was no splenomegaly.
+
+【2】Q1. Which one of the following would make you concerned about serious liver disease?
+
+【3】AAntenatal history of oligohydramniosBCDE
+
+【4】Maternal history of hypothyroidism
+
+【5】Maternal history of alcohol misuse in pregnancy
+
+【6】History of pale stools and dark urine
+
+【7】History of poor feeding and weight gain
+
+【8】Blood tests are taken and the initial results are：
+
+【9】Haemoglobin103 g/ISerum bilirubin232 micromol/IPacked cell volume58%Conjugated bilirubin6 micromol/I White blood count20.9x10 °/IAlbumin25 g/IPlatelets257x10°/IALP250 U/I
+
+【10】ALT 35 U/I
+
+【11】Q2. Which one of the following investigations should you request next?
+
+【12】Aa1-antitrypsin levelsCE
+
+【13】Blood culture
+
+【14】Liver ultrasound scan
+
+【15】Thyroid function test
+
+【16】Urine microscopy and culture
+
+【17】Q3. What is the most likely diagnosis?
+
+【18】AABO/Rh incompatibilityBCDE
+
+【19】Biliary Atresia
+
+【20】Breastmilk jaundice
+
+【21】Congenital CMV infection
+
+【22】Hereditary spherocytosis
+
+【23】Answers and Rationale
+
+【24】Q1. D： History of pale stools and dark urine
+
+【25】Q2. E： Urine microscopy and culture
+
+【26】Q3. C： Breastmilk jaundice
+
+【27】Jaundice is common in newborn infants. Approximately 60% of term and 80% of preterm babies develop jaundice in the first week of life， and about 10% of breastfed babies are still jaundiced at 1 month of age通用删除7(英):<u>(1)</u>. In most babies early jaundice is usually harmless (often termed 'physiological jaundice'). However， a few babies will develop severe jaundice and its complications including bilirubin encephalopathy(kernicterus) if untreated. Box 36.1 lists factors that indicate pathological jaundice in infants.
+
+【28】Early onset of clinical jaundice in the first 24 hours of age Rapid rise of serum bilirubin >100 micromol/I/24h Sick newborn with jaundice Serum bilirubin >250 umol/l by 48 h of age or >300 pmol/I by 72 h of age Failure to respond to phototherapy Prolonged jaundice - >14 d in term infants and >21d in preterm infants Conjugated bilirubin level of >35 umol/I ● Pale chalky stools and dark urine Box 36.1： Indicators of pathological jaundice in newborn infants
+
+【29】The baby in this scenario has prolonged jaundice. Prolonged jaundice is defined as jaundice persisting beyond the first 14 days in term infants and 21 days in preterm infants. Screening investigations for prolonged jaundice are listed in (Box 36.2).
+
+| Conjugated and total serum bilirubin Full blood count and blood film (features of haemolysis) Blood group and direct antiglobulin test Thyroid function tests Urine microscopy and culture Urine for reducing substances Liver function tests  |
+| --- |
+
+【31】Box 36.2： Screening investigations for prolonged jaundice in neonates
+
+【32】It is important to differentiate between conjugated and unconjugated jaundice as the underlying diagnosis for each will be different. Understanding the physiology of bilirubin production will help you understand the potential causes of both conjugated and unconjugated jaundice. Bilirubin is mainly produced from the breakdown of red blood cells. Red cell breakdown produces unconjugated bilirubin， which circulates mostly bound to albumin although some is ‘free' and hence able to enter the brain. Unconjugated bilirubin is metabolised in the liver to produce conjugated bilirubin which then passes into the gut and is largely excreted in stool， with a smaller amount being re-absorbed in the enterohepatic circulation.
+
+【33】This baby has unconjugated hyperbilirubinaemia. NICE guidelines provide recommendations for the investigation and management of jaundice in babies， (box 36.3) with this baby needing to have thyroid function tests， urine microscopy， urine culture and urine reducing substances to complete the initial prolonged jaundice screen. The clinical history tells you that the newborn screening blood spot has been performed and therefore the babies TSH level will have been assessed at that point. Whilst TFTs are still indicated the diagnosis of hypothyroidism is unlikely. Urinary tract infections are a relatively common cause of prolonged jaundice and therefore microscopy and culture is indicated. Reducing substances should also be tested for， but a metabolic diagnosis is much less likely than a Urinary tract infection (UTI).
+
+【34】● Haemolysis due to Rhesus， ABO or other isoimmunisation， heriditary spherocytosis and other red cell morphological abnormalities， Enzyme deficiency (G6PD， pyruvate kinase)
+
+【35】Breast milk jaundice
+
+【36】Infections including UTI
+
+【37】Endocrine conditions e.g. hypothyroidism， hypopituitarism
+
+【38】Metabolic causes e.g. glucuronyl transferase deficiency， galactosaemia
+
+【39】Box 36.3： Common causes of prolonged unconjugated jaundice
+
+【40】Breastfed babies are more likely than formula-fed babies to develop jaundice， both within the first week of life as well as beyond 2 to 3 weeks of age. Early jaundice in breastfed babies is thought to be due to a combination of factors， such as dehydration， poor gut motility， failure to pass meconium - all of which tend to cause increased enterohepatic circulation of bilirubin. These factors in isolation or in combination may also have a role in “breast milk" jaundice later.
+
+【41】Breast milk jaundice presenting as prolonged jaundice is seen in well babies who are thriving， have normal clinical examination apart from clinical jaundice and there is no evidence of haemolysis or infection. Parents should be reassured and breastfeeding continued. Pregnanediol metabolite or esterified fatty acids in breast milk may have inhibitory effect on hepatic conjugation through UGT enzymes. Alternatively， this may increase β-glucuronidase activity and deconjugate bilirubin， increase enterohepatic circulation of bilirubin and increase hepatic bilirubin load. These plausible mechanisms still remain unproven.
+
+【42】Jaundice from other causes may have to be ruled out， including blood group incompatibility (most commonly Rhesus or ABO incompatibility)， other causes of haemolysis (breaking down of red blood cells)， sepsis (infection)， liver disease， bruising and metabolic disorders. Deficiency of a particular enzyme，glucose-6-phosphate-dehydrogenase， can cause severe neonatal jaundice. Glucose-6-phosphate-dehydrogenase deficiency is more common in certain geographical/ethnic group (eg Mediterannean and African).
+
+【43】Prolonged conjugated hyperbilirubinaemia is less common. The main causes are listed in box 36.4. An important diagnosis to make in these babies is biliary atresia as the outcome is much better if this condition can be operated on before 8 weeks of age. Abdominal US scan and radioisotope scan (HIDA) are undertaken to confirm this diagnosis prior to referral to one of the specialist liver services in the UK.
+
+【44】● Intrauterine infections - TORCH
+
+| ●  | Intrauterine infections - TORCH  |
+| --- | --- |
+| ●  | Neonatal hepatitis  |
+|  | Biliary atresia  |
+|  | Choledochal cyst  |
+|  | Parenteral nutrition related  |
+|  | Metabolic e.g. cystic fibrosis， al-antitrypsin deficiency， galactosaemia  |
+| ●  | Intrahepatic cholestasis -syndromic and familial  |
+
+【46】● Intrahepatic cholestasis -syndromic and familial
+
+【47】Box 36.4： Common causes of prolonged conjugated jaundice
+删除16：<u>Syllabus Mapping
+
+【48】Neonatology
+Be able to recognise and initiate the management of common disorders in the newborn including sepsis 删除换行5 Understand the causes and features of neonatal jaundice knowing when to refer for further investigation and be able to recognise early presentation of neonatal hepatitis and biliary atresia
+
+【49】</u>苏锦恭
+
+====================================================================================================

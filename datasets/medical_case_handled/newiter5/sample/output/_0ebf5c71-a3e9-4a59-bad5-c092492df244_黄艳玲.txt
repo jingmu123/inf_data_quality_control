@@ -1,0 +1,89 @@
+【0】删除14：<u>4  </u>Toddler with Vomiting and Diarrhea
+======================================
+
+【1】删除30：<u>Kimberly L. DiMaria
+删除个例：<u>Children’s Hospital Colorado, Aurora, CO, USA</u>
+</u>
+A full‐term previously healthy 18‐month‐old female presents to the emergency department (ED) with 2 days of diarrhea, emesis, and low‐grade fever.
+增加换行1: History of Present Illness
+--------------------------
+
+【2】The toddler was in her usual state of health until 3 days prior to presentation at which time she developed decreased appetite and intermittent complaints of abdominal pain. The following day, she developed a tactile temperature and had frequent bowel movements. Her mother reports that the stools were loose. The day prior to presentation, she developed emesis and was unable to keep any food or liquids down. The mother reported frequent trips to the bathroom for vomiting and diarrhea. The mother encouraged fluids but was only able to get the child to take sips throughout the day. Overnight, she was restless, febrile to 38.3°C (100.9°F), and complaining of a worsening “tummy ache.” This morning, the mother noticed that the child appeared tired and pale, so she was brought to the ED for further evaluation.
+增加换行1: Past Medical History
+--------------------
+
+【3】Born at full term via scheduled cesarean section. She had APGAR scores of 7 and 9 after birth and was discharged home with mother on day of life 3. She was closely followed by primary care physician (PCP) for slow weight gain during the first 3 months of life that improved after initiation of formula supplementation. She has had multiple upper respiratory tract infections and one episode of acute otitis media that required antibiotics. She is otherwise healthy, meeting developmental milestones and tracking consistently at the 25th percentile on the growth curve. Her vaccinations are up to date, including seasonal influenza vaccine. She has no known drug allergies. No hospitalizations.
+增加换行1: Past Surgical History
+---------------------
+
+【4】No previous surgeries.
+增加换行1: Family History
+--------------
+
+【5】Aunt with colon cancer, mother with asthma. Three healthy older siblings.
+增加换行1: Current Status
+--------------
+
+【6】She is a well‐developed toddler sleeping in her mother’s lap.
+
+【7】Vital signs in ED triage as follows: temperature 37.9°C (100.2°F), heart rate 130 bpm, respiratory rate 35 breaths per minute, blood pressure 92/55 mmHg, oxygen saturations 96% on room air.
+
+【8】She appears lethargic, but irritable with examination. Her eyes are slightly sunken and mucous membranes are dry. No tears are noted when crying during examination. Her capillary refill time is 4 seconds and she has 2+ pulses in all extremities. She cries out when the examiner attempts to palpate her abdomen, but all four quadrants are palpated without evidence of tenderness. Her abdomen is round, soft, and non‐distended. No hepatosplenomegaly. Hyperactive bowel sounds are present.
+增加换行1: Questions
+---------
+
+【9】Answer the following questions using the details provided.
+
+【10】1.  Based on the data given, what is the differential diagnosis and the most likely diagnosis for this child?
+2.  What are the essential questions to ask while obtaining the history?
+3.  What are the initial steps of management?
+4.  How would you evaluate the child’s hydration status?
+5.  What is your management plan?Rationale and Evidence‐based Practice Explanation
+-------------------------------------------------
+
+【11】### Based on the data given, what is the differential diagnosis and the most likely diagnosis for this child?
+
+【12】The initial differential diagnosis is broad and includes gastroenteritis, appendicitis, central nervous system infection, bowel obstruction, bowel perforation/acute abdomen, diabetes ketoacidosis, and ingestion. When further considering the differential diagnosis, appendicitis is on the list because of fever, vomiting, diarrhea, and lethargy, though is less likely due to absence of rebound tenderness or tender abdomen. Central nervous system infection is considered on the differential diagnosis due to fever, emesis, and altered mental status (lethargic and irritable); a thorough neurologic examination including assessment for nuchal rigidity is needed. Bowel obstruction is considered in the differential due to frequent emesis coupled with abdominal pain, though is less likely because the emesis is not bilious and the patient is having diarrhea. A bowel perforation/acute abdomen is unlikely because of reassuring abdominal examination. Diabetic ketoacidosis is considered in the differential diagnosis due to presenting emesis, evidence of dehydration, and mental status changes, but is not accompanied by Kussmaul breathing or polyuria. Toxic ingestion should also be considered, though is less likely due to low‐grade fever and prolonged illness.
+
+【13】The most likely diagnosis for this patient is gastroenteritis because of the symptoms of diarrhea, low‐grade fever, abdominal pain, and emesis in the absence of a rigid and tender abdomen and without focal neurologic symptoms. Gastroenteritis is defined as acute onset of diarrheal illness (e.g. increase in stool frequency and/or decrease in stool consistency) that can occur either in isolation or in combination with nausea, emesis, fever, and abdominal pain. Acute gastroenteritis typically lasts less than 7 days. It is a common illness, especially in children under 5 years of age. The highest incidence of dehydration is in children under 6 months of age. Most commonly, gastroenteritis is the result of infection with rotavirus, norovirus, adenovirus, Salmonella , Campylobacter , and Clostridium difficile . Etiology varies by geographic location and vaccination against rotavirus. Diarrheal illness characterized by frequent small amounts of stool, bloody stool, high fever, and abdominal pain are most likely to be associated with a bacterial etiology.
+
+【14】### What are essential questions to ask while obtaining the history?
+
+【15】Essential elements of the history include onset and duration of the emesis, including color (bloody, bilious) and timing (immediately after eating?); onset and color (blood, mucus) of diarrhea; fluid intake and urinary output (dysuria?); immunization history (specifically rotavirus vaccination); and contact with others with similar symptoms.
+
+【16】### What are the initial steps of management?
+
+【17】Priority is given to evaluation for presence of hypovolemic shock. If present, this must be treated immediately, as it can be life‐threatening. The child’s level of dehydration should be evaluated and treatment targeted to level of dehydration and replacement of ongoing losses. Other steps in management include initiating an age‐appropriate diet, determining the disposition (e.g. does the child require hospitalization?), and considering an antiemetic if emesis prohibits effective oral rehydration therapy or for patient comfort.
+
+【18】In general, children with acute gastroenteritis do not require diagnostic evaluation with stool studies except when the child has underlying chronic conditions, prolonged symptoms, bloody diarrhea, travel history, or during outbreaks.
+
+【19】### How would you evaluate the child’s hydration status?
+
+【20】The largest driver of morbidity and hospitalization rates associated with acute gastroenteritis is dehydration. The exact proportion of a patient’s dehydration is thought to be represented by the difference in their pre‐illness weight and their weight at time of presentation. This assessment is limited in its utility because most parents are unsure of the patient’s exact pre‐illness weight. Because of this limitation, most clinicians rely on a clinical dehydration scale which incorporates presenting symptoms to categorize the patient as having minimal (<3% loss of body weight), mild to moderate (3–9% loss of body weight), or severe (>9% of body weight) dehydration. Multiple clinical dehydration scales have been developed by several organizations . The various scales vary in their reliability in predicting actual dehydration, but can give a healthcare provider an estimate of a patient’s dehydration status that will assist with creating a management plan. All scoring tools must be used in conjunction with the individual clinical examination and history. Newer methods for estimating dehydration status have been evaluated, including ultrasound to measure inferior vena cava diameter, the ratio of inferior vena cava to aorta diameter, and bedside hand‐held bladder ultrasound scanning and digital videography to measure capillary refill time.
+
+【21】Table 4.1 Clinical dehydration scale.
+
+【22】通用删除2(英):<u>删除31：<u>Source: Guarino, A. Ashkenazi, A. Gendrel, D. et al . 通用删除7(英):<u>(2014)</u>. European Society for Pediatric Gastroenterology, Hepatology, and Nutrition/European Society for Pediatric Infectious Diseases evidence‐based guidelines for the management of acute gastroenteritis in children in Europe: update 2014. Journal of Pediatric Gastroenterology and Nutrition 59通用删除7(英):<u>(1)</u>: 132–152. Reproduced with permission of Wolters Kluwer Health, Inc.</u></u>
+
+| Score | 0 | 1 | 2 |
+| --- | --- | --- | --- |
+| General appearance | Normal | Thirsty, restless or lethargic, but irritable when touched | Drowsy, limp, cold or sweaty ± comatose |
+| Eyes | Normal | Slightly sunken | Extremely sunken |
+| Mucous membranes | Moist | Sticky | Dry |
+| Tears | Tears | Decreased tears | Absent tears |
+
+【24】Total score: 0, no dehydration; 1–4, some dehydration; 5–8, moderate/severe dehydration.
+
+【25】According to the clinical dehydration scale, this child is classified as having moderate dehydration (restless, irritable, tachypneic, sunken eyes, dry mucous membranes).
+
+【26】### What is your management plan?
+
+【27】The management plan for this child is to initiate oral rehydration, administering 80–100 mL/kg of oral rehydration fluid over 2–4 hours. Oral rehydration therapy is recommended for mild to moderate cases of acute gastroenteritis. She warrants close observation and may require intravenous fluid therapy. She should be offered an oral rehydration fluid instead of water, juice, or a sports electrolyte drink. She has lost electrolytes because of her diarrhea and emesis and therefore water would not meet her electrolyte replacement needs. A high‐glucose solution (most common in juice or sports drinks) can exacerbate diarrhea. Ideally, an oral rehydration fluid would have a 1 : 1 glucose to sodium ratio. She should be offered 50–100 mL/kg body weight of oral rehydration fluid over 2–4 hours to replace the estimated fluid deficit. Caregivers should offer small amounts of oral rehydration therapy via spoon or syringe, allowing her to drink more if she appears thirsty. In breast‐fed infants, breastfeeding should continue through oral rehydration therapy. An age‐appropriate diet can be initiated after the initial 4–6 hours of rehydration. Modified milk formula and dilution of formula is generally not needed. Enteral hydration by nasogastric route is preferred over intravenous hydration when oral rehydration is not feasible.
+
+【28】The patient requires assessment of ongoing fluid losses and replacement as needed. An antiemetic such as ondansetron can be prescribed if the child is unable to drink the prescribed amount of fluid without continued emesis. Probiotic therapy has been associated with reduction in the duration of diarrhea, but there is limited evidence of its impact on duration of hospitalization.
+
+【29】The patient does not meet hospital admission criteria at this time. However, if she were unable to complete oral rehydration therapy because of ongoing emesis or diarrhea, if oral rehydration therapy at home was unsuccessful, or if she developed signs of hypovolemic shock, she would warrant either prolonged observation in the ED or hospital admission. No laboratory studies or intravenous fluids are indicated currently. Additionally, a basic metabolic panel to assess electrolytes, specifically sodium, as well as blood urea nitrogen and creatinine to assess renal function and severity of dehydration, could be considered if she was refractory to oral rehydration therapy and developed severe dehydration. Antibiotics are not a recommended therapy for acute gastroenteritis.
+
+【30】The patient requires ongoing monitoring of end‐organ perfusion and level of hydration, and for symptoms of acute abdominal process such as appendicitis, bowel obstruction, or perforation, which are less common. If she improves after tolerating oral rehydration therapy, she can be safely discharged home with strict return instructions for deterioration in status.黄艳玲
+
+====================================================================================================

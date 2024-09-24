@@ -1,0 +1,16 @@
+【0】Question: A medical oncologist is seeing a patient who has been diagnosed with breast cancer. As he begins to take the patient’s history, she interrupts and states, “I can’t stand Dr. Smith. He is a lousy surgeon and he doesn’t know how to treat people. Next time you see him, tell him he has made his patients extremely angry and should learn how to become a better doctor.” What would be the most suitable response to this patient?
+
+【1】> (A) “Do you think I have treated you appropriately?”
+
+【2】> (B) “I will bring up the issues with Dr. Smith in our next meeting.”
+
+【3】> (C) “Dr. Smith is an excellent doctor. He does a great job with all of my patients.”
+
+【4】> (D) “I understand you are upset, but I suggest you speak directly to Dr. Smith regarding your concerns.”
+
+【5】 Answer: The correct answer is D. The appropriate response when a patient expresses concerns about another physician is to have the patient address those concerns with that physician directly. If the problem is with a member of your office staff, tell the patient you will speak to that individual.  
+Answer A is incorrect. Although it is important to obtain feedback from patients, directly after a patient has expressed concerns about another physician is not the correct time to do so.  
+Answer B is incorrect. It is not appropriate to mediate between your patient and another of their physicians, particularly when the issues are not directly related to concerns regarding the patient’s treatment regimen.  
+Answer C is incorrect. While you should avoid getting drawn into mediating between your patient and other physicians, it is important not to dismiss a patient’s concern without acknowledging it.王磊
+
+====================================================================================================

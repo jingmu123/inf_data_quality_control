@@ -1,0 +1,19 @@
+【0】Question: An 18-month-old child is brought to the physician by her distraught parents because of a sore throat, difficulty breathing, and a barking cough for the past day. On physical examination, the toddler is found to have some respiratory stridor and a runny nose but is not in acute distress. The rest of the examination is unremarkable. Which of the following is the most appropriate treatment for this patient?
+
+【1】> (A) Amantadine
+
+【2】> (B) Bronchoalveolar lavage
+
+【3】> (C) Emergency department admittance
+
+【4】> (D) Penicillin
+
+【5】> (E) Supportive therapy
+
+【6】 Answer: The correct answer is E. The most likely diagnosis is croup, which is most commonly caused by parainfluenza virus. Croup is an infection of the upper airway causing narrowing that leads to inspiratory wheezing and a barking cough. Most cases of croup require only supportive therapy as treatment. Severe cases may require supplemental oxygen, corticosteroids, and epinephrine. While parainfluenza is the most common agent responsible for croup, it can also be caused by influenza, respiratory syncytial virus, and measles.  
+Answer A is incorrect. Amantadine is an antiviral that has a narrow spectrum and is used to treat influenza type A. While influenza can cause croup, it is not the most common cause of this disease.  
+Answer B is incorrect. Bronchoalveolar lavage is used to sample the lower respiratory tract in severe pneumonia, in the diagnosis of a lung tumor, and in the assessment of fibrosing alveolitis, among other indications.  
+Answer C is incorrect. Admission to the emergency department may be called for if the child is in acute respiratory distress.  
+Answer D is incorrect. Penicillin can be used to treat streptococcal pharyngitis, which presents with red, swollen tonsils and pharynx and a high fever.苏锦恭
+
+====================================================================================================

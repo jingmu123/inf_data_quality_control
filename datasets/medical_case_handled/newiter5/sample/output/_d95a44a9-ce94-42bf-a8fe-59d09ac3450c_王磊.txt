@@ -1,0 +1,76 @@
+【0】### CASE 24
+
+【1】An 8-year-old girl is brought in by her mother for evaluation of allergies. Each year in the spring the child develops a runny nose; itchy, watery eyes; and sneezing. She has been treated in the past with diphenhydramine, but the child’s teacher says that she is very drowsy during school. She has no other medical problems and is on no chronic medications. Her examination is unremarkable today. You diagnose her with seasonal allergic rhinitis and prescribe fexofenadine.
+
+【2】 What is the mechanism of action of antihistamine medications?
+
+【3】 What are the common side effects of antihistamine medications?
+
+【4】 What is the pharmacologic basis of switching to fexofenadine?
+
+【5】ANSWERS TO CASE 24:
+
+【6】Antihistamines
+
+【7】Summary: An 8-year-old girl with seasonal allergic rhinitis is switched to fexofenadine because of the sedation caused by diphenhydramine.
+
+【8】 Mechanism of action of antihistamines: Competitive antagonist of histamine receptors.
+
+【9】 Common side effects: Sedation, dizziness, nausea, constipation, diarrhea, loss of appetite, anticholinergic effects—dry mouth, dry eyes, blurred vision, urinary retention.
+
+【10】 Rationale for switching to fexofenadine: Less central nervous system (CNS) penetration and less sedating than earlier antihistamines.
+
+【11】#### CLINICAL CORRELATION
+
+【12】Histamine is found in many tissues throughout the body. Most histamine is stored in mast cells and basophils. Histamine is released primarily from mast cells via the process of degranulation. Degranulation occurs when immunoglobulin E (IgE) fixates to mast cells, and there is a subsequent exposure to a specific antigen. Complement activation may also induce degranulation. When released, histamine becomes bound to specific membrane-bound histamine receptors. The therapeutic uses of antihistamine medications primarily involve the H <sub>1 </sub> \-and H <sub>2 </sub> \-receptor subtypes. H <sub>1 </sub> receptors are located in the brain, heart, bronchi, gastrointestinal (GI) tract, and vascular smooth muscle. Their activation increases phospholipase C activity, causing increases in diacylglycerol and intracellular calcium. Activation of H <sub>1 </sub> receptors in the brain increases wakefulness. In blood vessels, activation causes vasodilation and increased permeability. H <sub>1 </sub> \-receptor antagonists are competitive inhibitors at this receptor site. H <sub>1 </sub> \-receptor antagonists are frequently used for the treatment of allergic rhinitis, urticaria, and hives. Some are used as prophylaxis for motion sickness and as sleep aids. Older, first-generation, antihistamines cross the blood-brain barrier, contributing to their potentially use-limiting side effect of sedation and can also have significant anticholinergic effects (dry mouth, dry eyes, blurred vision, urinary retention). They must be used with caution in the elderly and in combination with other sedating medications, because the effects can be additive. Newer, second-generation antihistamines have significantly less penetration into the CNS and reduced anticholinergic activity. This results in a lower incidence of sedation and fewer anticholinergic side effects. H <sub>2 </sub> \-receptor activity is coupled to increased cyclic adenosine monophosphate (cAMP). Activation of H <sub>2 </sub> receptors in gastric parietal cells causes an increase in gastric acid production. Medications that are competitive antagonists of H <sub>2 </sub> receptors are used to reduce gastric acid secretion. These are used clinically in the management of peptic ulcer disease, gastroesophageal reflux disease, heartburn, and acid hypersecretory syndromes.
+
+【13】APPROACH TO:
+
+【14】Pharmacology of Histamine and Antihistamines
+
+【15】#### OBJECTIVES
+
+【16】1\. Know the synthesis and mechanism of action of histamine.
+
+【17】2\. Know the mechanism of action, uses, and adverse effects of antihistamine medications.
+
+【18】3\. Understand the biology and pharmacology of the histamine receptors.
+
+【19】#### DEFINITIONS
+
+【20】Allergic rhinitis: An antigen-mediated allergic reaction that causes nasal congestion, sneezing, itchy eyes, and bronchoconstriction; also called hay fever.
+
+【21】#### DISCUSSION
+
+【22】##### Class
+
+【23】Histamine, β-aminoethylimidazole, is formed in many tissues by decarboxylation of the amino acid L \-histidine by the enzyme histidine decarboxylase. Mast cells and basophils are the principal histamine-containing cells in most tissues. Histamine is stored in vesicles in a complex with heparin and is released by either an immunologic trigger or following a mechanical or chemical stimulus. Once released, histamine produces a number of responses including local vasodilation, transudation of fluid through endothelial cells, and stimulation of nerve endings, producing pain and itching. In the lung, histamine is a bronchoconstrictor, and this action is magnified in patients with asthma. Histamine has actions in the GI tract and causes contraction of smooth muscle; it is also a potent secretagogue for gastric acid secretion, pepsin, and intrinsic factor. In the brain, histamine acts as a neurotransmitter.
+
+【24】The actions of histamine are mediated by four distinct membrane receptors that are coupled to G-proteins. The H <sub>1 </sub> receptor, located in smooth muscle cells, endothelium, and brain, is coupled to increased diacylglycerol and Ca <sup>2+ </sup> release. The H <sub>2 </sub> receptor is located in gastric mucosa mast cells, immune cells, and brain, and is coupled to increased cAMP. There is no clinical pharmacology yet for H <sub>3 </sub> (located in the brain and peripheral neurons) or H <sub>4 </sub> (found on eosinophils and neutrophils) receptors, but both of these receptors are targets for therapeutic agents and are under intense investigation. Histamine itself has a variety of untoward effects and is useful only diagnostically to assess bronchial hyperreactivity.
+
+【25】Antihistamines Compounds that block the active state of histamine H <sub>1 </sub> receptors have been used for years and are widely marketed both as prescription and over-the-counter medications. The current group of available drugs can be divided into first-generation and second-generation agents. In general, first-generation agents can cross the blood-brain barrier, and they have a number of effects in the brain, including sedation and reduction of nausea. Table 24–1 lists some currently used H <sub>1 </sub> antagonists.
+删除4：<u>Table 24–1 • CURRENTLY AVAILABLE ANTIHISTAMINES</u>
+
+【26】All of these drugs block the action of H <sub>1 </sub> receptors, and they do not possess significant affinity for the H <sub>2 </sub> receptor. However, many of the first-generation agents have significant anticholinergic activity, and this is responsible for a significant degree of their central effects. Second-generation agents are less lipid soluble and do not penetrate the blood-brain barrier and hence have many fewer central adverse effects.
+
+【27】The major use of H <sub>1 </sub> \-receptor blockers is in the treatment of allergic reactions. Histamine is released by IgE-sensitized cells, especially mast cells, and antihistamines can reduce the rhinitis, conjunctivitis, sneezing, and urticaria associated with this reaction. They are most effective in acute allergic reactions with a relatively low antigen burden, and effectiveness diminishes in chronic disorders. Antihistamines are not effective as monotherapy for bronchial asthma. Antihistamines are marketed for treatment of the common cold, but they have very limited effectiveness in this application and their adverse effects (eg, sedation) outweigh their benefit. Some of the first-generation agents, especially dimenhydrinate, meclizine, cyclizine, and promethazine, are useful for the prophylaxis of motion sickness and vertigo. Promethazine is the most potent in this regard but has pronounced sedative activity that limits its usefulness. The sedating action of some antihistamines has been exploited in their use as sleeping aids.
+
+【28】Diphenhydramine is the most commonly used antihistamine in sleeping preparations. The major adverse effect of the first-generation agents is sedation. The anticholinergic activity produces atropine-like effects including dry mouth, urinary retention, and cough. Second-generation agents avoid these effects but do have adverse effects such as headache and back pain, and in the GI tract cause nausea, loss of appetite, and constipation or diarrhea. Of the presently available second-generation antihistamines, cetirizine causes the highest incidence of fatigue and somnolence (approximately 10%); loratadine and desloratadine appear to have the lowest incidence of this effect (approximately 1–3%). Desloratadine is unique among antihistamines in reducing nasal congestion.
+
+【29】These agents may produce cardiovascular adverse effects such as hypotension, bradycardia or tachycardia, and electrocardiograph (ECG) changes.
+
+【30】##### Administration
+
+【31】All of the agents listed in Table 24–1 are available for oral use, and some of the first-generation agents are available for parenteral use. Topical application of diphenhydramine is useful in the treatment of minor allergic dermatologic reactions. Azelastine is administered by nasal spray.
+
+【32】##### Pharmacokinetics
+
+【33】Following oral administration, the H <sub>1 </sub> antagonists reach peak levels in about 2–3 hours and last 6–24 hours depending on the agent.
+
+【34】##### H <sub>2 </sub> Receptor Antagonists
+
+【35】Histamine is a potent gastric acid secretagogue and this action is mediated by histamine H <sub>2 </sub> receptors. Cimetidine, ranitidine, nizatidine, and famotidine are H <sub>2 </sub> \-specific antagonists and are used to treat gastroesophageal reflux disease and peptic ulcers. Adverse effects include hypotension, headache, and diarrhea. Cimetidine inhibits many P450 enzymes and by this mechanism causes drug interactions.
+
+【36】####王磊
+
+====================================================================================================

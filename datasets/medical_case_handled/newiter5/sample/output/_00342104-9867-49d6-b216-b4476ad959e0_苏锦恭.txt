@@ -1,0 +1,33 @@
+【0】Question: 
+
+【1】1 Why do you think Shwetas NBTtest was normal?
+
+【2】2 Besides the observation of giant granules in the leukocytes of a peripheral blood smear what other non-invasive test can be helpful to confirm the diagnosis ofCHS?
+
+【3】3 The accelerated phase ofCHS consists ofmassive organ infiltration by lymphocytes. Which of the imnmunological defects in this disease would you think is involved?
+
+【4】4 Why does bone marrow transplantation not affect the oculocutaneous albinism and neurological disease?
+
+【5】5 Do you know ofanother immurodeficiengy caused by mutations in aBEACH protein family member?
+
+【6】删除6：<u>This page intentionally left blank to match pagination of print book</u>
+
+【7】Answers: Answer 1
+
+【8】The nitro blue tetrazolium (NBT) test measures the capacity of the lysosomes in a phagocyte to produce superoxide and other oxygen free radicals. The test is done by adding yellow NBT dye to phagocytes that are then stimulated with a cell activator， typically phorbol myristate acetate (PMA). Activation of the NADPH oxidase enzyme complex in the lysosome by PMA leads to the production of the reactive intermedi-ates of oxygen that modify NBT into formazan， which has a deep blue color. Chediak-Higashi syndrome (CHS) affects the normal formation and traffic of vesicles in the cell， but does not affect function of the NADPH oxidase. Thus， Shweta's neutrophils could readily reduce NBT to a blue color.
+
+【9】Answer 2
+
+【10】An easy and non-invasive test with which to confirm CHS is microscopic observa-tion of a hair shaft. The hair of patients with CHS has abnormal pigmentation： when observed under the microscope， the hair shaft is seen as speckled with clumps of pig-ment instead of the normal homogeneous distribution 删除33：<u></u>. When the hair bulb of CHS patients is examined under electron microscopy， melanocytes showing enlarged melanosomes with variable amounts of melanin pigment are seen
+
+【11】Answer 3
+
+【12】The accelerated phase of CHS is thought to be due to impaired lymphocyte cyto-toxicity， although the precise pathogenic mechanism is so far unclear. A similar process is observed in other diseases with impaired cytotoxicity such as familial hemophagocytic lymphohistiocytosis (FHL) 删除25：<u></u>. Many cases of FHL are due to mutations in perforin l， a gene that encodes a lytic enzyme that is contained in the granules of cytotoxic lymphocytes and is essential for cytotoxicity. Evidence suggests that the accelerated phase of CHS may typically occur after infection with Epstein-Barr virus. In this setting， the immune system is unsuccessful in killing the virus-infected cells； in attempting to control the infection， lymphocytes proliferate without restraint.
+
+【13】Answer 4
+
+【14】Bone marrow transplantation is only able to correct defects that are due to cells of hematopoietic origin. Oculocutaneous albinism and the neurological defects seen in patients with CHS are not due to dysfunction of hematopoietic cells， so these abnormalities cannot be corrected by a bone marrow transplant. At one time， it was believed that the neurological disease was due to persistent lymphocyte infiltration of the CNS， but later studies have shown intrinsic defects in the neurons and glia of patients with CHS， which have disproved that hypothesis. The oculocutaneous albi-nism is due to a defect in the melanocytes that produce pigment in the skin， eyes， andhair
+
+【15】LPS-responsive beige-like anchor (LRBA) deficiency 删除25：<u></u>.苏锦恭
+
+====================================================================================================

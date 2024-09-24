@@ -1,0 +1,80 @@
+【0】CASE 64: AN ACUTELY PAINFUL KNEE
+
+【1】History
+
+【2】A 56-year-old man presents to the emergency department with a 2-day history of an  删除换行1 acutely painful, swollen and hot knee. He is otherwise well but felt feverish on the morning of his admission. There is no history of trauma and the systems enquiry is unremarkable. Past medical history includes left ventricular failure, hypertension and renal  删除换行1 impairment. Current medications are aspirin, furosemide and ramipril. He lives alone,  删除换行1 smokes 15 cigarettes per day and drinks 30 units of alcohol per week.
+
+【3】Examination
+
+【4】This man is uncomfortable but well. His temperature is 37.1°C, pulse 110/min and blood  删除换行1 pressure 145/83 mmHg. General examination is unremarkable, but his right knee is warm  删除换行1 with a tense effusion. Both passive and active movement are restricted by pain, and  删除换行1 weight-bearing is uncomfortable. Other joints are normal.
+
+【5】INVESTIGATIONS
+
+【6】 Normal range
+
+【7】Haemoglobin 15.9 g/dL 13.3–17.7 g/dL 
+
+【8】White cell count 11.2 ¥ 109/L 3.9–10.6 ¥ 109/L
+
+【9】Platelets 523 ¥ 109/L 150–440 ¥ 109/L
+
+【10】ESR 24 mm/h <10 mm/h
+
+【11】CRP 94 mg/L <5 mg/L
+
+【12】Urea 19.8 mmol/L 2.5–6.7 mmol/L
+
+【13】Creatinine 152 mmol/L 70–120 mmol/L
+
+【14】Urate 278 mmol/L 240–400 mmol/L
+
+【15】Questions
+
+【16】• What are the top differential diagnoses to consider and which is most likely?
+
+【17】• What is the investigation of choice?
+
+【18】ANSWER 64
+
+【19】In any patient presenting with an acutely painful and swollen joint, the most important  删除换行1 diagnoses to consider are septic arthritis and crystal arthropathy. Crystal arthropathy  删除换行1 such as gout is more common than septic arthritis; and since this patient is well with no  删除换行1 discernible risk factors for sepsis, it is the most likely diagnosis here. The investigation of  删除换行1 choice is a prompt aspiration of the joint with assessment of the synovial fluid for crystals  删除换行1 or bacteria (and if the latter are detected, culture to determine the causative organism and  删除换行1 its sensitivity to antibiotics).
+
+【20】Crystal arthropathy is caused by either uric acid (gout) or pyrophosphate (pseudogout) crystals precipitating out into the synovial fluid, generating a brisk inflammatory  删除换行1 response. The classic clinical picture is discrete attacks of monoarticular inflammation 
+
+【21】– often initially the metatarsophalangeal joint – followed by asymptomatic periods; in  删除换行1 more severe, longstanding cases, the disease can become polyarticular. Risk factors for  删除换行1 gout are under-excretion or over-production of urate, which is a product of DNA breakdown and present in large amounts in certain foods and alcohol. Urate crystals may also  删除换行1 deposit in the skin, causing painful discrete lumps known as tophi, or in the renal tract,  删除换行1 causing urate nephropathy or lithiasis.
+ Causes of over-production and under-excretion of urate
+
+【22】Over-production Under-excretion
+
+【23】Excess alcohol
+
+【24】High consumption of meat and shellfish Renal impairment
+
+【25】Chemotherapy Loop diuretics
+
+【26】Haematological malignancy Low-dose aspirin
+
+【27】Psoriasis
+
+【28】Investigations will reveal an elevated acute-phase response, often with a neutrophilia and  删除换行1 thrombocytosis due to the inflammatory response (although this can lead to diagnostic  删除换行1 confusion with septic arthritis). The urate level may be normal during an acute attack  删除换行1 and is therefore relatively unhelpful. Microscopy of the synovial fluid will reveal needleshaped crystals that are negatively birefringent on polarized microscopy in cases of gout,  删除换行1 and positively birefringent brick-shaped crystals in pyrophosphate disease. It is worth  删除换行1 bearing in mind that crystals can occur as innocent bystanders in infection; so unless the  删除换行1 diagnosis is clear-cut, it is worth sending a synovial fluid sample for culture. In chronic  删除换行1 disease, X-rays may reveal the classic punched-out erosions with sclerotic margins.
+Osteopenia is characteristically absent. Pyrophosphate arthropathy may be associated  删除换行1 with radiological evidence of chondrocalcinosis.
+
+【29】Treatment of an acute attack includes anti-inflammatories such as non-steroidal antiinflammatories (NSAIDs), colchicine or steroids, depending on the patient’s comorbidities.
+In this case, for example, the renal impairment is a relative contraindication for NSAIDs,  删除换行1 so low-dose colchicine or a short course of oral prednisolone might be appropriate.Injection of the affected joint with corticosteroid and local anaesthetic will also offer  删除换行1 immediate and effective relief and should be offered to all patients in whom there is  删除换行1 no evidence of septic disease. In cases of gout, patients should be given lifestyle advice  删除换行1 which can have a huge effect on urate levels (e.g. reducing alcohol and meat intake) and,  删除换行1 where possible, offending medications should be stopped or switched to alternatives with  删除换行1 no impact on urate handling. Long-term treatment with urate-lowering therapy such as  删除换行1 allopurinol should be commenced if the patient experiences recurrent attacks, but its 179 删除换行5 Rheumatology 删除换行1 commencement can precipitate another gout attack and should be started only when an  删除换行1 acute attack is over and under anti-inflammatory cover. There is no long-term prophylaxis for pyrophosphate disease.
+
+【30】KEY POINTS
+
+【31】• Crystal arthropathy is a common cause of an acutely painful joint (but always consider  删除换行1 and rule out septic arthritis).
+
+【32】• Gout may be precipitated by diuretics, renal impairment and aspirin use, so is a  删除换行1 common clinical problem in general medicine.
+
+【33】• Diagnosis is based on identification of urate crystals in synovial fluid; serum levels may  删除换行1 be normal.
+
+【34】• Acute treatment relies on NSAIDS, colchicine or steroids.
+
+【35】• Lifestyle modification may prevent further attacks. If not, commence allopurinol under  删除换行1 anti-inflammatory cover.删除6：<u>This page intentionally left blank 181</u>
+
+【36】删除测试2：<u>Rheumatology
+
+【37】</u>王磊
+
+====================================================================================================

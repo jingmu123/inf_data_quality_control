@@ -1,0 +1,79 @@
+【0】CASE FILES®: Internal Medicine, Fourth Edition   
+
+【1】### CASE 50
+
+【2】A 59-year-old woman comes to your clinic because she is concerned that she might have a brain tumor. She has had a fairly severe headache for the last 3 weeks (she rates it as an 8 on a scale of 1-10). She describes the pain as constant, occasionally throbbing but mostly a dull ache, and localized to the right side of her head. She thinks the pain is worse at night, especially when she lies with that side of her head on the pillow. She has had no nausea, vomiting, photophobia, or other visual disturbances. She has had headaches before, but they were mostly occipital and frontal, which she attributed to “stress,” and they were relieved with acetaminophen. Her medical history is significant for hypertension, which is controlled with hydrochlorothiazide, and “arthritis” of her neck, shoulders, and hips for which she takes ibuprofen when she feels stiff and achy. On physical examination, her temperature is 100.4°F, heart rate 88 bpm, blood pressure 126/75 mm Hg, and respiratory rate 12 breaths per minute. Her visual acuity is normal, visual fields are intact, and her funduscopic examination is significant for arteriolar narrowing but no papilledema or hemorrhage. She has moderate tenderness over the right side of her head but no obvious scalp lesions. Her chest is clear, and her heart rhythm is regular, with normal S <sub>1 </sub> and S <sub>2 </sub> but an S <sub>4 </sub> gallop. Abdominal examination is benign. She has no focal deficits on neurologic examination. She has no joint swelling or deformity but is tender to palpation over her shoulders, hips, and thighs.
+
+【3】 What is the most likely diagnosis?
+
+【4】 What is the best next step to confirm the diagnosis?
+
+【5】### ANSWERS TO CASE 50:
+
+【6】#### Headache/Temporal Arteritis
+
+【7】Summary: A 59-year-old woman complains of a 3-week history of severe right-side headaches that are worse at night, when she lies with that side of her head on the pillow. Her medical history is significant for hypertension and “arthritis” of her neck, shoulders, and hips, for which she takes ibuprofen. She has a temperature 100.4°F and normal neurologic and eye examinations. She has moderate tenderness over the right side of her head but no obvious scalp lesions.
+
+【8】 Most likely diagnosis: Giant cell (temporal) arteritis (GCA)
+
+【9】 Best next diagnostic step: Erythrocyte sedimentation rate (ESR)
+
+【10】#### ANALYSIS
+
+【11】##### Objectives
+
+【12】1\. Be familiar with the clinical features that help to distinguish a benign headache from one representing a serious underlying illness.
+
+【13】2\. Know the clinical features and diagnostic tests for GCA.
+
+【14】3\. Know the clinical features of migraine and cluster headaches and of subarachnoid hemorrhage.
+
+【15】##### Considerations
+
+【16】Although headaches are a very common complaint, this patient has features that are of greater concern: older age of onset, abrupt onset and severe intensity, and dissimilarity to previous milder headaches. These are three of the nine factors of concern for significant underlying pathology outlined in Table 50–1 . She is very concerned about the headaches and is worried that they indicate a brain tumor. She has no meningeal signs, and her neurologic examination is nonfocal. She has stiffness and achiness of the shoulder and hip girdles. Together these factors make the diagnosis of GCA a strong possibility. GCA usually has its onset in patients aged 50 years or older (females more than males), and involves inflammation of the medium- or large-size vessels. Her low-grade fever and generalized body aches may represent polymyalgia rheumatica, which is closely associated with GCA. The diagnosis would be suggested by an elevated ESR, and then confirmed by temporal artery biopsy. Although GCA is not a common cause of headache, untreated patients often progress to permanent visual loss as a consequence of involvement of the ophthalmic artery, so a high index of suspicion is necessary to begin investigation. An elevated ESR necessitates further diagnostic testing, such as a temporal artery biopsy. In the meantime, empiric corticosteroids may help prevent complications.
+
+【17】### APPROACH TO:
+
+【18】#### Headaches
+
+【19】#### DEFINITIONS
+
+【20】TEMPORAL ARTERITIS: Also known as giant cell arteritis (GCA), temporal arteritis is a common form of systemic vascular inflammation affecting patients older than 50 years. Medium- and large-sized vessels, especially the superficial temporal artery, are affected.
+
+【21】BERRY ANEURYSM: A small outpouching that looks like a berry and classically occurs at the point at which a cerebral artery departs from the circular artery (the circle of Willis) at the base of the brain. They can rupture, causing subarachnoid hemorrhage.
+
+【22】#### CLINICAL APPROACH
+
+【23】Headache is one of the most common complaints of patients in the Western world. It periodically afflicts 90% of adults, and almost 25% have recurrent severe headaches. As with many common symptoms, a broad range of conditions, from trivial to life-threatening, might be responsible. The majority of patients presenting with headache have tension-type, migraine, or cluster ; however, fewer than 1 in 20 have significant underlying pathology. Because headache symptoms usually are accompanied by a paucity of associated findings, including those on laboratory examination, the clinician must depend largely upon a thorough history with a general and focused neurologic examination as the initial workup. Careful inquiry and meticulous physical examination, keeping in mind the “red flags” of headaches 删除25：<u></u>, will serve the clinician well. Differentiating serious underlying causes of headache from more benign causes may be difficult. Table 50–2 lists some typical features of serious causes of headache.
+删除4：<u>Table 50-1. RED FLAGS FOR SECONDARY HEADACHE DISORDERS</u>
+
+【24】Fundamental change or progression in headache pattern
+
+【25】First severe and/or worst headache
+
+【26】Abrupt-onset attacks, including those awakening one from sleep
+
+【27】Abnormal physical examination findings (general or neurologic)
+
+【28】Neurologic symptoms lasting >1 h
+
+【29】New headache in individuals aged <5 y or >50 y
+
+【30】New headache in patients with cancer, immunosuppression, pregnancy
+
+【31】Headache associated with alteration in or loss of consciousness
+
+【32】Headache triggered by exertion, sexual activity, or Valsalva maneuver
+删除4：<u>Table 50–2 • CAUSES OF HEADACHE</u>
+
+【33】One of the most catastrophic secondary causes of headache is subarachnoid hemorrhage , usually secondary to a ruptured intracerebral (berry) aneurysm. Up to 4% of patients presenting to an emergency center with severe headache, or the classic “worst ever headache,” have a subarachnoid bleed. The initial hemorrhage may be fatal, may result in severe neurologic impairment, or may produce only minor symptoms such as headache. A high index of suspicion is needed because no neurologic findings may be present initially, and the patient who will benefit the most from intervention will often have the mildest symptoms. The first diagnostic study should be a noncontrast CT scan with thin imaging cuts at the region of the brain base. This study will be positive in more than 90% of cases on the first day, with decreasing sensitivity over the next several days. If hemorrhage is suspected but the CT is negative, lumbar puncture should be performed as soon as possible to assess for the presence of red cells or xanthochromia (yellowish discoloration of cerebrospinal fluid \[CSF\]); this finding indicates presence of bilirubin and differentiates subarachnoid hemorrhage from a traumatic lumbar puncture.
+
+【34】Giant cell arteritis, or temporal arteritis , is a chronic vasculitis of large- and medium-size vessels, usually involving the cranial branches of the arteries arising from the aortic arch. The clinical criteria for diagnosis include age of onset older than 50 years, new onset or type of headache pattern, tenderness or decreased pulsation of the temporal artery, elevated ESR, and abnormal findings on biopsy of the temporal artery. The presence of three or more criteria yields more than 90% sensitivity and specificity for the diagnosis. GCA is closely related to polymyalgia rheumatica , an inflammatory condition characterized by bilateral aching and stiffness of neck, torso, shoulders, or thighs, with a significantly elevated ESR. Both conditions probably are polygenic diseases in which various environmental and genetic factors influence susceptibility and severity. Clinical symptoms may include jaw claudication, and the most worrisome complication is permanent or partial loss of vision in one or both eyes, which can occur as an early manifestation in up to 20% of patients. Temporal artery biopsy is recommended in all patients suspected of having GCA, and long segments of the artery may require excision in order to find the typical areas of segmental inflammation. Corticosteroids are the drugs of choice to treat both polymyalgia rheumatica and GCA, with daily doses of 10 to 20 mg of prednisone for polymyalgia rheumatica and 40 to 60 mg for GCA. Steroids may prevent, but usually do not reverse, visual loss. Steroid dosage is gradually tapered, but relapse is common, as are complications of corticosteroid therapy.
+
+【35】Migraine headache is much more common than GCA but is more variable in its presentation. It is the most common cause of initial clinic visits for headache because of its frequency, disabling qualities, and associated multiorgan symptoms. Migraine attacks are more common in women than in men. Migraine attacks may or may not have a preceding aura, may be unilateral or bilateral, and may have either throbbing or nonpulsatile pain, including the neck. They may have cranial autonomic features such as tearing or nasal congestion, leading to the misdiagnosis of sinus disease. A number of evidence-based guidelines are available for managing migraine headaches. In general, preventive therapies include tricyclic antidepressants and beta-blockers. Treatment of acute episodes involves the initial use of nonsteroidal antiinflammatory drugs (NSAIDs), followed by dihydroergotamine or sumatriptan if symptoms persist.
+
+【36】Episodic cluster headache is much less common, but it is more easily diagnosed by its distinctive pattern of periodic attacks of intense, unilateral, periorbital pain with nasal or ocular watering lasting only minutes to hours but recurring daily over several weeks or months. Acute attacks can be treated with oxygen or subcutaneous sumatriptan.
+
+【37】####王磊
+
+====================================================================================================

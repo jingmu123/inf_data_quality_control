@@ -1,0 +1,25 @@
+【0】Question: To ascertain the specific genetic defect in patients with cystic fibrosis, scientists obtained buccal smears from several patients and isolated DNA from these cells. The DNA was amplified by polymerase chain reaction and then sequenced. The region of the sequencing gel where the normal gene differs from the mutated gene is shown in the image. Which of the following types of DNA mutations caused this disease?
+删除个例：<u>> Reproduced, with permission, from USMLERx.com.</u>
+> (A) Deletion mutation
+
+【1】> (B) Frameshift mutation
+
+【2】> (C) Insertion mutation
+
+【3】> (D) Missense mutation
+
+【4】> (E) Nonsense mutation
+
+【5】> (F) Silent mutation
+
+【6】> (G) Transition
+
+【7】 Answer: The correct answer is A. This is a deletion mutation. Bases 7-9 of the normal gene have been deleted in the mutant gene, resulting in the subsequent loss of one amino acid. Because three nucleotides were deleted, there is no change in the reading frame. The most common cystic fibrosis mutation, ΔF508, does in fact yield gene product three nucleotides shorter than the normal gene product.  
+Answer B is incorrect. A frameshift mutation is an insertion or deletion of nucleotides that results in a misreading of all codons downstream. Deletions or insertions in multiples of three do not cause a shift in the reading frame.  
+Answer C is incorrect. An insertion mutation is an addition of one or more nucleotides to the DNA.  
+Answer D is incorrect. A missense mutation occurs when a point mutation causes one amino acid in a protein to be replaced by a different amino acid.  
+Answer E is incorrect. A nonsense mutation occurs when a point mutation results in an early stop codon. This type of mutation causes a truncated protein.  
+Answer F is incorrect. A silent mutation occurs when a point mutation does not change the amino acid sequence of the protein. The point mutation is often in the third position of the codon.  
+Answer G is incorrect. A transition is a mutation in which a nucleotide is replaced by another nucleotide of the same type (ie, purine for purine, or pyrimidine for pyrimidine). Purine-for-pyrimidine and pyrimidine-for-purine substitutions are called transversions.焦瀚远
+
+====================================================================================================

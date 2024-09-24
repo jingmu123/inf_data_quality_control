@@ -1,0 +1,19 @@
+【0】Question: A 3-year-old boy is brought to his pediatrician’s office because his parents noticed worsening protrusion of his abdomen. After thorough imaging studies and histopathologic confirmation of Wilms tumor, the physician prescribes a medication that acts by causing arrest of the cell cycle during metaphase. However, the parents are concerned about the use of that medication because of what they have read about its adverse effects. Which adverse effect are the parents most likely concerned about?
+
+【1】> (A) Cardiotoxicity
+
+【2】> (B) Hemorrhagic cystitis
+
+【3】> (C) Hyperglycemia
+
+【4】> (D) Pulmonary fibrosis
+
+【5】> (E) Neurotoxicity
+
+【6】 Answer: The correct answer is E. The patient has a Wilms tumor, a childhood nephroblastoma that can be treated with the MOPP regimen, which includes the plant alkaloid vincristine (Oncovin). Vincristine halts cell division by inhibiting microtubule polymerization, thus preventing formation of the mitotic spindle and causing metaphase arrest. It has the adverse effect of neurotoxicity as manifested by areflexia, peripheral neuritis, muscle weakness, and paralytic ileus. The MOPP regimen refers to the chemotherapeutic agents M echlorethamine, O ncovin, P rocarbazine, and P rednisone.  
+Answer A is incorrect . Cardiotoxicity is most often associated with the use of anthracycline antibiotics such as doxorubicin and daunorubicin. It is thought that these medications can cause toxic levels of free radicals to build up in the myocardium, leading to muscle damage, decreased left ventricular ejection fraction, and symptoms of congestive heart failure.  
+Answer B is incorrect . Hemorrhagic cystitis is an adverse reaction seen with the use of cyclophosphamide, an alkylating agent used to treat solid tumors and lymphoma. It is also used as an immunosuppressant to treat severe rheumatologic disorders.  
+Answer C is incorrect . Hyperglycemia is a common adverse effect of prednisone and other steroid drugs. Vincristine, however, does not cause hyperglycemia. Prednisone is part of the MOPP regimen. Its mechanism of action is unclear, but is thought to relate to triggering apoptosis.  
+Answer D is incorrect . Pulmonary fibrosis is seen with several chemotherapeutic agents including busulfan, which is used to treat chronic myelogenous leukemia, and bleomycin, which is used to treat testicular cancer and lymphoma.苏锦恭
+
+====================================================================================================

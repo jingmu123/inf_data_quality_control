@@ -1,0 +1,68 @@
+【0】删除1：<u>© The Author(s), under exclusive license to Springer Nature Switzerland AG 2023
+
+【1】A. Rohani Clinical Cases in the Management of Complex Cardiovascular Disease Clinical Cases in Cardiology 删除9：<u>https://doi.org/10.1007/978-3-031-24528-2\17</u></u>
+
+【2】17. Long QT and Atrial Fibrillation: Are These a Related Entity or Not?
+=======================================================================
+删除2：<u>删除2：<u>Atooshe Rohani <sup><a>1</a><a><span class="ContactIcon"></span></a></sup>
+
+【3】通用删除7(英):<u>(1)</u>
+
+【4】Northern Ontario School of Medicine, Thunder Bay, ON, Canada
+
+【5】Atooshe Rohani
+
+【6】Email: arohani@nosm.ca</u>
+
+【7】</u>
+Abstract
+--------
+
+【8】The Patient is a 52-year-old, referred for evaluation of QT prolongation and safety of stating sertraline. A 12-lead electrocardiogram showed a normal sinus rhythm with heart rate of 79bpm, isolated PAC, QT interval 482 ms with Schwartz score 4. She was started on Nadolol and underwent exercise stress test again which showed inability to achieve 85% of target heart rate. Later she developed atrial fibrillation with heart rate of 170 bpm and underwent successful cardioversion. Patient started back on propranolol this time with no recurrence of atrial fibrillation.
+
+【9】Keywords
+
+【10】Long QT Atrial fibrillation Nadolol
+
+【11】Clinical Case
+
+【12】The Patient is a 52-year-old, who was referred for evaluation of QT prolongation and safety of starting sertraline. She denies any cardiovascular related symptoms; no palpitation, syncope, seizures, or resuscitated Sudden Cardiac Arrest. She is known for hypertension and sleep apnea on Continuous positive airway pressure therapy (CPAP). On examination, she looks generally well, blood pressure 126/73 mmHg, chest is clear, no adventitious sound, heart has normal S1, S2 with no murmur, and both lower extremities are symmetric in size, with no edema.
+
+【13】A 12-lead electrocardiogram shows normal sinus rhythm with heart rate of 79 beats/min, isolated PAC, QT interval 482 ms with Schwartz score 4 . Echocardiogram reveals normal left ventricular size and systolic function, and no hemodynamically significant valvular disease. She underwent an exercise stress test which showed QTc at fourth minute of recovery from exercise stress test of 490 ms. She was referred for a genetic study which showed normal result.
+Table 17.1 删除换行 Schwartz score is a tool to assess the clinical likelihood of a congenital LQTS diagnosis 通用删除6(英):<u>\[ 1 \]</u>
+
+|  | ≥−480 ms  | 460–479 ms  | 450–459 ms (in males)  |  |
+| --- | --- | --- | --- | --- |
+| QTc  | 3  | 2  | 1  |  |
+| QTc at fourth minute of recovery from exercise stress test ≥480 ms  |  |  |  | 1 point  |
+| Torsades de pointes  |  |  |  | 2 points  |
+| T wave alternans  |  |  |  | 1 point  |
+| Notched T wave in three leads  |  |  |  | 1 point  |
+| Family members with LQTS  |  |  |  | 1 point  |
+| Unexplained SCD in immediate family members <30 years of age  |  |  |  | 0.5 point  |
+| Syncope –With stress  |  |  |  | 2 points  |
+| Syncope – Without stress  |  |  |  | 1 point  |
+
+【15】Low ≤1 point, Intermediate 1.5–3 points, High ≥3.5 points
+Table 17.2 删除换行 The average QTc values
+
+| Average QTc values  | Prepuberty  | Post pubertal males  | Post pubertal females删除38：<u>)</u>  || --- | --- | --- | --- |
+|  | 460 ms  | 470 ms  | 480 ms  |
+
+【17】She was started on Nadolol and underwent exercise stress test again which showed inability to achieve 85% of target heart rate. Unfortunately, the nadolol dose stopped as the patient was feeling fuggy, which was attributed to nadolol. Later she developed atrial fibrillation with heart rate of 170 bpm and underwent successful cardioversion. Patient started back on propranolol this time with no recurrence of atrial fibrillation.
+
+【18】As this patient was morbidly obese and had other risk factors which could lead to her developing AF, her early age presentation of arrhythmia did not relate to her underlying LQT, but on literature review there was some association as was mentioned in clinical pearls.
+
+【19】Clinical Pearls
+
+【20】   Beta-blocker therapy (Propranolol and/or nadolol are the preferred agents) are suggested for all patients with congenital LQTS, whether asymptomatic or symptomatic, in the absence of a contraindication 通用删除6(英):<u>\[ 2 , 3 \]</u>.
+   Leads II and V5 are the best leads to measure the QT interval manually on serial ECGs 通用删除6(英):<u>\[ 4 \]</u>.
+   Patients with congenital LQTS have abnormal T waves: biphasic contour or late-onset asymmetrical peaked T wave. However, this is an insensitive finding.
+   With exercise, the QT interval shortens, however, in patients with LQT1; the QT interval may fail to shorten or may lengthen with exertion during the recovery phase 通用删除6(英):<u>\[ 5 \]</u>.
+   There is no threshold of peak heart rate reduction during stress test to evaluate the sufficiency of beta blockade to guarantees protection from ventricular arrhythmias and Sudden Cardiac Death 通用删除6(英):<u>\[ 5 \]</u>.
+   Patients with LQTS should refrain from QT-prolonging medications and street drug abuse.
+   Patient should be educated about the importance of compliance with medications such as β-blockers.
+   On the other hand, bradycardia and pauses is commonly associated with Acquired LQTS leads to torsades de pointes (TdP). If patient is hemodynamically stable and have an episode of Polymorphic ventricular tachycardia (TdP), magnesium sulfate 2 g as a slow IV bolus should be administered. If there is no response to IV magnesium, then transvenous pacing (atrial or ventricular) at approximately 100 beats/min (bpm) could be considered 通用删除6(英):<u>\[ 6 \]</u>.
+   A study published in 2019 by Platonov et al. showing that LQT3 is associated with increased early risk of AF, which is an indicator of increase in cardiovascular events, on the other hand LQT2 has a protective effect against risk of AF after the age of 60 通用删除6(英):<u>\[ 7 \]</u>.焦瀚远
+
+====================================================================================================

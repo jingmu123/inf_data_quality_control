@@ -1,0 +1,19 @@
+【0】Question: A 60-year-old white man comes to his physician because of a productive cough of a few months’ duration. The patient reports having three of these episodes over the past two years, with each episode lasting approximately four months. Histological examination of the lung reveals hypertrophy of mucus-secreting glands in the bronchioles, with a Reid index >50%. What other changes are likely to be noted on biopsy?
+
+【1】> (A) Alveolar fluid and hyaline membranes
+
+【2】> (B) An infiltration of eosinophils and CD4+ and TH2 lymphocytes
+
+【3】> (C) An infiltration of monocytes and CD8+ lymphocytes
+
+【4】> (D) Necrotizing vasculitis and granulomatous eosinophilic tissue infiltration
+
+【5】> (E) Noncaseating granulomas
+
+【6】 Answer: The correct answer is C. A diagnosis of chronic bronchitis can be made based on the patient’s symptoms and biopsy results. Along with the hypertrophy of mucus-secreting glands and goblet cells, one typically sees an inflammatory infiltrate with a lymphocytic predominance, squamous cell metaplasia, and fibrosis.  
+Answer A is incorrect. Alveolar fluid and hyaline membranes are characteristic of adult respiratory distress syndrome.  
+Answer B is incorrect. Although these cells can be found in chronic bronchitis, they are much more typical of asthma.  
+Answer D is incorrect. Necrotizing vasculitis and granulomatous eosinophilic tissue infiltration is characteristic of Churg-Strauss syndrome.  
+Answer E is incorrect. Noncaseating granulomas are typical of pulmonary sarcoid, not chronic bronchitis.苏锦恭
+
+====================================================================================================

@@ -1,0 +1,43 @@
+【0】CASE 38: FEVER
+
+【1】History
+
+【2】A single 32-year-old Kenyan-born secretary attends your emergency surgery. She reports  删除换行1 that the day before yesterday, she developed some flu-like symptoms with a headache and  删除换行1 muscle pains. She lost her appetite, did not eat dinner and went to bed hoping to sleep it off.
+Yesterday, she stayed at home and later that day, she suddenly developed severe coldness and  删除换行1 shivering (rigors) followed by drenching sweats, vomiting and flushing. Once the vomiting  删除换行1 settled, she took some paracetamol and felt a bit better. In the night, she had another of these  删除换行1 episodes and so decided to see the doctor.
+
+【3】Further questioning reveals, she travelled to Kenya 8 weeks previously to attend the christening of her sister’s child. Your computer records show that she saw the nurse before her journey  删除换行1 and was prescribed mefloquine tablets (one tablet weekly to be started 2 weeks before travel  删除换行1 until 4 weeks after return). She admits to taking the first two tablets only as they made her feel  删除换行1 funny. She read the leaflet and became concerned that the tablets might cause her to become  删除换行1 ‘mad’ and then she forgot to take the tablets with her on the journey. She was also worried about taking the tablets because she was hoping to have another child soon. In Kenya,  删除换行1 nobody took tablets and her family does not use mosquito nets. She thought that if her family  删除换行1 was fine, and nobody was using mosquito nets, perhaps the risk for malaria was not so high.
+Returning from the holiday, she felt well and 2 weeks later, she binned the remaining tablets.
+
+【4】Examination
+
+【5】On examination, the patient looks unwell. Her scleras are jaundiced and she has cervical  删除换行1 lymphadenopathy. Her temperature is 39.4°C, resting heart rate 104 beats/minute, blood  删除换行1 pressure 123/87 mmHg and respiratory rate 18 breaths/minute. Her liver is palpable below  删除换行1 the costal edge and tender. The general practitioner is not certain if he can feel the tip of her  删除换行1 spleen.
+
+【6】Questions
+
+【7】• What is your diagnosis?
+
+【8】• How should the GP manage this patient?
+
+【9】ANSWER 38
+
+【10】The patient has all the clinical symptoms suggestive of acute falciparum malaria which, in  删除换行1 its most severe form, include cerebral malaria and has a high mortality rate. The diagnosis  删除换行1 is confirmed by blood microscopy (thick film). In partially treated patients, bone marrow  删除换行1 smears are an alternative.
+About 1600 patients return to the United Kingdom from travel abroad with malaria each  删除换行1 year and patients should be strongly encouraged to take chemoprophylaxis. In this case, the  删除换行1 patient was reassured by her family’s seeming lack of perception of danger. While malaria  删除换行1 is a common illness in Africa, conveying a relative immunity to those that have had previous infections, our patient is unlikely to have maintained this immunity while living in the  删除换行5 United Kingdom. For patients born and brought up in malarial areas, immunity develops  删除换行1 slowly and is rapidly lost if the person moves away.
+
+【11】Patients with acute and severe malaria need intense monitoring and observation. A full blood  删除换行1 count might show anaemia, raised white cell count and often thrombocytopenia. Patients are  删除换行1 at risk of hypoglycaemia and the liver function tests might reveal liver involvement. Urine  删除换行1 analysis can show haematuria (black-water fever). Treatment needs the supervision of a specialist, preferably in cooperation with a microbiologist or tropical disease specialist.
+
+【12】• Always include a travel history when patients present with non-specific symptoms.
+
+【13】• A traveller returning from a malarial area and presenting with flu-like symptoms  删除换行1 has malaria until the disease has been ruled out.
+
+【14】• It is important to check compliance with medication.
+
+【15】• Patients born and raised in malarial areas may have a false sense of security about  删除换行1 their immunity to malaria when they return home.
+
+【16】• This is malaria but also has a high index of suspicion for early human immunodeficiency virus (HIV) infection for anybody with a fever, rash and sore throat.
+删除12：<u>Key Points79
+
+【17】删除测试2：<u>Case 39: Fit Note Request</u>
+
+【18】</u>苏锦恭
+
+====================================================================================================

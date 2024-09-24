@@ -1,0 +1,66 @@
+【0】CASE 47: AN INFANT WITH BLISTERS
+
+【1】History
+
+【2】Amy is an 8-day-old infant referred to the paediatric day unit by the midwife. In the past  删除换行1 24 hours, she has developed several blisters in the nappy area plus a few on her trunk and  删除换行1 arms. Amy was born at 38-weeks gestation, following an uneventful pregnancy, to healthy,  删除换行1 unrelated parents. There were no risk factors for infection (e.g. prolonged rupture of membranes). She is their first baby. Her mother has quite severe eczema and asthma. Amy is  删除换行1 breast-feeding well and has regained her birth weight.
+
+【3】Examination
+
+【4】Amy looks generally well. Her temperature is 36.8°C. There are no dysmorphic features.
+Her pulse is 130  beats/min and her capillary refill time is <2  s. Scattered over her skin  删除换行1 删除33：<u></u> in the described distribution she has several flaccid, transparent, cloudy,  删除换行1 fluid-filled bullae of varying sizes from 2 to 15 mm in diameter. One or two have ruptured,  删除换行1 leaving a shallow, moist erosion.
+
+【5】Amy also has a 5-mm-diameter soft glistening pink lesion within the umbilicus where the  删除换行1 cord has dropped off. It bleeds a little on contact and there is a small blood stain on her nappy.
+Examination of the cardiovascular, respiratory and abdominal systems is unremarkable. Her  删除换行1 anterior fontanelle is soft. She handles well and has normal tone and primitive reflexes.
+
+【6】Investigations
+
+【7】 Normal
+
+【8】Haemoglobin 146 g/L 130–210 g/L
+
+【9】White cell count 13.3 × 109/L 6–22 × 109/L
+
+【10】Platelets 235 × 109/L 150–400 × 109/L
+
+【11】Sodium 138 mmol/L 134–146 mmol/L
+
+【12】Potassium 4.4 mmol/L 3.0–7.0 mmol/L
+
+【13】Urea 2.2 mmol/L 1.8–6.4 mmol/L
+
+【14】Creatinine 46 μmol/L 27–62 μmol/L
+
+【15】C-reactive protein <6 mg/L <6 mg/L
+
+【16】Questions
+
+【17】• What is the most likely cause of the  删除换行1 bullae?
+
+【18】• What is the management?
+
+【19】• What is the umbilical lesion likely  删除换行1 to be, and how would you treat it?
+
+【20】删除3：<u>Figure 47.1 Amy’s skin.</u>
+
+【21】ANSWER 47
+
+【22】These flaccid, fragile blisters are characteristic of bullous impetigo. This is the localized  删除换行1 presentation of the staphylococcal scalded-skin syndrome and patients are otherwise well.
+At the other end of the spectrum are those who present with generalized cutaneous involvement and systemic illness. Both are caused by Staphylococcus aureus, most of which are from  删除换行1 phage group 2. In bullous impetigo, the organism can be cultured from the lesions but the  删除换行1 systemic form is mediated by exfoliative toxins and swabs are sterile.
+
+【23】In contrast, the weepy, golden, crusty forms of impetigo are also usually caused by S. aureus, 删除换行1 but generally not from phage group 2. Group A β-haemolytic Streptococcus can also cause  删除换行1 impetigo. This common form of impetigo starts on skin that has been damaged, e.g. by insect  删除换行1 bites, chickenpox or abrasions. It spreads easily to other sites and to other children. Patients  删除换行1 with eczema are at increased risk of infective exacerbations due to these organisms. It is  删除换行1 likely that Amy’s infection was transmitted from her mother, either because of her eczema or  删除换行1 because she has mastitis.
+
+【24】A much rarer cause of blistering in the neonatal period is epidermolysis bullosa. There are  删除换行1 several different types that differ in severity, clinical features, distribution and inheritance  删除换行1 patterns, but all are characterized by blisters that develop with even relatively mild trauma  删除换行1 and are exacerbated in warm weather. Blisters present at birth would be strongly supportive  删除换行1 of this diagnosis.
+
+【25】Treatment of bullous impetigo is with a β-lactamase-resistant antibiotic such as co-amoxiclav.
+In this case, Amy is systemically well and so the oral route can be safely used whilst monitoring for a satisfactory response. In systemic-scalded skin syndrome, antibiotics are administered parenterally. Such patients need careful monitoring because they are at risk of significant  删除换行1 heat and fluid losses. They also require adequate pain relief.
+
+【26】The umbilical lesion is likely to be a granuloma. The umbilical cord usually dries and separates within 6–8 days after birth and the surface epithelializes. When this is incomplete or  删除换行1 there is mild infection, granulation tissue can develop and persist. A granuloma is soft, friable but not painful. A number of treatments are available, most commonly cauterization  删除换行1 using a silver nitrate stick. This can be repeated once a week until the lesion has resolved.
+It is crucial to differentiate the common umbilical granuloma from the rare umbilical polyp  删除换行1 which results from persistence of the omphalomesenteric duct or the urachus. If this communicates with the ileum or bladder, there may a faeculent or urinary discharge. The treatment  删除换行1 is surgical.
+
+【27】Key Points
+
+【28】• Skin infections due to Staphylococcus aureus have a range of presentations from  删除换行1 mild, localized lesions to severe, systemic infections.
+
+【29】• Blistering present at birth is likely to be due to epidermolysis bullosa.焦瀚远
+
+====================================================================================================

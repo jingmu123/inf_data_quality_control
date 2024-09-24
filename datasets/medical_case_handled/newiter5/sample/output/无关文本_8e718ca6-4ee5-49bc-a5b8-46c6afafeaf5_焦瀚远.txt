@@ -1,0 +1,46 @@
+【0】Case 58 Osteomalacia Case 1
+
+【1】A 55-year-old postmenopausal female came with complain of backache and lower limb pain. On examination， generalized bone tenderness was noticed and kyphosis was seen. X-ray long bones showed porous matrix and Looser's zone. She reported two episodes of fracture small bones of foot in last 3 years. She has been on restricted food free of dairy products and minimal sun exposure for past 4 years.
+
+【2】Following are the results of various laboratory investigations：
+
+【3】ALP： 1453 U/L (normal=98-278 U/L)
+
+【4】PTH： 654 pg/ml (normal= 10-65 pg/ml)
+
+【5】Total serum calcium： 7.9 mg/dl (normal=8.5-10.5 mg/dl)
+
+【6】Phosphorus： 3.1 mg/dl (normal=3.5-4.5 mg/dl) 删除换行1 25-hydroxycholecalciferol： 7 ng/ml (normal=30-50 ng/ml)
+
+【7】QUESTIONS
+
+【8】Q.1. What may be the probable diagnosis in this case?
+
+【9】Q.2. What may be the cause of this disease?
+
+【10】Q.3. Which age group is affected by above disease and why?
+
+【11】Q.4. What is Looser’s zone on X-ray?
+
+【12】Explanations
+
+【13】Ans.1. This woman is having osteomalacia as obvious in X-ray finding where loss of mineralization of osteoid matrix is seen. Hypocalcemia and hypophosphatemia which accompany vitamin D deficiency results in impaired mineralization of bone matrix protein. This type of bone which is deficient in mineralization is weaker than normal bone and is prone for bowing in weight-bearing extremities and also is prone for fractures. Severe vitamin deficiency also causes proximal myopathy in both children and adults.
+
+【14】Typical biochemical hallmarks of osteomalacia include low serum calcium， low phosphate， high levels of parathyroid hormone (PTH)， and high levels of alkaline phosphatase and osteocalcin along with low levels of 25-hydroxycholecalciferol.
+
+【15】删除3：<u>Fig. 1： Porous bone in osteoporosis and kyphosis</u>
+
+【16】Ans.2. Elderly population specially postmenopausal women are prone to this disorder.
+
+【17】Ans.3. Pseudofractures or Looser’s zones are specific radiological finding in osteomalacia seen in scapula， pelvis and femoral neck. These are thin radiolucent lines which are many centimeter long and are formed because of arterial pulsations over the bone.
+
+【18】删除3：<u>Fig. 2： Looser’s zone</u>
+
+【19】1\. Marco infante， Diana Coradini Maria Romane Allognuo vedea Osteomalncdla： A case Repor. threaten iypo mia in a Patient With H ol.4，No.
+
+【20】restrictions for atonic dermatitis. BMJ Case Rep.2014 jul 4；2014：bcr2014204558.doi： 10.1136/bcr-2014-204558.PMID： 25100811； PMCID： PMC4091129.焦瀚远
+
+====================================================================================================
+文本干净度#无关文本#1. Marco infante， Diana Coradini Maria Romane Allognuo vedea Osteomalncdla： A case Repor. threaten iypo mia in a Patient With H ol.4，No.
+
+【20】restrictions for atonic dermatitis. BMJ Case Rep.2014 jul 4；2014：bcr2014204558.doi： 10.1136/bcr-2014-204558.PMID： 25100811； PMCID： PMC4091129.#无

@@ -1,0 +1,34 @@
+【0】Question: 26.1 You are on duty at the emergency department. A patient is brought in by ambulance and the paramedics state: “Got no pulse.” In which of the following clinical scenarios would it be appropriate to withhold CPR?
+
+【1】A. A 28-year-old drowning victim with apnea and no spontaneous movement.
+
+【2】B. A 32-year-old man with pinpoint pupils and tract marks on arm.
+
+【3】C. A 46-year-old woman with breast cancer whose advance directive states no CPR desired, but her daughter tells you to do “everything possible.”
+
+【4】D. A 19-year-old man brought out of a burning building with no movement and no spontaneous respirations.
+
+【5】Answer: 26.1 C. Withholding CPR is generally performed in compliance with an advance directive, obvious signs of irreversible death, and with clear physiologic futility (which often takes time to evaluate completely). The 46-year-old woman with breast cancer and an advance directive is the most appropriate patient to withhold CPR, even though the daughter is insisting that everything be done. The patient’s wishes generally take priority over family members’ instructions. The other scenarios describe situations of potentially reversible brain dysfunction. Drowning victims may be successfully resuscitated even after being submerged for 30 minutes and sometimes even longer. A patient with possible heroin overdose may outwardly show absence of brain function, but may gain function with resuscitation and opiate reversal. A patient who has been in a burning building can experience smoke inhalation or carbon monoxide poisoning, but he or she should be resuscitated before a conclusion is drawn about possible brain death or physiologic futility.
+
+【6】Question: 26.2 An 82-year-old woman with colon cancer and liver metastases was admitted for chemotherapy. Because of her poor prognosis, she is asked about a DNR order, but she requests to be a “full code.” Which is the most appropriate management of this patient’s condition?
+
+【7】A. Explain to the patient that signing a DNR order means she will need to be placed in hospice care.
+
+【8】B. Emphasize to her with compassion that a decision should be made in the next several hours in the event that cardiac arrest occurs.
+
+【9】C. Sharing this decision with family members is rarely helpful because guilt is often a complicating factor.
+
+【10】D. Discuss with the patient that a DNR order will not mean she will receive less care.
+Answer: 26.2 D. This patient is elderly and has metastatic cancer. Out-of-hospital survival would not be expected should this patient require CPR. Thus, CPR for MW could be described as being a futile effort. The patient does not meet other criteria for futility. It is important that she is of sound mind. A DNR order should not be written even if CPR would be judged to be futile unless the patient or family members concur. Patients must be given time to understand the seriousness of their diagnosis. Periodically readdressing the question of CPR with patients and their family should be done on a continual basis. This is best performed in the context of other medical decisions that occur during patient care. The health care professional should emphasize that a DNR order does not mean that the patient will be abandoned or receive a lower standard of care.
+
+【11】KEY POINTS
+
+【12】 Brain death is defined as the irreversible loss of brain function, including brain stem function, and is different from brain injury.
+
+【13】 Brain death is a clinical diagnosis and depends on the absence of spontaneous movement, brain stem function, and apnea.
+
+【14】 CPR can be withheld due to a valid advanced directive or when there is clear evidence of irreversible death (rigor mortis).
+
+【15】 Discussions about organ donation should be approached with sensitivity and only after dealing with the questions about brain death.焦瀚远
+
+====================================================================================================

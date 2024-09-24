@@ -1,0 +1,149 @@
+【0】Case 5.8 Left Knee Pain and Swelling
+删除11：<u>By Phoebe M. Heffron， MSN， PNP</u>
+
+【1】SUBJECTIVE
+
+【2】Maria is a 14-year-old female who presents with sudden onset left knee pain and swelling which began at soccer practice 10 days ago. Maria reports that the knee “gives out" at times and that the pain has decreased in the last week and a half. She has used ice， ibuprofen， rest， and an ACE bandage with minimal decrease in swelling， though the pain has improved.
+
+【3】Past medical/surgical history： Significant for a previous second degree ankle sprain on the ipsilateral side and Lyme disease at ages 11 and 12 with symptoms of pain and swelling present in the left knee in the first Lyme infection. Maria has not previously had any surgeries.
+
+【4】Family history： Maria’s family history includes a maternal grandmother with diabetes， a maternal grandfather with coronary artery disease， a paternal grandfather with rheumatoid arthritis， and a paternal grandfather who died at age 80 from colon cancer.
+
+【5】Social history： Maria lives with her mom， dad， 17-year-old sister， 12-year-old brother， and 2 dogs. She has many friends， is an honors student， plays in the school orchestra， and plays basketball，tennis， and soccer for her school and town recreation leagues. Her family lives in a large house in an upper middle-class town， where her dad (an attorney) works full-time and her mom (who has a master's degree and works at a museum) works part-time. Maria feels very close with her family， denies use of tobacco or any substances， denies depressive symptoms but does see a psychiatric mental health nurse practitioner for some anxiety she experienced following her witnessing a fatal car acci-dent. (She reports that her anxiety is much improved and that she has never required medication for this).
+
+【6】Medications： Cetirizine， as needed for seasonal allergies， and a multivitamin and calcium supple-ment daily.
+
+【7】Allergies： Seasonal allergies， an allergy to stone fruits and an allergy to penicillin.
+删除个例：<u>Clinical Case Studies for the Family Nurse Practitioner， First Edition. Edited by Leslie Neal-Boylan</u>.
+删除个例：<u>@ 2011 John Wiley & Sons， Inc. Published 2011 by John Wiley & Sons， Inc.</u>
+
+【8】OBJECTIVE
+
+【9】General： No apparent distress.
+
+【10】Vital signs： Height： 5ft 4 inches； weight： 115lbs； temperature： 98.2； pulse： 76； respirations： 12； BP：110/72.
+
+【11】Cardiac： RRR S1/S2； no murmurs， clicks， gallops， or rubs.
+
+【12】Respiratory： CTA bilaterally.
+
+【13】Musculoskeletal： Left knee with moderate effusion； no significant ecchymosis. Skin is intact. Leg is in slight external rotation (equal bilaterally). No visible misalignment of patella. No muscle atrophy apparent. Range of Motion (ROM) from about 10-120 degrees， 5+ strength with hamstring and quad-riceps testing. Equivocal flexion pinch test. Questionable anterior and posterior joint-line tenderness， both laterally and medially. No tenderness over the patella. Negative sag test； some laxity with varus and valgus testing at 0 degrees， but no laxity with varus and valgus testing at 30 degrees； some laxity with anterior drawer and Lachman testing.
+
+【14】CRITICAL THINKING
+
+【15】Which diagnostic or imaging studies should be considered to assist with or confirm the diagnosis?
+
+【16】Radiograph
+
+【17】Urinalysis/urine culture
+
+【18】Rapid strep test
+
+【19】Complete blood count with differential
+
+【20】Blood urea nitrogen/creatinine
+
+【21】Magnetic resonance imaging (MRI)
+
+【22】Antinuclear antibody
+
+【23】Lumbar puncture
+
+【24】C-reactive protein
+
+【25】\Lyme titer/western blot/ELISA
+
+【26】What is the most likely differential diagnosis and why?
+
+【27】Lyme disease
+
+【28】Meniscus tear
+
+【29】Anterior cruciate ligament (ACL) tear
+
+【30】Rheumatoid arthritis
+
+【31】Osgood-Schlatter disease
+
+【32】Patellofemoral syndrome
+
+【33】What is your plan of treatment?
+
+【34】What is your plan for follow-up care?
+
+【35】Are any referrals needed?
+
+【36】Does the patient's psychosocial history impact how you might treat this patient?
+
+【37】What if this patient was male?
+
+【38】What if this patient was over age 18 or under age 13?
+
+【39】What if the patient was also diabetic or hypertensive?
+
+【40】What if the patient lived in a rural， isolated setting?
+
+【41】What kind of education should you provide to the patient regarding future injury prevention to protect against recurrence or injury to the contralateral side?
+
+【42】Are there any standardized guidelines that you should use to assess or treat this case?
+
+【43】RESOLUTION
+
+【44】Diagnostic tests：
+
+【45】●A radiograph shows a moderate joint effusion.删除31：<u>●</u>
+The MRI shows a full thickness tear of the ACL with a partial thickness tear of the Medial Collateral Ligament (MCL).
+
+【46】● Antinuclear antibody is within normal limits.
+
+【47】● C-reactive protein is mildly elevated.
+
+【48】● Lyme tests are all negative. (IgG is elevated but IgM is within normal limits indicating a previ ous—but not current—infection with Lyme disease).
+
+【49】What is the most likely differential diagnosis and why?
+
+【50】Tear of the ACL：
+
+【51】Regardless of the test results， one can be fairly confident that the diagnosis is an ACL tear. It may be harder to determine the certainty of concurrent MCL tear. However， the history of sudden onset knee pain during a high-risk activity with recurrent"giving out" and decrease in pain is classic for an ACL injury. The physical exam is also typical for ACL injury.
+
+【52】What is your plan of treatment?
+
+【53】Recommend that Maria continue rest， ice， compression， and elevation (RICE) therapy until she is seer by the orthopedist. Prescribe crutch use. (Note： Some providers will recommend use of an immobiliz-ing brace， but this practice varies. Know the preference of the orthopedist to whom you are referring the patient.) Instruct Maria about exercises to work on ROM (especially extension) and quadriceps strengthening. Provide educational materials 删除10：<u>(Heffron & Daley， 2010)</u>， including some frequently asked questions with answers and a guide to other useful resources. The orthopedist's plan for Maria is likely to include a recommendation that she undergo ACL reconstruction surgery to repair the torn ligament. The recommendation for the specific type of surgical procedure and graft type will vary both by surgeon but also based on the skeletal maturity-or status of growth plate closure and esti-mation of remaining growth potential-for the particular patient.
+
+【54】What is your plan for follow-up care?
+
+【55】You should see Maria again after she has seen the orthopedist to review her options and answer any questions. If possible， provide a network of patients who have been through this experience so that Maria can talk to others with similar experiences. Provide psychosocial support through-out the pre-surgery， surgery (if undertaken)， and rehabilitation process. Consider talking to Maria's coach(es) about incorporating an ACL injury prevention program into the regular routine for their team(s).
+
+【56】Are any referrals needed?
+
+【57】A referral to orthopedics is warranted. Potentially， a referral to a counselor， psychiatrist， or psycholo-gist (especially one involved in sports psychology and/ or experienced with pediatric patients) may be helpful. However， Maria has seen a psychiatric mental health nurse practitioner before， so she may already be comfortable with this professional. A referral for physical therapy may be appropriate， depending on the provider’s relationship with the pediatric orthopedist to whom she is referring the patient and the orthopedist’s preference for management during the acute post-injury phase.
+
+【58】Does the patient's psychosocial history impact how you might treat this patient?
+
+【59】In this case， there is not any difference in treatment based on psychosocial history； but， given Maria's struggles with anxiety， it is important to make sure that she feels like she is knowledgeable and 删除换行1 empowered to make decisions and manage her care. It is important to gauge the patient's response to the situation and determine the need for a mental health referral.
+
+【60】What if this patient was male?
+
+【61】These injuries are less common in males， but similar treatment considerations regarding skeletal maturity would apply.
+
+【62】What if the patient was over age 18 or under age 13?
+
+【63】If the patient was over age 18， she'd likely be at skeletal maturity； and standard adult reconstruction procedures could be used. If she was under 13， she'd be more likely to have wide open physes；and perhaps delayed surgical reconstruction would be the most appropriate treatment option.
+
+【64】What if the patient was also diabetic or hypertensive?
+
+【65】Standard procedures should be used for any diabetic or hypertensive patient undergoing surgery(i.e.， extra insulin to compensate for the stressful situation).
+
+【66】What if the patient lived in a rural， isolated setting?
+
+【67】This might limit access to a pediatric orthopedic specialist but should not otherwise impact the plan or care.
+
+【68】What kind of education should you provide to the patient regarding future injury prevention to protect against recurrence or injury to the contralateral side?
+
+【69】The patient is likely to have many questions. An information sheet may help the patient with an ACL injury based on some commonly asked questions 删除10：<u>(Heffron & Daley， 2010)</u>.
+
+【70】Are there any standardized guidelines that you should use to assess or treat this case?
+
+【71】The major guiding principle in the management of ACL injuries is the importance of skeletal maturity. Skeletal maturity will help determine the appropriate treatment modality for a particular patient with an ACL tear. Different surgical techniques have been developed to try to prevent growth disturbance that may result from the use of standard adult reconstruction procedures； and in adolescents with wide open physes， delayed surgical intervention may be the most appropriate modality.黄艳玲
+
+====================================================================================================

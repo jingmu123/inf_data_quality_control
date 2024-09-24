@@ -1,0 +1,125 @@
+【0】Case 7.1 Fatigue
+
+【1】SUBJECTIVE
+
+【2】Fred， a 62-year-old male， presents to the primary care clinic with the chief complaint of fatigue. Upon further questioning， he also reports some difficulty concentrating and a decreased sex drive.
+
+【3】Further review of symptoms reveals dry skin， left-knee weakness， occasional heartburn， polyuria， and wheezing on exertion. He denies chest pain or palpitations. He reports being on antidepressants in the past but did not take them as directed. He is easy to get along with， forthcoming in his com-plaints， and describes his fatigue as a little bit more pronounced in the last couple of months. He also complains of erectile dysfunction，which he has noticed is worse in the last few years，especially since his diabetes is out of control.
+
+【4】Past Medical and Surgical History： Significant for uncontrolled type 2 diabetes， insulin dependent. The patient reports a last hemoglobin A1c of 10.2. He also has hypertension， gout， obstructive sleep apnea (with refusal to wear CPAP)， and hyperlipidemia. His past surgical history includes a deviated septum repair 20 years ago.
+
+【5】Family History： His mother died at the age of 81 of Parkinson disease； his father died at the age of56 of Hodgkin disease； and he has one sister who is alive and well at the age of 58.
+
+【6】Screening： He had a negative colonoscopy in 2008. His most recent PSA value was 3.1 in 2007.
+
+【7】Social history： He reports drinking 2 drinks of hard liquor daily. He quit smoking 20 years ago and drinks 4 cups daily of coffee. He reports not adhering to his prescribed diabetic diet and has many financial and marital stressors at home. He is self-employed with some college education.
+
+【8】Medications：
+
+【9】Humalog， 75/25，20 units in the morning and 20 units at night
+
+【10】Nexium， 40 mg daily
+
+【11】Crestor， 10mg daily Allopurinol， 300 mg daily Trazadone， 150mg at night Lopid， 600 mg twice daily Baby aspirin， 81 mg daily
+
+【12】Micardis，40/12.5 daily
+
+【13】Actos， 30 mg daily
+
+【14】Allergies： He has no known drug， food， or environmental allergies； and his immunizations are up to date.
+
+【15】◎ 2011 John Wiley & Sons， Inc. Published 2011 by John Wiley & Sons， Inc.
+
+【16】OBJECTIVE
+
+【17】Vital Signs： T： 98； P： 72；RR： 20；B/P： 138/90. His weight is 312 lbs， and his height is 58 inches.
+
+【18】General： He has a very pleasant attitude. He is a morbidly obese male， calm， pleasant and in no acute distress.
+
+【19】Skin： His color is pale. His skin is clear. Small senile keratosis is noted on his left arm. HEENT： Negative.
+
+【20】Neck： He appears to have short neck syndrome. He has no palpable nodes， no JVD.
+
+【21】Cardiovascular： Regular rate and rhythm. S1 and S2 are normal.
+
+【22】Respiratory： Chest is clear to auscultation.
+
+【23】Abdomen： Obese， nontender； and bowel sounds are present.
+
+【24】Musculoskeletal： Full range of motion.
+
+【25】Genital： He has normal genitalia. There is no evidence of swelling. His testicular exam is normal， and there is appropriate hair growth.
+
+【26】CRITICAL THINKING
+
+【27】Which diagnostic or imaging studies should be considered to assist with or confirm the diagnosis?
+删除14：<u>CBC</u>
+\Comprehensive metabolic panel
+
+【28】Lipid profile
+
+【29】Urinalysis with microalbumin and microanalysis
+
+【30】Serum testosterone
+
+【31】What is the most likely differential diagnosis and why?
+
+【32】Hypogonadism
+
+【33】Sexual dysfunction
+
+【34】Depression
+
+【35】Parkinson disease
+
+【36】What is your plan of treatment?
+
+【37】Are there any referrals needed/?
+
+【38】What would be relative and absolute contraindications to the treatment plan of testosterone therapy?
+
+【39】Are there standardized guidelines that would help in this case?
+
+【40】删除35：<u>NOTE： The author would like to recognize Amanda La Manna， RN， ANP for her contribution to the editing of this case.</u>
+
+【41】RESOLUTION
+
+【42】Diagnostic Testing： In order to get a better picture of Fred’s status and the reason for his symptoms， it is appropriate to order a CBC， comprehensive metabolic panel， lipid profile， urinalysis with micro- 删除换行1 albumin and microanalysis， and serum testosterone levels. The CBC will rule out systemic illness and give a picture of general health. The comprehensive metabolic panel will show Fred's diabetes control， kidney and liver function， and fluid status. The lipid profile will evaluate the status of his hyperlip-idemia， while the urine studies will evaluate several aspects of Fred's diabetes control. The serum testosterone will evaluate for hypogonadism.
+
+【43】Relevant test results for Fred include a free testosterone level of 128ng/dL. Normal levels for a young adult male are 300-1000ng/dL. In men older than 60 years with signs or symptoms of andro-gen deficiency， a total testosterone level below 200ng/dL is almost always clinically significant.
+
+【44】What is the most likely differential diagnosis and why?
+
+【45】Secondary hypogonadism：
+
+【46】Given the objective report of clinically significant low testosterone， we can conclude that Fred has secondary hypogonadism. This explains his decreased sexual function， along with his lowered con-centration and impaired mood.
+
+【47】However， looking further into the constellation of Fred’s symptoms and conditions， it becomes evident that there is interplay of many factors. Fred's uncontrolled diabetes is a wildcard， as it can also contribute to his decline in sexual function. The problem is autonomic neuropathy that results from failure of the small vessels that lead to vasodilation. In addition， it is known that obesity leads to lower free and total testosterone levels. Adding in Fred's probable depressive syndrome completes the clinical picture that shows many overlaps in symptoms. However， an objective diagnosis of hypogonadism can be confidently made considering the laboratory results. Diagnosis is made via evaluation of serum testosterone levels.
+
+【48】It is known that blood concentrations of testosterone and prehormones are significantly lower in older men than younger men， as they begin a gradual decline at midlife. In aging men who have not always had symptoms， hypogonadism is referred to as secondary， since the problem is not a primary dysfunction of the testes. Signs and symptoms of secondary hypogonadism due to aging include decreased muscle mass and strength， decreased bone mass， decreased libido (desire)， erectile dysfunc-tion， impaired mood， and impaired sense of well-being.
+
+【49】The diagnosis of male sexual dysfunction can include any or all of the following categories： 通用删除7(英):<u>(1)</u> decreased libido， 通用删除7(英):<u>(2)</u> erectile dysfunction， 通用删除7(英):<u>(3)</u> ejaculatory insufficiency， or 通用删除7(英):<u>(4)</u> impaired orgasm. Fred reports both decreased libido and erectile dysfunction， which can have several different etiologies. Decreased libido can occur due to psychogenic factors， medications， androgen deficiency， substance use or abuse， or central nervous system disease. Erectile dysfunction can occur due to psychogenic factors， medications， endocrine disorders， aging， or systemic illness. Diagnosis is generally made on subjective reporting， and treatment is symptom based.
+
+【50】Fred reports being on antidepressants in the past， which alludes to a previous diagnosis of depres-sive disorder. Today， Fred's report of altered mood， fatigue， sexual dysfunction， poor concentration， substance use， and personal stressors all suggest the possibility of a depressive syndrome.
+
+【51】What is your plan of treatment?
+
+【52】As an initial approach to Fred's low testosterone， an appropriate treatment is testosterone therapy. There are several different administration modalities， including intramuscular (IM) injections， skin patches， and transdermal gel preparations. IM injection is widely used and is an appropriate choice for Fred. The recommended dose is 150-200mg IM every 2-3 weeks. The testosterone transdermal patch delivers 5mg of testosterone daily but has a high incidence of skin irritation. There are other patch preparations that are larger and cause less irritation， but they may have a tendency to fall off with activity. The transdermal testosterone gel is widely used and the dosage is 5-10 mg of 1% tes-tosterone gel applied daily. It causes little skin irritation， though there is a possibility for transfer through direct skin contact. Since Fred has difficulty with daily medication compliance， bringing him to the clinic for routine injections is a wise choice.
+
+【53】In adjunct to testosterone therapy， Fred should be educated about medication compliance. Explaining to him the importance of diabetes control and the interplay of his numerous symptoms may be an effective approach.
+
+【54】Since Fred will be coming to the office for routine injections to start， there will be opportunities to reassess his symptoms. There will also be an opportunity to assess whether Fred or his spouse should 删除换行1 be instructed in injection administration. Follow-up intervals should occur between every 4 and 6months to evaluate progress， symptoms， and blood levels. Blood levels should be drawn periodically to evaluate whether his serum testosterone has returned to normal levels. Therapy could continue for as long as 3-4 years.
+
+【55】Are there any referrals needed?
+
+【56】Education about diet and exercise should be reinforced； and， if he is willing， he should be given a referral for nutritional counseling.
+
+【57】What would be relative and absolute contraindications to the treatment plan of testosterone therapy?
+
+【58】Testosterone therapy is absolutely contraindicated in those with carcinoma of the prostate or of the male breast， as these cancers require androgens for proliferation. Testosterone therapy should be used with caution in older men with enlarged prostates， with urinary symptoms， or elevated hematocrit.
+
+【59】Are there standardized guidelines that would help in this case?
+
+【60】The American Association of Clinical Endocrinologists Medical Guidelines for Clinical Practice for the Evaluation and Treatment of Hypogonadism in Adult Male Patients—2002 Update. 通用删除1(英):<u>(删除9：<u>http：//www. aace.com/pub/pdf/guidelines/hypogonadism.pdf)</u></u>黄艳玲
+
+====================================================================================================

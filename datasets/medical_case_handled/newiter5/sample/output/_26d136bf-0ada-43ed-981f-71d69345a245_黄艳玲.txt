@@ -1,0 +1,76 @@
+【0】Case Files® Biochemistry, Third Edition    
+
+【1】CASE 35
+-------
+
+【2】A 9-year-old boy is brought to the emergency department (ED) by his parents after 2 days of worsening nausea/vomiting and abdominal pain. The abdominal pain is located in the epigastric region and radiates to his back. He has had several episodes of similar pain in the past but none quite as severe as this one. His parents deny fever/chills and change in bowel habits. In the ED, the patient is afebrile and in moderate distress. Both the liver and spleen appear to be enlarged and he has epigastric tenderness. Several small yellow-white papules were noted on his back and buttocks. Laboratory tests reveal elevated amylase and lipase levels. On further questioning, the father reports having high triglyceride levels and several members of the mother’s family have had early heart disease. Laboratory tests performed after hospitalization revealed elevated triglyceride levels and reduced lipoprotein lipase (LPL) activity.
+
+【3】 What is etiology of the boy’s abdominal pain?
+
+【4】 What is the likely underlying biochemical disorder?
+
+【5】 What is the role of lipoprotein lipase?
+
+【6】### ANSWERS TO CASE 35:
+
+【7】#### Hypertriglyceridemia (Lipoprotein Lipase Deficiency)
+
+【8】Summary: A 9-year-old boy with acute abdominal pain consistent with pancreatitis, hepatosplenomegaly, eruptive xanthomas, and a family history of hypertriglyceridemia and heart disease.
+
+【9】• Etiology of abdominal pain: Acute pancreatitis
+
+【10】• Underlying biochemical disorder: Disorder of lipoprotein metabolism
+
+【11】• Role of lipoprotein lipase: Hydrolysis of triglycerides from very-low-density lipoprotein (VLDL) and chylomicrons
+
+【12】### CLINICAL CORRELATION
+
+【13】LPL is an enzyme found on the capillary endothelial surface of adipose tissue, heart, and skeletal muscle, and it is required, along with apoC-II, for the hydrolysis of triglycerides. ApoC-II, found on the surface of chylomicrons and VLDL, serves as an activator of LPL. A deficiency in LPL results in elevated levels of triglycerides (VLDL and chylomicrons). The cholesterol level may be normal or slightly elevated. LPL deficiency is inherited in an autosomal recessive pattern. Patients with LPL deficiency often present with recurrent episodes of pancreatitis in their childhood and may have other clinical signs of hypertriglyceridemia, including xanthomas, hepatosplenomegaly, and lipemia retinalis. Reduced serum LPL activity, following an injection of intravenous heparin, confirms the diagnosis of either LPL or apoC-II deficiency. The initial therapeutic intervention consists primarily of dietary modification (reduction of fat intake).
+
+【14】### APPROACH TO:
+
+【15】#### Lipid Transport
+
+【16】### OBJECTIVES
+
+【17】1\. Describe the metabolism and transport of lipoproteins.
+
+【18】2\. Understand the rationale for serum blood test results with the different hypertriglyceridemias.
+
+【19】### DEFINITIONS
+
+【20】APOLIPOPROTEIN C-II (APOC-II): The apolipoprotein on the surface of chylomicrons and VLDLs that binds to and activates lipoprotein lipase.
+
+【21】APOLIPOPROTEIN E (APOE): The apolipoprotein on the surface of several lipoproteins including chylomicrons, chylomicron remnants, very-low-density lipoprotein (VLDL), VLDL remnants, and intermediate-density lipoprotein (IDL). It mediates the binding of apoE-containing lipoproteins with the LDL receptor and the chylomicron remnant (apoE) receptor.
+
+【22】LIPOPROTEIN LIPASE (LPL): An enzyme bound to the surface of the capillary endothelium by heparan sulfate proteoglycans. LPL catalyzes the hydrolysis of triglyceride in chylomicrons and VLDL to free fatty acids and glycerol.
+
+【23】HEPATIC LIPASE (HL): An enzyme bound to the surface of sinusoidal endothelial cells of liver. It catalyzes the hydrolysis of mono-, di-, and triglycerides as well as the phospholipids phosphatidyl choline and phosphatidyl ethanolamine.
+
+【24】### DISCUSSION
+
+【25】Triglycerides (TGs) are safely transported in the bloodstream packaged into lipoproteins called chylomicrons or VLDLs. Chylomicrons are formed in the epithelial cells of the intestine and are responsible for the transport of dietary lipids. VLDL is synthesized in the liver and transport endogenously synthesized lipids from the liver to peripheral tissues. Both of these lipoproteins are composed of a core composed primarily of TGs enveloped by a monolayer composed of phospholipids, free cholesterol, and apolipoproteins.
+
+【26】Dietary triglycerides are hydrolyzed by pancreatic lipase in the lumen of the small intestine. Colipase, a protein secreted along with pancreatic lipase, binds to the TG and the pancreatic lipase and improves the hydrolytic process. TG is broken down to free fatty acids and 2-monoacylglycerols, which form micelles along with bile salts and other lipid soluble compounds such as cholesterol and fat-soluble vitamins. The free fatty acids and monoglycerides are absorbed by the microvilli of the intestinal epithelial cells. In the epithelial cell, the fatty acids and monoglycerides are reformed into triglycerides, which are packaged with phospholipids, cholesterol, and apolipoprotein B-48 into chylomicrons.
+
+【27】The newly synthesized chylomicrons are secreted into the lymph and enter the bloodstream via the thoracic duct. In the bloodstream, the chylomicron particles obtain proteins from high-density lipoproteins (HDLs), including apoC II and apoE, which are important for the function of the chylomicron 删除33：<u></u>.
+
+【28】删除3：<u>Figure 35-1. Formation and metabolism of chylomicrons. (Abbreviations used are defined in the enclosed box.)</u>
+
+【29】In the capillary beds in adipose tissue, muscle tissue (especially cardiac muscle) and in lactating mammary glands, apoC II binds to and activates LPL, which is bound to the endothelial surface of the capillaries by heparan sulfate. LPL hydrolyzes the TG in the core of the chylomicron to free fatty acids and glycerol. The fatty acids are taken up by the adipose or muscle cells; glycerol is recycled back to the liver. In muscle, the fatty acids are oxidized to produce ATP and in adipose they are reformed into TG for storage. The TG-depleted chylomicron remnant remains in the blood stream until it binds to the chylomicron remnant receptor located on hepatocytes, a process mediated by apoE. The remnants are taken into the hepatocytes by endocytosis and degraded in the lysosome to fatty acids, amino acids, cholesterol, glycerol, and phosphate.
+
+【30】Chylomicrons appear in the blood stream shortly after consumption of a meal containing fat. However, the clearance rate for chylomicrons is fast and blood is usually free of chylomicrons following an overnight fast.
+
+【31】VLDLs are lipoproteins synthesized in the liver from endogenous TG, cholesterol, and phospholipids, along with several apolipoproteins including, apoB-100, apoE, and apoC-II. Following synthesis, the VLDL is secreted into the bloodstream, where it obtains more apoE and apoC II from HDL 删除33：<u></u>. In a process similar to that of chylomicron degradation, the VLDL apoC-II binds to and activates LPL in the capillary beds of adipose, muscle, and mammary tissue. LPL degrades the VLDL TG core, releasing free fatty acids and glycerol. About one-half of the resulting VLDL remnants bind to receptors in liver cells that recognized apoE and are taken up by endocytosis. The remaining VLDL receptors are further degraded to IDLs, which have their residual TG removed by the action of hepatic lipase to yield low-density lipoproteins (LDLs). HL is synthesized and secreted from liver and is tethered to the external surfaces of liver cells by heparan sulfate. LDL is taken up by receptor-mediated endocytosis upon binding to the LDL receptor in liver and peripheral tissues.
+
+【32】删除3：<u>Figure 35-2. Formation of very-low-density lipoprotein and metabolism into low-density lipoprotein. 删除33：<u>通用删除1(英):<u>(Abbreviations are as used in Figure 35-1 .)</u></u></u>
+
+【33】Elevated serum TG levels can occur due to a number of factors. Hypertriglyceridemia can be the result of a genetic disorder in one of the proteins involved in lipoprotein metabolism, or it can arise secondarily to a number of other disorders, including diabetes mellitus, obesity, and alcohol abuse, and as an adverse event of some medications such as β-blockers, oral estrogens, and some diuretics. Genetic deficiencies in LPL, apoC-II, or HL can give rise to elevations in circulating TG, as can cause an overproduction of apoB-100 or increased apoE <sub>2 </sub> levels. ApoE <sub>2 </sub> has a decreased affinity for hepatic receptors than apoE <sub>3 </sub> and chylomicron remnants and VLDL remnants containing apoE <sub>2 </sub> are cleared more slowly from the circulation.
+
+【34】The most common genetic defect leading to hypertriglyceridemia is a deficiency in LPL, which results in increased levels of both chylomicrons and VLDL. Individuals who are homozygous for the defective gene usually present with symptoms of chylomicronemia (TG levels > 2000 mg/dL, abdominal pain, pancreatitis, xanthomas, lipemia retinalis) in childhood. Clinical diagnosis of LPL deficiency requires measurement of LPL activity in plasma following intravenous injection of heparin, which displaces the LPL from its heparan sulfate tether. However, heparin also releases HL into the plasma and the postheparin plasma must be treated with antibodies specific to HL to remove it. Alternatively, LPL can also be measured in adipose tissue, which has no HL activity. A deficiency in apoC II will also show evidence of decreased postheparin plasma LPL activity. An increase in LPL activity when normal apoC II is added to the assay indicates that a defect in apoC-II is the culprit.
+
+【35】A deficiency in HL can also lead to elevated plasma TG levels, however, these increases in TG are usually found in VLDL remnants, LDL, and HDL, which all become more buoyant in their densities. Definitive diagnosis of HL deficiency is made by demonstrating the absence of HL activity in postheparin plasma.
+
+【36】###黄艳玲
+
+====================================================================================================

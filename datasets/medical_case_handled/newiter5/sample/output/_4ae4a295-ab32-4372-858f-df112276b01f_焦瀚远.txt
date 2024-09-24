@@ -1,0 +1,72 @@
+【0】删除1：<u>© People's Medical Publishing House, PR of China 2021
+
+【1】H. Wang (ed.) Paediatric Kawasaki Disease 删除9：<u>https://doi.org/10.1007/978-981-15-0038-1\10</u></u>
+
+【2】10. KD with IVIG Resistance
+===========================
+删除2：<u>Yan-qiu Chu通用删除4(英):<u> <sup><a>1 </a></sup></u> , Xue-xin Yu通用删除4(英):<u> <sup><a>1 </a></sup></u> , Hong Wang <sup><a>1 </a><span class="ContactIcon"></span></sup> , Ce Wang通用删除4(英):<u> <sup><a>1 </a></sup></u> and Xuan Liu <sup><a>2</a></sup>
+
+【3】通用删除7(英):<u>(1)</u>
+
+【4】Department of Pediatric Cardiology, Shengjing Hospital, Affiliate China Medical University, Shenyang, Liaoning, P. R. China
+
+【5】通用删除7(英):<u>(2)</u>
+
+【6】Department of Hematology Laboratory, Shengjing Hospital, Affiliate China Medical University, Shenyang, Liaoning, P. R. China
+
+【7】</u>
+Abstract
+--------
+
+【8】The IVIG resistance defines that patients with KD develop recrudescent or persistent fever at least 36 h after the end of IVIG infusion \[McCrindle et al. Circulation 135通用删除7(英):<u>(17)</u>:e927–99, 2017\]. Although IVIG was administered as soon as KD was established within 10 days of illness, approximately 10–20% patients developed IVIG resistance. These patients have an increased risk of CAA compared to those IVIG responders (15% vs. 5%) \[Tremoulet et al. J Pediatr. 153通用删除7(英):<u>(1)</u>:117–21, 2008\]. Thus, identification of children who are likely to be IVIG resistant would allow utilizing additional therapies early in the course of their illness, and thus it would be possible to prevent coronary artery lesions. In 2006, Kobayashi et al designed scoring systems to predict IVIG resistance, risk factors include sodium≤133 mmol/L; days of illness at initial treatment≤4; ALT≥100 IU/L; neutrophils≥80%; CRP≥100 mg/L; age ≤12 months; platelet count ≤300 × 10 <sup>9 </sup> /L\[Kobayashi et al. Circulation 113:2606–12, 2006\]. In 2007, Kuo et al reported that post-IVIG eosinophilia (peripheral blood eosinophils ≥4%) had an inverse correlation to IVIG resistance and pre-IVIG hypoalbuminemia (albumin≤3.0 g/dL) was positively correlated with IVIG resistance\[ Kuo et al. Pediatr Allergy Immunol. 18:354–9, 2007\]. In 2013, Fu PP et al established scoring systems especially to predict IVIG resistance in Chinese Children with KD, plus clinical characteristics (polymorphous exanthema, changes around the anus) compared with the previous system \[Fu et al. Pediatr Infect Dis J. 32:e319–23, 2013\].
+
+【9】It is reasonable to administer a second dose of IVIG (2 g/kg) to IVIG-resistant patients \[Sundel et al. J Pediatr. 123通用删除7(英):<u>(4)</u>:657–9, 1993\], high-dose pulse steroids (usually methylprednisolone 20–30 mg/kg intravenously for 3 days, with or without a subsequent course and taper of oral prednisone) may be considered as an alternative to a second infusion of IVIG or for retreatment of patients with KD who have had recurrent or recrudescent fever after additional IVIG \[Kobayashi et al. J Pediatr. 163通用删除7(英):<u>(2)</u>:521–6, 2013\]. Administration of infliximab (5 mg/kg) may be considered as an alternative to a second infusion of IVIG or corticosteroids for IVIG-resistant patients, cyclosporine may be considered in patients with refractory KD in whom a second IVIG infusion, infliximab, or a course of steroids has failed, immunomodulatory monoclonal antibody therapy (except TNF-α blockers), cytotoxic agents, or (rarely) plasma exchange may be considered in highly refractory patients who have failed to respond to a second infusion of IVIG, an extended course of steroids, or infliximab \[McCrindle et al. Circulation 135通用删除7(英):<u>(17)</u>:e927–99, 2017\].
+
+【10】10.1 Case 35: KD with IVIG Resistance-IVIG too Early
+----------------------------------------------------
+
+【11】A previously healthy 2-year-old male presented with unremarkable past medical history and family history.
+
+【12】He presented on Day 5 of illness with a 5-day history of persistent high fever along with rashes and 4-day history of bilateral conjunctivitis. Edema showed on hands and feet after cephalosporin infusion once. On Day 3 of illness he was admitted to local hospital as KD where he received IVIG (1 g/kg/day), furosemide, and methylprednisolone. Rashes were settled down but not fever. On the Day 5, he was transferred to our pediatric cardiology ward. Examination revealed fever (39.9 °C), poor mental state, and delayed response to surroundings. Cervical lymphadenectasis (1.5 cm), bilateral conjunctivitis, red cracked lips with strawberry tongue, and red and edematous palms and soles were present. There were rashes on his face, skin around BCG site, and crissum was red without desquamation. Others were normal. Admission blood test results were listed in Table 10.1 . Echo in local hospital showed bilateral dilation at initial part of coronary artery (LCA 4.1 mm, RCA 4.6 mm). For the boy met all the criteria of KD, he was given oral aspirin (30–50 mg/kg/day), dipyridamole (3–5 mg/kg/day), erythromycin, and third-generation cephalosporin, also polyene phosphorus ester acid radical choline (0.5 g/day) and compound glycyrrhizin (20 mL/day, to protect liver).
+Table 10.1 删除换行 The dynamic changes of Laboratory parameters
+
+| Time  | 3 days  | 5 days  | 6 days  | 9 days  | 13 days  | 16 days  | 19 days  | 22 days  | 6 months  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| WBC (×10 9 )  |  | 9.6  |  | 21.67  | 22.1  | 14.94  | 7.11  |  | 7.4  |
+| NE (%)  |  | 79.5  |  | 75.7  | 77.2  | 55.1  | 36.5  |  | 38.1  |
+| HGB (mg/L)  |  | 100  |  | 99  | 90  | 104  | 108  |  | 127  |
+| PLT (×10 9 )  |  | 252  |  | 799  | 799  | 600  | 363  |  | 305  |
+| CRP (mg/L)  | 74  | 35.6  |  | 91  | 18.8  | 11.4  | 13.3  | 6.58  | 3.76  |
+| NT pro- BNP (pg/mL)  | 2580  | 962.9  |  | 846.9  |  | 80.42  |  |  | 305  |
+| ALT (U/L)  | 103  |  | 75  |  |  |  |  |  |  |
+| ALB (U/L)  |  |  | 30.2  |  |  |  |  |  |  |
+
+【14】On the Day 6, he was still febrile (>38.5 °C) and dispirited. The neck stiffness was positive. Liver function showed Alb 30.2 g/L, ALT 75 U/L, AST 63 U/L. MP-IgG (+), CP-IgG (+). ESR 60 mm/h. Neck ultrasound revealed bilateral cervical lymphadenectasis, with the biggest one about 2.3 cm × 1.0 cm. IVIG (2 g/kg) infusion was given within 24 h/over 12 h. Mannitol and furosemide were administrated after half of IVIG infusion. On Day 7, the high fever was persistent (39.5 °C) and he was in significant malaise. The lumbar puncture showed CSF pressure was 72 drops/min and CSF was lightly yellow and transparent, Pandy test(+), total cell 238 × 10 <sup>6 </sup> /L, WBC 238 × 10 <sup>6 </sup> /L, NE 17.6%. Serum pInf-IgM(+). He was treated with 通用删除7(英):<u>(1)</u> mannitol (20%, 2.5 mL/kg, Qd) and furosemidum (1 mg/kg, 30 min after mannitol) infusion; 通用删除7(英):<u>(2)</u> deproteinized calf blood extract 0.4 g/day, once per day; 通用删除7(英):<u>(3)</u> human serum albumin 10 g/day infusion for 2 days. On Day 8, his body temperature regressed to 38 °C, and the bilateral conjunctivitis was partly relieved. There were rashes left on the arms and legs. The skin peeled around crissum. Neck was stiff. On Day 9, he developed sleepiness, poor appetite, cough with sputum. The body temperature reached 38.5 °C over 48 h after repeated IVIG. Chest auscultation presented wheezy phlegm. His neck was still stiff and the right scrotum had edema. Laboratory parameters were shown in Table 10.1 , both urine and CSF cultures were negative. NT pro-BNP 846.9 pg/mL. Echo showed PDA 删除33：<u></u> while coronary artery was normal, LCA 2.1 mm, RCA 2.0 mm 删除33：<u></u>. No restricted dilation was detected. Brain MR showed slight dilation in the extracranial space around frontal, parietal, and temporal lobes 删除33：<u></u>, and external cerebral fluid accumulation. He was treated with 通用删除7(英):<u>(1)</u> additional IVIG 2 g/kg (6 g/kg in total); 通用删除7(英):<u>(2)</u> oral methylprednisolone 6 mg/kg/day, Qd; 通用删除7(英):<u>(3)</u> second generation of cephalosporin to replace the first generation.
+
+【15】删除3：<u>Fig. 10.1
+
+【16】On the Day 9 of illness, echo showed PDA 2.66 mm</u>
+
+【17】删除3：<u>Fig. 10.2
+
+【18】Echo showed LCA 2.13 mm ( a ) and RCA 2.0 mm ( b ) on the Day 9 of illness</u>
+
+【19】删除3：<u>Fig. 10.3
+
+【20】MR showed dilation of extra-cerebral space on the Day 9 of illness</u>
+
+【21】On Day 10, his temperature was settled down, spiritual state was slightly improved, too, thus mannitol was added to the treatment every 12 h. On Day 11, for the persistent dispirited state, lumbar puncture was repeated and results were shown as followings: the CSF pressure 40–50 drops/min, light yellow transparent CSF, Pandy’s test (+), total cells 24 × 10 <sup>6 </sup> /L, WBC 24 × 10 <sup>6 </sup> /L, NE 8.3%, glucose 2.86 mmol/L, Cl <sup>− </sup> 114.3 mmol/L, protein 0.62 g/L. On Day 13, his body temperature was 37.7 °C, then regressed voluntarily. There were condensed red rashes in variable sizes showing on his trunk and hip skins, neck stiffness (+), bilateral Babinski sign (+). CSF culture test revealed negative bacterial colony after 48 h. Blood routine test revealed WBC 22.10 × 10 <sup>9 </sup> /L, NE 77.2%, HGB 90 g/L, PLT 799 × 10 <sup>9 </sup> /L. CRP 18.80 mg/L. Consultation with dermatologist concluded that the symptoms were drug eruption related. All the antibiotics were stopped, compound glycyrrhizin and Claritin plus hydrocortisone emulsifiable paste were used to relieve rashes.
+
+【22】On Day 14, he had cracked lips, and he coughed only once a while but with thick sputum, accompanied with the wheezy phlegm auscultated. He had watery stools twice, rotavirus was tested positive in stool. Oral aspirin and infusion of zithromax were prescribed. Probiotics and bismuth subsalicylate were administrated orally as anti-diarrhea measures.
+
+【23】On Day 15, he excreted yellow thin stools (three times a day), while the appetite loss trivially, urine volume remained adequate. The skin on knees was scratched broken from itching. 1:1 (Glucose: NS) solution was infused to replenish body fluid. On Day 17, his cough subsided but sputum increased with normal body temperature. His stool texture was almost normal. Lumbar puncture was performed again, the CSF pressure turned out to be 60 drops/min, CSF routine revealed total cell 11.00 × 10 <sup>6 </sup> /L, WBC 11 × 10 <sup>6 </sup> /L, NE 9.1%.
+
+【24】On Day 18, he got fever again (38.5 °C), with running nose. Sporadic red rashes appeared on bilateral opisthenar, with pruritus. Membranoid peeling skin appeared around nails. There was white yogurt-like substance in his mouth. He was given interferon inhaled. On Day 19, rechecked brain MRI revealed slight dilation of bilateral paraceles, which make us suspecting he had bilateral mastoiditis. Echo showed normal coronary arteries. On Day 21, his diarrhea was settled down, while the rashes stay unchanged. We reduced methylprednisone to 2 mg/kg/day. On Day 22, he was discharged.
+
+【25】### 10.1.1 Clinical Course of This Patient
+
+【26】### 10.1.2 Follow-Up
+
+【27】At 4 weeks of fever onset, echo revealed LCA 2.0 mm, RCA 2.2 mm. Six months later, echo revealed LCA 2.3 mm, RCA2.1 mm . NT pro-BNP 69.11 pg/mL. CRP 3.76 mg/L; WBC 7.4 × 10 <sup>9 </sup> /L, N%38.1%, HGB 127 g/L, PLT 305 × 10 <sup>9 </sup> /L. Oral aspirin and dipyridamole were given for 3 months. Methylprednisolone 1 mg/day was gradually stopped in 1–2 weeks after disappearance of meningeal and normal EEG. He had taken oral cerebroprotein hydrolysate tablets until EEG was normal when rechecked. He also had taken oral lysine inositol vitamin B12 liquid for 2 months. Head MRI was performed after 2 months .焦瀚远
+
+====================================================================================================

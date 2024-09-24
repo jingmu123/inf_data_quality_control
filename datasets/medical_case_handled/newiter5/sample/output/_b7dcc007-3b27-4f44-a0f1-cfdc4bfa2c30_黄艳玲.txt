@@ -1,0 +1,62 @@
+【0】### 8 Maternal–fetal conflicts: Cesarean delivery on maternal request
+
+【1】Ruth Landau and Steve Yentis
+
+【2】#### The Case
+
+【3】> Jane and Jim, successful lawyers in their mid-forties, are expecting their first child. Immediately after they learned that their 4th in-vitro fertilization attempt was successful, they decided to request a Cesarean delivery. At 36 weeks, Jane and Jim confirm again their desire to have a ‘maternal request’ Cesarean section and ask for the Cesarean delivery to be performed the following week at 37 weeks’ gestation to accommodate Jim’s busy agenda. In addition, Jane is adamant she wants to have a general anesthetic due to her fear of experiencing any kind of discomfort or pain during the Cesarean section .
+
+【4】Until recently, debate around the indications for and choice of Cesarean section have focused on rights of women to refuse a Cesarean section when urgent delivery is medically indicated. In terms of the “principlism” (four principles) approach to ethical analysis, this debate has highlighted the balance between the obligations of the obstetrician to both the mother and fetus and obligations of the mother to the fetus, based on beneficence and non-maleficence , and the duty to respect the mother’s autonomy . Legally, many courts recognize an absolute right of women with capacity to refuse medical treatment even when that decision may result in their death or the death of their baby. Doctors have duties to respect a woman’s autonomy and obligations to inform fully, counsel honestly, and avoid coercion.
+
+【5】Recently, a new phenomenon has emerged in which patients demand a cesarean section. More women are switching their birth plan from a “natural childbirth/no epidural” perspective towards a more “controlled”, medicalized or surgical childbirth. What ethical implications does this growing phenomenon have for clinicians?
+
+【6】##### Cesarean section upon maternal request
+
+【7】Cesarean section rates are rising in developed countries. Reasons include a decline in vaginal births after previous Cesarean delivery, a decline in vaginal breech deliveries, and a reluctance among many obstetricians to “risk” a vaginal delivery when labor is not straightforward. The number of Cesarean deliveries at maternal request (CDMR) – i.e. in the absence of any medical or obstetrical indications – has been increasing, accounting for 48–18% of all Cesarean deliveries.通用删除4(英):<u> <sup>1 </sup></u> An independent panel of the National Institute of Child Health and Human Development and the Office of Medical Applications of Research of the National Institutes of Health (NIH) reviewed CDMR in 2006 <sup>2 </sup> and drew the following conclusions.
+
+【8】通用删除7(英):<u>(1)</u> The incidence of cesarean delivery without medical or obstetrical indications is increasing in the US, one component of which is CDMR.
+
+【9】通用删除7(英):<u>(2)</u> There is insufficient evidence to fully evaluate the benefits and risks of CDMR compared to planned vaginal delivery. More research is needed.
+
+【10】通用删除7(英):<u>(3)</u> Until evidence becomes available, the decision to perform CDMR should be individualized and consistent with ethical principles.
+
+【11】通用删除7(英):<u>(4)</u> The risks of placenta previa and accreta rise with each Cesarean delivery, and CDMR is not recommended for women desiring several children.
+
+【12】通用删除7(英):<u>(5)</u> CDMR should not be performed before 39 weeks’ gestation or without verification of lung maturity because of the significant danger of neonatal respiratory complications.
+
+【13】通用删除7(英):<u>(6)</u> Unavailability of effective labor pain options should not influence the decision to perform CDMR.
+
+【14】Ethical considerations for CDMR go beyond the principles of respect for autonomy and beneficence / non-maleficence . They include issues of resource allocation and the impact of CDMR on healthcare costs (i.e. the principle of justice ) as well as idealistic and philosophical reflections on future societal implications if Cesarean deliveries become the norm.
+
+【15】##### CDMR from the mother’s perspective
+
+【16】Common reasons reported by women requesting a cesarean delivery are fear of labor pain and stress; uncertainty of outcome; fear of emergency intervention such as forceps; fear of fetal distress during labor; fear of future sexual dysfunction, stress incontinence or pelvic prolapse; and convenience. Ultimately, women may invoke a right to have their autonomy respected, and to participate in all decisions related to their healthcare; in other words, if an informed woman wants a cesarean delivery, she should have the right to request a cesarean delivery regardless of any medical risk that her decision may inflict on her or her baby.
+
+【17】Respect for patient autonomy requires that a patient be fully informed about the benefits and the risks of a recommended treatment, and then has the right either to consent to the treatment or refuse it. But broadening this principle to create an obligation to respect a patient request for treatment that is not recommended and might even be harmful stretches the concept of patient autonomy to a point that many ethicists and lawyers believe goes beyond what is reasonably acceptable within the usual doctor–patient relationship. In the UK, non-obstetrical patient treatment requests have been tested in the courts, which have confirmed that doctors are not legally or ethically obliged to provide treatment requested by a patient if they consider it not in his/her best interests.
+With CDMR, the situation is further complicated by the involvement of a third party – the fetus. A woman may desire CDMR to avoid a complicated vaginal delivery that may be harmful not only to herself but also to her baby. Furthermore, the risk of a primigravidae requiring an urgent unplanned cesarean delivery during labor are significant – approximately 10%–20%. Cesarean section following a prolonged trial of labor involves higher maternal morbidity than a scheduled Cesarean, due to increased risk of uterine atony and hemorrhage. For the baby, a scheduled Cesarean delivery may reduce risks, such as reduced availability of neonatal resuscitative measures, associated with a possible “out of office hours” delivery. Indeed, concern for the baby is one of the most common motivations cited by women requesting CDMR.
+Autonomy of decision-making implies that the benefits and risks are known, disclosed and discussed. In the case of CDMR, this may not be entirely possible. Evidence on the risks and benefits of CDMR in low risk pregnant women has never been entirely assessed, leading the NIH to call for more randomized clinical trials.
+
+【18】##### CDMR from the fetus’s perspective
+
+【19】The concept of “fetal rights” contributes to a notion that the pregnant woman and her fetus are potential adversaries. Much of the debate around “fetal rights” has been in the context of abortion, an area of great political, ethical, and legal controversy. The fetus is in an intermediate ethical, and legal position. Lacking capacity, it cannot have autonomy. Furthermore, the fetus is dependent for its well-being on the choices made by the mother. In UK and Canadian common law “the fetus does not have legal rights until it is born alive and with complete delivery from the body of the pregnant woman.”通用删除4(英):<u> <sup>5 </sup></u> If a competent woman refuses medical advice, her decision must be respected even if the doctor believes that her fetus will suffer as a result. According to the ACOG Committee on Ethics通用删除4(英):<u> <sup>6 </sup></u> :
+
+【20】> Pregnant women’s autonomous decisions should be respected. Concerns about the impact of maternal decisions on fetal well-being should be discussed in the context of medical evidence and understood within the context of each woman’s broad social network, cultural beliefs, and values. In the absence of extraordinary circumstances, circumstances that, in fact, the Committee on Ethics cannot currently imagine, judicial authority should not be used to implement treatment regimens aimed at protecting the fetus, for such actions violate the pregnant woman’s autonomy .
+
+【21】Regarding CDMR, the fetus’s best interests are usually considered in terms of the risks of prematurity and trauma if delivered by elective cesarean section, weighed against the risks of injury arising from difficult delivery, emergency intervention, or post-maturity.
+
+【22】In the case of Jane and Jim, CDMR is particularly controversial because they request it at 37 weeks’ gestation. Compelling evidence concludes that neonatal outcomes are improved if Cesarean delivery is delayed until 39 weeks.通用删除4(英):<u> <sup>7 </sup></u> The risks should clearly be presented to Jane and Jim as well as the option to perform fetal lung tests prior to scheduling the surgery.
+
+【23】##### CDMR from the doctor’s perspective
+
+【24】###### Do doctors have the choice whether or not to perform a CDMR ?
+
+【25】Principles of beneficence and nonmaleficence are particularly challenging with CDMR, since they must balance benefits and harms for both mother and baby in a situation where 通用删除7(英):<u>(1)</u> there is a lack of reliable authoritative data, 通用删除7(英):<u>(2)</u> physicians’ own personal views may vary widely, and 通用删除7(英):<u>(3)</u> there is heated political as well as medical debate.
+
+【26】The most compelling arguments against performing an elective Cesarean section relate to complications. To reduce fetal morbidity, CDMR should at least not be performed before fetal lung maturation has been established, and therefore should not be scheduled before 39 weeks’ gestation. Data regarding maternal morbidity are generally based on nonscheduled procedures in women with medical and obstetrical conditions that both increase risks and may require general rather than regional anesthesia. Data for maternal morbidity following scheduled procedures are few. In addition, maternal risks are known to increase with successive Cesarean sections. From a nonmaleficence perspective, therefore, CDMR risks to future pregnancies must be thoroughly examined and discussed.
+
+【27】Should obstetricians ever be compelled to provide a Cesarean delivery they do not believe to be medically necessary? Most doctors believe that professional autonomy protects them from providing such therapy, and ensures their “clinical freedom.” There are cases (e.g. abortion) in which doctors are excused from obligations to provide treatment to which they have a moral or religious objection. Obstetricians might argue it is against their moral integrity to perform a nonindicated surgical procedure such as a CDMR. However, as reinforced in the UK by the Burke ruling,通用删除4(英):<u> <sup>8 </sup></u> a much stronger argument may be one based on risks and benefits and the interests of the patient(s), rather than one based on physicians’ personal morals. In the UK, National Institute for Health and Clinical Excellence (NICE) guidelines suggest that doctors have the right to “decline a request for a caesarean section in the absence of an identifiable reason.”
+###### What do obstetricians believe?
+
+【28】Surveys show disagreement among obstetricians regarding CDMR, and that a significant proportion of obstetricians would either choose CDMR for themselves or their partners and/or would comply with women’s requests. Their reasons include fears of complications of vaginal delivery, desires to avoid medicolegal consequences if such complications develop after refusing to perform CDMR, and desires to respect women’s autonomy. In a survey involving eight European countries and over 1500 obstetricians, wide differences in culture and case law appeared to account for variation in compliance with a woman’s request for CDMR, which ranged from 15% (Spain) to 79% (UK).通用删除4(英):<u> <sup>10 </sup></u> A survey of ACOG members found that of 699 respondents, just over half believed that women had the right to CDMR and a similar proportion had complied with such a request.黄艳玲
+
+====================================================================================================

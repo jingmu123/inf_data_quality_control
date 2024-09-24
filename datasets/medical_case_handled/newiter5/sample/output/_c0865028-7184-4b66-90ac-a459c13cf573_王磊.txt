@@ -1,0 +1,48 @@
+【0】Question: 3.1 Prescription of a muscarinic cholinoreceptor antagonist with a quaternary amine group is most appropriate for the patient with which of the following conditions?
+
+【1】A. A 50-year-old woman with angle-closure glaucoma
+
+【2】B. A 34-year-old man with gastrointestinal infectious enteritis
+
+【3】C. A 66-year-old man with mild dementia
+
+【4】D. A 56-year-old diabetic woman with urinary tract obstruction
+
+【5】Answer: 3.1 C. Muscarinic cholinoreceptor antagonists with quaternary amine groups do not penetrate the CNS and are therefore unlikely to impair memory. By blocking gastrointestinal motility, these agents can cause increased retention of infecting organisms.
+
+【6】Question: 3.2 A 16-year-old teenager is going on his first deep sea fishing trip and is using a scopolamine patch to ward off sea sickness. Which of the following is the most likely adverse effect he will experience?
+
+【7】A. Bradycardia
+
+【8】B. Drowsiness
+
+【9】C. Miosis
+
+【10】D. Urinary urgency
+
+【11】Answer: 3.2 B. Scopolamine penetrates the CNS and can cause drowsiness and sedation. It also can cause mydriasis, tachycardia, and urinary retention.
+
+【12】Question: 3.3 Cholinergic excess resulting from organophosphate insecticide poisoning can be treated with which of the following?
+
+【13】A. Atropine
+
+【14】B. Digoxin
+
+【15】C. Ipratropium bromide
+
+【16】D. Tropicamide
+Answer: 3.3 A. Atropine is a tertiary amine that can penetrate the CNS. In addition to its peripheral blocking actions, it can also block the adverse CNS effects as a result of cholinergic excess. Tropicamide is also a tertiary amine. However, it has a very short duration of action and would be an unsuitable antidote. Ipratropium bromide is a charged quaternary ammonium compound that does not penetrate the CNS.
+
+【17】PHARMACOLOGY PEARLS
+
+【18】 Many antihistaminic agents, antipsychotic agents, and antidepressant agents have muscarinic cholinoreceptor antagonist (antimuscarinic) activity.
+
+【19】 Scopolamine is a tertiary amine and has ready access to the CNS when administered parenterally, whereas quaternary amine antimuscarinic agents, such as ipratropium bromide, have limited access to the CNS.
+
+【20】 Scopolamine can cause drowsiness and sedation, as well as mydriasis, tachycardia, and urinary retention.
+
+【21】 Cholinoreceptor agonists cause symptoms of SLUD— s alivation, l acrimation, u rination, d iarrhea—whereas cholinoreceptor antagonists have the opposite effects—dry mouth, dry eyes, urinary retention, constipation.
+
+【22】#王磊
+
+====================================================================================================

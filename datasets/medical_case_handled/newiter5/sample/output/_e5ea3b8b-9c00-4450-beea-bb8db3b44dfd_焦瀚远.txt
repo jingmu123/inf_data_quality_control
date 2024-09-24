@@ -1,0 +1,25 @@
+【0】CASE 26
+-------
+
+【1】Scleroderma
+-----------
+
+【2】QUESTION 26
+
+【3】A 38-year-old woman presents with a history of edema in her hands, pain and stiffness in her fingers with colour changes during the winter. She complains of painful ulcerations on the digital pulp of her fingertips that heal with scars. She also notes areas of asymptomatic dilated blood vessels on her lips that she finds unsightly. On examination, there are pitted scars on the tips of the fingers with some associated atrophy 通用删除7(英):<u>( 26 )</u>.
+
+【4】i. Based on this patient’s clinical presentation, what is the most likely diagnosis?
+
+【5】ii. What basic laboratory studies can be performed to confirm the diagnosis and what additional screening tests can be performed?
+
+【6】Answer 26
+
+【7】i. This patient is presenting with systemic sclerosis (SSc), also known as scleroderma and progressive systemic sclerosis, which is an autoimmune connective tissue disease that affects the skin, blood vessels and visceral organs. There are two major clinical subtypes of systemic sclerosis: limited and diffuse. In the limited subtype of systemic sclerosis, fibrotic changes in the skin are limited to the fingers, hands and face. Classic cutaneous features involving the hands include pitting edema of the digits, a taut shiny appearance of the skin and flexion contractures and ulcers. In the face, contractures can lead to a beaked nose and microstomia. Matted or squared off telangiectasias are other common skin findings, seen on the face, lips and palms of patients with limited SSc. CREST syndrome is a variant of limited SSc and is an acronym for the clinical features of this entity, which include c alcinosis, R aynaud’s phenomenon, e sophageal involvement, s clerodactyly and t elangiectasias. In this patient, the most likely diagnosis is limited SSc, given the involvement of the fingers and face.
+
+【8】Diffuse SSc occurs when the skin disease involves distal and proximal portions of the extremities, the trunk and the face. Internal organ involvement can be seen with both subtypes, but the diffuse variant is typically associated with visceral involvement within the first 5 years of disease onset and is associated with a worse prognosis. The most common organ systems involved in SSc are the gastrointestinal tract, lung, heart and kidneys.
+
+【9】The diagnosis of systemic sclerosis can be made based on the classification scheme of the American College of Rheumatology, which includes one major criterion: symmetric cutaneous sclerosis proximal to the metacarpophalangeal or metatarsophalangeal joints; or ≥2 minor criteria, which include: sclerodactyly, digital pitted scars or loss of substance of finger pads and bibasilar pulmonary fibrosis.
+
+【10】ii. The presence of antinuclear autoantibodies has been reported in 80%–98% of the SSc cases. Classically, the autoantibodies detected are anti-centromere and anti-topoisomerase I in up to 50%–60% of patients with SSc. Further diagnostic tests to appropriately define the stage of patients with systemic sclerosis include esophageal manometry and pH-metry, lung vital capacity and diffusing capacity for carbon monoxide, intrarenal duplex Doppler sonography, echocardiography and skin plicometry.焦瀚远
+
+====================================================================================================

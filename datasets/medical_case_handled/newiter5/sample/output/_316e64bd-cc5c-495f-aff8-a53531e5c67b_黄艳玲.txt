@@ -1,0 +1,82 @@
+【0】CASE 18
+
+【1】A 10-year-old boy with chronic asthma is brought to a pediatrician for his 6-month checkup. He has complained of chronic headaches for the past 3 months， as well as increasing gastric upsets，which his family believes are caused by multiple food allergies. The patient has a severe allergy to peanuts， which limits the number of places he can go in public. Thus， he has been home schooled for a year and is doing well. A review of his history shows that he is a highly articulate， thoughtful child who appears to be at or above the educational level of his peers. The child does not agree to be interviewed separately from his mother， stating， "l don't go anywhere without my mother." The two of them are almost never apart. Two years ago， the mother was hospitalized after a serious bout with lupus. She continues to struggle with her disease， and despite having a thriving career before her illness， she can do very little now. She is home all the time， dealing with her own recovery and the management of her illness. During her hospitalization， the patient was quite worried about her illness and even now believes that if he is not around to monitor her condition， she might get sick and require hospitalization again-or even worse.The mother has difficulty sleeping and is most comfortable on the living room couch. The patient no longer uses his own room but sleeps in a chair next to his mother to continue to keep an eye on her. He has very few friends and can be separated from his mother only briefly，and only if he is in the company of his brother or father. After a short period， he becomes anxious and upset and must be reunited with his mother.
+
+【2】What is the most likely diagnosis?
+
+【3】What is the prognosis for this disorder?
+
+【4】What treatments might be helpful in this disorder?
+
+【5】Summary： A 10-year-old boy presents with
+
+【6】● Extreme anxiety when not in the presence of his mother
+
+【7】No Ionger attending school due to a severe peanut allergy
+
+【8】● Being quite bright and cognitively on target
+
+【9】Anxiety symptoms beginning after the mother experienced a serious， life-threatening ilIness
+
+【10】●Believing separation from her will Iead to something terrible happening to her
+
+【11】● Several somatic complaints that have been difficult to diagnose
+
+【12】Most likely diagnosis： Separation anxiety disorder (a childhood disorder).
+
+【13】Prognosis： This condition is difficult to treat； without treatment， the patient is likely to develop depression and/or an anxiety disorder as an adult.
+
+【14】Helpful treatments： A multisystemic treatment approach is required. Selective serotonin reuptake inhibitors (SSRIs) can be helpful in the management of mood symptoms and anxiety. Relaxation techniques can help， along with a gradual sepa-ration program. Home schooling only reinforces the child's fear of separating from the family and should be reconsidered.
+
+【15】ANALYSIS
+
+【16】Objectives
+
+【17】1\. Recognize the symptoms of a typical case of separation anxiety disorder.删除34：<u>(EPA1)</u>
+
+【18】2\. Understand the predisposing factors contributing to the disorder. 删除34：<u>(EPA 12)</u>
+
+【19】3\. Understand what other disorders the patient is at a higher risk of developing.删除34：<u>(EPA 4，12)</u>
+
+【20】Considerations
+
+【21】The patient has a typical presentation for separation anxiety disorder， which usu-ally begins in the late latency period， peaking at 9 to 10 years of age.
+
+【22】APPROACHTO：
+
+【23】Separation Anxiety Disorder
+
+【24】DEFINITIONS
+
+【25】MULTISYSTEMIC TREATMENT： A philosophy of treatment used with chil-dren and adolescents. It can involve several specific theories and modalities of 删除换行1 treatment， but the essential feature is the involvement of various social systems essential to the life of a child. Examples of the systems involved include school， church， family， and peers.
+
+【26】SOMATIC SYMPTOMS： Vague or diffuse feelings of pain or discomfort for which it is difficult to pinpoint an etiology.
+
+【27】Clinical Presentation and Diagnosis
+
+【28】Separation anxiety disorder is more common in girls than boys. It is often pre-cipitated by the life-threatening disease of a parent—most typically the mother or primary caretaker. Patients become extremely anxious and worried when they are physically separated from the parent. They often worry that the parent will die if they are separated and thus are very difficult to console during these peri-ods. Their beliefs can be qu1Dite strong and are minimally amenable to reason or reassurance. These patients often report a number of difficult-to-diagnose somatic complaints themselves. See Table 18-1 for diagnostic criteria for sepa-ration anxiety disorder.
+
+【29】Children who have separation anxiety disorder have substantial risk of devel-oping either panic disorder as adults (12.6%)， panic with agoraphobia (18.6%)， or generalized anxiety disorder (GAD) (26.2%). In addition， 32.6% will experi-ence an episode of major depression during young adulthood. It is thus impor-tant to assure that effective treatment occurs in patients with separation anxiety disorder as children. It is not just a"phase that will pass.Patients with separation anxiety will often resist interventions that cause short-term discomfort， espe-cially efforts to gradually separate them from the parent， and push for parents to drop out of treatment. Parents should be educated regarding the long-term impact of this disorder and the need to complete treatment even under the pro-tests of their child.
+
+【30】Differential Diagnosis
+
+【31】Some degree of anxiety about separation from a parent is normal， and clinical judg-ment must be used to evaluate the severity of the anxiety and its impact on the functioning of the child. In GAD， the anxiety does not center exclusively on the issue of separation from a parent but is much more diffuse and occurs in many situ-ations. In major depression， patients typically have vegetative symptoms including insomnia and anorexia. Major depression often coexists with separation anxiety disorder and should be diagnosed concurrently if the criteria for the disorder are
+
+【32】Table18-1·DIAGNOSTIC CRITERIA FOR SEPARATION ANXIETY DISORDER
+
+【33】Developmentally inappropriate anxiety about separation from home or from the care taker to which an individual is attached. Duration of the illness must be at least 4 wk. Onset of the illness should be prior to 18 y of age. The disturbance should cause clinically significant impairment in important areas of functioning.
+
+【34】met. Panic disorders are rarely seen before the age of 18， and in that case the fear is of having another panic attack， not of separation.
+
+【35】ireatment
+
+【36】In childhood， separation anxiety disorder can be very difficult to treat and resis-tant to improvement. However， the best prognosis is achieved with a timely diag-nosis and rapid initiation of treatment， usually psychotherapeutic modalities directed toward the individual， family and school.
+
+【37】Treatment should always include psychotherapy， with exposure-based cognitive behavioral therapy having the most empirical support. These treatments should occur in conjunction with the development of a gradual plan to incrementally sepa-rate the patient from the parent， with a final goal of returning the patient to his or her earlier level of school and social functioning. Psychotherapy can be supported with the use of SSRIs to decrease the immediate anxiety the patient is feeling while in therapy. It is important to emphasize that medication without therapy is less likely to produce lasting improvement. There is some limited medical evidence suggesting that venlafaxine， tricyclic antidepressants， and buspirone may be effec-tive second-line treatments if SSRIs fail to be of benefit. Benzodiazepines have not shown efficacy in controlled trials in childhood anxiety disorders.
+
+【38】Family therapy can be necessary to identify and address anxiety triggers and to help the child develop skills to lessen anxiety symptoms (eg， relaxation techniques). School consultations can be helpful to aid in rapid， assertive reintroduction of the child into the school setting. A successful transition to gradually longer separations should result in generous praise for the child.
+删除16：<u>CASE CORRELATION
+删除25：<u>See also Case 20 (Generalized Anxiety Disorder) and Case 53 (Dependent Personality Disorder).</u>
+</u>黄艳玲
+
+====================================================================================================

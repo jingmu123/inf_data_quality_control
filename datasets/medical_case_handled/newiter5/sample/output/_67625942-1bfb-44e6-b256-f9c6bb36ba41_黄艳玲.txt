@@ -1,0 +1,104 @@
+【0】14.11/ A 66-year-old man with congestive heart failure and emphysema reports sub-sternal burning and regurgitation after meals and at bedtime. He has had partial relief of his symptoms with ranitidine that he has purchased over the counter. Esophagoscopy has revealed distal esophagitis. Which of the follow-ing is the most appropriate next step?
+A.Refer the patient for laparoscopic Nissen fundoplication
+增加换行2:B.Schedule the patient for 24-hour pH monitoring and esophageal manometry studies to confirm that patient has GERD
+
+【1】C. Prescribe a PPI
+
+【2】D. Reassure that the symptoms will improve and that some breakthrough symptoms are expected
+
+【3】E.Recommend dietary changes
+
+【4】14.2 A 51-year-old woman with a history of hypertension and hyperlipidemia presents with 3-month history of daily substernal chest pain and vague abdominal discomfort. She has been prescribed a PPI by her primary care physician without relief of symptoms. Her upper GI endoscopy revealed a small hiatal hernia but no evidence of esophagitis. Which of the following is the best next step?
+A.Barium esophagram to evaluate her hiatal hernia
+增加换行2:B.Refer the patient for evaluation of atypical chest pain and to rule out cardiac origin of symptoms
+
+【5】C. Refer the patient to a psychiatrist for possible conversion reaction
+
+【6】D. Perform a computed tomography (CT) scan of the chest and abdomen
+
+【7】E.Refer the patient for esophageal manometry to rule out achalasia and diffuse esophageal spasm
+
+【8】14.3 A 50-year-old man with the diagnosis ofGERD for 3 years has been managed with ranitidine with partial symptoms relief. He has some residual symptoms that prompted an upper GI endoscopy. At endoscopy with biopsy， Barrett’s esophagus without dysplasia was identified. Which of the following is the best treatment recommendation for this patient at this time?
+
+【9】AStop the ranitidine and initiate low-dose PPIBAdvise the patient to have an esophagectomy to prevent cancer progression
+
+【10】C.Keep patient on his H2-blocker and schedule him for follow-up endoscopy in 3 months
+
+【11】D. Recommend Nissen fundoplication because it is a more effective treat-ment against Barrett's progression
+
+【12】E.Add misoprostol (PGE1 analog) to help improve mucosal protection
+
+【13】14.4Which of the following is NOT an indication for laparoscopic Nissen fundo-plication in a 48-year-old woman with pH study proven GERD?
+A.Lack of desire to continue PPI treatment
+增加换行2:B.Incomplete relief of symptoms with PPI treatment
+
+【14】C.1Nissen fundoplication is more effective than PPI in controlling the pro-gression of Barrett's esophagus.
+
+【15】D.Inability to pay for long-term PPI therapy
+
+【16】E. Inability to tolerate PPI
+
+【17】14.5The Nissen fundoplication is contraindicated in which of the following situations?
+
+【18】A. A 50-year-old woman with diabetic gastroparesis causing bloating and reflux symptoms
+
+【19】B. A 44-year-old man with pH study proven GERD and Barretts esopha-gus without dysplasia
+
+【20】C.A 38-year-old man with GERD and a prior Nissen fundoplication with significant symptoms relief， postoperatively. He now has recurrent symp-toms and is found to have herniation of the repair into the mediastinum.
+
+【21】D. A 60-year-old man with GERD symptoms and pH study and EGD con-firmation of disease who has incomplete response to PPI treatment
+
+【22】E. A 50-year-old man with GERD that is well managed with PPI who wishes to discontinue medication treatment
+
+【23】14.6 For which of the following patients is esophageal manometry study most likely to help in determining the treatment?
+
+【24】A. A440-year-old manwith GERD-like symptomswith initial good response to low-dose PPI treatment but now has developed occasional breakthrough symptoms
+
+【25】B. A 47-year-old man with GERD-like symptoms and dysphagia to solids and liquids
+
+【26】C. A 70-year-old man with 4-month history of progressively worsening dysphagia， inability to tolerate solid food， and 15 pound (6.8 kg) weight IOSS
+
+【27】D. A 53-year-old man with atypical chest pain with no evidence of cardiac ischemia demonstrated by a stress test
+
+【28】E. A 48-year-old man with a history of peptic ulcer disease and Helicobacter pylori infection who has incomplete healing of his duodenal ulcer after a course of H. pylori treatment
+
+【29】ANSWERS
+
+【30】14.11删除38：<u>(</u> C. This is a 66-year-old man with significant cardiopulmonary comorbidities andtypicalGERD-like symptoms that are partially relieved with an H2-blocker. Given this history of partial response， switching to a PPI is the best option at this time. Choice A is not a good answer because Nissen fundoplication may be risky for a patient with significant cardiopulmonary comorbidities； in addi-tion， operative treatment may not be needed as he has not yet received the best medical treatment. Esophageal physiology studies are appropriate to determine if GERD is the cause of his symptoms if he fails to respond to PPI treatment. Dietary recommendation should be provided for all patients but is not the best answer at this time. Reassurance is not an appropriate answer because the patients symptoms are not yet adequately addressed.
+14.2 B. This is a 51-year-old woman with cardiac risk factors and symptoms suggestive of GERD. The patient has been taking a PPI without symp-toms relief. Given her history of cardiac comorbidity (hypertension and hyperlipidemia)， evaluations for her atypical chest pain are indicated. She would likely benefit from cardiac stress test and other cardiac evaluations to rule out coronary artery disease. This patient has a hiatal hernia which occurs commonly and may not have any relevance to her GERD symptoms； therefore， specific work-up of this is not indicated at this time. CT of the abdomen and pelvis can be helpful to identify mass lesions or other structural abnormalities responsible for her symptoms， but without additional symp-toms such as obstructive symptoms or constitutional symptoms， this imaging study is not indicated at this time. Esophageal pH monitoring is a test that could likely help us determine if the cause of her symptoms is GERD-related， but tests to rule out cardiac disease should be done first. Patients with acha-lasia can present with GERD-like symptoms； however， cardiac causes need to be ruled out first.
+
+【31】14.3A. This 50-year-old man has a history of GERD and Barrett's esophagus without evidence of dysplasia. Patients with Barrett's esophagus should have treatment to optimally address their GERD； therefore， he should switched to a PPI which is a better pharmacologic choice than H2 antagonist treat-ment. Esophagectomy is an option for the management of patients with Barrett's esophagus containing severe dysplasia. Nissen fundoplication has not been proven to control Barretts esophagus progression better than PPI treatment.Misoprostol is helpful for gastric mucosal protection， especially in patients taking nonsteroidal anti-inflammatory drugs， but this agent plays no role in preventing Barrett 's progression.
+
+【32】14.4删除38：<u>(</u> C. Antisecretory treatment and Nissen fundoplications are effective in reduc-ing progression of Barrett’s in GERD patients； however， antireflux surgery is not proven to be more effective than PPI treatment. Unwillingness to continue with PPI treatment， incomplete response to PPI treatment， and inability to tolerate or pay for PPI treatments are all reasonable indications to consider antireflux surgery options.
+14.5 A. Nissen fundoplication is contraindicated in a patient with gastroparesis， bloating， and GERD. Since the reflux of gastric contents in this situation is likely secondary to overdistension of the stomach produced by poor gas-tric motility， a fundoplication might reduce reflux symptoms but will cause worsening of bloating and distension. A displaced fundoplication causing symptoms is an indication for re-operation. A fundoplication procedure is an appropriate treatment option for a patient with Barrett’s changes with-out dysplasia or a patient with GERD and incomplete relief with medical treatment. Although not all patients with GERD are able to discontinue antisecretory therapy following fundoplication procedures， the procedure is not contraindicated for a patient who wishes to discontinue pharmacologic treatment.
+
+【33】14.66 B. A 47-year-old man with dysphagia to solids and liquids and GERD-like symptoms could have achalasia. Patients with achalasia often have undigested and fermented food remaining in their esophagus secondary to esophageal dysmotility and poor esophageal emptying. Fermented food with bacterial overgrowth in the esophagus can cause esophagitis and GERD-like symp-toms. The patient with breakthrough of GERD-like symptoms following initial response to low-dose PPI treatment does not raise a suspicion for alternative causes of the symptoms； therefore， manometric study would not likely contribute to the care. The patient with incomplete healing of his duo-denal ulcer after a course of H. pylori treatment needs biopsy to see if the infection has been eradicated.
+
+【34】CLINICALPEARLS
+ A24-hour pHmonitoring study is the most objective indicator of GERD.
+
+【35】Apatient's response to PPI is one ofthe best clinical indicators of GERD.
+
+【36】Adenocarcinoma of the esophagus is a complication of long-standing GERD.
+
+【37】Gastroparesis or delayed gastric emptying can cause GERD-like symp-toms， but these symptoms are usually accompanied by bloating and abdominal distension.
+
+【38】The long-term efficacy of PPI and antireflux operations in reducing esophageal cancer develop in GERD patients appears to be equivalent.
+
+【39】Achalasia can produce GERD-like symptoms because undigested and fermented food in the esophagus can produce esophag itis.
+ Endoscopic or operative antireflux procedures are indicated in patients with documented GERD whose symptoms are incompletely controlled with PPI， or in patients who do not wish to continue or are unable to tol-erate long-term PPItreatment.
+删除20：<u>Elmadhun N， Kent M. Endoscopic treatment of Barrett’s esophagus. In： Cameron JL， Cameron AM， eds. Current Surgical Therapy. 11th ed. Philadelphia， PA： Elsevier Saunders； 2014：23-27.
+
+【40】Jobe BA， Hunter JG， Peters JH. Esophagus and diaphragmatic hernia. In： Brunacardi FC， Andersen DK， Billiar TR， et al.， eds. Schwartzs Principles of Surgery. 9th ed. New York， NY： McGraw-Hill；2010：803-887.
+
+【41】Telem DA， Rattner DW. Gastroesophageal reflux diseases. In： Cameron JL， Cameron AM， eds. Current Surgical Therapy. 11th ed. Philadelphia， PA： Elsevier Saunders； 2014：9-14.
+
+【42】Teran MD， Brock MV. The management of Barrett's esophagus. In： Cameron JL， Cameron AM， eds. Current Surgical Therapy. 11th ed. Philadelphia， PA： Elsevier Saunders； 2014：19-23.
+
+【43】Wang YK， H su WH， Wang SW， et al. Current pharmacological management of gastroesophageal reflux disease. Gastroenterol Res Pract. 2013：2013：983653.
+
+【44】Wendling MR， Melvin WS. Endoluminal approaches to gastroesophageal reflux disease. In： Cameron JL， Cameron AM， eds. Current Surgical Therapy. 11th ed. Philadelphia， PA： Elsevier Saunders；2014：14-18.
+
+【45】</u>黄艳玲
+
+====================================================================================================

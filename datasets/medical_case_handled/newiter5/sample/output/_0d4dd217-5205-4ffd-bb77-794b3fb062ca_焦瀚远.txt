@@ -1,0 +1,19 @@
+【0】Question: The image demonstrates a specialized epithelium that overlies a type of peripheral lymphoid tissue. It is thought that most disseminated Mycobacterium avium infections in patients with AIDS are acquired by the bacteria penetrating through this tissue-type of the immune system. What is the main class of antibodies associated with this lymphoid tissue?
+删除个例：<u>> Reproduced, with permission, from USMLERx.com.</u>
+> (A) IgA
+
+【1】> (B) IgD
+
+【2】> (C) IgE
+
+【3】> (D) IgG
+
+【4】> (E) IgM
+
+【5】 Answer: The correct answer is A . The image depicts the epithelium that lies above the Peyer patches, found within the ileum. This epithelium superficial to Peyer patches has several microfold cells (known as M cells), specialized cells that function to endocytose and phagocytose particles in the lumen of the gut. Thus, they serve as immune surveillance in the intestines. In adults, B lymphocytes predominate in Peyer patches and secrete IgA, the main antibody present within the mucosal lining of the gut. IgA is synthesized by plasma cells that reside within the lamina propria. Of note is the fact that several gut pathogens express virulence factors, known as IgA proteases, which cleave and therefore deactivate the dimeric IgA antibodies. Mycobacterium avium infection is common in patients with AIDS. Eighty percent to 90% acquire the infection by oral ingestion and subsequent penetration of the bacteria through Peyer patches of the ileum.  
+Answer B is incorrect . IgD is found only on the surface of B lymphocytes; its function is not known.  
+Answer C is incorrect . IgE orchestrates the type I hypersensitivity response. Cross-linking of two IgE molecules on the surface of mast cells by antigen results in mast cell degranulation and allergic reaction.  
+Answer D is incorrect . IgG is the main antibody produced during a secondary immune response and also the most abundant.  
+Answer E is incorrect . While IgM can be found within the gut lumen, IgA predominates.焦瀚远
+
+====================================================================================================

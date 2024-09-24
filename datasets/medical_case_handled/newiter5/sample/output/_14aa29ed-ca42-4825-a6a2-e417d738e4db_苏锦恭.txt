@@ -1,0 +1,69 @@
+【0】Case Files™ Neurology, Second Edition    
+
+【1】### CASE 13
+
+【2】A 22-year-old previously healthy college student presents to the emergency department with the complaint of gait instability and a right eyelid droop. He began noticing these symptoms 2 days ago, the morning after a friend put him in a choke hold during a wrestling match. He managed to break free after a struggle and subsequently noticed a right temporal headache after the wrestling match. The patient’s temperature is 36.4°C (97.6°F); heart rate, 64 beats/min; and blood pressure, 118/78 mmHg. General physical examination is unremarkable. The neurologic examination reveals ptosis of the right eye and anisocoria, with a pupillary diameter of 2 mm on the right and 4 mm on the left. Light reactivity is intact directly and consensually. Extraocular movements are normal. There is a mild left hemiparesis involving left face, arm, and leg. Gait is hemiparetic, and the patient tends to fall without assistance. The electrocardiogram is normal. Complete blood count, electrolytes, blood urea nitrogen (BUN), creatinine, glucose, urinalysis, prothrombin time (PT), and partial thromboplastin time (PTT) are normal. Noncontrast head CT shows an area of acute hypodensity in the right frontoparietal region.
+
+【3】 What is the most likely diagnosis and mechanism?
+
+【4】 What is the next diagnostic step?
+
+【5】### ANSWERS TO CASE 13: Stroke in a Young Patient (Acute Ischemic)
+
+【6】Summary : A 22-year-old patient presenting with a right Horner syndrome and right hemispheric ischemic stroke after minor neck trauma.
+
+【7】• Most likely diagnosis and mechanism: Acute ischemic stroke caused by right carotid artery dissection as a result of trauma.
+
+【8】• Next diagnostic step: Cerebral arteriogram.
+
+【9】#### ANALYSIS
+
+【10】##### Objectives
+
+【11】1\. Understand that stroke occurs in patients of all ages.
+
+【12】2\. Recognize the less typical stroke etiologies that often affect younger patients.
+
+【13】3\. Be familiar with the diagnostic workup of stroke in the young patient.
+
+【14】##### Considerations
+
+【15】The clinical diagnosis of a stroke relies on the appropriate clinical history, neurologic findings, and supportive brain imaging studies. Although the majority of strokes occur in patients 65 years of age or older, tens of thousands of strokes per year nonetheless occur in patients 55 years of age or younger in the United States. Just as in older patients, the clinical suspicion of stroke should come to the forefront when focal neurologic deficits emerge acutely. This particular patient underwent a “choke hold,” which injured the right carotid artery, leading to ischemia to the right frontal aspect of the brain and associated carotid structures.
+
+【16】### APPROACH TO: Stroke in a Young Patient
+
+【17】#### DEFINITIONS
+
+【18】CAROTID DISSECTION: A tear in the carotid arterial wall that can result in luminal obstruction, thromboembolic complications, and/or pseudoaneurysm formation. Dissections can also occur in the vertebral arteries, or less commonly, the large intracranial arteries.
+
+【19】PATENT FORAMEN OVALE: A persistent opening in the interatrial septum associated with paradoxical embolism in patients with cryptogenic stroke.
+
+【20】ARTERIOVENOUS MALFORMATIONS: Congenital high-pressure, high-flow cerebral vascular malformations characterized by direct arteriovenous shunting.
+
+【21】#### CLINICAL APPROACH
+
+【22】The diagnostic evaluation in a younger stroke patient is more extensive because the likelihood is greater of a nonatherosclerotic etiology. Some of these are discussed below. The workup may include a brain MRI, cerebral angiography or magnetic resonance angiography (MRA) of the intracranial and cervical vessels, transesophageal echocardiogram, and laboratory studies including lipid panel, homocysteine, protein C, protein S, antithrombin III, anticardiolipin antibody, lupus anticoagulant, factor V Leiden mutation, prothrombin gene mutation, and a toxicology screen. Other studies that can be indicated in the appropriate clinical setting might include lumbar puncture, HIV serology, blood cultures, vasculitis serologies, and screening for sickle cell disease.
+
+【23】#### ETIOLOGIES AND CLINICAL PRESENTATIONS
+
+【24】The same causes of stroke in older patients can affect younger adults, especially in younger patients who possess the traditional atherosclerotic risk factors of hypertension, heart disease, diabetes, and hyperlipidemia. The largest categories of stroke in the general population are cardioembolic, large-vessel atherothrombotic, and lacunar. A patent foramen ovale (PFO) is detectable in approximately 15% to 30% of the general population, but its prevalence is higher in young patients with cryptogenic ischemic stroke. The mechanism is presumed to be paradoxical embolism. Transesophageal echocardiography (TEE) is the most common way to detect a PFO, although its sensitivity is impaired by the need to sedate a patient for the exam. Alternatively, transcranial Doppler bubble testing is highly sensitive for a right-to-left cardiac shunt, but may result in false positives from a noncardiac source, such as a pulmonary AVM. Atrial septal aneurysms are also linked to cryptogenic stroke and best evaluated by TEE.
+
+【25】Craniocervical dissection is commonly but not always preceded by head or neck trauma such as a motor vehicle accident, chiropractic neck manipulation, or a bout of severe coughing, vomiting, or sneezing 删除33：<u></u>. Dissections can present with headache or thromboembolic cerebrovascular events. Carotid dissection is often associated with a Horner syndrome , that is, ipsilateral ptosis and miosis. Fibro-muscular dysplasia, Ehlers–Danlos syndrome, and Marfan syndrome are predisposing factors to spontaneous craniocervical dissection.
+
+【26】通用删除2(英):<u>删除3：<u>Figure 13–1 . Cerebral arteriogram of internal carotid artery (ICA) dissection. 删除10：<u>删除33：<u>通用删除1(英):<u>( Reproduced, with permission, from Brunicardi FC, et al . Schwartz’s Principles of Surgery, 8th ed. New York, NY: McGraw-Hill Publishers, 2004:Fig. 22–92 .)</u></u></u></u></u>
+
+【27】Arteriovenous malformations and the lower-flow cavernous angiomas are associated with intracerebral hemorrhage as well as seizures and other neurologic presentations. Moyamoya disease is an idiopathic noninflammatory cerebral vasculopathy characterized by progressive occlusion of the large arteries at the circle of Willis, most commonly the distal internal carotid artery. The characteristic moyamoya vessels refer to the small penetrating arteries that hypertrophy in response to chronic cerebral ischemia.
+
+【28】Drugs of abuse, especially cocaine and amphetamines, are associated with both ischemic and hemorrhagic stroke. Oral contraceptives are a risk factor for thromboembolic stroke, especially in women over 35 who smoke. A history of intravenous drug abuse should raise the suspicion of endocarditis and HIV disease. Other rarer infectious etiologies of stroke include tuberculous meningitis and varicella zoster.
+
+【29】Hypercoagulable conditions can predispose to stroke. These include malignancy, antiphospholipid antibodies, protein C deficiency, protein S deficiency, anti-thrombin III deficiency, factor V Leiden mutation, prothrombin gene mutation, and hyperhomocysteinemia. Some of these entities are most clearly linked to venous thromboembolism, which is particularly relevant to patients with cerebral venous thrombosis or a PFO.
+
+【30】##### Treatment
+
+【31】Treatment is tailored to the specific stroke etiology. Antithrombotic drugs are a mainstay of therapy for most patients with ischemic stroke. Very few randomized clinical trials have been performed to help guide the choice of antiplatelet or anticoagulant treatment for the specific stroke subtypes discussed above. One such trial revealed no significant difference between aspirin and warfarin in patients with ischemic stroke associated with an antiphospholipid antibody. Similar studies comparing aspirin to anticoagulation in cervical artery dissection have shown no significant difference in efficacy.
+
+【32】Endovascular closure of PFO is currently under investigation and not recommended outside of a clinical trial. Because a substantial proportion of carotid or vertebral dissections spontaneously recanalize, stenting is usually reserved for patients who show no vessel recanalization after 3 to 6 months or who have unstable appearing psuedoaneurysms. The treatment of arteriovenous malformations can employ a combination of surgery, radiation, and endovascular therapies. Surgical revascularization procedures such as encephaloduroarteriosynangiosis or superficial temporal artery-middle cerebral artery (STA-MCA) bypass are frequently performed for moyamoya disease.
+
+【33】####苏锦恭
+
+====================================================================================================

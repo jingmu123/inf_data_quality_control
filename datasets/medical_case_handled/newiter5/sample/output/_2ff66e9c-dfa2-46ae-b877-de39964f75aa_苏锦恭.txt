@@ -1,0 +1,81 @@
+【0】Case 18
+
+【1】An 18-year-old woman， who is wheelchair-bound， states that since she has been suffering from an irregular， staggering gait with frequent falls since the age of 9. Over the next few years， her upper extremity coordination deteriorated， and she developed weakness during her teenage years. Physical examination reveals abnormal eye movements， slow and poorly coordinated movements of all her extremities， and severe weakness of her legs. She has deficits in position sense， vibratory sense， pain， and tactile discrimination. Her deep tendon reflexes are absent. Hypertrophic cardiomyopathy is present， and she is subsequently diag-nosed with Friedreich ataxia.
+
+【2】What is the mechanism of this disease pathology?
+
+【3】Which pathways are involved?
+
+【4】What are the sensory modalities lost with each pathway?
+
+【5】ANSWERS TO CASE 18：
+
+【6】Summary： An 18-year-old woman has progressive ataxia， lower extremity weakness， and loss of coordination of extremities and eye movements. Examination reveals loss of position sense， vibratory sense， pain， and tactile discrimination. She is diag nosed with Friedreich ataxia.
+
+【7】·Mechanism： The degeneration of nerve tissue in the spinal cord and of nerves that control muscle movement in the arms and legs. This results in the thinning of the spinal cord and the loss of myelin sheaths in many neurons. The leading theory for the pathogenesis of the disease implicates an overaccumulation of iron in mitochondria， leading to cellular damage and death by the production of free radicals in neurons of the central nervous system (CNS) and peripheral nervous system (PNS).
+
+【8】●Involved pathways： This disorder leads to progressive degeneration of the dorsal root ganglia with secondary degeneration of the dorsal and ventral spi-nocerebellar tracts， medial lemniscal system， spinothalamic tract， and lateral cervical system. The corticospinal pathways are also affected.
+
+【9】Sensory modalities lost： The dorsal and ventral spinocerebellar tracts convey proprioceptive (sense of balance and self) information from the body to the cerebellum. The medial lemniscal system conveys information from specialized touch， pressure， vibration， and joint receptors， and proprioceptive informa-tion from the body， to the cerebral cortex. The spinothalamic tract conveys somatosensory information including nociception (pain perception)， tempera-ture， itching， and crude touch to the thalamus. The corticospinal tract conveys motor information from the cerebral cortex of the brain to the spinal cord in response to information generated from many different sensory pathways.
+
+【10】Friedreich ataxia is the most common of the autosomal recessive hereditary ataxias. It is caused by a mutation of a gene on chromosome 9 that codes for the protein frataxin， which is needed for normal function of the mitochondria. This disorder is characterized by neuron degeneration which begins in the periphery， resulting in loss of neurons and a secondary scarring process known as gliosis. Large myelin-ated axons in peripheral nerves are affected progressively with age and duration of the disease. Unmyelinated fibers in sensory roots and peripheral sensory nerves are spared. The posterior columns， corticospinal， ventral， and lateral spinocerebellar tracts are all affected by demyelination. The dorsal root ganglia shrink and eventu-ally show disappearance of neurons. The posterior column degeneration accounts for the loss of position and vibration senses and the sensory ataxia. Absent tendon reflexes in the legs occur as a result of loss of afferent fibers from muscle spindle receptors. The progressive degeneration of the corticospinal pathway leads to limb weakness. Kyphosis and foot anomalies are also commonly seen. Many affected 删除换行1 individuals also have hypertrophic cardiomyopathy. While research in this area is progressing， there is currently no effective treatment available.
+
+【11】APPROACH TO：
+
+【12】Proprioception
+
+【13】OBJECTIVES
+
+【14】1\. Be familiar with the CNS pathways that convey proprioceptive information.
+
+【15】2\. Understand the clinical symptoms that result from a lesion to the dorsal column pathways.
+
+【16】DEFINITIONS
+
+【17】KINESTHESIA： The sense of movement.
+
+【18】ASTEREOGNOSIS： Loss or impairment of the ability to recognize common objects by touching or handling them without visual input.
+
+【19】ROMBERG TEST： A test in which the patient stands with feet placed closely together and eyes closed. A positive test results if the body sways abnormally or there is loss of balance， indicating a deficiency in conscious recognition of muscle and joint position.
+
+【20】GOLGI TENDON ORGAN： A proprioceptive sensory receptor located in muscle fibers and tendons.
+
+【21】MEDIALLEMNISCAL SYSTEM：The pathway carrying proprioceptive information to the cerebral cortex involving position sense， kinesthesia， and tactile discrimination.
+
+【22】DISCUSSION
+
+【23】Two sets of sensory pathways in the spinal cord provide important information to the brain regarding muscle action， joint position， and the objects with which a per-son is in contact. One of these sets of pathways projects to the cerebellum， where the information is processed for the coordination of movement but not for conscious perception. These pathways include the dorsal and ventral spinocerebellar tracts， the cuneocerebellar tract， and the rostral spinocerebellar tract. The second set of pathways consists of three tracts that project to the cerebral cortex by way of the thalamus. This information is perceived consciously. These are the spinal lemniscus， the spinothalamic tract， and the lateral cervical system. Both sets of sensory recep tors receive information from mechanoreceptors.
+
+【24】Mechanoreceptors located in the muscles， joints， and skin mediate the various separate and integrated sensations of proprioception， touch， and tactile discrimi-nation. Mechanoreceptors consist of Golgi tendon organs， pacinian corpuscles， Meissner corpuscles， Ruffini corpuscles， Merkel cells， and free nerve endings in muscles， tendons， ligaments， joint capsules， and skin. Information about static limb 删除换行1 position is carried mainly through muscle spindle afferents. Kinesthetic informa-tion is mediated by a combination of joint receptor afferents and receptors in the skin， muscles， and joints. Pacinian corpuscles， found in the skin and connective tissue， detect vibration. Meissner corpuscles detect superficial phasic touch. The movement of hairs is detected by free nerve endings in hair follicles and also con-veys a sense of touch. Contrastingly， Ruffini corpuscles detect skin stretch. Merkel cells are specialized epithelial cells that detect fine touch information. Most of the mechanoreceptors are innervated by large-diameter myelinated fibers. The free nerve endings are exceptions as their cell bodies are located in the dorsal root gan-glia， and their central processes enter the medial side of the dorsal root zone. These nerve endings detect pain and temperature. Afferent fibers from mechanoreceptors enter the spinal cord and distribute either to the interneurons and motor neurons in the ventral horn， the neurons in the dorsal and intermediate gray areas where ascending pathways originate， or to the neurons of the dorsal column nuclei in the medulla .
+
+【25】The ventral and dorsal spinocerebellar tracts carry proprioceptive and other somatosensory stimuli from the lower limbs to the cerebellum. Proprioceptive sensa-tion is the perception of the relative position of the parts of the body. Unlike the other sensory systems that allow us to perceive the world outside our body， proprio-ception provides feedback information about the body itself. It consists of both static limb position and kinesthesia， or the sensation of motion. Some proprioceptive fiber collaterals from Golgi tendon organs synapse with neurons in the intermediate gray area and the base of the posterior horn of the spinal cord. At the lumbar and sacral levels of the spinal cord， these neurons give rise to the primarily crossed ventral spinocerebellar tract. This is the most peripheral tract in the ventral margin of the lateral funiculus.
+
+【26】The nucleus dorsalis， or Clarke nucleus， is located at the base of the posterior horn in spinal segments T1 through L2. This column of neurons receives afferents from muscle spindles， cutaneous touch receptors， and joint receptors. The axons of these neurons ascend rostrally and ipsilaterally as the dorsal spinocerebellar tract just posterior to the ventral spinocerebellar tract in the lateral funiculus. While the proprioceptive afferents traveling from dorsal roots T1 to L2 synapse in the nucleus dorsalis at the level where they enter the spinal cord， the corresponding afferents from dorsal roots L3 through S5 ascend first in the fasciculus gracilis of the dorsal funiculus to reach the nucleus dorsalis. They synapse there at levels L1 and L2， which becomes the most caudal level of the dorsal spinocerebellar tract.
+
+| Table18-1。PRESSURE AND TOUCH RECEPTORS AND THEIR FUNCTION  |  |
+| --- | --- |
+| Mechanoreceptor  | Function  |
+| Pacinian corpuscle  | Sensitivity to deep pressure touch and high-frequency vibration  |
+| Meissner corpuscle  | Sensitivity to light touch  |
+| Merkel cell or nerve endings  | Slowly adapting， provide touch information to the brain  |
+| Ruffini corpuscle  | Slowly adapting， sensitive to skin stretch， and contributes to thekinesthetic sense of and control of finger position and movement  |
+
+【28】The cuneocerebellar tract and the rostral spinocerebellar tract carry information from mechanoreceptors in the upper extremities to the cerebellum. Afferent fibers from C2 to T5 travel rostrally in the dorsal funiculus in the fasciculus cuneatus before synapsing on neurons in the accessory cuneate nucleus in the lower medulla. This is the upper extremity counterpart of the nucleus dorsalis and gives rise to the ipsilateral cuneocerebellar tract or dorsal arcuate fibers. This tract also mediated information from muscle spindles， cutaneous touch receptors， and joint receptors.
+
+【29】The rostral spinocerebellar tract is the upper-extremity tract that corresponds to the ventral spinocerebellar tract. It originates in the cervical enlargement of the intermediate zone of the spinal cord gray area. After projecting to the cerebellum， the tract synapses with fibers of the ventral spinocerebellar tract.
+
+【30】All of the ascending fibers from the dorsal spinocerebellar， cuneocerebellar， and rostral spinocerebellar pathways enter the cerebellum through the inferior cerebel-lar peduncle. The ventral spinocerebellar tract， however， travels through the pons prior to entering the cerebellum through the superior cerebellar peduncle. These four tracts terminate primarily in the midline vermis and intermediate zone of the cerebellum ipsilateral to the cells of origin. There is also a significant projection to the anterior lobe and posterior lobe of the cerebellum that contributes to standing and walking.
+
+【31】Proprioceptive information regarding position sense， kinesthesia， and tactile dis-crimination are carried to the cerebral cortex by afferent fibers from muscle spin-dles， Golgi tendon organs， and mechanoreceptors in joints and skin by way of the medial lemniscal system. This information contributes to conscious position as well as movement sense. The posterior funiculus consists of two large bundles of fibers called fasciculi. Fibers from the leg ascend as the fasciculus gracilis adjacent to the dorsal median septum. Fibers from the arm ascend lateral to the leg fibers as the fas-ciculus cuneatus. The fibers of the posterior funiculus maintain somatotopic orga nization in relation to one another. The fasciculus cuneatus terminates in the lower medulla in the nucleus cuneatus. Similarly， the fasciculus gracilis terminates in the nucleus gracilis， also in the lower medulla. These tracts are frequently referred to as the dorsal column pathways. A portion of the fibers of the medial lemniscal system travel with the lateral cervical system in the dorsal part of the lateral funiculus. The dorsolateral pathway can also be used to describe the entire lemniscal pathway of the spinal cord.
+
+【32】The cells of the dorsal column nuclei give rise to the internal arcuate fibers， which cross to the contralateral side of the medulla in the decussation of the medial lemniscus. From here they ascend as the medial lemniscus to the thalamus and ter-minate in the ventral posterolateral nucleus (VPL). The somatotopic organization of the fibers is maintained in both the medial lemniscus and VPL. Thalamocortical fibers from the VPL continue on to the postcentral gyrus of the parietal lobe and ter-minate in the primary somatosensory cortex. This cortex maintains a topographic representation of the body that is similar to that of the parallel motor strip on the opposite side of the central sulcus.
+
+【33】The spinal lemniscus system mediates the sense of limb position and movement， the sense of steady joint angles， the sense of motion produced by active muscu-lar contraction or passive movement， the sense of tension exerted by contracting 删除换行1 muscles， and the sense of effort. Cortical processing is necessary for the conscious recognition of body and limb posture. The lemniscal pathways also provide impor-tant information regarding the place， intensity， and temporal and spatial patterns of neural activity evoked by mechanical stimulation of the skin. This same pathway to the cortex， therefore， is necessary for discriminative tactile sensation and vibration sense.
+
+【34】The lateral cervical system responds to light mechanical stimulation of the skin on the ipsilateral side of the body. This system is an alternate pathway to the infor-mation conveyed in the posterior column system， and its relevance in humans is not fully understood. The peripheral nerve fibers synapse in the dorsal horn throughout the length of the spinal cord. Heavily myelinated axons from second-order neurons arise in this lamina and ascend ipsilaterally in the dorsal corner of the lateral funicu-lus to terminate in the lateral cervical nucleus. Projections from this nucleus cross the spinal cord in the ventral white commissure to join the contralateral medial lemniscus and proceed with it to terminate in the thalamus. Information from here is projected to the somatic sensory areas of the cerebral cortex.
+
+A bilateral interruption of the dorsolateral pathway in the spinal cord will result in complete loss of proprioceptive sensation. A lesion in this location will produce deficits in position sense， vibration sense， and tactile discrimination. A unilateral injury of a dorsolateral pathway will create ipsilateral symptoms. Lesions within the gracile and cuneate nuclei， the medial lemniscus， the thalamus， and the postcentral gyrus will create varying degrees of similar symptoms. A lesion of the lemniscal path-way will preserve simple touch， pain， and temperature， but it will disrupt proprio-ceptive sensation and result in the following symptoms： inability to recognize limb position， astereognosis or loss of ability to recognize common objects by touching them with the eyes closed， loss of two-point discrimination， loss of vibratory sense， and a positive Romberg sign. In Romberg test a patient stands with his or her feet close together. The amount of sway is noted with the eyes open. The patient then closes the eyes， and an abnormal increase in sway or loss of balance without visual input results in a positive sign. The visual system is able partly to compensate for the deficiency in recognition of muscle and joint positions， allowing patients with dorsolateral pathway lesions to maintain balance with their eyes open.
+删除13：<u>| CASE CORRELATES · See Cases 18-23 (sensory systems).  |
+| --- |</u>苏锦恭
+
+====================================================================================================

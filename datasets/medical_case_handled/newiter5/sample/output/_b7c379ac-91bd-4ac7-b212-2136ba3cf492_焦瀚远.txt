@@ -1,0 +1,51 @@
+【0】\[11.11 A healthy 23-year-old medical student is participating in a cardiac echocardiography study. During the isovolumetric ventricular con-traction phase of the cardiac cycle， which of the following findings take place?
+
+【1】A. Aortic blood pressure is falling
+
+【2】B. Aortic valve is open
+
+【3】C. AV valve is open
+
+【4】D. Second heart sound is produced
+
+【5】E.Ventricular muscle is undergoing repolarization
+
+【6】\[11.21 A 45-year-old man is seen by his cardiologist for increasing weakness and fatigue. He is diagnosed with an enlarged dilated poorly pumping heart (cardiomyopathy). The larger ventricular end-diastolic volumes(“enlarged hearts”) can compensate somewhat for the reduced contrac-tility that occurs in this condition because stretching of the ventricular muscle cells results in which of the following?
+
+【7】A. Decreases efflux of calcium during ventricular repolarization
+
+【8】B. Enhances reuptake of calcium by the sarcoplasmic reticulum
+
+【9】C. Enhances influx of calcium during the action potential
+
+【10】D. Enhances interaction of myosin cross-bridges with actin
+
+【11】E. Improves conduction among muscle cells
+
+【12】\[11.31 A 45-year-old male is prescribed an antihypertensive agent that affects calcium channel conductance. If this agent inhibits the influx of calcium into ventricular muscle cells during ventricular excitation， which of the following statements is true?
+
+【13】A. The amount of calcium bound to troponin C during ventricular contraction will be increased.
+
+【14】B. The amount of calcium released from the sarcoplasmic reticulum during ventricular contraction will be increased.
+
+【15】C. The force of ventricular contraction at any given ventricular vol-ume will be decreased.
+
+【16】D. The overlap of thick and thin filaments during ventricular con-traction will be increased.
+
+【17】Answers 删除换行1 111.11 A. Duringg1isovolumetriccventricular contraction.ventricular myocytes are depolarized and contract forcefully. Pressure within the ventricle is rising so that it is greater than atrial pressure but less than aortic pressure. Thus， both the AV and the aortic valves are closed. The first， not the second， heart sound is heard as the AV valve closes. Because blood is still flowing out of the aorta during this time， aortic pressure is falling.
+
+【18】\[11.2\] D. An increase in ventricular muscle cell length along its length-tension curve results in a more optimal interaction of cross-bridges with actin， thus producing more force than is produced at the shorter length. There is little if any effect on calcium fluxes or on conduction among muscle cells.
+
+【19】\[11.3\] C. Inhibition of calcium influx during the action potential also reduces the amount of calcium released from the sarcoplasmic retic-ulum， resulting in less calcium bound to troponin-C and a reduction in the force of contraction. These changes occur independently of ventricular end-diastolic lengths so that force developed at all lengths will be less than it was before drug administration. Because the change in force is length-independent (a change in contractility)， the overlap of thick and thin filaments plays no role.
+
+【20】PHYSIOLOGY PEARLS
+
+【21】Calcium influx during excitation is a major determinant of the force of contraction in cardiac muscle but not in skeletal muscle.
+
+【22】During the rapid ventricular ejection phase， aortic pressure is rising， but during the reduced ventricular ejection phase， aortic pressure begins to fall.
+
+【23】The majority of filling of the ventricle with blood occurs during ven-tricular diastole before atrial contraction.
+
+【24】Ventricular muscle normally begins contracting when it is at lengths less than the optimal length for force development (on the ascending slope of the length-force relationship).焦瀚远
+
+====================================================================================================

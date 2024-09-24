@@ -1,0 +1,146 @@
+【0】删除14：<u>42  </u>Ethical Case Study
+=======================
+
+【1】删除30：<u>Jamie Tumulty
+
+【2】University of Maryland Children’s Hospital, University of Maryland Medical Center, Baltimore, MD, USA
+
+【3】</u>
+A 15‐year‐old male with cerebral palsy, hypotonia, developmental delay, asthma, chronic lung disease, gastroesophageal reflux disease, and epilepsy was admitted to the pediatric intensive care unit (PICU) with hypoxic respiratory failure secondary to pneumonia with pleural effusion, and septic shock.
+
+【4】This ethical case study will address issues faced by the acute care pediatric provider to include effective communication for obtaining informed consent, addressing decision‐making conflict, and when to initiate palliative care consultation or an ethical consult.
+增加换行1: History of Present Illness
+--------------------------
+
+【5】The patient is a medically complex child with cerebral palsy, hypotonia, developmental delay, asthma, chronic lung disease, gastroesophageal reflux disease, and epilepsy who presented with fever and acute onset of respiratory distress. Two days prior to presentation he developed increased secretions and was febrile to 38.9°C (102°F). On the day of presentation, his family noted labored breathing and he became less interactive, which prompted the visit to the emergency department (ED).Past Medical and Surgical History
+---------------------------------
+
+【6】The teen is wheelchair dependent, with problems already described. At baseline, he is non‐verbal but alert, interactive, smiles and laughs. He was intubated once for status asthmaticus.
+增加换行1: Family History
+--------------
+
+【7】The child is adopted. His biological mother had a rare X‐linked genetic disorder causing severe intellectual disability and hypotonia. She is now deceased.
+增加换行1: Social History
+--------------
+
+【8】The patient has been in medical foster care since age 2 years and was recently adopted by the foster parents. His adoptive parents have a biological son who is a pediatric ED physician in another state, and two other children aged 7 and 8 years for whom they provide medical foster care. Parents provide all care for their son without home nursing.
+增加换行1: Current Status
+--------------
+
+【9】In the ED, the teen requires aggressive respiratory treatment but is ultimately intubated and mechanically ventilated. He is transferred to the pediatric intensive care unit (PICU) where a chest tube is placed to evacuate a pleural effusion, noted on the admission chest radiograph. This child was intubated with attempts to extubate twice through his PICU stay. As a result of the two failed extubation attempts, his underlying muscle weakness and restrictive lung disease, the PICU team felt a tracheostomy may be of benefit.
+增加换行1: Questions
+---------
+
+【10】Answer the following questions using the details provided.
+
+【11】1.  Has the PICU team given this teen significant opportunity to recover from his illness and adequate chance for successful extubation before suggesting tracheostomy? If so, when is the appropriate time to perform tracheostomy?
+2.  How does the team gain consensus with the family on plan of care?
+3.  As a family–provider communication opportunity, what are the essential components of the family meeting?
+
+【12】Continuation of case : A family meeting was scheduled and included the attending physician, acute care nurse practitioner (ACNP), nurse, social worker, child life specialist, and the chaplain. The family members included the adoptive mother, father, and physician brother who attended via video conferencing. Although a family meeting may have been conducted earlier in this child’s admission, this family meeting was timely as it occurred within 24 hours of a crucial decision point. Table 42.1 describes this patient’s family meeting.
+
+【13】1.  What successful processes are utilized in the family meeting?
+2.  When should the palliative care team be consulted?
+3.  Based on this case, when would an ethics committee consult be warranted?Rationale and Evidence‐based Practice Explanation
+-------------------------------------------------
+
+【14】### Has the PICU team given this teen significant opportunity to recover from his illness and adequate chance for successful extubation before suggesting tracheostomy? If so, when is the appropriate time to perform tracheostomy?
+
+【15】There is no consensus about the appropriate time to consider performing a tracheostomy for pediatric patients. Several retrospective studies have shown that tracheostomy performed before 14 days is associated with shorter hospital length of stay and fewer complications than tracheostomy performed after 14 days 删除10：<u>(Holloway et al . 2015 )</u>. In this case, there were two failed extubations, a 22‐day PICU length of stay, and an expected prolonged hospitalization even if a tracheostomy is performed. The patient’s parents stated they were not interested in pursuing a tracheostomy.
+
+【16】### How does the team gain consensus with the family on plan of care?
+
+【17】Families consistently rate communication as one of the most important skills of clinicians, often as important as clinical skills, especially during critical illness. Parents want honest, clear, and complete information in order to participate in the decision‐making for the care of their children even if it is distressing. Seaman et al . 通用删除7(英):<u>( 2017 )</u> identified five goals of clinician–family communication, including establishing a trusting relationship, providing emotional support, helping families understand the prognosis and treatment options, allowing clinicians to understand the patient as a person, and creating conditions for careful deliberation about difficult decisions. Table 42.2 shows an acronym for communication that can be helpful for interaction with families.
+
+【18】Table 42.1 Script of family meeting.
+
+| Participant | Script |
+| --- | --- |
+| Attending physician | Introduces health team members |
+|  | Identifies the problem: patient has had failed attempts at intubation, would benefit from tracheostomy, but family members are not in agreement |
+|  | Inquires about family goals for patient, asking about child’s life at home |
+| Parents | Child was adopted at age 2 and has always been cared for at home by family members |
+|  | He has been happy and interactive and it is difficult to see him so ill, especially with breathing issues |
+| Attending physician | Offers options:Wean ventilator and add non‐invasive technologyTracheostomyEducates about the purpose of tracheostomyAsks what questions the family has |
+| Father | Expresses interest in trying gradual weaning approach, and offers that the tracheostomy and ventilator at home are overwhelming and is concerned about the effect on family life and other children |
+| Attending physician | Adds information about the possibility of home nursing and child life therapist to support the other children if tracheostomy is decided |
+| Parents | Share that child has been deteriorating slowly and they would like to inquire about hospice and palliative care |
+| Attending physician | Offers to organize a meeting with the palliative care team and closes the meeting by asking if there are other questions |
+
+【20】Table 42.2 VALUE acronym.
+
+【21】删除31：<u>Source: Data from Curtis 通用删除7(英):<u>( 2008 )</u>.</u>
+
+| V | Value family statements |
+| --- | --- |
+| A | Acknowledge family emotions |
+| L | Listen to the family |
+| U | Understand the patient as a person |
+| E | Elicit family questions |
+
+【23】Shared decision‐making is a central component of patient‐centered care in the intensive care unit (ICU) 删除10：<u>(Kon et al . 2016 )</u>. The Informed Medical Decisions Foundation, American College of Critical Care Medicine (ACCM), and American Thoracic Society have defined shared decision‐making as a collaborative process that allows patients, or their surrogates, and providers to make healthcare decisions together, based on the best scientific evidence available and the patient’s values, goals, and preferences.
+
+【24】The standard approach to shared decision‐making occurs when:
+
+【25】   providers share information with families about the patient’s medical condition, prognosis, and therapeutic options along with the associated risks of each option, including the option of palliative care; 删除换行1    the family shares with the provider the patient’s values, goals and preferences; 删除换行1    the provider and family deliberate together to determine the best treatment option for the patient and the patient is included if developmentally appropriate and clinically able; 删除换行1    once global goals and preferences are determined, the provider is responsible for making routine decisions (e.g. frequency of vital signs and laboratory data); 删除换行1    the provider explains the care provided and rationale in language that is understandable to the patient and family and elicits their preferences in the decision‐making process 删除10：<u>(Kon et al . 2016 ; Davidson et al . 2017 )</u>. The clinician should elicit the patient and family’s preferred method of decision‐making and tailor their own role to match the family’s preference.
+
+【26】### As a family–provider communication opportunity, what are the essential components of the family meeting?
+
+【27】There are several platforms for family communication including participation in daily ICU rounds, daily updates, electronic patient portals, and interdisciplinary family meetings 删除10：<u>(Seaman et al . 2017 )</u>. Teleconferencing and video conferencing offer the added benefit of allowing ICU providers to communicate with physically distanced family members, other family support individuals such as faith leaders, family friends, and other members of the healthcare team 删除10：<u>(De Havenon et al . 2015 )</u>. Ultimately, the ICU family meeting is an essential means of communication about patient status and subsequent decision‐making about goals of care.
+
+【28】Although the evidence to support the benefits of family meetings is substantial, they often fail to occur in a timely manner. Some studies have shown these benefits from family meeting that occur 3–6 days after admission, but the ACCM recommends that multidisciplinary family meetings occur within 24–48 hours of ICU admission and are scheduled at regular intervals. Family meetings should be timely, occur in a setting that is quiet with adequate seating, and include appropriate interprofessional team members.
+
+【29】There are many barriers to family meetings, including burdens of schedule coordination, lack of provider availability, and physical distance of pertinent family participants. Other barriers to family meetings include inadequate communication skill training of providers, cultural barriers, language, and emotional stress for providers (and families). Table 42.3 shows strategies to overcome some of these barriers. The ACCM Guideline for Family Conferences advocates for multiple strategies to improve the effectiveness of family conferences 删除10：<u>(Kon et al . 2016 )</u>.
+
+【30】The family meeting structure allows for other team members to listen, clarify issues as appropriate, and affirm decisions. A scribe documents the discussion and may use a template to transfer information to the chart.
+
+【31】### What successful processes are utilized in the family meeting?
+
+   The family meeting is planned to include all identified family and healthcare team members.
+   A venue for inclusion of distant family members is provided by video conferencing.
+    Table 42.3 Goals of family communication.
+删除31：<u>    Source: Seaman et al . 通用删除7(英):<u>( 2017 )</u>.</u>
+    | Goal | Skills | Strategies |
+    | --- | --- | --- |
+    | Establish a trusting relationship | Patient and sensitive listening Providing consistent message about patient’s condition and plan of care | VALUE Ascertain family’s communication preferences Manage specialists’ input (may require a preliminary multidisciplinary meeting) |
+    | Provide emotional support | Addressing emotions (e.g. anger, grief, guilt) If necessary, preparing patient and family for death | VALUE Consider consults to pastoral care, child life specialist |
+    | Help families understand diagnosis, prognosis, and treatment options | Recognizing cultural and language barriers Tailoring explanation of complex physiology and technology to family’s level of knowledge | Include interpreter if language barrier exists or requested by family |
+    | Help families understand diagnosis, prognosis, and treatment options | Recognizing cultural and language barriers Tailoring explanation of complex physiology and technology to family’s level of knowledge | Avoid medical jargon, use simple lay terms |
+    | Help families understand diagnosis, prognosis, and treatment options | Recognizing cultural and language barriers Tailoring explanation of complex physiology and technology to family’s level of knowledge | Tailor language to the comprehension level of the family |
+    | Help families understand diagnosis, prognosis, and treatment options | Recognizing cultural and language barriers Tailoring explanation of complex physiology and technology to family’s level of knowledge | Use written or electronic supplementary materials (e.g. pamphlets, diagrams) |
+    | Help families understand diagnosis, prognosis, and treatment options | Recognizing cultural and language barriers Tailoring explanation of complex physiology and technology to family’s level of knowledge | Develop awareness of own bias to remain open to patient and family preferences that differ from your own |
+    | Allow clinicians to understand the patient as a person | Eliciting information about values, goals, and treatment preferences | VALUE |
+    | Create conditions for careful deliberation about difficult decisions | Attending to family dynamics Conflict resolution Assisting in decisions about life sustaining therapies | Use shared decision‐making |
+    | Create conditions for careful deliberation about difficult decisions | Attending to family dynamics Conflict resolution Assisting in decisions about life sustaining therapies | Dedicated multidisciplinary family meetings |
+    | Create conditions for careful deliberation about difficult decisions | Attending to family dynamics Conflict resolution Assisting in decisions about life sustaining therapies | Ethics consultation |
+    | Create conditions for careful deliberation about difficult decisions | Attending to family dynamics Conflict resolution Assisting in decisions about life sustaining therapies | Palliative care consultation |
+    | Create conditions for careful deliberation about difficult decisions | Attending to family dynamics Conflict resolution Assisting in decisions about life sustaining therapies | Facilitate restful sleep for families (e.g. private room, noise reduction strategies) |
+    | Create conditions for careful deliberation about difficult decisions | Attending to family dynamics Conflict resolution Assisting in decisions about life sustaining therapies | Consider involving the child in decisions if developmentally appropriate and clinically able |
+   The physician uses a strategy to seek information from the family about their child, acknowledge their emotions, listen to their concerns, and offer options.
+   The meeting is held in a quiet place, gaining family perception by asking for their input, inviting them to share their knowledge, and providing knowledge about care options.
+   Shared decision‐making was facilitated by providing information about care choices, eliciting family preferences, and deliberating to reach a decision.
+
+【33】### When should the palliative care team be consulted?
+
+【34】Palliative care strives to manage pain, incorporate psychosocial and spiritual care, identify values of patients and their loved ones, and resolve conflicts in cases in which the patient is terminally ill 删除10：<u>(Celie and Prager, 2016 )</u>. According to the Center to Advance Palliative Care 通用删除7(英):<u>( 2016 )</u>, children with complex medical problems are surviving longer due to new and improved treatments, especially among preterm infants and neonates with congenital disorders. It is currently estimated that there are approximately 400 000 children living with life‐threatening or chronic complex conditions, with about 17 million adults serving as caregivers to these children. Despite some concern about consulting too soon, it is recommended to introduce the concept of palliative care early in the life of a child who has a life‐limiting condition 删除10：<u>(Center to Advance Palliative Care, 2016 )</u>. The American Academy of Pediatrics recommends initiating a palliative care consult when a diagnosis is made and integrating interventions, both curative and comfort measures, throughout the course of illness to support quality of life. Unfortunately, only about half of all children’s hospitals have formal palliative care programs, so much more work needs to be done to improve access for children and families.
+
+【35】### Based on this case, when would an ethics committee consult be warranted?
+
+【36】Ethics consultation is a commonly accepted procedure for facilitating communication, resolving conflict, and easing moral distress in healthcare. It should be pursued when there is disagreement among team members or between the medical team and family. Some situations that may warrant an ethics consult include family preference to withdraw life‐sustaining therapy when the medical team believes continuing therapy is in the best interests of the child; family request for interventions the medical team believes are futile; and family desire to perform rituals that violate state health and safety codes 删除10：<u>(Kon et al . 2016 )</u>. The ethics committee is advisory only and consults can come from individual healthcare providers, a healthcare team or family members. The consult will provide recommendations based on the posed question. Studies have shown that ethics consults decrease ICU length of stay and life‐sustaining therapies for patients who potentially will not survive to discharge. These consults may reduce prolonged suffering for patients and families.
+
+【37】Ethicists use four main ethical principles to guide recommendations for complex cases.
+
+【38】   Beneficence: the therapy must help the patient.
+   Non‐maleficence: the therapy must not harm the patient.
+   Justice: therapies must be applied fairly.
+   Autonomy: the patient must be free to decide.
+
+【39】In this case, ethical questions may include the following.
+
+【40】   Would a tracheostomy be of benefit or could it cause harm?
+   Is it fair that a child receive a tracheostomy?
+   Given that tracheostomy is a standard therapy, can parents opt not to pursue tracheostomy?
+
+【41】In this case, the ethical considerations were not challenged. The values and judgments of parents should generally be honored in difficult ethical matters, although providers can seek to override parental wishes when the parent’s request is not in the best interest of the child. However, some of these decisions are state regulated 删除10：<u>(Weise et al . 2017 )</u>. Some ethicists believe the decision should be based on the best interests of the child only, while others consider the best interests of the family. In this patient case, either decision was supported by the medical team. When making this type of decision, though, families want reassurance that they will not be abandoned by the healthcare team if they choose a palliative care strategy or do not resuscitate.苏锦恭
+
+====================================================================================================

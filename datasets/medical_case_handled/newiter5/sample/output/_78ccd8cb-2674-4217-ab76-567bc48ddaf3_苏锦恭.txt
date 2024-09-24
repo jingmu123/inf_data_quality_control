@@ -1,0 +1,50 @@
+【0】Question: 35.1 A teenage boy presents with moderate to severe epigastric pain. Physical examination reveals extensive eruptive xanthomas and hepatosplenomegaly. A blood sample reveals milky plasma. Which of the following is the most likely lipoprotein to be elevated in this patient’s plasma?
+
+【1】A. Chylomicrons
+
+【2】B. Chylomicron remnants
+
+【3】C. HDL
+
+【4】D. IDL
+
+【5】E. LDL
+
+【6】Answer: 35.1 A . This patient presents with classical symptoms of hypertriglyceridemia: milky plasma, eruptive xanthomas, enlarged liver and spleen, and symptoms of pancreatitis. The milky plasma is due to abnormally high chylomicron levels, indicating that TG is not being removed from the transporter of dietary TG and it is accumulating in the plasma. The other lipoproteins listed have low levels of TG are much smaller and would not be expected to lead to milky plasma if elevated.
+
+【7】Question: 35.2 Laboratory results for a patient with uncontrolled type 1 diabetes mellitus reveal hyperglycemia (634 mg/dL) and hypertriglyceridemia (498 mg/dL). The most likely cause of the hypertriglyceridemia in this patient is which of the following?
+
+【8】A. Deficiency in apoprotein C-II
+
+【9】B. Increased hepatic triglyceride synthesis
+
+【10】C. Decreased lipoprotein lipase activity
+
+【11】D. Deficiency in LDL receptors
+
+【12】E. Absence of hormone sensitive lipase
+
+【13】Answer: 35.2 C . Decreased lipoprotein lipase activity is the result of the failure of the pancreatic β cells to produce and secrete insulin. Insulin stimulates the synthesis of lipoprotein lipase; in the absence of insulin, lipoprotein lipase activity in the capillary beds is low. While a deficiency in apoC-II would also lead to hypertriglyceridemia, this genetic defect is rare. If a patient with type I diabetes mellitus is not given insulin, then the increased glucagon–insulin ratio would stimulate gluconeogenesis and β oxidation in the liver rather than synthesis of triglycerides. Neither a deficiency of LDL receptors nor hormone-sensitive lipase would be expected to increase circulating TG levels.
+
+【14】Question: 35.3 A 25-year-old woman was referred to a lipid research center for investigation of moderate hypertriglyceridemia because the plasma lipid and lipoprotein profiles showed abnormalities. Both HDL and LDL were more buoyant and showed elevations in TG content with the mass of TG approximately the same as that of cholesterol. A deficiency in which of the following is the most likely cause of this patient’s lipid abnormality?
+
+【15】A. Lecithin-cholesterol acyltransferase
+
+【16】B. Lipoprotein lipase
+
+【17】C. Apoprotein C-II
+
+【18】D. Hepatic lipase
+
+【19】E. Apoprotein B-100
+Answer: 35.3 D . Hepatic lipase. The abnormal buoyancies of the LDL and HDL fractions due to their increased TG content indicate that IDL is not being processed to LDL and HDL is not being remodeled. Both of these processes are accomplished by hepatic lipase. A deficiency in lecithin-cholesterol acyltransferase would lead to elevated serum cholesterol levels, almost all as free cholesterol. Deficiencies in lipoprotein lipase or apoC-II would lead to hypertriglyceridemia as increased chylomicrons and/or VLDL. An apoB-100 deficiency would lead to increased levels of LDL, but they would have the normal TG/cholesterol ratio.
+
+【20】BIOCHEMISTRY PEARLS
+
+【21】 TGs are safely transported in the bloodstream packaged into lipoproteins called chylomicrons or VLDLs.
+
+【22】 The most common genetic defect leading to hypertriglyceridemia is a deficiency in lipoprotein lipase, which results in increased levels of both chylomicrons and VLDL.
+
+【23】 Individuals who are homozygous for the defective gene for lipoprotein lipase usually present with symptoms of chylomicronemia (TG levels > 2000 mg/dL, abdominal pain, pancreatitis, xanthomas, lipemia retinalis) in childhood.苏锦恭
+
+====================================================================================================

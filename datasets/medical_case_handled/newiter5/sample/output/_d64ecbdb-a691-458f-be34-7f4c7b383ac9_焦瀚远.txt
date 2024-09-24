@@ -1,0 +1,18 @@
+【0】Question: A 26-year-old woman is brought to the hospital by ambulance after an automobile accident. She sustained no injuries in the collision but is adamant that she did not see the car that hit her from the side as it approached. On neurologic examination she has bilateral visual field defects affecting nearly half of her lateral vision. On further questioning about recent changes in her health, she notes that she has not menstruated in 10 months. From which embryologic layer does this woman’s neoplasm most likely originate?
+
+【1】> (A) Endoderm
+
+【2】> (B) Mesoderm
+
+【3】> (C) Neural crest
+
+【4】> (D) Neuroectoderm
+
+【5】> (E) Surface ectoderm
+ Answer: The correct answer is E . This patient shows the classic signs of a functional anterior pituitary adenoma, namely bitemporal hemianopsia and amenorrhea due to prolactin hypersecretion. These tumors are typically benign and slow-growing. The anterior pituitary develops from Rathke pouch, which is composed of surface ectoderm that abuts the sella turcica.  
+Answer A is incorrect . The gut tube epithelium and its derivatives originate from endoderm.  
+Answer B is incorrect . Most of the body’s connective tissues are derived from mesoderm.  
+Answer C is incorrect . The parafollicular cells of the thyroid are derived from the neural crest.  
+Answer D is incorrect . The posterior pituitary is derived from neuroectoderm.焦瀚远
+
+====================================================================================================

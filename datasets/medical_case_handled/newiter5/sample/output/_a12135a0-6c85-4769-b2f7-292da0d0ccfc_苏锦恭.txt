@@ -1,0 +1,75 @@
+【0】Case 26: Loin Pain and Haematuria
+
+【1】History
+
+【2】A 46-year-old woman presents to the emergency department with a 2-day history of  删除换行1 right-sided loin pain and macroscopic haematuria. The pain is continuous and dull in  删除换行1 character. Over the past 10 years she has had previous episodes of loin pain that have  删除换行1 occurred on both sides and resolved spontaneously over a few days. She has never passed  删除换行1 any stones. She was noted to be mildly hypertensive during her three pregnancies. She  删除换行1 has no other significant medical history. Her father died of a subarachnoid haemorrhage,  删除换行1 aged 48 years. Her father’s brother has had a kidney transplant. She has no siblings. Her  删除换行1 three children, aged 17, 14 and 10 years, are well. She works as a teacher and neither  删除换行1 smokes nor drinks alcohol.
+
+【3】Examination
+
+【4】On examination she is afebrile. Her pulse is regular at 76/min, and her blood pressure is  删除换行1 135/105mmHg. Examination of the cardiovascular and respiratory systems is otherwise  删除换行1 unremarkable. On palpation of her abdomen, ballottable masses are palpable in each flank.
+The right-sided mass is tender to palpation. Percussion note is resonant over the masses.
+Neurological examination is normal. Funduscopy shows arteriovenous nipping and silverwiring of the retinal vessels.
+
+【5】INVESTIGATIONS
+
+【6】Normal
+
+【7】Haemoglobin 14.3g/dL 11.7–15.7g/dL
+
+【8】White cell count 5.2 × 109/L 3.5–11.0 × 109/L
+
+【9】Platelets 206 × 109/L 150–440 × 109/L
+
+【10】Sodium 138mmol/L 135–145mmol/L
+
+【11】Potassium 4.3mmol/L 3.5–5.0mmol/L
+
+【12】Urea 10.2mmol/L 2.5–6.7mmol/L
+
+【13】Creatinine 146μmol/L 70–120μmol/L
+
+【14】Albumin 42g/L 35–50g/L
+
+【15】Urinalysis: + protein; +++ blood
+
+【16】Urine microscopy: >200 red cells; 10 white cells; no organisms
+
+【17】Abdominal X-ray: no intra-abdominal calcification seen
+
+【18】Questions
+
+【19】•	 What is the diagnosis?
+
+【20】•	 How would you proceed to manage and investigate this patient?
+
+【21】ANSWER 26
+
+【22】This patient has autosomal dominant polycystic kidney disease (ADPKD). She has macroscopic haematuria, hypertension and impaired renal function. The palpable abdominal  删除换行1 masses in both flanks have the characteristic features of enlarged kidneys. They are ballottable and resonant to percussion because of overlying bowel. The other principal causes for  删除换行1 palpable kidneys are renal cell carcinoma and massive hydronephrosis. Rest is the best management for cyst bleeding. Gross haematuria rarely lasts for more than a week.
+
+【23】ADPKD is the most common inherited renal disease, occurring in approximately 1:600 to  删除换行1 1:1000 individuals. Although the name ‘ADPKD’ is derived from renal manifestations of cyst  删除换行1 growth leading to enlarged kidneys and renal failure, this is a systemic disorder manifested  删除换行1 by the presence of hepatic cysts, diverticular disease, inguinal hernias, mitral valve prolapse,  删除换行1 intracranial aneurysms and hypertension. Flank pain is the most common symptom and  删除换行1 may be caused by cyst rupture, cyst infection or renal calculi. Macroscopic haematuria due  删除换行1 to cyst haemorrhage occurs commonly and usually resolves spontaneously. Renal calculi  删除换行1 occur in approximately 20 per cent of ADPKD patients (most commonly uric acid stones).
+Hypertension occurs early in the course of this disease, affecting 60% of patients with normal  删除换行1 renal function. Approximately 50% of ADPKD patients will develop end-stage renal failure.
+
+【24】Although it is not known if this patient’s father had renal disease, it is highly likely that he  删除换行1 had ADPKD and an associated ruptured berry aneurysm as the cause for his subarachnoid  删除换行1 haemorrhage. The patient’s uncle required a renal transplant. The pattern of inheritance in  删除换行1 this family is consistent with an autosomal dominant trait.
+
+【25】Ultrasound is the preferred initial screening technique as it is cheap, non-invasive and rapid.
+It detects cysts as small as 0.5 cm. For a certain diagnosis, there should be at least three renal  删除换行1 cysts with at least one cyst in each kidney. Computed tomography (CT) and magnetic resonance imaging (MRI) are more sensitive techniques for detecting smaller cysts. Ultrasound  删除换行1 in this patient shows the typical appearance of multiple cysts (black areas) surrounded by  删除换行1 thickened walls 删除33：<u></u>. She should be referred to a nephrologist for long-term followup of her renal failure, and plans should be made for renal replacement therapy. She needs to  删除换行1 have effective blood pressure control with diastolic pressure less than 85mmHg to retard the  删除换行1 progression of her renal failure. Clinical trials are starting of vasopressin receptor antagonists, which show promise at inhibiting cyst growth.
+
+【26】She should have MRI angiography to exclude an intracranial aneurysm. This is not advocated  删除换行1 for all ADPKD patients but is indicated for those patients with a positive family history of  删除换行1 aneurysm rupture. The patient’s children should have their blood pressure checked and later  删除换行1 be screened by ultrasound. By age 30 years, 90% of ADPKD patients will have cysts detectable  删除换行1 by ultrasound.
+
+【27】Ninety per cent of ADPKD patients have mutations in the ADPKD1 gene. This gene encodes  删除换行1 for the protein polycystin, which is a membrane glycoprotein that probably mediates cell–cell  删除换行1 or cell–matrix interactions. Most remaining patients have mutations in the ADPKD2 gene,  删除换行1 which codes for polycystin-2, which has structural homology to polycystin and to calcium  删除换行1 channels. ADPKD1 patients generally have an earlier age of onset of hypertension and development of renal failure as compared to ADPKD2 patients.Case 26: Loin Pain and Haematuria
+
+【28】KEY POINTS
+
+【29】•	 Patients with ADPKD are often asymptomatic.
+
+【30】•	 ADPKD patients may present with loin pain or haematuria.
+
+【31】•	 ADPKD is the commonest familial cause of renal failure.
+
+【32】•	 ADPKD is the most likely cause of bilateral renal masses.
+
+【33】•	 Family members who may have ADPKD should be advised to have their blood pressure measured and a renal ultrasound.
+
+【34】删除3：<u>Figure 26.1 Renal ultrasound demonstrating multiple cysts.</u>苏锦恭
+
+====================================================================================================

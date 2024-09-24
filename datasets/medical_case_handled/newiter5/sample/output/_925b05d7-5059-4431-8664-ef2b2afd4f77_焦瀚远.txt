@@ -1,0 +1,14 @@
+【0】CASE 8
+
+A 5-month-old girl is brought to the pediatrician by her parents because she has been very sleepy latelyand has been vomiting and sweating profusely at night. The infant’s mother says that their daughterwas doing fine during the first months of life but began showing these changes shortly after she beganweaning from breast milk. Laboratory testing reveals a serum glucose level of 30 mg/dL， and urinalysis is positive for reducing sugar but negative for glucose.  |
+| --- |
+| What is the most likely diagnosis?Fructose intolerance.  |
+| What intermediate is elevated within the liver cells in this condition?Fructose-1-phosphate is elevated in fructose intolerance.  |
+| What enzyme is deficient in this condition?Aldolase B is deficient in this disorder.  |
+| How does this condition cause hypoglycemia? Aldolase B catalyzes the conversion of fructose-1-phosphate into glyceraldehyde and dihydroxyacetonephosphate (DHAP) 删除33：<u></u>. Its absence results in accumulation of fructose-1-phosphate in livercells and a consequent depletion of adenosine triphosphate (ATP). A low cellular supply of ATP inhibits glycogenolysis and gluconeogenesis leading to very low serum glucose. Excess fructose is lost in the urine. FRUCTOSE METABOLISM (LIVER) Dihydroxyacetone-P Fructokinase Aldolase B° FTructoseriose -Fructose-1-P Glyceraldehyde-3-P →Glycolysis kinase ATP Glyceraldehyde ADP ATP NADHADP oDeficiency=fructose intolerance NAD ·Deficiency= essential fructosuria Glycerol FIGURE 2-7. Aldolase B splitting fructose-1-phosphate into glyceraldehyde and DHAP. ADP=adenosine diphosphate； ATP= adenosine tri-phosphate； NAD= nicotinamide adenine dinucleotide； NADH= reduced nicotinamide adenine dinucleotide. (Reproduced， with perission， from LeT， et al. First Aid for the USMLE Step 1： 2011. New York： McGraw-Hill， 2011：103\]  |
+| What is the appropriate treatment for this condition? The condition is treated through the removal of fructose， sucrose (a disaccharide of glucose and fructose)，and sorbitol from the diet.  |
+| Why did the infant exhibit no symptoms while exclusively fed breast milk? Carbohydrates in breast milk derive largely from lactose rather than fructose.  |
+
+|焦瀚远
+
+====================================================================================================

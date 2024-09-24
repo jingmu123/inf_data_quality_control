@@ -1,0 +1,56 @@
+【0】删除1：<u>© People's Medical Publishing House, PR of China 2021
+
+【1】H. Wang (ed.) Paediatric Kawasaki Disease 删除9：<u>https://doi.org/10.1007/978-981-15-0038-1\3</u></u>
+
+【2】3. KD with Nervous System Involvement
+=====================================
+删除2：<u>Ce Wang通用删除4(英):<u> <sup><a>1 </a></sup></u> , Hong Wang <sup><a>1 </a><span class="ContactIcon"></span></sup> , Yan-qiu Chu通用删除4(英):<u> <sup><a>1 </a></sup></u> and Bai Gao <sup><a>2</a></sup>
+
+【3】通用删除7(英):<u>(1)</u>
+
+【4】Department of Pediatric Cardiology, Shengjing Hospital, Affiliate China Medical University, Shenyang, P.R. China
+
+【5】通用删除7(英):<u>(2)</u>
+
+【6】Department of Neurology function, Shengjing Hospital, Affiliate China Medical University, Shenyang, P.R. China
+
+【7】</u>
+Abstract
+--------
+
+【8】KD is an acute, self-limited febrile illness. Although significant long-term sequelae are confined to the coronary arteries, multiple other organs and tissues are inflamed during the acute illness and causing clinical symptoms. Likewise, irritability and a culture-negative pleocytosis of the cerebrospinal fluid in infants with prolonged fevers suggest that aseptic meningitis may develop in patients with KD. But it is usually overlooked. Common complications of nervous system in KD children include: aseptic meningitis as the most common one, seizures, temporary hemiplegia, facial paralysis, ataxia, hearing impairment, visual abnormalities, and behavioral abnormalities can also be associated (Alves et al. Rev Assoc Med Bras 57通用删除7(英):<u>(3)</u>:299–300, 2011; Poon et al. Hong Kong Med J 6通用删除7(英):<u>(2)</u>:224–226, 2000; Knott et al. Am J Otolaryngol 22通用删除7(英):<u>(5)</u>:343–348, 2001). Neurological involvement in children with KD may be due to ischemic effects of small vessel inflammation which cause neuritis, ischemia, and increased intracranial pressure. The symptoms of abducens nerve palsy in some children with KD recovered after 2–6 weeks of treatment (Amano and Hazama, Acta Pathol Jpn 30通用删除7(英):<u>(3)</u>:365–373, 1980). Histopathological examination of KD nervous system showed edema, necrosis, glial cell hyperplasia, lymphocyte invasion, etc. (Guven et al. Pediatr Int 52通用删除7(英):<u>(2)</u>:334, 2010; Rodríguez-Lozano et al. Allergol Immunopathol (Madr) 42通用删除7(英):<u>(1)</u>:82–83, 2014). In our department, aseptic meningitis is the most common one. We saw abduction nerve paralysis in one KD patient, and abnormal EEG lasted over 4 months in another patient. In most of the children, neurological impairments were recovered within one month.
+
+【9】3.1 Case 16: KD with Aseptic Meningitis (CSF Cell Count Elevated)
+-----------------------------------------------------------------
+
+【10】A previously healthy 4-year-old girl enjoying regular sport fun had no significant past medical and family history.
+
+【11】She presented on Day 7 of illness with remittent fever, along with conjunctiva congestion for 5 days, without chills or convulsions. She had occasional cough, diarrhea for 2 days, and was prescribed with azithromycin for 2 days, erythromycin for 3 days, and methylprednisolone 1mg/kg for 1 day. Examination revealed fever 37.5°C, pulse rate 105 bpm, RR 20 bpm, BP 103/63mmHg, weight 17.5 kg, cervical lymphadenectasis about 1.5 cm on the right, bilateral conjunctival congestion without pus secretions, red lips, strawberry tongue. Peeling skin around right thumb fingernail. Others were normal. Admission blood test revealed WBC 22.14 × 10 <sup>9 </sup> /L, NE 83.6%, CRP 174mg/L, ALT 92U/L. MP-IgM was mildly positive. cTnI, CKMB mass, hs-cTnT, and NT-pro BNP were normal. Chest X-ray film showed slightly enlarged heart shadow. Cervical ultrasound showed lymphadenectasis about 2.0cm×0.8cm on the left. She had met 5 criteria for the KD, and she was treated with 通用删除7(英):<u>(1)</u> IVIG 1g/kg/d for 2 days; 通用删除7(英):<u>(2)</u> oral aspirin 200mg tid, dipyridamole 25mg tid; 通用删除7(英):<u>(3)</u> infusion of azithromycin 175mg/day, for 3 days.
+
+【12】On Day 8, her body temperature was 36.8°C. ALB 28.1g/L, ALT 57U/L. ASO 85.5 IU/ml. She had developed hypoproteinemia and received infusion of 20-gram albumin. On Day 9, her highest body temperature was 37.6°C at night. Echo showed that RCA was dilated about 4.0 mm 删除33：<u></u> and spreading to 17 mm 删除33：<u></u>, and LCA was 2.7 mm. She got headache and was treated with mannitol and furosemide. On Day 11, her temperature was 37.3°C. Retested blood work revealed ALB, ALT, and AST were normal. NT-pro BNP 2147pg/ml. ASO 104IU/ml. CRP 37.50mg/L, ESR 88mm/h. She was suspected of having streptococcal infection and received infusion of cefazolin sodium
+
+【13】删除3：<u>Fig. 3.1
+
+【14】On Day 9 of illness, RCA 4.0 mm ( a ), and spread length about 17 mm ( b )</u>
+
+【15】On Day 12, she was afebrile, but still had headache. Meningeal irritation sign was negative. EEG showed bilateral occipital region was the main amplitude of amplitude 6–7Hz theta waves 删除33：<u></u>. Lumbar puncture showed CSF pressure 30 drops/min. CSF was clear. Pandy’s test was negative. The total number of cells 41 × 10 <sup>6 </sup> /L, WBC 41 × 10 <sup>6 </sup> /L, NE 2.4%, M 97.6%, RBC 0 × 10 <sup>6 </sup> /L. CSF chlorine 123.8mmol/L, glucose 3.00 mmol/L, protein 0.14g/L. She developed aseptic meningitis and was given infusion of deproteinized calf blood extract and cefuroxime sodium. Aspirin was reduced to one dose 75 mg per day. On Day 13, she felt well. Repeated blood work showed WBC 10.89×10 <sup>9 </sup> /L, NE 44%, HBG 113g/L, PLT 450×10 <sup>9 </sup> /L. Liver function and NT-pro BNP were normal. CRP 8.23mg/L, ESR 62mm/h. On Day 14 of illness, repeated echo showed RCA widen two sections, 3.1 mm at opening and 4.3 mm at middle part, while LM 2.7 mm and LAD 2.3 mm without dilation. On the following day, EEG showed bilateral occipital area was improved to 8 Hz, medium amplitude was normal 删除33：<u></u>. On Day 20, the patient’s temperature was normal, without any discomfort. Blood test showed WBC 7.56 × 10 <sup>9 </sup> /L, NE 51.9%, HGB 107g/L, PLT286×10 <sup>9 </sup> /L. The patient was discharged. On Day 28, repeated echo in clinic showed LAD was 4 mm and RCA had aneurysm dilatation about 9.3mm. She was admitted again: WBC 7.82 × 10 <sup>9 </sup> /L, NE 67.5%, HGB 120g/L, PLT 267 × 10 <sup>9 </sup> /L. CRP 1.29mg/L. Troponin I, CKMB-Mas, NT-pro BNP, hs-cTnT, and DIC were normal. On Day 29, repeated echo showed LVED 33mm, LVEF 69%. RCA was normal at opening, 4 mm away from opening, it dilated about 5.3 mm, and aneurysm dilated about 9 mm to 9.5 mm at distal 删除33：<u></u>. She took warfarin orally, with the initial dose at 0.05 mg/kg/day, and the INR was 1.1. After 3 days, warfarin dosage was adjusted to 0.1 mg/kg/day. On Day 30, INR was 1.2. Coronary artery CTA failed due to recurrent urticarial on her face and trunk. She was discharged.
+
+【16】删除3：<u>Fig. 3.2
+
+【17】On Day12, EEG showed bilateral occipital region was the main amplitude of amplitude 6–7 Hz theta waves</u>
+
+【18】删除3：<u>Fig. 3.3
+
+【19】On Day 15 of illness, EEG showed bilateral occipital area was improved to 8 Hz, medium amplitude was normal</u>
+
+【20】删除3：<u>Fig. 3.4
+
+【21】Four weeks after the onset, RCA dilated to 9mm–9.5 mm at distal</u>
+
+【22】### 3.1.1 Clinical Course of the Patient
+
+【23】### 3.1.2 Follow-up
+
+【24】She was followed up for over 2 years, and DIC was monitored in clinic monthly . Coronary artery CTA was attempted but failed again for her skin allergy. Four months later: the EEG showed sinus bradycardia 删除33：<u></u>. The echo showed LVED 38 mm, LVEF 59%. RCA opening widened about 2.6mm, after extending 5 mm, the diameter of the inner diameter was about 5mm, and the width of the distal end was about 10 mm 删除33：<u></u>. No exact thrombus was found in it. LCA was about 2.6 mm, and LAD was about 2.3 mm. INR was 1.1. Warfarin was adjusted to 1.6 mg for 1 day and 2.5 mg for 2 days alternately, a period of 3 days. From 4 months to 20 months, echo was repeated 删除33：<u></u>, warfarin was adjusted according to INR .苏锦恭
+
+====================================================================================================

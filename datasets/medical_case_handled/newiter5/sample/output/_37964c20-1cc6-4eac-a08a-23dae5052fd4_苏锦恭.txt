@@ -1,0 +1,19 @@
+【0】Question: A mother brings her 6-month-old son to the pediatrician. She has noticed that he seems “afraid of light” and, after some Internet research, she is concerned that he might be an albino. Laboratory analysis reveals uroporphyrin in his urine. The child most likely has which of the following conditions?
+
+【1】> (A) Deficiency of coproporphyrinogen oxidase
+
+【2】> (B) Deficiency of porphobilinogen deaminase
+
+【3】> (C) Deficiency of uroporphyrinogen decarboxylase
+
+【4】> (D) Inhibition of ferrochelatase and δ-aminolevulinic acid dehydrase
+
+【5】> (E) Overexpression of porphobilinogen deaminase
+
+【6】 Answer: The correct answer is C. This individual suffers from porphyria cutanea tarda. The porphyrias are diseases resulting from enzymatic deficiencies in heme biosynthesis, and porphyria cutanea tarda is the most common form. This disorder is caused by deficiency of uroporphyrinogen decarboxylase, the hepatic enzyme that catalyzes the formation of coproporphyrinogen III from uroporphyrinogen III. Lack of this enzyme results in uroporphyrin accumulation in the urine (giving the urine a tea-colored appearance) and uroporphyrinogen accumulation systemically. This compound absorbs light and releases heat, causing extreme photosensitivity.  
+Answer A is incorrect. Hereditary coproporphyria is a disease due to the deficiency of coproporphyrinogen oxidase, the enzyme that catalyzes the formation of protoporphyrinogen from coproporphyrinogen III. Coproporphyrinogen III accumulates in the urine. Patients with this condition tend to be photosensitive.  
+Answer B is incorrect. Acute intermittent porphyria is caused by a deficiency in porphobilinogen deaminase (also called uroporphyrinogen 1 synthetase), the enzyme that catalyzes the formation of pre-uroporphyrinogen from porphobilinogen. Lack of this enzyme causes porphobilinogen and δ-aminolevulinic acid to accumulate in the urine. Patients with acute intermittent porphyria are not photosensitive, but they do experience symptoms of painful abdomen, polyneuropathy, and psychological disturbances. They also have pink coloration of their urine.  
+Answer D is incorrect. Ferrochelatase and δ-aminolevulinic acid (ALA) dehydrase are sensitive to inhibition by lead. Thus, lead poisoning leads to an accumulation of coproporphyrin and ALA in the urine. Lead poisoning is a problem seen in children who live in old houses with chipped paint 删除10：<u>(lead was used in paint manufacturing until the 1970s)</u>. Ingestion of large quantities of lead can cause lines on the gingiva and epiphyses of long bones, encephalopathy, erythrocyte basophilic stippling, abdominal colic, sideroblastic anemia, and neuropathy leading to foot and wrist drops. It is not associated with photosensitivity. The first line of treatment is dimercaprol and EDTA to bind up the free lead in the serum.  
+Answer E is incorrect. Porphobilinogen deaminase deficiency, not excess, results in acute intermittent porphyria. One would expect to find δ-aminolevulinic acid and porphobilinogen in the urine and no photosensitivity.苏锦恭
+
+====================================================================================================

@@ -1,0 +1,87 @@
+【0】删除1：<u>© Springer International Publishing Switzerland 2015
+
+【1】Robert A. Norman and William Eng (eds.) Clinical Cases in Infections and Infestations of the Skin Clinical Cases in Dermatology 6 10.1007/978-3-319-14295-1\15</u>
+
+【2】15. 46 Year Old Female with Multiple Slightly Eroded Reddish Papules on Her Arm
+===============================================================================
+
+【3】删除2：<u>William Eng <sup>1 <a><span class="ContactIcon"></span></a></sup> and Martin J. Walsh <sup>2</sup>
+
+【4】通用删除7(英):<u>(1)</u>
+
+【5】Department of Pathology, University of Central Florida Medical School, Orlando, FL, USA
+
+【6】通用删除7(英):<u>(2)</u>
+
+【7】Graduate Studies, USF College of Medicine, Tampa, FL, USA
+
+【8】William Eng
+
+【9】Email: drwilliameng@yahoo.com</u>
+
+【10】History and Clinical
+--------------------
+
+【11】A 46-year-old female presented with a growth on the superior right arm that had been present for 9 months. The patient had a history of a cholecystectomy and tubal ligation. A lipoma was noted on a past physical exam, but it was not removed. She was in prison 5 years ago where she contracted tuberculosis, but failed to complete the course of antibiotics prescribed.
+
+【12】Physical Examination
+--------------------
+
+【13】Examination of the patient exhibited a prominent lipoma at her medial hypogastric region. The patient also presented with an ichthyotic lesion on her right forearm and acrochordons at her bilateral superior axilla and medial hypogastric regions. The right arm showed multiple, red papules, some of which were eroded.
+
+【14】Clinical Differential Diagnosis
+-------------------------------
+
+【15】   Syphilis
+   Sporotrichosis
+   Tularemia
+   Bartonellosis
+   Mycobacterium
+   Tuberulosis
+
+【16】Histopathology
+--------------
+
+【17】A shave biopsy was performed on the patient’s superior right arm 删除33：<u></u>. The biopsy measured 0.6 × 0.6 × 0.5, and a separate piece measured 0.7 × 0.6 × 0.1 cm. This specimen tested negative for fungus in by Periodic Acid-Schiff stain. The microscopic presentation showed a central oval area of necrosis that was surrounded by a prominent histocytes and multi-nucleated giant cells 删除33：<u></u>. The Acid Fast Stain showed numerous positive staining organisms with a short rod appearance 删除33：<u></u>.
+
+【18】删除3：<u>Figure 15.1
+
+【19】Mycobacterium tuberculosis</u>
+
+【20】删除3：<u>Figure 15.2
+
+【21】H&E 40× discrete subcutaneous nodule</u>
+
+【22】删除3：<u>Figure 15.3
+
+【23】H&E 100×, outer wall consists of lymphocytes and histiocytes while the center is necrotic</u>
+
+【24】删除3：<u>Figure 15.4
+
+【25】H&E 400×, scattered multinucleate giants cells are found within outer wall</u>
+
+【26】删除3：<u>Figure 15.5
+
+【27】Acid fast bacilli stain, 1,000× scattered small, rod-shaped bacteria ( red ) are found within the central necrosis</u>
+
+【28】Diagnosis
+---------
+
+【29】MYCOBACTERIUM TUBERCULOSIS. Tuberculosis remains a world-wide disease with a third of the world population being infected. Most new infections are arising from Africa. HIV positive patients are at a 20× increased risk of contracting tuberculosis. The organism can be disseminated into all organs, but in the skin it often appears as “lupus vulgaris” or “scrofuloderma”. The organism grows intracellularly, and induces a granulomatous reaction.
+
+【30】While infectious processes can have a similar clinical appearance, microscopic examination using special stains as well as immunostains aid in the identification of a specific organisms. Although tissue cultures remain the traditional method of separating certain species based on metabolic features, newer molecular techniques are gaining acceptance. Clinically, the “B” symptoms are associated with tuberculosis; weight loss, night sweats, and fever. A chest x-ray is helpful in evaluating for pulmonary disease.
+
+【31】Treatment Options
+-----------------
+
+【32】Treatment is usually a combination therapy
+
+【33】   Isoniazide
+   Rifamycin
+   Pyrazinamide
+   Ethambutol
+删除16：<u>Recommended Reading
+
+【34】Goldsmith LA. Fitzpatrick’s dermatology in general medicine. 8th ed. New York: McGraw-Hill Co; 2012. p. 2225–4</u>苏锦恭
+
+====================================================================================================

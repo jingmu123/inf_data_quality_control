@@ -1,0 +1,63 @@
+【0】删除14：<u>1</u>
+Congenital Heart 
+
+【1】Diseases
+
+【2】Case Presentation 
+
+【3】A 31-year old man was referred to the cardiologist by a general physician, for  删除换行1 evaluation of a heart murmur. This young man had been denied a life insurance  删除换行1 policy because the physician, empanelled by the insurance company, had  删除换行1 incidentally noticed the murmur during medical examination. The man was normally  删除换行1 very active and denied complaints of chest pain, breathlessness, palpitations or  删除换行1 syncope. There was no history of cyanotic spells, joint pains or repeated chest  删除换行1 infections during childhood and he regularly played cricket and football in school.
+However, the patient recollected that the doctor in the school medical room had  删除换行1 noticed the murmur and made a note of it in his medical report.
+On examination, the man was of average built and height and looked healthy.
+The pulse was 84 beats/min. and regular with no special character. The BP was  删除换行1 134/76 mm Hg in the right arm while sitting. There was no anemia, cyanosis or  删除换行1 clinical sign of congestive heart failure. The apex beat was ill-sustained, heaving in  删除换行1 nature and slightly displaced towards the axilla. There was a pansystolic murmur over  删除换行1 the middle of the left sternal border with a S3 删除换行1  sound in early diastole. The murmur  删除换行1 did not radiate towards the axilla. There was no parasternal heave and the lower  删除换行1 border of the liver was not palpable. The lung fields were clear.
+CASE
+
+【4】1 Ventricular 
+
+【5】Septal Defect
+
+【6】CLINICAL DISCUSSION 
+
+【7】From the history and physical examination, this asymptomatic young man  删除换行1 had a parasternal pansystolic murmur. Typical causes of a pansystolic murmur  删除换行1 are mitral regurgitation, ventricular septal defect and tricuspid regurgitation.
+Sometimes, tight coarctation of aorta or a patent ductus arteriosus with pulmonary  删除换行1 hypertension can also produce a pansystolic murmur but these murmurs are  删除换行1 usually located at the upper left sternal edge. The murmur of mitral regurgitation  删除换行1 radiates towards the axilla while the murmur of tricuspid regurgitation is usually  删除换行1 associated with engorged neck veins and an enlarged pulsatile liver.ECG of the patient showed biphasic RS complexes in the mid-precordial  删除换行1 leads. X-ray chest showed mild cardiomegaly with minimal signs of pulmonary  删除换行1 congestion. On ECHO, the left ventricle was normal in size with normal ejection  删除换行1 fraction. A signal drop-out was noticed in the mid-portion of the interventricular 4 Section 1 Congenital Heart Diseases 删除换行5 In VSD, a breach in the continuity of the interventricular septum creates a  删除换行1 left-to-right shunt between the ventricles 删除33：<u></u>. This congenital cardiac defect  删除换行1 occurs due to complexity of embryological development of the septum, which has  删除换行1 a membranous and a muscular portion. Most (80%) VSDs occur at the junction  删除换行1 of these sections and are termed as perimembranous VSD 删除33：<u></u>. Some VSDs  删除换行1 occur in the muscular section (muscular VSD) and may be multiple (sieve-like).
+Rare varieties of VSD are endocardial cushion defects (supracristal VSD) and  删除换行1 outlet septal defect (subpulmonic VSD) .
+删除3：<u>Figure 1.1: Color flow map extending from  删除换行1 left ventricle to right ventricle</u>
+
+【8】删除3：<u>Figure 1.2: Ventricular septal defect 删除换行1 septum. There was no abnormality of the cardiac valves and the estimated  删除换行1 pulmonary artery pressure was normal. On color Doppler, an abnormal flow map  删除换行1 was observed extending from the left ventricle to the right ventricle 删除33：<u></u>, with  删除换行1 a high velocity jet on continuous wave Doppler. Therefore, the definite diagnosis  删除换行1 in this case is ventricular septal defect (VSD). Case 1 Ventricular Septal Defect 5</u>
+A small VSD (Maladie de Roger) generates a loud pansystolic murmur in a  删除换行1 localized area on the precordium. The murmur is located in the upper parasternal  删除换行1 area in outlet VSD and in the mid-portion in perimembranous VSD. A muscular  删除换行5 VSD produces a short systolic murmur since the defect shuts off during muscle  删除换行1 contraction in later systole. This murmur is located over the lower parasternal  删除换行1 area. A large VSD with elevated right ventricular pressure that equals left  删除换行1 ventricular pressure (bidirectional shunt) is also associated with an early systolic  删除换行1 murmur. Therefore, there is no correlation between the length or intensity of the  删除换行1 murmur and the size of the VSD.
+A large shunt may be accompanied by a diastolic flow murmur and a S3  删除换行1 sound, due to torrential flow across the mitral valve. The S2 is widely split due to  删除换行1 early aortic valve closure. On ECHO, signal drop-out is not observed if the VSD is  删除换行1 too small (<3 mm size) or muscular in location. The width of the colour flow map  删除换行1 approximates the VSD size. On Doppler, high flow velocity indicates a small VSD.
+The flow velocity is low if the VSD is large and the shunt is bidirectional.
+VSD is the commonest form of congenital acyanotic heart disease and accounts  删除换行1 for 25% of all cardiac malformations. VSD may occur in isolation or as part of a  删除换行1 complex constellation of congenital cardiac abnormalities. Aortic regurgitation  删除换行1 may be associated due to lack of support to the aortic valve in perimembranous 
+
+【9】删除3：<u>Figure 1.3: Various locations of ventricular septal defect (VSD)</u>
+
+【10】RA: Right atrium; RV: Right ventricle
+
+【11】Table 1.1: Types of ventricular septal defect
+
+【12】•  Perimembranous VSD
+
+【13】•  Subpulmonic VSD
+
+【14】•  Supracristal VSD
+
+【15】•  Muscular VSD6 Section 1 Congenital Heart Diseases
+
+【16】Table 1.2: Indications for surgical closure of VSD
+
+【17】•  Large-sized VSD with volume overload 删除换行1 (pulmonary to systemic flow ratio >2:1)
+•  Medium-sized VSD with congestive symptoms 删除换行1  without pulmonary hypertension 
+
+【18】•  Small-sized VSD without congestive symptoms 删除换行1  with endocarditis or aortic regurgitation
+
+【19】VSD. Complications of VSD in childhood are growth retardation and repeated  删除换行1 chest infections. Reversal of shunt can occur later in life when pulmonary  删除换行1 pressure exceeds the systemic pressure. Endocarditis can follow any non-cardiac  删除换行1 surgical procedure.
+
+【20】MANAGEMENT ISSUES
+
+【21】Large sized VSDs allow large volumes of left-to-right shunt and usually present  删除换行1 in childhood with failure to thrive, breathlessness and recurrent respiratory  删除换行1 infections. They can lead to pulmonary hypertension, right heart failure and  删除换行1 ultimately reversal of shunt (right-to-left). This is designated as the Eisenmenger’s  删除换行1 syndrome. Such VSDs are usually closed in childhood to avoid complications and  删除换行1 before the Eisenmenger’s syndrome has developed.Medium sized VSDs are associated with a moderate sized shunt. The shunt  删除换行1 is large enough to cause breathlessness, but not enough to cause pulmonary  删除换行1 hypertension and shunt reversal. Such patients do reasonably well during  删除换行1 childhood, but may become progressively symptomatic as left ventricular  删除换行1 compliance declines with age and pulmonary venous congestion develops. Such  删除换行5 VSDs are usually closed in adulthood, to avoid the development of heart failure.
+Small sized VSDs do not cause significant shunting and are often asymptomatic. Some of them may close as the child grows older. Those that do not close  删除换行1 spontaneously are closed by intervention for reasons other than the shunt.
+These reasons are development of endocarditis or associated significant aortic  删除换行1 regurgitation .
+RECENT ADVANCES 
+
+【22】The last decade or two have witnessed remarkable progress in the percutaneous  删除换行1 techniques for closure of ventricular septal defects, thus avoiding the risks  删除换行1 associated with open heart surgery. Although transesophageal echocardiography  删除换行1 (TEE) generally suffices to guide the deployment of the closure device, intracardiac  删除换行1 ultrasound provides more accurate assessment. Sonography can provide vital  删除换行1 information pertaining to the location and size of the defect and the rim around  删除换行1 it, so as to facilitate proper device selection and placement. CASE苏锦恭
+
+====================================================================================================

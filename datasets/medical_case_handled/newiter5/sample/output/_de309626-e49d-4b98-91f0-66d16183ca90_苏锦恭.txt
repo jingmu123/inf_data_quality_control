@@ -1,0 +1,105 @@
+【0】删除1：<u>© The Author(s), under exclusive license to Springer Nature Switzerland AG 2023
+
+【1】H. Tohid et al. (eds.) The Misdiagnosis Casebook in Clinical Medicine 删除9：<u>https://doi.org/10.1007/978-3-031-28296-6\59</u></u>
+
+【2】59. Multiple Myeloma Misdiagnosed as Rheumatoid Arthritis
+=========================================================
+删除2：<u>Safeera Khan <sup><a>1 </a><span class="ContactIcon"></span></sup> and Junaid Hassan <sup><a>2</a></sup>
+
+【3】通用删除7(英):<u>(1)</u>
+
+【4】California Institute of Behavioral Neurosciences and Psychology, Fairfield, CA, USA
+
+【5】通用删除7(英):<u>(2)</u>
+
+【6】M. Islam Medical & Dental College, Gujranwala, Pakistan
+
+【7】</u>
+Keywords
+
+【8】Hematopoietic cancers Blood cancer Myeloma Multiple myeloma Plasmacytomas
+
+【9】Learning Objectives
+
+【10】By the end of this presentation, the clinician will be able to:
+
+【11】1.  1.
+    Discuss the importance of focusing on typical and atypical presentations of multiple myeloma and the pathophysiology.
+2.  2.
+    Discuss and highlight the importance of appropriate and timely steps in evaluating and diagnosing a patient with symptoms that may cause suspicion of multiple myeloma.
+3.  3.
+    Outline the importance of early diagnosis and the consequences of misdiagnosis leading to delayed treatment.
+
+【12】Introduction
+------------
+
+【13】Multiple myeloma (MM) is one of the hematopoietic cancers that account for approximately 10% of all hematologic malignancies 通用删除6(英):<u>\[ 1 \]</u>. The lifetime risk of MM in the United States is 1 in 132 (0.76%) and has a 30% 10-year survival rate in patients under 60 years of age 通用删除6(英):<u>\[ 2 , 3 \]</u>. Hematopoietic cancers (HCs) , more commonly called blood cancers , are the malignancies of the hematopoietic stem cells. They are commonly caused by or are associated with chromosomal abnormalities such as translocations 通用删除6(英):<u>\[ 4 , 5 \]</u>. Blood cancers affect both the structure and function of the blood cells because of changes in their precursor cells. Hematopoietic stem cells are the primitive cells or precursor cells that can develop into all types of bloodlines. These bloodlines can be the myeloid lineage or the lymphoid lineage. These hematopoietic stem cells can be found in peripheral blood, bone marrow, or umbilical cord.
+
+【14】Blood cancers are divided into three main groups, leukemias, lymphomas, and myelomas. Leukemias , also called liquid tumors , may start in bone marrows and be of either lymphoid or myeloid series. On the other hand, lymphoid cancers are solid tumors where a transformed lymphocyte can create a solid tumor. In myelomas, the transformed cells are fully differentiated plasma cells that may present as scattered or dispersed malignant cells or as a solid mass within the bone marrow. Plasma cells are white blood cells that produce antibodies (immunoglobulins) to help the body fight infection. Most of these are associated with gross chromosomal abnormalities 通用删除6(英):<u>\[ 4 \]</u>. As a result of these mutations, the abnormal plasma cells begin to divide uncontrollably and make several more plasma cells leading to either the precancerous condition called monoclonal gammopathy of undetermined significance (MGUS) or multiple cancerous myelomas. MGUS also may develop into multiple myeloma later. These myeloma cells can form tumors in bones called plasmacytomas; it may be a solitary plasmacytoma, several plasmacytomas, or multiple myeloma. If formed outside of the bones, they are called extramedullary plasmacytomas.
+
+【15】Common risk factors for multiple myeloma include a weakened immune system, a family history of multiple myeloma, and being overweight. Since plasma cells produce antibodies that help fight infection, the high build-up of abnormal plasma cells causes the production of abnormal antibodies, causing decreased ability to fight infection. Plasma cells also affect other cell lines and may cause a build-up of abnormal blood cells, affecting the functioning of other blood cells and causing symptoms like anemia, fatigue, etc. The increased number of myeloma cells can also distort the balance of certain minerals in the body leading to other symptoms. The myeloma cells can also lead to bone damage and high calcium levels in the blood because of their abnormal proteins called M-protein. These abnormal proteins can also affect other organs, such as the kidneys.
+
+【16】Multiple myeloma may or may not have the symptoms of the disease. Smoldering (indolent) multiple myeloma is when there are no symptoms. This is a transitioning stage between MGUS and the active multiple myeloma with symptoms. People with smoldering multiple myeloma have at least one of the following features: Plasma cells make up 10% or more of the blood cells in the bone marrow or the plasma M-protein level of 30 g/L or more 通用删除6(英):<u>\[ 5 \]</u>.
+
+【17】Active multiple myeloma or multiple myeloma with symptoms may have M-protein in the blood or urine. Plasma cells make up 10% or more of the blood cells in the bone marrow. A plasmacytoma in the bone or soft tissue. It may also present anemia, kidney failure, or high blood calcium (hypercalcemia). Osteolytic lesions made by abnormal plasma cells can also be seen on X-rays. Light-chain myeloma is another type of myeloma 通用删除6(英):<u>\[ 5 \]</u>.
+
+【18】Myeloma is diagnosed by physical examination, blood tests, urine tests, a bone marrow biopsy, X-rays, and other more specialized bone imaging tests. An atypical manifestation of the absence of M-protein with nonspecific symptoms may lead to the misdiagnosis. It could put an even greater challenge on the diagnosis and subsequently cause a delay in treatment.
+
+【19】A review conducted by Mayo Clinic revealed the most common presentations of multiple myeloma and the percentage of their presence. Anemia was found to be 73%, bone pain 58%, elevated creatinine (48%), fatigue (32%), hypercalcemia (28%), and weight loss (24%). The International Myeloma Working Group 2 suggested the acronym “ CRAB ” for hypercalcemia, renal insufficiency, anemia, and bone lesions to diagnose multiple myeloma. However, up to 20% of patients may have none of these “CRAB” features as their presenting symptoms. They may have atypical symptoms like hyperviscosity syndrome, amyloidosis, hemorrhage, coagulopathy, etc. In such patients, diagnostic challenges may lead to misdiagnosis and potentially serious consequences because of malaligned management plans 通用删除6(英):<u>\[ 6 \]</u>. Bone pain, the commonest symptom involving the smaller joints, can mimic rheumatoid arthritis. Therefore, diagnosing the condition early will help start the treatment early and prevent serious outcomes of the disease.
+
+【20】Clinical Case Presentation
+--------------------------
+
+【21】A 58-year-old male presented to his physician with arthralgia of the hands, wrists, and elbow. His symptoms started 6 months ago and have gradually worsened since then. He had difficulty making fists and had swelling of his hands and wrists. He also had morning stiffness lasting more than 30 min. He had no history of fevers, chills, weight loss, decreased appetite, or night sweats. Systemic examination was negative for alopecia, dry eyes, mouth sores, and skin rash. The patient had no travel history, history of tick bites, or sick contacts. He was a nonsmoker with occasional consumption of alcohol . The patient was diagnosed previously with osteoarthritis as well. He also had a surgical history of bilateral shoulder replacement for severe osteoarthritis, right-sided carpal tunnel repair, and laminectomy of the cervical and lumbar spine. There was no lymphadenopathy, and no bruises were observed. The musculoskeletal exam showed bilaterally swollen, warm, and tender wrists with synovitis of the second to fifth metacarpophalangeal and proximal interphalangeal regions. He also had 30-degree fixed contractures of the elbow. No signs of psoriasis or nail changes were observed.
+
+【22】On lab investigations, white blood cells were found to be 12,000/mm; hemoglobin was 9.7 g/dl, and hematocrit was 30.9%. His C-reactive protein (CRP) was 40 mg per liter (reference = less than 8), and erythrocyte sedimentation rate (ESR) was 50 mm per hour (reference range = 0–15). His liver function tests, calcium, thyroid functions, uric acid, renal function, and urinalysis were normal as well, along with normal levels of the antinuclear antibody (ANA) , rheumatoid factor (RF) , anti-cyclic citrullinated peptide (anti-CCP) antibodies , and angiotensin-converting enzyme , hepatitis B panel , and hepatitis C antibody level.
+
+【23】The patient was previously treated with analgesics by his physician and was also seen by a rheumatologist. He was initially treated with prednisone 20 mg/day and methotrexate and then 20 mg/week for 3 months with no response. He was then started on antitumor necrosis factor inhibitors. During his follow-up visit after 6 months, he showed the same symptoms. Alternate TNF inhibitors were started with no improvement as well. X-rays of the joints were done, which showed mild degenerative changes only. An MRI of the right hand was done, which showed synovial thickening of radiocarpal joint and MCP joints with flexor tendon tenosynovitis consistent with inflammatory arthropathy. He also revealed a family history of primary amyloidosis in his mother.
+
+【24】Since his serum calcium, uric acid, and creatinine remained normal during RA treatment, protein electrophoresis (SPEP) and urine protein electrophoresis were sent. The serum protein electrophoresis (SPEP) was positive for M-band. The patient was referred to a hematologist for further evaluation and underwent a bone marrow biopsy. His biopsy showed more than 40% plasma cells, which were Congo red stain negative. These findings were consistent with MM. FISH analysis was positive for monosomy 13 in 88% of the cells. Ultimately a diagnosis of multiple myeloma was made, and he was then started on bortezomib and dexamethasone. A 6-month follow-up showed complete resolution of joint swelling; there was a significant improvement in pain in the hands, wrists, and elbows. His MM remained controlled with chemotherapy, and a bone marrow transplant was not needed 通用删除6(英):<u>\[ 7 \]</u>.
+
+【25】Differential Diagnosis
+----------------------
+
+【26】Multiple myeloma is commonly misdiagnosed with other conditions before reaching the final diagnosis. These conditions include:
+
+【27】1.  1.
+    Arthritis : Arthritis can be of different types, and almost all types present with joint pain, stiffness, swelling, and decreased range of motion. Since multiple myeloma also causes similar symptoms and may cause back pain and stiffness, it can easily be misdiagnosed as arthritis.
+2.  2.
+    Back injury : Any injury to the back may cause localized back pain and stiffness confusing it with multiple myeloma.
+3.  3.
+    Pneumonia : Multiple myeloma may present with fever, frequent infections, backache, and bone pain, including in the chest which may mimic pneumonia. Therefore, a careful history and thorough exam are needed.
+4.  4.
+    Kidney disease : Kidney damage can result from multiple myeloma because of M-protein . However, kidney damage caused by other medical conditions may present similar conditions to multiple myeloma-related kidney damage, like fatigue, lack of appetite, and painful, swollen feet. Frequent urination may distinguish between kidney damage due to chronic kidney disease and multiple myeloma-related kidney injuries.
+5.  5.
+    Amyloidosis : Amyloidosis is the accumulation of amyloid in different body tissues like skin, heart, nerves, etc. Amyloid of various types, “light-chain immunoglobulins,” is one of the types and is associated with the disease “light-chain amyloidosis.” This amyloidosis is called “primary amyloidosis.” This is similar to multiple myeloma, where light-chain immunoglobulins are produced and can easily misdiagnose the condition.
+6.  6.
+    Lyme disease : Lyme disease is a vector-borne disease transmitted by a tick bite and may present with symptoms like fever, joint pains, rash, numbness of hands and feet, fatigue, and headache. Multiple myeloma can present with these symptoms and, therefore, can easily be mistaken for Lyme disease; therefore, a careful history of tick bites should be asked to rule it out.
+7.  7.
+    Monoclonal gammopathy of undetermined significance (MGUS) : Monoclonal gammopathy of undetermined significance is asymptomatic but has the monoclonal protein in the blood, which may cause a misdiagnosis. It doesn’t affect the well-being of the patient.
+8.  8.
+    Waldenstrom macroglobulinemia : This is the malignancy of B-cell lymphocytes producing a monoclonal immunoglobulin. These B-lymphocytes replace the normal bone marrow cells and affect their normal functioning causing anemia and other blood cell deficiency. The large monoclonal IgM monoclonal protein is called macroglobulin. This antibody makes it very similar to multiple myeloma.
+9.  9.
+    Solitary plasmacytoma : A discrete, solitary mass of plasma cells produces antibodies and may occur in different places or organs. If present in bone, it is called solitary bone plasmacytoma and may present with bone pain or fractures like multiple myeloma. It needs regular follow-up as it may progress to multiple myeloma over the years.
+10.  10.
+    POEMS syndrome: POEMS syndrome is a paraneoplastic syndrome and an uncommon marrow disorder. It occurs because of the body’s immune response to cancer, like glomeruloid hemangiomas. It is called POEMS syndrome because of its characteristics, signs, and symptoms: peripheral neuropathy, organ enlargement, endocrine gland dysfunction, monoclonal plasma cell tumors, monoclonal immunoglobulin, and skin changes. Peripheral neuropathy and bone alterations are the reasons for misdiagnosing multiple myeloma as POEMS syndrome. The bone alterations are, however, different from the classic bone changes in multiple myeloma.
+11.  11.
+    Metastatic carcinoma : Any other carcinomas, if metastasized to bones, cause weakened bones and bone pain. If not thoroughly investigated, symptoms may misdiagnose multiple myeloma and miss the primary tumor.
+
+【28】What Was Misdiagnosed in the Case and Why?
+------------------------------------------
+
+【29】The patient presented with symptoms common to rheumatic diseases , like rheumatoid arthritis, and had a history of osteoporosis. He also had contractures of his elbow joint, which misled the physicians that the disease was rheumatological. Another factor leading to misdiagnosis was an overreliance on previously normal findings and a narrow diagnostic focus. However, protein electrophoresis and urine protein electrophoresis were ultimately sent, leading to the diagnosis.
+
+【30】Discussion
+----------
+
+【31】Plasmacytomas form in the bones and lead to bone pain and other symptoms common to several rheumatological diseases . At times, the symptoms are so similar to common rheumatological conditions that an early diagnosis of those diseases is made, and treatment for them is started. However, this prevents the physicians from considering an alternative diagnosis and conducting further tests. A review focusing on such presentations showed that hands and wrists were the most commonly involved joints in patients of MM that mimics rheumatoid arthritis. However, most of these patients had negative rheumatoid factor (RF). This case shows an atypical presentation of MM that mimicked rheumatoid arthritis and consequently misled the physicians into diagnosing it as rheumatoid arthritis and treating it as that. This misdiagnosis caused a delay in diagnosing a cancerous condition, a life-threatening malignancy, and hence delay in its treatment. This highlights an important point of reconsidering and re-evaluating the initial diagnosis of rheumatoid arthritis if the patient is not responding to the treatment 通用删除6(英):<u>\[ 7 \]</u>.
+
+【32】Many patients do not have the well-known risk factors for multiple myeloma. One of these risk factors includes old age, as most individuals diagnosed with the condition are in their 60s. However, some patients present with these symptoms at an early age and therefore need a proper evaluation if present with these symptoms. Family history is another important risk factor of the condition that can be picked up early and prompt early investigation, as the ones having a sibling, parent, or a close relative with multiple myeloma are at increased risk of developing the disease in their lifetime. Males are more commonly diagnosed with multiple myeloma than females, but this gender-based difference is not that stark. Racial differences also tend to play a role in increasing the risk of developing the disease. African Americans are more likely to develop multiple myeloma than Asian Americans. Patients with monoclonal gammopathy of undetermined significance (MGUS) with more monoclonal protein in the bone marrow and blood are at higher risk.
+
+【33】Shem et al. studied four patients with hematological malignancies mimicking rheumatoid arthritis or other rheumatic conditions. These patients between the ages of 20 years and 62 years presented with rheumatic syndromes and were later diagnosed with hematological malignancies. Two of them were diagnosed with polyarthritis. One of these cases was diagnosed with multiple myeloma and amyloidosis; the other was diagnosed with angioimmunoblastic T-cell lymphoma. The third patient was initially diagnosed with migratory arthritis and then eventually with acute myeloid leukemia. The fourth patient was diagnosed with giant cell arteritis and eventually with anaplastic large cell T-lymphoma. All these patients responded well to corticosteroids given for their initial diagnosis. These cases highlight the importance of considering an alternate diagnosis in the presence of atypical symptoms, even if the corticosteroids show a good response. This may be a major diagnostic pitfall giving a false perception of a correct diagnosis, hence delaying the actual diagnosis 通用删除6(英):<u>\[ 8 \]</u>.
+
+【34】Although an overall 5-year survival rate is 54% after the cancer diagnosis, 5% of the multiple myeloma cases diagnosed early have a higher survival rate. Seventy-five percent are alive after 5 years of diagnosis. However, around 95% of the cases are diagnosed at a later stage when cancer has already spread, which reduces the 5-year survival rate from 75% to 53% 通用删除6(英):<u>\[ 9 \]</u>. Misdiagnosis can delay the diagnosis and increase the mortality rate significantly, highlighting the importance of vigilant investigation and working up these symptoms.苏锦恭
+
+====================================================================================================

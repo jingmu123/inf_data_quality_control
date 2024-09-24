@@ -1,0 +1,64 @@
+【0】Question: 34.1 A male patient who is sexually active and HIV positive has 2 current partners and is refusing to disclose any information about his HIV status to them. Which of the following would not be an acceptable justification for the physician to breach physician–patient confidentiality?
+
+【1】A. The patient has more than 1 sexual partner.
+
+【2】B. Breaching confidentiality is done to protect a known person from significant harm.
+
+【3】C. The patient is not competent—as measured by guidelines—to decide about disclosure.
+
+【4】D. The physician has exhausted all possible options in working with the patient to reduce risk of infection to other known persons.
+
+【5】Answer: 34.1 A. There are certain exceptions to the general principle of patient confidentiality that may justify informing sexual partners about their risk against the patient’s wishes. If the physician fails to convince the patient of the importance of notifying sexual partners of their risk, and of acting to minimize risk of transmission to partners, then a breach to confidentiality may be considered when the harm to others is significant, or if a patient is clinically judged to be incompetent in making medical decisions. The number of partners is not relevant as a sole determinant for breech in confidentiality.
+
+【6】Question: 34.2 In outreach programs that aim to screen large populations for HIV infection, which of the following actions or services should be considered?
+
+【7】A. Distributing condoms to all participants.
+
+【8】B. Disclosing information to partners and families of persons who are HIV positive.
+
+【9】C. Pre- and post-test counseling services.
+
+【10】D. Providing Enzyme Linked Immunosorbent Assay (ELISA) tests and other confirmatory tests on-site.
+
+【11】Answer: 34.2 C. In settings in which screening of many individuals is simultaneously performed, there are important considerations to ensure that adequate care is given to all patients. In areas with limited access to health care resources, pre and post-test counseling are vital in assisting patients in their decisions to be tested, as well as to follow-up on the test result. Confirmatory testing, distributing medications, and ancillary services are provided by secondary or tertiary health care centers.
+
+【12】Question: 34.3 A medical student is asked to scrub in on a caesarian delivery where the patient is known to be HIV positive. The student is reluctant to scrub in. What ethical principle is best demonstrated by this case?
+
+【13】A. Confidentiality
+
+【14】B. Duty to treat
+
+【15】C. Respect
+
+【16】D. Duty to warn
+
+【17】Answer: 34.3 B. The student’s reluctance to scrub in may be due to several factors, including personal prejudices or misconceptions. The student should recall that, first and foremost, as a physician she has a duty to treat all patients. The other principles are also applicable as the student should respect all patients and keep their information confidential.
+
+【18】Question: 34.4 A third-year medical student is completing a research elective in Haiti. As part of her studies, she is assisting a team that is investigating the prevalence of HIV in the community. She has intermediate French language skills. One afternoon, due to shortage of team personnel she is assigned the task of reporting laboratory test results, including the HIV rapid test results to the patients. She has not had any experience or training in reporting HIV results, and she is not aware of any pretest counseling or follow-up services. The manager of the team gives her a list of patients to call. How should the student respond?
+
+【19】A. Do some research on the Internet regarding how to give this news and follow the published protocol.
+
+【20】B. Discuss her concerns with her senior or supervisor at the medical camp.
+
+【21】C. Use a mobile phone application to translate for her.
+
+【22】D. Proceed to counsel the patients because they will require only a fifth-grade level of language.
+Answer: 34.4 B. The student is not familiar with breaking bad news in this cultural context and should avoid the task of reporting to patients. She should discuss her concerns with her senior or supervisor at the medical camp. There are major ethical issues. Because one of the student’s goals is to assist with a research project that involves reporting on the prevalence of HIV infection, she may experience a conflict of interest to assist in the disclosure of results. For example, she may wish to impress her team to garner a good evaluation or to contribute substantially to the research in order to be a named author in a study publication. This setting for disclosing HIV rapid test results is different from and would not likely be appropriate at her home institution. Her actions should be driven by shared ethical principles, including equity, justice, and nonmaleficence, especially given that no pre- or post-test counseling and follow-up services are noted.
+
+【23】KEY POINTS
+
+【24】 HIV is a reportable public health infection in the United States, with varying reporting requirements by state.
+
+【25】 When balancing the duty to warn versus maintaining patient confidentiality, the key guiding ethical principles are beneficence, justice, social responsibility, and autonomy.
+
+【26】 Breach of confidentiality in cases of duty-to-warn should only be considered when 通用删除7(英):<u>(1)</u> attempts to reason with the patient have failed, 通用删除7(英):<u>(2)</u> identifiable high-risk contacts are noted, and 通用删除7(英):<u>(3)</u> the patient has been informed of the intention to disclose this information.
+
+【27】 A physician’s willingness to treat patients positive for HIV infection should be explored with attention to the attitudinal barriers and misconceptions about perceived risk that may influence decision-making.
+
+【28】 Physicians have an ethical responsibility to treat all patients without prejudice, with nonmaleficence, and with justice.
+
+【29】 In international settings with limited resources and a high prevalence of HIV infection, there is a need for pre- and post-test counseling, education about follow-up services, and attention to patient confidentiality and autonomy in informed consent for testing and in disclosure of HIV status.
+
+【30】 From a global perspective, some differences in ethical frameworks may exist, especially regarding the principles of autonomy and social responsibility.焦瀚远
+
+====================================================================================================

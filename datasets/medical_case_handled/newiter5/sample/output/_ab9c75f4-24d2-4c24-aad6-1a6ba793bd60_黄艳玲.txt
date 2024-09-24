@@ -1,0 +1,58 @@
+【0】Question: 35.1 A 49-year-old woman is noted to have right-sided facial weakness of acute onset. What is the most common cause of this patient’s condition?
+
+【1】A. Lyme disease
+
+【2】B. Varicella zoster reactivation
+
+【3】C. Acoustic neuroma
+
+【4】D. Herpes simplex virus reactivation
+
+【5】E. Noncaseating granulomas
+
+【6】Answer: 35.1 D . By far the most common cause of acute facial weakness in an adult is Bell palsy. This disorder is caused by reactivation of herpes simplex virus. However, this is a diagnosis of exclusion as no accurate serologic tests have been discovered that confirm the diagnosis.
+
+【7】Question: 35.2 What is the key indicator of Ramsay Hunt syndrome?
+
+【8】A. Vesicles on an erythematous base found in the external ear
+
+【9】B. Noncaseating granulomas on lower lip biopsy
+
+【10】C. Circulating antibodies to Borrelia burgdorferi
+
+【11】D. Uveitis and parotid gland swelling
+
+【12】E. Loss of taste on the ipsilateral tongue
+
+【13】Answer: 35.2 A . The pathognomonic feature of herpes zoster oticus (Ramsay Hunt syndrome) is a vesicular eruption on an erythematous base in an area of facial nerve sensory distribution (external ear). This disorder is caused by reactivation of varicella-zoster virus and is treated with antiviral medications and steroids. Inadequately treated zoster infections can lead to poor recovery of facial function and postherpetic neuralgia.
+
+【14】Question: 35.3 A 69-year-old man complains of right facial weakness. A close examination of his facial movements indicates loss of the nasolabial fold and inability to raise the upper lip on that side. His blink, forehead, and lower lip movement are normal. What is the most likely cause of his facial paralysis?
+
+【15】A. Bell palsy
+
+【16】B. Herpes zoster oticus
+
+【17】C. Malignant parotid gland tumor
+
+【18】D. Acoustic neuroma
+
+【19】E. Lyme disease
+Answer: 35.3 C . Incomplete facial nerve palsy or involvement of an isolated facial nerve branch(s) is caused by malignancy until proven otherwise. Bell palsy, herpes zoster oticus, and Lyme disease affect the entire nerve. Acoustic neuromas can cause facial paralysis when they are very large, but this is very rarely seen in the modern area. Their location in the cerebellopontine angle would produce whole face weakness, and not an isolated branch weakness as described.
+
+【20】CLINICAL PEARLS
+
+【21】 Bell palsy is the most common cause of acute, unilateral facial weakness in adults.
+
+【22】 The diagnosis of Bell palsy is a diagnosis of exclusion.
+
+【23】 Facial paralysis with vesicles on an area of facial nerve sensation is pathognomonic for herpes zoster oticus (Ramsay Hunt syndrome).
+
+【24】 An isolated facial nerve branch weakness is a sign of malignant tumor involving the facial nerve until proven otherwise.
+
+【25】 Patients with facial paralysis or paresis should be given instructions regarding eye care and moisturization to avoid exposure keratopathy.
+
+【26】 Steroid and antiviral medications should be given to patients with either Bell palsy or Ramsay Hunt syndrome.
+
+【27】#黄艳玲
+
+====================================================================================================

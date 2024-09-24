@@ -1,0 +1,48 @@
+【0】9.1 Low-volume ventilation is needed for a septic patient with ARDS and severe hypoxia on 90% Fio. The chest x-ray shows bilateral infiltrates with a nor-mal heart size， a typical x-ray presentation ARDS. The patient weighs 80 kg. What is the correct amount of tidal volume to begin with for this patient on a mechanical ventilator?
+
+【1】A. 750 mL tidal volume
+
+【2】B.4 480 mL tidal volume
+
+【3】C.300 mL tidal volume
+
+【4】D.删除39：<u> 。</u>550 mL tidal volume
+
+【5】E.250 mL tidal volume
+
+【6】9.2 You are called to evaluate a mechanically ventilated patient for new onset hypo-tension. The patient has a blood pressure of 100/60 mm Hg， with a 20 mm Hg of pulsus paradoxicus and increased JVD at 45 degree of HOB elevation. The patient has wheezing throughout both lungs and is breathing at 35 times/minute on mechanical ventilator settings of SIMV 20 breaths/minute， V of 800 mL， PS of 10 mm Hg， a PEEP of 10 mm Hg， and Fio， of 40%. ABG results on these setting are pH 7.36， PAco， 45mm Hg， PAo， 77 mm Hg. Which of the following would you advise to do next to relieve the hypotension?
+
+【7】A.IDecrease the PEEP and auto PEEP by decreasing rate and tidal volume.
+
+【8】B.Start vasopressors to reverse hypotensive effect of PEEP.
+
+【9】C.IIncrease PEEP to improve hemodynamics
+
+【10】D.删除38：<u>(</u>Change to assist control mode and keep PEEP the same.
+E. Do not make any changes.
+
+【11】ANSWERS TO QUESTIONS
+
+【12】9.1 B. Previously， it was thought that tidal volumes (V ) of 10 to 15 mL/kg were required to prevent atelectasis during MV； however， these higher volumes are no longer used. The Surviving Sepsis Guidelines recommend a strategy of low-volume ventilation using a V of6 to 8 mL/kg with a plateau pressure <30 mmHg H，O. This method is referred to as low-volume ventilation and is very effective in supporting patients with sepsis and ARDS. The best initial V is approximately480 mL using 6 mL/kg. The arterial pH should be kept at 7.20 or higher. Bicar-bonate treatment should only be considered when the pH is below 7.20. This low-volume ventilation method is effective in preventing and treating ARDS. Sedation will be needed for patient comfort with this method.
+
+【13】9.2 A. Increased PEEP or auto PEEP increases the intrathoracic pressure (ITP)， and decreases venous return to the heart. This reduces right ventricular filling and can decrease cardiac output， leading to hypotension. Attempts should be made to increase expiratory time to decrease auto PEEP. With severe hypoten-sion due to auto PEEP， disconnecting the patient from the MV and allowing a long expiration will generally correct the hypotension. Lowering the auto PEEP levels can be achieved by decreasing the respiratory rate， decreasing the tidal volume， and increasing the expiratory time. Giving IV fluids and expand ing the intravascular space helps reverse the decreased preload and assists in restoring the blood pressure by restoring intravascular and right ventricular fill-ing volume.
+
+【14】CLINICAL PEARLS
+
+【15】Low-volume ventilation is important in patients with ARDS to prevent alveolar barotrauma.
+
+【16】PPressure support ventilation (PSV) helps reduce the need for sedation.
+
+【17】Acid suppression with proton-pump inhibitors or histamine-2 (H，) block-ers heightens the risk for resistant bacterial pneumonia in hospitalized patients， PPI more than H， blockers.
+
+【18】PPSV increases patient comfort and resistance to spontaneous respiration by patient.
+
+【19】Avoid neuromuscular blockade since this is associated with long-term neurological defects.
+
+【20】Do not change the plastic circuitry of MV unless needed. Unnecessary changing of tubing increases the rate of infection.
+
+【21】The use of artificial noses for humidification in MV circuitry reduces the risk of waterborne respiratory infections compared with the use of inline humidifiers.
+
+【22】Volumetric diffusive percussive respiration (VDR) enables clearance of copious secretions resulting from smoke inhalation and patients with cystic fibrosis.焦瀚远
+
+====================================================================================================

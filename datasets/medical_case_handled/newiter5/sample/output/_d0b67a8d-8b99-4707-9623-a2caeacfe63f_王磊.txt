@@ -1,0 +1,65 @@
+【0】删除1：<u>© The Author(s), under exclusive license to Springer Nature Switzerland AG 2022
+
+【1】F. Arcangeli, T. M. Lotti (eds.) Clinical Cases in Neonatal and Infant Dermatology Clinical Cases in Dermatology 删除9：<u>https://doi.org/10.1007/978-3-030-91523-0\2</u></u>
+
+【2】2. A 1-Year-Old Boy with Multiple Papules
+=========================================
+删除2：<u>Ya-xiang Li通用删除4(英):<u> <sup><a>1 </a></sup></u> , Long-fei Zhu通用删除4(英):<u> <sup><a>1 </a></sup></u> and Songmei Geng <sup><a>1</a><span class="ContactIcon"></span></sup>
+
+【3】通用删除7(英):<u>(1)</u>
+
+【4】Department of Dermatology, The Second Affiliated Hospital of Xi’an Jiaotong University, Xi’an, China
+
+【5】</u>
+Keywords
+
+【6】Multiple papules Benign cephalic histiocytosis Self-healing
+
+【7】A 1-year-old boy presented dome-shaped papules on his face with size about 2–3 mm in diameter. The lesions were first seen 3 months earlier which grew slowly 删除33：<u></u>.
+
+【8】删除3：<u>Fig. 2.1
+
+【9】A 1-year-old boy with dome-shaped papules on his face</u>
+
+【10】Based on the Case Description and the Photographs, What Is Your Diagnosis?
+--------------------------------------------------------------------------
+
+【11】1.  1.
+    Langerhans cell histiocytosis
+2.  2.
+    Benign cephalic histiocytosis
+3.  3.
+    Juvenile xanthogranuloma
+4.  4.
+    Molluscum contagiosum
+
+【12】Physical examination and routine laboratory work-up didn’t provide the evidence of internal organs involved. His parents had no records of similar family history including allergy. A biopsy of the fully developed skin lesion showed the infiltration of predominantly histiocytic cells mixed with lymphocytes in the superficial to midreticular dermis. Most of the histiocytes were well-defined without mitosis that had pale cytoplasm and bland round to oval nuclei. The area of the papule also could be observed mild focal vacuolar degeneration at the dermoepidermal junction and a slightly spongiotic epidermis.
+
+【13】Diagnosis
+---------
+
+【14】Benign cephalic histiocytosis
+
+【15】Discussion
+----------
+
+【16】Belonging to the family of non-Langerhans cell histiocytosis, Benign cephalic histiocytosis (BCH) is an orphan disease that mainly affects infants or children 通用删除6(英):<u>\[ 1 \]</u>. In 2014 Aikaterini Patsatsi et al. had reviewed 55 cases in Europe since the first case of BCH was reported in 1971 通用删除6(英):<u>\[ 2 \]</u>. Owing to its low incidence, the pathophysiology and etiology may still require further clarification.
+
+【17】The classical manifestations of BCH are asymptomatic macules and papules with size less than 1 cm in diameter usually restricted on head and neck, occasionally trunk or other parts of the body are involved 通用删除6(英):<u>\[ 3 \]</u>. Still, some reports described the extremities as the sole location of the BCH 通用删除6(英):<u>\[ 4 \]</u>. The color of the round or oval lesions may range from tan to reddish yellow. The lesions may regress without any treatment. Normally, BCH don’t leave scar or hyperpigmentation.
+
+【18】Biopsy is a necessity to diagnose BCH. The lesions are abundant in well-defined histiocytic cells with low rates of mitosis from superficial to midreticular dermis. The nuclei of the cells are bland round to oval in shape, while the cytoplasm are vacuolated. Mixed inflammatory cells including lymphocytes and scattered eosinophils can be found as well. In most cases, the immunohistochemistry staining for CD 68 and factor XIIIa are positive, whereas CD1a and CD207 (langerin) that commonly used as the Langerhans cell markers are negative. Ultrastructural studies conducted by electron microscopy may find desmosome-like structures, coated vesicles, and comma-shaped bodies which may be characteristic of BCH. Immunohistochemistry and electron microscopy contribute more clues to diagnose BCH accurately.
+
+【19】Langerhans cell histiocytosis (LCH) is the most common histiocytic disorder that mainly affects mononuclear phagocyte system. This disease has the ability to influence any organ system which shows higher affinity in skeleton, skin, spleen, liver, and lung. The skin lesions of LCH also present varied manifestations, while a vast majority are seborrheic eczema. Biopsy shows the infiltration of numerous neoplastic cells with a coffee-bean nuclear grove and pale cytoplasm which are positive for CD207 (langerin) and CD1a in epidermis and dermis. When visualized by electron microscopy, rod-shaped inclusions with pentalaminar cytoplasm (Birbeck granules) are helpful to distinguish LCH 通用删除6(英):<u>\[ 5 \]</u>.
+
+【20】Compared with BCH, juvenile xanthogranuloma (JXG) has a much higher incidence in the spectrum of non-Langerhans cell histiocytosis. Patients who suffered from JXG are usually infants (40–70%) and children. However, adults whose ages range from 20 to 30 may also have JXG without spontaneous regression. BCH and JXG share many similarities in clinical and histological features. Thus, there are points that BCH may be a variant of JXG. Nevertheless, the traits followed can be helpful to distinguish between BCH and JXG. For instance, JXG is not confined to neck and face and can appear over the entire body. In biopsy specimens, markedly xanthomized cells, ample eosinophils, and Touton-type giant cells may be clues to diagnose JXG rather than BCH. Of note, JXG can have extracutaneous involvement, particularly eye manifestations 通用删除6(英):<u>\[ 6 \]</u>.
+
+【21】Molluscum contagiosum has been considered as the only member of the Molluscipoxvirus genus in the family Poxviridae that mainly affects children. Patients’ trunks, faces, and other anatomic sites except mucous membranes may present skin-colored to tan papules with the average diameters of 2–5 mm. The cheesy material can come out of the umbilicated top when squeezed. These lesions are usually transmitted by skin contact including scratch. Histologically, the typical results always show a crater-like inverted lobules with large, eosinophilic, intracytoplasmic inclusion bodies (molluscum bodies) and keratin fragments in prickle cell layer of the epidermis 通用删除6(英):<u>\[ 7 \]</u>.
+
+【22】According to patient’s clinical features and biopsy results, the diagnosis of Benign cephalic histiocytosis was made. Due to the self-healing trait of BCH, we suggested the patient should be followed up without any treatment. Subsequently, his lesions spontaneously regressed after 3 months. In 2 years follow-up, there was no recurrence of similar lesions.
+
+【23】Key Points
+
+【24】   Benign cephalic histiocytosis is a rare non-Langerhans histiocytosis characterized by asymptomatic macules and papules restricted on head and neck.
+   BCH has trait of self-healing and should be followed up.王磊
+
+====================================================================================================

@@ -1,0 +1,92 @@
+【0】Case Files™ Neurology, Second Edition    
+
+【1】### CASE 52
+
+【2】A 43-year-old right-handed woman presents to the office with hearing loss, facial paralysis, and headache. Her history began 1 month ago with a sudden decrease in hearing from her right ear. One week prior to this visit, she began to notice weakness of the right face, which has now progressed to complete paralysis. Over the last 3 months she has had intermittent right occipital headache, and clumsiness and imbalance if she turns quickly. She denies any change in her voice or difficulty with swallowing or swallowing difficulty. Her past medical history is unremarkable. She is not on any medications except birth control pills. Her physical examination shows a 43-year-old woman that has an obvious right facial paralysis. Her pulse is 62 beats/min; blood pressure, 118/62 mmHg; and temperature, 36.7°C (98.6°F). The head and face have no lesions. Her voice is normal, but her speech is slightly distorted because of the facial paralysis. Her extraocular movements are normal. Her eye grounds do not show any papilledema. Her ears have normal tympanic membranes. The Weber tuning fork lateralizes to the left ear. Air conduction is louder than bone conduction in both ears. There is no neck lymphadenopathy or other masses. There are no cerebellar signs. The remaining physical examination, including the neurologic examination, is normal. An audiogram shows a mild sensorineural hearing loss in the right ear; the left ear has normal hearing. An auditory brainstem response (ABR) is abnormal for the right ear; it is normal for the left ear.
+
+【3】 What is the most likely neuroanatomic etiology and diagnosis?
+
+【4】 What is the next diagnostic step?
+
+【5】### ANSWERS TO CASE 52: Meningioma of the Acoustic Nerve
+
+【6】Summary : A 43-year-old woman has a history of headache, hearing loss, and facial paralysis.
+
+【7】• Neuroanatomic etiology and diagnosis : Cerebellopontine angle tumor, with the most common tumors being acoustic neuroma and meningioma
+
+【8】• Next diagnostic step : MRI with gadolinium
+
+【9】#### ANALYSIS
+
+【10】##### Objectives
+
+【11】1\. Learn the most common tumors that occur in the cerebellopontine angle.
+
+【12】2\. Learn the most common imaging features of these tumors.
+
+【13】3\. Learn the available treatment options for these tumors.
+
+【14】##### Considerations
+
+【15】This 43-year-old woman has symptoms of hearing loss, facial paralysis, and headache. She also has symptoms of imbalance and disequilibrium. The most common cause of facial nerve paralysis is Bell palsy; however, this patient also has hearing loss, balance issues, and headache, which point to a central rather than peripheral disorder. Patients that present with the combination of hearing loss and facial paralysis demand evaluation by diagnostic imaging . This patient’s symptoms strongly suggest an abnormality in the cerebellopontine angle. Modern imaging techniques have revolutionized the evaluation of this area. MRI with contrast can readily differentiate the various pathologic processes that occur in this area .
+删除4：<u>Table 52–1 • MRI CHARACTERISTICS OF COMMON PATHOLOGY IN THE CEREBELLOPONTINE ANGLE</u>
+
+【16】### APPROACH TO: Cerebellopontine Angle Tumors
+
+【17】#### DEFINITIONS
+
+【18】ACOUSTIC NEUROMA : A benign tumor that rises from Schwann cells on the vestibular nerve also called vestibular schwannoma. This is the most common tumor found in the cerebellopontine angle.
+
+【19】AUDITORY BRAINSTEM RESPONSE (ABR) : An electrically evoked hearing test. In this test, electrodes are placed on each earlobe and on the forehead. A stimulus sound (either a click or tone burst) is delivered into the test ear at a specified loudness; an attached computer captures the electrical brain activity that results from this stimulus and filters out background noise.
+
+【20】BELL PALSY : Idiopathic facial weakness.
+
+【21】CEREBELLOPONTINE ANGLE : The anatomic space between the cerebellum, pons, and temporal bone. This space contains cranial nerves V through XI.
+
+【22】CONDUCTIVE HEARING LOSS : A form of hearing loss that results from a defect in the sound collecting mechanism of the ear. These structures include the ear canal, tympanic membrane, middle ear, and the ossicles.
+
+【23】EPIDERMOID TUMOR : A benign tumor composed of squamous epithelial elements thought to arise from congenital rests.
+
+【24】GLOMUS TUMOR : The common name for paraganglioma. This highly vascular tumor arises from neuroepithelial cells. These tumors are further named by the structures that they arise from: glomus tympanicum (middle ear), glomus jugulare (jugular vein), glomus vagale (vagus nerve), and carotid body tumor (carotid artery). A rule of 10% is associated with this tumor: approximately 10% of these tumors produce a catecholamine-like substance, approximately 10% of these tumors are bilateral, approximately 10% are familial, and approximately 10% are malignant (ie, potential to metastasize).
+
+【25】MENINGIOMA : Common benign extra-axial tumors of the coverings of the brain. The cell of origin is probably from arachnoid villi. Several histologic subtypes are described: syncytial, transitional, fibroblastic, angioblastic, and malignant.
+
+【26】SENSORINEURAL HEARING LOSS : A form of hearing loss that results from an abnormality in the cochlea or auditory nerve.
+
+【27】#### CLINICAL APPROACH
+
+【28】##### Meningiomas
+
+【29】Meningiomas are usually benign tumors, of mesodermic origin, attached to the dura. They commonly are located along the sagittal sinus, over the cerebral convexities, and in the cerebellar-pontine angle. Grossly, they are gray, sharply demarcated, and firm. Microscopically, the cells are uniform with round or elongated nuclei, and a characteristic tendency to whorl around each other. Meningiomas tend to affect women more than men in the middle age. The typical clinical presentation is the slow onset of a neurologic deficit or a focal seizure; an unexpected finding on a brain imaging is also a common presentation. MRI usually reveals a dural-based mass with dense homogeneous contrast enhancement. Surgical therapy is optimal, and complete resection is curative. For lesions not amenable to surgery, local or stereotactic radiotherapy can ameliorate symptoms. Small asymptomatic lesions in older patients can be observed. Rarely, meningiomas can be more aggressive and have malignant potential; these tumors tend to have higher mitosis and cellular and nuclear atypia. Surgical therapy followed by radiotherapy should be used in these instances.
+
+【30】### APPROACH TO: Facial Paralysis
+
+【31】Facial paralysis is a relatively common disorder. In its most common presentation, facial paralysis occurs as a sudden sporadic cranial mononeuropathy. It is not associated with hearing loss; rather, it might be associated with hyperacusis. This form of facial paralysis, also called Bell palsy, is not associated with middle ear disease, parotid tumor, Lyme disease, or any other known cause of facial paralysis. Essentially, Bell palsy is a diagnosis of exclusion. Generally, a pointed history and detailed physical examination will eliminate most of the differential diagnosis. Likewise, the various causes of hearing loss can be eliminated by a careful physical examination. Disease processes, such as otitis media, cholesteatoma, and otosclerosis, can be eliminated by careful history and physical examination with tuning fork tests. However, to know the type and degree of hearing loss, an audiogram is necessary.
+
+【32】Although it requires patient cooperation, the audiogram will give the clinician a very accurate measure of the patient’s hearing level. The audiogram can distinguish between sensorineural and conductive hearing loss. Occasionally, patients have mixed hearing loss, or a combination of conductive and sensorineural losses in a single ear. Furthermore, the audiogram can give a clue regarding the presence of retrocochlear hearing loss or hearing loss caused by diseases proximal to the cochlea. Tests that might indicate retrocochlear pathology include speech discrimination, acoustic reflexes, and reflex decay.
+
+【33】#### DIAGNOSIS
+
+【34】Sensorineural hearing loss can be further evaluated by auditory brainstem response (ABR) . This test measures the electrical activity within the auditory pathway; and as such, this test helps to evaluate retrocochlear causes of hearing loss. The ABR has five waves that are numbered I through V, and these are correlated to major neural connections in the auditory pathway. These waves have expected morphologies and occur at predictable latencies. Waves that are absent or delayed are indicative of pathology at that point in the auditory pathway. The interwave latencies (such as I to III, III to V, or I to V) can be compared to the opposite side or to standard norms. Abnormalities on ABR need to be further evaluated by imaging studies.
+
+【35】MRI provides excellent definition of the structures within the posterior fossa. Gadolinium contrast allows additional differentiation of various pathologies. Additionally, newer technology, such as fat suppression and diffusion-weighted imaging can help to identify pathology 删除33：<u></u>. The MRI appearances of the most common tumors in the posterior fossa are indicated in Table 52–1 .
+
+【36】删除3：<u>Figure 52–1 . Post-gadolinium T1 MRI with fat suppression. Cerebellopontine angle meningioma. 删除10：<u>(Reproduced, with permission, from Lalwani A . Current Diagnosis and Treatment in Otolaryngology: Head & Neck Surgery, 2nd ed. New York, NY: McGraw-Hill Publishers, 2008:154 .)</u></u>
+
+【37】Although MRI with gadolinium contrast gives excellent resolution for brain, nerve and soft tissues, CT scanning is necessary for bony imaging. Often, both imaging modalities are combined to understand the full extent of the disease process within the skull base.
+
+【38】#### TREATMENT
+
+【39】A treatment plan must be created once a cerebellopontine angle tumor is diagnosed. Many factors must be considered when approaching these tumors. The patient’s age, overall health status, tumor size and location, degree of hearing loss, and other neurologic signs should be taken into account. The various available treatment options must be discussed with the patient; the final decision of treatment course must be decided between the patient and the physician.
+
+【40】At least three options should be considered in managing tumors in the posterior fossa: observation and serial imaging, stereotactic radiosurgery, or conventional surgery . Some of these options might be unavailable or unwise for certain tumor types or tumor size. Clearly, the patient that has a large tumor that is producing brainstem compression or obstructive hydrocephalus should not be observed over time and serially imaged. These findings demand immediate attention.
+
+【41】Surgery can provide several benefits to the patient. Removal of tumor allows for final pathologic diagnosis, might correct neurologic deficits, and might prevent further complications caused by continued tumor growth. These benefits can come at a price of new neurologic deficits, meningitis, infection, stroke, or even death. The patient’s underlying health status must be considered because these surgical procedures are often lengthy. Patients with low overall health status might not tolerate such a procedure.
+
+【42】A relatively new (although more than 20 years experience) type of therapy involves the use of directed, focus radiation beam to the tumor . Several different proprietary devices have been developed to destroy or at least prevent growth of these types of tumors. The experience with stereotactic radiotherapy is probably greatest with acoustic neuroma , because that tumor is the most common mass found in the cerebellopontine angle . Stereotactic radiotherapy has been found to be very effective at managing small-to-medium-sized tumors (up to 3 cm). In these tumors, the complication rate for stereotactic radiotherapy is at least as low as that from conventional surgery; and with this type of therapy, a long hospital stay or recovery period is not required. The disadvantage with stereotactic radiotherapy is the potential for continued growth, and this growth does occur in a significant number of patients. Unfortunately, surgery following stereotactic radiotherapy is technically more difficult, and surgical results are not as successful as from surgery alone.
+
+【43】Stereotactic radiotherapy does have limitations. It is not useful for certain tumor types (meningiomas and epidermoids). Of course, stereotactic radiotherapy cannot provide pathologic specimens for study, and it should never be used when the pathologic diagnosis is in doubt.
+
+【44】####苏锦恭
+
+====================================================================================================

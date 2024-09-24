@@ -1,0 +1,109 @@
+【0】CASE 55: DROWSINESS BORDERING ON COMA
+
+【1】History
+
+【2】A 78-year-old man was found unrousable in bed by his daughter and has been brought to  删除换行1 the emergency department. He is usually fairly independent, looking after himself and going  删除换行1 to the local shops, but he has been unwell for two weeks with a chest infection. His GP prescribed a week’s course of an antibiotic but that did not help. He had a cough with yellow  删除换行1 sputum and was short of breath. He became increasingly lethargic and drowsy, taking to his  删除换行1 bed in the past few days. He has had type 2 diabetes for 15 years and is taking metformin and  删除换行1 gliclazide. His other medications include ramipril for hypertension, aspirin for a previous transient ischaemic attack (TIA) and simvastatin. He does not drink alcohol and is an ex-smoker.
+
+【3】Examination
+The man’s mucous membranes appear dry and he has cool peripheries. His jugular venous  删除换行1 pulse (JVP) is not visible and heart sounds are normal. He has inspiratory crackles and  删除换行1 bronchial breathing in the right base. His abdominal examination is normal. His reflexes  删除换行1 are normal. Pupils are equal and reactive to light. His score on the Glasgow Coma Scale  删除换行1 is 8/15 (does not open eyes, localizes to pain, makes incomprehensible sounds). A chest  删除换行5 X-ray shows right basal consolidation. An ECG shows sinus tachycardia. Observations: 
+
+【4】temperature 38°C, blood pressure 98/60 mmHg, heart rate 104/min, respiratory rate 30/ 删除换行1 min, SaO2 92 per cent on room air.
+
+【5】INVESTIGATIONS
+
+【6】 Normal range
+
+【7】White cells 19.0 4–11 ¥ 109/L
+
+【8】Neutrophils 16 2–7 ¥ 109/L
+
+【9】Haemoglobin 17.0 13–18 g/dL
+
+【10】Platelets 350 150–400 ¥ 109/L
+
+【11】Sodium 156 135–145 mmol/L
+
+【12】Potassium 6.1 3.5–5.0 mmol/L
+
+【13】Urea 18 3.0–7.0 mmol/L
+
+【14】Creatinine 210 60–110 mmol/L
+
+【15】Chloride 95 95–105 mmol/L
+
+【16】C-reactive protein 288 <5 mg/L
+
+【17】Bilirubin 15 5–25 mmol/L
+
+【18】Alanine aminotransferase 34 8–55 IU/L
+
+【19】Alkaline phosphatase 79 42–98 IU/L
+
+【20】Albumin 56 35–50 g/L
+
+【21】Glucose 37 3.5–5.5 mmol/L
+
+【22】Arterial blood gas on room air: 
+
+【23】pH 7.31 7.35–7.45
+
+【24】PO2 8.2 9.3–13.3 kPa
+
+【25】PCO2 3.4 4.7–6.0 kPa
+
+【26】Lactate 2.2 <2 mmol/L
+
+【27】HCO3 18 22–26 mmol/L
+
+【28】Urinalysis: 
+
+【29】++++ glucose, + protein, no blood, no nitrites or leucocytes, trace ketones
+
+【30】Questions
+
+【31】• What is the diagnosis?
+
+【32】• How should this patient be managed?删除6：<u>This page intentionally left blank 119</u>
+
+【33】ANSWER 55
+
+【34】This man is in a hyperosmolar hyperglycaemic state and is showing signs of rapid deterioration towards unconsciousness.
+
+【35】The hyperosmolar hyperglycaemic state is characterized by severe hyperglycaemia  删除换行1 (typically a plasma glucose level >35 mmol/L) and hyperosmolality (serum osmolality  删除换行1 >340 mosmol/kg) which can be assessed from 2[Na+] + 2[K+] + [urea] + [glucose]. In this  删除换行1 case, the serum osmolality works out to be 379 mosmol/kg. He has a mild metabolic  删除换行1 acidosis but significant ketoacidosis is not present (pH >7.3 and only a trace of ketones  删除换行1 in the urine). This condition mostly occurs in those with type 2 diabetes, in contrast to  删除换行1 diabetic ketoacidosis which occurs in type 1 diabetes. However, the distinction is not  删除换行1 absolute and up to a third of cases can present with both elements.
+
+【36】Precipitants of this condition are usually infection (pneumonia and urinary tract infection are the most common). Other acute stressors such as myocardial infarction, cerebrovascular accident and surgery can trigger the condition. Significant dehydration, which  删除换行1 accompanies this condition, exacerbates electrolyte abnormalities and can cause acute  删除换行1 kidney injury.
+
+【37】In this case it is likely that the patient has a severe community-acquired pneumonia that  删除换行1 has precipitated this state.
+The approach to any critically ill person should start with ABCDE (airway, breathing,  删除换行1 circulation, disability, exposure). Each step should consist of an assessment and appropriate management before moving on to subsequent stages. This approach is a logical way  删除换行1 of thinking through and dealing with an acutely ill person. This approach is part of the  删除换行5 IMPACT (Ill Medical Patient’s Acute Care and Treatment) method that is endorsed by the 
+
+【38】Federation of the Royal Colleges of Physicians and the Royal College of Anaesthetists.
+
+【39】This man’s airway is certainly at risk owing to his low GCS score: 8 or below is an indication that a definitive airway is likely to be needed. An anaesthetist should therefore  删除换行1 be present to manage this. In the meantime, basic techniques to keep the airway open  删除换行1 (head tilt and chin lift or jaw thrust) with or without airway adjuncts (oropharyngeal or  删除换行1 nasopharyngeal airways) can be used. High-flow oxygen (10 L/min) using a mask with  删除换行1 reservoir should be administered to deliver maximal percentage of oxygen (with this  删除换行1 device about 85 per cent oxygen can be given).
+
+【40】Once the airway is secured and oxygen delivered his breathing can be assessed. He is  删除换行1 noted to be tachypnoeic, which is a response to the metabolic acidosis from renal impairment secondary to dehydration and sepsis. Auscultation and chest X-ray showed consolidation at the right base. Saturations are low with a PO2 of 8.2 kPa on air. He has severe  删除换行1 respiratory compromise with type 1 respiratory failure. As well as high-flow oxygen he  删除换行1 may need assisted ventilation and is at risk of respiratory arrest.
+
+【41】He is hypotensive and tachycardic and requires urgent intravenous access and immediate fluid resuscitation. A urinary catheter should be inserted to quantify urinary output.
+Shock is defined as inadequate tissue perfusion and several parameters can indicate  删除换行1 this (e.g. renal dysfunction, rise in lactate, consciousness level). Shock is likely to be  删除换行1 caused by hypovolaemia from fluid depletion and sepsis. An ECG does not show signs  删除换行1 of myocardial ischaemia and his JVP is not visible without signs of pulmonary oedema,  删除换行1 so cardiogenic shock is unlikely. The initial management is the same. Upon intravenous  删除换行1 access a fluid challenge should be given: 250 mL of normal saline should be given over  删除换行1 2 minutes. Response should be checked at 5 minutes. He is likely to be severely dehy-120 删除换行1 drated and will require large volumes of fluid replacement. However, care must be taken  删除换行1 in replacing fluid as he is elderly. In general, the first 2 L of normal saline can be given  删除换行1 over the first 2 hours. He may require additional colloid boluses if he becomes hypotensive. Subsequently care over aggressive fluid resuscitation is required. Sodium should be  删除换行1 reduced slowly and not more than about 10 mmol/L in 24 hours. Further fluid type and  删除换行1 duration of administration should be gauged on renal and electrolyte profiles and the  删除换行1 patient’s haemodynamic status. A central venous line would be helpful to assess central  删除换行1 venous pressure in those at risk of heart failure.
+
+【42】Initial observations showed a temperature of 38°C, tachycardia, tachypnoea, and a raised  删除换行1 white cell count. He also has evidence of organ failure (renal and neurological). He has all  删除换行1 the features of a severe systemic inflammatory response syndrome. It is likely the cause is  删除换行1 pneumonia based on the symptoms and signs present. A urine dip did not show evidence  删除换行1 of infection, but he should have blood and urine cultures. The combination of hypovolaemic and septic shock is unlikely to respond to fluid resuscitation alone and he will need  删除换行1 vasopressor support if he remains hypotensive. Septic shock is associated with a high  删除换行1 mortality, up to 50 per cent in some cases. Multi-organ failure is a poor prognostic sign.
+
+【43】In addition to fluids, once sepsis is recognized he should be given antibiotics urgently  删除换行1 within the first hour of recognition as advocated by the surviving sepsis campaign . Antibiotics should ideally be targeted to the underlying source,  删除换行1 but broad-spectrum organism cover should be initiated without delay.
+
+【44】Serum glucose is corrected slowly with fluid resuscitation and an insulin sliding scale.
+Potassium levels should be checked every hour in the first 4 hours during fluid resuscitation, as they are likely to decrease as the acidosis improves and the intravascular volume  删除换行1 increases.
+
+【45】Renal failure may be exacerbated by underlying diabetes and hypertension, as well as  删除换行1 metformin and ramipril. Renal function and hyperkalaemia may improve with fluid  删除换行1 resuscitation alone, but renal replacement therapy may be required.
+
+【46】The hyperosmolar hyperglycaemic state is a hypercoagulable condition and thromboprophylaxis is required.
+
+【47】Recognizing that this patient is critically ill is based on the ABCDE approach. Most of  删除换行1 the initial management can be instituted in the acute setting, including intubation and  删除换行1 invasive monitoring. Once the patient is stable enough he should be transferred to the  删除换行1 intensive-care unit for continued management.
+
+【48】KEY POINTS
+
+【49】• Hyperosmolar hyperglycaemic state is a serious complication that occurs most  删除换行1 commonly in elderly people with type 2 diabetes.
+
+【50】• A common trigger for this is infection.
+
+【51】• Coma is rare but is more likely in those presenting with hypernatraemia.黄艳玲
+
+====================================================================================================

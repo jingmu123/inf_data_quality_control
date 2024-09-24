@@ -1,0 +1,60 @@
+【0】Question: 4.1 The use of succinylcholine as an adjunct to general anesthetics during surgery is based on its ability to:
+
+【1】A. Block the action of ACh at the motor endplate
+
+【2】B. Increase release of ACh from autonomic ganglia
+
+【3】C. Increase release of histamine from mast cells
+
+【4】D. Inhibit cholinesterase
+
+【5】Answer: 4.1 A. Succinylcholine acts like ACh to cause depolarization of the muscle endplate. However, unlike ACh, succinylcholine is not metabolized at the synapse. Therefore, the endplate remains depolarized and unresponsive to endogenous ACh, resulting in muscle paralysis.
+
+【6】Question: 4.2 Continued exposure of muscle endplates to succinylcholine results in their:
+
+【7】A. Conversion to ion channels
+
+【8】B. Enhanced sensitivity to ACh
+
+【9】C. Regeneration of ACh receptors
+
+【10】D. Repolarization
+
+【11】Answer: 4.2 D. Continued exposure of the muscle endplate to succinylcholine results in desensitization (phase II block) where the endplate repolarizes but cannot readily be depolarized.
+
+【12】Question: 4.3 Cholinesterase inhibitors can reverse the action of which of the following?
+
+【13】A. Cisatracurium
+
+【14】B. Succinylcholine
+
+【15】C. Both A and B
+
+【16】D. Neither A nor B
+
+【17】Answer: 4.3 C. Cholinesterase inhibitors like neostigmine can effectively antagonize and reverse the neuromuscular blocking action of nondepolarizing agents and succinylcholine during phase II. However, they will augment the action of succinylcholine during phase I.
+
+【18】Question: 4.4 A 35-year-old man undergoes surgery for a hernia repair. After the surgery, he complains of diffuse muscle aches, which the anesthesiologist states is likely caused by the skeletal muscle relaxant. He has a temperature of 37.8°C (100°F). Which of the following is the most accurate statement?
+
+【19】A. The agent also commonly causes hypokalemia.
+
+【20】B. The agent blocks ACh at the nicotinic receptor.
+
+【21】C. The agent causes persistent endplate depolarization and desensitization.
+
+【22】D. The patient likely has malignant hyperthermia.
+Answer: 4.4 C. Myalgia (muscle aches) is a common adverse reaction of depolarizing agents such as succinylcholine; these agents also may induce hyperkalemia and malignant hyperthermia.
+
+【23】PHARMACOLOGY PEARLS
+
+【24】 Malignant hyperthermia is a rare autosomal dominant disorder characterized by tachycardia, muscle rigidity, and high body temperatures, which occurs when the patient is exposed to inhaled anesthetics in combination with muscle relaxants, usually succinylcholine.
+
+【25】 Dantrolene interferes with the release of intracellular calcium and is therefore used to treat the muscle rigidity and hyperthermia associated with malignant hyperthermia.
+
+【26】 The neuromuscular blocking agents are highly polar and highly ionized and, therefore, must be administered parenterally and have limited volume of distribution and limited access to the CNS.
+
+【27】 A small number of patients (1:10,000) with atypical cholinesterase experience long-lasting apnea of 1–4 hours following succinylcholine (or the nondepolarizing neuromuscular blocking drug mivacurium that is also eliminated by the action of butyrylcholinesterase). Mechanical ventilation is used to manage the apnea even though prescreening could detect this rare condition.
+
+【28】#王磊
+
+====================================================================================================

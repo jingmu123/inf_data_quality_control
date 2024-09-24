@@ -1,0 +1,86 @@
+【0】Case 6
+A 29-year-old parous (G5P4) woman at 39 weeks'gestation with preeclampsia delivers vaginally.Her prenatal course has been uncomplicated except for asymp-tomatic bacteriuria caused by Escherichia coli in the first trimester treated with oral cephalexin. She denies a family history of bleeding diathesis. After the placenta is delivered，there is appreciable vaginal bleeding estimated at 1000 cc.
+
+【1】What is the most likely diagnosis?
+
+【2】What is the next step in therapy?
+
+【3】ANSWERS TO CASE 6：
+
+【4】Postpartum Hemorrhage
+
+【5】Summary： A 29-year-old parous (G5P4) woman at 39 weeks’ gestation with pre-eclampsia delivers vaginally. She denies a family history of a bleeding diathesis. After the placenta is delivered， there is appreciable vaginal bleeding， estimated at 1000 cc.
+
+【6】Most likely diagnosis： Uterine atony.
+
+【7】Next step in therapy： Dilute intravenous (IV) oxytocin， bedside uterine mas-sage and compression， and if this is ineffective， then intramuscular prostaglan-din F，-alpha (Hemabate) or rectal misoprostol.
+
+【8】ANALYSIS
+
+【9】Objectives
+
+【10】1\. Know the definition of postpartum hemorrhage.
+
+【11】2\. Understand that the most common cause of postpartum hemorrhage is uter-ine atony.
+
+【12】3\. Know the treatment for uterine atony and the contraindications for the vari-ous agents.
+
+【13】Considerations
+
+【14】This 29-year-old woman delivers at 39 weeks’gestation and has an estimated blood loss of 1000 cc after the placenta delivers. This meets the definition of postpartum hemorrhage for a vaginal delivery， which is a loss of 500 mL or more. The most common etiology is uterine atony， in which the myometrium has not contracted to cut off the uterine spiral arteries that are supplying the placental bed. Bladder emptying， uterine massage， and dilute oxytocin are the first therapies. If these are ineffective， then prostaglandin F -alpha or rectal misoprostol is the next agent to be used in this patient. Because she is hypertensive， methylergonovine maleate(Methergine) is contraindicated. It should be noted that if the uterus is palpated and found to be firm and yet bleeding continues， a laceration to the genital tract should be suspected. Her risk factors for uterine atony include preeclampsia since she is likely to be treated with magnesium sulfate.
+
+【15】APPROACHTO：
+
+【16】Postpartum Hemorrhage
+
+【17】DEFINITIONS
+
+【18】POSTPARTUMHEMORRHAGE(PPH)：Classically defined as greater than 500mL of blood loss at a vaginal delivery and greater than 1000 mL during a cesarean delivery. Practically speaking， it means significant bleeding that may result in hemo-dynamic instability if unabated.
+
+【19】Also， a decline in hematocrit levels of 10% has been used to define postpartum hemorrhage， but it is not a satisfactory definition because determinations of hemo-globin or hematocrit concentrations may not reflect the current hematologic status.
+
+【20】UTERINE ATONY： Lack of myometrial contraction， clinically manifested by a boggy uterus.
+
+【21】METHYLERGONOVINE MALEATE (METHERGINE)： An ergot alkaloid agent that induces myometrial contraction as a treatment of uterine atony， contra-indicated in hypertension.
+
+【22】PROSTAGLANDIN F.-ALPHA： A prostaglandin compound that stimulates myometrial contraction， contraindicated in asthmatic patients.
+
+【23】CLINICAL APPROACH
+
+【24】Postpartum hemorrhage is defined as primary (early) and secondary (late) accord-ing to whether it occurs within the first 24 hours or after that period. The most common cause of early PPH is uterine atony， with bleeding arising from the placen-tal implantation site. 
+
+【25】The physical examination reveals a boggy uterus. Table 6-2 summarizes the stepwise approach to PPH. Because of the large proportion of cardiac output that perfuses the uterus and placental bed， a postpartum woman can exsanguinate in 10to 15 minutes without intervention.
+
+【26】Uterotonic agents include intramuscular methylergonovine (Methergine)， intra-muscular prostaglandin F -alpha， and rectal misoprostol. Ergot alkaloids should not be given in women with hypertensive disease because of the risk of stroke. Prostaglandin F -alpha should not be administered in those with asthma due to the potential for bronchoconstriction. Among these three agents， rectal misoprostol has emerged in many centers as the preferred agent due to high efficacy， low cost，
+
+| Table 6-1·RISKFACTORS FORUTERINE ATONY  |
+| --- |
+| Magnesium sulfate Oxytocin use during laborRapid labor and/or delivery Overdistention ofthe uterus (macrosomia， multifetalpregnancy， and hydramnios)Intraamniotic infection (chorioamnionitis) Prolonged labor High parity  |
+
+| Table 6-2·TREATMENT FOR POSTPARTUM HEMORRHAGE  |  |  |
+| --- | --- | --- |
+| Assessment Steps  | Intervention  | Comment  |
+| Assess hemorrhage byvital sig ns and blood in collection (recall that Hg b not accurate)  | Support ABCs  | Continue to monitor ABCsand support BP  |
+| Palpate uterine fundus  | If firm， consider lacerations(surgical management) or coagu-lopathy (replace clotting factors) Ifboggy，then bimanual massage and Ⅳdilute oxytocin  | Bimanual compression withabdominalhand and vaginalhand concurrently  |
+| Pharmacological agents  | Ergot alkaloids， prostag landinF，-alpha and/or misoprostol×2-3 doses  | Contraindications to ergotalkaloid =hypertension；con-traindication to PGF2-alpha=asthma  |
+| If continues to bleed  | Two large-bore Is， Foley catheterplacement to empty bladder，callfor blood， monitor vitals， move the patient to the OR  | Do not continue interven-tions in the labor and delivery room ifno responseto medications  |
+| Ifsomewhat stable， consider nonsurg icalintervention  | Intrauterine balloon or uterineartery embolization  | Intrauterine balloon cantamponade bleeding  |
+| Ifunstable orbleeding rapidly， then laparotomy  | If future childbearing is desired，consider compression stitches such as B-lynch， ligation ofblood supplies such as OTearysutures for ligating bilateraluterine arteries Ifno childbearing desired， thenhysterectomy  |  |
+
+【29】and low side effects. If medical therapy is ineffective， two large-bore intravenous lines should be placed， the blood bank should be notified， and anesthesiologist alerted.Intrauterine tamponade such as with a balloon can be performed while pre-paring for surgical therapy. Surgical therapy may include exploratory laparotomy with interruption of the blood vessels to the uterus such as uterine artery liga-tion or internal iliac artery ligation. More recently， suture methods that attempt to compress the uterus， such as the B-lynch stitch， have been described. If these fail， hysterectomy may be lifesaving.
+
+【30】Other causes of early PPH include genital tract lacerations， which should be sus-pected with a firm contracted uterus while bleeding persists. The vaginal side walls and cervix should be especially carefully inspected. Repair of the complete extent of the laceration is important. Uterine inversion 删除25：<u></u>， whether partial or complete， must also be considered. Placental causes include accreta or retained placenta. If the uterus is firm and there are no lacerations， one must also consider coagulopathy.
+
+【31】Secondary (late) PPH， defined as occurring after the first 24 hours， may be caused by subinvolution of the placental site， usually occurring at 10 to 14 days after delivery. In this disorder， the eschar over the placental bed usually falls off and the 删除换行1 lack of myometrial contraction at the site leads to bleeding. Classically， the patient will not have bleeding until about 2 weeks after delivery and is not significantly anemic. Oral ergot alkaloid and careful follow-up is the standard treatment； other options include intravenous dilute oxytocin or intramuscular prostaglandin F，-alpha compounds.
+
+【32】Other causes of secondary postpartum hemorrhage include uterine atony (per-haps secondary to retained products of conception) and infection. Ultrasound examination helps to confirm the diagnosis. If uterus is atonic， uterotonic agents are the first-line therapy. If suspecting retained products of conception， suction dilation and curettage can be performed. Women with retained products of con-ception (POCs) generally have uterine cramping and bleeding. If suspecting infec-tion (endometritis)， broad-spectrum antibiotics are indicated. Endometritis is sus-pected with uterine fundal tenderness， fever， and foul-smelling lochia.
+
+【33】Emerging Concepts
+
+【34】Recent studies have indicated that active management of the third stage of labor reduces the incidence and severity of PPH. This includes oxytocin given immedi-ately upon delivery of the infant， late cord clamping， and gentle cord traction with uterine countertraction with a well-contracted uterus. Several randomized trials found a 25% to 50% decrease in the incidence of PPH. Although retained placenta is a theoretical risk with early oxytocin administration， studies have not found this complication.
+删除16：<u>CASE CORRELATION
+删除25：<u>See also Case 3， Uterine Inversion， which is strongly associated with postpar-tum hemorrhage； see also Section I—Approach to Reading and What Is the Most Likely Diagnosis-for the clinical approach.</u>
+</u>黄艳玲
+
+====================================================================================================
+格式规范性#多余换行#【29】and low side effects. #无

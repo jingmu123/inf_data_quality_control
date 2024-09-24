@@ -1,0 +1,19 @@
+【0】Question: A pharmaceutical company has created a new drug that, when taken daily, is thought to be highly effective at preventing the onset of migraines. The company would like to market the drug and is conducting a study to look at its benefits and possible risks. In coordination with a physician at a local hospital, it enrolls 800 people for the study. The physician places 100 patients with the worst and most frequent migraines in the medication group, as he thinks that they are in most need of the drug’s benefit. Which of the following best explains why the drug may not perform up to expectations?
+
+【1】> (A) Differences in group size
+
+【2】> (B) Late-look bias
+
+【3】> (C) Recall bias
+
+【4】> (D) Sampling bias
+
+【5】> (E) Selection bias
+
+【6】 Answer: The correct answer is E . Selection bias is being displayed in this scenario. The physician is selecting his more serious cases for the treatment group (ie, those who are in most need of the benefit). The placebo group contains patients who are healthier, less symptomatic, and more likely to have a better outcome. Therefore, when it comes time for collecting data, the drug’s beneficial effect compared to placebo may be blunted.  
+Answer A is incorrect . Studies can still be valid if there are differences in group size. There is no evidence that there is a difference in group size in this scenario.  
+Answer B is incorrect . Late-look bias occurs when information or results are gathered at an inappropriate time. Late-look bias is not displayed in this scenario.  
+Answer C is incorrect . Recall bias occurs when knowledge of the presence of a disorder alters the way a subject remembers his or her history. For example, patients may over- or underestimate their consumption of a certain drug upon learning of its detrimental effect on the body. Recall bias is not displayed in this scenario.  
+Answer D is incorrect . Sampling bias occurs when those in the trial are not truly representative of the general population. Therefore, the results (both positive and negative) of the study cannot be truly applied to the general population. There is no evidence of sampling bias in this scenario.王磊
+
+====================================================================================================

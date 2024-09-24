@@ -1,0 +1,52 @@
+【0】Question: 8.1 Testing of blood culture isolates from a hospitalized patient revealed gram-positive cocci, β-lactamase positive, vancomycin-resistant, PYR-positive, and the presence of Lancefield group D antigen. Which of the following is the most likely isolate identification?
+
+【1】A. Enterococcus faecalis
+
+【2】B. Streptococcus agalactiae
+
+【3】C. Streptococcus bovis
+
+【4】D. Streptococcus pneumoniae
+
+【5】Answer: 8.1 A. All bacteria listed are gram-positive cocci. S. pneumoniae does not have a Lancefield grouping, whereas S. agalactiae has a group B classification. Streptococcus bovis is PYR-negative. Thus, only E. faecalis fulfills all laboratory test results in the above question.
+
+【6】Question: 8.2 Which of the following is the most serious condition that can result as complications of enterococcal urinary tract or wound infections?
+
+【7】A. Cellulitis
+
+【8】B. Gastroenteritis
+
+【9】C. Scarlet fever
+
+【10】D. Subacute endocarditis
+
+【11】E. Toxic shock syndrome
+
+【12】Answer: 8.2 D. In patients, the most common sites of enterococci infection are the urinary tract, wounds, biliary tract, and blood. In neonates, enterococci can cause bacteremia and meningitis. In adults, enterococci may cause endocarditis. Thus, bacteremia, endocarditis, or both are rare and very serious complications that can result from enterococcal UTI. Cellulitis and toxic shock syndrome are typically associated with both staphylococci and streptococci, whereas scarlet fever is associated only with streptococci. Finally, gastroenteritis can be associated with a number of organisms such as Clostridium difficile .
+
+【13】Question: 8.3 After an abdominal surgery for removal of ovarian cysts, a 56-year-old woman has had low-grade fever for the past 2 weeks. She has a history of rheumatic fever as a child. Three of the blood cultures grew gram-positive cocci. Which of the following is the most likely etiologic agent?
+
+【14】A. Group A streptococci
+
+【15】B. Group B streptococci
+
+【16】C. Group C streptococci
+
+【17】D. Group D streptococci
+
+【18】E. Viridans group streptococci
+Answer: 8.3 D. S. bovi s is among the nonenterococcal group D streptococci, which are part of the enteric flora and have the ability to cause endocarditis.
+
+【19】MICROBIOLOGY PEARLS
+
+【20】 Enterococci, gram-positive cocci, are normal flora of the human and animal GI tract.
+
+【21】 Enterococci are a common cause of wound infections following procedures involving the GI or genitourinary tracts.
+
+【22】 Bacteremia, endocarditis, or both are rare complications of enterococcal UTIs.
+
+【23】 Enterococcal UTIs are often nosocomial infections, especially in elderly patients with urinary catheters.
+
+【24】 Ampicillin and vancomycin are the principal antibiotics used to treat enterococcal infections.苏锦恭
+
+====================================================================================================

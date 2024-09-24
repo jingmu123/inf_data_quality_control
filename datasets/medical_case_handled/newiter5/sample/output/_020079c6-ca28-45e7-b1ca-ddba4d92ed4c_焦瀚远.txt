@@ -1,0 +1,52 @@
+【0】Refer to the following case scenario to answer questions 30.1-30.2：
+
+【1】A 28-year-old man is brought into the emergency department by EMS after having been found lying in the snow on the side of the road. He apparently had been walking along the road the night before and was struck by a car， which did not stop， and lay in the snow until someone noticed him this morning. His fingers and toes are blue and cool to the touch， and he is shivering uncontrollably.
+
+【2】30.11Stimulation of which receptors are primarily responsible for triggering these responses to cold?
+
+【3】AThermoreceptors in the skinBCD
+
+【4】Thermoreceptors in the posterior hypothalamus
+
+【5】Thermoreceptors in the anterior hypothalamus
+
+【6】Thermoreceptors in the lateral hypothalamus
+
+【7】30.2What part of the hypothalamus receives input from cold-sensitive thermore-ceptors and then generates signals that lead to conservation and generation of body heat?
+
+【8】A. Anterior hypothalamus
+
+【9】B.Posterior hypothalamus
+
+【10】C.Lateral hypothalamus
+
+【11】D.Medial hypothalamus
+
+【12】30.3A 44-year-old manual laborer is brought to the emergency department after collapsing on the job. He had been working outside， paving a city street， when， according to witnesses， he said he needed to sit down and then collapsed. He did not lose consciousness at that time. His skin all over his body is red with very rapid capillary refill， and he is sweating profusely. He is correctly diagnosed with heat exhaustion， and treatment is begun. Which hypothalamic nucleus is involved in generating heat-dissipating responses?
+
+【13】AMedial hypothalamusBC
+
+【14】Lateral hypothalamus
+
+【15】Posterior hypothalamus
+
+【16】D.Anterior hypothalamus
+
+【17】30.1 1 A. Thermoreceptors in the skin are responsible for responses to cold. There are two areas in the body in which thermoreceptors are located： the skin and the anterior hypothalamus， specifically the preoptic area. These areas do not behave the same， however. There are significantly more cold receptors than warm in the skin and more warm receptors than cold in the hypothalamus. This means that skin-based thermoreceptors are more important for detect-ing cold conditions and hypothermia， while hypothalamic receptors are more important for detecting warm conditions and hyperthermia. Of course in an extreme example such as this， both the skin and the hypothalamic thermore-ceptors would be generating signals to conserve or generate body heat.
+
+【18】30.2FB. The posterior hypothalamus generates the signals that cause an increase in heat conserving and producing behaviors. The posterior hypothalamus is also involved in sympathetic outflow， which is important in heat conserva tion. Sympathetic outflow is responsible for peripheral vasoconstriction and piloerection， both of which are heat conserving. Shivering， which is a heat-generating mechanism， is not mediated by the sympathetic system but rather by the shivering center， found in the dorsomedial posterior hypothalamus. Posterior hypothalamic projections to the cortex are involved in the more complex behavioral responses to cold， such as putting on more clothing， pacing， and going inside. The anterior hypothalamus， while being the location of hypothalamic thermoreceptors， is more sensitive to heat than cold and is involved in heat-dissipating activities.
+
+【19】30.3 D. The anterior hypothalamus is the area involved in heat-dissipating activities. It receives warm signals primarily from the preoptic hypothalamus but also from warm receptors located in the skin. Heat-dissipating activities include cutaneous vasodilation， achieved by sympathetic inhibition， which causes the skin to appear very red， and sweating. All heat-conserving activities are inhibited as well. There are also cortical responses to overheating， including fanning， removing clothing， and drinking cold drinks.
+
+【20】Thermoregulation is controlled primarily by neural feedback mechanisms operating through the hypothalamus， namely the preoptic area.
+
+【21】Involuntary responses for heat conservation are initiated by the hypothal-amus and include vasoconstriction， piloerection， and thermogenesis (ie， sympathetic excitation and shivering).
+
+【22】Fever differs from hyperthermia in that during a fever， the body's thermoregulatory set point itself is elevated， whereas in hyperthermia， body temperature rises above the set point.
+删除20：<u>Bear MF， Connors BW， Paradiso MA， eds. Neuroscience： Exploring the Brain. 3rd ed. Baltimore， MD：Lippincott Williams & Wilkins； 2006.
+
+【23】Kandel ER， Schwarz JH， Jessell TM， Siegelbaum SA， Hudspeth AJ， eds. Principles of Neural Science.5th ed. New York， NY： McGraw-Hill； 2012.
+
+【24】Squire LR， Berg D， Bloom FE， du Lac S， eds. Fundamental Neuroscience. 4th ed. San Diego， CA： Academic Press； 2012.</u>焦瀚远
+
+====================================================================================================

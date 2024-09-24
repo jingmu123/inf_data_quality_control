@@ -1,0 +1,108 @@
+【0】Subchapter 5.3
+
+【1】Shifting Gears: Calcium Transport in Flagella 通用删除6(英):<u>\[3\]</u>
+===================================================
+
+【2】Introduction
+------------
+
+【3】Movement of ions across a phospholipid bilayer requires the presence of transport proteins. Different types of transport proteins are specific to different ions. While some transport proteins form an open channel for the passive diffusion of ions, others only allow transport to occur under certain circumstances. These gated channels undergo a conformation change, transitioning from a “closed” to an “open” state, and back again. Examples of the physiological triggers for gated channels include ligand binding, mechanical deformation, and changes in voltage across the membrane.
+
+【4】Voltage-gated channels are proteins that can respond to small changes in membrane potential or the distribution of charge across a phospholipid bilayer. Voltage-gated channels play a vital role in the process of nerve cell communication through their involvement in production of an action potential. In order for a voltage-gated protein to function it must be capable of “sensing” differences in charge across a membrane. Voltage-gated channels are integral membrane proteins with multiple, alpha helical, transmembrane domains. Some of these domains contribute to the formation of a channel that selectively allows for the diffusion of an ion. Other transmembrane domains are able to respond to changes in electrical charge due to the presence of acidic or basic amino acids.
+
+【5】▪ Explain why an ion must move through a transport protein and cannot simply diffuse through a phospholipid bilayer.
+
+【6】▪ What determines the direction of movement of an ion?
+
+【7】▪ Research/review examples of the three types of gated channels mentioned earlier.
+
+【8】▪ Describe the properties associated with a transmembrane domain.
+
+【9】▪ Predict how a transmembrane domain of a voltage-gated channel with arginine amino acids near the extracellular side of the membrane would respond to an increase in calcium ions outside the cell.
+
+【10】Background
+----------
+
+【11】The unicellular green algae Chlamydomonas reinhardtii swim through their aqueous environment using flagella. The coordinated movement of these two flagella, in a breaststroke-like pattern, propels the cell forward. Chlamydomonas are photosynthetic and so are attracted to light. However, exposure to intense light causes the flagella to change their beat pattern, switching to a more undulating or S-shaped pattern, and causing the cell to reverse direction, a behavior known as photophobic response . Alteration of the flagellar waveform requires an influx of extracellular calcium ions into the flagella.
+
+【12】The Chlamydomonas mutant, ppr2 , lacks a photophobic response. The ppr2 gene shares homology with voltage-gated calcium channels. A search of the Chlamydomonas genomic database revealed the presence of eight voltage-gated calcium channels genes that share sequence homology with ppr2 . The experiments described in this case study investigate the role of voltage-gated calcium channels in the photophobic response of Chlamydomonas .
+
+【13】▪ Are Chlamydomonas prokaryotic or eukaryotic cells?
+
+【14】▪ Speculate on why a photosynthetic cell would avoid intense light.
+
+【15】▪ What proteins are responsible for the movement of the flagellar axoneme?
+
+【16】▪ The Chlamydomonas eyespot responds to bursts of intense light by altering the cell’s membrane potential. How does this fact contribute to your understanding of the photophobic response?
+
+【17】Methods
+-------
+
+【18】### Cell cultures
+
+【19】Wild-type and mutant strain ppr2 of C. reinhardtii were used in these experiments. Cells were cultured at 25°C in TAP medium using a 12-h light, 12-h dark light cycle.
+
+【20】### Reverse transcriptase – PCR of regenerating flagella
+
+【21】Flagella were detached from the cells using pH shock, and total RNA was extracted from flagellar-regenerating cells at the times indicated. Equal amounts of total RNA were reverse-transcribed into cDNA using Superscript III Reverse Transcriptase. PCR was performed on each of the samples using primers that were specific to a 120–200 base pair fragment of fructose-bisphosphate aldolase 3, beta tubulin, or CAV2. Expression of fructose-bisphosphate aldolase 3 was assumed to be unaffected by flagellar regrowth. Calculation of the amounts of beta tubulin and CAV2 RNA were normalized to fructose-bisphosphate aldolase 3.
+
+【22】### RNA interference suppression of CAV2 expression
+
+【23】CAV2 gene expression was knocked down using RNA interference. Genomic DNA sequences corresponding to exons 1–3 of the CAV2 gene was inserted into an RNAi vector and wild-type Chlamydomonas were transformed by electroporation. Transformants were evaluated by the level of CAV2 expression and their ability to respond to high-intensity light.
+
+【24】### CAV2 antibodies
+
+【25】Polyclonal antibodies specific to CAV2 were developed. For immunoblotting, cells in the logarithmic growth phase were pH-shocked to remove their flagella. Flagella were collected by centrifugation and analyzed by SDS-PAGE followed by blotting onto a nitrocellulose membrane. Membranes were reacted with dilute primary antibody to CAV2, washed, and reacted with an HRP-conjugated secondary antibody. Antibody binding was detected by chemiluminescence.
+
+【26】Localization of CAV2 and alpha tubulin in flagella was achieved by immunofluorescence labeling. Cells were fixed in 1.8% formaldehyde for 20 min and washed with buffer. Chlamydomonas were allowed to adhere to the glass slide and then the cells were permeabilized with 0.2% Triton X-100, washed with buffer, and reacted with the CAV2 primary antibody. The samples was washed again and reacted with a FITC-conjugated secondary antibody. Labeled cells were viewed using a fluorescence microscope.
+
+【27】▪ Why was it necessary to grow Chlamydomonas with a light/dark cycle?
+
+【28】▪ Predict how the RT-PCR experimental results would be altered if fructose-bisphosphate aldolase expression did change during flagellar regeneration.
+
+【29】▪ Why was a permeabilization step included for the immunofluorescence experiments? How would you change the methods if your goal were to demonstrate that CAV2 is located in the flagellar PM?
+
+【30】Results
+-------
+
+【31】▪ Which of the genes for voltage-gated calcium channels in Chlamydomonas is not expressed in the ppr2 mutant.
+
+【32】▪ Research/review how RNA interference can suppress expression of a protein.
+
+【33】▪ Which of the Chlamydomonas strains shown in Figure 5.3.1 b would you use if you were planning on testing for photophobic response? Explain your answer.
+
+【34】▪ Suggest a reason why the researchers selected alpha tubulin as the control in Figure 5.3.1 b.
+
+【35】▪ Summarize the significance of the result shown in Figure 5.3.1 c?
+
+【36】▪ Calculate the number of CAV2 knockdown cells that exhibited a photophobic response using the information provided in the figure legend for Figure 5.3.1 c.
+
+【37】▪ Propose an explanation for why the photophobic response in the CAV2 knockdown cells is not 0 删除33：<u></u>.
+
+【38】▪ Describe how the pattern of Chlamydomonas swimming is different between the control and RNAi treated cells.
+
+【39】▪ About how long does it take the control cell to recover from photostimulation?
+
+【40】▪ Develop an argument for or against the statement, “knockdown of the CAV2 voltage-gated calcium channel enhanced the swimming speed of Chlamydomonas. ”
+
+【41】▪ Explain why the results shown in Figure 5.3.3 a support the conclusion that CAV2 is a flagella protein.
+
+【42】▪ What is the function of fructose-bisphosphate aldolase (FBA)? Why does the level of expression for this protein remain the same at each time point?
+
+【43】▪ Where is the CAV2 protein located in the wild-type cell in Figure 5.3.3 b?
+
+【44】▪ Why is there no staining of the flagella in the ppr2 cell in Figure 5.3.3 c?
+
+【45】▪ CAV2 antibody staining of the Chlamydomonas cell body was dismissed as an artifact. What evidence in Figure 5.3.3 can be used to support this conclusion?
+
+【46】▪ How does the location of CAV2 protein in Figure 5.3.3 b relate to its proposed role in the photophobic response in Chlamydomonas ?
+
+【47】▪ Look back at Figure 5.3.1 a. Each of the genes amplified in the wild-type cell shared homology with a voltage-gated calcium channel. Design an experiment to investigate whether CAV2 is the only voltage-gated calcium channel required for the photophobic response.
+
+【48】删除3：<u>Figure 5.3.1 Characterization of the ppr2 mutant as a voltage-gated calcium channel.a. RT-PCR of mRNAs for Chlamydomonas voltage-gated channels. All mRNAs are present in the wild-type (WT) cell, but not in the ppr2 mutant. b. Results from (a) indicated that the ppr2 mutation affected the gene for the voltage-gated calcium channel CAV2 . Expression of CAV2 was suppressed in WT cells using RNAi. The presence of CAV2 protein in various Chlamydomonas strains was detected by immunoblotting with an anti-CAV2 antibody. Reaction of the blot to an anti-alpha tubulin antibody is shown as a control for the amount of protein loaded on the blot. c. Photophobic response in the control (vector; n \= 35) and RNAi knockdown (CAV2 knockdown; n \= 64) Chlamydomonas strains.</u>
+
+【49】删除3：<u>Figure 5.3.2 Photophobic response of WT and CAV2 knockdown cells.The swimming tracks of a control (vector) cell and an RNAi-treated CAV2 knockdown cell following photostimulation (arrowhead). The interval between consecutive images is 0.2 s.</u>
+
+【50】删除3：<u>Figure 5.3.3 Localization of the CAV2 protein in the flagella of Chlamydomonas .a. RNA was collected for quantitative RT-PCR from WT Chlamydomonas cells before (0 min) or after (30 or 45 min) removal of the flagella. Chlamydomonas are capable of regrowing flagella following their removal. FBA and beta tubulin (BTU) were used as loading control and positive control, respectively. Expression levels relative to that at 0 min are shown. b. Double-labeled immunofluorescence staining of a WT cell with antibodies to CAV2 (green) and alpha tubulin (red). c. Immunofluorescence staining of a ppr2 cell with the CAV2 antibody (left panel). A phase contrast image is shown in the right panel.</u>苏锦恭
+
+====================================================================================================

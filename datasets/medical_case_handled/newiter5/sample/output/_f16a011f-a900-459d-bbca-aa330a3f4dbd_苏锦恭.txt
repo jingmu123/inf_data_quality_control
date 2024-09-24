@@ -1,0 +1,52 @@
+【0】Question: 33.1 Which of the following statements is most accurate regarding infection with parvovirus B19?
+
+【1】A. Parvovirus B19 replicates in the host cell nucleus, utilizing a virally encoded DNA polymerase to create a double-stranded DNA intermediate.
+
+【2】B. Parvovirus B19 causes severe anemia because it preferentially infects erythrocyte precursors.
+
+【3】C. Parvovirus B19 can be diagnosed by detection of viral RNA using PCR or hybridization assays.
+
+【4】D. Parvovirus B19 can cause hydrops fetalis via transplacental infection of a fetus in a seropositive mother.
+
+【5】E. Parvovirus B19 is transmitted primarily by fecal–oral transmission and is highly prevalent in infants and young children.
+
+【6】Answer: 33.1 B. Parvovirus B19 binds preferentially to the erythrocyte blood group P antigen on erythroid precursor cells. Answers A, B, C, and E are incorrect. After entry, the single-stranded viral DNA genome is transported to the cell nucleus where the host DNA polymerase synthesizes the complimentary DNA strand. Parvovirus B19 infection can be diagnosed by direct detection of viral DNA, not RNA. The fetus of a seropositive mother is protected from infection by maternal circulating antibodies. Parvovirus B19 is primarily transmitted by respiratory secretions and is prevalent in school-age children.
+
+【7】Question: 33.2 A normally healthy 7-year-old girl is sent home from school with a suspected case of fifth disease as a result of her presenting with the initial symptoms of the infection. After being at home for a few days, her symptoms change indicating her transition into the second phase of the illness. Which of the following symptoms is the girl most likely experiencing during the second phase of parvoviral infection?
+
+【8】A. Aplastic crisis
+
+【9】B. Diarrhea
+
+【10】C. High fever
+
+【11】D. Skin rash
+
+【12】E. Swollen glands
+
+【13】Answer: 33.2 D. The second stage of parvoviral B19 infection is immune-mediated, and results in formation of a lacy skin rash occurring first on the face and then moves to the extremities. Answers A, B, C, and E are incorrect. Aplastic crisis occurs in hosts with sickle cell disease or other acquired hemolytic anemias, not in normally healthy individuals. Parvoviral infection does not cause gastrointestinal symptoms. Mild fever, not high fever, is a symptom that occurs in the initial stage of fifth disease. Parvoviral infection does not result in swollen glands.
+
+【14】Question: 33.3 Which of the following conditions would put an individual at increased risk for serious chronic illness following an infection with parvovirus B19?
+
+【15】A. Immunization with a live measles vaccine
+
+【16】B. Having sickle cell disease
+
+【17】C. Caring for a pet with canine parvoviral infection
+
+【18】D. Coinfection with influenza A virus
+
+【19】E. Not being immunized for poliovirus
+Answer: 33.3 B. More serious complications of parvoviral B19 infection, such as aplastic crisis, can occur in hosts with sickle cell disease or other chronic hemolytic anemias. Answers A, C, D, and E are incorrect, as they are not associated with serious complications of parvovirus B19 infection.
+
+【20】MICROBIOLOGY PEARLS
+
+【21】 Parvovirus B19 is the smallest human DNA virus and replicates in mitotically active erythroid progenitor cells.
+
+【22】 Clinical manifestations in children include mild fever followed by rash with “slapped cheek” appearance, fetal infections: hydrops fetalis, and death.
+
+【23】 Clinical manifestations in adults include polyarthritis of hands, knees, and ankles (with or without rash); chronic infection may result in chronic anemia or aplastic crisis.
+
+【24】 No specific treatment or vaccination.苏锦恭
+
+====================================================================================================

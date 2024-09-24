@@ -1,0 +1,18 @@
+【0】Chapter 7
+
+【1】Organelles
+==========
+
+【2】Summary
+-------
+
+【3】通用删除2(英):<u>Membrane-bound organelles are a hallmark of eukaryotic cells. The case studies in this chapter examine the origins and organization of several of these organelles. Establishment of the classic morphology of the endoplasmic reticulum and Golgi complex are investigated in the case studies, “Putting the ‘Retic’ in the Endoplasmic Reticulum” 删除10：<u>(Voeltz GK, Prinz WA, Shibata Y, Rist JM, Rapoport TA. A class of membrane proteins shaping the tubular endoplasmic reticulum, Cell. 2006;124:573–586)</u> and “How the Golgi Stacks Up” 删除10：<u>(Barr FA, Puype M, Vandekerckhove J, Warren G. GRASP65, a protein involved in the stacking of Golgi cisternae. Cell. 1997;91:253–262)</u>. The processes leading to the formation of organelles such as small transport vesicles and peroxisomes are considered in the case studies, “Case of the Coated Vesicle” 删除10：<u>(Barlow C, Orici L, Yeung T, et al. COPII: A membrane coat formed by SEC proteins that drive vesicle budding from the endoplasmic reticulum. Cell. 1994;77:895–907)</u> and “How to Build a Peroxisome” 删除10：<u>(van der Zand A, Gent J, Braakman I, Tabak HF. Biochemically distinct vesicles from the endoplasmic reticulum fuse to form peroxisomes. Cell. 2012;149:397–409)</u>. Finally, reproduction of mitochondria by binary fission is the topic of the case study, “Putting the Squeeze on Mitochondria,” based on the work of F. Korobova, T.J. Gauvin, and H.N. Higgs 删除10：<u>(A role for myosin II in mammalian mitochondrial fission. Curr Biol. 2014;24:409–414)</u>.</u>
+
+【4】Keywords
+--------
+
+【5】endoplasmic reticulum
+
+【6】Golgi complex 删除换行1 coated vesicles 删除换行1 mitochondria 删除换行1 autophagosome 删除换行1 peroxisome 删除换行1 cell-free model system 删除换行1 in vitro assay王磊
+
+====================================================================================================

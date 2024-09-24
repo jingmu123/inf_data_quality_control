@@ -1,0 +1,81 @@
+【0】CASE 60: HAEMATURIA AND FLANK PAIN
+
+【1】History
+
+【2】A 25-year-old Caucasian man visited his GP complaining of pain in his lower back and  删除换行1 passing red blood in his urine. He had no dysuria or fever. He is generally fit and well,  删除换行1 working as a mechanic. He takes no regular medications and has no significant medical  删除换行1 history. He does not smoke or drink alcohol. There is no family history of relevance. His  删除换行1 only other complaint was of cold-like (coryzal) symptoms for the past few days.
+
+【3】Examination
+There were no significant findings by the GP. His blood pressure was 125/65 mmHg. A  删除换行5 urine dipstick in the surgery did demonstrate haematuria and trace protein. In view of his  删除换行1 symptoms of flank pain and haematuria he was admitted to hospital under the urology  删除换行1 team. He underwent a CT scan of his kidneys, ureters and bladder, which did not identify  删除换行1 a cause. He was observed for two days as an inpatient; his flank pain settled with analgesia, with improvement in the haematuria.
+
+【4】INVESTIGATIONS
+
+【5】 Normal range
+
+【6】White cells 5.0 4–11 ¥ 109/L
+
+【7】Haemoglobin 15.0 13–18 g/dL
+
+【8】Platelets 250 150–400 ¥ 109/L
+
+【9】Sodium 138 135–145 mmol/L
+
+【10】Potassium 4.0 3.5–5.0 mmol/L
+
+【11】Urea 6.5 3.0–7.0 mmol/L
+
+【12】Creatinine 75 60–110 mmol/L
+
+【13】Urine microscopy: 
+
+【14】Numerous red blood cells, no red cell casts, no organisms seen
+
+【15】Questions:
+
+【16】• What is the most likely diagnosis?
+
+【17】• What are the potential immediate problems that might occur, and how would you  删除换行1 manage them?
+
+【18】• How should this patient be followed up?
+ANSWER 60
+
+【19】The key findings here are frank haematuria and flank pain. There was no previous history  删除换行1 of illness or dysuria, or systemic features. Of note, he appears to have had a recent upper  删除换行1 respiratory tract infection. Initial investigation of his urine confirmed haematuria but no  删除换行1 infection. No obvious lesion was identified on CT imaging. His observations and blood  删除换行1 chemistry were also normal. His condition remained stable and resolved.
+
+【20】The most likely diagnosis with his presenting features is IgA nephropathy. Other differentials to consider are post-streptococcal glomerulonephritis and Henoch–Schönlein  删除换行1 purpura.
+
+【21】IgA nephropathy is the most common glomerular disease worldwide. It occurs most  删除换行1 commonly in those of Asian or Caucasian origin and is more common in males (2:1).
+Most cases occur between the ages of 20 and 30. Most cases are sporadic and the cause  删除换行1 is not identified, but it tends to occur following an upper respiratory tract infection or  删除换行1 gastrointestinal infection.
+
+【22】IgA nephropathy is caused by the deposition of IgA in the glomerular mesangium.
+Sometimes IgG and complement can also deposit on the mesangium and this is associated with more severe disease. Diagnosis can only be confirmed by renal biopsy and  删除换行1 microscopy.
+
+【23】Cases can present in several ways. About half of all cases present as in this case with  删除换行1 frank haematuria and flank pain after an upper respiratory tract infection. A third of  删除换行1 patients can present with asymptomatic microscopic haematuria. Ten per cent of patients  删除换行1 can present with a more severe process characterized by either the nephrotic syndrome  删除换行1 or an acute rapidly progressive glomerulonephritis (oedema, hypertension, haematuria  删除换行1 and renal failure).
+
+【24】In this case his symptoms were limited and transient. No complicating features were  删除换行1 noted. Systemic features are common and include fever, malaise and myalgia.
+
+【25】A urine dipstick test for proteinuria should be performed to identify cases of nephrotic  删除换行1 syndrome or acute rapidly progressive glomerulonephritis. Blood pressure should also be  删除换行1 checked as a potential presentation is malignant hypertension.
+
+【26】A full renal profile should be checked to rule out renal failure (raised creatinine and urea,  删除换行1 hyperkalaemia, metabolic acidosis). Other blood/serological tests should be performed to  删除换行1 rule out other causes of glomerular disease, including complement C3 and C4, anti-GBM 
+
+【27】(glomerular basement membrane), ANCA (antinuclear cytoplasmic antibodies), ANA 
+
+【28】(antinuclear antibodies), hepatitis virology and HIV.
+
+【29】If the course of the illness is progressive or severe (e.g. renal failure or persistent haematuria/proteinuria) a renal biopsy is required. Findings to support a diagnosis are  删除换行1 mesangial deposition of IgA with or without C3.
+
+【30】Cases of persistent proteinuria (with or without hypertension) should be treated with an  删除换行1 angiotensin-converting enzyme (ACE) inhibitor or an angiotensin receptor blocker (ARB).
+These drugs reduce the amount of proteinuria but their role in preventing renal dysfunction is not established.
+
+【31】If a renal biopsy shows changes in keeping with active inflammation, or there is persistent haematuria, there is a role for corticosteroids. A prolonged course (6–12 months or  删除换行1 more) may be required.
+With more severe disease on biopsy and rapid deterioration in renal function, combined  删除换行1 immunosuppressive therapy is indicated (e.g. prednisolone with cyclophosphamide or  删除换行1 azathioprine). In crescentic glomerulonephritis, pulsed intravenous methylprednisolone  删除换行1 followed by oral prednisolone and cyclophosphamide is used. Plasmapheresis is another  删除换行1 alternative but its use is not commonplace. In some cases of acute renal failure, renal  删除换行1 replacement therapy may have to be instituted.
+
+【32】The patient in this case should undergo specialist follow-up. Urinalysis, renal function  删除换行1 and blood pressure should be checked six-monthly. As his case is mild and self-resolved  删除换行1 he does not need long-term follow-up unless there is recurrence with or without progressive symptoms and signs, development of renal failure or hypertension.
+
+【33】KEY POINTS
+
+【34】• IgA nephropathy is the most common glomerular disease worldwide.
+
+【35】• It can present asymptomatically or with acute renal failure, haematuria, hypertension  删除换行1 and oedema.
+
+【36】• Definitive diagnosis is by renal biopsy, but most cases do not require this unless there  删除换行1 is significant proteinuria, persistent haematuria or renal impairment.删除6：<u>This page intentionally left blank 141</u>王磊
+
+====================================================================================================

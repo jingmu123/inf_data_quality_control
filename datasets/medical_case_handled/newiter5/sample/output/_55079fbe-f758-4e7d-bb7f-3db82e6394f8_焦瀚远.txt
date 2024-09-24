@@ -1,0 +1,82 @@
+【0】Case Files® Biochemistry, Third Edition    
+
+【1】CASE 24
+-------
+
+【2】A 3-year-old boy is brought to the emergency department after several episodes of vomiting and lethargy. His pediatrician has been concerned about his failure to thrive and possible hepatic failure, along with recurrent episodes of the vomiting and lethargy. After a careful history is taken, you observe that these episodes occur after ingestion of certain types of food, especially those high in fructose. His blood sugar was checked in the emergency department and was extremely low.
+
+【3】 What is the most likely diagnosis?
+
+【4】 What is the biochemical basis for the clinical symptoms?
+
+【5】 What is the treatment of the disorder?
+
+【6】### ANSWERS TO CASE 24:
+
+【7】#### Fructose Intolerance
+
+【8】Summary: A 3-year-old boy with failure to thrive and possible hepatic failure. He presents with hypoglycemia and recurrent episodes of nausea and vomiting after ingestion of foods high in fructose.
+
+【9】• Diagnosis: Fructose intolerance.
+
+【10】• Biochemical basis of disorder: Because of a genetic disorder, the hepatic aldolase B enzyme is defective, normally functioning in glycolysis but not in fructose metabolism. Glucose production is inhibited by elevated fructose 1-phosphate. When fructose is ingested, severe hypoglycemia results.
+
+【11】• Treatment: Avoid dietary fructose.
+
+【12】### CLINICAL CORRELATION
+
+【13】Individuals with a deficiency in aldolase B have the condition known as fructose intolerance. As with most enzyme deficiencies, this is an autosomal recessive disease; it does not cause difficulty as long as the patient does not consume any foods with fructose or sucrose. Frequently, children with fructose intolerance avoid candy and fruit—behavior that should cause concern. Likewise, they usually do not have many dental caries. However, if chronically exposed to fructose-containing foods, infants and small children may have poor weight gain and abdominal cramping or vomiting.
+
+【14】### APPROACH TO:
+
+【15】#### Disaccharide Metabolism
+
+【16】### OBJECTIVES
+
+【17】1\. Describe the metabolism of disaccharides, specifically fructose.
+
+【18】2\. Explain the role of aldolase B in fructose metabolism.
+
+【19】### DEFINITIONS
+
+【20】DISACCHARIDE: Two sugar molecules (monosaccharides) linked together by a glycosidic bond. The major disaccharides obtained in the diet are maltose \[4-(α-d-glucosido)-d-glucose\], sucrose \[β-d-fructofuranosyl-α-d-glucopyranoside\], and lactose \[4-(β-d-galactosido)-d-glucose\].
+
+【21】ESSENTIAL FRUCTOSURIA: A rare, benign genetic condition in which fructose spills over to the urine because the liver, kidney, and intestine lack the enzyme fructokinase.
+
+【22】FRUCTOKINASE: An enzyme present in the liver, kidney, and intestine that will phosphorylate fructose to fructose 1-phosphate at the expense of adenosine triphosphate (ATP).
+
+【23】FRUCTOSE INTOLERANCE: A genetic deficiency in the liver enzyme aldolase B. The absence of this enzyme leads to a build up of fructose 1-phosphate and depletion of liver ATP and phosphate stores.
+
+【24】GLUT 5: A facilitative glucose transporter isoform present in the small intestine and other tissues that will transport fructose (and glucose to a lesser extent) across the plasma membrane.
+
+【25】β-GLYCOSIDASE: A bifunctional, membrane-bound enzyme located on the brush-border membrane of the small intestine. This single polypeptide enzyme has 2 activities, lactase and glucosylceramidase, located in different domains of the protein. It will hydrolyze lactose to glucose and galactose.
+
+【26】SGLT1: A sodium-dependent glucose transporter located on the luminal side of the intestinal epithelial cells. It will transport glucose and galactose across the intestinal cell using a sodium ion gradient.
+
+【27】SGLT2: A sodium-dependent glucose transporter that has a high specificity for glucose and is specific to the kidney.
+
+【28】SUCRASE-ISOMALTASE COMPLEX: An enzyme complex comprised of 2 enzyme units. Both units have high α-1,4-glucosidase activity and will hydrolyze maltose and maltotriose to glucose. The sucrase unit will also hydrolyze sucrose to fructose and glucose, whereas the isomaltase unit will hydrolyze α-1,6 bonds found in isomaltose and the limit dextrins of starch.
+
+【29】### DISCUSSION
+
+【30】The major disaccharides obtained in the diet are maltose, sucrose, and lactose. Maltose is primarily obtained from the consumption of the plant storage polysaccharide starch . Starch is degraded to glucose and small-branched oligosaccharides called limit dextrins by exhaustive digestion by α-amylase . The limit dextrins are further enzymatically hydrolyzed to a branched tetrasaccharide by glucoamylase and to maltotriose and maltose and ultimately to glucose by the sucrase-isomaltase complex. Both of these enzyme complexes are located on the brush-border membrane of the small intestine. Sucrose , or table sugar, is hydrolyzed to glucose and fructose by the sucrase subunit of the sucrase-isomaltase complex. Lactose , or milk sugar, is enzymatically converted to glucose and galactose by β-glycosidase , also located on the brush-border membrane of the small intestine. This membrane-bound enzyme is a single polypeptide that has lactase and glucosylceramidase activities located in different domains of the protein.
+
+【31】Glucose and galactose are absorbed from the lumen of the intestine by the sodium-dependent glucose transporter (SGLT1) , which is located on the luminal side of the intestinal epithelial cells. Fructose absorption is not dependent on a sodium gradient. It is transported into the intestinal cell by facilitative diffusion by a glucose transporter isoform, GLUT 5 . Fructose transport is less rapid than glucose transport, and GLUT 5 does not have a high capacity. Thus, in most individuals, ingestion of fructose in amounts higher than 0.5 to 1.0 g/kg body weight can result in malabsorption. Fructose enters the bloodstream, along with glucose and galactose, via the GLUT 2 transporter . Fructose is taken up by the liver by the same GLUT 2 transporter, along with glucose and galactose. There is a large gradient between the extracellular and intracellular concentrations of fructose in the liver cells, indicating that the rate for fructose uptake by the hepatocyte is low.
+
+【32】In the liver, kidney, and intestine, fructose can be converted to glycolytic/gluconeogenic intermediates by the actions of 3 enzymes— fructokinase, aldolase B, and triokinase (also called triose kinase)—as shown in Figure 24-1 . In these tissues, fructose is rapidly phosphorylated to fructose 1-phosphate (F1P) by fructokinase at the expense of a molecule of ATP. This has the effect of trapping fructose inside the cell. A deficiency in this enzyme leads to the rare but benign condition known as essential fructosuria . In other tissues such as muscle, adipose, and red blood cells, hexokinase can phosphorylate fructose to the glycolytic intermediate fructose 6-phosphate (F6P).
+
+【33】删除3：<u>Figure 24-1. The metabolic pathway for the entrance of fructose into the glycolytic pathway. Fructokinase rapidly converts fructose to fructose 1-phosphate, which in the liver is cleaved by aldolase B to dihydroxyacetone phosphate (DHAP) and glyceraldehyde.</u>
+
+【34】F1P is further metabolized to dihydroxyacetone phosphate (DHAP) and glyceraldehyde by the hepatic isoform of the enzyme aldolase, which catalyzes a reversible aldol condensation reaction. Aldolase is present in 3 different isoforms. Aldolase A is present in greatest concentrations in the skeletal muscle , whereas the B isoform predominates in the liver, kidney, and intestine. Aldolase C is the brain isoform. Aldolase B has similar activity for either fructose 1,6-bisphosphate (F16BP) or F1P; however, the A or C isoforms are only slightly active when F1P is the substrate.
+
+【35】Glyceraldehyde may be converted to the glycolytic intermediate, glyceraldehyde 3-phosphate (GAP) , by the action of the enzyme triokinase. This enzyme phosphorylates glyceraldehyde at the expense of another molecule of ATP. The GAP can then enter into the glycolytic pathway and be further converted to pyruvate, or recombine with DHAP to form F16BP by the action of aldolase.
+
+【36】A deficiency in aldolase B leads to the condition known as fructose intolerance . This inherited condition is benign as long as the patient does not consume any foods with fructose or sucrose. Patients with this condition usually develop an aversion to sweets early in life and as a result frequently are without any caries. However, infants and small children if chronically exposed to fructose-containing foods usually exhibit periods of vomiting and poor feeding as well as failure to thrive. A defect in the aldolase B gene results in a decrease in activity that is 15 percent or less than that of normal controls. This results in a buildup of F1P levels in the hepatocyte. Because the maximal rate of fructose phosphorylation by fructokinase is so high (almost 1 order of magnitude greater than that of glucokinase), intracellular levels of both ATP and inorganic phosphate (P <sub>i </sub> ) are significantly decreased. The drop in ATP concentration adversely affects a number of cellular events, including detoxification of ammonia, formation of cyclic AMP (cAMP), and RNA and protein synthesis. The decrease in intracellular concentrations of P <sub>i </sub> leads to a hyperuricemic condition as a result of an increase in uric acid formation. AMP deaminase is inhibited by normal cellular concentrations of P <sub>i </sub> . When these levels drop, the inhibition is released and AMP is converted to IMP and, ultimately, uric acid 删除33：<u></u>.
+
+【37】删除3：<u>Figure 24-2. The inhibition of AMP deaminase by inorganic phosphate (P <sub>i </sub> ). A decrease in \[P <sub>i </sub> \] increases the activity of AMP deaminase and leads to increased production of uric acid.</u>
+
+【38】The toxic effects of F1P can also be exhibited in patients that do not have a deficiency in aldolase B if they are parenterally fed with solutions containing fructose. Parenteral feeding with solutions containing fructose can result in blood fructose concentrations that are several times higher than can be achieved with an oral load. Because the rate of entry into the hepatocyte is dependent on the fructose gradient across the cell, intravenous loading results in increased entry into the liver and increased formation of F1P. Because the rate of formation of F1P is much faster than its further metabolism, this can lead to hyperuricemia and hyperuricosuria by the mechanisms described above.
+
+【39】###焦瀚远
+
+====================================================================================================

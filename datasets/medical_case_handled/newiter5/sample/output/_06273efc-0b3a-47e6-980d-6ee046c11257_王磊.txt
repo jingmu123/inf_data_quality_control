@@ -1,0 +1,54 @@
+【0】CASE 34: SUSPICIOUS AND JERKY MOVEMENTS
+
+【1】A 53-year-old supply teacher attends the psychiatric outpatient clinic with his wife. His  删除换行1 wife says that his personality has ‘changed completely’ over the past 2 years. He has become  删除换行1 increasingly suspicious and cantankerous. He often misplaces objects and then accuses her of  删除换行1 stealing from him and has made similar accusations against close friends. Previously a placid  删除换行1 person, he has now become irritable and aggressive. She feels that his ‘mood swings’ are now  删除换行1 becoming intolerable. However, he says that his wife is making an ‘unnecessary fuss’. He  删除换行1 acknowledges being a ‘bit low’ after taking premature retirement 2 years ago, but does not feel  删除换行1 that there is anything really wrong with him. He appears twitchy, displaying sudden ‘jerky’  删除换行1 movements of his arms and neck. He dismisses them as ‘nervous tics’. His wife, however, feels  删除换行1 that he is getting clumsy, dropping things and occasionally even stumbling.
+
+【2】There is no previous psychiatric history although he says he took premature retirement due  删除换行1 to stress. There is no past medical history of note. His father died at the age of 60 following a  删除换行1 ‘nervous breakdown’ in his final years but he cannot provide you with any more details. There  删除换行1 is no other significant family history. The couple has a son, 30, and a daughter, 25, who live  删除换行1 close by. They live in their own home.
+
+【3】Mental state examination
+
+【4】He is a tall, thin gentleman, who establishes a good rapport. His speech appears a little slurred  删除换行1 at times but is coherent and relevant. He displays sudden jerky movements of his arms, shoulder and neck. There is no evidence of thought disorder. He is convinced that his wife and his  删除换行1 friends have stolen money and a few of his personal objects. He acknowledges that there is no  删除换行1 obvious motive but yet remains convinced about this. He appears low in mood but does not  删除换行1 have any ideas of self-harm or suicide. He has little insight into his symptoms and blames it  删除换行1 all on ‘stress’. On cognitive examination, he appears a little confused about the date and time  删除换行1 and is rather clumsy on motor tasks such as writing. Mini Mental State Examination reveals  删除换行1 a score of 23/30 with losses on tasks of orientation (three points), tasks of concentration (two  删除换行1 points), three-object recall (one point) and construction (one point).
+
+【5】Questions
+
+【6】• What is the differential diagnosis?
+
+【7】• What investigations are indicated?
+
+【8】• How will you manage this patient?
+
+【9】ANSWER 34
+
+【10】Pre-senile onset of cognitive, emotional and behavioural changes associated with movement disorder, in the presence of a family history, should arouse strong suspicion of the  删除换行1 progressive degenerative disorder, Huntington disease (HD). The disease usually presents  删除换行1 in the fourth or fifth decade, often presenting with psychiatric symptoms, most commonly  删除换行1 personality changes, emotional disturbance and paranoia. Paranoid ideas of reference with  删除换行1 frank delusions of persecution may be the earliest symptoms often associated with depression  删除换行1 and anxiety. Behavioural agitation, often associated with aggression and violence, may be  删除换行1 seen independently of choreiform movement disorder. Choreiform movements are regular,  删除换行1 uncontrollable, random, brief muscle jerks and movements. These are different from athetoid movements, which involve writhing and twisting movements. Choreiform movements  删除换行1 may initially be very mild and may go unnoticed for years but become florid and disabling  删除换行1 as the disease progresses. Insidious cognitive impairment ultimately leads to severe dementia. Initially, the clinical picture resembles paranoid schizophrenia. Other psychiatric differential diagnoses include psychotic depression, bipolar disorder or schizoaffective disorder.Other causes of dementia such as Alzheimer’s disease, vascular dementia, Wilson’s disease,  删除换行5 Parkinson’s disease and neuroacanthocytosis also need to be considered as do other conditions such as multiple sclerosis, systemic lupus erythematosus (SLE), neurosyphilis and druginduced cerebellar disorder.
+
+【11】A high index of clinical suspicion is needed to make the correct diagnosis as up to a third  删除换行1 of cases are wrongly labelled as schizophrenia. Computed tomography (CT) and magnetic  删除换行1 resonance imaging (MRI) brain scans reveal dilated ventricles with atrophy of the caudate  删除换行1 nuclei and are therefore indicated in all first-time presentations of psychosis. Genetic testing  删除换行1 is diagnostic with the identification of multiple cytosine/adenine/guanine (CAG) repeats on  删除换行1 the short arm of chromosome 4. The normal gene shows 11–34 repeats while in HD 37–120  删除换行1 repeats are seen. Pre-test genetic counselling is vital as the diagnosis of the disease has implications for the patient’s children with a strong likelihood (50%) of one of them being affected.
+It is autosomal dominant.
+
+【12】The disease is progressive and incurable with treatment directed towards palliation of symptoms. Mean survival time is 15–18 years. Psychotic symptoms such as agitation, delusions and  删除换行1 hallucinations and movement disorders can be treated with atypical (clozapine) or typical  删除换行1 (haloperidol) antipsychotic medication and tranquillizers such as clonazepam. Depressive  删除换行1 episodes usually respond to selective serotonin reuptake inhibiting antidepressants such as  删除换行1 fluoxetine or sertraline. Manic features may need a mood stabilizer (e.g. lithium) in addition to antipsychotic medication. Obsessive rituals may need treatment with anti-obsessional 
+
+【13】Prevalance of co-morbid psychiatric symptoms
+
+【14】Co-morbid psychiatric symptoms 删除换行1 删除10：<u>(Van Duijn et al. 2007)</u> Prevalence
+
+【15】Depression, anxiety, irritability or apathy Between 33% and 76%
+
+【16】Obsessions and compulsions Between 10% and 50%
+
+【17】Psychosis Up to 10%
+
+【18】Note: Van Duijn E, Kingma EM, Van der Mast RC. 2007. Psychopathology in verified Huntington’s disease gene carriers. Journal of Neuropsychiatry and Clinical Neurosciences 19, 441–448.95
+
+【19】Case 34: Suspicious and jerky movements 删除换行1 agents (e.g. fluoxetine). Speech therapy for dysarthria, physiotherapy for muscle rigidity  删除换行1 and occupational therapy to maintain and enhance activities of daily living are indicated.Support for carers and signposting to support organizations such as the Huntington’s Disease  删除换行5 Association is helpful. Referral to social services is necessary to organize community care  删除换行1 packages, home adaptation or nursing home care.
+
+【20】Key Points
+
+【21】• HD can often be misdiagnosed as schizophrenia or mood disorder and therefore 
+
+【22】CT/MRI scans are indicated in first presentations of psychosis.
+
+【23】• Management involves genetic counselling and symptomatic treatment.
+
+【24】删除测试2：<u>Case 35: My nose is too big and ugly
+
+【25】</u>王磊
+
+====================================================================================================
