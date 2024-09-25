@@ -8,29 +8,29 @@ pattern_en = [
     # 固定格式  带有（）的图片表格描述 附录描述 协议描述   顺序不能打乱
     [r'(\(\s?([Ff]igs?(ure)?|F\s?IGS?(URE)?|Table|[Ss]ee|For more|panel|http|www|NCT\d+|NO\.|version|p\.)s?[\s\.:]?[^\(\)]*\))', r''],  # 1. 这些固定的词语紧贴左括号
     [r'(\(\s?[^\(\)]*)([\.;]\s([Ff]igs?(ure)?|F\s?IGS?(URE)?|Table|[sS]ee|For more|http|www)s?[\s\.:][^\(\)]*)(\))', r'\1)'],  # 这些固定的词语在句子中间但是前半句可能有用 用[\.;]\s来判断前半句是否结束
-    [r'(\([^\(\)]*([Ff]igs?(ure)?|F\s?IGS?(URE)?|Table|[sS]ee\s|For more|http|www|NCT\d+|N[oO]\.|Participant \d+|Provider \d+|software|version)s?[\s\.:][^\(\)]*\))', r''],  # 最广泛的形式从左括号匹配到右括号
-    [r'(.*,\s?et[\s\xa0]{1,3}al.*)', r''],  # , et al   et al一版在一些人名后面，一定要加逗号，如果没有逗号可能会造成一些误删
+    [r'(\([^\(\)]*([Ff]igs?(ure)?|F\s?IGS?(URE)?|Table|[sS]ee\s|For more|http|www|NCT\d+|N[oO]\.|Participant \d+|Provider \d+|software|version)s?[\s\.:][^\(\)]*\))', r'通用删除1(英):<u>\1</u>'],  # 最广泛的形式从左括号匹配到右括号
+    [r'(.*,\s?et[\s\xa0]{1,3}al.*)', r'通用删除2(英):<u>\1</u>'],  # , et al   et al一版在一些人名后面，一定要加逗号，如果没有逗号可能会造成一些误删
     [r'^\b(\w+(\s\w+){0,})\s+(\1)\b', r'\1'],  # 解决句首出现的单词重复的问题
-    [r'(^[\*#]{0,4}(NEWSLETTER|Get the Crohn|Tips from experts|Stay Up-to-Date|Sign up for the latest coronavirus news|You can find more information at|See also|Adapted by|For more information).*)', r''],  # 开头固定这种情况较多这种固定开头后面都能添加 (时事通讯|获取克罗恩资讯|专家提示|了解最新动态|注册获取最新冠状病毒新闻|你可以寻找更多消息在...|另请参见...|改编自...|更多信息)
-    [r'(?<![\dm\s])(\s{0,}<sup>(<a>)?\s{0,}\d+[\d\s\–—,\(\)\[\]]{1,20}(</a>)?</sup>)', r''],  # 特殊数字  排除可能出现的次幂情况
-    [r'(.*(doi|DOI)\s?:.*)', r''],  # 存在有DOI描述的句子
-    [r'((\\)?\[[\d\s,，\–\-—]{1,}(\\)?\])', r''],  # 带有方括号的数字引用
-    [r'((\\)?\([\d\s,，\-\–—]{1,}(\\)?\))', r''],  # 带有圆括号的数字引用
-    [r'((\\)?\[\s?[^\[\]]*([Ff]igs?(ure)?|F\s?IGS?(URE)?|Table|[sS]ee|For more|panel|http|www|NCT\d+|NO\.|version)s?[^\[\]]*(\\)?\])', r''],  # 固定格式  带有[]的图片表格描述 附录描述 协议描述 无关网址描述
-    [r'(^Full size.*)', r''],  # Full size image/table 原文这里应该是一个图/表没识别出图形
+    [r'(^[\*#]{0,4}(NEWSLETTER|Get the Crohn|Tips from experts|Stay Up-to-Date|Sign up for the latest coronavirus news|You can find more information at|See also|Adapted by|For more information).*)', r'通用删除3(英):<u>\1</u>'],  # 开头固定这种情况较多这种固定开头后面都能添加 (时事通讯|获取克罗恩资讯|专家提示|了解最新动态|注册获取最新冠状病毒新闻|你可以寻找更多消息在...|另请参见...|改编自...|更多信息)
+    [r'(?<![\dm\s])(\s{0,}<sup>(<a>)?\s{0,}\d+[\d\s\–—,\(\)\[\]]{1,20}(</a>)?</sup>)', r'通用删除4(英):<u>\1</u>'],  # 特殊数字  排除可能出现的次幂情况
+    [r'(.*(doi|DOI)\s?:.*)', r'通用删除5(英):<u>\1</u>'],  # 存在有DOI描述的句子
+    [r'((\\)?\[[\d\s,\\，\–\-—]{1,}(\\)?\])', r'通用删除6(英):<u>\1</u>'],  # 带有方括号的数字引用
+    [r'((\\)?\([\d\s,\\，\-\–—]{1,}(\\)?\))', r'通用删除7(英):<u>\1</u>'],  # 带有圆括号的数字引用
+    [r'((\\)?\[\s?[^\[\]]*([Ff]igs?(ure)?|F\s?IGS?(URE)?|Table|[sS]ee|For more|panel|http|www|NCT\d+|NO\.|version)s?[^\[\]]*(\\)?\])', r'通用删除8(英):<u>\1</u>'],  # 固定格式  带有[]的图片表格描述 附录描述 协议描述 无关网址描述
+    [r'(^Full size.*)', r'通用删除9(英):<u>\1</u>'],  # Full size image/table 原文这里应该是一个图/表没识别出图形
     [r'(\([^\(\)]*(arrow|←|→)[^\(\)]\))', r''],  # ...箭头 描述图里面不同颜色的箭头
 
     # 9.4继续添加
-    [r'(^Full size.*)', r''],  # Full size image/table 原文这里应该是一个图/表没识别出图形
-    [r'(\([pP]\.?\d+[^\(\)]*\))', r''],  # 带有括号的([Pp]. ...)第几页
+    [r'(^Full size.*)', r'通用删除10(英):<u>\1</u>'],  # Full size image/table 原文这里应该是一个图/表没识别出图形
+    [r'(\([pP]\.?\d+[^\(\)]*\))', r'通用删除11(英):<u>\1</u>'],  # 带有括号的([Pp]. ...)第几页
     [r'(\([^\(\)]*Additional file[^\(\)]*\))', r''],  # 附加文件带括号
-    [r'([\*#]{0,4}Additional file.*)', r''],  # 附加文件
-    [r'(^Download\s.*)', r''],  # 段落开头下载 ...
-    [r'^.{0,3}(Editor.s note|To learn more about).*', r''],  # 从段落头开始 编辑信息 更多信息
-    [r'(^(You can find more|About this video).*)', r''],  # 段落开头 你可以找到更多/关于本视频
+    [r'([\*#]{0,4}Additional file.*)', r'通用删除12(英):<u>\1</u>'],  # 附加文件
+    [r'(^Download\s.*)', r'通用删除13(英):<u>\1</u>'],  # 段落开头下载 ...
+    [r'^.{0,3}(Editor.s note|To learn more about).*', r'通用删除14(英):<u>\1</u>'],  # 从段落头开始 编辑信息 更多信息
+    [r'(^(You can find more|About this video).*)', r'通用删除15(英):<u>\1</u>'],  # 段落开头 你可以找到更多/关于本视频
 
     #09.23继续添加
-    [r'(^#*\s?([Ff]igs?(ure)?|F\s?IGS?(URE)?).*)', r''],  # 删除开头为Figure的描述
+    [r'(^#*\s?([Ff]igs?(ure)?|F\s?IGS?(URE)?).*)', r'通用删除16(英):<u>\1</u>'],  # 删除开头为Figure的描述
 
     # 以上为通用正则库
     # ========================================================================================
@@ -63,8 +63,16 @@ pattern_zh = [
     # 以上为通用正则库
     # ========================================================================================
     # 以下补充对此组数据清洗的特定正则
-
-
+    [r'((谢谢大家的发言，|其影相资料如下：).*)', r'删除1:<u>\1</u>'],
+    [r'([\(（](图|附图|板|更多病例|广西圣特药业|—)[^（）\(\)]*[）\)])', r'删除2:<u>\1</u>'],
+    [r'(图\d+:[^。\n]+。?)', r'删除3:<u>\1</u>'],
+    [r'(图1下肢动脉造影)', r'删除4:<u>\1</u>'],
+    [r'(【病例讨论】 请大家结合病史.*)', r'删除5:<u>\1</u>'],
+    [r'(住院医师：科主任：.*)',  r'删除6:<u>\1</u>'],
+    [r'(\\?[\[](图|附图)[ \w][^\[\]]*[\]])', r'删除7:<u>\1</u>'],
+    [r'([\(（][\w、， —]+[）\)]图)', r'删除8:<u>\1</u>'],
+    [r'(\*\*【[\u4e00-\u9fff]+】\*\* *)([。,，])', r'\1删除9:<u>\2</u>'],
+    [r'([\(（]$)', r'删除10:<u>\1</u>。']
     ]
 
 class clean_pattern:
@@ -93,8 +101,8 @@ class clean_pattern:
                     end_index = index + end[1]
             if end_index > 0:
                 for i in range(0, end_index):
-                    # context[i] = "通用开头删除-1:<u>{}</u>".format(context[i])
-                    context[i] = ""
+                    context[i] = "通用开头删除-1:<u>{}</u>".format(context[i])
+                    # context[i] = ""
         return context
 
     # 通用删除从某一个段开始到文章结束
@@ -117,8 +125,8 @@ class clean_pattern:
                 if re.search(start[0], item.strip()):
                     references_started = True
                 if references_started:
-                    # context[index] = "通用结尾删除-1:<u>{}</u>".format(context[index])
-                    context[index] = ''
+                    context[index] = "通用结尾删除-1:<u>{}</u>".format(context[index])
+                    # context[index] = ''
         return context
 
     # 通用句中某一部分的删除
@@ -152,8 +160,8 @@ class clean_pattern:
                         start_index = delete_line_index[i - 1][0]
                         end_index = delete_line_index[i][0]
                         for i in range(start_index, end_index + middle[2]):
-                            # context[i] = "通用间距删除-1:<u>{}</u>".format(context[i])
-                            context[i] = ""
+                            context[i] = "通用间距删除-1:<u>{}</u>".format(context[i])
+                            # context[i] = ""
 
         return context
 
@@ -182,8 +190,7 @@ class clean_pattern:
                     next_line_rule = line_feed_rule[1]
                     if index + 1 < len(context) and re.search(current_line_rule, stripped_item) and re.search(next_line_rule, context[index + 1].strip()):
                         # 合并当前段和下一段
-                        # context[index] = item.rstrip() + "|删除段之间换行|" + context[index + 1].lstrip()
-                        context[index] = item.rstrip() + context[index + 1].lstrip()
+                        context[index] = item.rstrip() + "|删除段之间换行|" + context[index + 1].lstrip()
                         # 删除下一段
                         del context[index + 1]
                         index = index-1
@@ -193,8 +200,7 @@ class clean_pattern:
                 elif len(line_feed_rule) == 1:
                     if index + 1 < len(context) and re.search(current_line_rule, stripped_item):
                         # 合并当前段和下一段
-                        # context[index] = item.rstrip() + "|删除段之间换行|" + context[index + 1].lstrip()
-                        context[index] = item.rstrip() + context[index + 1].lstrip()
+                        context[index] = item.rstrip() + "|删除段之间换行|" + context[index + 1].lstrip()
                         # 删除下一段
                         del context[index + 1]
                         # index = index-1
@@ -236,18 +242,19 @@ class speicalProces:
 
 
 
-
 def clean_text(context, lang):
     split_token = "\n\n"
     if split_token not in context:
         split_token = "\n"
     cp = clean_pattern()
     sp = speicalProces()
+
+    context =  re.sub(r'([\u4e00-\u9fff])(\s*(\n|$))', r'\1。\2', context)
     context = context.split(split_token)
 
     # 若有需要再补充正则并调用，正则在对应的函数里补充
-    context = cp.delete_page_start(context)
-    context = cp.delete_page_ending(context)
+    # context = cp.delete_page_start(context)
+    # context = cp.delete_page_ending(context)
     # context = cp.delete_page_middle(context)
 
 
@@ -287,19 +294,19 @@ def post_process(context):
 
 
 
-fw = open(r"C:\pycharm\orc识别pdf清洗数据\pdf\clean_json\reclean0_nhs.jsonl", "w", encoding="utf-8")
-with open(r"C:\pycharm\orc识别pdf清洗数据\pdf\clean_json\original_data\nhs_preformat.jsonl", "r", encoding="utf-8") as fs:
-    lines = fs.readlines()
+fw = open(r"C:/Program Files/lk/projects/pdf/aiaiyi_case/aiaiyi_case_preformat_clean1.jsonl", "w", encoding="utf-8")
+with open(r"C:/Program Files/lk/projects/pdf/aiaiyi_case/aiaiyi_case_preformat.jsonl", "r", encoding="utf-8") as fs:
+    num = 155
+    lines = fs.readlines()#[num-1:num]
     for items in tqdm(lines):
         item = json.loads(items.strip())
-        # if item["seq_id"] == "5a9815c6-c389-410a-884d-86bd79e6dc56":
         context = item["text"]
         lang = item["lang"]
         title = item["title"]
         context = re.sub(r'\xa0', r' ', context)
         context = clean_text(context, lang)
         context = post_process(context)
-        # print(context)
+        # print(context, '\n-------------------')
         item["text"] = context
         item = json.dumps(item, ensure_ascii=False)
         # print(item)
