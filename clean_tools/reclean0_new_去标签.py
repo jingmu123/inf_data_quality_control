@@ -29,6 +29,9 @@ pattern_en = [
     [r'^.{0,3}(Editor.s note|To learn more about).*', r''],  # 从段落头开始 编辑信息 更多信息
     [r'(^(You can find more|About this video).*)', r''],  # 段落开头 你可以找到更多/关于本视频
 
+    #09.23继续添加
+    [r'(^#*\s?([Ff]igs?(ure)?|F\s?IGS?(URE)?).*)', r''],  # 删除开头为Figure的描述
+
     # 以上为通用正则库
     # ========================================================================================
     # 以下补充对此组数据清洗的特定正则
@@ -54,7 +57,7 @@ pattern_zh = [
     # 9.4继续添加
     [r'(（\s{0,}）)', r''],  # 空括号里面什么都没有
     [r'(（详见[^（）]*）)', r''],  # 中文括号详见...
-    [r'([，。]见(图|表)\d+[^，。]*)', r''],  # 半句到前后的标点处截至 见图/表1...
+    [r'([，。]见(图|表)[\d\s,，\-\–—]+[^，。]*)', r''],  # 半句到前后的标点处截至 见图/表1...
     [r'(（[^（）]*视频[^（）]*）)', r''],  # 带有中文（）的...视频
 
     # 以上为通用正则库
@@ -79,8 +82,8 @@ class clean_pattern:
         """
         # 避免重复加标签，特征最好合并为1-2条，当段保留一条，当段删除一条。
         end_pattern = [
-            [r'(^[#\s]*(Abstract|Background)\s*$)', 0],
-            # [r'(^[  \t#]*(Pages?:).*)', 1],
+            [r'(^[#\s]*(Abstract|ABSTRACT)：?\s*)', 0],
+            [r'(^[#\s]*(Background|Introduction)：?\s*)', 0],
 
         ]
         end_index = 0
@@ -104,7 +107,7 @@ class clean_pattern:
         """
         # 避免重复加标签，特征最好合并为1-2条，当段保留一条，当段删除一条。
         ending_starts = [
-            [r'^[#\*]{0,4}\s?(Reference|Funding and Disclosures|Polls on Public|Ethics Approval|Authors?\'? Contribution|Acknowledgement)s?[#\*]{0,4}\s{0,}($|\n)'],
+            [r'^[#\*]{0,4}\s?(References?：?|Funding( Sources| Statement| and Disclosure)?|Polls on Public|Ethics Approval|Author[s\' ]*Contribution|Acknowledge?ment|Conflicts? of [Ii]nterest|Source of (Support|Funding))s?[#\*]{0,4}\s{0,}($|\n)'],
 
         ]
 
@@ -130,7 +133,7 @@ class clean_pattern:
         """
         start_to_end = [
             # 样例
-            [r'funding|...', r'Acknowledgments', 1],
+            # [r'funding|...', r'Acknowledgments', 1],
         ]
         for middle in start_to_end:
             delete_line_index = []
@@ -301,4 +304,4 @@ with open(r"C:\pycharm\orc识别pdf清洗数据\pdf\clean_json\original_data\nhs
         item = json.dumps(item, ensure_ascii=False)
         # print(item)
         fw.write(item + "\n")
-
+fw.close()
