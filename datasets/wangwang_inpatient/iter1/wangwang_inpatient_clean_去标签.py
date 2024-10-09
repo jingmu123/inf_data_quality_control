@@ -42,31 +42,31 @@ pattern_en = [
 
 
 pattern_zh = [
-    [r'([\(][^\)\(]*见?(图|表|详见)\s?\d+[^\)\(]*[\)])', r'通用删除1(中):<u>\1</u>'],  # 带有英文括号的
-    [r'(（[^）（]*见?(图|表|详见)\s?\d+[^）（]*）)', r'通用删除2(中):<u>\1</u>'],
-    [r'(致谢.*)', r'通用删除3(中):<u>\1</u>'],
-    [r'(^[\*#]{0,4}点击查看.*)', r'通用删除4(中):<u>\1</u>'],  # 点击查看...
+    [r'([\(][^\)\(]*见?(图|表|详见)\s?\d+[^\)\(]*[\)])', r''],  # 带有英文括号的
+    [r'(（[^）（]*见?(图|表|详见)\s?\d+[^）（]*）)', r''],
+    [r'(致谢.*)', r''],
+    [r'(^[\*#]{0,4}点击查看.*)', r''],  # 点击查看...
     # [r'(^[\*#]{0,4}(图|表)\s?\d+$)',r'通用删除5(中):<u>\1</u>'],   # 这一段中只有一个 表\d+
-    [r'(.*利益冲突.*)', r'通用删除6(中):<u>\1</u>'],  # 文章末利益冲突
-    [r'(^[\*#]{0,4}详见.*)', r'通用删除7(中):<u>\1</u>'],  # 详见...
-    [r'(^[\*#]{0,4}阅读更多.*)', r'通用删除8(中):<u>\1</u>'],  # 阅读更多...
-    [r'((\\)?\[[\d\s,\-\–—]{1,}(\\)?\])', r'通用删除9(中):<u>\1</u>'],  # 带有方括号的数字引用
+    [r'(.*利益冲突.*)', r''],  # 文章末利益冲突
+    [r'(^[\*#]{0,4}详见.*)', r''],  # 详见...
+    [r'(^[\*#]{0,4}阅读更多.*)', r''],  # 阅读更多...
+    [r'((\\)?\[[\d\s,\-\–—]{1,}(\\)?\])', r''],  # 带有方括号的数字引用
     # [r'((\\)?\([\d\s,\-\–—]{1,}(\\)?\))', r'通用删除10(中):<u>\1</u>'],  # 带有圆括号的数字引用
-    [r'(?<![\dm\s])(\s{0,}<sup>(<a>)?[\d\s\–—,\(\)\[\]]{1,20}(</a>)?</sup>)', r'通用删除11(中):<u>\1</u>'],  # 特殊数字  排除可能出现的次幂情况
+    [r'(?<![\dm\s])(\s{0,}<sup>(<a>)?[\d\s\–—,\(\)\[\]]{1,20}(</a>)?</sup>)', r''],  # 特殊数字  排除可能出现的次幂情况
 
     # 9.4继续添加
-    [r'(（\s{0,}）)', r'通用删除12(中):<u>\1</u>'],  # 空括号里面什么都没有
-    [r'(（详见[^（）]*）)', r'通用删除13(中):<u>\1</u>'],  # 中文括号详见...
-    [r'([，。]见(图|表)[\d\s,，\-\–—]+[^，。]*)', r'通用删除14(中):<u>\1</u>'],  # 半句到前后的标点处截至 见图/表1...
-    [r'(（[^（）]*视频[^（）]*）)', r'通用删除15(中):<u>\1</u>'],  # 带有中文（）的...视频
+    [r'(（\s{0,}）)', r''],  # 空括号里面什么都没有
+    [r'(（详见[^（）]*）)', r''],  # 中文括号详见...
+    [r'([，。]见(图|表)[\d\s,，\-\–—]+[^，。]*)', r''],  # 半句到前后的标点处截至 见图/表1...
+    [r'(（[^（）]*视频[^（）]*）)', r''],  # 带有中文（）的...视频
 
     # 以上为通用正则库
     # ========================================================================================
     # 以下补充对此组数据清洗的特定正则
-    [r'([^。\n]+影像诊断为：。)', r'删除1:<u>\1</u>'],
-    [r'(^[\.、，？]+)([\u4e00-\u9fff])', r'删除4:<u>\1</u>\2'],
-    [r'(((\d+\.)|([（\(]))?[^\.！。；\(（\n]+(\d{4}\-)?\d{6,}[^\.。\)）；\n]*[\)）\.；。]?)', r'删除5:<u>\1</u>'],
-    [r'([（\(]符合领券条件[\)）]。?)', r'删除6:<u>\1</u>']
+    [r'([^。\n]+影像诊断为：。)', r''],
+    [r'(^[\.、，？]+)([\u4e00-\u9fff])', r'\2'],
+
+
     ]
 
 class clean_pattern:
@@ -234,12 +234,11 @@ class speicalProces:
         pass
 
     def move_hang(self, context):
-        context = re.sub(r'(【处置】 *\n *)((\- *)$)', r'\1无。', context)
         # context = re.sub(r'(\n)(【[\u4e00-\u9fff]+】\n无(\n|$))', r'\1删除2:<u>\2</u>', context)
         context = re.sub(r'(。)(无 *)(\n|$)', r'\1\3', context)
-        context = re.sub(r'([^】])(\s*\n\s*)([^【])', r'\1|删除换行|\3', context)
+        context = re.sub(r'([^】])(\s*\n\s*)([^【])', r'\1\3', context)
         # context = re.sub(r'([。])(\s*\n\s*)(\d+[\.、][\u4e00-\u9fff])', r'\1|删除2换行|\3', context)
-        context = re.sub(r'([^。!！】])(\s*\n\s*【|$)', r'\1。\2', context)
+        context = re.sub(r'([^。】])(\s*\n\s*【|$)', r'\1。\2', context)
 
         return context
 
@@ -291,18 +290,16 @@ def post_process(context):
     # 去掉过多\n的情况
     context = re.sub("\n{2,}", "\n\n", context)
     # 对多标点进行替换
-    context = re.sub(r'([。，,\.；？])(\s?[。，,\.：；？]){1,5}',r'。',context)
+    context = re.sub(r'[。，,；？](\s?[。，,：；？]){1,5}',r'。',context)
     context = re.sub(r'([,\.?])(\s?[?,\.]){1,5}',r'\1',context)
     return context
 
 
 
 
-fw = open(r"C:/Program Files/lk/projects/pdf/wangwang_outpatient/wangwang_outpatient_preformat_clean1D.jsonl", "w", encoding="utf-8")
-with open(r"C:/Program Files/lk/projects/pdf/wangwang_outpatient/wangwang_outpatient_preformat.jsonl", "r", encoding="utf-8") as fs:
-    num = 119831
-    lines = fs.readlines()#[num-1:num]
-    lines = random.sample(lines, 300)
+fw = open(r"C:/Program Files/lk/projects/pdf/wangwang_inpatient/wangwang_inpatient_preformat_clean-all.jsonl", "w", encoding="utf-8")
+with open(r"C:/Program Files/lk/projects/pdf/wangwang_inpatient/wangwang_inpatient_preformat.jsonl", "r", encoding="utf-8") as fs:
+    lines = fs.readlines()
     for items in tqdm(lines):
         item = json.loads(items.strip())
         context = item["text"]
@@ -311,7 +308,7 @@ with open(r"C:/Program Files/lk/projects/pdf/wangwang_outpatient/wangwang_outpat
         context = re.sub(r'\xa0', r' ', context)
         context = clean_text(context, lang)
         context = post_process(context)
-        print(context, '\n-------------------')
+        # print(context, '\n-------------------')
         item["text"] = context
         item = json.dumps(item, ensure_ascii=False)
         # print(item)
