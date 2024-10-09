@@ -234,6 +234,7 @@ class speicalProces:
         pass
 
     def move_hang(self, context):
+        context = re.sub(r'(【处置】 *\n *)((\- *)$)', r'\1无。', context)
         # context = re.sub(r'(\n)(【[\u4e00-\u9fff]+】\n无(\n|$))', r'\1删除2:<u>\2</u>', context)
         context = re.sub(r'(。)(无 *)(\n|$)', r'\1\3', context)
         context = re.sub(r'([^】])(\s*\n\s*)([^【])', r'\1|删除换行|\3', context)
@@ -290,16 +291,16 @@ def post_process(context):
     # 去掉过多\n的情况
     context = re.sub("\n{2,}", "\n\n", context)
     # 对多标点进行替换
-    context = re.sub(r'[。，,；？](\s?[。，,：；？]){1,5}',r'。',context)
+    context = re.sub(r'([。，,\.；？])(\s?[。，,\.：；？]){1,5}',r'。',context)
     context = re.sub(r'([,\.?])(\s?[?,\.]){1,5}',r'\1',context)
     return context
 
 
 
 
-fw = open(r"C:/Program Files/lk/projects/pdf/wangwang_outpatient/wangwang_outpatient_preformat_clean1.jsonl", "w", encoding="utf-8")
+fw = open(r"C:/Program Files/lk/projects/pdf/wangwang_outpatient/wangwang_outpatient_preformat_clean1D.jsonl", "w", encoding="utf-8")
 with open(r"C:/Program Files/lk/projects/pdf/wangwang_outpatient/wangwang_outpatient_preformat.jsonl", "r", encoding="utf-8") as fs:
-    num = 819291
+    num = 119831
     lines = fs.readlines()#[num-1:num]
     lines = random.sample(lines, 300)
     for items in tqdm(lines):
