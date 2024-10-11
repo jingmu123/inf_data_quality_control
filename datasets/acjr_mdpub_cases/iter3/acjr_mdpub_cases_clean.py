@@ -34,14 +34,22 @@ pattern_en = [
     # ========================================================================================
     # 以下补充对此组数据清洗的特定正则
     [r'(^#*\s?([Ff]igs?(ure)?|F\s?IGS?(URE)?).*)', r''],  # 删除开头为Figure的描述
-    [r'(^(Full?-text |Copyright|DOI：|[\dl]? ?Department |Dr\. |organizations， or those of the publisher|New York Chiropractic and|Publisher[\'s ]*note：|Corresponding author：|Internal Medicine (.*)?Department|Conflict of interest|National Center of Cancer).*)', r'删除2:<u>\1</u>'],
+    [r'(^(Full?-text |Copyright|DOI：|(Name of |[\dl]? ?)?Department |Dr\. |organizations， or those of the publisher|New York Chiropractic and|Publisher[\'s ]*note：|Corresponding author：|Internal Medicine (.*)?Department|Conflict of interest|National Center of Cancer|[A-Z][a-z]+ of Medicine，).*)', r'删除2:<u>\1</u>'],
     [r'(.*(Adress|E-mail|Phone( number| No\.)|Received|Accepted|Editor)[：:].*)', r'删除3:<u>\1</u>'],
     [r'(^(\(\w+\) ?\(\w+\)|\d\w( \d\w)*|[\d\-]+：|[A-Z]( \w)*|\w\w)$)', r'删除4:<u>\1</u>'],
     [r'(^[\w\\\]\[ ￥\-]{0,20}[\u4e00-\u9fff][\u4e00-\u9fff\w\\\]\[ ￥\-]{0,}[^\.\n]{0,30}$)', r'删除5:<u>\1</u>'],
     [r'( ?[，\-\|]*(\d+[，\-\|])+(\d+)?)$', r'删除6:<u>\1</u>'],
     [r'(^.{0,100}[^\d]\d{4}[;；：\.]\w+(\(\d+\))?[:：；]?[\w\-]+.{0,50})', r'删除7:<u>\1</u>'],
-    [r'^(Alreheili KM. et al：)$', r''],
     [r'(^.{0,150}(https?[：:]\/\/[^ ]*).{0,100}$)', r'删除8:<u>\1</u>'],
+    [r'(^\d+\\?\..*\d{3,4}[;；，：\.] ?\w+(\(\d+\))?[:：\.；]?[\d \-]+.*)', r'删除9:<u>\1</u>'],
+    [r'([\(（]([Ii]mage|[Vv]ideo) \d+[）\)])', r'删除10:<u>\1</u>'],
+    [r'(^((\w+( ([A-Z]+\d+|\d+[A-Z]+))+( \w+)*)|(\w\.?))$)', r'删除11:<u>\1</u>'],
+    [r'(^(We would like to (acknowledge|thank)|Joana Vilaca\\\*1，|\\\*Servigo de Pediatria|Video \d+\.|Clemenceau Medical Center|The authors gratefully thank|There are no conflicts|No financial support of|O Am J Case Rep|1\\. van Riet EES， Hoes AW，|age size：|Abdomen venoes Axial|FUFFWO\\_|Series：).*)', r'删除12:<u>\1</u>'],
+    [r'(^(Alreheili KM. et al：|[Ii]mage (\d+|i)|·T|K.1A domen PeLCE|PEL|None\.?|B\.\/A|LEFT)$)', r''],
+    [r'((^(?=.{0,75}$).*Department.*)|(^(?=.{0,150}$).*(Department of|Tel：|@[a-z]{2,10}\.com).*))', r'删除14:<u>\1</u>'],
+    [r'(^(?=.{0,150}$).*\d{3,4}[;；，：\.] ?\w+(\(\d+\))?[:：\.；]?[\d \-]+.*)', r'删除15:<u>\1</u>'],
+    # [r'(^[\u4e00-\u9fff]+)', r'删除16:<u>\1</u>'],  # 去标签时打开
+    [r'(^([a-z][\w]{0,20}|[\d\/]{1,10}|Images|B0ml i.v. KM)$)', r'删除17:<u>\1</u>'],
     ]
 
 
@@ -115,8 +123,8 @@ class clean_pattern:
         """
         # 避免重复加标签，特征最好合并为1-2条，当段保留一条，当段删除一条。
         ending_starts = [
-            [r'^[#\*]{0,4}\s?(Re[tf]erences?：?|REFERENCES?：?|Funding( Sources| Statement| and Disclosure)?|Polls on Public|Ethics (committee )?[Aa]pproval|Author[s\'’ ]*Contribution|Acknowledge?men[t1]：?|Conflicts? of [Ii]nterest|Source of (Support|Funding)|(Financial )?[Dd]isclosure|(Disclosure |Ethics )?Statement|Declaration of Figure[s\'’ ]*Authenticity|Competing [Ii]nterest|Declaration|Patient informed consent)s?[#\*]{0,4}\s{0,}($|\n)'],
-            [r'(^(\d|l)\\?\..*\d{4}[;；：\.] ?\w+(\(\d+\))?[:：\.；]?[\w \-]+.*)']
+            [r'^[#\*]{0,4}\s?(Re[tf]erences?：?|REFERENCES?：?|Funding( Sources| Statement| and Disclosure)?|Polls on Public|Ethics (committee )?[Aa]pproval|Author[s\'’ ]*([Cc]ontribution|[Ss]tatement|[Dd]eclaration)|Acknowledge?men[t1]：?|(Acknowledgements )?Conflicts? of [Ii]nterest|Source of (Support|Funding)|(Financial )?[Dd]isclosure|(Disclosure |Ethics )?Statement|Declaration of Figure[s\'’ ]*Authenticity|Competing [Ii]nterest|Declaration|Patient informed consent|(Department and )?Institution Where Work Was Done|CONFLICT OF INTEREST：|COMPETING INTERESTS|PATIENT CONSENT|TAKE HOME MESSAGES?|AUTHOR[S\'’ ]*CONTRIBUTIONS?|Ethical approval：?|Authorship)s?[#\*]{0,4}\s{0,}($|\n)'],
+            [r'(^(\d|l)\\?\..*\d{3,4}[;；：\.] ?\w+(\(\d+\))?[:：\.；]?[\w \-]+.*)']
         ]
 
         for start in ending_starts:
@@ -141,9 +149,10 @@ class clean_pattern:
         """
         start_to_end = [
             # 样例
-            [r'(^[\\ #]*(Copyright @))', r'(^[\\ #]*([A-Z][A-Za-z]+( [A-Z][A-Za-z]+)?)[\\ #]*$)|(^.{250,})|(^[a-z]{1,3}.{75,}\.$)|(^([A-Z][\w ()]{50,}\. ?){2,})', 0],
-            [r'(^[\\ #]*(DOI：))', r'(^[\\ #]*([A-Z][A-Za-z]+( [A-Z][A-Za-z]+)?)[\\ #]*$)|(^.{250,})|(^[a-z]{1,3}.{75,}\.$)|(^([A-Z][\w ()]{50,}\. ?){2,})', 0],
-            [r'(^[\\ #]*(Full?-text ))', r'(^[\\ #]*([A-Z][A-Za-z]+( [A-Z][A-Za-z]+)?)[\\ #]*$)|(^.{250,})|(^[a-z]{1,3}.{75,}\.$)|(^([A-Z][\w ()]{50,}\. ?){2,})', 0],
+            [r'(^[\\ #]*(Copyright @))', r'(^[\\ #]*([A-Z][A-Za-z]+( and)?( [A-Z][A-Za-z]+)?)[\\ #]*$)|(^.{250,})|(^[a-z]{1,3}.{75,}\.$)|(^([A-Z][\w ()]{50,}\. ?){2,})', 0],
+            [r'(^[\\ #]*(DOI：))', r'(^[\\ #]*([A-Z][A-Za-z]+( and)?( [A-Z][A-Za-z]+)?)[\\ #]*$)|(^.{250,})|(^[a-z]{1,3}.{75,}\.$)|(^([A-Z][\w ()]{50,}\. ?){2,})', 0],
+            [r'(^[\\ #]*(Full?-text ))', r'(^[\\ #]*([A-Z][A-Za-z]+( and)?( [A-Z][A-Za-z]+)?)[\\ #]*$)|(^.{250,})|(^[a-z]{1,3}.{75,}\.$)|(^([A-Z][\w ()]{50,}\. ?){2,})', 0],
+            [r'(^[\\ #]*(Author[s\'’ ]*[Aa]ddress：|\d?Corresponding [Aa]uthors?：))', r'(^[\\ #]*([A-Z][A-Za-z]+( and)?( [A-Z][A-Za-z]+)?)[\\ #]*$)|(^.{250,})|(^[a-z]{1,3}.{75,}\.$)|(^([A-Z][\w ()]{50,}\. ?){2,})', 0],
         ]
         for middle in start_to_end:
             delete_line_index = []
@@ -242,12 +251,13 @@ class speicalProces:
         pass
 
     def move_duan(self, context):
+        context = re.sub(r'([^|\n]{80,}\.\n+\n)([a-z][^|\n]{50,}\n+\n)([A-Z][^|\n]{50,}[a-z\-])(\n+\n)([A-Z][^|\n]{50,}|\n\s*|$|[\u4e00-\u9fff]{2,})', r'\1\3|删除上下换行|\2\5', context)   # 去标签检查第4832条数据
         context = re.sub(r'([^|\n]{50,}[a-z，\-\d])(\n+\n)([a-z\(][^\)]|\d+[^\.\\\)])',  r'\1删除1换行\3', context)
         context = re.sub(r'([^|\n]{80,}[^\.])(\n+\n)( *[a-z][^\)])', r'\1删除2换行\3', context)
         context = re.sub(r'([a-z\-\d])(\n+\n)( *\.)', r'\1删除3换行\3', context)
         context = re.sub(r'([^|\n]{80,}[,，a-z])(\n+\n)( *(?!Table)[A-Z][^|\n]{35,}\.[^|\n]{200,})', r'\1删除4换行\3', context)
-        context = re.sub(r'([a-zA-Z，\d\--])(\n+\n((Supplementary )?Table|\|) [\W\w]*?)(\n+\n)(([a-z\(][^ \--]).*)', r'\1删除表格换行\6\2', context)
-        context = re.sub(r'([a-z\d])(\n+\n((Supplementary )?Table|\|) [\W\w]*?)(\n+\n)((±|\d).*)', r'\1删除表格换行\6\2', context)
+        context = re.sub(r'([a-zA-Z，\d\--])(\n+\n((Supplementary )?Table|\|) [\W\w]*?)(\n+\n)(([a-z\(][^ \--].*)|([A-Z][a-z]{2,10}\..{100,}))', r'\1删除表格换行\6\2', context)
+        context = re.sub(r'([a-z\d])(\n+\n((Supplementary )?Table|\|) [\W\w]*?)(\n+\n)((±|\d+[^\\\.]).*)', r'\1删除表格换行\6\2', context)
 
         return context
 
@@ -262,7 +272,7 @@ class speicalProces:
                     r'([a-zA-Z，\d\.\)\]])(\n\n(Re[tf]erences?：?|REFERENCES?：?\n\n)[\W\w]*?)(\n\n)((\\?\-?[a-zA-Z\(])[\W\w]*?)(\n\n\d+\\?\.)',
                     r'\1|拼接引用正文|\n\n\5\2\7', context)
                 return context
-            elif re.search(r'(\d{4}[;；： \.]+\d+(\(\d+\))?[:：； ]*[\d\-]+)|(https?[：:]\/\/)|(\d+(\(\w+\))?[:：； ]*\d+[\-]\d+)', l_text) or re.search(r'(\d{4}[;；： \.]+\d+(\(\d+\))?[:：； ]*[\d\-]+)|(https?[：:]\/\/)|(\d+(\(\w+\))?[:：； ]*\d+[\-]\d+)', n_text):
+            elif re.search(r'(\d{4}[;；： \.]+\d+(\(\d+\))?[:：； ]*[\d\-]+)|(https?[：:]\/\/)|(\d+(\(\w+\))?[:：； ]*\d+[\-]\d+)', l_text) or re.search(r'(\d{4}[;；： \.]+\d+(\(\d+\))?[:：； ]*[\d\-]+)|(https?[：:]\/\/)|(\d+(\(\w+\))?[:：； ]*\d+[\-]\d+)', n_text) or len(n_text)<20:
                 context = re.sub(r'([a-zA-Z，\d\.\)\]])(\n\n(Re[tf]erences?：?|REFERENCES?：?\n\n)[\W\w]*?\n\n)(\\?\-?[a-zA-Z\(].*\n\n)([\W\w]*?\n\n\d+\\?\.)', r'\1\2删除不符拼接:<u>\4</u>\n\n\5', context)  #去标签去掉删除不符拼接:<u>\4</u>\n\n
                 context = self.move_ref_confusion(context)
             else:
@@ -329,11 +339,11 @@ def post_process(context):
 
 
 
-fw = open(r"C:/Program Files/lk/projects/pdf/acjr_mdpub_cases/acjr_mdpub_cases_preformat_clean-test.jsonl", "w", encoding="utf-8")
+fw = open(r"C:/Program Files/lk/projects/pdf/acjr_mdpub_cases/acjr_mdpub_cases_preformat_clean3.jsonl", "w", encoding="utf-8")
 with open(r"C:/Program Files/lk/projects/pdf/acjr_mdpub_cases/acjr_mdpub_cases_preformat.jsonl", "r", encoding="utf-8") as fs:
-    num = 3356
-    lines = fs.readlines()[num-1:num]
-    # lines = random.sample(lines, 300)
+    num = 551
+    lines = fs.readlines()#[num-1:num]
+    lines = random.sample(lines, 300)
     for items in tqdm(lines):
         item = json.loads(items.strip())
         context = item["text"]
