@@ -14,8 +14,8 @@ pattern_en = [
     [r'(^[\*#]{0,4}(NEWSLETTER|Get the Crohn|Tips from experts|Stay Up-to-Date|Sign up for the latest coronavirus news|You can find more information at|See also|Adapted by|For more information).*)', r''],  # 开头固定这种情况较多这种固定开头后面都能添加 (时事通讯|获取克罗恩资讯|专家提示|了解最新动态|注册获取最新冠状病毒新闻|你可以寻找更多消息在...|另请参见...|改编自...|更多信息)
     [r'(?<![\dm\s])(\s{0,}<sup>(<a>)?\s{0,}\d+[\d\s\–—,\(\)\[\]]{1,20}(</a>)?</sup>)', r''],  # 特殊数字  排除可能出现的次幂情况
     [r'(.*(doi|DOI)\s?:.*)', r''],  # 存在有DOI描述的句子
-    [r'((\\)?\[[\d\s,，\–\-—]{1,}(\\)?\])', r''],  # 带有方括号的数字引用
-    [r'((\\)?\([\d\s,，\-\–—]{1,}(\\)?\))', r''],  # 带有圆括号的数字引用
+    [r'((\\)?\[[\d\s,\\，\–\-—]{1,}(\\)?\])', r''],  # 带有方括号的数字引用
+    [r'((\\)?\([\d\s,\\，\-\–—]{1,}(\\)?\))', r''],  # 带有圆括号的数字引用
     [r'((\\)?\[\s?[^\[\]]*([Ff]igs?(ure)?|F\s?IGS?(URE)?|Table|[sS]ee|For more|panel|http|www|NCT\d+|NO\.|version)s?[^\[\]]*(\\)?\])', r''],  # 固定格式  带有[]的图片表格描述 附录描述 协议描述 无关网址描述
     [r'(^Full size.*)', r''],  # Full size image/table 原文这里应该是一个图/表没识别出图形
     [r'(\([^\(\)]*(arrow|←|→)[^\(\)]\))', r''],  # ...箭头 描述图里面不同颜色的箭头
@@ -29,12 +29,13 @@ pattern_en = [
     [r'^.{0,3}(Editor.s note|To learn more about).*', r''],  # 从段落头开始 编辑信息 更多信息
     [r'(^(You can find more|About this video).*)', r''],  # 段落开头 你可以找到更多/关于本视频
 
-    # 09.23继续添加
-    [r'(^#*\s?([Ff]igs?(ure)?|F\s?IGS?(URE)?).*)', r''],  # 删除开头为Figure的描述
-
     # 以上为通用正则库
     # ========================================================================================
     # 以下补充对此组数据清洗的特定正则
+    [r'([\.,]\s)(\d{1,3}[\s–,\d{1,3}]{0,20})([A-Z]|$|\n)',r'\1\3'],
+    [r'([,]\s)(\d{1,3}([–,]\d{1,3}){1,20} *)([A-Za-z]|$)',r'\1\3'],
+
+    [r'(\([^\n()]*(?:[Vv]ideos?|[Tt]ables?|F[iI][gG][sS]?(?:ures?|URES?)?|file) *\d+[^\n()]*\))',r'']
 
 
 
@@ -42,38 +43,50 @@ pattern_en = [
 
 
 pattern_zh = [
-    [r'([\(][^\)\(]*见?(图|表|详见)\s?\d+[^\)\(]*[\)])', r''],  # 带有英文括号的
-    [r'(（[^）（]*见?(图|表|详见)\s?\d+[^）（]*）)', r''],
-    [r'(致谢.*)', r''],
-    [r'(^[\*#]{0,4}点击查看.*)', r''],  # 点击查看...
+    [r'([\(][^\)\(]*见?(图|表|详见)\s?\d+[^\)\(]*[\)])', r'通用删除1(中):<u>\1</u>'],  # 带有英文括号的
+    [r'(（[^）（]*见?(图|表|详见)\s?\d+[^）（]*）)', r'通用删除2(中):<u>\1</u>'],
+    [r'(致谢.*)', r'通用删除3(中):<u>\1</u>'],
+    [r'(^[\*#]{0,4}点击查看.*)', r'通用删除4(中):<u>\1</u>'],  # 点击查看...
     # [r'(^[\*#]{0,4}(图|表)\s?\d+$)',r'通用删除5(中):<u>\1</u>'],   # 这一段中只有一个 表\d+
-    [r'(.*利益冲突.*)', r''],  # 文章末利益冲突
-    [r'(^[\*#]{0,4}详见.*)', r''],  # 详见...
-    [r'(^[\*#]{0,4}阅读更多.*)', r''],  # 阅读更多...
-    [r'((\\)?\[[\d\s,\-\–—]{1,}(\\)?\])', r''],  # 带有方括号的数字引用
+    [r'(.*利益冲突.*)', r'通用删除6(中):<u>\1</u>'],  # 文章末利益冲突
+    [r'(^[\*#]{0,4}详见.*)', r'通用删除7(中):<u>\1</u>'],  # 详见...
+    [r'(^[\*#]{0,4}阅读更多.*)', r'通用删除8(中):<u>\1</u>'],  # 阅读更多...
+    [r'((\\)?\[[\d\s,\-\–—]{1,}(\\)?\])', r'通用删除9(中):<u>\1</u>'],  # 带有方括号的数字引用
     # [r'((\\)?\([\d\s,\-\–—]{1,}(\\)?\))', r'通用删除10(中):<u>\1</u>'],  # 带有圆括号的数字引用
-    [r'(?<![\dm\s])(\s{0,}<sup>(<a>)?[\d\s\–—,\(\)\[\]]{1,20}(</a>)?</sup>)', r''],  # 特殊数字  排除可能出现的次幂情况
+    [r'(?<![\dm\s])(\s{0,}<sup>(<a>)?[\d\s\–—,\(\)\[\]]{1,20}(</a>)?</sup>)', r'通用删除11(中):<u>\1</u>'],  # 特殊数字  排除可能出现的次幂情况
 
     # 9.4继续添加
-    [r'(（\s{0,}）)', r''],  # 空括号里面什么都没有
-    [r'(（详见[^（）]*）)', r''],  # 中文括号详见...
-    [r'([，。]见(图|表)[\d\s,，\-\–—]+[^，。]*)', r''],  # 半句到前后的标点处截至 见图/表1...
-    [r'(（[^（）]*视频[^（）]*）)', r''],  # 带有中文（）的...视频
+    [r'(（\s{0,}）)', r'通用删除12(中):<u>\1</u>'],  # 空括号里面什么都没有
+    [r'(（详见[^（）]*）)', r'通用删除13(中):<u>\1</u>'],  # 中文括号详见...
+    [r'([，。]见(图|表)\d+[^，。]*)', r'通用删除14(中):<u>\1</u>'],  # 半句到前后的标点处截至 见图/表1...
+    [r'(（[^（）]*视频[^（）]*）)', r'通用删除15(中):<u>\1</u>'],  # 带有中文（）的...视频
 
     # 以上为通用正则库
     # ========================================================================================
     # 以下补充对此组数据清洗的特定正则
-    [r'((谢谢大家的发言，|其影相资料如下：).*)', r''],
-    [r'([\(（](图|附图|板|更多病例|广西圣特药业|—)[^（）\(\)]*[）\)])', r''],
-    [r'(图\d+:[^。\n]+。?)', r''],
-    [r'(图1下肢动脉造影)', r''],
-    [r'(【病例讨论】 请大家结合病史.*)', r''],
-    [r'(住院医师：科主任：.*)',  r''],
-    [r'(\\?[\[](图|附图)[ \w][^\[\]]*[\]])', r''],
-    [r'([\(（][\w、， —]+[）\)]图)', r''],
-    [r'(\*\*【[\u4e00-\u9fff]+】\*\* *)([。,，])', r'\1'],
-    [r'([\(（]$)', r'。']
+
+
     ]
+
+pattern_en_list=[
+    [r'((?:https?[:：]\/\/(?:www\.)?|www\.)[ a-zA-Z0-9-]+(?:\.[a-zA-Z0-9]{2,})+(?:\/[^ \n\u4e00-\u9fa5]*)?(?:(?:\n+This is an open access.*)|(?:\n+Statistics from Altmetric.com\n+-*)))',r''],
+
+    [r'(?<=\n)((?:<img\/>\n+)(?:\** *(?:Download figure|Open in new tab|Download powerpoint)\n+)+)',r''],
+    [r'(?<=\n)(\**F[iI][gG][sS]?(?:ures?|URES?|\.) ?[0-9]+([.-]\d*)*[:：.]?(?:\n+.*|.*))',r''],
+    [r'(?<=\n)(Table ?[0-9]+([.-]\d*)*[:：.]?(?:\n+.*|.*))',r''],
+    [r'(?<=\n)((?:Ethics statements?\n+-*)(?:.*(?:\n|$)*)*)',r''],
+    [r'(?<=\n)((?:View this table:\n+)(?:\** *(?:View.*)\n*)+)',r''],
+    [r'(?:\n|^)(Request Permissions?\n+-*\n+If you wish to.*)',r''],
+    [r'(?:\n|^)(#* *(?:Supplemental material|Supplementary video)\n+\\\[.*\\\])',r''],
+    [r'(?<=\n)(Video *\d+.*)',r''],
+    [r'(?<=\n)((?:\* *.*\n){2,})',r'']
+
+
+
+
+
+
+]
 
 class clean_pattern:
     def __init__(self):
@@ -90,8 +103,8 @@ class clean_pattern:
         """
         # 避免重复加标签，特征最好合并为1-2条，当段保留一条，当段删除一条。
         end_pattern = [
-            [r'(^[#\s]*(Abstract|ABSTRACT)：?\s*)', 0],
-            [r'(^[#\s]*(Background|Introduction)：?\s*)', 0],
+            [r'(^[#\s]*(Abstract|Background)\s*$)', 0],
+            # [r'(^[  \t#]*(Pages?:).*)', 1],
 
         ]
         end_index = 0
@@ -101,8 +114,8 @@ class clean_pattern:
                     end_index = index + end[1]
             if end_index > 0:
                 for i in range(0, end_index):
-                    context[i] = "".format(context[i])
-                    # context[i] = ""
+                    # context[i] = "通用开头删除-1:<u>{}</u>".format(context[i])
+                    context[i] = ""
         return context
 
     # 通用删除从某一个段开始到文章结束
@@ -115,7 +128,7 @@ class clean_pattern:
         """
         # 避免重复加标签，特征最好合并为1-2条，当段保留一条，当段删除一条。
         ending_starts = [
-            [r'^[#\*]{0,4}\s?(References?：?|Funding( Sources| Statement| and Disclosure)?|Polls on Public|Ethics Approval|Author[s\' ]*Contribution|Acknowledge?ment|Conflicts? of [Ii]nterest|Source of (Support|Funding))s?[#\*]{0,4}\s{0,}($|\n)'],
+            [r'^[#\*]{0,4}\s?(Reference|Funding and Disclosures|Polls on Public|Ethics Approval|Author[s\' ]*Contribution|Acknowledge?ment|Conflicts? of Interest|Source of (Support|Funding))s?[#\*]{0,4}\s{0,}($|\n)'],
 
         ]
 
@@ -125,8 +138,8 @@ class clean_pattern:
                 if re.search(start[0], item.strip()):
                     references_started = True
                 if references_started:
-                    context[index] = "".format(context[index])
-                    # context[index] = ''
+                    # context[index] = "通用结尾删除-1:<u>{}</u>".format(context[index])
+                    context[index] = ''
         return context
 
     # 通用句中某一部分的删除
@@ -160,8 +173,8 @@ class clean_pattern:
                         start_index = delete_line_index[i - 1][0]
                         end_index = delete_line_index[i][0]
                         for i in range(start_index, end_index + middle[2]):
-                            context[i] = "".format(context[i])
-                            # context[i] = ""
+                            # context[i] = "通用间距删除-1:<u>{}</u>".format(context[i])
+                            context[i] = ""
 
         return context
 
@@ -242,6 +255,7 @@ class speicalProces:
 
 
 
+
 def clean_text(context, lang):
     split_token = "\n\n"
     if split_token not in context:
@@ -249,12 +263,15 @@ def clean_text(context, lang):
     cp = clean_pattern()
     sp = speicalProces()
 
-    context =  re.sub(r'([\u4e00-\u9fff])(\s*(\n|$))', r'\1。\2', context)
+    pattern_list = pattern_en_list
+    for pattern_item in pattern_list:
+        context = re.sub(pattern_item[0], pattern_item[1], context)
+
     context = context.split(split_token)
 
     # 若有需要再补充正则并调用，正则在对应的函数里补充
-    # context = cp.delete_page_start(context)
-    # context = cp.delete_page_ending(context)
+    context = cp.delete_page_start(context)
+    context = cp.delete_page_ending(context)
     # context = cp.delete_page_middle(context)
 
 
@@ -294,21 +311,23 @@ def post_process(context):
 
 
 
-fw = open(r"C:/Program Files/lk/projects/pdf/aiaiyi_case/aiaiyi_case_preformat_clean1.jsonl", "w", encoding="utf-8")
-with open(r"C:/Program Files/lk/projects/pdf/aiaiyi_case/aiaiyi_case_preformat.jsonl", "r", encoding="utf-8") as fs:
-    # num = 155
-    lines = fs.readlines()#[num-1:num]
+# fw = open(r"C:\Users\Administrator\PycharmProjects\untitled\bmj_case\reclean1_bmj_case.jsonl", "w", encoding="utf-8")
+with open(r"C:\Users\Administrator\PycharmProjects\untitled\bmj_case\test.jsonl", "r", encoding="utf-8") as fs:
+# with open(r"C:\Users\Administrator\PycharmProjects\untitled\bmj_case\bmj_case_preformat.jsonl", "r", encoding="utf-8") as fs:
+
+    lines = fs.readlines()
     for items in tqdm(lines):
         item = json.loads(items.strip())
+        # if item["seq_id"] == "5a9815c6-c389-410a-884d-86bd79e6dc56":
         context = item["text"]
         lang = item["lang"]
         title = item["title"]
         context = re.sub(r'\xa0', r' ', context)
         context = clean_text(context, lang)
         context = post_process(context)
-        # print(context, '\n-------------------')
+        print(context)
         item["text"] = context
         item = json.dumps(item, ensure_ascii=False)
         # print(item)
-        fw.write(item + "\n")
-fw.close()
+        # fw.write(item + "\n")
+
