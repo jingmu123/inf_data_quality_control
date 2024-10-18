@@ -47,17 +47,17 @@ pattern_list = [
     [r'.*Mayo Clin(ic)? Proc.*',r''],      # Mayo Clin Proc 梅奥医院...
 
     [r'((?<![\d+m\s])|^)(<sup>(<a>)?[a-z\d\s\-\–—,\(\)\[\]]{1,20}(</a>)?</sup>)',r'\1'],
-    [r'(\\\[[^\[\]]*\d{4}[^\[\]]*\\\])',r'删除20:<u>\1</u>'],
+    [r'(\\\[[^\[\]]*\d{4}[^\[\]]*\\\])',r''],
     [r'(^\*   US Pharmacopeia.*)',r''],
     # [r'(.*[\s\.]\d{4}\.?$)',r'删除21:<u>\1</u>'],  # 删除末尾为年份的句子
     [r'(\*   Kaiser Family Foundation Health Research and Educational Trust)',r''],
-    [r'(^\*{0,4}_?To the Edito:_?\*{0,4})',r'删除22:<u>\1</u>'],
+    [r'(^\*{0,4}_?To the Edito:_?\*{0,4})',r''],
     [r'\(data from Siscovick et al',r''],
     [r'The study by Khan et al',r''],
 
     [r'^(The authors report no competing interests|We thank Dr Padda for his interest in our article|Adapted by).*',r''],
     [r'^[:;.,!]$',r''],   # 单行只有一个标点
-    [r'(<sup>[a-z\d\s–]{10,20}</sup>)',r'删除23:<u>\1</u>'],
+    [r'(<sup>[a-z\d\s–]{10,20}</sup>)',r''],
 
 
 ]
