@@ -68,7 +68,7 @@ class speicalProces:
             end_index = warnings_index[-1]
             # 循环遍历需要替换的片段
             for i in range(start_index, end_index):
-                context[i] = "删除重复:<u>{}</u>".format(context[i])
+                # context[i] = "删除重复:<u>{}</u>".format(context[i])
                 context[i] = ""
         return context
 
