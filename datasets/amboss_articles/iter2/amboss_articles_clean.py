@@ -31,9 +31,9 @@ pattern_list = [
     [r'([^\n]*\*[^\n]*[Ss]ee\s[^\n]*)',r''],  # 不带括号的see 行级 前面有*
     [r'(^See\s.*)',r''],   # See开头的句子
 
-    [r'((\*\s+)?For more\s[^\n]*)',r'删除7:<u>\1</u>'],  # For more 更多消息请参考...
+    [r'((\*\s+)?For more\s[^\n]*)',r''],  # For more 更多消息请参考...
     [r'((Subscribe to|To see |For answers to questions).*)',r''],
-    [r'(.*https\:.*)',r'删除8:<u>\1</u>'],    # https网址信息
+    [r'(.*https\:.*)',r''],    # https网址信息
 ]
 
 class speicalProces:

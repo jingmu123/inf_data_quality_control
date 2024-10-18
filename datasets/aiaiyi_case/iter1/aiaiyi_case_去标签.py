@@ -101,7 +101,7 @@ class clean_pattern:
                     end_index = index + end[1]
             if end_index > 0:
                 for i in range(0, end_index):
-                    context[i] = "通用开头删除-1:<u>{}</u>".format(context[i])
+                    context[i] = "".format(context[i])
                     # context[i] = ""
         return context
 
@@ -125,7 +125,7 @@ class clean_pattern:
                 if re.search(start[0], item.strip()):
                     references_started = True
                 if references_started:
-                    context[index] = "通用结尾删除-1:<u>{}</u>".format(context[index])
+                    context[index] = "".format(context[index])
                     # context[index] = ''
         return context
 
@@ -160,7 +160,7 @@ class clean_pattern:
                         start_index = delete_line_index[i - 1][0]
                         end_index = delete_line_index[i][0]
                         for i in range(start_index, end_index + middle[2]):
-                            context[i] = "通用间距删除-1:<u>{}</u>".format(context[i])
+                            context[i] = "".format(context[i])
                             # context[i] = ""
 
         return context
@@ -190,7 +190,7 @@ class clean_pattern:
                     next_line_rule = line_feed_rule[1]
                     if index + 1 < len(context) and re.search(current_line_rule, stripped_item) and re.search(next_line_rule, context[index + 1].strip()):
                         # 合并当前段和下一段
-                        context[index] = item.rstrip() + "|删除段之间换行|" + context[index + 1].lstrip()
+                        context[index] = item.rstrip() + "" + context[index + 1].lstrip()
                         # 删除下一段
                         del context[index + 1]
                         index = index-1
@@ -200,7 +200,7 @@ class clean_pattern:
                 elif len(line_feed_rule) == 1:
                     if index + 1 < len(context) and re.search(current_line_rule, stripped_item):
                         # 合并当前段和下一段
-                        context[index] = item.rstrip() + "|删除段之间换行|" + context[index + 1].lstrip()
+                        context[index] = item.rstrip() + "" + context[index + 1].lstrip()
                         # 删除下一段
                         del context[index + 1]
                         # index = index-1
