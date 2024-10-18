@@ -351,7 +351,7 @@ def post_process(context):
 
 
 
-fw = open(r"C:/Program Files/lk/projects/pdf/ccri/ccri_preformat_clean4.jsonl", "w", encoding="utf-8")
+fw = open(r"C:/Program Files/lk/projects/pdf/ccri/ccri_clean.jsonl", "w", encoding="utf-8")
 with open(r"C:/Program Files/lk/projects/pdf/ccri/ccri_preformat.jsonl", "r", encoding="utf-8") as fs:
     number = 50
     lines = fs.readlines()#[number-1:number]

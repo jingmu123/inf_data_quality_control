@@ -287,7 +287,7 @@ def post_process(context):
 
 
 
-fw = open(r"C:/Program Files/lk/projects/pdf/jmc_case/jmc_case_preformat_clean2.jsonl", "w", encoding="utf-8")
+fw = open(r"C:/Program Files/lk/projects/pdf/jmc_case/jmc_case_clean.jsonl", "w", encoding="utf-8")
 with open(r"C:/Program Files/lk/projects/pdf/jmc_case/jmc_case_preformat.jsonl", "r", encoding="utf-8") as fs:
     number = 67
     lines = fs.readlines()#[number-1:number]
