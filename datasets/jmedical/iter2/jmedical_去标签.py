@@ -175,7 +175,7 @@ class speicalProces:
             if index >= 0:
                 if index + 1 < len(context) and re.search(r'^[\*#]{0,4}([Ff]igs?(ure)?|F\s?IGS?(URE))s?\.?\s\d+[\*#\.]{0,4}$', stripped_item):
                     # 合并到下一个 item
-                    context[index] = item.rstrip() + "|删除段之间换行|" + context[index + 1].lstrip().lstrip()
+                    context[index] = item.rstrip() + "" + context[index + 1].lstrip().lstrip()
                     # 删除下一个 item
                     del context[index + 1]
                     # 不增加 index, 继续检查当前索引位置的元素
@@ -240,7 +240,7 @@ with open(r"C:\pycharm\orc识别pdf清洗数据\pdf\clean_json\original_data\jme
         lang = item["lang"]
         title = item["title"]
         if re.search(r'^Correction',context):
-            context = "本页删除\n" + context
+            context = ""
         context = re.sub(r'\xa0',r' ',context)
         context = clean_text(context, lang)
         context = post_process(context)
