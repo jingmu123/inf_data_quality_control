@@ -350,7 +350,7 @@ def post_process(context):
 
 
 
-fw = open(r"C:/Program Files/lk/projects/pdf/accr/accr_preformat_clean4.jsonl", "w", encoding="utf-8")
+fw = open(r"C:/Program Files/lk/projects/pdf/accr/accr_clean.jsonl", "w", encoding="utf-8")
 with open(r"C:/Program Files/lk/projects/pdf/accr/accr_preformat.jsonl", "r", encoding="utf-8") as fs:
     number = 681
     lines = fs.readlines()#[number-1:number]
@@ -363,7 +363,7 @@ with open(r"C:/Program Files/lk/projects/pdf/accr/accr_preformat.jsonl", "r", en
         context = re.sub(r'([\*\_\\]+)', r'', context)
         context = clean_text(context, lang)
         context = post_process(context)
-        print(context, "\n--------------------------------------------------")
+        # print(context, "\n--------------------------------------------------")
         item["text"] = context
         item = json.dumps(item, ensure_ascii=False)
         # print(item)

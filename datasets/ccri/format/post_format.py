@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import json
 
-file="accr"
+file="ccri"
 save_file = f"C:/Program Files/lk/projects/pdf/{file}/{file}.jsonl"
 fw = open(save_file, 'w',encoding="utf-8")
 
@@ -25,8 +25,8 @@ with open(f"C:/Program Files/lk/projects/pdf/{file}/{file}_clean.jsonl", "r",enc
         item["tags"] = {
                         "id": item["seq_id"],
                         "clean_iters":"4",
-                        "quality_score":"99.25 ",
-                        "binary_score": "95.00%",
+                        "quality_score":"99.24",
+                        "binary_score": "95.33%",
                         "class_ratio_doc": {},
                         "class_ratio_tokenize": {},
                         "item_tokens": tokenizer_lens(item["text"]),

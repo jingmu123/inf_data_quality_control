@@ -231,7 +231,7 @@ def post_process(context):
 
 
 
-fw = open(r"C:/Program Files/lk/projects/pdf/ccrj_case/ccrj_case_preformat_clean1--1.jsonl", "w", encoding="utf-8")
+fw = open(r"C:/Program Files/lk/projects/pdf/ccrj_case/ccrj_case_clean.jsonl", "w", encoding="utf-8")
 with open(r"C:/Program Files/lk/projects/pdf/ccrj_case/ccrj_case_preformat.jsonl", "r", encoding="utf-8") as fs:
     lines = fs.readlines()
     for items in tqdm(lines):
@@ -243,7 +243,7 @@ with open(r"C:/Program Files/lk/projects/pdf/ccrj_case/ccrj_case_preformat.jsonl
         context = re.sub(r'\xa0',r' ',context)
         context = clean_text(context, lang)
         context = post_process(context)
-        print(context, '\n+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++')
+        # print(context, '\n+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++')
         item["text"] = context
         item = json.dumps(item, ensure_ascii=False)
         fw.write(item + "\n")
