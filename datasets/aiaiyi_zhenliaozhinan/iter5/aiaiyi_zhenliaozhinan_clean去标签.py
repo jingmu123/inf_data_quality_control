@@ -199,7 +199,7 @@ def post_process(context):
 
 
 #读jsonl
-fw = open(r"C:\Program Files\lk\projects\pdf\aiaiyi_zhenliaozhinan\aiaiyi_zhenliaozhinan_preformat_all_clean.jsonl", "w", encoding="utf-8")
+fw = open(r"C:\Program Files\lk\projects\pdf\aiaiyi_zhenliaozhinan\aiaiyi_zhenliaozhinan_clean.jsonl", "w", encoding="utf-8")
 with open(r"C:\Program Files\lk\projects\pdf\aiaiyi_zhenliaozhinan\aiaiyi_zhenliaozhinan_preformat.jsonl", "r", encoding="utf-8") as fs:
     lines = fs.readlines()# [num-1:num]
     for items in tqdm(lines):
@@ -221,7 +221,7 @@ with open(r"C:\Program Files\lk\projects\pdf\aiaiyi_zhenliaozhinan\aiaiyi_zhenli
         context = post_process(context)
         # print(context)
         item["text"] = context
-        print(item["text"], "\n--------------------------------------------------")
+        # print(item["text"], "\n--------------------------------------------------")
         item = json.dumps(item, ensure_ascii=False)
         fw.write(item + "\n")
 fw.close()

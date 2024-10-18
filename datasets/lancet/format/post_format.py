@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import json
 
-file="accr"
+file="lancet"
 save_file = f"C:/Program Files/lk/projects/pdf/{file}/{file}.jsonl"
 fw = open(save_file, 'w',encoding="utf-8")
 
@@ -24,14 +24,14 @@ with open(f"C:/Program Files/lk/projects/pdf/{file}/{file}_clean.jsonl", "r",enc
         item = json.loads(item)
         item["tags"] = {
                         "id": item["seq_id"],
-                        "clean_iters":"4",
-                        "quality_score":"99.25 ",
-                        "binary_score": "95.00%",
+                        "clean_iters":"2",
+                        "quality_score":"97.63 ",
+                        "binary_score": "91.97%",
                         "class_ratio_doc": {},
                         "class_ratio_tokenize": {},
                         "item_tokens": tokenizer_lens(item["text"]),
                         "dataset_tokens": sum_lens,
-                        "bia_class": "临床案例"
+                        "bia_class": "文献"
                         }
 
         item = json.dumps(item,ensure_ascii=False)

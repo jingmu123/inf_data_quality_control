@@ -255,12 +255,12 @@ class speicalProces:
 
     def move_duan(self, context):
         context = re.sub(r'([^|\n]{80,}\.\n+\n)([a-z][^|\n]{50,}\n+\n)([A-Z][^|\n]{50,}[\-])(\n+\n)([A-Z][^|\n]{50,}|\n\s*|$|[\u4e00-\u9fff]{2,})', r'\1\3\2\5', context)  # 去标签检查第4832条数据
-        context = re.sub(r'([^|\n]{60,}[a-z，：\-\d])(\n+\n)([a-z\(][^\)]|\d+[^\.\\\)s])', r'\1\3', context)
-        context = re.sub(r'([^|\n]{80,}[^\.])(\n+\n)( *[a-z][^\)])', r'\1\3', context)
-        context = re.sub(r'([a-z\-\d])(\n+\n)( *\.)', r'\1\3', context)
-        context = re.sub(r'([^|\n]{80,}[,，a-z])(\n+\n)( *(?!Table)[A-Z][^|\n]{35,}\.[^|\n]{200,})', r'\1\3', context)
-        context = re.sub(r'([a-zA-Z，\d\--])(\n+\n((Supplementary )?Table|\|) [\W\w]*?)(\n+\n)(([a-z\(][^ \--].*)|([A-Z][a-z]{2,10}\..{100,}))', r'\1\6\2', context)
-        context = re.sub(r'([a-z\d])(\n+\n((Supplementary )?Table|\|) [\W\w]*?)(\n+\n)((±|\d+[^\\\.]).*)', r'\1\6\2', context)
+        context = re.sub(r'([^|\n]{60,}[a-z，：\-\d])(\n+\n)([a-z\(][^\)]|\d+[^\.\\\)s])', r'\1 \3', context)
+        context = re.sub(r'([^|\n]{80,}[^\.])(\n+\n)( *[a-z][^\)])', r'\1 \3', context)
+        context = re.sub(r'([a-z\-\d])(\n+\n)( *\.)', r'\1 \3', context)
+        context = re.sub(r'([^|\n]{80,}[,，a-z])(\n+\n)( *(?!Table)[A-Z][^|\n]{35,}\.[^|\n]{200,})', r'\1 \3', context)
+        context = re.sub(r'([a-zA-Z，\d\--])(\n+\n((Supplementary )?Table|\|) [\W\w]*?)(\n+\n)(([a-z\(][^ \--].*)|([A-Z][a-z]{2,10}\..{100,}))', r'\1 \6\2', context)
+        context = re.sub(r'([a-z\d])(\n+\n((Supplementary )?Table|\|) [\W\w]*?)(\n+\n)((±|\d+[^\\\.]).*)', r'\1 \6\2', context)
 
         return context
 

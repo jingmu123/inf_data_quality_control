@@ -297,7 +297,7 @@ def post_process(context):
 
 
 
-fw = open(r"C:/Program Files/lk/projects/pdf/wangwang_inpatient/wangwang_inpatient_preformat_clean-all.jsonl", "w", encoding="utf-8")
+fw = open(r"C:/Program Files/lk/projects/pdf/wangwang_inpatient/wangwang_inpatient_clean.jsonl", "w", encoding="utf-8")
 with open(r"C:/Program Files/lk/projects/pdf/wangwang_inpatient/wangwang_inpatient_preformat.jsonl", "r", encoding="utf-8") as fs:
     lines = fs.readlines()
     for items in tqdm(lines):

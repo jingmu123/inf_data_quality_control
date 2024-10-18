@@ -294,7 +294,7 @@ def post_process(context):
 
 
 
-fw = open(r"C:/Program Files/lk/projects/pdf/aiaiyi_case/aiaiyi_case_preformat_clean1.jsonl", "w", encoding="utf-8")
+fw = open(r"C:/Program Files/lk/projects/pdf/aiaiyi_case/aiaiyi_case_clean.jsonl", "w", encoding="utf-8")
 with open(r"C:/Program Files/lk/projects/pdf/aiaiyi_case/aiaiyi_case_preformat.jsonl", "r", encoding="utf-8") as fs:
     # num = 155
     lines = fs.readlines()#[num-1:num]

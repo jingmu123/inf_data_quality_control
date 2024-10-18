@@ -167,13 +167,13 @@ def main(lines, fw):
 
 if __name__ == "__main__":
     #读jsonl
-    fw = open("C:/Program Files/lk/projects/pdf/cdc/cdc_preformat_clean4C.jsonl", "w", encoding="utf-8")
+    fw = open("C:/Program Files/lk/projects/pdf/cdc/cdc_clean.jsonl", "w", encoding="utf-8")
     with open("C:/Program Files/lk/projects/pdf/cdc/cdc_preformat.jsonl", "r", encoding="utf-8") as fs:
         num = 2510
         lines = fs.readlines()#[num-1:num]
         start_time = time.time()
-        new_list = random.sample(lines, 300)
-        main(new_list, fw)
+        # new_list = random.sample(lines, 300)
+        main(lines, fw)
         end_time = time.time()
         print(end_time - start_time)
     fw.close()
