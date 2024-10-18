@@ -80,7 +80,7 @@ class speicalProces:
                 before_introduction_index.append(index)
                 before_introduction += 1
 
-            if re.search('^([\*#]{0,5}Introduction|[\*#]{0,5}(Background|Abstract)|Dear editor)',item):
+            if re.search('^([\*#]{0,5}Introduction|[\*#]{0,5}(Background|Abstract)|Dear editor)',item) or re.search('[\*#]{0,5}(Background|Abstract)',item):
                 before_introduction_index.append(index)
                 before_introduction -= 1
             elif re.search(r'[\*#]{0,5}(Background|Purpose)',item):
