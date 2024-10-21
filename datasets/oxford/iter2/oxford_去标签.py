@@ -250,9 +250,9 @@ def clean_text(context, lang):
     new_context = cp.more_line_feed(context, pattern_more_line_feed)
     i = 0
     while i < len(new_context):
-        if re.search(r'(^[\*#]{0,4}([Ff]igs?(ure)?|F\s?IGS?(URE)?)[\*#]{0,4}\s?\d+.{0,4}\|删除)',new_context[i]):
+        if re.search(r'(^[\*#]{0,4}([Ff]igs?(ure)?|F\s?IGS?(URE)?)[\*#]{0,4}\s?\d+.{0,4}|删除)',new_context[i]):
             new_context[i] = re.sub(r'(^[\*#]{0,4}([Ff]igs?(ure)?|F\s?IGS?(URE)?)[\*#]{0,4}\s?\d+.*)',r'',new_context[i])
-        print(new_context[i])
+        # print(new_context[i])
         i += 1
 
 
@@ -277,8 +277,8 @@ def post_process(context):
 
 
 
-fw = open(r"C:\pycharm\orc识别pdf清洗数据\pdf\clean_json\recleanB2_oxford.jsonl", "w", encoding="utf-8")
-with open(r"C:\pycharm\orc识别pdf清洗数据\pdf\clean_json\original_data\oxford_preformat.jsonl", "r", encoding="utf-8") as fs:
+fw = open(r"C:\Users\Administrator\Desktop\original_data\oxford\oxford_clean.jsonl", "w", encoding="utf-8")
+with open(r"C:\Users\Administrator\Desktop\original_data\oxford\oxford_preformat.jsonl", "r", encoding="utf-8") as fs:
     lines = fs.readlines()
     for items in tqdm(lines):
         item = json.loads(items.strip())
@@ -296,4 +296,4 @@ with open(r"C:\pycharm\orc识别pdf清洗数据\pdf\clean_json\original_data\oxf
         item = json.dumps(item, ensure_ascii=False)
         # print(item)
         fw.write(item + "\n")
-
+fw.close()

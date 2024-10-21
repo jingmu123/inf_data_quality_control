@@ -138,8 +138,8 @@ def clean_text(context, lang):
         if lang == "zh":
             item = sp.step4_rm_kongge(item)
         result.append(item)
-    for item in result:
-        print(item)
+    # for item in result:
+    #     print(item)
 
     deleted_context = []
     for item in result:
@@ -167,8 +167,8 @@ def post_process(context):
 
 
 
-fw = open(r"C:\pycharm\orc识别pdf清洗数据\pdf\clean_json\reclean3_nejm_preformat.jsonl", "w", encoding="utf-8")
-with open(r"C:\pycharm\orc识别pdf清洗数据\pdf\clean_json\original_data\nejm_preformat.jsonl", "r", encoding="utf-8") as fs:
+fw = open(r"C:\Users\Administrator\Desktop\original_data\nejm\nejm_clean.jsonl", "w", encoding="utf-8")
+with open(r"C:\Users\Administrator\Desktop\original_data\nejm\nejm_preformat.jsonl", "r", encoding="utf-8") as fs:
     lines = fs.readlines()
 
     # 随机抽取5000条记录
@@ -185,5 +185,5 @@ with open(r"C:\pycharm\orc识别pdf清洗数据\pdf\clean_json\original_data\nej
         # print(context)
         item["text"] = context
         item = json.dumps(item, ensure_ascii=False)
-        print(item)
+        # print(item)
         fw.write(item + "\n")

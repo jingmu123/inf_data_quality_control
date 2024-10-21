@@ -25,9 +25,9 @@ url_pattern = r"(https?:\/\/)?(www\.)?([\da-z\.\-@]+)\.([a-z\.]{2,6})([\/\w \.-]
 pattern_list = [
     [r'([\.,]\s)(\d{1,3}[\s–,\d{1,3}]{0,20})([A-Z]|$)',r'\1\3'],   # 无关数字
 
-    [r'(\(\s?([Ff]igs?(ure)?|F\s?IGS?(URE)?|Table|[sS]ee|For more|http|www|p\.||N[oO]\.)s?[\s\.][^\(\)]*\))', r''],
+    [r'(\(\s?([Ff]igs?(ure)?|F\s?IGS?(URE)?|Table|[sS]ee|For more|http|www|p\.|N[oO]\.)s?[\s\.][^\(\)]*\))', r''],
     [r'(\(\s?[^\(\)]*)([\.,;]\s([Ff]igs?(ure)?|F\s?IGS?(URE)?|Table|[sS]ee|For more|http|www)s?[\s\.][^\(\)]*)(\))', r'\1)'],# 固定格式  带有（）的图片表格描述 附录描述 协议描述
-    [r'(\([^\(\)]*([Ff]igs?(ure)?|F\s?IGS?(URE)?|Table|[sS]ee\s|For more|http|www|NCT\d+|N[oO]\.)s?[^\(\)]*\))',r''],
+    [r'(\([^\(\)]*([Ff]igs?(ure)?|F\s?IGS?(URE)?|Table|[sS]ee\s|For more|http|www|NCT\d+|N[oO]\.|Participant \d+|Provider \d+|software|version)s?[^\(\)]*\))',r''],
 
     [r'(Disclaimer.*)',r''],
     [r'(\d+\s([–,]\s\d+\s){1,20})[^nm]',r''],  # 删除内容中出现的无关数字 可能会造成误删
@@ -37,6 +37,8 @@ pattern_list = [
 
     [r'( et al )([\s–,\d{1,3}]{1,20})',r'\1'],  # dovepress文件中的数字较难删除，添加比较固定的特殊格式的无关数字
     [r'[^\n]*Trial Registration[^\n]*',r''],    # 句子Trial Registration   注册信息
+
+    [r'((\\)?\[\s?[^\[\]]*([Ff]igs?(ure)?|F\s?IGS?(URE)?|Table|[sS]ee\s|For more|http|www|NCT\d+|p\.|N[oO]\.|Participant \d+|Provider \d+|version)s?[^\[\]]*(\\)?\])', r''],  # 方括号
 
 ]
 
@@ -78,7 +80,7 @@ class speicalProces:
                 before_introduction_index.append(index)
                 before_introduction += 1
 
-            if re.search('^([\*#]{0,5}Introduction|[\*#]{0,5}(Background|Abstract)|Dear editor)',item):
+            if re.search('^([\*#]{0,5}Introduction|[\*#]{0,5}(Background|Abstract)|Dear editor)',item) or re.search('[\*#]{0,5}(Background|Abstract)',item):
                 before_introduction_index.append(index)
                 before_introduction -= 1
             elif re.search(r'[\*#]{0,5}(Background|Purpose)',item):
@@ -105,15 +107,6 @@ class speicalProces:
                 # context[end_index-1] = "间距删除-3:<u>{}</u>".format(context[end_index-1])
                 context[end_index-1] = ""
 
-        # end_Conclusion_index = []
-        # for index, item in enumerate(context):
-        #     if re.search(r'^[\*#]{0,5}Conclusion:?[\*#]{0,5}',item):
-        #         end_Conclusion_index.append(index+2)
-        # if end_Conclusion_index and len(end_Conclusion_index) == 1:
-        #     start_index = end_Conclusion_index[0]
-        #     for i in range(start_index,len(context)):
-        #         # context[i] = "无关删除-2:<u>{}</u>".format(context[i])
-        #         context[i] = ""
         return context
 
     def get_score(self, sentence):
@@ -213,8 +206,7 @@ def clean_text(context, lang):
     sp = speicalProces()
     context = context.split(split_token)
     if len(context) <= 25:
-        context.insert(0,"内容太短有用信息较少直接删除")
-        context = split_token.join(context)
+        context = ""
         return context
 
     context = sp.step1_wuguantext_following(context)
@@ -258,7 +250,7 @@ with open(r"C:\Users\Administrator\Desktop\original_data\dovepress_sample\dovepr
     # sampled_lines = random.sample(lines, 1000)
     for items in tqdm(lines):
         item = json.loads(items.strip())
-        # if item["seq_id"] == "8ed41370-3f34-477a-86ab-39bb03132ede":
+        # if item["seq_id"] == "64826a6a-4ace-4019-92e1-e37c127bd884":
         context = item["text"]
         lang = item["lang"]
         title = item["title"]

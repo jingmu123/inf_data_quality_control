@@ -85,9 +85,9 @@ def process_line(items, sp):
     return item
 
 sp=speicalProces()
-fw = open(r'C:\Users\Administrator\PycharmProjects\untitled\cochrane\reclean2_cochrane_label_non.jsonl', 'a', encoding='utf-8')
+fw = open(r'C:\Users\Administrator\Desktop\original_data\cochrane\cochrane_clean.jsonl', 'a', encoding='utf-8')
 # with open(r'C:\Users\Administrator\PycharmProjects\untitled\other-medlive_zh_preformat\other-medlive_zh_preformat.jsonl', "r", encoding="utf-8") as file:
-with open(r'C:\Users\Administrator\PycharmProjects\untitled\cochrane\cochrane_preformat.jsonl', "r", encoding="utf-8") as file:
+with open(r'C:\Users\Administrator\Desktop\original_data\cochrane\cochrane_preformat.jsonl', "r", encoding="utf-8") as file:
 
     for item in tqdm(file.readlines()):
         item=process_line(item,sp)

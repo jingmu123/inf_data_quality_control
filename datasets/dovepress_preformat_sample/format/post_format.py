@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 import json
 
-file="cochrane"  # 任务名称
-save_file = f"C:/Users/Administrator/Desktop/original_data/{file}/{file}.jsonl"  # 保存路径，就在本地清洗好的全量，任务名_clean文件下，就叫任务名.jsonl
+file="dovepress"  # 任务名称
+save_file = f"C:/Users/Administrator/Desktop/original_data/{file}_sample/{file}.jsonl"  # 保存路径，就在本地清洗好的全量，任务名_clean文件下，就叫任务名.jsonl
 fw = open(save_file, 'w',encoding="utf-8")
 
 from transformers import AutoTokenizer
@@ -12,21 +12,21 @@ def tokenizer_lens(context):
     return len(ids)
 sum_lens = 0
 
-with open(f"C:/Users/Administrator/Desktop/original_data/{file}/{file}_clean.jsonl", "r",encoding="utf-8") as fs:  # 本地清洗好的全量数据，任务名_clean文件
+with open(f"C:/Users/Administrator/Desktop/original_data/{file}_sample/{file}_clean.jsonl", "r",encoding="utf-8") as fs:  # 本地清洗好的全量数据，任务名_clean文件
     for item in fs.readlines():
         item = json.loads(item)
         context = item["text"]
         lens = tokenizer_lens(context)
         sum_lens += lens
 
-with open(f"C:/Users/Administrator/Desktop/original_data/{file}/{file}_clean.jsonl", "r",encoding="utf-8") as fs: # 本地清洗好的全量数据，任务名_clean文件
+with open(f"C:/Users/Administrator/Desktop/original_data/{file}_sample/{file}_clean.jsonl", "r",encoding="utf-8") as fs: # 本地清洗好的全量数据，任务名_clean文件
     for item in fs.readlines():
         item = json.loads(item)
         item["tags"] = {
                         "id": item["seq_id"],
-                        "clean_iters":"2",  # 清洗轮次
-                        "quality_score":"98.53",  # 质量分
-                        "binary_score": "94.63%",  # 合格率
+                        "clean_iters":"3",  # 清洗轮次
+                        "quality_score":"98.69",  # 质量分
+                        "binary_score": "92.31%",  # 合格率
                         "class_ratio_doc": {},
                         "class_ratio_tokenize": {},
                         "item_tokens": tokenizer_lens(item["text"]),

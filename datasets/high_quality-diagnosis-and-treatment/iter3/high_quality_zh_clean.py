@@ -122,8 +122,8 @@ def post_process(context):
 
 
 
-fw = open(r"C:\pycharm\orc识别pdf清洗数据\pdf\clean_json\reclean3_high_quality-diagnosis-and-treatment_zh.jsonl", "w", encoding="utf-8")
-with open(r"C:\pycharm\orc识别pdf清洗数据\pdf\clean_json\original_data\high_quality-diagnosis-and-treatment_zh_preformat.jsonl", "r", encoding="utf-8") as fs:
+fw = open(r"C:\Users\Administrator\Desktop\original_data\high_quality-diagnosis-and-treatment_zh\high_quality-diagnosis-and-treatment_zh_clean.jsonl", "w", encoding="utf-8")
+with open(r"C:\Users\Administrator\Desktop\original_data\high_quality-diagnosis-and-treatment_zh\high_quality-diagnosis-and-treatment_zh_preformat.jsonl", "r", encoding="utf-8") as fs:
     lines = fs.readlines()
 
     # 随机抽取5000条记录
@@ -139,5 +139,5 @@ with open(r"C:\pycharm\orc识别pdf清洗数据\pdf\clean_json\original_data\hig
             # print(context)
             item["text"] = context
             item = json.dumps(item, ensure_ascii=False)
-            print(item)
+            # print(item)
             fw.write(item + "\n")

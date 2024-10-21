@@ -90,7 +90,7 @@ class speicalProces:
 
         return new_context
     def step2_wuguanpage(self, context):
-        print(context)
+        # print(context)
         new_context = []
         # line_num = 0    # 定义一个变量记录行数
         # wuguanline_num = 0   # 定义一个变量记录无关行数
@@ -127,7 +127,7 @@ class speicalProces:
         if question <= 0 and len(question_index) >= 2:
             start_index = question_index[0]
             end_index = question_index[-1]
-            print(start_index, end_index)
+            # print(start_index, end_index)
             # 循环遍历需要替换的片段
             for i in range(start_index, end_index + 1):
                 if re.search('\.\s?In their editorial and administrative roles',new_context[start_index]):
@@ -177,8 +177,8 @@ def clean_text(context, lang):
         if lang == "zh":
             item = sp.step4_rm_kongge(item)
         result.append(item)
-    for item in result:
-        print(item)
+    # for item in result:
+    #     print(item)
 
     # deleted_context = []
     # for item in result:
@@ -211,8 +211,8 @@ def post_process(context):
 
 
 
-fw = open(r"C:\pycharm\orc识别pdf清洗数据\pdf\clean_json\reclean3_mayo_clinic_preformat.jsonl", "w", encoding="utf-8")
-with open(r"C:\pycharm\orc识别pdf清洗数据\pdf\clean_json\original_data\mayo_clinic_preformat.jsonl", "r", encoding="utf-8") as fs:
+fw = open(r"C:\Users\Administrator\Desktop\original_data\mayo_clinic\mayo_clinic_clean.jsonl", "w", encoding="utf-8")
+with open(r"C:\Users\Administrator\Desktop\original_data\mayo_clinic\mayo_clinic_preformat.jsonl", "r", encoding="utf-8") as fs:
     lines = fs.readlines()
 
     # 随机抽取5000条记录
@@ -234,3 +234,4 @@ with open(r"C:\pycharm\orc识别pdf清洗数据\pdf\clean_json\original_data\may
         item = json.dumps(item, ensure_ascii=False)
         # print(item)
         fw.write(item + "\n")
+fw.close()
