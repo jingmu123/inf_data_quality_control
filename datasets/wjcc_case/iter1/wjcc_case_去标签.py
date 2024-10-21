@@ -254,8 +254,8 @@ def clean_text(context, lang):
     cp = clean_pattern()
     context = context.split(split_token)
     result = sp.step0_common_clean(context,cp,lang)
-    for item in result:
-        print(item)
+    # for item in result:
+    #     print(item)
 
     context = split_token.join(result)
 
@@ -278,22 +278,22 @@ def post_process(context):
 
 
 
-# fw = open(r"C:\pycharm\orc识别pdf清洗数据\pdf\clean_json\reclean1_wjcc_case.jsonl", "w", encoding="utf-8")
-with open(r"C:\pycharm\orc识别pdf清洗数据\pdf\clean_json\original_data\wjcc_case_preformat.jsonl", "r", encoding="utf-8") as fs:
+fw = open(r"C:\Users\Administrator\Desktop\original_data\wjcc_case\wjcc_case_clean.jsonl", "w", encoding="utf-8")
+with open(r"C:\Users\Administrator\Desktop\original_data\wjcc_case\wjcc_case_preformat.jsonl", "r", encoding="utf-8") as fs:
     lines = fs.readlines()
     for items in tqdm(lines):
         item = json.loads(items.strip())
-        if item["seq_id"] == "1c520bdf-0ac3-4407-a078-62e2d61f3167":
-            context = item["text"]
-            lang = item["lang"]
-            title = item["title"]
-            context = re.sub(r'\xa0',r' ',context)
-            context = re.sub(r'[\*\_]{0,}', r'', context)
-            context = clean_text(context, lang)
-            context = post_process(context)
-            # print(context)
-            item["text"] = context
-            item = json.dumps(item, ensure_ascii=False)
+        # if item["seq_id"] == "1c520bdf-0ac3-4407-a078-62e2d61f3167":
+        context = item["text"]
+        lang = item["lang"]
+        title = item["title"]
+        context = re.sub(r'\xa0',r' ',context)
+        context = re.sub(r'[\*\_]{0,}', r'', context)
+        context = clean_text(context, lang)
+        context = post_process(context)
+        # print(context)
+        item["text"] = context
+        item = json.dumps(item, ensure_ascii=False)
         # print(item)
-        # fw.write(item + "\n")
-
+        fw.write(item + "\n")
+fw.close()

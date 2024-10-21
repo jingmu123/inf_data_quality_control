@@ -182,7 +182,7 @@ def clean_text(context, lang, sp):
     # context = split_token.join(result)
     context=sp.step1_Irrelevant_long_text(context)
     context=sp.step2_rm_short_context(context)
-    print(context)
+    # print(context)
 
     return context
 
@@ -217,14 +217,13 @@ def process_line(items, sp):
     return item
 
 sp=speicalProces()
-fw = open(r'F:\zeroshots\other-medlive_zh\test_label.jsonl', 'a', encoding='utf-8')
-# with open(r'C:\Users\Administrator\PycharmProjects\untitled\other-medlive_zh_preformat\other-medlive_zh_preformat.jsonl', "r", encoding="utf-8") as file:
-with open(r'F:\zeroshots\other-medlive_zh\test.jsonl', "r", encoding="utf-8") as file:
+fw = open(r'C:\Users\Administrator\Desktop\original_data\other-medlive_zh\other-medlive_zh_clean.jsonl', 'a', encoding='utf-8')
+with open(r'C:\Users\Administrator\Desktop\original_data\other-medlive_zh\other-medlive_zh_preformat.jsonl', "r", encoding="utf-8") as file:
 
     for item in tqdm(file.readlines()):
 
         item=process_line(item,sp)
         # with open(r'F:\zeroshots\reclean7_medicalpdfv2__preformat_zh.jsonl', 'a', encoding='utf-8') as f:
         fw.write(item+'\n')
-
+fw.close()
 

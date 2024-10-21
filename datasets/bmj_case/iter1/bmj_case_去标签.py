@@ -311,9 +311,8 @@ def post_process(context):
 
 
 
-# fw = open(r"C:\Users\Administrator\PycharmProjects\untitled\bmj_case\reclean1_bmj_case.jsonl", "w", encoding="utf-8")
-with open(r"C:\Users\Administrator\PycharmProjects\untitled\bmj_case\test.jsonl", "r", encoding="utf-8") as fs:
-# with open(r"C:\Users\Administrator\PycharmProjects\untitled\bmj_case\bmj_case_preformat.jsonl", "r", encoding="utf-8") as fs:
+fw = open(r"C:\Users\Administrator\Desktop\original_data\bmj_case\bmj_case_clean.jsonl", "w", encoding="utf-8")
+with open(r"C:\Users\Administrator\Desktop\original_data\bmj_case\bmj_case_preformat.jsonl", "r", encoding="utf-8") as fs:
 
     lines = fs.readlines()
     for items in tqdm(lines):
@@ -325,9 +324,9 @@ with open(r"C:\Users\Administrator\PycharmProjects\untitled\bmj_case\test.jsonl"
         context = re.sub(r'\xa0', r' ', context)
         context = clean_text(context, lang)
         context = post_process(context)
-        print(context)
+        # print(context)
         item["text"] = context
         item = json.dumps(item, ensure_ascii=False)
         # print(item)
-        # fw.write(item + "\n")
-
+        fw.write(item + "\n")
+fw.close()

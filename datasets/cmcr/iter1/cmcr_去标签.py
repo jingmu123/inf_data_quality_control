@@ -214,8 +214,8 @@ def clean_text(context, lang):
     for ending_start in pattern_page_ending:
         ending = ending_start[0]
         new_context = cp.delete_page_ending(new_context, ending)
-    for index,item in enumerate(new_context):
-        print(index,item)
+    # for index,item in enumerate(new_context):
+    #     print(index,item)
 
     context = split_token.join(new_context)
 
@@ -238,8 +238,8 @@ def post_process(context):
 
 
 
-fw = open(r"C:\pycharm\orc识别pdf清洗数据\pdf\clean_json\reclean1_cmcr.jsonl", "w", encoding="utf-8")
-with open(r"C:\pycharm\orc识别pdf清洗数据\pdf\clean_json\original_data\cmcr_preformat.jsonl", "r", encoding="utf-8") as fs:
+fw = open(r"C:\Users\Administrator\Desktop\original_data\cmcr\cmcr_clean.jsonl", "w", encoding="utf-8")
+with open(r"C:\Users\Administrator\Desktop\original_data\cmcr\cmcr_preformat.jsonl", "r", encoding="utf-8") as fs:
     lines = fs.readlines()
     for items in tqdm(lines):
         item = json.loads(items.strip())

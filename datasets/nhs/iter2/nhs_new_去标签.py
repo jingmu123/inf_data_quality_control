@@ -322,8 +322,8 @@ def post_process(context):
 
 
 
-# fw = open(r"C:\pycharm\orc识别pdf清洗数据\pdf\clean_json\reclean0_nhs.jsonl", "w", encoding="utf-8")
-with open(r"C:\Users\Administrator\PycharmProjects\untitled\nhs\nhs_preformat.jsonl", "r", encoding="utf-8") as fs:
+fw = open(r"C:\Users\Administrator\Desktop\original_data\nhs\nhs_clean.jsonl", "w", encoding="utf-8")
+with open(r"C:\Users\Administrator\Desktop\original_data\nhs\nhs_preformat.jsonl", "r", encoding="utf-8") as fs:
     lines = fs.readlines()
     for items in tqdm(lines):
         item = json.loads(items.strip())
@@ -334,9 +334,9 @@ with open(r"C:\Users\Administrator\PycharmProjects\untitled\nhs\nhs_preformat.js
         context = re.sub(r'\xa0', r' ', context)
         context = clean_text(context, lang)
         context = post_process(context)
-        print(context)
+        # print(context)
         item["text"] = context
         item = json.dumps(item, ensure_ascii=False)
         # print(item)
-        # fw.write(item + "\n")
-
+        fw.write(item + "\n")
+fw.close()

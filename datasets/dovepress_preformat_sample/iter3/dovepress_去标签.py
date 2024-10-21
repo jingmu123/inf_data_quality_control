@@ -13,7 +13,7 @@ inflect = inflect.engine()
 import kenlm
 from nltk.tokenize import word_tokenize
 from collections import defaultdict
-model = kenlm.LanguageModel(r"C:\Users\Administrator\Desktop\4k_gram.klm")
+model = kenlm.LanguageModel(r"C:\Program Files\lk\4k_gram.klm")
 
 
 
@@ -221,8 +221,8 @@ def clean_text(context, lang):
             item = sp.step4_rm_kongge(item)
         result.append(item)
     context = sp.step3_ngram_deletenum(result)
-    for index,item in enumerate(context):
-        print(index,item)
+    # for index,item in enumerate(context):
+    #     print(index,item)
 
     context = split_token.join(context)
 
@@ -242,8 +242,8 @@ def post_process(context):
     context = re.sub(r'([,\.?])(\s?[?,\.]){1,5}',r'\1',context)
     return context
 
-fw = open(r"C:\pycharm\orc识别pdf清洗数据\pdf\clean_json\reclean_dovepress_preformat_sample.jsonl", "w", encoding="utf-8")
-with open(r"C:\pycharm\orc识别pdf清洗数据\pdf\clean_json\original_data\dovepress_preformat_sample.jsonl", "r", encoding="utf-8") as fs:
+fw = open(r"C:\Users\Administrator\Desktop\original_data\dovepress_sample\dovepress_clean.jsonl", "w", encoding="utf-8")
+with open(r"C:\Users\Administrator\Desktop\original_data\dovepress_sample\dovepress_preformat_sample.jsonl", "r", encoding="utf-8") as fs:
     lines = fs.readlines()
 
     # 随机抽取5000条记录
@@ -262,3 +262,4 @@ with open(r"C:\pycharm\orc识别pdf清洗数据\pdf\clean_json\original_data\dov
         item = json.dumps(item, ensure_ascii=False)
         # print(item)
         fw.write(item + "\n")
+fw.close()
