@@ -28,7 +28,9 @@ pattern_en = [
     [r'(^Download\s.*)', r''],  # 段落开头下载 ...
     [r'^.{0,3}(Editor.s note|To learn more about).*', r''],  # 从段落头开始 编辑信息 更多信息
     [r'(^(You can find more|About this video).*)', r''],  # 段落开头 你可以找到更多/关于本视频
-
+    [r'(<sup><a> *<\/a><\/sup>)', r''],
+    [r'(<\w+> *<\/\w+>)', r''],
+    [r'(<\w+> *<\/\w+>)', r''],
     # 以上为通用正则库
     # ========================================================================================
     # 以下补充对此组数据清洗的特定正则
@@ -71,8 +73,10 @@ pattern_en_list=[
     [r'(?:\.)( *Available from:.*)',r''],
     [r'(\([^\n()]*(?:registration number|ANZCTR)[:：][^\n()]*\))',r''],
     [r'(\([^\n()]*(?:Graph|[Aa]ppendix)[^\n()]*\))',r''],
-    [r'(<sup>\[(<\/sup><sup><sup><a>\d+(?:[-,，\–\-—]\d+)*<\/a><\/sup><\/sup><sup>,?)+\]<\/sup>)',r''],
-
+    [r'(<sup>(\.?)\[(<\/sup><sup><sup><a>\d+(?:[-,，\–\-—]\d+)*<\/a><\/sup><\/sup><sup>,?)+\]<\/sup>)',r'\2'],
+    [r'(<sup><a> *<\/a><\/sup>)', r''],
+    [r'(<\w+> *<\/\w+>)', r''],
+    [r'(<\w+> *<\/\w+>)', r''],
     [r'(?<=\n)(\**Table ?[0-9A-Z]+(?:[.-]\d*)*[:：](?:\n+.*))',r'']
 
 ]
@@ -299,8 +303,8 @@ def post_process(context):
 
 
 
-fw = open(r"C:\Users\Administrator\PycharmProjects\untitled\crsp_case\reclean2_crsp_case_label.jsonl", "a", encoding="utf-8")
-with open(r"C:\Users\Administrator\PycharmProjects\untitled\crsp_case\crsp_case_preformat.jsonl", "r", encoding="utf-8") as fs:
+fw = open(r"C:\Users\Administrator\Desktop\original_data\crsp_case\crsp_case_clean.jsonl", "a", encoding="utf-8")
+with open(r"C:\Users\Administrator\Desktop\original_data\crsp_case\crsp_case_preformat.jsonl", "r", encoding="utf-8") as fs:
 # with open(r"C:\Users\Administrator\PycharmProjects\untitled\crsp_case\test.jsonl", "r", encoding="utf-8") as fs:
 
     lines = fs.readlines()
@@ -313,9 +317,9 @@ with open(r"C:\Users\Administrator\PycharmProjects\untitled\crsp_case\crsp_case_
         context = re.sub(r'\xa0', r' ', context)
         context = clean_text(context, lang)
         context = post_process(context)
-        # print(context)
+        print(context)
         item["text"] = context
         item = json.dumps(item, ensure_ascii=False)
         # print(item)
         fw.write(item + "\n")
-
+fw.close()

@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import json
 
-file="cochrane"  # 任务名称
+file="other-medlive_zh"  # 任务名称
 save_file = f"C:/Users/Administrator/Desktop/original_data/{file}/{file}.jsonl"  # 保存路径，就在本地清洗好的全量，任务名_clean文件下，就叫任务名.jsonl
 fw = open(save_file, 'w',encoding="utf-8")
 
@@ -24,14 +24,14 @@ with open(f"C:/Users/Administrator/Desktop/original_data/{file}/{file}_clean.jso
         item = json.loads(item)
         item["tags"] = {
                         "id": item["seq_id"],
-                        "clean_iters":"2",  # 清洗轮次
-                        "quality_score":"98.53",  # 质量分
-                        "binary_score": "94.63%",  # 合格率
+                        "clean_iters":"4",  # 清洗轮次
+                        "quality_score":"97.53",  # 质量分
+                        "binary_score": "92.75%",  # 合格率
                         "class_ratio_doc": {},
                         "class_ratio_tokenize": {},
                         "item_tokens": tokenizer_lens(item["text"]),
                         "dataset_tokens": sum_lens,
-                        "bia_class": "文献"  # 任务类别
+                        "bia_class": "临床案例"  # 任务类别
                         }
 
         item = json.dumps(item,ensure_ascii=False)

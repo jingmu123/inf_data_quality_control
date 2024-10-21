@@ -306,9 +306,8 @@ def post_process(context):
 
 
 
-# fw = open(r"C:\Users\Administrator\PycharmProjects\untitled\medical_case_handled\reclean5_medical_case_handled.jsonl", "a", encoding="utf-8")
-with open(r"C:\Users\Administrator\PycharmProjects\untitled\medical_case_handled\test.jsonl", "r", encoding="utf-8") as fs:
-# with open(r"C:\Users\Administrator\PycharmProjects\untitled\medical_case_handled\medical_case_handled_preformat.jsonl", "r",encoding="utf-8") as fs:
+fw = open(r"C:\Users\Administrator\Desktop\original_data\medical_case_handled\medical_case_handled_clean.jsonl", "a", encoding="utf-8")
+with open(r"C:\Users\Administrator\Desktop\original_data\medical_case_handled\medical_case_handled_preformat.jsonl", "r", encoding="utf-8") as fs:
 
     lines = fs.readlines()
     for items in tqdm(lines):
@@ -321,9 +320,9 @@ with open(r"C:\Users\Administrator\PycharmProjects\untitled\medical_case_handled
         context=re.sub(r'[\*\_]]{0,}',r'',context)
         context = clean_text(context, lang)
         context = post_process(context)
-        print(context)
+        # print(context)
         item["text"] = context
         item = json.dumps(item, ensure_ascii=False)
         # print(item)
-        # fw.write(item + "\n")
-#
+        fw.write(item + "\n")
+fw.close()

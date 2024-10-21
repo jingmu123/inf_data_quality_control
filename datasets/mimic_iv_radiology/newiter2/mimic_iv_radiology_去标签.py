@@ -322,8 +322,8 @@ def post_process(context):
     return context
 
 
-fw = open(r"C:\Users\Administrator\PycharmProjects\untitled\mimic\reclean2_mimic_iv_radiology.jsonl", "w", encoding="utf-8")
-with open(r"C:\Users\Administrator\PycharmProjects\untitled\mimic\mimic_iv_radiology_preformat.jsonl", "r", encoding="utf-8") as fs:
+fw = open(r"C:\Users\Administrator\Desktop\original_data\mimic_iv_radiology\mimic_iv_radiology_clean.jsonl", "w", encoding="utf-8")
+with open(r"C:\Users\Administrator\Desktop\original_data\mimic_iv_radiology\mimic_iv_radiology_preformat.jsonl", "r", encoding="utf-8") as fs:
 # with open(r"C:\Users\Administrator\PycharmProjects\untitled\mimic\test.jsonl", "r", encoding="utf-8") as fs:
 
     lines = fs.readlines()
@@ -341,4 +341,4 @@ with open(r"C:\Users\Administrator\PycharmProjects\untitled\mimic\mimic_iv_radio
         item = json.dumps(item, ensure_ascii=False)
         # print(item)
         fw.write(item + "\n")
-
+fw.close()

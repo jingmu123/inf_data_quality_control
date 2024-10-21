@@ -134,7 +134,7 @@ def clean_text(context, lang):
     result = []
     sp = speicalProces()
     context = context.split(split_token)
-    print(context)
+    # print(context)
     context = sp.step1_wuguantext_following(context)
     context = sp.step2_wuguanpage(context)
     context = sp.step3_more_linefeed(context)
@@ -147,8 +147,8 @@ def clean_text(context, lang):
         if lang == "zh":
             item = sp.step4_rm_kongge(item)
         result.append(item)
-    for item in result:
-        print(item)
+    # for item in result:
+    #     print(item)
 
     context = split_token.join(result)
 
@@ -170,8 +170,8 @@ def post_process(context):
 
 
 
-fw = open(r"C:\pycharm\orc识别pdf清洗数据\pdf\clean_json\reclean1_icliniq_article_preformat.jsonl", "w", encoding="utf-8")
-with open(r"C:\pycharm\orc识别pdf清洗数据\pdf\clean_json\original_data\icliniq_article_preformat.jsonl", "r", encoding="utf-8") as fs:
+fw = open(r"C:\Users\Administrator\Desktop\original_data\icliniq_article\icliniq_article_clean.jsonl", "w", encoding="utf-8")
+with open(r"C:\Users\Administrator\Desktop\original_data\icliniq_article\icliniq_article_preformat.jsonl", "r", encoding="utf-8") as fs:
     lines = fs.readlines()
 
     # 随机抽取5000条记录
@@ -189,3 +189,4 @@ with open(r"C:\pycharm\orc识别pdf清洗数据\pdf\clean_json\original_data\icl
         item = json.dumps(item, ensure_ascii=False)
         # print(item)
         fw.write(item + "\n")
+fw.close()
