@@ -7,6 +7,7 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 pattern_en = [
     [r'(^!\[.*(\n.*){0,})', r''],  # 带有![ 这句是图片的描述!是因为图片加载不过来
     [r'(^\[\^\d+\][^$]*)', r''],  # 句子开头为[^\d] 一般在句子结尾无关文本 必须放在处理带有[]特征的前面先删除掉
+    [r'([A-Z])(\[)([a-zA-Z][^\]]*)(\])', r'\1\3'],
     [r'\([^\(\)]{0,20}([,\.;\s]{0,}(and\s+)?\[[^\[\]]{1,50}\]\([^\)\(]{1,50}\)\{[^\{\}]{1,50}\}){1,}[^\(\)]{0,20}\)', r''],
     # 固定删除格式 [...](...){...} 外面可带圆括号或方括号，括号一定是同一种要带都带,要不就都不带
     [r'\[[^\[\]]{0,20}([,\.;\s]{0,}(and\s+)?\[[^\[\]]{1,50}\]\([^\)\(]{1,50}\)\{[^\{\}]{1,50}\}){1,}[^\[\]]{0,20}\]', r''],
@@ -35,7 +36,7 @@ pattern_en = [
     [r'([\(][^\)]*([hH]ttps?|www|WWW|HTTPS?|\.ua\.|\.edu)[^\(]*[\)])', r'删除33:<u>\1</u>'],  # 带有()\<>的非常规网址或网址路径
     [r'([<][^>]*([hH]ttps?|www|WWW|HTTPS?|\.ua\.|\.edu)[^<]*[>])', r'删除33:<u>\1</u>'],  # 带有()\<>的非常规网址或网址路径
     [r'([^-]\s?)(\([\dA-Z]{1,10}-([^-\.,~\s]{1,10}-){1,}[^-\.,\s]{1,10}\))([^-]\s?)', r'\1删除34:<u>\2</u>4'],  # 删除类似于编号 (IJCCM-21-40-g003)
-    [r'([A-Z])(\[)([a-zA-Z][^\]]*)(\])', r'\1\3'],
+
     # 固定格式  带有（）的图片表格描述 附录描述 协议描述   顺序不能打乱
     [r'(\(\s?([Ff]igs?(ure)?|F\s?IGS?(URE)?|Table|[Ss]ee|For more|panel|http|www|NCT\d+|NO\.|version|p\.|Supplementary [mM]aterial|video)s?[\s\.:\d][^\(\)]*\))', r''],  # 1. 这些固定的词语紧贴左括号
     [r'(\(\s?[^\(\)]*)([\.;]\s([Ff]igs?(ure)?|F\s?IGS?(URE)?|Table|[sS]ee|For more|http|www|Supplementary [mM]aterial)s?[\s\.:\d][^\(\)]*)(\))', r'\1)'],  # 这些固定的词语在句子中间但是前半句可能有用 用[\.;]\s来判断前半句是否结束
@@ -430,7 +431,7 @@ with open(r"C:\pycharm\orc识别pdf清洗数据\pdf\clean_json\original_data\jou
     sampled_lines = random.sample(lines, 5000)
     for items in tqdm(sampled_lines):
         item = json.loads(items.strip())
-        # if item["seq_id"] == "d495c093-a4c2-44d7-8145-2cdb05a00e81":
+        # if item["seq_id"] == "3f38f47f-ebfa-4fce-9dd7-eb39472e5abf":
         context = item["text"]
         if len(context) > 5000:
             lang = item["lang"]
