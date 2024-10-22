@@ -302,10 +302,10 @@ def post_process(context):
 
 
 
-fw = open(r"C:/Program Files/lk/projects/pdf/wangwang_outpatient/wangwang_outpatient_preformat_clean2.jsonl", "w", encoding="utf-8")
-with open(r"C:/Program Files/lk/projects/pdf/wangwang_outpatient/wangwang_outpatient_preformat.jsonl", "r", encoding="utf-8") as fs:
+fw = open(r"C:\Program Files\lk\projects\pdf\wangwang_outpatient\wangwang_outpatient_clean.jsonl", "w", encoding="utf-8")
+with open(r"C:\Program Files\lk\projects\pdf\wangwang_outpatient\wangwang_outpatient_preformat.jsonl", "r", encoding="utf-8") as fs:
     lines = fs.readlines()
-    lines = random.sample(lines, 300)
+    # lines = random.sample(lines, 300)
     for items in tqdm(lines):
         item = json.loads(items.strip())
         context = item["text"]
@@ -316,7 +316,7 @@ with open(r"C:/Program Files/lk/projects/pdf/wangwang_outpatient/wangwang_outpat
         context = re.sub(r'\xa0', r' ', context)
         context = clean_text(context, lang)
         context = post_process(context)
-        print(context, '\n-------------------')
+        # print(context, '\n-------------------')
         item["text"] = context
         item = json.dumps(item, ensure_ascii=False)
         fw.write(item + "\n")
