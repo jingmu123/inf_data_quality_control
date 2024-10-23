@@ -65,7 +65,8 @@ pattern_list_zh = [
     [r'(年龄增\s{3,}长)', '年龄增长'],
     [r'(15~29\s{3,}ml/min)', '15~29ml/min'],
     [r'(精力\s{2,}降低)', '精力降低'],
-
+    [r'(十二指肠溃疡出血临床路径，等12个临床路径标准请下载原文件|2009 NICE 精神分裂症在初级和次级医疗服务中治疗与管理的核心干预措施全文下载|\\\[点击可下载《2013年中国慢性便秘诊治指南》\\\]|\**《癌症患者静脉血栓栓塞诊治指南》原文下载\**|\**亚太地区非静脉曲张性上消化道出血的共识原文下载|下载原版《心律失常紧急处理专家共识》： |巴山 医药论坛 是大巴山地区第一家医药专业类网站！免费提供大量书籍、课件、文献、药讯等资料下载！|本指南电子版在《中国循证儿科杂志》网站可全文免费下载。|消化性溃疡临床路径（新）及附件下载|部分产科指南全文可以在相应网站免费下载。)', r''],
+    [r'(下载附件： *\n[\w\W]*)', r'']
 
     # [r'\*{2,}', '']
 ]
@@ -102,7 +103,8 @@ pattern_list_en = [
     [r'2005.2,3The', '2005. The'],
     [r'statin2,3,9 -13and', 'statin and'],
     [r'preexcitation.3', 'preexcitation.'],
-    [r'concentration74-76andthere', 'concentration and there']
+    [r'concentration74-76andthere', 'concentration and there'],
+    [r'(2009 NICE 精神分裂症在初级和次级医疗服务中治疗与管理的核心干预措施全文下载|\**亚太地区非静脉曲张性上消化道出血的共识原文下载)', r''],
 ]
 
 
@@ -189,8 +191,8 @@ def post_process(context):
     # 消除分界符失效  --*- 前面需要有连续两个\n;
     context = re.sub('\n    --', "\n\n    --", context)
     # 消除空格问题
-    context = re.sub(r'\n +\n', "\n\n", context)
-    context = re.sub(r'\n +\n', "\n\n", context)
+    context = re.sub(r'\n\s+\n', "\n\n", context)
+    context = re.sub(r'\n\s+\n', "\n\n", context)
     # 去掉过多\n的情况
     context = re.sub("\n{2,}", "\n\n", context)
     # 对多标点进行替换

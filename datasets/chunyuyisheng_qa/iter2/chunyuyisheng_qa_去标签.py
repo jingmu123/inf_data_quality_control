@@ -228,8 +228,8 @@ def clean_text(context, lang):
                 tgt = pattern_item[1]
                 item = re.sub(src, tgt, item)
         final_results.append(item)
-    for index,item in enumerate(final_results):
-        print(index,item)
+    # for index,item in enumerate(final_results):
+    #     print(index,item)
     context = split_token.join(final_results)
 
     return context
@@ -251,8 +251,8 @@ def post_process(context):
 
 
 
-fw = open(r"C:\pycharm\orc识别pdf清洗数据\pdf\clean_json\reclean2_chunyuyisheng_qa.jsonl", "w", encoding="utf-8")
-with open(r"C:\pycharm\orc识别pdf清洗数据\pdf\clean_json\original_data\chunyuyisheng_qa_preformat.jsonl", "r", encoding="utf-8") as fs:
+fw = open(r"C:\Users\Administrator\Desktop\original_data\chunyuyisheng_qa\chunyuyisheng_qa_clean.jsonl", "w", encoding="utf-8")
+with open(r"C:\Users\Administrator\Desktop\original_data\chunyuyisheng_qa\chunyuyisheng_qa_preformat.jsonl", "r", encoding="utf-8") as fs:
     lines = fs.readlines()
     for items in tqdm(lines):
         item = json.loads(items.strip())
@@ -266,6 +266,6 @@ with open(r"C:\pycharm\orc识别pdf清洗数据\pdf\clean_json\original_data\chu
         # print(context)
         item["text"] = context
         item = json.dumps(item, ensure_ascii=False)
-        print(item)
+        # print(item)
         fw.write(item + "\n")
-# fw.close()
+fw.close()
