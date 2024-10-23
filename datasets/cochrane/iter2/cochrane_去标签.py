@@ -15,7 +15,7 @@ pattern_list_en = [
     [r'(?<=\n)([# ]+(?:Search methods for identification of studies|Electronic searches) *(?:.*\n?.*)*)',r''],#Search methods for...及一下内容删除
     [r'(\n*(?:Reason for withdrawal from publication) *(?:.*\n?.*)*)',r''],
     [r'[^\n*#][^\n*#](\\?[\[［(] *[0-9０-９ ]{1,3}(?:[-—–－,，、][0-9０-９ ]+)*\\?[)］\]])',r''],#序号删除
-[r'(?:\n)((?:Plain language summary *\n)?-+\n*available in *\n*(?:\*.*\n)+)',r''],#语言总结
+    [r'(?:\n)((?:Plain language summary *\n)?-+\n*available in *\n*(?:\*.*\n)+)',r''],#语言总结
     [r'(?:\n|^)(\** *(?:Visual summary|See more on using PICO in the Cochrane Handbook .|Unlock the full (?:Protocol|review)|Plain language summary|Open in (?:table|figure) viewer) *)(?=\n|$)',r''],#一些个例
 
     [r'(?:\n)(PICOs\n-+\n*)(#+ *PICOs)',r'\2'],#重复标题
@@ -31,7 +31,7 @@ pattern_list_en = [
     [r'(?:\n|^)(.*Copyright.{0,5} \d{4} .*)',r''],#版权声明删除
     [r'(?:\n|^)(\** *This.*updated?.* \d{4}\.?)(?=\n)',r''],#更新声明删除
     [r'(?:\n|^)(From *(?: [^\n ]* \d{4} *[;.])+)',r''],#摘自内容删除
-
+    [r'([\(（][^\(（）\)]*[Ff]igure \d[^\(（）\)]*[\)）])', r'']
 
 ]
 
@@ -70,27 +70,28 @@ def post_process(context):
     return context
 
 
-def process_line(items, sp):
-    try:
-        item = json.loads(items.strip())
-        context = item["text"]
-        lang = item["lang"]
-        context = clean_text(context, lang, sp)
-        context = post_process(context)
-        item["text"] = context
-    except:
-        print("error")
-        exit(0)
-    item = json.dumps(item, ensure_ascii=False)
-    return item
 
-sp=speicalProces()
+
 fw = open(r'C:\Users\Administrator\Desktop\original_data\cochrane\cochrane_clean.jsonl', 'a', encoding='utf-8')
 # with open(r'C:\Users\Administrator\PycharmProjects\untitled\other-medlive_zh_preformat\other-medlive_zh_preformat.jsonl', "r", encoding="utf-8") as file:
 with open(r'C:\Users\Administrator\Desktop\original_data\cochrane\cochrane_preformat.jsonl', "r", encoding="utf-8") as file:
 
     for item in tqdm(file.readlines()):
-        item=process_line(item,sp)
-        fw.write(item+'\n')
+        sp = speicalProces()
+        try:
+            item = json.loads(item.strip())
+            context = item["text"]
+            lang = item["lang"]
+            context = clean_text(context, lang, sp)
+            context = post_process(context)
+            if context == '':
+                continue
+            item["text"] = context
+            item = json.dumps(item, ensure_ascii=False)
+            fw.write(item + '\n')
+        except:
+            print("error")
+            exit(0)
+
 
 
