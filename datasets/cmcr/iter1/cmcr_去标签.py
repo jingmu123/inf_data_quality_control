@@ -198,8 +198,8 @@ def clean_text(context, lang):
     sp = speicalProces()
     cp = clean_pattern()
     context = context.split(split_token)
-    if len(context) < 3:
-        return ""
+    # if len(context) < 3:
+    #     return ""
     result = sp.step0_common_clean(context,cp,lang)
     context = sp.step1_morelinefeed(result)
     context = sp.step2_repeated_paragraph(context)
@@ -250,9 +250,10 @@ with open(r"C:\Users\Administrator\Desktop\original_data\cmcr\cmcr_preformat.jso
         context = re.sub(r'\xa0',r' ',context)
         context = clean_text(context, lang)
         context = post_process(context)
+        if context == '':
+            continue
         # print(context)
         item["text"] = context
         item = json.dumps(item, ensure_ascii=False)
-    # print(item)
         fw.write(item + "\n")
 
