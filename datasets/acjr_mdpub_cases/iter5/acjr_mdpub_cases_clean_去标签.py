@@ -49,7 +49,7 @@ pattern_en = [
     [r'(^(Alreheili KM. et al：|[Iil]mage (\d+|i)|·T|K.1A domen PeLCE|PEL|None\.?|B\.\/A|LEFT|PTima|TIONASPECTSONPREGNANCY|.{0,200}\.html)$)', r''],
     [r'((^(?=.{0,75}$).*(Department| Center|et al).*)|(^(?=.{0,150}$).*(Department of|Tel：|@[a-z]{2,10}\.com).*))', r''],
     [r'(^(?=.{0,100}$).*[^\/±]\d{3,4}[;；，：\.] ?\w+(\(\d+\))?[:：\.；]?[\d \-]+.*)', r''],
-    [r'(^([a-z][\w]{0,20}|[\d\/]{1,10}|Images|B0ml i.v. KM|Frame \d+ of \d+|Flow chart for study|\(CT3-4a，cN0-2c\)|\d+ \d+|[A-Z]{3,4}\-[A-Z]{3,4}|C F CD19-PCS|Follow-up)$)', r''],
+    [r'(^([a-z][\w]{0,20}|[\d\/]{1,10}|Images|B0ml i.v. KM|Frame \d+ of \d+|Flow chart for study|\(CT3-4a，cN0-2c\)|\d+ \d+|[A-Z]{3,4}\-[A-Z]{3,4}|C F CD19-PCS|Follow-up|apy. 2009.|December 2018.)$)', r''],
     [r'((\\?[\[]picture[^\]\.\\]*\\?[\]J])|(\\\[picture))', r''],
     [r'((\\?[\[\(]Figure[^\]\.\\]*\\?[\]1lJ])|(\\\[Figure))', r''],
     [r'([（\(][^\)\(（）]*[， ,](20|1[6-9])\d{2}[\)）])', r''],
@@ -256,13 +256,17 @@ class speicalProces:
         pass
 
     def move_duan(self, context):
-        context = re.sub(r'([^|\n]{80,}\.\n+\n)([a-z][^|\n]{50,}\n+\n)([A-Z][^|\n]{50,}[\-])(\n+\n)([A-Z][^|\n]{50,}|\n\s*|$|[\u4e00-\u9fff]{2,})', r'\1\3\2\5', context)  # 去标签检查第4832条数据
-        context = re.sub(r'([^|\n]{60,}[a-z，：\-\d])(\n+\n)([a-z\(][^\)]|\d+[^\.\\\)s])', r'\1 \3', context)
-        context = re.sub(r'([^|\n]{80,}[^\.])(\n+\n)( *[a-z][^\)])', r'\1 \3', context)
-        context = re.sub(r'([a-z\-\d])(\n+\n)( *\.)', r'\1 \3', context)
-        context = re.sub(r'([^|\n]{80,}[,，a-z])(\n+\n)( *(?!Table)[A-Z][^|\n]{35,}\.[^|\n]{200,})', r'\1 \3', context)
         context = re.sub(r'([a-zA-Z，\d\--])(\n+\n((Supplementary )?Table|\|) [\W\w]*?)(\n+\n)(([a-z\(][^ \--].*)|([A-Z][a-z]{2,10}\..{100,}))', r'\1 \6\2', context)
-        context = re.sub(r'([a-z\d])(\n+\n((Supplementary )?Table|\|) [\W\w]*?)(\n+\n)((±|\d+[^\\\.]).*)', r'\1 \6\2', context)
+        context = re.sub(r'([^|\n]{80,}\.\n+\n)([a-z][^|\n]{50,}\n+\n)([A-Z][^|\n]{50,}[\-])(\n+\n)([A-Z][^|\n]{50,}|\n\s*|$|[\u4e00-\u9fff]{2,})', r'\1\3\2\5', context)  # 去标签检查第4832条数据
+        context = re.sub(r'([^|\n]{45,}[a-z，：\-\d])(\n+\n)([a-z\(&][^\.\)]|\d+[^\.\\\)s])', r'\1 \3', context)
+        context = re.sub(r'([^|\n]{50,}[^\.])(\n+\n *)([a-z][^\.\)]|\d+ ?[^\.\\\)s])', r'\1 \3', context)
+        context = re.sub(r'([^|\n]{50,}[，,a-z])(\n+\n *)([A-Z][a-z]{3,}[,，].{40,})', r'\1 \3', context)
+        context = re.sub(r'([a-z\-\d])(\n+\n)( *\.)', r'\1 \3', context)
+        context = re.sub(r'([^|\n]{50,}[,，a-z])(\n+\n)( *(?!Table)[A-Z][^|\n]{35,}\.[^|\n]{200,})', r'\1 \3', context)
+        context = re.sub(r'([^|\n]{50,}[，,a-z])(\n+\n *([A-Z][A-Za-z]+( and)?( [A-Z][A-Za-z]+)?)\n+\n *)([a-z].{50,})',
+                         r'\1 \6\2', context)  # 标题插入多余换行
+        context = re.sub(r'([a-zA-Z，\d\--])(\n+\n((Supplementary )?Table|\|) [\W\w]*?)(\n+\n)(([a-z\(][^ \--].*)|([A-Z][a-z]{2,10}\..{100,}))', r'\1 \6\2', context)  # 表格插入多余换行
+        context = re.sub(r'([a-z\d])(\n+\n((Supplementary )?Table|\|) [\W\w]*?)(\n+\n)((±|\d+[^\\\.]).*)', r'\1 \6\2', context)  # 表格插入多余换行
 
         return context
 
@@ -321,7 +325,7 @@ def clean_text(context, lang):
                 tgt = pattern_item[1]
                 item = re.sub(src, tgt, item)
         final_results.append(item)
-
+    final_results = [con for con in final_results if con]
     context = split_token.join(final_results)
     context = sp.move_duan(context)
 
@@ -344,11 +348,10 @@ def post_process(context):
 
 
 
-# fw = open(r"C:/Program Files/lk/projects/pdf/acjr_mdpub_cases/acjr_mdpub_cases_preformat_clean-test.jsonl", "w", encoding="utf-8")
+fw = open(r"C:/Program Files/lk/projects/pdf/acjr_mdpub_cases/acjr_mdpub_cases_preformat_clean5.jsonl", "w", encoding="utf-8")
 with open(r"C:/Program Files/lk/projects/pdf/acjr_mdpub_cases/acjr_mdpub_cases_preformat.jsonl", "r", encoding="utf-8") as fs:
-    # num = 4338
-    lines = fs.readlines()#[num-1:num]
-    # lines = random.sample(lines, 300)
+    lines = fs.readlines()
+    lines = random.sample(lines, 300)
     for items in tqdm(lines):
         item = json.loads(items.strip())
         context = item["text"]
@@ -358,13 +361,13 @@ with open(r"C:/Program Files/lk/projects/pdf/acjr_mdpub_cases/acjr_mdpub_cases_p
         wuguan_list = ["e013cee2-1688-434b-82a1-c4519c9d44d9", "8281dbef-4a28-4b53-af69-3b79ea636aae"]
         if seq_id in wuguan_list:
             continue
-        if seq_id == "47dd9c86-f70e-460a-b80b-8f0c87aa3a54":
-            context = re.sub(r'\xa0', r' ', context)
-            context = clean_text(context, lang)
-            context = post_process(context)
-            print(context, '\n-------------------')
-            item["text"] = context
-            item = json.dumps(item, ensure_ascii=False)
+        # if seq_id == "b2ff8084-19fd-4707-ad52-cc1ad2694bc8":
+        context = re.sub(r'\xa0', r' ', context)
+        context = clean_text(context, lang)
+        context = post_process(context)
+        # print(context, '\n-------------------')
+        item["text"] = context
+        item = json.dumps(item, ensure_ascii=False)
         # print(item)
-        # fw.write(item + "\n")
-# fw.close()
+        fw.write(item + "\n")
+fw.close()
