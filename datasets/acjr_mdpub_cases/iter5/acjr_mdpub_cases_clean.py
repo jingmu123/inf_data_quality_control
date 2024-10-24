@@ -49,7 +49,7 @@ pattern_en = [
     [r'(^(Alreheili KM. et al：|[Iil]mage (\d+|i)|·T|K.1A domen PeLCE|PEL|None\.?|B\.\/A|LEFT|PTima|TIONASPECTSONPREGNANCY|.{0,200}\.html)$)', r''],
     [r'((^(?=.{0,75}$).*(Department| Center|et al).*)|(^(?=.{0,150}$).*(Department of|Tel：|@[a-z]{2,10}\.com).*))', r'删除14:<u>\1</u>'],
     [r'(^(?=.{0,100}$).*[^\/±]\d{3,4}[;；，：\.] ?\w+(\(\d+\))?[:：\.；]?[\d \-]+.*)', r'删除15:<u>\1</u>'],
-    [r'(^([a-z][\w]{0,20}|[\d\/]{1,10}|Images|B0ml i.v. KM|Frame \d+ of \d+|Flow chart for study|\(CT3-4a，cN0-2c\)|\d+ \d+|[A-Z]{3,4}\-[A-Z]{3,4}|C F CD19-PCS|Follow-up|apy. 2009.)$)', r'删除17:<u>\1</u>'],
+    [r'(^([a-z][\w]{0,20}|[\d\/]{1,10}|Images|B0ml i.v. KM|Frame \d+ of \d+|Flow chart for study|\(CT3-4a，cN0-2c\)|\d+ \d+|[A-Z]{3,4}\-[A-Z]{3,4}|C F CD19-PCS|Follow-up|apy. 2009.|December 2018.)$)', r'删除17:<u>\1</u>'],
     [r'((\\?[\[]picture[^\]\.\\]*\\?[\]J])|(\\\[picture))', r'删除18:<u>\1</u>'],
     [r'((\\?[\[\(]Figure[^\]\.\\]*\\?[\]1lJ])|(\\\[Figure))', r'删除19:<u>\1</u>'],
     [r'([（\(][^\)\(（）]*[， ,](20|1[6-9])\d{2}[\)）])', r'删除20:<u>\1</u>'],
@@ -256,11 +256,14 @@ class speicalProces:
         pass
 
     def move_duan(self, context):
+        context = re.sub(r'([a-zA-Z，\d\--])(\n+\n((Supplementary )?Table|\|) [\W\w]*?)(\n+\n)(([a-z\(][^ \--].*)|([A-Z][a-z]{2,10}\..{100,}))', r'\1删除表格换行\6\2', context)
         context = re.sub(r'([^|\n]{80,}\.\n+\n)([a-z][^|\n]{50,}\n+\n)([A-Z][^|\n]{50,}[\-])(\n+\n)([A-Z][^|\n]{50,}|\n\s*|$|[\u4e00-\u9fff]{2,})', r'\1\3|删除上下换行|\2\5', context)  # 去标签检查第4832条数据
-        context = re.sub(r'([^|\n]{60,}[a-z，：\-\d])(\n+\n)([a-z\(][^\)]|\d+[^\.\\\)s])', r'\1删除1换行\3', context)
-        context = re.sub(r'([^|\n]{80,}[^\.])(\n+\n)( *[a-z][^\)])', r'\1删除2换行\3', context)
+        context = re.sub(r'([^|\n]{45,}[a-z，：\-\d])(\n+\n)([a-z\(&][^\.\)]|\d+[^\.\\\)s])', r'\1删除1换行\3', context)
+        context = re.sub(r'([^|\n]{50,}[^\.])(\n+\n *)([a-z][^\)\.]|\d+ ?[^\.\\\)s])', r'\1删除2换行\3', context)
+        context = re.sub(r'([^|\n]{50,}[，,a-z])(\n+\n *)([A-Z][a-z]{3,}[,，].{40,})', r'\1|删除5换行|\3', context)
         context = re.sub(r'([a-z\-\d])(\n+\n)( *\.)', r'\1删除3换行\3', context)
-        context = re.sub(r'([^|\n]{80,}[,，a-z])(\n+\n)( *(?!Table)[A-Z][^|\n]{35,}\.[^|\n]{200,})', r'\1删除4换行\3', context)
+        context = re.sub(r'([^|\n]{50,}[,，a-z])(\n+\n)( *(?!Table)[A-Z][^|\n]{35,}\.[^|\n]{200,})', r'\1删除4换行\3', context)
+        context = re.sub(r'([^|\n]{50,}[，,a-z])(\n+\n *([A-Z][A-Za-z]+( and)?( [A-Z][A-Za-z]+)?)\n+\n *)([a-z].{50,})', r'\1|删除标题插入换行|\6\2', context)
         context = re.sub(r'([a-zA-Z，\d\--])(\n+\n((Supplementary )?Table|\|) [\W\w]*?)(\n+\n)(([a-z\(][^ \--].*)|([A-Z][a-z]{2,10}\..{100,}))', r'\1删除表格换行\6\2', context)
         context = re.sub(r'([a-z\d])(\n+\n((Supplementary )?Table|\|) [\W\w]*?)(\n+\n)((±|\d+[^\\\.]).*)', r'\1删除表格换行\6\2', context)
 
@@ -321,7 +324,7 @@ def clean_text(context, lang):
                 tgt = pattern_item[1]
                 item = re.sub(src, tgt, item)
         final_results.append(item)
-
+    final_results = [con for con in final_results if con]
     context = split_token.join(final_results)
     context = sp.move_duan(context)
 
@@ -358,7 +361,7 @@ with open(r"C:/Program Files/lk/projects/pdf/acjr_mdpub_cases/acjr_mdpub_cases_p
         wuguan_list = ["e013cee2-1688-434b-82a1-c4519c9d44d9","8281dbef-4a28-4b53-af69-3b79ea636aae"]
         if seq_id in wuguan_list:
             continue
-        if seq_id == "dd8c3f0a-af12-42e9-b2ac-babf1eff03cd":
+        if seq_id == "816284c7-21c3-4205-8041-c4eadcd2f0bb":
             context = re.sub(r'\xa0', r' ', context)
             context = clean_text(context, lang)
             context = post_process(context)
