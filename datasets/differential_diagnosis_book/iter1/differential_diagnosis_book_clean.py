@@ -15,7 +15,7 @@ pattern_en = [
     [r'(?<![\dm\s])(\s{0,}<sup>(<a>)?\s{0,}\d+[\d\s\–—,\(\)\[\]]{1,20}(</a>)?</sup>)', r'通用删除4(英):<u>\1</u>'],  # 特殊数字  排除可能出现的次幂情况
     [r'(.*(doi|DOI)\s?:.*)', r'通用删除5(英):<u>\1</u>'],  # 存在有DOI描述的句子
     [r'((\\)?\[[\d\s,\\，\–\-—]{1,}(\\)?\])', r'通用删除6(英):<u>\1</u>'],  # 带有方括号的数字引用
-    [r'((\\)?\([\d\s,\\，\-\–—]{1,}(\\)?\))', r'通用删除7(英):<u>\1</u>'],  # 带有圆括号的数字引用
+    # [r'((\\)?\([\d\s,\\，\-\–—]{1,}(\\)?\))', r'通用删除7(英):<u>\1</u>'],  # 带有圆括号的数字引用
     [r'((\\)?\[\s?[^\[\]]*([Ff]igs?(ure)?|F\s?IGS?(URE)?|Table|[sS]ee|For more|panel|http|www|NCT\d+|NO\.|version)s?[^\[\]]*(\\)?\])', r'通用删除8(英):<u>\1</u>'],  # 固定格式  带有[]的图片表格描述 附录描述 协议描述 无关网址描述
     [r'(^Full size.*)', r'通用删除9(英):<u>\1</u>'],  # Full size image/table 原文这里应该是一个图/表没识别出图形
     [r'(\([^\(\)]*(arrow|←|→)[^\(\)]\))', r''],  # ...箭头 描述图里面不同颜色的箭头
@@ -35,12 +35,14 @@ pattern_en = [
     # 以上为通用正则库
     # ========================================================================================
     # 以下补充对此组数据清洗的特定正则
-    # [r'(^[\u4e00-\u9fff]+)', r''],  # 去标签时打开
-    [r'([\(（][^（）\(\)]+et al\.?[，；,; ]+\d{4}[^（）\(\)]*[）\)])', r'删除1:<u>\1</u>'],
-    [r'([\(（]([Ff]ig\.?(ure)?|[Ss]ee|[Pp]age|[Ee]xhibit|[Pp]icture) [^（）\(\)]*[）\)])', r'删除2:<u>\1</u>'],
-    [r'(^((\w+( ([A-Z]+\d+|\d+[A-Z]+))+( \w+)*)|(\w\.?))$)', r'删除3:<u>\1</u>'],
-    [r'(^\**((\d|l)\\?\.|([A-Z][a-z]+\-)?[A-Z][a-z]+ [A-Z]{1,2}，?).*(\d+[：]\d+|\d+\-\d+|et al).*)', r'删除4:<u>\1</u>'],
-    [r'(^\**(I. INTRODUCTION|REFERENCES?)\**$)',  r'删除5:<u>\1</u>']
+    # [r'(^[\\\*· ]*)([\u4e00-\u9fff]+)', r'\1'],  # 去标签时打开
+    [r'([\(（][^（）\(\)]+et al\.?[，；,; ]+\d{4}[^（）\(\)]*[）\)])', r'删除1:<u>\1</u>'],  # 括号内带et al\.的参考
+    [r'([\(（]([Ff]ig\.?(ure)?|[Ss]ee|[Pp]age|[Ee]xhibit|[Pp]icture) [^（）\(\)]*[）\)])', r'删除2:<u>\1</u>'],  # 括号内图表页等
+    [r'(^((\w+( ([A-Z]+\d+|\d+[A-Z]+))+( \w+)*)|(\w\.?)|[\d_ ]+)$)', r'删除3:<u>\1</u>'],  # 无关零碎段，B、CC、C21等
+    [r'(^[\*_]*((\d+|l)\\?\.|([A-Z][a-z]+\-)?[A-Z][a-z]+ [A-Z]{1,2}，?).*(\d+[：，_\- ]+\d{4}|et al\.|https?：\/\/|[， ]+p ?\d+|ed \d，.*， ?\d{4}).*)', r'删除4:<u>\1</u>'],  # 参考文献
+    [r'(^[\*_]*(I. INTRODUCTION|REFERENCES?)\**$)',  r'删除5:<u>\1</u>']  # 参考文献标题及穿插的标题
+
+
     ]
 
 
@@ -86,7 +88,7 @@ class clean_pattern:
         :return: 返回打过标签的列表
         """
         start_to_end_en = [
-            [r'(^\**.{5,100}([，；\.] ?\d+[a-z]?[\d\-]*[a-z]?)\**$)', r'(^.{250,})|(^[\*]*[a-z]{1,3}.{72,}\.[\*]*$)', 0],
+            [r'(^\**(REFERENCES)\**$)', r'(^\**[^\d])', 0],
         ]
         start_to_end_zh = [
             # 样例
@@ -132,13 +134,37 @@ class speicalProces:
             new_list.append(con)
         return new_list
 
-    def move_hang(self, context):
 
-        context = re.sub(r'([^|\n]{45,}[a-z，\-\d])(\n+\n[ \*]*)([a-z\(&][^\.\)]|\d+[^\.\\\)s])', r'\1|删除1换行|\3', context)
-        # context = re.sub(r'([^|\n]{50,}[^\.])(\n+\n[ \*]*)([a-z][^\)\.]|\d+ ?[^\.\\\)s])', r'\1|删除2换行|\3', context)
-        # context = re.sub(r'([^|\n]{50,}[，,a-z])(\n+\n[ \*]*)([A-Z][a-z]{3,}[,，].{40,})', r'\1|删除5换行|\3', context)
-        # context = re.sub(r'([a-z\-\d])(\n+\n[ \*]*)(\.)', r'\1删除3换行\3', context)
-        # context = re.sub(r'([^|\n]{50,}[,，a-z])(\n+\n[ \*]*)((?!Table)[A-Z][^|\n]{35,}\.[^|\n]{200,})', r'\1|删除4换行|\3', context)
+    def move_ref(self, context):
+        new_list = []
+        flag = False
+        for con in context:
+            if re.search(r'(^\**(REFERENCES?|References?)\**$)', con):
+                flag = True
+                con = '此段引用删除:<u>' + con + '</u>'
+                new_list.append(con)
+                continue
+
+            if flag:
+                if re.search(r'(^[\*_]*\d+\\?\.)', con) or len(con) < 60:
+                    con = '此段引用删除:<u>' + con + '</u>'
+                else:
+                    flag = False
+
+            new_list.append(con)
+        return new_list
+
+
+
+    def move_hang(self, context, lang):
+        if lang == 'en':
+            context = re.sub(r'([^|\n]{45,}[a-z，\-\d])([ \*]*\n+\n[ \*]*)([a-z&][^\.\)]|\d+[^\.\\\)s])', r'\1|删除1换行|\3', context)
+            context = re.sub(r'([a-z，\d\--])([ \*]*\n+\n[ \*]*((Supplementary )?Table) [\W\w]*?)(\n+\n[ \*]*)([a-z][^ \--].*)', r'\1|删除表格换行|\6\2', context)
+            # context = re.sub(r'([^|\n]{50,}[^\.])(\n+\n[ \*]*)([a-z][^\)\.]|\d+ ?[^\.\\\)s])', r'\1|删除2换行|\3', context)
+            # context = re.sub(r'([^|\n]{50,}[，,a-z])(\n+\n[ \*]*)([A-Z][a-z]{3,}[,，].{40,})', r'\1|删除5换行|\3', context)
+            # context = re.sub(r'([a-z\-\d])(\n+\n[ \*]*)(\.)', r'\1删除3换行\3', context)
+            # context = re.sub(r'([^|\n]{50,}[,，a-z])(\n+\n[ \*]*)((?!Table)[A-Z][^|\n]{35,}\.[^|\n]{200,})', r'\1|删除4换行|\3', context)
+
 
         return context
 
@@ -153,6 +179,7 @@ def clean_text(context, lang):
 
     # 若有需要再补充正则并调用，正则在对应的函数里补充
     # context = cp.delete_page_middle(context, lang)
+    # context = sp.move_ref(context)
     context = sp.page_number_duan(context)
 
 
@@ -174,7 +201,7 @@ def clean_text(context, lang):
 
     final_results = [con for con in final_results if con.strip()]
     context = split_token.join(final_results)
-    context = sp.move_hang(context)
+    context = sp.move_hang(context, lang)
 
     return context
 
@@ -202,7 +229,7 @@ with open(r"C:\Users\Administrator\Desktop\original_data\differential_diagnosis_
     for items in tqdm(lines):
         item = json.loads(items.strip())
         seq_id = item["seq_id"]
-        pattern = r'c66a2992-fc0f-4d95-99e3-2bc43a40b132_5$'
+        pattern = r'208cbc52-25d1-4a68-9232-70fc85eda0af_98$'
         # if "208cbc52-25d1-4a68-9232-70fc85eda0af" in seq_id:
         if re.search(pattern, seq_id):
             context = item["text"]
