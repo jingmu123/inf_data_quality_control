@@ -8,7 +8,7 @@ pattern_en = [
     # 固定格式  带有（）的图片表格描述 附录描述 协议描述   顺序不能打乱
     [r'(\(\s?([Ff]igs?(ure)?|F\s?IGS?(URE)?|Table|[Ss]ee|For more|panel|http|www|NCT\d+|NO\.|version|p\.)s?[\s\.:]?[^\(\)]*\))', r''],  # 1. 这些固定的词语紧贴左括号
     [r'(\(\s?[^\(\)]*)([\.;]\s([Ff]igs?(ure)?|F\s?IGS?(URE)?|Table|[sS]ee|For more|http|www)s?[\s\.:][^\(\)]*)(\))', r'\1)'],  # 这些固定的词语在句子中间但是前半句可能有用 用[\.;]\s来判断前半句是否结束
-    [r'(\([^\(\)]*([Ff]igs?(ure)?|F\s?IGS?(URE)?|Table|[sS]ee\s|For more|http|www|NCT\d+|N[oO]\.|Participant \d+|Provider \d+|software|version)s?[\s\.:][^\(\)]*\))', r'通用删除1(英):<u>\1</u>'],  # 最广泛的形式从左括号匹配到右括号
+    [r'(\([^\(\)]*([Ff]igs?(ure)?|F\s?IGS?(URE)?|Table|[sS]ee\s|For more|http|www|NCT\d+|N[oO]\.|Participant \d+|Provider \d+)s?[\s\.:][^\(\)]*\))', r'通用删除1(英):<u>\1</u>'],  # 最广泛的形式从左括号匹配到右括号
     [r'(.*,\s?et[\s\xa0]{1,3}al.*)', r'通用删除2(英):<u>\1</u>'],  # , et al   et al一版在一些人名后面，一定要加逗号，如果没有逗号可能会造成一些误删
     [r'^\b(\w+(\s\w+){0,})\s+(\1)\b', r'\1'],  # 解决句首出现的单词重复的问题
     [r'(^[\*#]{0,4}(NEWSLETTER|Get the Crohn|Tips from experts|Stay Up-to-Date|Sign up for the latest coronavirus news|You can find more information at|See also|Adapted by|For more information).*)', r'通用删除3(英):<u>\1</u>'],  # 开头固定这种情况较多这种固定开头后面都能添加 (时事通讯|获取克罗恩资讯|专家提示|了解最新动态|注册获取最新冠状病毒新闻|你可以寻找更多消息在...|另请参见...|改编自...|更多信息)
@@ -36,13 +36,14 @@ pattern_en = [
     # ========================================================================================
     # 以下补充对此组数据清洗的特定正则
     # [r'(^[\\\*· ]*)([\u4e00-\u9fff]+)', r'\1'],  # 去标签时打开
-    [r'([\(（][^（）\(\)]+et al\.?[，；,; ]+\d{4}[^（）\(\)]*[）\)])', r'删除1:<u>\1</u>'],  # 括号内带et al\.的参考
-    [r'([\(（]([Ff]ig\.?(ure)?|[Ss]ee|[Pp]age|[Ee]xhibit|[Pp]icture) [^（）\(\)]*[）\)])', r'删除2:<u>\1</u>'],  # 括号内图表页等
-    [r'(^((\w+( ([A-Z]+\d+|\d+[A-Z]+))+( \w+)*)|(\w\.?)|[\d_ ]+)$)', r'删除3:<u>\1</u>'],  # 无关零碎段，B、CC、C21等
-    [r'(^[\*_]*((\d+|l)\\?\.|([A-Z][a-z]+\-)?[A-Z][a-z]+ [A-Z]{1,2}，?).*(\d+[：，_\- ]+\d{4}|et al\.|https?：\/\/|[， ]+p ?\d+|ed \d，.*， ?\d{4}).*)', r'删除4:<u>\1</u>'],  # 参考文献
-    [r'(^[\*_]*(I. INTRODUCTION|REFERENCES?)\**$)',  r'删除5:<u>\1</u>']  # 参考文献标题及穿插的标题
-
-
+    [r'([\(（][^（）\(\)]+[，；,; ]+\d{4}[A-Za-z]?[）\)])', r'删除1:<u>\1</u>'],  # 括号内带et al\.的参考
+    [r'([\(（]([Ff]ig\.?(ure)?|[Ss]ee|[Pp]age|[Ee]xhibit|[Pp]icture|Chapter|[Bb]ox|[Tt]able) [^（）\(\)]*[）\)])', r'删除2:<u>\1</u>'],  # 括号内图表页等
+    [r'(^[\*_]*((\w+( ([A-Z]+\d+|\d+[A-Z]+))+( \w+)*)|(\w\.?)|[\d_ ]+)[\*_]*$)', r'删除3:<u>\1</u>'],  # 无关零碎段，B、CC、C21等
+    [r'(^[\*\.]*[\d _]*(?:(\d+\\?\.)|([A-Z][A-Z\-\'a-z]+，? [A-Z \.]{1,6}[，：\(])).*(\d+(?:\(\d+\))?[：:； ]+[a-zA-Z]?\d+|[a-zA-Z]?\d+\-[a-zA-Z]?\d+[，\.]|et al\.|https?：\/\/|[， ]+p ?\d+|ed \d+，|，[A-Za-z_ ]+\d{4}[，\._]+).*)', r'删除4:<u>\1</u>'],  # 参考文献
+    [r'(^[\*_]*(\d+|[A-Z]{1,4}|I. INTRODUCTION|REFERENCES?|(Selected )?References?|FURTHER READING|5\'\-\-CACGTAAGCTATGCAGGCTT\-\-3\'|Useful websites)[\*_]*$)',  r'删除5:<u>\1</u>'],  # 参考文献标题及穿插的标题
+    [r'(^(?=[\w\W]{0,150}$)[A-Z][a-z]+ [A-Z\.]{1,6}，.*\n?.*)', r'删除6:<u>\1</u>'],  # 删除4参考遗留的段落
+    [r'(^[\*_]*(del\(13q\).{0,10}|This page intentionally left blank|( ?\([a-z]\) ?_?)+|[a-z_\d]{1,3} [a-zA-Z])[\*_]*$)', r'删除7:<u>\1</u>'],
+    [r'(^[\*_]*(www\.).*)', r'删除8:<u>\1</u>'],
     ]
 
 
@@ -126,45 +127,63 @@ class speicalProces:
     def page_number_duan(self, context):
         new_list = []
         for con in context:
-            number_len = len(re.findall(r'([，；\.] ?\d+[a-z]?[\d\-]*[a-z]?)', con))
+            number_len = len(re.findall(r'([，；] ?\d+[a-z]?[\d\-]*[a-z]?)', con))
             if number_len > 30:
-                con = '此段无关页码删除:<u>' + con + '</u>'
-            if re.search(r'([，；\.] ?\d+[a-z]?[\d\-]*[a-z]?\**$)', con) and len(con)<150:
-                con = '此段无关页码删除:<u>' + con + '</u>'
+                con = f'此段无关页码删除:<u>{con}</u>'
+            if re.search(r'([^\d][，；\._ ]+\d+[a-z]?[\d\-]*[a-z]?[\*_]*$)|(^[\*_]*[a-z\\\-A-Z ]+\d+[\*_]*$)', con) and len(con)<150:
+                con = f'此段无关页码删除:<u>{con}</u>'
             new_list.append(con)
         return new_list
 
 
     def move_ref(self, context):
         new_list = []
-        flag = False
+        patterns = [
+            r'^[\*\.]*[\d _]*(\d+\\?\.|[A-Z][A-Z\-\'a-z]+，? [A-Z \.]{1,6}[，：\(])',  # 参考文献开头，序号或者人名
+            r'([\s，]+et al[\.:：，]+)',  # et al
+            r'(\d+(\(\d+\))?[：:； ]+[a-zA-Z]?\d+|[a-zA-Z]?\d+\-[a-zA-Z]?\d+[，\.])',  # 页码范围格式
+            r'([Dd]oi[：:])',  # DOI
+            r'([Vv]ol\.?\s*\d+)',  # 卷号
+            r'(no\.?\s*\d+)',  # 期号
+            r'([， ]+p[p \.]*\d+|p[p \.]*\d+[：，\- ]+)',  # 页码
+            r'(ht ?tps?[：:])',  # 网址
+            r'([，；][A-Za-z_ ]*\d{4}[，\._]+)|([A-Z]\. ?\(\d{4}\)\.)',  # 年份
+            r'(ed \d+，)',  # 版本号
+            r'(Accessed|editor：|Pub\-?lishing|Germany：|London：)',  # 访问、出版、编辑
+            r'(， ?[A-Z]{2,3}[，：\.])'  # 地名，缩写
+        ]
         for con in context:
-            if re.search(r'(^\**(REFERENCES?|References?)\**$)', con):
-                flag = True
-                con = '此段引用删除:<u>' + con + '</u>'
-                new_list.append(con)
-                continue
+            p_sum = 0
+            for pat in patterns:
+                if re.search(pat, con):
+                    p_sum += 1
 
-            if flag:
-                if re.search(r'(^[\*_]*\d+\\?\.)', con) or len(con) < 60:
-                    con = '此段引用删除:<u>' + con + '</u>'
-                else:
-                    flag = False
+            if p_sum >= 3:
+                con = "参考删除-1:<u>{}</u>".format(con)
 
             new_list.append(con)
         return new_list
 
 
-
     def move_hang(self, context, lang):
         if lang == 'en':
-            context = re.sub(r'([^|\n]{45,}[a-z，\-\d])([ \*]*\n+\n[ \*]*)([a-z&][^\.\)]|\d+[^\.\\\)s])', r'\1|删除1换行|\3', context)
-            context = re.sub(r'([a-z，\d\--])([ \*]*\n+\n[ \*]*((Supplementary )?Table) [\W\w]*?)(\n+\n[ \*]*)([a-z][^ \--].*)', r'\1|删除表格换行|\6\2', context)
+            context = re.sub(r'([^|\n]{45,}[a-z，\-\d])([ \*]*\n+\n[ \*]*)(([a-z&][^\.\)]|\d+[^\.\d\\\)s]).{45,})', r'\1|删除1换行|\3', context)
+            context = re.sub(r'([^|\n]{45,}[a-z，\-\d])([ \*]*\n+\n[ \*]*)((\( ?[^\d]).{45,})', r'\1|删除2换行|\3', context)
+
+            context = re.sub(r'([a-z，\d\--])([ \*]*\n+\n[ \*]*(Table) [\W\w]*?)(\n+\n[ \*]*)([a-z][^ \--].{45,})', r'\1|删除表格换行|\5\2', context)
+
             # context = re.sub(r'([^|\n]{50,}[^\.])(\n+\n[ \*]*)([a-z][^\)\.]|\d+ ?[^\.\\\)s])', r'\1|删除2换行|\3', context)
             # context = re.sub(r'([^|\n]{50,}[，,a-z])(\n+\n[ \*]*)([A-Z][a-z]{3,}[,，].{40,})', r'\1|删除5换行|\3', context)
             # context = re.sub(r'([a-z\-\d])(\n+\n[ \*]*)(\.)', r'\1删除3换行\3', context)
             # context = re.sub(r'([^|\n]{50,}[,，a-z])(\n+\n[ \*]*)((?!Table)[A-Z][^|\n]{35,}\.[^|\n]{200,})', r'\1|删除4换行|\3', context)
 
+        return context
+
+
+    def move_hang2(self, context, lang):
+        if lang == 'en':
+            context = re.sub(r'([^|\n]{45,}[a-z，\-\d\)])([ \*]*\n+\n[ \*]*)(([a-z&\(][^\d\.\)]|\d+[^\.\d\\\)s]).{45,})', r'\1|删除1换行|\3', context)
+            context = re.sub(r'(\n\n[\*_]*(?:[Ff]ig\.?s?(ure)?|FIG\.?S?(URE)?) ?\d+.{50,})([ \*]*\n+\n[ \*]*)(.*(?:\([a-z](?:，[a-z])?\)|T\d|T\d[A-Z]{2}|image|\(arrow\)).*(?:\([a-z](?:，[a-z])?\)|T\d|T\d[A-Z]{2}|image|\(arrow\)).*)', r'\1|删除图换行|\5', context)
 
         return context
 
@@ -175,11 +194,13 @@ def clean_text(context, lang):
         split_token = "\n"
     cp = clean_pattern()
     sp = speicalProces()
+
+    context = sp.move_hang2(context, lang)
     context = context.split(split_token)
 
     # 若有需要再补充正则并调用，正则在对应的函数里补充
     # context = cp.delete_page_middle(context, lang)
-    # context = sp.move_ref(context)
+    context = sp.move_ref(context)
     context = sp.page_number_duan(context)
 
 
@@ -229,7 +250,7 @@ with open(r"C:\Users\Administrator\Desktop\original_data\differential_diagnosis_
     for items in tqdm(lines):
         item = json.loads(items.strip())
         seq_id = item["seq_id"]
-        pattern = r'208cbc52-25d1-4a68-9232-70fc85eda0af_98$'
+        pattern = r'521bd141-460d-4a13-bcb5-4fb284c500d3_1[0-3]$'
         # if "208cbc52-25d1-4a68-9232-70fc85eda0af" in seq_id:
         if re.search(pattern, seq_id):
             context = item["text"]
