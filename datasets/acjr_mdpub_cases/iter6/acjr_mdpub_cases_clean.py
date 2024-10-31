@@ -45,15 +45,15 @@ pattern_en = [
     [r'(^\d+\\?\..*\d{3,4}[;；，：\.] ?\w+(\(\d+\))?[:：\.；]?[\d \-]+.*)', r'删除9:<u>\1</u>'],
     [r'([\(（]([Ii]mage|[Vv]ideo) ?[\d，\-,]+[）\)])', r'删除10:<u>\1</u>'],
     [r'(^((\w+( ([A-Z]+\d+|\d+[A-Z]+))+( \w+)*)|(\w\.?))$)', r'删除11:<u>\1</u>'],
-    [r'(^(We would like to (acknowledge|thank)|Joana Vilaca\\\*1，|\\\*Servigo de Pediatria|Video \d+\.|Clemenceau Medical Center|The authors?( gratefully)? thank|There are no conflicts|No financial support of|O Am J Case Rep|1\\. van Riet EES， Hoes AW，|age size：|Abdomen venoes Axial|FUFFWO\\_|Series：|We are grateful to |1\\. Carlson JA：).*)', r'删除12:<u>\1</u>'],
+    [r'(^((We|The authors) would like to (acknowledge|thank)|Joana Vilaca\\\*1，|\\\*Servigo de Pediatria|Video \d+\.|Clemenceau Medical Center|The authors?( gratefully)? thank|There are no conflicts|No financial support of|O Am J Case Rep|1\\. van Riet EES， Hoes AW，|age size：|Abdomen venoes Axial|FUFFWO\\_|Series：|We are grateful to |1\\. Carlson JA：).*)', r'删除12:<u>\1</u>'],
     [r'(^(Alreheili KM. et al：|[Iil]mage (\d+|i)|·T|K.1A domen PeLCE|PEL|None\.?|B\.\/A|LEFT|PTima|TIONASPECTSONPREGNANCY|.{0,200}\.html)$)', r''],
-    [r'((^(?=.{0,75}$).*(Department| Center|et al).*)|(^(?=.{0,150}$).*(Depa[ri]tment of|Tel：|@[a-z]{2,10}\.com).*))', r'删除14:<u>\1</u>'],
+    [r'((^(?=.{0,100}$).*(Department| Center|et al|Medical|Medicine).*)|(^(?=.{0,150}$).*(Depa[ri]tment of|Tel：|@[a-z]{2,10}\.com).*))', r'删除14:<u>\1</u>'],
     [r'(^(?=.{0,100}$).*[^\/±]\d{3,4}[;；，：\.] ?\w+(\(\d+\))?[:：\.；]?[\d \-]+.*)', r'删除15:<u>\1</u>'],
-    [r'(^([a-z][\w]{0,20}|[\d\/]{1,10}|Images|B0ml i.v. KM|Frame \d+ of \d+|Flow chart for study|\(CT3-4a，cN0-2c\)|\d+ \d+|[A-Z]{3,4}\-[A-Z]{3,4}|C F CD19-PCS|Follow-up|apy. 2009.|December 2018.|50um|1\))$)', r'删除17:<u>\1</u>'],
+    [r'(^([a-z][\w]{0,20}|[\d\/]{1,10}|Images|B0ml i.v. KM|Frame \d+ of \d+|Flow chart for study|\(CT3-4a，cN0-2c\)|\d+ \d+|[A-Z]{3,4}\-[A-Z]{3,4}|C F CD19-PCS|Follow-up|apy. 2009.|December 2018.|50um|1\)|OSG\. B|Japan|C： 957.0.W： 1913.0|WaS)$)', r'删除17:<u>\1</u>'],
     [r'((\\?[\[]picture[^\]\.\\]*\\?[\]J])|(\\\[picture))', r'删除18:<u>\1</u>'],
     [r'((\\?[\[\(][Ff]igure[^\]\.\\]*\\?[\]1lJ])|(\\\[[Ff]igure))', r'删除19:<u>\1</u>'],
     [r'([（\(][^\)\(（）]*[\.， ,]+(20|1[6-9])\d{2}[\)）])', r'删除20:<u>\1</u>'],
-    [r'(^(Our data were|Diaz PJ，|Supplementary Material|come of Surgical|Northwestern Tanzania：|World Journal|Graph ?\d+：|Head and Neck tumours： |bone tumours\.|We want to thank|This study (received no|was approved)|Histopathological proven|S1S\.ociety|[Aa]ddress：|number：).*)', r'删除21:<u>\1</u>'],
+    [r'(^(Our data were|Diaz PJ，|Supplementary Material|come of Surgical|Northwestern Tanzania：|World Journal|Graph ?\d+：|Head and Neck tumours： |bone tumours\.|We want to thank|This study (received no|was approved)|Histopathological proven|S1S\.ociety|[Aa]ddress：|number：|American Medical Center，).*)', r'删除21:<u>\1</u>'],
     [r'(\([Pp]icture ?\d+\)|See Figure \d+\.)', r'删除22:<u>\1</u>'],
     [r'((\(Table|\\\[Table1T)$)', r'删除23:<u>\1</u>'],
     ]
@@ -129,7 +129,7 @@ class clean_pattern:
         """
         # 避免重复加标签，特征最好合并为1-2条，当段保留一条，当段删除一条。
         ending_starts = [
-            [r'^[#\*]{0,4}\s?(Re[tf]e?r?ences?：?|\|? *REFERENCES?：? *\|?|Funding ?(Sources|Statement|and Disclosure|program)?|Polls on Public|Ethic(s|al) ([Cc]ommittee )?[Aa]pproval：?( and informed consent)?|Author[s\'’ ]*([Cc]ontributions?：?|[Ss]tatement|[Dd]eclaration)|Acknowledge?men[t1]：?|(Acknowledgements )?Cc?onflic?ts? of [Ii]nterest( and source of funding)?|Source of (Support|Funding)|(Financial )?[Dd]isclosure|(Disclosure |Ethics )?Statement( of Ethics)?|Declaration of (Figure[s\'’ ]*|Tables )Authenticity|Competing [Ii]nterest( Nil\.)?|Declarations?( of( competing)? interest)?|Patient informed consent|(Department and )?Institution [Ww]here [Ww]ork [Ww]as [Dd]one|CONFLICT OF INTEREST：?|COMPETING INTERESTS|PATIENT CONSENT|TAKE HOME MESSAGES?|AUTHOR[S\'’ ]*CONTRIBUTIONS?|Authorship|ACKNOWLEDGE?MENTS?|Main Institute for the Case|Institutional review board statement|REFENRCES：|Informed consent and patient detail)s?[：\.]?[#\*]{0,4}\s{0,}($|\n)'],
+            [r'^[#\*]{0,4}\s?(Re[tf]e?r?ences?：?|\|? *REFERENCES?：? *\|?|Funding ?(Sources|Statement|and Disclosure|program)?|Polls on Public|Ethic(s|al) ([Cc]ommittee ?)?([Aa]pproval：?)?( and informed consent)?|Author[s\'’ ]*([Cc]ontributions?：?|[Ss]tatement|[Dd]eclaration)|Acknowledge?men[t1]：?|(Acknowledgements )?Cc?onflic?ts? of [Ii]nterest( and source of funding)?|Source of (Support|Funding)|(Financial )?[Dd]isclosure|(Disclosure |Ethics )?Statement( of Ethics)?|Declaration of (Figure[s\'’ ]*|Tables )Authenticity|Competing [Ii]nterest( Nil\.)?|Declarations?( of( competing)? interest)?|Patient informed consent|(Department and )?Institution [Ww]here [Ww]ork [Ww]as [Dd]one|CONFLICT OF INTEREST：?|COMPETING INTERESTS|PATIENT CONSENT|TAKE HOME MESSAGES?|AUTHOR[S\'’ ]*CONTRIBUTIONS?|Authorship|ACKNOWLEDGE?MENTS?|Main Institute for the Case|Institutional review board statement|REFENRCES：|Informed consent( and patient detail)?|Disclosure of financial arrangement)s?[：\.]?[#\*]{0,4}\s{0,}($|\n)'],
             [r'(^(\d|l)\\?\..*\d{3,4}[;；：\.] ?\w+(\(\d+\))?[:：\.；]?[\w \-]+.*)|(^(\d|l)\\?\. ?[A-Z][a-z]+ ?[A-Z]{1,2}[：\.，])']
         ]
 
@@ -261,9 +261,9 @@ class speicalProces:
         context = re.sub(r'([^|\n]{80,}\.\n+\n)([a-z][^|\n]{50,}\n+\n)([A-Z][^|\n]{50,}[\-])(\n+\n)([A-Z][^|\n]{50,}|\n\s*|$|[\u4e00-\u9fff]{2,})', r'\1\3|删除上下换行|\2\5', context)  # 去标签检查第4832条数据
         context = re.sub(r'([^|\n]{45,}[a-z，：\-\d])(\n+\n)([a-z\(&][^\.\)]|\d+[^\.\\\)s])', r'\1删除1换行\3', context)
         context = re.sub(r'([^|\n]{50,}[^\.])(\n+\n *)([a-z][^\)\.]|\d+ ?[^\.\\\)s])', r'\1删除2换行\3', context)
-        context = re.sub(r'([^|\n]{50,}[，,a-z])(\n+\n *)([A-Z][a-z]{3,}[,，].{40,})', r'\1|删除5换行|\3', context)
-        context = re.sub(r'([a-z\-\d])(\n+\n)( *\.)', r'\1删除3换行\3', context)
-        context = re.sub(r'([^|\n]{50,}[,，a-z])(\n+\n)( *(?!Table)[A-Z][^|\n]{35,}\.[^|\n]{200,})', r'\1删除4换行\3', context)
+        context = re.sub(r'([^|\n]{100,}[，,a-z])(\n+\n *)([A-Z][A-Za-z\d]{3,}[ \.,，；\)]+.{40,})', r'\1|删除5换行|\3', context)
+        context = re.sub(r'([^|\n]{50,}[a-z\-\d，\=])(\n+\n *)(\.|\\\[|\d+\.\d+ ?(\%|\)|mg\/))', r'\1删除3换行\3', context)
+        context = re.sub(r'([^|\n]{75,}[,，a-z])(\n+\n *)((?!Table)[A-Z][^|\n]{35,}\.[^|\n]{200,})', r'\1删除4换行\3', context)
         context = re.sub(r'([^|\n]{50,}[，,a-z])(\n+\n *([A-Z][A-Za-z]+( and)?( [A-Z][A-Za-z]+)?)\n+\n *)([a-z].{50,})', r'\1|删除标题插入换行|\6\2', context)
         context = re.sub(r'([a-zA-Z，\d\--])(\n+\n((Supplementary )?Table|\|) [\W\w]*?)(\n+\n)(([a-z\(][^ \--].*)|([A-Z][a-z]{2,10}\..{100,}))', r'\1删除表格换行\6\2', context)
         context = re.sub(r'([a-z\d])(\n+\n((Supplementary )?Table|\|) [\W\w]*?)(\n+\n)((±|\d+[^\\\.]).*)', r'\1删除表格换行\6\2', context)
@@ -281,7 +281,7 @@ class speicalProces:
                     r'([a-zA-Z，\d\-\.\)\]])(\n\n(Re[tf]e?r?ences?：?|REFERENCES?：?\n\n)[\W\w]*?)(\n\n)((\\?\-?[a-zA-Z\(])[\W\w]*?)(\n\n\d+\\?\.)',
                     r'\1|拼接引用正文|\n\n\5\2\7', context)
                 return context
-            elif re.search(r'(\d{4}[;；： \.]+\d+(\(\d+\))?[:：； ]*[\d\-]+)|(https?[：:]\/\/)|([^\[]\d+(\(\w+\))?[:：； ]*\d+[\-]\d+)|([;；： ，\.]+(20|1[6-9])\d{2}[;；： ，\.])|(^Table \d)|([Vv]ol\.| ed[\.；]|Volume)', l_text) or re.search(r'(\d{4}[;；： \.]+\d+(\(\d+\))?[:：； ]*[\d\-]+)|(https?[：:]\/\/)|([^\[]\d+(\(\w+\))?[:：； ]*\d+[\-]\d+)|([;；： ，\.]+(20|1[6-9])\d{2}[;；： ，\.])|(^Table \d)|([Vv]ol\.| ed[\.；]|Volume)', n_text) or len(n_text)<25:
+            elif re.search(r'(\d{4}[;；： \.]+\d+(\(\d+\))?[:：； ]*[\d\-]+)|(htt[tp]s?[：:]\/\/)|([^\[]\d+(\(\w+\))?[:：； ]*\d+[\-]\d+)|([;；： ，\.]+(20|1[6-9])\d{2}[;；： ，\.])|(^Table \d)|([Vv]ol\.| ed[\.；]|Volume|\.h[ti]ml)', l_text) or re.search(r'(\d{4}[;；： \.]+\d+(\(\d+\))?[:：； ]*[\d\-]+)|(htt[tp]s?[：:]\/\/)|([^\[]\d+(\(\w+\))?[:：； ]*\d+[\-]\d+)|([;；： ，\.]+(20|1[6-9])\d{2}[;；： ，\.])|(^Table \d)|([Vv]ol\.| ed[\.；]|Volume|\.h[ti]ml)', n_text) or len(n_text)<25:
                 context = re.sub(r'([a-zA-Z，\d\-\.\)\]])(\n\n(Re[tf]e?r?ences?：?|REFERENCES?：?\n\n)[\W\w]*?\n\n)(\\?\-?[a-zA-Z\(].*\n\n)([\W\w]*?\n\n\d+\\?\.)', r'\1\2删除不符拼接:<u>\4</u>\n\n\5', context)  #去标签去掉删除不符拼接:<u>\4</u>\n\n
                 context = self.move_ref_confusion(context)
             else:
@@ -362,7 +362,7 @@ with open(r"C:/Program Files/lk/projects/pdf/acjr_mdpub_cases/acjr_mdpub_cases_p
         wuguan_list = ["e013cee2-1688-434b-82a1-c4519c9d44d9","8281dbef-4a28-4b53-af69-3b79ea636aae"]
         if seq_id in wuguan_list:
             continue
-        if seq_id == "af61c339-17c8-4ee9-9cf8-90f7aa6c1729":
+        if seq_id == "6cedb27b-4f04-41b0-b636-0998918f81e8":
             context = re.sub(r'\xa0', r' ', context)
             context = clean_text(context, lang)
             context = post_process(context)
