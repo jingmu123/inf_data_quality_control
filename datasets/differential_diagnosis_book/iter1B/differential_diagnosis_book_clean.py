@@ -96,8 +96,8 @@ class clean_pattern:
         """
         # 避免重复加标签，特征最好合并为1-2条，当段保留一条，当段删除一条。
         end_pattern = [
-            [r'(^[#\s]*(Abstract|ABSTRACT|Preface)：?\s*$)', 0],
-            [r'(^[#\s]*(Background|1\. Introduction).*)', 0],
+            [r'(^[#\s]*(Preface)：?\s*$)', 0],
+            # [r'(^[#\s]*(Background|1\. Introduction).*)', 0],
         ]
         end_index = 0
         flag = False
