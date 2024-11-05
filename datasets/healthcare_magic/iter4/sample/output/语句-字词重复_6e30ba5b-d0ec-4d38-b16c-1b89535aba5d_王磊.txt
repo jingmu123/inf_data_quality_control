@@ -1,0 +1,13 @@
+【0】What Treatment Should I Take For Coughing ?
+**Question**: My mother is 49years old she has been coughing for several tears its a dry cough without any phelgm and has visited the doctor and was given asthma inhaler but she dosen t know how to use it.Could the cough condition worsen? /Sheilah 
+
+【1】**Answer**:删除10:<u> Pulmonologist,  Dr. Tushar Sahasrabudhe's  Response</u> Hi. Your mother has dry cough for years !.daily or intermittently? How was asthma diagnosed? Did she undergo a lung function test? Asthma usually causes wheezing , breathlessness and sticky phlegm. Does the X-ray show lung scars? Upper lobe scars as well as diseases such as ILD cause chronic dry cough. Details of history and reports needs to be communicated for a better advice. -Dr. Tushar 
+
+【2】**Answer**:删除10:<u> General & Family Physician,  Dr. Pavan Kumar Gupta's  Response</u> Hello.Welcome.If the doctor has prescribed inhaler and she doesn't know how to use it then why nebulizers are not tried.good luck. 
+
+【3】**Answer**:删除10:<u> General & Family Physician,  Dr. Pavan Kumar Gupta's  Response</u> Hello.Welcome.If the doctor has prescribed inhaler and she doesn't know how to use it then why nebulizers are not tried.good luck. 
+
+【4】**Answer**:删除10:<u> General & Family Physician,  Dr. Ramesh M.Vachharajani's  Response</u> Hi,Sheilah, Thanks for query, it seems that your mother is having chronic asthamatic bronchitis. As this for years together you may go for Chest x ray,blood TC,DC,ESR for routine evaluation. You learn use of inhaler,it will give good relief . Ask to do respiratory exercise. ok and bye.王磊
+
+====================================================================================================
+语义有效性#语句/字词重复#【2】Answer:删除10: General & Family Physician,  Dr. Pavan Kumar Gupta’s  Response Hello.Welcome.If the doctor has prescribed inhaler and she doesn’t know how to use it then why nebulizers are not tried.good luck.#无

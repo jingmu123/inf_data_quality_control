@@ -1,0 +1,8 @@
+【0】Done With Sugar Test After Having Food. Will It Give A Correct Value?
+**Question**: hello I m a 16 year old teen and I m worried. My mother went to the clinic today for a checkup, and her blood sugar level was over 140. She ate twice before she went to the clinic . but she didn t eat a lot of sugar. She eats a lot of oats. She gets stress from work also( could this cause diabetes ) please help me. I m worried sick. 
+
+【1】**Answer**:删除10:<u> Internal Medicine Specialist,  Dr. Akhilesh Dubey's  Response</u>删除11:<u> Hi, Welcome to HCM</u>, I can appreciate your concern about your mother, her blood sugar is 140 which is normal ,if we test the blood sugar after eating something it is called Random blood sugar,as this is normal If you are worried this can be repeated in fasting to know Fasting blood sugar and 2 hour after lunch to know PPBS. At present she is not diabetic please do not worry. A little bit of stress is all right bit excess of stress is not good for health.Diabetes is life style disease also depends on genetic factors and partly on diet and stress. Pleas.e删除1:<u> take care Good Luck. </u>
+
+【2】**Answer**:删除10:<u> General & Family Physician,  Dr. Pavan Kumar Gupta's  Response</u> Hello, There should not be any reason for worry as the sugar level of 140 is good after taking meals ,however for proper estimation you must get a fasting sugar level along with PP sugar done. PP sugar is done two hours after taking your normal breakfast. A level below 100 in fasting and below 140 in PP would constitute a normal report. Fasting level is done in morning with empty stomach. I hope it help.s删除1:<u> Thanks</u>焦瀚远
+
+====================================================================================================
