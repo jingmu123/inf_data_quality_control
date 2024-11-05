@@ -287,26 +287,26 @@ def post_process(context):
 
 
 
-# fw = open(r"C:\Users\Administrator\Desktop\original_data\differential_diagnosis_book\differential_diagnosis_book_preformat_clean1.jsonl", "w", encoding="utf-8")
-with open(r"C:\Users\Administrator\Desktop\original_data\differential_diagnosis_book\differential_diagnosis_book_preformat_chunk.jsonl", "r", encoding="utf-8") as fs:
+fw = open(r"C:\Users\Administrator\Desktop\original_data\differential_diagnosis_book\differential_diagnosis_book_preformat_en_chunk_clean1B.jsonl", "w", encoding="utf-8")
+with open(r"C:\Users\Administrator\Desktop\original_data\differential_diagnosis_book\differential_diagnosis_book_preformat_en_chunk.jsonl", "r", encoding="utf-8") as fs:
     num = 3
     lines = fs.readlines()#[num-1:num]
-    # lines = random.sample(lines, 300)
+    lines = random.sample(lines, 300)
     for items in tqdm(lines):
         item = json.loads(items.strip())
         seq_id = item["seq_id"]
-        pattern = r'7f497e27-cffa-46c9-8d9d-ed6e5a3f6904_3$'
+        # pattern = r'7f497e27-cffa-46c9-8d9d-ed6e5a3f6904_3$'
         # if "208cbc52-25d1-4a68-9232-70fc85eda0af" in seq_id:
-        if re.search(pattern, seq_id):
-            context = item["text"]
-            lang = item["lang"]
-            title = item["title"]
-            context = re.sub(r'\xa0', r' ', context)
-            context = clean_text(context, lang)
-            context = post_process(context)
-            print(context, '\n---------换页----------')
-        # item["text"] = context
-        # item = json.dumps(item, ensure_ascii=False)
+        # if re.search(pattern, seq_id):
+        context = item["text"]
+        lang = item["lang"]
+        title = item["title"]
+        context = re.sub(r'\xa0', r' ', context)
+        context = clean_text(context, lang)
+        context = post_process(context)
+        # print(context, '\n---------换页----------')
+        item["text"] = context
+        item = json.dumps(item, ensure_ascii=False)
         # print(item)
-        # fw.write(item + "\n")
-# fw.close()
+        fw.write(item + "\n")
+fw.close()
