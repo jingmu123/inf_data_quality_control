@@ -49,11 +49,11 @@ pattern_en = [
     [r'(^(Alreheili KM. et al：|[Iil]mage (\d+|i)|·T|K.1A domen PeLCE|PEL|None\.?|B\.\/A|LEFT|PTima|TIONASPECTSONPREGNANCY|.{0,200}\.html)$)', r''],
     [r'((^(?=.{0,100}$).*(Department| Center|et al|Medical|Medicine).*)|(^(?=.{0,150}$).*(Depa[ri]tment of|Tel：|@[a-z]{2,10}\.com).*))', r''],
     [r'(^(?=.{0,100}$).*[^\/±]\d{3,4}[;；，：\.] ?\w+(\(\d+\))?[:：\.；]?[\d \-]+.*)', r''],
-    [r'(^([a-z][\w]{0,20}|[\d\.\/]{1,10}|Images|B0ml i.v. KM|Frame \d+ of \d+|Flow chart for study|\(CT3-4a，cN0-2c\)|\d+ \d+|[A-Z]{3,4}\-[A-Z]{3,4}|C F CD19-PCS|Follow-up|apy. 2009.|December 2018.|50um|1\)|OSG\. B|Japan|C： 957.0.W： 1913.0|WaS|40×\.|iadrugs\.com\.|\(\w\)|SDF)$)', r''],
+    [r'(^([a-z][\w]{0,20}|[\d\.\/]{1,10}|Images|B0ml i.v. KM|Frame \d+ of \d+|Flow chart for study|\(CT3-4a，cN0-2c\)|\d+ \d+|[A-Z]{3,4}\-[A-Z]{3,4}|C F CD19-PCS|Follow-up|apy. 2009.|December 2018.|50um|1\)|OSG\. B|Japan|C： 957.0.W： 1913.0|WaS|40×\.|iadrugs\.com\.|\(\w\)|\w{1,3}|Head gnd|Tailend)$)', r''],
     [r'((\\?[\[]picture[^\]\.\\]*\\?[\]J])|(\\\[picture))', r''],
     [r'((\\?[\[\(][Ff]igure[^\]\.\\]*\\?[\]1lJ])|(\\\[[Ff]igure))', r''],
     [r'([（\(][^\)\(（）]*[\.， ,]+(20|1[6-9])\d{2}[\)）])', r''],
-    [r'(^(Our data were|Diaz PJ，|Supplementary Material|come of Surgical|Northwestern Tanzania：|World Journal|Graph ?\d+：|Head and Neck tumours： |bone tumours\.|We want to thank|This study (received no|was approved)|Histopathological proven|S1S\.ociety|[Aa]ddress：|number：|American Medical Center，|Trial registered under Clinical|The work has been reported in line with the SCARE 2020 criteria：|Medical College， Thane|DO： 10\.5455\/|Intensive Care Unit，|Maria Lume\\\*1，).*)', r''],
+    [r'(^(Our data were|Diaz PJ，|Supplementary Material|come of Surgical|Northwestern Tanzania：|World Journal|Graph ?\d+：|Head and Neck tumours： |bone tumours\.|We want to thank|This study (received no|was approved)|Histopathological proven|S1S\.ociety|[Aa]ddress：|number：|American Medical Center，|Trial registered under Clinical|The work has been reported in line with the SCARE 2020 criteria：|Medical College， Thane|DO： 10\.5455\/|Intensive Care Unit，|Maria Lume\\\*1，|Sep\. 2004|Medical School，|We are thankful to|\(A\) Hematoxylin|\(C\) Hypertrophied).*)', r''],
     [r'(\([Pp]icture ?\d+\)|See Figure \d+\.)', r''],
     [r'((\(Table|\\\[Table1T)$)', r''],
     [r'([（\(][^\)\(（）]*\.(com|org)[^\)\(（）]*[\)）])', r''],
@@ -135,7 +135,7 @@ class clean_pattern:
         """
         # 避免重复加标签，特征最好合并为1-2条，当段保留一条，当段删除一条。
         ending_starts = [
-            [r'^[#\*]{0,4}\s?(Re[tf]e?r?ences?：?|\|? *REFERENCES?：? *\|?|Funding ?([Ss]ources|[Ss]tatement|and Disclosure|program)?|Polls on Public|Ethic(s|al) ([Cc]ommittee ?)?([Aa]pproval：?)?( and informed consent)?|Author[s\'’ ]*([Cc]ontributions?：?|[Ss]tatement|[Dd]eclaration)|Acknowledge?men[t1]：?|(Acknowledgements )?Cc?onflic?ts? of [Ii]nterest( and source of funding| [Ss]tatement)?|Source of (Support|Fund(ing)?)|(Financial )?[Dd]isclosure|(Disclosure |Ethics )?Statement( of [Ee]thics)?|Declaration of (Figure[s\'’ ；]*|Tables )Authenticity|Competing [Ii]nterest( Nil\.)?|Declarations?( of( competing| conflicting)? interest)?|Patient informed consent|(Department and )?Institution [Ww]here [Ww]ork [Ww]as ([Dd]one|[Pp]erformed)|CONFLICT OF INTEREST：?|COMPETING INTERESTS|PATIENT CONSENT|TAKE HOME MESSAGES?|AUTHOR[S\'’ ]*CONTRIBUTIONS?|Authorship|ACKNOWLEDGE?MENTS?|Main Institute for the Case|Institutional review board statement|REFENRCES：|Informed consent( and patient detail)?|Disclosure of financial arrangement|Ethical Permission|CONSENT|Role of funding source|FUNDING|Disclaimer|Data [Aa]vailability( Statement)?|Acknowledgement，Source\(s\) of Support None\.|Disclosures and freedom of investigation|Author[s\'’ ]*information and contribution|No relevant conflict of interests\.)s?[：\.]?[#\*]{0,4}\s{0,}($|\n)'],
+            [r'^[#\*]{0,4}\s?(Re[tf]e?r?ences?：?|\|? *REFERENCES?：? *\|?|Funding ?([Ss]ources|[Ss]tatement|and Disclosure|program)?|Polls on Public|Ethic(s|al) ([Cc]ommittee ?)?([Aa]pproval：?)?( and informed consent)?|Author[s\'’ ]*([Cc]ontributions?：?|[Ss]tatement|[Dd]eclaration)|Acknowledge?men[t1]：?|(Acknowledgements )?Cc?onflic?ts? of [Ii]nterest( and source of funding| [Ss]tatement)?|Source of (Support|Fund(ing)?)|(Financial )?[Dd]isclosure|(Disclosure |Ethics )?Statement( of [Ee]thics)?|Declaration of (Figure[s\'’ ；]*|Tables )Authenticity|Competing [Ii]nterest( Nil\.)?|Declarations?( of( competing| conflicting)? interest)?|Patient informed consent|(Department and )?Institution [Ww]here [Ww]ork [Ww]as ([Dd]one|[Pp]erformed)|CONFLICT OF INTEREST：?|COMPETING INTERESTS|PATIENT CONSENT|TAKE HOME MESSAGES?|AUTHOR[S\'’ ]*CONTRIBUTIONS?|Authorship|ACKNOWLEDGE?MENTS?|Main Institute for the Case|Institutional review board statement|REFENRCES：|Informed consent( and patient detail)?|Disclosure of financial arrangement|Ethical Permission|CONSENT|Role of funding source|FUNDING|Disclaimer|Data [Aa]vailability( Statement)?|Acknowledgement，Source\(s\) of Support None\.|Disclosures and freedom of investigation|Author[s\'’ ]*information and contribution|No relevant conflict of interests\.|Ethics and Dissemination|Disclosure of interest)s?[：\.]?[#\*]{0,4}\s{0,}($|\n)'],
             [r'(^(\d|l)\\?\..*\d{3,4}[;；：\.] ?\w+(\(\d+\))?[:：\.；]?[\w \-]+.*)|(^(\d|l)\\?\. ?[A-Z][a-z]+ ?[A-Z]{1,2}[：\.，])']
         ]
 
@@ -268,13 +268,14 @@ class speicalProces:
         context = re.sub(r'([^|\n]{45,}[a-z，：\-\d])(\n+\n)([a-z\(&][^\.\)]|\d+[^\.\\\)s])', r'\1 \3', context)
         context = re.sub(r'([^|\n]{50,}[^\.])(\n+\n *)([a-z][^\.\)]|\d+ ?[^\.\\\)s])', r'\1 \3', context)
         context = re.sub(r'([^|\n]{100,}[，,a-z])(\n+\n *)((?!Table)[A-Z][A-Za-z\d]{3,}[ \.,，；\)]+.{40,})', r'\1 \3', context)
-        context = re.sub(r'([^|\n]{50,}[a-z\-\d，\=\&])(\n+\n *)([\.，,]|\\\[|\d+\.\d+ ?(\%|\)|mg\/|±)|\d+\)\.|\\\-)', r'\1 \3', context)
+        context = re.sub(r'([^|\n]{50,}[a-z\-\d，\=\&])(\n+\n *)([\.，±,]|\\\[|\d+\.\d+ ?(\%|\)|mg\/|±)|\d+\)\.|\\\-)', r'\1 \3', context)
         context = re.sub(r'([^|\n]{75,}[,，\-a-z])(\n+\n *)((?!Table)[A-Z][^|\n]{35,}\.[^|\n]{200,})', r'\1 \3', context)
         context = re.sub(r'([^|\n]{50,}[，,a-z])(\n+\n *([A-Z][A-Za-z]+( and)?( [A-Z][A-Za-z]+)?)\n+\n *)([a-z].{50,})', r'\1 \6\2', context)  # 标题插入多余换行
         context = re.sub(r'([a-zA-Z，\d\-\%])(\n+\n((Supplementary )?Table|\|) [\W\w]*?)(\n+\n ?)(([a-z\(][^ \--].*)|([A-Z][a-z]{2,10}\..{100,})|(\\\[|\d+\.\d+ ?(\%|\)|mg\/|±).*))', r'\1 \6\2', context)  # 表格插入多余换行
         context = re.sub(r'([a-z\d])(\n+\n((Supplementary )?Table|\|) [\W\w]*?)(\n+\n ?)((±|\d+[^\\\.]).*)', r'\1 \6\2', context)  # 表格插入多余换行
         context = re.sub(r'(Ethical [Cc]onsiderations?\n\n.*(\n\n|$))', r'', context)
         context = re.sub(r'(Conclusion\n*$)', r'', context)
+        context = re.sub(r'(\n\n(Consents?)\n\n.*)', r'', context)
         return context
 
     def move_ref_confusion(self, context):
@@ -355,10 +356,10 @@ def post_process(context):
 
 
 
-# fw = open(r"C:/Program Files/lk/projects/pdf/acjr_mdpub_cases/acjr_mdpub_cases_preformat_clean9.jsonl", "w", encoding="utf-8")
+fw = open(r"C:/Program Files/lk/projects/pdf/acjr_mdpub_cases/acjr_mdpub_cases_preformat_clean9.jsonl", "w", encoding="utf-8")
 with open(r"C:/Program Files/lk/projects/pdf/acjr_mdpub_cases/acjr_mdpub_cases_preformat.jsonl", "r", encoding="utf-8") as fs:
     lines = fs.readlines()
-    # lines = random.sample(lines, 300)
+    lines = random.sample(lines, 300)
     for items in tqdm(lines):
         item = json.loads(items.strip())
         context = item["text"]
@@ -368,13 +369,13 @@ with open(r"C:/Program Files/lk/projects/pdf/acjr_mdpub_cases/acjr_mdpub_cases_p
         wuguan_list = ["e013cee2-1688-434b-82a1-c4519c9d44d9", "8281dbef-4a28-4b53-af69-3b79ea636aae"]
         if seq_id in wuguan_list:
             continue
-        if seq_id == "766d750e-cee1-4eae-935c-c1685c1005de":
-            context = re.sub(r'\xa0', r' ', context)
-            context = clean_text(context, lang)
-            context = post_process(context)
-            print(context, '\n-------------------')
-#         item["text"] = context
-#         item = json.dumps(item, ensure_ascii=False)
-#         # print(item)
-#         fw.write(item + "\n")
-# fw.close()
+        # if seq_id == "15ba8af4-37fc-40e4-abee-f08ed0cbe1a9":
+        context = re.sub(r'\xa0', r' ', context)
+        context = clean_text(context, lang)
+        context = post_process(context)
+        # print(context, '\n-------------------')
+        item["text"] = context
+        item = json.dumps(item, ensure_ascii=False)
+        # print(item)
+        fw.write(item + "\n")
+fw.close()
