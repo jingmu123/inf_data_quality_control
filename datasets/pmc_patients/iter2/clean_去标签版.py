@@ -312,8 +312,8 @@ def post_process(context):
 
 
 
-fw = open(r"C:\Users\Administrator\PycharmProjects\untitled\pmc_patients\reclean2_pmc_patients.jsonl", "w", encoding="utf-8")
-with open(r"C:\Users\Administrator\PycharmProjects\untitled\pmc_patients\pmc_patients_preformat.jsonl", "r", encoding="utf-8") as fs:
+fw = open(r"C:\Users\Administrator\Desktop\original_data\pmc_patients\pmc_patients_clean.jsonl", "w", encoding="utf-8")
+with open(r"C:\Users\Administrator\Desktop\original_data\pmc_patients\pmc_patients_preformat.jsonl", "r", encoding="utf-8") as fs:
 # with open(r"C:\Users\Administrator\PycharmProjects\untitled\pmc_patients\test.jsonl", "r", encoding="utf-8") as fs:
 
     lines = fs.readlines()
