@@ -371,8 +371,8 @@ def clean_text(context, lang):
 
         final_results.append(item)  # 将处理后的item添加到结果中
 
-    for index, item in enumerate(final_results):
-        print(index, item)
+    # for index, item in enumerate(final_results):
+    #     print(index, item)
     context = split_token.join(final_results)
 
     return context
@@ -393,12 +393,11 @@ def post_process(context):
     return context
 
 
-fw = open(r"C:\pycharm\orc识别pdf清洗数据\pdf\clean_json\reclean8B_journal-pile.jsonl", "w", encoding="utf-8")
-with open(r"C:\pycharm\orc识别pdf清洗数据\pdf\clean_json\original_data\journal-pile_preformat.jsonl", "r",
-          encoding="utf-8") as fs:
+fw = open(r"C:\Users\Administrator\Desktop\original_data\journal-pile\journal-pile_clean.jsonl", "w", encoding="utf-8")
+with open(r"C:\Users\Administrator\Desktop\original_data\journal-pile\journal-pile_preformat.jsonl", "r", encoding="utf-8") as fs:
     lines = fs.readlines()
-    sampled_lines = random.sample(lines, 3000)
-    for items in tqdm(sampled_lines):
+    # sampled_lines = random.sample(lines, 3000)
+    for items in tqdm(lines):
         item = json.loads(items.strip())
         # if item["seq_id"] == "dc1bd8f6-0533-4883-bc8b-41a22854e910":
         context = item["text"]
@@ -413,52 +412,7 @@ with open(r"C:\pycharm\orc识别pdf清洗数据\pdf\clean_json\original_data\jou
         item = json.dumps(item, ensure_ascii=False)
         # print(item)
         fw.write(item + "\n")
+fw.close()
 
-    # # fw.close()
 
 
-#
-# # 处理单行数据的函数
-# def process_line(item):
-#     context = item["text"]
-#     lang = item["lang"]
-#     title = item["title"]
-#
-#     # 清洗操作
-#     context = re.sub(r'[\*]{0,}', r'', context)
-#     context = re.sub(r'\xa0', r' ', context)
-#     context = clean_text(context, lang)
-#     context = post_process(context)
-#
-#     # 更新 item
-#     item["text"] = context
-#     return json.dumps(item, ensure_ascii=False)
-#
-#
-# # 多线程处理函数
-# def process_lines_in_threads(lines, max_workers=8):
-#     processed_items = []
-#     with ThreadPoolExecutor(max_workers=max_workers) as executor:
-#         # 提交所有任务
-#         futures = [executor.submit(process_line, json.loads(item.strip())) for item in lines]
-#
-#         # 使用 tqdm 进度条追踪任务完成进度
-#         for future in tqdm(as_completed(futures), total=len(futures)):
-#             processed_items.append(future.result())
-#
-#     return processed_items
-#
-#
-# if __name__ == "__main__":
-#     # 读取文件
-#     with open(r"C:\pycharm\orc识别pdf清洗数据\pdf\clean_json\original_data\journal-pile_preformat.jsonl", "r",
-#               encoding="utf-8") as fs:
-#         lines = fs.readlines()
-#
-#     # 开始多线程处理
-#     processed_data = process_lines_in_threads(lines, max_workers=8)
-#
-#     # 将结果写入新文件
-#     with open(r"C:\pycharm\orc识别pdf清洗数据\pdf\clean_json\reclean1_journal-pile.jsonl", "w", encoding="utf-8") as fw:
-#         for item in processed_data:
-#             fw.write(item + "\n")
