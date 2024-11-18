@@ -356,10 +356,10 @@ def post_process(context):
 
 
 
-fw = open(r"C:/Program Files/lk/projects/pdf/acjr_mdpub_cases/acjr_mdpub_cases_preformat_clean9.jsonl", "w", encoding="utf-8")
-with open(r"C:/Program Files/lk/projects/pdf/acjr_mdpub_cases/acjr_mdpub_cases_preformat.jsonl", "r", encoding="utf-8") as fs:
+fw = open(r"C:\Users\Administrator\Desktop\original_data\acjr_mdpub_cases\acjr_mdpub_cases_clean.jsonl", "w", encoding="utf-8")
+with open(r"C:\Users\Administrator\Desktop\original_data\acjr_mdpub_cases\acjr_mdpub_cases_preformat.jsonl", "r", encoding="utf-8") as fs:
     lines = fs.readlines()
-    lines = random.sample(lines, 300)
+    # lines = random.sample(lines, 300)
     for items in tqdm(lines):
         item = json.loads(items.strip())
         context = item["text"]

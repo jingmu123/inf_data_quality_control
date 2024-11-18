@@ -302,8 +302,8 @@ def post_process(context):
 
 
 
-fw = open(r"C:\Users\Administrator\PycharmProjects\untitled\icliniq_qa\reclean2_icliniq_qa.jsonl", "w", encoding="utf-8")
-with open(r"C:\Users\Administrator\PycharmProjects\untitled\icliniq_qa\icliniq_qa_preformat.jsonl", "r", encoding="utf-8") as fs:
+fw = open(r"C:\Users\Administrator\Desktop\original_data\icliniq_qa\icliniq_qa_clean.jsonl", "w", encoding="utf-8")
+with open(r"C:\Users\Administrator\Desktop\original_data\icliniq_qa\icliniq_qa_preformat.jsonl", "r", encoding="utf-8") as fs:
 # with open(r"C:\Users\Administrator\PycharmProjects\untitled\icliniq_qa\test.jsonl", "r", encoding="utf-8") as fs:
 
     lines = fs.readlines()

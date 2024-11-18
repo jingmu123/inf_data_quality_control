@@ -360,8 +360,8 @@ def post_process(context):
     return context
 
 
-fw = open(r"C:\Users\Administrator\PycharmProjects\untitled\mimic_iv_discharge_preformat\reclean5_mimic_iv_discharge.jsonl", "w", encoding="utf-8")
-with open(r"C:\Users\Administrator\PycharmProjects\untitled\mimic_iv_discharge_preformat\mimic_iv_discharge_preformat.jsonl", "r", encoding="utf-8") as fs:
+fw = open(r"C:\Users\Administrator\Desktop\original_data\mimic_iv_discharge\mimic_iv_discharge_clean.jsonl", "w", encoding="utf-8")
+with open(r"C:\Users\Administrator\Desktop\original_data\mimic_iv_discharge\mimic_iv_discharge_preformat.jsonl", "r", encoding="utf-8") as fs:
 # with open(r"C:\Users\Administrator\PycharmProjects\untitled\mimic_iv_discharge_preformat\test.jsonl", "r", encoding="utf-8") as fs:
 
     lines = fs.readlines()
@@ -379,5 +379,6 @@ with open(r"C:\Users\Administrator\PycharmProjects\untitled\mimic_iv_discharge_p
         item = json.dumps(item, ensure_ascii=False)
         # print(item)
         fw.write(item + "\n")
+fw.close()
 
 

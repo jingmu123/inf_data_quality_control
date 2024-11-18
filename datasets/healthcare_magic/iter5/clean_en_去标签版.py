@@ -338,14 +338,14 @@ def post_process(context):
 
 
 
-fw = open(r"C:\Users\Administrator\PycharmProjects\untitled\healthcare_magic\reclean5_healthcare_magic.jsonl", "w", encoding="utf-8")
-with open(r"C:\Users\Administrator\PycharmProjects\untitled\healthcare_magic\healthcare_magic_preformat.jsonl", "r", encoding="utf-8") as fs:
+fw = open(r"C:\Users\Administrator\Desktop\original_data\healthcare_magic\healthcare_magic_clean.jsonl", "w", encoding="utf-8")
+with open(r"C:\Users\Administrator\Desktop\original_data\healthcare_magic\healthcare_magic_preformat.jsonl", "r", encoding="utf-8") as fs:
 # with open(r"C:\Users\Administrator\PycharmProjects\untitled\healthcare_magic\test.jsonl", "r", encoding="utf-8") as fs:
     lines = fs.readlines()
     for items in tqdm(lines):
         item = json.loads(items.strip())
         # if item["seq_id"] == "5a9815c6-c389-410a-884d-86bd79e6dc56":
-        print(item["seq_id"])
+        # print(item["seq_id"])
         context = item["text"]
         lang = item["lang"]
         title = item["title"]
