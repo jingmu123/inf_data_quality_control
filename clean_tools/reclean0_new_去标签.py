@@ -14,7 +14,7 @@ pattern_en = [
     [r'(^[\*#]{0,4}(NEWSLETTER|Get the Crohn|Tips from experts|Stay Up-to-Date|Sign up for the latest coronavirus news|You can find more information at|See also|Adapted by|For more information).*)', r''],  # 开头固定这种情况较多这种固定开头后面都能添加 (时事通讯|获取克罗恩资讯|专家提示|了解最新动态|注册获取最新冠状病毒新闻|你可以寻找更多消息在...|另请参见...|改编自...|更多信息)
     [r'(?<![\dm\s])(\s{0,}<sup>(<a>)?\s{0,}\d+[\d\s\–—,\(\)\[\]]{1,20}(</a>)?</sup>)', r''],  # 特殊数字  排除可能出现的次幂情况
     [r'(.*(doi|DOI)\s?:.*)', r''],  # 存在有DOI描述的句子
-    [r'((\\)?\[[\d\s,，\–\-—]{1,}(\\)?\])', r''],  # 带有方括号的数字引用
+    [r'((\\?\[[\d\s,，\–\-—]{1,}\\?\]?)|(\\?\[?[\d\s,，\–\-—]{1,}\\?\]))', r''],  # 带有方括号的数字引用
     [r'((\\)?\([\d\s,，\-\–—]{1,}(\\)?\))', r''],  # 带有圆括号的数字引用
     [r'((\\)?\[\s?[^\[\]]*([Ff]igs?(ure)?|F\s?IGS?(URE)?|Table|[sS]ee|For more|panel|http|www|NCT\d+|NO\.|version)s?[^\[\]]*(\\)?\])', r''],  # 固定格式  带有[]的图片表格描述 附录描述 协议描述 无关网址描述
     [r'(^Full size.*)', r''],  # Full size image/table 原文这里应该是一个图/表没识别出图形
@@ -137,13 +137,21 @@ class clean_pattern:
         ]
         for middle in start_to_end:
             delete_line_index = []
+            flag = False
             for index, item in enumerate(context):
                 if re.search(middle[0], item):
                     satrt = [index, 0]
                     delete_line_index.append(satrt)
-                if re.search(middle[1], item):
-                    end = [index, 1]
-                    delete_line_index.append(end)
+                    flag = True
+                    continue
+
+                if flag:
+                    if re.search(middle[1], item):
+                        end = [index, 1]
+                        delete_line_index.append(end)
+                        flag = False
+                    else:
+                        pass
 
             length = len(delete_line_index)
             if length >= 2:
