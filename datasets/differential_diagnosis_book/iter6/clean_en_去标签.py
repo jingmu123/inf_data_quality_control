@@ -5,54 +5,51 @@ import re
 import random
 import spacy
 
-nlp = spacy.load("en_core_web_sm")
 pattern_en = [
     [r'(■|©|●|◆)', r''],
     # 固定格式  带有（）的图片表格描述 附录描述 协议描述   顺序不能打乱
     [r'(\(\s?([Ff]igs?(ure)?|F\s?IGS?(URE)?|Table|[Ss]ee|For more|panel|http|www|NCT\d+|NO\.|version|p\.)s?[\s\.:]?[^\(\)]*\))', r''],  # 1. 这些固定的词语紧贴左括号
     [r'(\(\s?[^\(\)]*)([\.;]\s([Ff]igs?(ure)?|F\s?IGS?(URE)?|Table|[sS]ee|For more|http|www)s?[\s\.:][^\(\)]*)(\))', r'\1)'],  # 这些固定的词语在句子中间但是前半句可能有用 用[\.;]\s来判断前半句是否结束
-    [r'(\([^\(\)]*([Ff]igs?(ure)?|F\s?IGS?(URE)?|Table|[sS]ee\s|For more|http|www|NCT\d+|N[oO]\.|Participant \d+|Provider \d+)s?[\s\.:][^\(\)]*\))', r'通用删除1(英):<u>\1</u>'],  # 最广泛的形式从左括号匹配到右括号
+    [r'(\([^\(\)]*([Ff]igs?(ure)?|F\s?IGS?(URE)?|Table|[sS]ee\s|For more|http|www|NCT\d+|N[oO]\.|Participant \d+|Provider \d+)s?[\s\.:][^\(\)]*\))', r''],  # 最广泛的形式从左括号匹配到右括号
     # [r'(.*,\s?et[\s\xa0]{1,3}al.*)', r'通用删除2(英):<u>\1</u>'],  # , et al   et al一版在一些人名后面，一定要加逗号，如果没有逗号可能会造成一些误删
     [r'^\b(\w+(\s\w+){0,})\s+(\1)\b', r'\1'],  # 解决句首出现的单词重复的问题
-    [r'(^[\*#]{0,4}(NEWSLETTER|Get the Crohn|Tips from experts|Stay Up-to-Date|Sign up for the latest coronavirus news|You can find more information at|See also|Adapted by|For more information).*)', r'通用删除3(英):<u>\1</u>'],  # 开头固定这种情况较多这种固定开头后面都能添加 (时事通讯|获取克罗恩资讯|专家提示|了解最新动态|注册获取最新冠状病毒新闻|你可以寻找更多消息在...|另请参见...|改编自...|更多信息)
-    [r'(?<![\dm\s])(\s{0,}<sup>(<a>)?\s{0,}\d+[\d\s\–—,\(\)\[\]]{1,20}(</a>)?</sup>)', r'通用删除4(英):<u>\1</u>'],  # 特殊数字  排除可能出现的次幂情况
-    [r'(.*(doi|DOI)\s?:.*)', r'通用删除5(英):<u>\1</u>'],  # 存在有DOI描述的句子
-    [r'((\\?\[[\d\s,，\–\-—]{1,}\\?\]?)|(\\?\[?[\d\s,，\–\-—]{1,}\\?\]))', r'通用删除6(英):<u>\1</u>'],  # 带有方括号的数字引用
-    [r'((\\?\( ?\d+([\s,，\-\–—]+\d+)+\\?\))|(\\?\((\d{1,3}|\d{5,})\\?\)))', r'通用删除7(英):<u>\1</u>'],  # 带有圆括号的数字引用
-    [r'((\\)?\[\s?[^\[\]]*([Ff]igs?(ure)?|F\s?IGS?(URE)?|Table|[sS]ee|For more|panel|http|www|NCT\d+|NO\.|version)s?[^\[\]]*(\\)?\])', r'通用删除8(英):<u>\1</u>'],  # 固定格式  带有[]的图片表格描述 附录描述 协议描述 无关网址描述
-    [r'(^Full size.*)', r'通用删除9(英):<u>\1</u>'],  # Full size image/table 原文这里应该是一个图/表没识别出图形
+    [r'(^[\*#]{0,4}(NEWSLETTER|Get the Crohn|Tips from experts|Stay Up-to-Date|Sign up for the latest coronavirus news|You can find more information at|See also|Adapted by|For more information).*)', r''],  # 开头固定这种情况较多这种固定开头后面都能添加 (时事通讯|获取克罗恩资讯|专家提示|了解最新动态|注册获取最新冠状病毒新闻|你可以寻找更多消息在...|另请参见...|改编自...|更多信息)
+    [r'(?<![\dm\s])(\s{0,}<sup>(<a>)?\s{0,}\d+[\d\s\–—,\(\)\[\]]{1,20}(</a>)?</sup>)', r''],  # 特殊数字  排除可能出现的次幂情况
+    [r'(.*(doi|DOI)\s?:.*)', r''],  # 存在有DOI描述的句子
+    [r'((\\?\[[\d\s,，\–\-—]{1,}\\?\]?)|(\\?\[?[\d\s,，\–\-—]{1,}\\?\]))', r''],  # 带有方括号的数字引用
+    [r'((\\?\( ?\d+([\s,，\-\–—]+\d+)+\\?\))|(\\?\((\d{1,3}|\d{5,})\\?\)))', r''],  # 带有圆括号的数字引用
+    [r'((\\)?\[\s?[^\[\]]*([Ff]igs?(ure)?|F\s?IGS?(URE)?|Table|[sS]ee|For more|panel|http|www|NCT\d+|NO\.|version)s?[^\[\]]*(\\)?\])', r''],  # 固定格式  带有[]的图片表格描述 附录描述 协议描述 无关网址描述
+    [r'(^Full size.*)', r''],  # Full size image/table 原文这里应该是一个图/表没识别出图形
     [r'(\([^\(\)]*(arrow|←|→)[^\(\)]\))', r''],  # ...箭头 描述图里面不同颜色的箭头
 
     # 9.4继续添加
-    [r'(^Full size.*)', r'通用删除10(英):<u>\1</u>'],  # Full size image/table 原文这里应该是一个图/表没识别出图形
-    [r'(\([pP]\.?\d+[^\(\)]*\))', r'通用删除11(英):<u>\1</u>'],  # 带有括号的([Pp]. ...)第几页
+    [r'(^Full size.*)', r''],  # Full size image/table 原文这里应该是一个图/表没识别出图形
+    [r'(\([pP]\.?\d+[^\(\)]*\))', r''],  # 带有括号的([Pp]. ...)第几页
     [r'(\([^\(\)]*Additional file[^\(\)]*\))', r''],  # 附加文件带括号
-    [r'([\*#]{0,4}Additional file.*)', r'通用删除12(英):<u>\1</u>'],  # 附加文件
-    [r'(^Download\s.*)', r'通用删除13(英):<u>\1</u>'],  # 段落开头下载 ...
-    [r'^.{0,3}(Editor.s note|To learn more about).*', r'通用删除14(英):<u>\1</u>'],  # 从段落头开始 编辑信息 更多信息
-    [r'(^(You can find more|About this video).*)', r'通用删除15(英):<u>\1</u>'],  # 段落开头 你可以找到更多/关于本视频
+    [r'([\*#]{0,4}Additional file.*)', r''],  # 附加文件
+    [r'(^Download\s.*)', r''],  # 段落开头下载 ...
+    [r'^.{0,3}(Editor.s note|To learn more about).*', r''],  # 从段落头开始 编辑信息 更多信息
+    [r'(^(You can find more|About this video).*)', r''],  # 段落开头 你可以找到更多/关于本视频
 
     #09.23继续添加
-    [r'(^[#\*_·]*\s?\d?([Ff]i[qg]s?(ure)?|F\s?IGS?(URE)?).*\n?.*)', r'通用删除16(英):<u>\1</u>'],  # 删除开头为Figure的描述
+    [r'(^[#\*_·]*\s?\d?([Ff]i[qg]s?(ure)?|F\s?IGS?(URE)?).*\n?.*)', r''],  # 删除开头为Figure的描述
 
     # 以上为通用正则库
     # ========================================================================================
     # 以下补充对此组数据清洗的特定正则
     [r'([\(（][^（）\(\)]+[，；,; ]+\d{4}[A-Za-z]?[）\)])', r''],  # 括号内带et al\.的参考
     [r'([\(\{（][^\{\}（）\(\)]*([Ff]i ?g ?\.?(ure)? |[Ss]ee |[Pp]age |[Ee]xhibit |[Pp]icture |[Cc]hapter |[Bb]ox |[Tt]able |[，；,;]+ ?\d{4}[，；,; ]+|[ ，；,;]pp?\. ?\d+)[^（）\{\}\(\)]*[）\}\)])', r''],  # 括号内图、表、页、年份等
-    [r'(^[\*_]*(\w{1,2}( \w{1,2})+|(\w[，\.]?\w{0,1})|[\d_ ]+)[\*_]*$)', r'删除3:<u>\1</u>'],  # 无关零碎段，B、a bC、_a_ bC、C21等
-    # [r'(^[\*\.]*[\d _]*(?:(\d+\\?\.)|([A-Z][A-Z\-\'a-z]+[，,]? [A-Z ]{1,4}[\.，,：\(])).*(\d+(?:\(\d+\))?[：:； ]+[a-zA-Z]?\d+|[a-zA-Z]?\d+\-[a-zA-Z]?\d+[，\.]|et al\.|https?：\/\/|[， ]+p ?\d+|ed \d+，|[\.，][A-Za-z_ ]+\d{4}[，;；\._]+).*)', r'删除4:<u>\1</u>'],  # 参考文献
-    [r'(^[\\\*_ #]*(\d+|[A-Z]{1,2}|.{0,2}SUGGESTED READING|Suggested Reading|ACKNOWLEDGMENTS?|I. INTRODUCTION|Acknowledge?ments?|[Rr][Ee][Fft][Ee][Rr][Ee][Nn][Cc] ?[Ee][Ss]?[\.:：]?|(Selected )?References?|FURTHER ?READING|Further reading( list)?|5\'\-\-CACGTAAGCTATGCAGGCTT\-\-3\'|Useful websites)[\*_]*$)',  r'删除5:<u>\1</u>'],  # 参考文献标题及穿插的标题
-    [r'(^(?=[\w\W]{0,150}$)[A-Z][a-z]+ [A-Z\.]{1,6}，.*\n?.*)', r'删除6:<u>\1</u>'],  # 删除4参考遗留的段落
-    [r'(^[\*_]*(del\(13q\).{0,10}|This page intentionally left blank|( ?\([a-z]\) ?_?)+|[a-z_\d]{1,3} [a-zA-Z])[\*_]*$)', r'删除7:<u>\1</u>'],  # 一些零碎的无关段落
-    [r'(^[\*_]*(www\.|E?mail:|[Hh]ttp|Copyright|All rights).*)', r'删除8:<u>\1</u>'],  # 网址、邮箱、Copyright
-    # [r'(^(?=.{50,350}$)(.*(?:\([a-zA-Z]\)|T\d|T\d[A-Z]{2}|image|\(arrow\)).*(?:\([a-zA-Z]\)|T\d|T\d[A-Z]{2}|image|\(arrow\)).*))', r'删除9:<u>\1</u>'],  # 图注换行部分
-    [r'(^(?=.{0,200}$)(?:\d+\.|\(\d+\)) ?.*[,，] ?[A-Za-z]{2,}[,，] ?[A-Za-z]{2,}$)', r'删除10:<u>\1</u>'],  # 人物介绍，地名结尾
-    [r'(^(The authors? (would like to )?thanks?).*)', r'删除11:<u>\1</u>'],  # 致谢段落
-    [r'(^[\*_]*(Also[,，]? [Ss]ee [Cc]hapter|For more details?[,，]|Acknowledgements are|We (also )?thank|This work was|ISBN|\.com\/books|APPEND[I!]X|Appendix).*)', r'删除12:<u>\1</u>'],  # 一些特殊无关段
-    [r'(^[\\\*_]*((Data )?[Ff]rom：|Source：|Citation：).*)', r'删除13:<u>\1</u>'],  # 文献来源
-    [r'([a-z]\.)( ?[\|\d]+([，, \.\-\|]+\d*)*$)', r'\1删除14:<u>\2</u>'],  # 段末无关数字
-    [r'((^(?=.{0,200}$).*(Department|University|New York|[,， ]UK[\.,， ]|[,， ]USA[\.,， ]|， ?(MD|P[Hh]D)|(MD|P[Hh]D)，).*)|(^(?=.{0,400}$).*(Depa[ri]tment of|Tel：|@[a-z]{2,10}\.com|https?).*)|(^(?=.{0,600}$).*[Ff]rom.*(https?).*))', r'删除15:<u>\1</u>'],  # 部门介绍，网址，学校
+    [r'(^[\*_]*(\w{1,2}( \w{1,2})+|(\w[，\.]?\w{0,1})|[\d_ ]+)[\*_]*$)', r''],  # 无关零碎段，B、a bC、_a_ bC、C21等
+    [r'(^[\\\*_ #]*(\d+|[A-Z]{1,2}|.{0,2}SUGGESTED READING|Suggested Reading|ACKNOWLEDGMENTS?|I. INTRODUCTION|Acknowledge?ments?|[Rr][Ee][Fft][Ee][Rr][Ee][Nn][Cc] ?[Ee][Ss]?[\.:：]?|(Selected )?References?|FURTHER ?READING|Further reading( list)?|5\'\-\-CACGTAAGCTATGCAGGCTT\-\-3\'|Useful websites)[\*_]*$)',  r''],  # 参考文献标题及穿插的标题
+    [r'(^(?=[\w\W]{0,150}$)[A-Z][a-z]+ [A-Z\.]{1,6}，.*\n?.*)', r''],  # 删除4参考遗留的段落
+    [r'(^[\*_]*(del\(13q\).{0,10}|This page intentionally left blank|( ?\([a-z]\) ?_?)+|[a-z_\d]{1,3} [a-zA-Z])[\*_]*$)', r''],  # 一些零碎的无关段落
+    [r'(^[\*_]*(www\.|E?mail:|[Hh]ttp|Copyright|All rights).*)', r''],  # 网址、邮箱、Copyright
+    [r'(^(?=.{0,200}$)(?:\d+\.|\(\d+\)) ?.*[,，] ?[A-Za-z]{2,}[,，] ?[A-Za-z]{2,}$)', r''],  # 人物介绍，地名结尾
+    [r'(^(The authors? (would like to )?thanks?).*)', r''],  # 致谢段落
+    [r'(^[\*_]*(Also[,，]? [Ss]ee [Cc]hapter|For more details?[,，]|Acknowledgements are|We (also )?thank|This work was|ISBN|\.com\/books|.{0,2}APPEND[I!]X|.{0,2}Appendix).*)', r''],  # 一些特殊无关段
+    [r'(^[\\\*_]*((Data )?[Ff]rom：|Source：|Citation：).*)', r''],  # 文献来源
+    [r'([a-z]\.)( ?[\|\d]+([，, \.\-\|]+\d*)*$)', r'\1'],  # 段末无关数字
+    [r'((^(?=.{0,200}$).*(Department|University|New York|[,， ]UK[\.,， ]|[,， ]USA[\.,， ]|， ?(MD|P[Hh]D)|(MD|P[Hh]D)，).*)|(^(?=.{0,400}$).*(Depa[ri]tment of|Tel：|@[a-z]{2,10}\.com|https?).*)|(^(?=.{0,600}$).*[Ff]rom.*(https?).*))', r''],  # 部门介绍，网址，学校
     [r'(.*\n)(\1)+', r'\1']  # 重复段
     ]
 
@@ -123,10 +120,6 @@ class clean_pattern:
     # 通用删除从文章开头到某一段
     def delete_page_start(self, context, pattern):
         # 避免重复加标签，特征最好合并为1-2条，当段保留一条，当段删除一条。
-        # end_pattern = [
-        #     [r'(^[#\*_ ]*(Abstract|I?ntroduction|Section\||INTRODUCTION|CHAPTER _1_|FIrs T-Tr IMEsTEr U LTr Aso UNd|DUKERADIOLOGT_ _CASE REVIEW)：?[_\* ]*$)', 0],
-        #     [r'(^[#*_ ]*(Background|Preface|Foreword)：?[_\* ]*$)', 0],
-        # ]
         end_index = 0
         # con_len = int(len(context)/5)
         flag = False
@@ -139,17 +132,14 @@ class clean_pattern:
             print(pattern)
 
         for i in range(0, end_index):
-            context[i] = "开头批量删除-1:<u>{}</u>".format(context[i])
-            # context[i] = ""
+            # context[i] = "开头批量删除-1:<u>{}</u>".format(context[i])
+            context[i] = ""
 
         return context
 
 
     def delete_page_ending(self, context, ending_starts):
-        # ending_starts = [
-        #     r'(^|\n)[#\* _]*(APPENDIX.{0,8})[#\* _]*($|\n)',
-        #     r'(^|\n)[#\* _]{0,4}(Reference|REFERENCE)[Ss]?[#\* _]{0,4}($|\n)',
-        # ]
+
         for start in ending_starts:
             flag = False
             start_index = len(context)
@@ -167,7 +157,8 @@ class clean_pattern:
 
             if start_index != len(context):
                 for i in range(len(context)-start_index):
-                    context[start_index] = "结尾批量删除-1:<u>{}</u>".format(context[start_index])
+                    # context[start_index] = "结尾批量删除-1:<u>{}</u>".format(context[start_index])
+                    context[start_index] = ""
                     start_index += 1
             if flag:
                 break
@@ -216,8 +207,8 @@ class clean_pattern:
                         start_index = delete_line_index[i - 1][0]
                         end_index = delete_line_index[i][0]
                         for i in range(start_index, end_index + middle[2]):
-                            context[i] = "通用间距删除-1:<u>{}</u>".format(context[i])
-                            # context[i] = ""
+                            # context[i] = "通用间距删除-1:<u>{}</u>".format(context[i])
+                            context[i] = ""
         return context
 
 
@@ -232,25 +223,11 @@ class speicalProces:
         else:
             return False
 
-    def is_person_name_ratio_high(self, text):
-        text = text.strip('*_ ')
-        doc = nlp(text)
-        total_characters = len(text)
-        person_characters = sum(len(ent.text) for ent in doc.ents if ent.label_ == "PERSON")
-        if total_characters == 0:  # 避免除以零的错误
-            return False
-        return (person_characters / total_characters) >= 0.8
 
     def is_page_number(self, con):
 
         if len(re.findall(r'([，；] ?\d+([\-，] ?\d+)*[A-Za-z])|([ _]\d+[_ ])', con)) > 25:
             return True
-
-        # if re.search(r'([^\d][，；\._]+ ?\d+[a-z]?[\d\-]*[a-z]?[\*_]*$)|(^[\*_]*[a-z\\\-A-Z ]+\d+[\*_]*$)|([a-zA-Z][，；\._] ?\d+[a-zA-Z]?([\-，] ?\d+[a-zA-Z]?)*[\*_ ]*$)|( \d+$)', con) and len(con) < 120:
-        #     if re.search(r'(^[#\*\s_]*(CASE|[Cc]ase|[Cc]hapter|Question) \d+)|(^TABLE|SCA|HDL|[Tt]able|CHAPTER)', con):
-        #         return False
-        #     else:
-        #         return True
 
         return False
 
@@ -287,63 +264,65 @@ class speicalProces:
         pp = r'(^(?=.{0,150}$)[\*_\s]*\d+(\.\d+)+[\s_]*[A-Z].*)'
         for i, con in enumerate(context):
             # 目录段落群
-            if i > 0 and i < len(context) - 1 and all((re.search(pp, context[j]) or re.search(r'^目录段删除', context[j])) for j in range(i-1, i+2) if j >= 0 and j < len(context)):
-                context[i] = "目录段删除-1:<u>{}</u>".format(context[i])
-                context[i-1] = "目录段删除-1:<u>{}</u>".format(context[i-1])
-                context[i+1] = "目录段删除-1:<u>{}</u>".format(context[i+1])
+            if i > 0 and i < len(context) - 1 and all((re.search(pp, context[j]) or context[j] == "") for j in range(i-1, i+2) if j >= 0 and j < len(context)):
+                # context[i] = "目录段删除-1:<u>{}</u>".format(context[i])
+                # context[i-1] = "目录段删除-1:<u>{}</u>".format(context[i-1])
+                # context[i+1] = "目录段删除-1:<u>{}</u>".format(context[i+1])
+                context[i] = ""
+                context[i - 1] = ""
+                context[i + 1] = ""
                 continue
 
             # 无关标题及其后一段
             if self.is_title(con):
-                context[i] = "无关标题删除-1:<u>{}</u>".format(context[i])
-                context[i+1] = "无关标题后段删除-1:<u>{}</u>".format(context[i+1])
+                # context[i] = "无关标题删除-1:<u>{}</u>".format(context[i])
+                # context[i+1] = "无关标题后段删除-1:<u>{}</u>".format(context[i+1])
+                context[i] = ""
+                context[i + 1] = ""
                 continue
 
             # 页码段落删除
             if self.is_page_number(con):
-                context[i] = "目录索引段删除-1:<u>{}</u>".format(context[i])
+                # context[i] = "目录索引段删除-1:<u>{}</u>".format(context[i])
+                context[i] = ""
                 continue
-
-            # # 人名段落删除
-            # if self.is_person_name_ratio_high(con):
-            #     context[i] = "人名段删除-1:<u>{}</u>".format(context[i])
-            #     continue
 
             # 零碎段落删除
             count = True if len(re.findall(r'[A-Za-z]', con)) <= 3 and re.search(r'[^A-Za-z]]', con) else False
             if len(con) <= 15 and count and not re.search(r'[:：]|\d+\\?\.', con):
-                context[i] = "零碎段删除-1:<u>{}</u>".format(context[i])
-                # context[i] = ''
+                # context[i] = "零碎段删除-1:<u>{}</u>".format(context[i])
+                context[i] = ""
                 continue
 
             # 参考段落删除
             if self.is_ref(con):
-                context[i] = "参考段删除-1:<u>{}</u>".format(context[i])
+                # context[i] = "参考段删除-1:<u>{}</u>".format(context[i])
+                context[i] = ""
                 continue
 
         return context
 
     def move_hang(self, context, lang):
         if lang == 'en':
-            context = re.sub(r'([^|\n]{45,}[a-z，→\-\d])([ _\*]*\n+\n[ _\*]*)(([\“a-z&][^\.\)]|\d+[^\.\d\\\)s]).{45,})', r'\1|删除1换行|\3', context)
+            context = re.sub(r'([^|\n]{45,}[a-z，→\-\d])([ _\*]*\n+\n[ _\*]*)(([\“a-z&][^\.\)]|\d+[^\.\d\\\)s]).{45,})', r'\1 \3', context)
             # context = re.sub(r'([,，；\(\.,;].*?[^\.\| \*]|\-)([ \*]*\n+\n[ \*]*)([a-z&\(][^\.].{3,})', r'\1|删除换行|\3', context)
-            context = re.sub(r'([a-z，\-])([ _\*]*\n+\n[ _\*]*)([a-z&][^\.\)].{5,})', r'\1|删除换行|\3', context)
-            context = re.sub(r'([a-z，\-])([ _\*]*\n+\n[ _\*]*)([a-z&][^\.\)].{5,})', r'\1|删除换行|\3', context)
+            context = re.sub(r'([a-z，\-])([ _\*]*\n+\n[ _\*]*)([a-z&][^\.\)].{5,})', r'\1 \3', context)
+            context = re.sub(r'([a-z，\-])([ _\*]*\n+\n[ _\*]*)([a-z&][^\.\)].{5,})', r'\1 \3', context)
             # context = re.sub(r'([^|\n]{45,}[a-z，\-\d])([ \*]*\n+\n[ \*]*)((\( ?[^\d]).{45,})', r'\1|删除2换行|\3', context)
-            context = re.sub(r'([a-z，\d\--])([ \*]*\n+\n[ \*]*(Table) [\W\w]*?)(\n+\n[ \*]*)([a-z][^ \--].{45,})', r'\1|删除表格换行|\5\2', context)
-            context = re.sub(r'([^|\n]{45,}[a-z，\-\d])(\n+\n)([ \*]*[A-Ze][A-Z\-\'a-z]+(?: [A-Ze][A-Z\-\'a-z]+)?[ \*]*\n+\n)((?:[a-z&][^\.\)]|\d+[^\.\d\\\)s]).*)', r'\3\1|删除标题插入换行|\4', context)
+            context = re.sub(r'([a-z，\d\--])([ \*]*\n+\n[ \*]*(Table) [\W\w]*?)(\n+\n[ \*]*)([a-z][^ \--].{45,})', r'\1 \5\2', context)
+            context = re.sub(r'([^|\n]{45,}[a-z，\-\d])(\n+\n)([ \*]*[A-Ze][A-Z\-\'a-z]+(?: [A-Ze][A-Z\-\'a-z]+)?[ \*]*\n+\n)((?:[a-z&][^\.\)]|\d+[^\.\d\\\)s]).*)', r'\3\1 \4', context)
 
         return context
 
 
     def move_hang2(self, context, lang):
         if lang == 'en':
-            context = re.sub(r'(\n\n[\*_ ]*(?:\d+\.|\(\d+\)))([\*_ ]*\n\n[\*_ ]*)([A-Z].*)', r'\1|删除序号换行|\3', context)  # 引用序号换行删除
-            context = re.sub(r'(\-|[^|\n]{45,}[a-z，→\)])([ _\*]*\n+\n[ _\*]*)(([\“a-z&\.\(][^\.\)]).{45,})', r'\1|删除0换行|\3', context)
+            context = re.sub(r'(\n\n[\*_ ]*(?:\d+\.|\(\d+\)))([\*_ ]*\n\n[\*_ ]*)([A-Z].*)', r'\1 \3', context)  # 引用序号换行删除
+            context = re.sub(r'(\-|[^|\n]{45,}[a-z，→\)])([ _\*]*\n+\n[ _\*]*)(([\“a-z&\.\(][^\.\)]).{45,})', r'\1 \3', context)
             # context = re.sub(r'(\-|[^|\n]{45,}[a-z，→\)])([ \*]*\n+\n[ \*]*)(([\“a-z&\.\(]).{45,})', r'\1|删除0换行|\3', context)
-            context = re.sub(r'(\n[\* _]*(?:[Ff]ig\.?s?(ure)?|FIG\.?S?(URE)?) ?\d+(?:.\d+)? (?:[Ff]ig\.?s?(ure)?|FIG\.?S?(URE)?) ?\d+(?:.\d+)?)([ _\*]*\n+\n[ _\*]*)(.*)([ _\*]*\n+\n[ _\*]*)(.*)', r'\1|删除3图换行|\7|删除3图换行|\9', context)
-            context = re.sub(r'(\n\n[\*_]*(?:[Ff]ig\.?s?(ure)?|FIG\.?S?(URE)?) ?\d+.{50,})([ \*]*\n+\n[ \*]*)(.*(?:\([a-z](?:，[a-z])?\)|T\d|T\d[A-Z]{2}|image|\(arrow\)).*(?:\([a-z](?:，[a-z])?\)|T\d|T\d[A-Z]{2}|image|\(arrow\)).*)', r'\1|删除1图换行|\5', context)
-            context = re.sub(r'([ \*_]*(?:[Ff]ig\.?s?(ure)?|FIG\.?S?(URE)?) ?\d+(?:.\d+)?)([ _\*]*\n+\n[ _\*]*)(.*[^\)\.\?？ _\*][ _\*]*\n)', r'\1|删除2图换行|\5', context)
+            context = re.sub(r'(\n[\* _]*(?:[Ff]ig\.?s?(ure)?|FIG\.?S?(URE)?) ?\d+(?:.\d+)? (?:[Ff]ig\.?s?(ure)?|FIG\.?S?(URE)?) ?\d+(?:.\d+)?)([ _\*]*\n+\n[ _\*]*)(.*)([ _\*]*\n+\n[ _\*]*)(.*)', r'\1 \7 \9', context)
+            context = re.sub(r'(\n\n[\*_]*(?:[Ff]ig\.?s?(ure)?|FIG\.?S?(URE)?) ?\d+.{50,})([ \*]*\n+\n[ \*]*)(.*(?:\([a-z](?:，[a-z])?\)|T\d|T\d[A-Z]{2}|image|\(arrow\)).*(?:\([a-z](?:，[a-z])?\)|T\d|T\d[A-Z]{2}|image|\(arrow\)).*)', r'\1 \5', context)
+            context = re.sub(r'([ \*_]*(?:[Ff]ig\.?s?(ure)?|FIG\.?S?(URE)?) ?\d+(?:.\d+)?)([ _\*]*\n+\n[ _\*]*)(.*[^\)\.\?？ _\*][ _\*]*\n)', r'\1 \5', context)
 
         return context
 
@@ -386,7 +365,7 @@ def clean_text(context, lang, seq_id):
             item = re.sub(src, tgt, item)
 
         final_results.append(item)
-
+    final_results = [con for con in final_results if con.strip()]
     final_results = sp.move_duan(final_results)
     final_results = [con for con in final_results if con.strip()]
     context = split_token.join(final_results)
@@ -410,27 +389,26 @@ def post_process(context):
 
 
 
-
-# fw = open(r"C:\Users\Administrator\Desktop\original_data\differential_diagnosis_book\differential_diagnosis_book_clean_en.jsonl", "w", encoding="utf-8")
-with open(r"C:\Users\Administrator\Desktop\original_data\differential_diagnosis_book\differential_diagnosis_book_preformat_en_chunk.jsonl", "r", encoding="utf-8") as fs:
+fw = open(r"C:\Users\Administrator\Desktop\original_data\differential_diagnosis_book\differential_diagnosis_book_clean_en.jsonl", "w", encoding="utf-8")
+with open(r"C:\Users\Administrator\Desktop\original_data\differential_diagnosis_book\differential_diagnosis_book_preformat_en.jsonl", "r", encoding="utf-8") as fs:
     lines = fs.readlines()
     # lines = random.sample(lines, 300)
     for items in tqdm(lines):
         item = json.loads(items.strip())
         seq_id = item["seq_id"]
-        pattern = r'7f497e27-cffa-46c9-8d9d-ed6e5a3f6904_10$'
-        if re.search(pattern, seq_id):
-            context = item["text"]
-            lang = item["lang"]
-            title = item["title"]
-            context = clean_text(context, lang, seq_id)
-            context = post_process(context)
-            print(context, '\n---------换页----------')
+        # pattern = r'7f497e27-cffa-46c9-8d9d-ed6e5a3f6904_10$'
+        # if re.search(pattern, seq_id):
+        context = item["text"]
+        lang = item["lang"]
+        title = item["title"]
+        context = clean_text(context, lang, seq_id)
+        context = post_process(context)
+        # print(context, '\n---------换页----------')
         # context = context.split("\n\n")
         # print(len(context))
         # for con in context[:500]:
         #     print(con, '\n')
-#         item["text"] = context
-#         item = json.dumps(item, ensure_ascii=False)
-#         fw.write(item + "\n")
-# fw.close()
+        item["text"] = context
+        item = json.dumps(item, ensure_ascii=False)
+        fw.write(item + "\n")
+fw.close()
