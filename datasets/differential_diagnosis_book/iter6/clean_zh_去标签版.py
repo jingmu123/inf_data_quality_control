@@ -398,8 +398,8 @@ def post_process(context):
 
 
 
-fw = open(r"C:\Users\Administrator\PycharmProjects\untitled\new\reclean6_differential_diagnosis_book_zh.jsonl", "w", encoding="utf-8")
-with open(r"C:\Users\Administrator\PycharmProjects\untitled\new\differential_diagnosis_book_preformat_zh.jsonl", "r", encoding="utf-8") as fs:
+fw = open(r"C:\Users\Administrator\Desktop\original_data\differential_diagnosis_book\differential_diagnosis_book_clean_zh.jsonl", "w", encoding="utf-8")
+with open(r"C:\Users\Administrator\Desktop\original_data\differential_diagnosis_book\zh\differential_diagnosis_book_preformat_zh.jsonl", "r", encoding="utf-8") as fs:
 # with open(r"C:\Users\Administrator\PycharmProjects\untitled\new\test.jsonl", "r", encoding="utf-8") as fs:
     lines = fs.readlines()
     for items in tqdm(lines):
